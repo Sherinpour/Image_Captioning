@@ -1,0 +1,6323 @@
+[
+  {
+    "title": "سارافون دو تیکه مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "36066d70-7a32-4fb3-90be-9379fe8c15e6",
+    "image_url": "https://image.torob.com/base/images/oc/8J/oc8JQi4c2i8_60am.jpg"
+  },
+  {
+    "title": "کراپ دامن مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "کراپ دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ دامن"
+        ]
+      }
+    ],
+    "random_key": "98a35817-ad85-4f19-857c-103f53ed95b0",
+    "image_url": "https://image.torob.com/base/images/5i/Bi/5iBijs6El96eKzMi.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه قرمز زارا 9661/668/600",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "45208e78-5ce9-4bca-a8e0-2451d22a0ff3",
+    "image_url": "https://image.torob.com/base/images/3L/yZ/3LyZZ9N_SKoRfMDK.jpg"
+  },
+  {
+    "title": "سارافون دخترانه مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "55b68316-bdbc-4746-bb0e-1dd878952c88",
+    "image_url": "https://image.torob.com/base/images/_u/Tr/_uTrb0R-og-W7sth.jpg"
+  },
+  {
+    "title": "سارافون تمام چاپ تیپ لاکرا طرح گل های بهاری زمینه سبز روشن دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تیپ لاکرا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تمام چاپ",
+          "گل های بهاری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز روشن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "9aff70db-c14c-43bc-bff2-d482ae490cf8",
+    "image_url": "https://image.torob.com/base/images/_F/T8/_FT8HdGmtBkEuZat.webp"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه با پروانه برجسته مدل الینا کد 1204",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "پروانه برجسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "cd78174c-31a3-4fb8-a712-d9fa9d0d1190",
+    "image_url": "https://image.torob.com/base/images/Qf/HI/QfHIExyTEayZ6mMx.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه صورتی زارا 4012/535/926",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "38bdf3b3-650e-4e2d-842f-aea27e6f4070",
+    "image_url": "https://image.torob.com/base/images/-C/vA/-CvAZGsOUTEhIdxz.jpg"
+  },
+  {
+    "title": "لباس عروس دخترانه مدل نگین - آبی روشن /",
+    "group": "دخترانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی روشن"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس"
+        ]
+      }
+    ],
+    "random_key": "7b16c405-87e1-44c5-a179-d9a7a7f9e8d2",
+    "image_url": "https://image.torob.com/base/images/X4/hs/X4hs1-R63kMzR8lr.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی بچه گانه دخترانه کرمی ال سی وایکیکی S30767Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d39531db-4ebe-46cd-97a3-a6b85cd8f5fb",
+    "image_url": "https://image.torob.com/base/images/VV/f1/VVf1yXm7AfXCrOPF.jpg"
+  },
+  {
+    "title": "کت مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "کت مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f5759bff-6710-4079-b67a-f1fe805e3a62",
+    "image_url": "https://image.torob.com/base/images/uc/T5/ucT57vuwkROTix0b.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "ad908ab5-1bbc-4483-8963-bf3471305e87",
+    "image_url": "https://image.torob.com/base/images/xi/A5/xiA5N8Ar5gxVEF2R.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی وارداتی سبزوسفید تعداد پنج عدد",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز",
+          "سفید"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "پنج عدد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "a3237a88-68a8-4c10-a64d-1af740918b65",
+    "image_url": "https://image.torob.com/base/images/8e/sG/8esGbs7ZHgChs8KS.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه عروسکی",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "111b46dc-f575-4cf5-9c79-163ae2bb2772",
+    "image_url": "https://image.torob.com/base/images/rB/uW/rBuWWHLwU4X0qdF1.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "780317e8-52a6-4ef4-ba5a-53a5fc34736b",
+    "image_url": "https://image.torob.com/base/images/b4/08/b408NWKJ1NnSxfMB.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه یقه ب ب رنگ کرم",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه ب ب"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "91f59c10-0b5e-4fca-83e7-b19bb96babe8",
+    "image_url": "https://image.torob.com/base/images/m1/Bm/m1BmKlsFdMShHPex.webp"
+  },
+  {
+    "title": "لباس مجلسی مدل ارغوان",
+    "group": "نامشخص",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "33a9a76f-f998-41a3-88f6-275ae27548e9",
+    "image_url": "https://image.torob.com/base/images/3t/C1/3tC1udhPV5K2BPht.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه . تاپ و دامن کودک یا بزرگسال ورق بزن رنگ دلخواه",
+    "group": "کودک یا بزرگسال",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ",
+          "دامن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ورق بزن",
+          "رنگ دلخواه"
+        ]
+      }
+    ],
+    "random_key": "2362cac8-9253-4132-a3b1-34cf935299ac",
+    "image_url": "https://image.torob.com/base/images/1-/mK/1-mKmwpnKuRh7HK8.jpg"
+  },
+  {
+    "title": "پیراهن کودکانه مجلسی",
+    "group": "کودکانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "ac674087-6712-4993-a4c3-bc96fb99e560",
+    "image_url": "https://image.torob.com/base/images/3R/PN/3RPNcJTjyMLPNFP8.jpg"
+  },
+  {
+    "title": "پیراهن شیک و مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "aca1eb1d-5da4-4558-9b3b-9f330ff8303f",
+    "image_url": "https://image.torob.com/base/images/dk/03/dk035RvpAHuHDSND.jpg"
+  },
+  {
+    "title": "پیراهن قهوه ای فول کشی نرم صابونی فری سایز بزرگ آستردار سارافون شومیززنانه دخترانه مجلسی ضدحساسیت باالیاف طبیعی ضدتعریق",
+    "group": "زنانه دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون",
+          "شومیز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فول کشی",
+          "نرم صابونی",
+          "بزرگ",
+          "آستردار",
+          "ضدحساسیت",
+          "باالیاف طبیعی",
+          "ضدتعریق"
+        ]
+      }
+    ],
+    "random_key": "15b616c5-266e-4e04-a3a2-7cf99c91f2dc",
+    "image_url": "https://image.torob.com/base/images/MM/QY/MMQYEvME_dbJcBqG.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه آبی زارا 4441/685/427",
+    "group": "دخترانه",
+    "product": "لباس شب مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "51b0a913-713f-4d57-9bc0-76e21b6b7f58",
+    "image_url": "https://image.torob.com/base/images/jS/fA/jSfApGKX_tXwOzjk.jpg"
+  },
+  {
+    "title": "بلوز دامن مجلسی",
+    "group": "نامشخص",
+    "product": "بلوز دامن', 'لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز دامن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "301f6d57-609b-4f8f-9005-ee7eaf7cbaa4",
+    "image_url": "https://image.torob.com/base/images/jM/Jd/jMJd_vu0fXnAn-o1.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی گیپور ترک (ارسال رایگان)",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      }
+    ],
+    "random_key": "37992ac3-8ad2-4d58-89ed-750a13b596cd",
+    "image_url": "https://image.torob.com/base/images/EK/c6/EKc6VVE5gJv2yut-.jpg"
+  },
+  {
+    "title": "پیراهن سرافون مجلسی دخترانه/لباس مجلسی دخترانه/دو تیکه مجلسی",
+    "group": "دخترانه",
+    "product": "پیراهن سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن سارافون مجلسی",
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "df26667e-6832-4d30-b49d-82dcd0d8930b",
+    "image_url": "https://image.torob.com/base/images/45/k7/45k7mRZL0Qarg9Ao.jpg"
+  },
+  {
+    "title": "سرهمی ودامن مجلسی",
+    "group": "نامشخص",
+    "product": "سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی",
+          "دامن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "911c4789-4c26-4695-a929-4bd158666279",
+    "image_url": "https://image.torob.com/base/images/oc/KG/ocKGW-H8NDhS5h24.jpg"
+  },
+  {
+    "title": "دوتکه شومیز دامن دخترانه مجلسی 2 تا 13 سال",
+    "group": "دخترانه",
+    "product": "شومیز دامن",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دوتکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز دامن"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 تا 13 سال"
+        ]
+      }
+    ],
+    "random_key": "d9667872-5eb5-430a-bb80-858446df424c",
+    "image_url": "https://image.torob.com/base/images/gW/JW/gWJWit9fQc8m-JPc.jpg"
+  },
+  {
+    "title": "سه تکه مجلسی شامل بلوز ودامن و تل دخترانه",
+    "group": "دخترانه",
+    "product": "سه تکه مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز",
+          "دامن",
+          "تل مجلسی"
+        ]
+      }
+    ],
+    "random_key": "8467b44d-ec73-4ede-a652-fcf41f4655e2",
+    "image_url": "https://image.torob.com/base/images/0s/Hj/0sHjH0K8Lm-Vx_lr.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه پیراهن مجلسی دخترانه پیراهن بچگانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی",
+          "پیراهن بچگانه"
+        ]
+      }
+    ],
+    "random_key": "9f34daa0-b30b-42f5-8c9b-61edcb4b51ab",
+    "image_url": "https://image.torob.com/base/images/lN/PZ/lNPZDW1TcY83Ons1.jpg"
+  },
+  {
+    "title": "ست سه تیکه دخترانه مجلسی - ١",
+    "group": "دخترانه",
+    "product": "ست مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تیکه"
+        ]
+      }
+    ],
+    "random_key": "25a93f25-5807-47bd-aaf3-cf8c671e8d8c",
+    "image_url": "https://image.torob.com/base/images/zt/GE/ztGEOehDBQ7f4Eqo.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "56f11b2e-da91-4924-b433-596e7ca4802a",
+    "image_url": "https://image.torob.com/base/images/OU/EB/OUEBBkkDZIFMrGY3.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی پولکی مشکی مناسب ۴ تا ۱۰ سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پولکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۴ تا ۱۰ سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "ad89e391-1889-4945-b10c-59a42fc7bd8e",
+    "image_url": "https://image.torob.com/base/images/TR/-o/TR-oq17RoccrWEIH.jpg"
+  },
+  {
+    "title": "پیراهن لینن دخترانه مجلسی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d362bc3b-5790-47db-814c-455e27588952",
+    "image_url": "https://image.torob.com/base/images/fz/kp/fzkp2gVwFwcvry3L.jpg"
+  },
+  {
+    "title": "نام 4 تیکه مجلسی طرح دو",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "۴ تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f7c977d3-4739-4eb5-b135-0b70e6e1ae2d",
+    "image_url": "https://image.torob.com/base/images/Et/CL/EtCLzTqx3H2xHCvh.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه ریکوترز کد 2241510012 - 21164 | Riccotarz",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ریکوترز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "08cccce1-8e01-4849-9a82-5d8756cc5189",
+    "image_url": "https://image.torob.com/base/images/0z/B0/0zB0n8BgLVl_qw4L.jpg"
+  },
+  {
+    "title": "لباس پرنسسی",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "1d588595-943b-44e6-bf06-441f42346f4d",
+    "image_url": "https://image.torob.com/base/images/GO/xQ/GOxQS-Y1XxANaNlK.jpg"
+  },
+  {
+    "title": "لباس مجلسی",
+    "group": "نامشخص",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "40a6874b-559a-4e9a-be3c-6182b3c792d6",
+    "image_url": "https://image.torob.com/base/images/db/i0/dbi0nESwZIdjHyJQ.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه فری سایز",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "a112d7b5-7c9e-4961-952e-255a6fc08850",
+    "image_url": "https://image.torob.com/base/images/e5/Q_/e5Q_EOc3KDQHj6NF.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی گرم دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "78885e49-0be6-41c2-9498-2af097f12ce3",
+    "image_url": "https://image.torob.com/base/images/cq/gT/cqgTsHkLfmCMGMud.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d987d422-9087-4c46-b7e5-b2f9edc9eeb4",
+    "image_url": "https://image.torob.com/base/images/xp/AU/xpAUOCCTs-y_sCOX.jpg"
+  },
+  {
+    "title": "تولید پیراهن مجلسی بچگانه",
+    "group": "بچگانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e84f0a36-f3a3-4007-9346-103faa917f23",
+    "image_url": "https://image.torob.com/base/images/Ep/IS/EpISsQ3v1HsauvHY.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی شیک",
+    "group": "نامشخص",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3771c1b1-8117-42f3-830d-bb12e4b30101",
+    "image_url": "https://image.torob.com/base/images/tD/Cu/tDCuWoJTEU4DgncT.jpg"
+  },
+  {
+    "title": "لباس مجلسی بچگانه دامن تور بالاتنه ساتن تزیین روش با پاپیون هست که نگین میخوره استر و ژپون میخوره",
+    "group": "بچگانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تور",
+          "ساتن"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پاپیون",
+          "نگین",
+          "آستر",
+          "ژپون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "20ac4604-7aeb-4f15-987e-938d0f46a190",
+    "image_url": "https://image.torob.com/base/images/n-/2y/n-2yoBGfeRs_l1uw.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه لباس بچگانه ساتن و تور شیک و زیبا",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن و تور"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی",
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "e35f31e6-5550-462c-a012-6aee43fc16e7",
+    "image_url": "https://image.torob.com/base/images/Xy/Mi/XyMizjxlCP_rpwBv.jpg"
+  },
+  {
+    "title": "لباس بچگانه پیراهن دخترانه طرح کرومی سارافون دخترانه پیراهن دخترانه مجلسی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "کرومی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن",
+          "سارافون",
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "52a9673e-b7df-49ef-b506-4e3234acefc1",
+    "image_url": "https://image.torob.com/base/images/Fo/Ro/FoRobLZ-rP9v8h2A.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی پرنسسی السا بسیار زیبا و تنخور عالی تضمین کیفیت و دوخت",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "تنخور عالی",
+          "تضمین کیفیت",
+          "دوخت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f975aed2-a958-4693-b232-77d0854f6d90",
+    "image_url": "https://image.torob.com/base/images/-N/kr/-NkrNim6FFO-rG43.jpg"
+  },
+  {
+    "title": "لباس مجلسی سایز بزرگ شلوار مخمل کبریتی شیک یشمی سایز بزرگ شلوار شیک یلدایی سبز یشمی مخمل کبریتی سایز 44 تا 65",
+    "group": "نامشخص",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ",
+          "44 تا 65"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "یشمی",
+          "سبز یشمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی",
+          "شلوار"
+        ]
+      }
+    ],
+    "random_key": "76c54eb9-e193-4558-b4b5-0c725fea49ee",
+    "image_url": "https://image.torob.com/base/images/-V/EO/-VEOY6Cz70cmIbDN.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی بچه گانه دخترانه مرجانی ال سی وایکیکی S3AJ66Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مرجانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "8cad4d42-e65c-41c5-a310-fcb7296e5cfe",
+    "image_url": "https://image.torob.com/base/images/UC/Yk/UCYkikBu-Alw_dYL.jpg"
+  },
+  {
+    "title": "سارافون خارجی دخترانه مجلسی(لطفا قبل خریدموجودی بگیرید)",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خارجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "657e58bb-0c7e-40e9-9638-2466801d9195",
+    "image_url": "https://image.torob.com/base/images/yj/qA/yjqAgLLxBzbnLw21.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه سیویل 37D21301324S1 - 17234 | Civil",
+    "group": "دخترانه",
+    "product": "لباس مجلسی دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سیویل",
+          "Civil"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "6ea33070-6ba5-4065-b981-28f6e6cf592b",
+    "image_url": "https://image.torob.com/base/images/-E/lk/-Elk3N7jEHAMJctP.jpg"
+  },
+  {
+    "title": "لباس عروس دخترانه مجلسی پخش عمده پوشاک",
+    "group": "دخترانه",
+    "product": "لباس عروس دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "82c81525-b438-4405-ae5e-7aa55bf49cdd",
+    "image_url": "https://image.torob.com/base/images/mB/gt/mBgt3xED6WvwxbcX.jpg"
+  },
+  {
+    "title": "لباس پرنسسی دخترانه با ساتن آمریکایی و یقه رومی",
+    "group": "دخترانه",
+    "product": "لباس پرنسسی دخترانه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن آمریکایی"
+        ]
+      },
+      {
+        "name": "یقه",
+        "values": [
+          "رومی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "cd4c5b1f-0110-42d2-a9ee-aa84ced1d972",
+    "image_url": "https://image.torob.com/base/images/tj/Dq/tjDqw2_fE0iMK31B.jpg"
+  },
+  {
+    "title": "سارافون دخترانه مجلسی یقه پاپیون pamina",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "یقه",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "pamina"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "41347b04-c653-4c42-92e1-6885097a8120",
+    "image_url": "https://image.torob.com/base/images/Mn/E2/MnE2FI6LmfMdv0GX.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "a9dc69e9-45da-4105-a494-c6edd6ed48d0",
+    "image_url": "https://image.torob.com/base/images/Kn/30/Kn30qeGEcKjBVzPr.jpg"
+  },
+  {
+    "title": "سارافون مجلسی دخترانه از یکسال تا 10 سال",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "یکسال تا 10 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b30cc34b-d17e-4171-bb31-c4fb461e8c15",
+    "image_url": "https://image.torob.com/base/images/b2/tI/b2tIntIMCJSWusZ1.jpg"
+  },
+  {
+    "title": "پیراهن عروس مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن عروس دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "39e04d45-155f-4194-85d8-9299c94d8a54",
+    "image_url": "https://image.torob.com/base/images/ku/_H/ku_HVCPxnErK9rZA.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه بچگانه تور و ساتن پیراهن",
+    "group": "دخترانه بچگانه",
+    "product": "لباس مجلسی دخترانه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تور",
+          "ساتن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی",
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "25909f70-919c-4da3-8288-fecee2b7d5b8",
+    "image_url": "https://image.torob.com/base/images/24/sz/24szM7j0kNyIfa-V.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی سفید دخترانه پنتریستی",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی دخترانه",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پنتریستی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "9a053530-b989-4a55-beb2-ed8e4ef01ee8",
+    "image_url": "https://image.torob.com/base/images/1f/5z/1f5zfFYBRNz33mM-.jpg"
+  },
+  {
+    "title": "سرافون مجلسی دخترانه لباس مجلسی بچگانه دخترانه",
+    "group": "دخترانه بچگانه",
+    "product": "سارافون مجلسی دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرافون مجلسی",
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "290b8f9e-97ce-40f7-9296-8b7490cdb865",
+    "image_url": "https://image.torob.com/base/images/E-/jv/E-jvBrxrWc9JTyx9.jpg"
+  },
+  {
+    "title": "تاپ و دامن مجلسی بچهگانه - شماره 1 / زرد / سایز۱۰۰",
+    "group": "بچه گانه",
+    "product": "تاپ و دامن مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۱۰۰"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ و دامن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "dbb5e416-bff0-4578-9ed1-e23700ebb446",
+    "image_url": "https://image.torob.com/base/images/Wk/Ma/WkMaV8QdcTR-J-Rt.jpg"
+  },
+  {
+    "title": "پیراهن وکراپ مجلسی یارا",
+    "group": "نامشخص",
+    "product": "پیراهن و کراپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "یارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن و کراپ مجلسی"
+        ]
+      }
+    ],
+    "random_key": "88aa279a-45e3-40df-9480-f0a1e2e79aae",
+    "image_url": "https://image.torob.com/base/images/_y/Af/_yAfghigSPKDTFHa.jpg"
+  },
+  {
+    "title": "ست دو تکه پیراهن و توربان دخترانه مجلسی رز",
+    "group": "دخترانه",
+    "product": "ست پیراهن و توربان",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "رز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست پیراهن و توربان مجلسی"
+        ]
+      }
+    ],
+    "random_key": "6434ad2d-6fc8-4fda-9681-f38af930f177",
+    "image_url": "https://image.torob.com/base/images/9Q/_K/9Q_KVVsw23CCwhYk.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی ترک طرح صورتی لب دانتل ....................19081 - صورتی /",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "دانتل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "73827166-48ee-4013-a4c6-af4fa36f7acb",
+    "image_url": "https://image.torob.com/base/images/Rk/jy/RkjykC7eFAGW0PH_.jpg"
+  },
+  {
+    "title": "لباس مجلسی پسرانه طرح یزدان",
+    "group": "پسرانه",
+    "product": "لباس مجلسی پسرانه",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "یزدان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e8db218b-1cc3-47e3-a95f-305ffb95d414",
+    "image_url": "https://image.torob.com/base/images/uc/l4/ucl4SU-qTsZq0wjB.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه سیویل 372908701Y01 - 7152 | Civil",
+    "group": "دخترانه",
+    "product": "لباس مجلسی دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سیویل",
+          "Civil"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "995cb1dc-237a-499c-a5a0-4be7282af0c0",
+    "image_url": "https://image.torob.com/base/images/Xe/Nn/XeNnhc-HLe6nXkHs.jpg"
+  },
+  {
+    "title": "دورس شلوار لباس مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "دورس شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورس شلوار"
+        ]
+      }
+    ],
+    "random_key": "f6204c8a-408b-460c-9178-b2405f65d860",
+    "image_url": "https://image.torob.com/base/images/oR/yp/oRyp9eLsCjBqH919.jpg"
+  },
+  {
+    "title": "پیراهن سوفیا پرنسسی عروسکی سوفیا بسیار شیک و مجلسی مناسب 4 تا 7 سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 7 سال"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی",
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "e317edc5-9fa3-42c3-9ebf-5e546b114a3c",
+    "image_url": "https://image.torob.com/base/images/nz/sJ/nzsJP-br4PmS4nMI.jpg"
+  },
+  {
+    "title": "کت و دامن مجلسی بچگانه مازراتی",
+    "group": "بچگانه",
+    "product": "کت و دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت و دامن"
+        ]
+      }
+    ],
+    "random_key": "d825b16c-4ebb-479c-bfa8-9bf8099a6673",
+    "image_url": "https://image.torob.com/base/images/1d/zw/1dzwa3Kn2ViUJY-O.jpg"
+  },
+  {
+    "title": "تاپ لباس مجلسی مشکی براق پولکی تور دار سایز کوچک",
+    "group": "نامشخص",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پولکی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "تور دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "کوچک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "9372e43a-bc6f-4001-b69f-0871329e69ca",
+    "image_url": "https://image.torob.com/base/images/UM/5Q/UM5Qc_E3egAFmwIN.jpg"
+  },
+  {
+    "title": "لباس مخصوص مجالس با رنگ ترکیب کرمی و دودی سایز ۳۸ تا ۴۸",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "ترکیب کرمی و دودی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۳۸ تا ۴۸"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "a5014f32-8203-4f51-b405-2c8c9cde0b19",
+    "image_url": "https://image.torob.com/base/images/0Y/tz/0Ytzkzpv1u2Luxto.jpg"
+  },
+  {
+    "title": "سارافون پفکی مجلسی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "f9f69b17-7196-472e-b4a6-cf307a82132b",
+    "image_url": "https://image.torob.com/base/images/EH/_5/EH_53He-KZCfHwAc.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه خاکستری زارا 1105/644/807",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب"
+        ]
+      }
+    ],
+    "random_key": "43093581-2fc0-4092-9cab-d2d62c739f98",
+    "image_url": "https://image.torob.com/base/images/-j/4-/-j4-FHtd0opyvFKH.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی ساتن آمریکایی پرنسسی",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن آمریکایی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0b7133a5-4c78-4bed-ab33-3b478821484d",
+    "image_url": "https://image.torob.com/base/images/Bx/7h/Bx7h5JA6waMenJu5.jpg"
+  },
+  {
+    "title": "لباس پرنسسی با پارچه خاصش فقط سایز پنج تا شش سال",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "پنج تا شش سال"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "84a8e4a9-10af-4870-830a-26b39bc46109",
+    "image_url": "https://image.torob.com/base/images/IB/R-/IBR-dCeysJq1WxkO.jpg"
+  },
+  {
+    "title": "مجلسی دخترانه پرنسسی",
+    "group": "دخترانه",
+    "product": "مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "ed669170-489b-4938-bd69-86500abf0c67",
+    "image_url": "https://image.torob.com/base/images/hH/At/hHAtq36oAIN2FV5u.jpg"
+  },
+  {
+    "title": "لباس عروس بچه گانه",
+    "group": "بچه گانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس"
+        ]
+      }
+    ],
+    "random_key": "bd848f34-5797-4437-8f1e-c8d7f2439ab4",
+    "image_url": "https://image.torob.com/base/images/W0/eC/W0eCtoEzVmBCMK_Y.jpg"
+  },
+  {
+    "title": "لباس مجلسی زرد کوتون | 2SMG80072AW",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "75679c31-93a1-4c6a-b87f-000bbaa562e5",
+    "image_url": "https://image.torob.com/base/images/hq/Uo/hqUoE9ZWYWMqNZ4o.jpg"
+  },
+  {
+    "title": "لباس دخترانه شومیز دامن دخترانه سایز 6 ماه تا 6 سال ارسال رایگان ست مجلسی دخترانه لباس مجلسی نوزادی",
+    "group": "دخترانه و نوزادی",
+    "product": "شومیز دامن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "6 ماه تا 6 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز دامن",
+          "ست مجلسی"
+        ]
+      }
+    ],
+    "random_key": "6c3923fa-64fc-49ac-abb2-0b348b347adc",
+    "image_url": "https://image.torob.com/base/images/Ma/F4/MaF4009tlxlFKaiY.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی عیدانه سورمه ای با خرجکار گیپور و تور گلدار و پنل گل با سنجاق",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "خرجکار گیپور",
+          "تور گلدار",
+          "پنل گل",
+          "سنجاق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "2d64994d-54ab-4e94-90ee-22d6ad7d7812",
+    "image_url": "https://image.torob.com/base/images/wd/0q/wd0qsIuT9-G5BEew.jpg"
+  },
+  {
+    "title": "لباس مجلسی پرنسسی رومی مدل جانان دخترانه تک رنگ",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی",
+          "رومی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "تک رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "a02b8c72-e038-429d-b337-7b6cc53de39f",
+    "image_url": "https://image.torob.com/base/images/vo/0B/vo0B1_VgPGayabrh.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه سارفون مجلسی مناسب سن2سال تا10سال سایز40-45-50-55-60 پنبه خواهر فول کیفیت درجه یک دو رنگ",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "2سال تا10سال",
+          "40",
+          "45",
+          "50",
+          "55",
+          "60"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فول کیفیت درجه یک"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن",
+          "سارفون"
+        ]
+      }
+    ],
+    "random_key": "023e0066-e77b-4046-8ec3-5a27a1315087",
+    "image_url": "https://image.torob.com/base/images/Sb/bV/SbbVfzFWBhgCcPYz.jpg"
+  },
+  {
+    "title": "شومیز دامن مجلسی عیدانه دخترانه سایز 40،45،50",
+    "group": "دخترانه",
+    "product": "شومیز دامن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45",
+          "50"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز دامن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "00577537-9b55-4c23-8e66-a5e36860823d",
+    "image_url": "https://image.torob.com/base/images/_L/_F/_L_Fyq0YBFbxaQT6.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه جنس کراش درجه یک",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کراش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "8f70d2ea-c446-4cf7-9766-fb9a38f4ab1e",
+    "image_url": "https://image.torob.com/base/images/U-/GB/U-GB1PFqkjKJ3ZEu.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی یقه کرباتی دخترانه ، زنانه",
+    "group": "دخترانه ، زنانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه کرباتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f09c3c4b-b101-4ca5-a400-e1927ebef2c8",
+    "image_url": "https://image.torob.com/base/images/ti/Zw/tiZwik3J0aJxlTC8.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه طرح گرافیکی زارا 1221/045/022",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گرافیکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "81c52c59-d23a-4876-a66c-128db68d8523",
+    "image_url": "https://image.torob.com/base/images/1J/4F/1J4FMunb0HuBie9T.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه سرمه ای تیره زارا 6050/517/422",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای تیره"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "8955057b-2191-4e6e-9d9d-078472329566",
+    "image_url": "https://image.torob.com/base/images/61/4S/614Szl5kreURa5xS.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه بژ السی وایکیکی S39321Z4",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "39aefdc8-91d3-42dd-b301-8bc70178b52e",
+    "image_url": "https://image.torob.com/base/images/5Y/UD/5YUD_7fQej9TO5Y3.jpg"
+  },
+  {
+    "title": "ست مجلسی اسپرت مدل تک ستاره جنس نخ پنبه",
+    "group": "نامشخص",
+    "product": "ست مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تک ستاره"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست مجلسی"
+        ]
+      }
+    ],
+    "random_key": "9c6764e1-477b-4637-906c-194c01f0542b",
+    "image_url": "https://image.torob.com/base/images/_k/lo/_klofUrIO49BuJKa.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی خامه دوزی مدل آنیتا کد 1180",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "خامه دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "42cfcf2e-dbd0-4686-817d-ce50fb657815",
+    "image_url": "https://image.torob.com/base/images/Z2/tl/Z2tl4KalLb3gczFT.jpg"
+  },
+  {
+    "title": "بیلردامنی مجلسی دخترانه وارداتی",
+    "group": "دخترانه",
+    "product": "بیلردامنی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیلردامنی مجلسی"
+        ]
+      }
+    ],
+    "random_key": "5336e3ed-11e2-4286-b711-22ffd395a027",
+    "image_url": "https://image.torob.com/base/images/4q/yL/4qyL2WdyBC7RBV9G.jpg"
+  },
+  {
+    "title": "شلوار گرمکن قرمز مردانه لباس مجلسی طرح دار و مجلل آقا Lacoste",
+    "group": "مردانه",
+    "product": "شلوار گرمکن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار",
+          "مجلل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lacoste"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "dc475c0c-a1a2-4af1-a64a-94b5cef41bc7",
+    "image_url": "https://image.torob.com/base/images/qV/lD/qVlDXx9vHYwYHbUX.jpg"
+  },
+  {
+    "title": "سارافون مجلسی دخترانه شیک یلدایی",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "2a70e84c-aa5f-491c-a568-8ba6f044be1d",
+    "image_url": "https://image.torob.com/base/images/XJ/kE/XJkELiY3mvIO9Ak7.jpg"
+  },
+  {
+    "title": "پرنسسی دامن بلند پف دخترانه پر تور ساتن امریکایی - سايز",
+    "group": "دخترانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "قد لباس",
+        "values": [
+          "دامن بلند"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پف",
+          "پر تور"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن امریکایی"
+        ]
+      }
+    ],
+    "random_key": "e0446c1e-1918-4c66-9cc8-ec431062dc3e",
+    "image_url": "https://image.torob.com/base/images/F9/DT/F9DTAGXRAhoCjbp0.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه رنگی با ارسال رایگان",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d080f21c-a01c-44f9-a79b-208107226596",
+    "image_url": "https://image.torob.com/base/images/KD/ye/KDyeA8ZmlMqBvOIr.jpg"
+  },
+  {
+    "title": "جلیقه شلوارک مجلسی(کد774)",
+    "group": "نامشخص",
+    "product": "جلیقه شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه شلوارک مجلسی"
+        ]
+      }
+    ],
+    "random_key": "94721e33-480c-4d27-b2e6-cd373728b01b",
+    "image_url": "https://image.torob.com/base/images/Yq/4e/Yq4e9P5fHGV7Oi1P.jpg"
+  },
+  {
+    "title": "لباس پرنسسی دخترانه یقه چیندار",
+    "group": "دخترانه",
+    "product": "لباس پرنسسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "چیندار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "e35aac42-9704-4ac7-ae54-6e8f08768758",
+    "image_url": "https://image.torob.com/base/images/3Y/Il/3YIl3NQYsax6qXFL.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e7910ff6-7fb7-43b2-a0c9-99b44bf338b4",
+    "image_url": "https://image.torob.com/base/images/lC/LW/lCLW_7_c70teIniL.jpg"
+  },
+  {
+    "title": "سارافون دخترانه و زنانه بسیار شیک و مجلسی در سایز و رنگ دلخواه",
+    "group": "دخترانه و زنانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار شیک و مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b652cb4b-58bf-4893-89ef-69ed2951d30c",
+    "image_url": "https://image.torob.com/base/images/4h/WV/4hWVUtp8KQy1SlW0.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه سارافون مجلسی نوزادی عکس تنخورکه مشتری خوبمون فرستاده",
+    "group": "دخترانه و نوزادی",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی",
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "7637b031-33f6-47fc-a16b-256f752ce648",
+    "image_url": "https://image.torob.com/base/images/Cj/Vz/CjVzdugTZVsAZQuh.jpg"
+  },
+  {
+    "title": "دکلته مجلسی کد 0063",
+    "group": "نامشخص",
+    "product": "دکلته مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دکلته"
+        ]
+      }
+    ],
+    "random_key": "f1d3bc59-4646-4510-ab9e-fb8c8c7f0377",
+    "image_url": "https://image.torob.com/base/images/B6/1f/B61fCrRo-Cok_6BX.jpg"
+  },
+  {
+    "title": "پیراهن تور و خامه دوزی دخترانه مجلسی 5 تا 10 سال",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "خامه دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "5 تا 10 سال"
+        ]
+      }
+    ],
+    "random_key": "8f432d4d-0677-4e7d-adfe-a5e3009e6697",
+    "image_url": "https://image.torob.com/base/images/nF/UL/nFULMXX7L5oQ5fhx.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه رگولار پینک گرل 5791 | Pink Girls",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پینک گرل",
+          "Pink Girls"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "564e6e52-577d-4ac6-a5c6-9e6593dd71ec",
+    "image_url": "https://image.torob.com/base/images/-c/0D/-c0DBIPdqT23DXKF.jpg"
+  },
+  {
+    "title": "لباس عروس دخترانه شیک (پس کرایه)",
+    "group": "دخترانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "پس کرایه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس"
+        ]
+      }
+    ],
+    "random_key": "eabe2fda-6651-4c62-ad31-6694328c493e",
+    "image_url": "https://image.torob.com/base/images/KR/Cb/KRCbBy-q633z0hPV.jpg"
+  },
+  {
+    "title": "لباس عروس بچگانه پرنسسی دامن کوتاه زرشکی",
+    "group": "بچگانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "قد لباس",
+        "values": [
+          "دامن کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس"
+        ]
+      }
+    ],
+    "random_key": "7c4f7442-0ec5-4641-936a-63216602ff66",
+    "image_url": "https://image.torob.com/base/images/kP/jG/kPjGgBly5qNpfDqU.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی پرنسسی دخترانه مناسب 6 تا 12 سال",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6 تا 12 سال"
+        ]
+      }
+    ],
+    "random_key": "59ff63b1-9351-4dd3-a4ed-06bdff4d3e38",
+    "image_url": "https://image.torob.com/base/images/zX/L1/zXL1ijB9DidVnunv.jpg"
+  },
+  {
+    "title": "لباس عروس دخترانه مناسب دخترای 5تا 8 ساله",
+    "group": "دخترانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "5 تا 8 ساله"
+        ]
+      }
+    ],
+    "random_key": "b35286f8-81e4-48fc-aebb-320f29faa76b",
+    "image_url": "https://image.torob.com/base/images/sv/xE/svxEdV_Wl9augkl4.jpg"
+  },
+  {
+    "title": "مانتوتونیک بلوزحریرآستردار پیراهن نرم صابونی سارافون شومیززنانه دخترانه مجلسی پارچه ضدحساسیت باالیاف طبیعی ضدتعریق",
+    "group": "زنانه و دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو",
+          "تونیک",
+          "بلوز",
+          "پیراهن",
+          "سارافون",
+          "شومیز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نرم صابونی",
+          "ضدحساسیت",
+          "باالیاف طبیعی",
+          "ضدتعریق",
+          "آستردار",
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "c810b704-71c7-49d3-97f5-5f7a48d73040",
+    "image_url": "https://image.torob.com/base/images/rO/w4/rOw4zZaNQ_FfXlwX.jpg"
+  },
+  {
+    "title": "لباس مجلسی نوزاد سایز35،بلوز دامن مجلسی دخترانه، عالی برای جشن تولد، عکس آتلیه ای، لباس عید",
+    "group": "نوزاد و دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "35"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی",
+          "بلوز دامن مجلسی"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "جشن تولد",
+          "عکس آتلیه ای",
+          "عید"
+        ]
+      }
+    ],
+    "random_key": "2ad8e8e6-4957-47e2-a401-734bfcccd502",
+    "image_url": "https://image.torob.com/base/images/tV/Zf/tVZf4FDXT5_UM7cK.jpg"
+  },
+  {
+    "title": "تاپ یقه اسکی کرمی ریون فول کشی نرم صابونی پیراهن سارافون شومیززنانه دخترانه مجلسی ضدحساسیت باالیاف طبیعی ضدتعریق",
+    "group": "زنانه و دخترانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه اسکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فول کشی",
+          "نرم صابونی",
+          "ضدحساسیت",
+          "باالیاف طبیعی",
+          "ضدتعریق",
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ",
+          "پیراهن",
+          "سارافون",
+          "شومیز"
+        ]
+      }
+    ],
+    "random_key": "e5b17588-557e-4d36-847e-f8f532638286",
+    "image_url": "https://image.torob.com/base/images/s1/p2/s1p2cdSZYgmDdsJB.jpg"
+  },
+  {
+    "title": "پیراهن گلدار مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "e362798d-f100-4ce4-bfa2-9d7f26d672c6",
+    "image_url": "https://image.torob.com/base/images/Tx/3-/Tx3-VCK7x1T1rDu5.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترونه - صورتی /",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "a9e4ecd7-0738-46db-af4d-e645f98e144c",
+    "image_url": "https://image.torob.com/base/images/O9/iW/O9iW_HczFtp-2JMn.jpg"
+  },
+  {
+    "title": "سارافن مجلسی دخترانه بچگانه مخمل کبریتی گل",
+    "group": "دخترانه بچگانه",
+    "product": "سارافن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "be5e7c76-8d00-49cd-a794-9df67eb42c0b",
+    "image_url": "https://image.torob.com/base/images/P7/ab/P7abxpO5dLZtgmOa.jpg"
+  },
+  {
+    "title": "بلوزگیپور پولک دوزی مشکی نرم چیندار پیراهن سارافون شومیززنانه دخترانه مجلسی پارچه ضدحساسیت باالیاف طبیعی ضدتعریق",
+    "group": "زنانه و دخترانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پولک دوزی",
+          "چیندار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نرم",
+          "مجلسی",
+          "ضدحساسیت",
+          "باالیاف طبیعی",
+          "ضدتعریق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز",
+          "پیراهن",
+          "سارافون",
+          "شومیز"
+        ]
+      }
+    ],
+    "random_key": "ebd63602-de3b-4cc8-9d3e-9a7f7c786cea",
+    "image_url": "https://image.torob.com/base/images/ep/7d/ep7d242QpnJNoPIH.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه جاسین مینی کد GRPCM00019518 - 20063 | Cansın Mini",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جاسین مینی",
+          "Cansın Mini"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "2e2ee116-fc7d-4469-a01f-2718924ac3a2",
+    "image_url": "https://image.torob.com/base/images/Xy/qL/XyqLyAw3er6hTjDK.jpg"
+  },
+  {
+    "title": "کراپ شلوار مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "کراپ شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ شلوار مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f2a6626a-1215-4e5f-8347-fd7e122bf3b3",
+    "image_url": "https://image.torob.com/base/images/92/68/9268r6eSeiDIeoFz.jpg"
+  },
+  {
+    "title": "سارافون مجلسی مخمل کبریتی صورتی سایز بزرگ برند TANTOO",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TANTOO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3c92b465-aff8-4a3e-bded-e38ebc52cb77",
+    "image_url": "https://image.torob.com/base/images/MX/0o/MX0o0-Pc_dkoI4VL.jpg"
+  },
+  {
+    "title": "لباس دخترانه مجلسی بلوز شلوار JAMES",
+    "group": "دخترانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "JAMES"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "da9161ec-1ec4-458a-ba3c-c4fd8d76cbb6",
+    "image_url": "https://image.torob.com/base/images/1V/rO/1VrO-ljzXwliqDFY.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه مشکی زارا 0485/568/800",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "347d5769-a738-4408-973b-fb475474809a",
+    "image_url": "https://image.torob.com/base/images/Yd/xs/Ydxse0BN7A-nyNhv.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه یقه مرواریدی pamina",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "مرواریدی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "pamina"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "0b5c76f8-6b47-4edc-acad-e791d62a2256",
+    "image_url": "https://image.torob.com/base/images/MN/8G/MN8Gop7IWQNZzioS.jpg"
+  },
+  {
+    "title": "سه تیکه مجلسی وارداتی با پاپیون جنس بلوز نخ وپنبه شلوار کتان و کت نخ پنبه آستر کشی شده - ۱",
+    "group": "نامشخص",
+    "product": "سه تیکه مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ و پنبه",
+          "کتان"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "آستر کشی شده"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سه تیکه مجلسی"
+        ]
+      }
+    ],
+    "random_key": "a752f666-c57c-4859-b759-b9028ec625f5",
+    "image_url": "https://image.torob.com/base/images/bs/UL/bsULHVsYs1Lluzmm.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه خاکستری زارا 6224/742/802",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "8909ac8b-19ed-494f-9af4-7bba1c710379",
+    "image_url": "https://image.torob.com/base/images/Ji/LC/JiLCjrqnfp1ye9P6.jpg"
+  },
+  {
+    "title": "تاپ مجلسی نگین دارومدل داردخترانه بچه گانه وارداتی جنس پنبه ای",
+    "group": "دخترانه بچه گانه",
+    "product": "تاپ مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "نگین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مجلسی"
+        ]
+      }
+    ],
+    "random_key": "8c36f10c-3e4c-4317-93d1-9df0987270e2",
+    "image_url": "https://image.torob.com/base/images/g7/p_/g7p_bdpDNa5i0Del.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه اهنگیم | Ahengim",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اهنگیم",
+          "Ahengim"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "63fbf831-44d1-43c0-ba05-2353da7a19c7",
+    "image_url": "https://image.torob.com/base/images/Vb/vR/VbvRiJvPeCuUAQCU.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه کد ۷۵۶",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "ab533392-9736-48ff-8a8a-83d72cb5c41e",
+    "image_url": "https://image.torob.com/base/images/kc/rV/kcrVM-Y7gTHjQ7dQ.jpg"
+  },
+  {
+    "title": "لباس مجلسی پرنسسی",
+    "group": "نامشخص",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "9a8cf81f-ae0a-44f4-b3d9-207a99c38253",
+    "image_url": "https://image.torob.com/base/images/4m/or/4moryKwVJmEWev9f.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه/ سرافون مجلسی دخترانه/لباس مجلسی دخترانه/دو تیکه ترند مجلسی",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دخترانه",
+          "سارافون مجلسی دخترانه",
+          "لباس مجلسی دخترانه"
+        ]
+      }
+    ],
+    "random_key": "bf8b3468-49b4-4694-ba42-ca148918db03",
+    "image_url": "https://image.torob.com/base/images/H2/es/H2esG93U1phMBts0.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه اسلیم فیت دایسی کرل S3IA08Z4 | Daisy Girl",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دایسی کرل",
+          "Daisy Girl"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اسلیم فیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "28aa19a4-24f2-40ac-9f3c-327b5acadb74",
+    "image_url": "https://image.torob.com/base/images/ZV/Im/ZVIm2DACeFM477sT.jpg"
+  },
+  {
+    "title": "لباس دخترانه گل برای لباس مجلسی توری بچه گانه عروسی",
+    "group": "دخترانه بچه گانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "عروسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل"
+        ]
+      }
+    ],
+    "random_key": "61dd424c-aaa3-475b-b019-420be1c63dd2",
+    "image_url": "https://image.torob.com/base/images/-A/MF/-AMFra7hTWaxRrJD.jpg"
+  },
+  {
+    "title": "لباس مجلسی صورتی ال سی وایکیکی | S49418Z1",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "2fad9a47-c922-4f79-b226-8b9d42643196",
+    "image_url": "https://image.torob.com/base/images/2p/j-/2pj-Rt4XWCBNaY0j.jpg"
+  },
+  {
+    "title": "بلوز مجلسی وشیک پروانه",
+    "group": "دخترانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پروانه"
+        ]
+      }
+    ],
+    "random_key": "87bdfabd-3a89-442a-8f1a-3a88f98f728f",
+    "image_url": "https://image.torob.com/base/images/Pd/jW/PdjWYSGyYaZspGi4.jpg"
+  },
+  {
+    "title": "لباس مجلسی مجلسی جشن تولد دخترانه تک شاخ MYRISAM لباس توری آستین بلند پرنسس عروسی جشن کریسمس",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "جشن تولد",
+          "عروسی",
+          "جشن کریسمس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسس"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "تک شاخ"
+        ]
+      }
+    ],
+    "random_key": "1692feae-69a1-4815-9e32-46055ef02deb",
+    "image_url": "https://image.torob.com/base/images/LW/gQ/LWgQYg_iC3759UBX.jpg"
+  },
+  {
+    "title": "مجلسی بچگانه زیبا (پس کرایه)",
+    "group": "بچگانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پس کرایه"
+        ]
+      }
+    ],
+    "random_key": "e8dae367-af59-4095-9bfa-31dc17180da0",
+    "image_url": "https://image.torob.com/base/images/ba/xn/baxntz-U7xRRlVDY.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه لباس مجلسی عروسکی پیراهن مجلسی دخترانه پیراهن کوتاه عروسکی پیراهن دخترانه کوتاه مجلسی کوتاه مجلسی پفی",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی عروسکی",
+          "پیراهن مجلسی",
+          "پیراهن عروسکی",
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "قد لباس",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پفی"
+        ]
+      }
+    ],
+    "random_key": "7e467b7e-be5c-4b28-9550-5872756be2aa",
+    "image_url": "https://image.torob.com/base/images/Aj/xg/Ajxg3pDtb7LmDY8I.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه در رنگ های مختلف",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "184fc1e2-ddc9-45ce-a71d-6242623f39dd",
+    "image_url": "https://image.torob.com/base/images/VP/Lo/VPLoRzRcIWTIxx_n.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه خاکستری تیره زارا 3991/564/922",
+    "group": "دخترانه",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری تیره"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      }
+    ],
+    "random_key": "da8f2389-11c4-46d8-91b4-bf01554324ba",
+    "image_url": "https://image.torob.com/base/images/vL/y1/vLy1L9rpNHWhUs1g.jpg"
+  },
+  {
+    "title": "پیراهن شلوارک مجلسی دخترانه وارداتی درجه 1 مدل گلهای بهاری",
+    "group": "دخترانه",
+    "product": "پیراهن شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن شلوارک مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "گل های بهاری"
+        ]
+      }
+    ],
+    "random_key": "0f539b88-92e4-445d-aa5e-dc77d3f796e4",
+    "image_url": "https://image.torob.com/base/images/D4/MK/D4MK7RpWG8xprZmF.jpg"
+  },
+  {
+    "title": "لباس مجلسی صورتی کوتون | 2SMG80063AK",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      }
+    ],
+    "random_key": "8b97ae95-0815-4296-8897-3e1e60b587fb",
+    "image_url": "https://image.torob.com/base/images/vv/2v/vv2vWLdu8rYlB15Y.jpg"
+  },
+  {
+    "title": "کراپ مجلسی دخترانه آستین بلندسایز1تا6سال",
+    "group": "دخترانه",
+    "product": "کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ مجلسی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1تا6سال"
+        ]
+      }
+    ],
+    "random_key": "54b51b94-05c8-44ed-a7e1-7782582d36c5",
+    "image_url": "https://image.torob.com/base/images/55/fW/55fWBbGAZ_918E14.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دختربچه سبز ال سی وایکیکی S2K678Z4",
+    "group": "دختربچه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "9ff7def2-328f-4c76-ac5d-02d20bd14fdd",
+    "image_url": "https://image.torob.com/base/images/dh/Yv/dhYvh1cYnM3PWhG7.jpg"
+  },
+  {
+    "title": "سارافون مجلسی سایز 36 تا 48",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36 تا 48"
+        ]
+      }
+    ],
+    "random_key": "7e858bda-a807-40a0-81b6-9258cadcf19a",
+    "image_url": "https://image.torob.com/base/images/FN/zn/FNznkE_lSK7j2inU.jpg"
+  },
+  {
+    "title": "لباس عروس بچه گانه",
+    "group": "بچه گانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس"
+        ]
+      }
+    ],
+    "random_key": "f85090c1-df30-4ae9-8290-b643062217af",
+    "image_url": "https://image.torob.com/base/images/4H/nH/4HnHFiooaTedV5FE.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی ومهمونی دخترانه ناز و قشنگ",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی",
+          "پیراهن مهمونی"
+        ]
+      }
+    ],
+    "random_key": "865495af-4d88-4846-a2fa-c28d8c6d986e",
+    "image_url": "https://image.torob.com/base/images/lA/pm/lApmecDpvcDrmwfu.jpg"
+  },
+  {
+    "title": "تیشرت و شلوارک بچگانه مجلسی شیک",
+    "group": "بچگانه",
+    "product": "تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "cbc5beb2-bf7e-4f4d-8794-11227944c3c0",
+    "image_url": "https://image.torob.com/base/images/f9/Xw/f9XwpwvIOeHtTO6K.jpg"
+  },
+  {
+    "title": "رویی مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "رویی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رویی مجلسی"
+        ]
+      }
+    ],
+    "random_key": "197fbe4e-bacc-4320-b802-af2ba80dd3f4",
+    "image_url": "https://image.torob.com/base/images/_8/xw/_8xwxE3T9iFIbPdb.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه شیک و مجلسی مناسب حدود سنی 3 تا 9 سال جنس حریر طرح قلب کیفیت عالی تنخور شیک",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 9 سال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      }
+    ],
+    "random_key": "68ea08c5-cee1-4ca0-96e5-496eea3e3814",
+    "image_url": "https://image.torob.com/base/images/Dq/LO/DqLOo-jMyp5ZAUsu.jpg"
+  },
+  {
+    "title": "شومیز دامن مجلسی بچگانه",
+    "group": "بچگانه",
+    "product": "شومیز دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز دامن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "936c3631-d207-41cd-97ff-2e68fe6522dc",
+    "image_url": "https://image.torob.com/base/images/Nl/5_/Nl5_GuwSNfKvUW2O.jpg"
+  },
+  {
+    "title": "مجلسی دخترانه چین طبقاتی",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "چین طبقاتی"
+        ]
+      }
+    ],
+    "random_key": "69e6e37c-614e-4a4a-b59f-b7eb90174245",
+    "image_url": "https://image.torob.com/base/images/7k/ow/7kowtQZT0SZ_4Nvf.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی.پیراهن دخترانه.عیدانه.پیراهن اسپرت دخترانه.جنس مخمل کبریتی و چارخونه کشمیر سپاهان درجه یک.سایز بندی 2 4 6 س",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی",
+          "چارخونه کشمیر"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2",
+          "4",
+          "6"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "536f1420-7a13-4465-a3a4-a035e3b57353",
+    "image_url": "https://image.torob.com/base/images/qu/oe/quoeyG_LwmTuBvpI.jpg"
+  },
+  {
+    "title": "شومیز دامن دخترانه شیک و مجلسی",
+    "group": "دخترانه",
+    "product": "شومیز دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز دامن"
+        ]
+      }
+    ],
+    "random_key": "c1d242b8-b55e-4cf8-9029-fab133afd2fe",
+    "image_url": "https://image.torob.com/base/images/gS/za/gSzaHRvV7IhqCLVb.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی بچگانه نخی خنک تابستانه یک و نیم تا 9 سال سارافن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "یک و نیم تا 9 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8596d7a6-55c0-4a85-abb7-8036acb48ed4",
+    "image_url": "https://image.torob.com/base/images/l7/y3/l7y3Ayz2tHCXqwnH.jpg"
+  },
+  {
+    "title": "کراپ مجلسی وارداتی کد 2253",
+    "group": "نامشخص",
+    "product": "کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      }
+    ],
+    "random_key": "35f49365-8b33-438d-b351-e35620710696",
+    "image_url": "https://image.torob.com/base/images/bb/W8/bbW88XS_9MIFBIAE.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی توری دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "توری"
+        ]
+      }
+    ],
+    "random_key": "22e0f02b-5b74-4b79-a69e-3d049efee273",
+    "image_url": "https://image.torob.com/base/images/yJ/Lq/yJLqyyCUFqvcCKnH.jpg"
+  },
+  {
+    "title": "پیراهن شیک مجلسی قرمز توری شکوفه دار",
+    "group": "نامشخص",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "توری",
+          "شکوفه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "764c6a9f-9c4f-4872-b5f4-1eff11aff9c2",
+    "image_url": "https://image.torob.com/base/images/5D/Yv/5DYvIupjhf4yQx-U.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه کد 855",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f65344dd-8b8e-4a64-9667-6bfc3d8fb4b2",
+    "image_url": "https://image.torob.com/base/images/DI/xn/DIxnkV-KMC3pVUmv.jpg"
+  },
+  {
+    "title": "سه تیکه بلوز دامن و کمربند دخترانه مجلسی مناسب 1 تا 7 سال کد 8001",
+    "group": "دخترانه",
+    "product": "بلوز دامن و کمربند",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 7 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز دامن و کمربند"
+        ]
+      }
+    ],
+    "random_key": "bb7e8e00-7612-49b5-95fe-f5314c8626b3",
+    "image_url": "https://image.torob.com/base/images/Zt/sS/ZtsSIz6mCz0BJsWe.jpg"
+  },
+  {
+    "title": "بلوز مجلسی دخترانه ترک",
+    "group": "دخترانه",
+    "product": "بلوز مجلسی",
+    "entities": [
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e835fb8c-3d8c-4f39-bba7-c85342a7ec02",
+    "image_url": "https://image.torob.com/base/images/MT/QQ/MTQQpu6g99lY0QSc.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه تیشرت دامن قلبی سایز 40 تا 55",
+    "group": "دخترانه",
+    "product": "تیشرت دامن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "40 تا 55"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "قلبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دامن"
+        ]
+      }
+    ],
+    "random_key": "e2eb6251-cdb9-4196-88ff-9d5cf0444cb6",
+    "image_url": "https://image.torob.com/base/images/d5/KD/d5KDrnqNOs5CtISS.jpg"
+  },
+  {
+    "title": "ست بادی و کلاه مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "ست بادی و کلاه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست بادی و کلاه مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d5c7d8ed-32f4-4a54-bc75-baedf49322d9",
+    "image_url": "https://image.torob.com/base/images/9k/gA/9kgAw_gemVeur9mF.jpg"
+  },
+  {
+    "title": "سارافون مجلسی دخترانه-3تیکه-سارافون لی-شومیز-کیف لی-سایز 18 ماه تا 3 سال",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "3 تکه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "18 ماه تا 3 سال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "6be14600-c953-4f44-9b8b-8cce604b6eaf",
+    "image_url": "https://image.torob.com/base/images/Vp/3N/Vp3NCCstCHKsxl6U.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی نوزاد پسته زارا 6198/219/511",
+    "group": "نوزاد",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "cf4db28e-542e-4c25-bb71-e46eb43b4570",
+    "image_url": "https://image.torob.com/base/images/xk/nI/xknICscpj_bwvVk2.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی ناز",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "eb32a34b-5654-4d0d-91f7-eb2af3d52239",
+    "image_url": "https://image.torob.com/base/images/oB/4C/oB4Cda-u3IOJ3R-p.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه سفید / صورتی زارا 1381/605/252",
+    "group": "دخترانه",
+    "product": "لباس شب مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "2cf3b166-16ce-40be-8525-9f167c71101c",
+    "image_url": "https://image.torob.com/base/images/iL/ss/iLss_t0oZBWMs3NK.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه ترک برند",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "ترک"
+        ]
+      }
+    ],
+    "random_key": "8ace2659-ba8f-46f8-9299-e95b1ddb2ca0",
+    "image_url": "https://image.torob.com/base/images/mL/dV/mLdVUwNE7XRU-DjW.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه لباس دخترانه مجلسی بچگانه",
+    "group": "دخترانه بچگانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "c1dd7ba2-da6b-4ea0-8b96-42869f285201",
+    "image_url": "https://image.torob.com/base/images/UJ/qW/UJqWiRM7pbGfps8M.jpg"
+  },
+  {
+    "title": "جلیقه شلوارک مجلسی 741",
+    "group": "نامشخص",
+    "product": "جلیقه شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه",
+          "شلوارک مجلسی"
+        ]
+      }
+    ],
+    "random_key": "c8d976dc-0471-41e7-818d-12d6d82f279f",
+    "image_url": "https://image.torob.com/base/images/25/JP/25JPEVN8KNpqryuo.webp"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه آبی روشن زارا 8073/603/406",
+    "group": "دخترانه",
+    "product": "لباس شب مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی روشن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "dddb256f-8c17-4e1c-aa94-9a6858cfed72",
+    "image_url": "https://image.torob.com/base/images/6A/74/6A741EPcHvf8T4ul.jpg"
+  },
+  {
+    "title": "لباس مجلسی شیک دخترانه",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [],
+    "random_key": "1aff3e5a-75d6-4478-8463-3939683dd9d8",
+    "image_url": "https://image.torob.com/base/images/1Y/-9/1Y-9KK8W1UITBUMo.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه در سه رنگ",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "در سه رنگ"
+        ]
+      }
+    ],
+    "random_key": "f80355de-6a9d-4b72-9e21-8f1cb113ee19",
+    "image_url": "https://image.torob.com/base/images/0c/E7/0cE7LcRpk9zgYhOi.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه پریمارک",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پریمارک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "57bbddbd-718d-46fe-84de-2cd0cabb9b37",
+    "image_url": "https://image.torob.com/base/images/Ol/oF/OloFwN4biieJKJ5H.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه تور",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      }
+    ],
+    "random_key": "8d2099fc-af58-41d8-b1e0-7a3720b9d88c",
+    "image_url": "https://image.torob.com/base/images/rs/k9/rsk9AMVAqFw4WbBK.jpg"
+  },
+  {
+    "title": "دخترونه عروس",
+    "group": "دخترانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس"
+        ]
+      }
+    ],
+    "random_key": "b37274ac-d888-4545-afcb-fffdaa875b24",
+    "image_url": "https://image.torob.com/base/images/9z/Xh/9zXhcM0aQ16-FvuC.jpg"
+  },
+  {
+    "title": "لباس پفی لباس عروس دخترانه فروش اقساطی",
+    "group": "دخترانه",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس پفی",
+          "لباس عروس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فروش اقساطی"
+        ]
+      }
+    ],
+    "random_key": "2d5d010e-116e-4f80-a40b-ac8f6602cbc8",
+    "image_url": "https://image.torob.com/base/images/OU/X8/OUX8IapiWFUp7lNp.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه رزان با ارسال رایگان",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      }
+    ],
+    "random_key": "597e5f23-f85b-4dc9-98b2-3fea118211b4",
+    "image_url": "https://image.torob.com/base/images/df/zx/dfzxPD5IP03lF8ih.jpg"
+  },
+  {
+    "title": "Dresss",
+    "group": "نامشخص",
+    "product": "Dress",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Dresss"
+        ]
+      }
+    ],
+    "random_key": "73af81d7-c263-4cbc-bf5b-f0da6997127c",
+    "image_url": "https://image.torob.com/base/images/IL/gl/ILgll3WyByy0Wi2m.jpg"
+  },
+  {
+    "title": "تیشرت خفاشی سفیدفول کشی نرم صابونی پیراهن سارافون شومیززنانه دخترانه مجلسی ضدحساسیت باالیاف طبیعی ضدتعریق",
+    "group": "زنانه دخترانه",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت خفاشی",
+          "پیراهن",
+          "سارافون",
+          "شومیز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "صابونی",
+          "الیاف طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فول کشی",
+          "نرم",
+          "ضد حساسیت",
+          "ضد تعریق"
+        ]
+      }
+    ],
+    "random_key": "b08799ad-0b43-4e2c-8b52-fcaabc7a83dd",
+    "image_url": "https://image.torob.com/base/images/pr/Ur/prUr__2hqr5bl2vZ.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه خامه دوزی مروارید",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "خامه دوزی",
+          "مروارید"
+        ]
+      }
+    ],
+    "random_key": "04a61bed-2e25-4f33-bc8d-ab5f6e1bb009",
+    "image_url": "https://image.torob.com/base/images/F4/an/F4an_HfAkc2NbJ9_.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه آبی السی وایکیکی S31139Z4",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "d0dff268-9f12-4903-9231-e345011549a0",
+    "image_url": "https://image.torob.com/base/images/p9/AX/p9AX7ITP6JsLq_dg.jpg"
+  },
+  {
+    "title": "سارافون مجلسی دخترانه پیراهن مجلسی",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی",
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d15bb751-d3ff-4303-b450-4c31c7d0ae17",
+    "image_url": "https://image.torob.com/base/images/AY/i2/AYi2E6VS2J-5q4D5.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترونه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "daea613d-50a0-47a0-ac30-a51b4ae8f519",
+    "image_url": "https://image.torob.com/base/images/5Z/rR/5ZrRLaptLx3WlOl-.jpg"
+  },
+  {
+    "title": "لباس مجلسی عروسکی دخترانه سایزبندی 36 الی 42 لباس مجلسی عروسکی بچگانه",
+    "group": "دخترانه",
+    "product": "لباس مجلسی عروسکی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "36 الی 42"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی عروسکی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      }
+    ],
+    "random_key": "b34fdd12-91dc-4b63-a1c7-7eed64570e73",
+    "image_url": "https://image.torob.com/base/images/Pc/Ye/PcYeK9trJ6U5rGV7.jpg"
+  },
+  {
+    "title": "سارافون زیردکمه دار خامه دوزی مجلسی",
+    "group": "نامشخص",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "خامه دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "2042db8d-b3f9-4503-9838-1990465b43a8",
+    "image_url": "https://image.torob.com/base/images/ty/vq/tyvqhFk-ZTkAkk58.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه کت و شلوار دخترانه لباس عید دخترانه",
+    "group": "دخترانه",
+    "product": "کت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت و شلوار"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "عید"
+        ]
+      }
+    ],
+    "random_key": "9bdf1be7-bc71-4f64-a960-87ae673b3323",
+    "image_url": "https://image.torob.com/base/images/2C/kt/2Ckt2l5rXgAfWOWR.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه خاکستری روشن زارا 8675/704/811",
+    "group": "دخترانه",
+    "product": "لباس شب مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری روشن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3663a644-3fb5-4719-8850-4ad36203c35d",
+    "image_url": "https://image.torob.com/base/images/nr/mh/nrmhrbyie9Yx2fGl.jpg"
+  },
+  {
+    "title": "لباس مجلسی کوتاه دخترانه وزنانه",
+    "group": "دخترانه و زنانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "قد لباس",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "55a71100-c604-4a63-a1fe-9629d47dd8d7",
+    "image_url": "https://image.torob.com/base/images/2Z/vf/2ZvfyiWXgwFR5EdB.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه جاسین مینی CNSNMN00018953 - 20063 | Cansın Mini",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Cansın Mini"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b6a35f88-ec1d-4313-a6ed-f5e75185eda3",
+    "image_url": "https://image.torob.com/base/images/Qz/eh/QzehnbZt2-wXENES.jpg"
+  },
+  {
+    "title": "لباس مجلسی کرپ",
+    "group": "نامشخص",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "4a839f2d-27e1-4d3a-887c-c5bdd2ca1f60",
+    "image_url": "https://image.torob.com/base/images/UA/GI/UAGIKIrTx9YD7ImV.jpg"
+  },
+  {
+    "title": "لباس تور عروس کودک",
+    "group": "کودک",
+    "product": "لباس عروس",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "عروس"
+        ]
+      }
+    ],
+    "random_key": "c4d29394-3169-4a5d-93d9-331c9737fc54",
+    "image_url": "https://image.torob.com/base/images/O6/lV/O6lV-_j5NLZClDgj.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی سفید دخترانه کرپ",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "ac22f558-4613-4258-b08f-72491f1189d2",
+    "image_url": "https://image.torob.com/base/images/Db/Wh/DbWhjz7PT4a5n-e4.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی همراه با کیف گردنی",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "همراه با کیف گردنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "dc4e51ff-841a-4c57-b07d-fefa6933e21b",
+    "image_url": "https://image.torob.com/base/images/eI/SI/eISI4OHdXH_XzCkk.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه طرح سبز کوتون 5WMG80041AW9D8",
+    "group": "دخترانه",
+    "product": "لباس شب مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d00d47c9-c3a0-44e3-915b-5cc5b7df3fb1",
+    "image_url": "https://image.torob.com/base/images/EF/dJ/EFdJVUJ-oq9x_aHt.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه کراواتی در سه رنگ زیبا",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی کراواتی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی کراواتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "در سه رنگ زیبا"
+        ]
+      }
+    ],
+    "random_key": "6c220f11-0adc-4304-91e1-668cef6ae7df",
+    "image_url": "https://image.torob.com/base/images/30/0U/300UNWmHazgZPQsi.jpg"
+  },
+  {
+    "title": "سه تکه دخترانه مجلسی",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      }
+    ],
+    "random_key": "3730621f-3373-446f-a0a9-25b523db68af",
+    "image_url": "https://image.torob.com/base/images/R8/sH/R8sHGQ-SFRCAZAIg.jpg"
+  },
+  {
+    "title": "تاپ ریون سبزفول کشی نرم صابونی فری سایز بزرگ پیراهن سارافون شومیززنانه دخترانه مجلسی ضدحساسیت باالیاف طبیعی ضدتعریق",
+    "group": "زنانه و دخترانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فول کشی",
+          "نرم",
+          "صابونی",
+          "فری سایز",
+          "ضدحساسیت باالیاف طبیعی",
+          "ضدتعریق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ",
+          "پیراهن",
+          "سارافون",
+          "شومیز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز",
+          "بزرگ"
+        ]
+      }
+    ],
+    "random_key": "fd682698-f485-4a88-bb61-dc913c08de9f",
+    "image_url": "https://image.torob.com/base/images/N2/sh/N2shlfwonZFRIsM_.jpg"
+  },
+  {
+    "title": "لباس مجلسی کودک",
+    "group": "کودک",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e4c3f5ad-2ded-4d44-b4e1-15569e52cf90",
+    "image_url": "https://image.torob.com/base/images/_t/US/_tUSY___HW2IgYQo.jpg"
+  },
+  {
+    "title": "لباس مجلسی نارنجی یو اس پولو | 931698",
+    "group": "نامشخص",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "یو اس پولو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "c8dbadd1-899b-4e9a-98b1-561f5494b393",
+    "image_url": "https://image.torob.com/base/images/y0/ss/y0ssX8_rqDM3HdbW.jpg"
+  },
+  {
+    "title": "تیشرت و شلوارک مجلسی آستین چین دار دخترانه",
+    "group": "دخترانه",
+    "product": "تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین چین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک مجلسی"
+        ]
+      }
+    ],
+    "random_key": "cb31d958-c3cb-4fd7-bc2d-94f5d51179a8",
+    "image_url": "https://image.torob.com/base/images/O_/wm/O_wmsWyDZgUh2RqW.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی بچه گانه دخترانه کیابی کد kids1735",
+    "group": "دخترانه بچه گانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیابی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "4df3c1d2-a68f-402b-a645-137c99ec0e0c",
+    "image_url": "https://image.torob.com/base/images/wI/RO/wIRO735sEZtrEPdZ.jpg"
+  },
+  {
+    "title": "پیراهن سارافونی مجلسی",
+    "group": "نامشخص",
+    "product": "پیراهن سارافونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن سارافونی مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e4528637-81fa-49ae-b7f6-954868595979",
+    "image_url": "https://image.torob.com/base/images/L0/31/L0315t1WBgWAD8m9.jpg"
+  },
+  {
+    "title": "Panço لباس مجلسی بچه گانه دخترانه",
+    "group": "دخترانه بچه گانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Panço"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f1ea54c9-5e56-450a-baef-fb56bdd25688",
+    "image_url": "https://image.torob.com/base/images/no/bl/nobl14dBP1-0VZI5.jpg"
+  },
+  {
+    "title": "لباس بچه گانه دخترانه عروس مجلسی",
+    "group": "دخترانه بچه گانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "932b4c59-9952-4f85-80e1-21e7fc264a96",
+    "image_url": "https://image.torob.com/base/images/Iz/Tb/IzTb9sUm8NEL78k7.jpg"
+  },
+  {
+    "title": "لباس مجلسی کوتاه لباس مزونی لباس دخترانه",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "قد لباس",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مزونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "37b5dc4c-cd68-4caa-874f-fe16bb424128",
+    "image_url": "https://image.torob.com/base/images/qq/2q/qq2qRM2LYUviqdce.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی نوزاد مایل به قرمز زارا 6892/577/609",
+    "group": "نوزاد",
+    "product": "لباس شب",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مایل به قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "573952d8-1d50-4715-8043-eafd7901aaf6",
+    "image_url": "https://image.torob.com/base/images/S3/k_/S3k_Yd0BtbwknNyI.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی خاص",
+    "group": "نامشخص",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "78445c39-835e-405d-8ae2-569385c3e57a",
+    "image_url": "https://image.torob.com/base/images/rM/Dc/rMDcfP3SVXpI6trC.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی و مهمانی دخترانه یلدایی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی و مهمانی"
+        ]
+      }
+    ],
+    "random_key": "e1ac694b-1600-4904-9f51-4468592acc1b",
+    "image_url": "https://image.torob.com/base/images/pS/3m/pS3mW5xN8jjelG6h.jpg"
+  },
+  {
+    "title": "سارافون مجلسی دخترانه سفید بنفش pamina",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "بنفش"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "pamina"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e325532a-fcd2-4869-901e-804cce11d63d",
+    "image_url": "https://image.torob.com/base/images/3v/Bh/3vBh5IioB9mtni-z.jpg"
+  },
+  {
+    "title": "سارافان کرم رنگ دخترانه مجلسی جنس عالی بی نظیر",
+    "group": "دخترانه",
+    "product": "سارافان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "عالی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی نظیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافان مجلسی"
+        ]
+      }
+    ],
+    "random_key": "9480660b-65cc-4537-9541-b1b3ebd8dfe1",
+    "image_url": "https://image.torob.com/base/images/K-/0Z/K-0ZOQNo0HqTa5C4.jpg"
+  },
+  {
+    "title": "ست کت شلوار شومیز مجلسی",
+    "group": "نامشخص",
+    "product": "ست کت شلوار شومیز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست کت شلوار شومیز مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3fc0ddae-6518-425c-b8cf-851dbb255fc9",
+    "image_url": "https://image.torob.com/base/images/Hj/W1/HjW1aBpDgTKfRnnL.jpg"
+  },
+  {
+    "title": "کت و سارافون مجلسی مخمل کبریتی دخترانه مناسب 2تا 8 سال",
+    "group": "دخترانه",
+    "product": "کت و سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 تا 8 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت و سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "5bb98506-c569-449a-bc7f-77d0c22ab990",
+    "image_url": "https://image.torob.com/base/images/DX/cc/DXccUMg51ZacwdP9.jpg"
+  },
+  {
+    "title": "سارافون مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      }
+    ],
+    "random_key": "21a83681-5570-4d16-8789-b8b5175b0734",
+    "image_url": "https://image.torob.com/base/images/Tw/a0/Twa01DzBeRA1fgUV.jpg"
+  },
+  {
+    "title": "سارافون مجلسی زنانه 2",
+    "group": "زنانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      }
+    ],
+    "random_key": "c3a6f1ac-131a-4598-8720-709e34dac315",
+    "image_url": "https://image.torob.com/base/images/k_/yb/k_yb3j_x3KID4qMs.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی بچگانه دخترانه رنگ گلبهی و سورمه ای جنس کرپ مناسب 2تا12 سال",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گلبهی",
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 تا 12 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "53ae7514-b56b-460b-a3d8-0dbac884b779",
+    "image_url": "https://image.torob.com/base/images/tk/hF/tkhFaiH2pfANclW3.jpg"
+  },
+  {
+    "title": "پیراهن عروس دخترانه لباس پرنسسی ارسال رایگان",
+    "group": "دخترانه",
+    "product": "پیراهن عروس",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروس"
+        ]
+      }
+    ],
+    "random_key": "fc1102c3-d4d0-474b-90dd-8737378c0622",
+    "image_url": "https://image.torob.com/base/images/_a/lN/_alNXYSM4Qz0UufJ.jpg"
+  },
+  {
+    "title": "مدل پرنسسی دامن پف حریر ایرانی - سايز",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "ایرانی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "دامن پف"
+        ]
+      }
+    ],
+    "random_key": "b07f954d-e6b8-4d88-9667-f1ee62a27729",
+    "image_url": "https://image.torob.com/base/images/iy/aG/iyaG26-cdQDPsE9a.jpg"
+  },
+  {
+    "title": "لباس بچه گانه دامن مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "دامن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "4c3e348c-31a4-4a92-9902-1111b1a33730",
+    "image_url": "https://image.torob.com/base/images/Ez/7-/Ez7-6vqM6zxsn4dq.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه مدل ماهور",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ماهور"
+        ]
+      }
+    ],
+    "random_key": "9874e762-1eb8-48a0-baea-62edae3c71ab",
+    "image_url": "https://image.torob.com/base/images/sI/My/sIMy3M72uEfdeNNq.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی گلدوزی نسکافه ای kids",
+    "group": "بچگانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نسکافه ای"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "899203da-014b-41b2-bf16-f03e85e13c0d",
+    "image_url": "https://image.torob.com/base/images/Sc/gJ/ScgJhPRiryIm0U-I.jpg"
+  },
+  {
+    "title": "لباس مجلسی بچگانه پیراهن پرنسسی دخترانه پیراهن توری",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی",
+          "پیراهن پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "633da430-2b77-4551-91f9-1ce5d0d133b7",
+    "image_url": "https://image.torob.com/base/images/i3/0d/i30dd3O1ciyfQiKe.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی تورو لمه باگل برجسته، مناسب 1سال ،تکرنگ",
+    "group": "نامشخص",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تورو",
+          "لمه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "تکرنگ"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "گل برجسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "2ba79324-8ef0-453a-a6ae-0777ce3b3e22",
+    "image_url": "https://image.torob.com/base/images/ue/lN/uelNE9WuO6rCsK_Z.jpg"
+  },
+  {
+    "title": "پیراهن اسپانیایی پرنسسی دخترانه 247 - سایز ۱۰۰",
+    "group": "دخترانه",
+    "product": "پیراهن پرنسسی",
+    "entities": [
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "اسپانیایی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "100"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "16a0da34-3a70-4b2a-95e8-776a82ba9d58",
+    "image_url": "https://image.torob.com/base/images/fa/gd/fagd2fpGKns5xTF0.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه زرد زارا 6113/033/300",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b5eb8e1f-0c0f-441d-bcc8-fd51808c773e",
+    "image_url": "https://image.torob.com/base/images/te/iw/teiwF9afbhuqMc9M.jpg"
+  },
+  {
+    "title": "حراجی سه تیکه مجلسی کت شلوار دخترانه",
+    "group": "دخترانه",
+    "product": "کت شلوار مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت شلوار مجلسی"
+        ]
+      }
+    ],
+    "random_key": "4474a007-ccea-4823-81d1-00e175177965",
+    "image_url": "https://image.torob.com/base/images/BD/O3/BDO3gTtuuXTLRbUA.jpg"
+  },
+  {
+    "title": "پیراهن تابستانه مجلسی قابل اجرا در رنگ دلخواه قیمت گفته شده تا دوسال هستبرای سنین بالاتر پیوی در خدمتم",
+    "group": "نامشخص",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "دلخواه"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "تا دوسال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "d633c87b-d2ee-4f38-9347-07f8e281c157",
+    "image_url": "https://image.torob.com/base/images/yY/dv/yYdvr71J1eii9I4x.jpg"
+  },
+  {
+    "title": "سوییشرت شلوار پولکی مجلسی کلاهدار",
+    "group": "نامشخص",
+    "product": "سوییشرت شلوار",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "پولکی",
+          "کلاهدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سوییشرت شلوار مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3eb877ce-8e77-4287-adfc-375c0c150b0a",
+    "image_url": "https://image.torob.com/base/images/k_/H6/k_H6ioJuwNLcJeFc.jpg"
+  },
+  {
+    "title": "پیراهن لی مجلسی دخترانه مناسب 3 تا 7 سال",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 7 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن لی مجلسی"
+        ]
+      }
+    ],
+    "random_key": "21e0badb-3c80-4aaa-9180-fed6e40fd406",
+    "image_url": "https://image.torob.com/base/images/PL/vH/PLvHL97CPksFDHbW.jpg"
+  },
+  {
+    "title": "لباس پرنسسی عروس مجلسی مخصوص تولد عروسی و مهمانی های شاد دامن تور دار دو طبقه دخترانه و بچه گانه مناسب یک سال تا دوسال",
+    "group": "دخترانه و بچگانه",
+    "product": "لباس پرنسسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "تولد",
+          "عروسی",
+          "مهمانی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "یک سال تا دوسال"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "دامن تور دار",
+          "دو طبقه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس عروس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "1fb5a4be-aab5-458d-952f-910f442799db",
+    "image_url": "https://image.torob.com/base/images/aq/f6/aqf6T-S-5bbwsSTQ.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه پینک گرل 7019 | Pink Girls",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پینک گرل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b588fad1-572a-4b9f-9d20-0aa2b3b38361",
+    "image_url": "https://image.torob.com/base/images/6n/mC/6nmCWCxPL36o1XSk.jpg"
+  },
+  {
+    "title": "لباس ساقدوش عروس بلند توری دخترانه 3/4 لباس مجلسی رسمی شب عروسی قد بلند",
+    "group": "دخترانه",
+    "product": "لباس ساقدوش عروس",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "3/4"
+        ]
+      },
+      {
+        "name": "قد لباس",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "عروسی",
+          "مجلسی",
+          "شب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "1aa0fcfe-bc7b-491d-91ff-1251c613aa1a",
+    "image_url": "https://image.torob.com/base/images/VG/Xg/VGXgDZ-rGQk1gyJZ.jpg"
+  },
+  {
+    "title": "لباس مجلسی مجلسی مجلسی عروسی پرنسس با آستین 3/4 توری دخترانه وینتیج",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین 3/4"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسس",
+          "وینتیج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "caaf7733-3afd-4d67-85eb-3fc2113ae00b",
+    "image_url": "https://image.torob.com/base/images/b5/M6/b5M6JXU9CXeXueVW.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه مدل عروسکی سایز 38-44",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38-44"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3409196d-3827-4e49-bf3e-2a292ccebb72",
+    "image_url": "https://image.torob.com/base/images/Gl/EG/GlEGoqTb6EeFBl7d.jpg"
+  },
+  {
+    "title": "سه تیکه مجلسی کت دامن تاپ سایز60، لباس مجلسی دخترانه، عالی برای جشن، عکس آتلیه ای، رنگ نسکافه ای",
+    "group": "دخترانه",
+    "product": "ست مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نسکافه ای"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "جشن",
+          "عکس آتلیه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت دامن تاپ"
+        ]
+      }
+    ],
+    "random_key": "683f9001-9e1f-4b73-bb6d-f4e63809d730",
+    "image_url": "https://image.torob.com/base/images/wU/ZB/wUZB7MdP6Y6EZtr7.jpg"
+  },
+  {
+    "title": "لباس مجلسی دخترانه آستین بلند مخمل پولکی",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پولکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "6545b551-eb1e-4de5-b702-c7ee0a6bbb47",
+    "image_url": "https://image.torob.com/base/images/3K/Mq/3KMquHgQGhzzB0ix.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی عیدانه دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "94d7dcdc-bbb0-4adf-a094-d04bf8385123",
+    "image_url": "https://image.torob.com/base/images/9k/Me/9kMexFf4DDi6i8gb.jpg"
+  },
+  {
+    "title": "لباس پرنسسی دخترانه شکوفه با ارسال رایگان",
+    "group": "دخترانه",
+    "product": "لباس پرنسسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "شکوفه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "1b2e649f-2ab4-4d5f-98c1-bb377ac13540",
+    "image_url": "https://image.torob.com/base/images/ve/vT/vevTCNIRgcTlWIWi.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه لباس یلدایی لباس مجلسی بچگانه آستین پفکی",
+    "group": "بچگانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین پفکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن",
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "cde6b3fe-46d5-44d5-819e-5011464538cc",
+    "image_url": "https://image.torob.com/base/images/4I/WH/4IWHCJR4NjSqi1_Q.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b0ac4194-f73e-4ea0-9629-a2321c90b91f",
+    "image_url": "https://image.torob.com/base/images/G0/9b/G09bHK2PRtym7c1R.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه کد 15161",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3524a431-3650-4582-9375-af5748c53d23",
+    "image_url": "https://image.torob.com/base/images/OO/v4/OOv4S9QJEOC68BnR.jpg"
+  },
+  {
+    "title": "پیراهن ساتن مجلسی پلیسه شیک و دلبر",
+    "group": "نامشخص",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "دلبر"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "2c302cbf-bf29-4b2f-8031-f25fbb69fefd",
+    "image_url": "https://image.torob.com/base/images/dL/g5/dLg5UX7vh3JHRFKf.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی لباس راحتی دخترانه زنانه پفی خارجی",
+    "group": "دخترانه زنانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "پفی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خارجی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راحتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "2aeafef6-57b5-4537-a1cd-46174ede266d",
+    "image_url": "https://image.torob.com/base/images/W-/7C/W-7C6AhZcOe9wSBQ.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "1e7a662a-81d6-46b9-b771-1ad57bcdee9f",
+    "image_url": "https://image.torob.com/base/images/ZU/2p/ZU2pXbeS3xqY6n3q.jpg"
+  },
+  {
+    "title": "ست 3تیکه لباس مجلسی دخترانه مدل پاندا",
+    "group": "دخترانه",
+    "product": "ست لباس مجلسی",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاندا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "6036d110-5b71-4f3a-ab5a-219204f2b0ca",
+    "image_url": "https://image.torob.com/base/images/z7/E_/z7E_LIy3YktJ4IlH.jpg"
+  },
+  {
+    "title": "لباس مجلسی قرمز مایورال | L24K2971KIRMIZI",
+    "group": "نامشخص",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "8278355c-5f1b-4e3e-924c-6a935bbc9b50",
+    "image_url": "https://image.torob.com/base/images/UA/jD/UAjDz1-mmMcyZL2n.jpg"
+  },
+  {
+    "title": "سارافون مجلسی دخترانه با کیف",
+    "group": "دخترانه",
+    "product": "سارافون مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مجلسی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "با کیف"
+        ]
+      }
+    ],
+    "random_key": "176d62a8-465b-467c-b966-386885e9ab43",
+    "image_url": "https://image.torob.com/base/images/DG/hR/DGhRUHwrANXMSgqO.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه کتان اسلپ بهاره سایز 35 تا50",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان اسلپ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35 تا 50"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "بهاره"
+        ]
+      }
+    ],
+    "random_key": "4d50f869-d95c-4843-a6eb-6522b09f51f0",
+    "image_url": "https://image.torob.com/base/images/vw/G6/vwG6wumSoomaw3YN.jpg"
+  },
+  {
+    "title": "بلوزلمه شاین سفیدنقره ای فول نگین کشی بغل چاک پیراهن سارافون شومیززنانه دخترانه مجلسی پارچه ضدحساسیت طبیعی ضدتعریق",
+    "group": "زنانه دخترانه",
+    "product": "بلوز لمه",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز",
+          "پیراهن",
+          "سارافون",
+          "شومیز"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "فول نگین",
+          "بغل چاک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد حساسیت",
+          "ضد تعریق"
+        ]
+      }
+    ],
+    "random_key": "65c9e82d-a1e5-4a41-a61d-336fe3f52494",
+    "image_url": "https://image.torob.com/base/images/nG/s-/nGs-rSpC77aMmiY1.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی راحتی دخترانه ترک تابستانی",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راحتی"
+        ]
+      }
+    ],
+    "random_key": "c9f53827-6b9d-408d-9214-3d44675c9fc5",
+    "image_url": "https://image.torob.com/base/images/XW/zx/XWzxPuyMcvS8YyoX.jpg"
+  },
+  {
+    "title": "کد 1969 پیراهن مجلسی سفید طرح سودا",
+    "group": "نامشخص",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سودا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "36ba869c-9cb5-46b2-98b8-9594294c5210",
+    "image_url": "https://image.torob.com/base/images/Yu/s1/Yus14Qbdh4XcjLkd.jpg"
+  },
+  {
+    "title": "سارفن السا پرنسسی",
+    "group": "نامشخص",
+    "product": "سارافون پرنسسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "السا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "e555bd7b-26c8-4138-827f-c495c1564686",
+    "image_url": "https://image.torob.com/base/images/u1/AF/u1AF7vYh5xDnnl7z.jpg"
+  },
+  {
+    "title": "تاپ2بنده یقه خشتی قرمزفول کشی بلند فری سایز بزرگ پیراهن سارافون شومیززنانه دخترانه مجلسی ضدحساسیت باالیاف طبیعی ضدتعریق",
+    "group": "زنانه دخترانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فری سایز",
+          "ضد حساسیت",
+          "ضد تعریق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ",
+          "پیراهن",
+          "سارافون",
+          "شومیز"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "خشتی"
+        ]
+      },
+      {
+        "name": "قد لباس",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "دو بنده"
+        ]
+      }
+    ],
+    "random_key": "243a7cb0-3276-4c91-a3e0-9e9b0ecda9f6",
+    "image_url": "https://image.torob.com/base/images/wM/r-/wMr-0lRh4x8SHenu.jpg"
+  },
+  {
+    "title": "پرنسسی مگان",
+    "group": "نامشخص",
+    "product": "لباس پرنسسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مگان"
+        ]
+      }
+    ],
+    "random_key": "1fc7b1b2-043b-4682-8a14-64789f11de65",
+    "image_url": "https://image.torob.com/base/images/UQ/JJ/UQJJbrknqkXMV1lD.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی عیدانه مدل دلآرا",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دلآرا"
+        ]
+      }
+    ],
+    "random_key": "ec240c27-fd77-491f-ba63-537b8d9700cf",
+    "image_url": "https://image.torob.com/base/images/dW/-O/dW-OOj-EC3bv-jcW.jpg"
+  },
+  {
+    "title": "Dress",
+    "group": "نامشخص",
+    "product": "Dress",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Dress"
+        ]
+      }
+    ],
+    "random_key": "f70310b3-fd37-4a4b-a330-68c0db463555",
+    "image_url": "https://image.torob.com/base/images/dJ/vc/dJvcVv4TTcVCPiun.jpg"
+  },
+  {
+    "title": "مجلسی خاص دخترانه",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "9227a686-00f8-4e1b-b440-f151e0cbbc0b",
+    "image_url": "https://image.torob.com/base/images/vw/xj/vwxjB1hhhFyliHfn.jpg"
+  },
+  {
+    "title": "لباس شب مجلسی دخترانه اسطوخودوس زارا 5350/500/439",
+    "group": "دخترانه",
+    "product": "لباس شب مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسطوخودوس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس شب مجلسی"
+        ]
+      }
+    ],
+    "random_key": "5e0e9a1e-29b5-4e9c-a23d-576412b912b8",
+    "image_url": "https://image.torob.com/base/images/qf/QW/qfQW2e9mwqGZPTm4.jpg"
+  },
+  {
+    "title": "سارافون محرمی حصیری نیم آستین مشکی جنس پارچه حصیری 3 سایز 6 تا 9 سال لباس مجلسی لباس دخترانه لباس محرمی شومیز",
+    "group": "دخترانه",
+    "product": "سارافون محرمی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "نیم آستین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حصیری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون محرمی",
+          "لباس مجلسی",
+          "لباس",
+          "شومیز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 سایز 6 تا 9 سال"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "محرمی"
+        ]
+      }
+    ],
+    "random_key": "82a37588-d3cc-485f-bb0c-9cce63d3d63e",
+    "image_url": "https://image.torob.com/base/images/0c/t1/0ct1zVYt-H0rCOun.jpg"
+  },
+  {
+    "title": "Mayoral لباس مجلسی گلدار تابستانی نخی پاپلین دخترانه L23Y3941",
+    "group": "دخترانه",
+    "product": "لباس مجلسی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی",
+          "پاپلین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مجلسی"
+        ]
+      }
+    ],
+    "random_key": "5cea3000-ec39-4db2-8d63-c6cd24503c5b",
+    "image_url": "https://image.torob.com/base/images/Ga/hy/GahyXp6nfVs-LTDI.jpg"
+  },
+  {
+    "title": "دو تکه پیراهن دخترانه و توربان مجلسی رز",
+    "group": "دخترانه",
+    "product": "دو تکه پیراهن و توربان",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن",
+          "توربان مجلسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "رز"
+        ]
+      }
+    ],
+    "random_key": "35bed58c-a558-4fac-93f5-cb44b32a37b5",
+    "image_url": "https://image.torob.com/base/images/Cd/wL/CdwLDBuoiSGut8_O.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی دخترانه پیراهن عروسی",
+    "group": "دخترانه",
+    "product": "پیراهن مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مجلسی",
+          "پیراهن عروسی"
+        ]
+      }
+    ],
+    "random_key": "bf9e8b2a-566e-4d69-bd59-fd464d8a04de",
+    "image_url": "https://image.torob.com/base/images/A6/WS/A6WSXLrKwBvWLOcU.jpg"
+  }
+]

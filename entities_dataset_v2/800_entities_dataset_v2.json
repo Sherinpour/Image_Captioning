@@ -1,0 +1,7347 @@
+[
+  {
+    "title": "استند شارژ ساعت imilab W13",
+    "group": "نامشخص",
+    "product": "استند شارژ ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Imilab W13"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استند شارژ"
+        ]
+      }
+    ],
+    "random_key": "bb5885e7-3507-482a-ae38-a21b94a1b48a",
+    "image_url": "https://image.torob.com/base/images/2o/Pr/2oPrjGXubjjAC-pw.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند هایلو RT2 LS10",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هایلو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "RT2 LS10"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "4d05e1ad-dd96-4fcf-9f1c-cce91e925684",
+    "image_url": "https://image.torob.com/base/images/pq/xB/pqxBrNsfuetDA4Ss.webp"
+  },
+  {
+    "title": "شارژر ساعت سامسونگ Galaxy Watch 5 Pro",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 5 Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "7c532997-dbc6-4c8e-bb01-b26482b8e4da",
+    "image_url": "https://image.torob.com/base/images/r1/My/r1My1m517lZIR-GH.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل AF-BU مناسب برای ساعت هوشمند آمازفیت Bip U Pro",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "آمازفیت Bip U Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "7b9feef4-1824-4863-a196-f6fe75ce7ebe",
+    "image_url": "https://image.torob.com/base/images/by/Zx/byZxEvsu_ZMLXk3u.jpg"
+  },
+  {
+    "title": "کابل شارژ سریع اپل واچ دوکاره کوتتسی Coteetci IWatch Charger PD Fast Charging Cable 26002",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فست شارژ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر دوکاره"
+        ]
+      }
+    ],
+    "random_key": "462f11b0-2e64-41ca-b258-ddd364564517",
+    "image_url": "https://image.torob.com/base/images/yN/8l/yN8lk8iK_ui7XDR1.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اپل واچ سری 1 تا 7 ایکس او XO CX020 USB Type-C Portable Wireless Charger 2.5W Apple Watch",
+    "group": "نامشخص",
+    "product": "شارژر بی سیم",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "سری 1",
+          "سری 7"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "2.5 وات"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB Type-C"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      }
+    ],
+    "random_key": "598e7ec0-1d61-4994-ad40-f83477b9fb61",
+    "image_url": "https://image.torob.com/base/images/Dl/Kg/DlKgapfS2VvI8BTp.jpg"
+  },
+  {
+    "title": "شارژر بی سیم مگنتی اپل واچ سری 1، 2، 3، 4، 5، 6 و 7 با توان 2.5 وات ایکس او CX019",
+    "group": "نامشخص",
+    "product": "شارژر بی سیم",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "سری 1",
+          "سری 2",
+          "سری 3",
+          "سری 4",
+          "سری 5",
+          "سری 6",
+          "سری 7"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "2.5 وات"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم",
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      }
+    ],
+    "random_key": "aecaef32-7457-438d-a733-07c4e98796cc",
+    "image_url": "https://image.torob.com/base/images/3K/Io/3KIoXL1AQoCxXjH1.webp"
+  },
+  {
+    "title": "استند سیلیکونی شارژر اپل واچ مدل استیچ",
+    "group": "نامشخص",
+    "product": "استند شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استند سیلیکونی شارژر"
+        ]
+      }
+    ],
+    "random_key": "3b8685e7-2b64-4218-b88c-8f098ecceb09",
+    "image_url": "https://image.torob.com/base/images/Wq/Ne/WqNeZSuEvWiZoLxE.jpg"
+  },
+  {
+    "title": "کابل فست شارژ تایپ سی به تایپ سی و شارژر وایرلس اپل واچ 60 وات 1.2 متری مک دودو CA-2200",
+    "group": "نامشخص",
+    "product": "کابل شارژ",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "60 وات"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1.2 متری"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "تایپ سی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فست شارژ",
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ",
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "aee42096-b307-4d36-b880-1660ffe80803",
+    "image_url": "https://image.torob.com/base/images/2C/h2/2Ch2pzXSznYmJenP.webp"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت iMILAB W01",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "iMILAB W01"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "ba71fa1f-e86f-408c-a117-022164855b8b",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ سری 10",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "سری 10"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "54066219-fc75-471a-8d36-0c8a9d83a4b4",
+    "image_url": "https://image.torob.com/base/images/8n/nt/8nntBtxWinhp342W.jpg"
+  },
+  {
+    "title": "شارژر مغناطیسی اسمارت واچ",
+    "group": "نامشخص",
+    "product": "شارژر اسمارت واچ",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مغناطیسی"
+        ]
+      }
+    ],
+    "random_key": "68ba418d-1c26-4258-8847-d8b8060c34dc",
+    "image_url": "https://image.torob.com/base/images/I1/Ch/I1ChMPukE42PAswb.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل Galaxia-4 مناسب برای ساعت هوشمند سامسونگ Galaxy Watch 4",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "7307ea02-6111-4679-b097-51ce8c2da45a",
+    "image_url": "https://image.torob.com/base/images/yD/Ax/yDAxWboB0-jucZP8.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "1fd1d673-3ba6-4067-a3a7-e2ce380c8229",
+    "image_url": "https://image.torob.com/base/images/yK/KN/yKKNeAjIqnENocv1.jpg"
+  },
+  {
+    "title": "شارژر ساعت شیائومی Mi7 Pro",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mi7 Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "e4dfaf20-5a09-4b70-9656-2a482d603f9e",
+    "image_url": "https://image.torob.com/base/images/uN/0T/uN0T2sgfQwQd6Fkz.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Wearfit مدل HK10 Pro Plus",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "HK10 Pro Plus"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "69694a6f-d49d-4e3a-9e17-56fa5d4c1f2a",
+    "image_url": "https://image.torob.com/base/images/6L/Mq/6LMq2y5jQIRuPbB8.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند سامسونگ Samsung Gear Sport Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Samsung Gear Sport Smart Watch"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "0c6eb995-ee8a-45c0-a5a8-4f404a051ae1",
+    "image_url": "https://image.torob.com/base/images/Kp/Ih/KpIhWgcW2wBzbzXi.jpg"
+  },
+  {
+    "title": "کابل شارژ اپل واچ جوی روم Joyroom Type-C to iP Watch Magnetic",
+    "group": "نامشخص",
+    "product": "کابل شارژ",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "Magnetic"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      }
+    ],
+    "random_key": "126647d1-c920-4020-a4f9-76585c3dfc2e",
+    "image_url": "https://image.torob.com/base/images/FH/0p/FH0pG6EuQ6zx7vzk.jpg"
+  },
+  {
+    "title": "شارژر ساعت مناسب برای شیائومی Mibro Air Watch",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mibro Air Watch"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "95a8256f-50d5-46b7-abc8-5e0748713edc",
+    "image_url": "https://image.torob.com/base/images/Ky/A0/KyA0YSXKfm3W5xZG.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند موتورولا MOTO 360 2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "موتورولا"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "MOTO 360 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "89af1c9f-e6be-4d97-80ad-58896c6d55f0",
+    "image_url": "https://image.torob.com/base/images/Ev/nf/EvnfB3Fm9by7KXdu.jpg"
+  },
+  {
+    "title": "شارژر وایرلس مگنتی ساعت هوشمند هواوی 2.5 وات راک Rock W28 Type-C Huawei Watch Magnet Wireless Charger سورمه ای",
+    "group": "نامشخص",
+    "product": "شارژر وایرلس",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس",
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هواوی"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "2.5 وات"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "Magnetic",
+          "Wireless"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "4ff877a0-e052-47af-b1f6-fcef75fdfe0a",
+    "image_url": "https://image.torob.com/base/images/6F/C2/6FC2JUhfcrqwwKKl.jpg"
+  },
+  {
+    "title": "کابل شارژر اپل واچ و آیفون مک دودو مدل CH-2980",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ",
+          "آیفون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "fe36b5a2-68c0-488b-a037-b3ddf4a502a6",
+    "image_url": "https://image.torob.com/base/images/1q/wi/1qwiWfzfwS-QrWno.jpg"
+  },
+  {
+    "title": "شارژر مسافرتی 10W مدل ETA-U90 غیر اصل مشکی",
+    "group": "نامشخص",
+    "product": "شارژر",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "10W"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مسافرتی"
+        ]
+      }
+    ],
+    "random_key": "5d8bd16f-8cb3-4ec3-bb2f-a272ca3d1f26",
+    "image_url": "https://image.torob.com/base/images/Q6/G0/Q6G0I6blPZ1wZz8T.jpg"
+  },
+  {
+    "title": "شاژر مغناطیسی اپل واچ جویروم JOYROOM S-IW004 Type c to Iwatch Magnetic Wireless Charger",
+    "group": "نامشخص",
+    "product": "شارژر مغناطیسی",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی",
+          "Wireless"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type c"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شاژر مغناطیسی"
+        ]
+      }
+    ],
+    "random_key": "e5591fc3-beb5-4258-b4c1-9819216f8a46",
+    "image_url": "https://image.torob.com/base/images/dE/MX/dEMXaqrJIFoH9EFe.jpg"
+  },
+  {
+    "title": "پایه شارژ بی سیم اپل واچ آها استایل Ahastyle PT143 for Apple Watch 2 in 1 Magnetic Wireless Charger",
+    "group": "نامشخص",
+    "product": "پایه شارژ بی سیم",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "بی سیم",
+          "Magnetic",
+          "Wireless"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پایه شارژ بی سیم"
+        ]
+      }
+    ],
+    "random_key": "3d8301b5-c029-47bd-bd66-b19cef5d0c15",
+    "image_url": "https://image.torob.com/base/images/ZT/S1/ZTS1kNZilNmpPMHL.jpg"
+  },
+  {
+    "title": "شارژر وایرلس ساعت هوشمند اپل",
+    "group": "نامشخص",
+    "product": "شارژر وایرلس",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "f83d1345-17da-4694-8005-d75340312c58",
+    "image_url": "https://image.torob.com/base/images/YQ/AA/YQAABWrSQFOZuLU9.jpg"
+  },
+  {
+    "title": "کابل شارژر اسمارت واچ مدل GTS 2 به طول یک متر",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GTS 2"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "یک متر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "b1e1bad9-1be2-486c-b216-9d5a5aae23a7",
+    "image_url": "https://image.torob.com/base/images/cl/0N/cl0N5apCmTDqXKNy.jpg"
+  },
+  {
+    "title": "آداپتور شارژر ساعت هوشمند اسمارت رز",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "d94664a2-741a-46c1-afd3-794343ee1edb",
+    "image_url": "https://image.torob.com/base/images/0r/5a/0r5aawVwi1iVLEYP.jpg"
+  },
+  {
+    "title": "کابل شارژر گرین لاین مدل Wch-Charger مناسب برای ساعت هوشمند سامسونگ Galaxy Watch Series",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گرین لاین",
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch Series"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "d14af710-b9c4-4150-b821-8db6083c01fd",
+    "image_url": "https://image.torob.com/base/images/d0/r4/d0r4BsYgf50pMeFU.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Xiaomi Mi Watch Lite / Redmi Watch Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Xiaomi",
+          "Redmi"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mi Watch Lite",
+          "Redmi Watch"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "d61bbc2d-1d97-438b-9e57-ad146e6a94ed",
+    "image_url": "https://image.torob.com/base/images/Bo/lv/Bolvjhra2Jpqj6Td.jpg"
+  },
+  {
+    "title": "Samsung Galaxy Watch 46mm Wireless Charger Dock",
+    "group": "نامشخص",
+    "product": "شارژر داک",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Samsung"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 46mm"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "Wireless"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر داک"
+        ]
+      }
+    ],
+    "random_key": "7be4c5e9-ac21-46ae-8c75-7f093ff97227",
+    "image_url": "https://image.torob.com/base/images/1d/1f/1d1fhe0NOjeFRavN.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند هواوی واچ GT Runner",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هواوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "واچ GT Runner"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "274f6eb9-1d8e-4342-b219-6cb6fee0e81f",
+    "image_url": "https://image.torob.com/base/images/u2/fO/u2fOR0APWeln1snD.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Xiaomi Amazfit GTS / GTR Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Xiaomi"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit GTS",
+          "GTR Smart Watch"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "4b332820-f3c6-43d1-83b1-2fd3d348c8b5",
+    "image_url": "https://image.torob.com/base/images/6w/4h/6w4hDeMew72oU-n2.jpg"
+  },
+  {
+    "title": "شارژر ساعت هایلو مدل Haylou solar neo",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هایلو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Haylou solar neo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "ca91fd4f-ae36-469d-aca5-7ac59c0018ba",
+    "image_url": "https://image.torob.com/base/images/ud/An/udAnUF4vcDh7--VT.jpg"
+  },
+  {
+    "title": "شارژر وایرلس سامسونگ مدل Ep-Yo760 مناسب برای ساعت هوشمند سامسونگ Gear S3",
+    "group": "نامشخص",
+    "product": "شارژر وایرلس",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Gear S3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "cfa8bb50-2cbb-4737-a517-4bd176c58170",
+    "image_url": "https://image.torob.com/base/images/3M/kh/3Mkh989p7rwDvGS9.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت میبرو مدل mibro lite 3 pro",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "mibro lite 3 pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "a1135c8f-4709-4322-a4ae-d1b9b2ae443e",
+    "image_url": "https://image.torob.com/base/images/tv/li/tvliyWplR322RPTm.jpg"
+  },
+  {
+    "title": "شارژر ساعت کیو سی وای مدل QCY GT",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "QCY"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "QCY GT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "5bca82e2-0027-49d8-aabb-697b35f07090",
+    "image_url": "https://image.torob.com/base/images/7m/6v/7m6v3IDGtNJMKtcd.webp"
+  },
+  {
+    "title": "شارژر ساعت هوشمند آنر مدل Honor watch 5",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آنر",
+          "Honor"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Honor watch 5"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "3c832a0a-5491-4fff-b2aa-f95b8aa9099d",
+    "image_url": "https://image.torob.com/base/images/Nn/b-/Nnb-593nvO507ODM.jpg"
+  },
+  {
+    "title": "کابل شارژر اورجینال ساعت سامسونگ مدل Galaxy Watch SM-R825 ساخت سامسونگ در ویتنام",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch SM-R825"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر اورجینال"
+        ]
+      }
+    ],
+    "random_key": "3d9d8498-063e-46be-a349-cf0f6b60b8ec",
+    "image_url": "https://image.torob.com/base/images/ML/Dh/MLDhfth5lSXIIxjk.jpg"
+  },
+  {
+    "title": "کابل شارژر مغناطیسی ساعت هوشمند مدل WATCH Type-C طول 1 متر",
+    "group": "نامشخص",
+    "product": "کابل شارژر مغناطیسی",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1 متر"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر مغناطیسی"
+        ]
+      }
+    ],
+    "random_key": "cb87a7ae-13ee-4766-9bc4-b450b4ad2d4a",
+    "image_url": "https://image.torob.com/base/images/Hv/JI/HvJI9hqWZA-PWPll.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی Amazfit GTR 47mm/42mm",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit GTR 47mm",
+          "42mm"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "067ee51d-436e-4b54-a76b-f6ec83510128",
+    "image_url": "https://image.torob.com/base/images/E2/z_/E2z_KXOSm6MCGRI2.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند میبرو C3",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "C3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "2a6265bf-2dcf-46b9-a201-4c30299da4ae",
+    "image_url": "https://image.torob.com/base/images/Om/pc/OmpcGOToollMhRHD.webp"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند hk9 mini plus",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "hk9 mini plus"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "95f78789-2324-4b7b-b5bf-644cc8c4f6ea",
+    "image_url": "https://image.torob.com/base/images/Hx/0j/Hx0jD6i5vzu9rVke.jpg"
+  },
+  {
+    "title": "شارژر وایرلس مگنتی ساعت هوشمند هواوی 2.5 وات راک Rock W28 Type-C Huawei Watch Magnet Wireless Charger",
+    "group": "نامشخص",
+    "product": "شارژر وایرلس مگنتی",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هواوی",
+          "راک",
+          "Rock"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "2.5 وات"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "وایرلس",
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Huawei Watch"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس",
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس مگنتی"
+        ]
+      }
+    ],
+    "random_key": "7d3d26eb-d70f-41cd-8c98-a5d5f451ac22",
+    "image_url": "https://image.torob.com/base/images/6F/C2/6FC2JUhfcrqwwKKl.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل MB-L مناسب برای ساعت هوشمند میبرو Lite",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "MB-L",
+          "میبرو Lite"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "c9cb7f7c-6b52-478d-ba8f-38a4a1e5f602",
+    "image_url": "https://image.torob.com/base/images/32/d3/32d3KLD82aOdd8nR.jpg"
+  },
+  {
+    "title": "کابل شارژر مغناطیسی گرین لاین مدل magnetic charging مناسب برای اپل واچ",
+    "group": "نامشخص",
+    "product": "کابل شارژر مغناطیسی",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گرین لاین",
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "apple watch"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر مغناطیسی"
+        ]
+      }
+    ],
+    "random_key": "68004b32-455f-4d56-ae3d-bc938e820204",
+    "image_url": "https://image.torob.com/base/images/ID/2Q/ID2QFWzSrxlOzzjj.webp"
+  },
+  {
+    "title": "کابل شارژ ساعت هوشمند میبرو A1",
+    "group": "نامشخص",
+    "product": "کابل شارژ ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "A1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "f79e7e15-fd9d-4013-9f0a-237cb386dfe9",
+    "image_url": "https://image.torob.com/base/images/j-/Sv/j-SvUyrxF7M21_EA.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند آنر مدل honer band 4",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آنر",
+          "Honer"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "honer band 4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "29ec22de-d2d6-4f6d-b024-388fc76a3905",
+    "image_url": "https://image.torob.com/base/images/39/bE/39bES90QjkuKCDIj.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل MI-B06 مناسب برای مچ بند هوشمند شیائومی MI Band 6",
+    "group": "نامشخص",
+    "product": "کابل شارژر مچ بند هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "MI-B06",
+          "مچ بند هوشمند شیائومی MI Band 6"
+        ]
+      }
+    ],
+    "random_key": "8985bf38-08b7-4a02-ae5c-326152c8d944",
+    "image_url": "https://image.torob.com/base/images/IS/NB/ISNBh0vwS0Kf0B-L.jpg"
+  },
+  {
+    "title": "استند شارژر اپل واچ مدل گاوسفید",
+    "group": "نامشخص",
+    "product": "استند شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استند شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "مدل گاوسفید"
+        ]
+      }
+    ],
+    "random_key": "4b61f17e-1266-41a5-a437-71bf2a53cbde",
+    "image_url": "https://image.torob.com/base/images/qy/nw/qynwcRCuuDYlYq47.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوآوی Huawei Watch X4",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Huawei Watch X4"
+        ]
+      }
+    ],
+    "random_key": "88a97e15-8a0f-4cf5-879c-0e8754ceee35",
+    "image_url": "https://image.torob.com/base/images/h0/mx/h0mxO5ScxiTk4BvC.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند شیائومی Redmi Watch 8",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Redmi Watch 8"
+        ]
+      }
+    ],
+    "random_key": "4297af10-3b70-44b5-b781-49157d1a1e73",
+    "image_url": "https://image.torob.com/base/images/Aw/ox/AwoxsU9tGuTyIRu5.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند ایمیکی مدل Imiki SE1",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "ایمیکی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Imiki SE1"
+        ]
+      }
+    ],
+    "random_key": "f6e922df-71a9-483d-a074-cb9637a78b93",
+    "image_url": "https://image.torob.com/base/images/sb/O8/sbO8vReFRzeDOWR_.jpg"
+  },
+  {
+    "title": "کابل اصلی شارژ مغناطیسی اپل واچ Apple Watch Magnetic Charger to USB Cable – A1570",
+    "group": "نامشخص",
+    "product": "کابل شارژ ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Apple Watch",
+          "A1570"
+        ]
+      }
+    ],
+    "random_key": "32b5ebbf-2fa4-4efb-8083-be294d1a0536",
+    "image_url": "https://image.torob.com/base/images/N6/HA/N6HAvHaFEHLTN3ln.jpg"
+  },
+  {
+    "title": "کابل شارژ ساعت هوشمند امازفیت gts2 mini",
+    "group": "نامشخص",
+    "product": "کابل شارژ ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امازفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "gts2 mini"
+        ]
+      }
+    ],
+    "random_key": "3084b6a5-05e9-4cb4-830c-4f4be30ffc74",
+    "image_url": "https://image.torob.com/base/images/rd/uo/rduoyADPM6BzGUHl.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت سامسونگ مدل Galaxy Watch Active2 44mm",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch Active2 44mm"
+        ]
+      }
+    ],
+    "random_key": "28841ebe-e713-4295-a79a-03381f844d36",
+    "image_url": "https://image.torob.com/base/images/ML/Dh/MLDhfth5lSXIIxjk.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل AF-G2 مناسب برای ساعت هوشمند آمازفیت GTR 2",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "آمازفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "AF-G2",
+          "Amazfit GTR 2"
+        ]
+      }
+    ],
+    "random_key": "aab21bed-ee00-4f8c-af4b-9d15183c85e9",
+    "image_url": "https://image.torob.com/base/images/by/Zx/byZxEvsu_ZMLXk3u.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند امیزفیت مدل Nexo",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Nexo"
+        ]
+      }
+    ],
+    "random_key": "cd6b98dd-7061-4b7e-b92a-29b075d5d6af",
+    "image_url": "https://image.torob.com/base/images/gw/OI/gwOI5McHabv838_3.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت گلوریمی GL1",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گلوریمی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GL1"
+        ]
+      }
+    ],
+    "random_key": "4f8355b9-7341-47d3-a771-ca2c4f24d9fd",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Xiaomi مدل Mi Band 7",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Xiaomi"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mi Band 7"
+        ]
+      }
+    ],
+    "random_key": "3c0b94b7-7553-4096-b8e3-ac292b48795c",
+    "image_url": "https://image.torob.com/base/images/Pm/vE/PmvEiIL4izF0VnPH.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت میبرو GS PRO",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GS PRO"
+        ]
+      }
+    ],
+    "random_key": "6fae2f8f-6d9c-46fc-866a-11e780ad0ed8",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر نمایشگر ضربان قلب AW85",
+    "group": "نامشخص",
+    "product": "شارژر نمایشگر ضربان قلب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "AW85"
+        ]
+      }
+    ],
+    "random_key": "d6244177-058d-4957-a99f-560444877af5",
+    "image_url": "https://image.torob.com/base/images/6N/zT/6NzTFbhE_XuBLvsV.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند هوآوی مدل GT3 42MM / 46MM",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GT3 42MM",
+          "GT3 46MM"
+        ]
+      }
+    ],
+    "random_key": "0480a552-9189-4356-a438-64fa1402809c",
+    "image_url": "https://image.torob.com/base/images/rh/n7/rhn7_jsrF743QO1L.jpg"
+  },
+  {
+    "title": "شارژر وایرلس مچ بند هوشمند شیائومی Mi Band 4 - اورجینال (پس کرایه)",
+    "group": "نامشخص",
+    "product": "شارژر مچ بند هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس",
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mi Band 4"
+        ]
+      }
+    ],
+    "random_key": "a5607aab-80d8-49ea-83d3-09bd4152db71",
+    "image_url": "https://image.torob.com/base/images/PW/uf/PWufBaWFHw3DkOOP.jpg"
+  },
+  {
+    "title": "شارژر مگنتی به تایپ سی 1 متری اپل واچ Apple Watch Magnetic Charger Cable A2257",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مگنتی"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "تایپ سی"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1 متری"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Apple Watch",
+          "A2257"
+        ]
+      }
+    ],
+    "random_key": "d5eef4ae-0ca0-4972-841e-d5fef8730f6f",
+    "image_url": "https://image.torob.com/base/images/cd/HV/cdHVQnZ9ZvV5Vc0e.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ مغناطیسی جویروم JR-WQW03",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "JR-WQW03"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      }
+    ],
+    "random_key": "f7481524-866e-4dc3-87e4-3b104de7a281",
+    "image_url": "https://image.torob.com/base/images/X3/ao/X3aoiz_9D3OXcNDt.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل Galaxia-6/40 مناسب برای ساعت هوشمند سامسونگ Galaxy Watch 6 40mm",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 6 40mm"
+        ]
+      }
+    ],
+    "random_key": "6536f092-1be6-4bfd-92bf-8f0d77d5b81d",
+    "image_url": "https://image.torob.com/base/images/q8/RH/q8RHV_RombMn5c_Q.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند موکسوم مدل MX-CB152WL",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "MX-CB152WL"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      }
+    ],
+    "random_key": "a300ff1d-dcf4-42e1-a870-5aded938a454",
+    "image_url": "https://image.torob.com/base/images/wO/iU/wOiUbxTeCTgRcPsi.webp"
+  },
+  {
+    "title": "شارژر ساعت هواوی Huawei GT2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هواوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GT2"
+        ]
+      }
+    ],
+    "random_key": "55110b65-3cbb-4485-8aab-3d42298c25f5",
+    "image_url": "https://image.torob.com/base/images/Ia/LN/IaLNkrDXZA6PJlJe.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ مغناطیسی جویروم JR-WQW03",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "JR-WQW03"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      }
+    ],
+    "random_key": "a5b2aa07-9d62-4cb2-ba67-b96462a6fda8",
+    "image_url": "https://image.torob.com/base/images/X3/ao/X3aoiz_9D3OXcNDt.jpg"
+  },
+  {
+    "title": "کابل شارژ مغناطیسی مدل Z Series مناسب برای گوشی های موبایل سونی Xperia",
+    "group": "نامشخص",
+    "product": "کابل شارژ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ مغناطیسی"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Z Series"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سونی"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      }
+    ],
+    "random_key": "636e3fbd-0188-4292-8423-24d54a15a3b0",
+    "image_url": "https://image.torob.com/base/images/sF/bi/sFbiQ0cEtdhkQ9A4.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Xiaomi Amazfit Verge A1801 / Verge Lite Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر Dock"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit Verge A1801",
+          "Verge Lite Smart Watch"
+        ]
+      }
+    ],
+    "random_key": "e3db3a4d-aaa7-4fad-9d0f-ac3582a7f731",
+    "image_url": "https://image.torob.com/base/images/d1/kR/d1kR0ted_XS7VxaL.jpg"
+  },
+  {
+    "title": "شارژر وایرلس مناسب ساعت هوشمند مدل fashion",
+    "group": "نامشخص",
+    "product": "شارژر وایرلس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      }
+    ],
+    "random_key": "17bea4f7-6399-4599-bcac-42e67a070c2a",
+    "image_url": "https://image.torob.com/base/images/N5/cl/N5cluE87-G9BqQTk.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت جی تب GT9",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GT9"
+        ]
+      }
+    ],
+    "random_key": "39b0abf9-5078-4622-9493-8a2c5481f2dc",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی Xiaomi Amazfit GTS/GTR Dock Charge",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر Dock"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit GTS",
+          "GTR"
+        ]
+      }
+    ],
+    "random_key": "a5e0e7de-7ed0-49cf-a872-df20aea24f8d",
+    "image_url": "https://image.torob.com/base/images/E2/z_/E2z_KXOSm6MCGRI2.jpg"
+  },
+  {
+    "title": "شارژر 120W اورجینال شیائومی GAN توربو",
+    "group": "نامشخص",
+    "product": "شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "120W"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال",
+          "GAN",
+          "توربو"
+        ]
+      }
+    ],
+    "random_key": "5f34b223-2f05-4d07-b20a-8198a0c758f3",
+    "image_url": "https://image.torob.com/base/images/rK/-K/rK-KZ55Oxd_Ddwvw.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Samsung Gear S2 / S3 Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر USB"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Samsung Gear S2 Smart Watch",
+          "S3 Smart Watch"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      }
+    ],
+    "random_key": "be727226-fc88-4f9c-bc73-007c280165e6",
+    "image_url": "https://image.torob.com/base/images/T3/Mk/T3MkbmLxPMl-9KX7.webp"
+  },
+  {
+    "title": "مینی شارژر وایرلس اپل واچ مغناطیسی ویوو WiWU Wireless Charger for APPLE watch M16",
+    "group": "نامشخص",
+    "product": "شارژر وایرلس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مغناطیسی",
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "M16"
+        ]
+      }
+    ],
+    "random_key": "e8d62e8c-0cd5-4183-be48-0ff6b8c56bce",
+    "image_url": "https://image.torob.com/base/images/aL/3n/aL3noUo7dylAUdea.jpg"
+  },
+  {
+    "title": "LG Watch Style Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "ال جی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "LG Watch Style"
+        ]
+      }
+    ],
+    "random_key": "058f64db-381a-49bf-8032-df23f60b317f",
+    "image_url": "https://image.torob.com/base/images/Rj/F0/RjF0LZ5VirD2uQyB.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل MB-CL مناسب برای ساعت هوشمند میبرو Color",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Color"
+        ]
+      }
+    ],
+    "random_key": "8a57427b-0c1f-44d6-aac8-5495c6b8d81e",
+    "image_url": "https://image.torob.com/base/images/xE/Yb/xEYbeA8TgWXi8xDf.jpg"
+  },
+  {
+    "title": "شارژر وایرلسی ساعت کیفیت بسیار عالی",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "9d945b80-1a4a-421a-846d-d26b77eebd01",
+    "image_url": "https://image.torob.com/base/images/i2/NG/i2NG2g_BLBYVa1kO.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Smart Watch Charger HW22PRO/HW22MAX/HW39PRO/HW57PRO/HW57/DT7/DTNO.1",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "HW22PRO",
+          "HW22MAX",
+          "HW39PRO",
+          "HW57PRO",
+          "HW57",
+          "DT7",
+          "DTNO.1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "fb13ea46-046a-4f84-b1ae-5959c587f99f",
+    "image_url": "https://image.torob.com/base/images/rV/ih/rVihitIwmyBYHF1S.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت میبرو S1",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mibro S1"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "96e48fa3-a2f4-420a-a1cd-caf2bc560cb6",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر دستبند سلامتی Xiaomi Amazfit Cor Band USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر دستبند سلامتی",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Xiaomi",
+          "Amazfit"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Cor Band"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "920ad6dc-0fdd-4dc1-bb2e-90668a2c738b",
+    "image_url": "https://image.torob.com/base/images/nS/RF/nSRFQgc81QBaiFN-.jpg"
+  },
+  {
+    "title": "شارژرa14فابریک ویتنام اصلی کارخانه",
+    "group": "نامشخص",
+    "product": "شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "90bdb1ab-9b9c-4f1c-b588-ca7434f6d180",
+    "image_url": "https://image.torob.com/base/images/n9/KH/n9KHPlsjrzGXY-5X.jpg"
+  },
+  {
+    "title": "ست ساعت ، پاوربانک ، ایـرپاد ، کابل و کلگی شارژر ، بند چرم دو رو ، و جعبه خاص مارک X8",
+    "group": "نامشخص",
+    "product": "ست شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل و کلگی شارژر"
+        ]
+      }
+    ],
+    "random_key": "3f376c0c-fffa-49f6-84b5-77a4caa4d06f",
+    "image_url": "https://image.torob.com/base/images/jJ/iO/jJiO96JHc_1d-V5h.jpg"
+  },
+  {
+    "title": "کابل شارژ لایتنینگ و شارژر بی سیم مگنتی اپل واچ سری اس‌ای/8/7/6/5/4/3/2/1 کوتسی 26002",
+    "group": "نامشخص",
+    "product": "کابل شارژ و شارژر بی سیم",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم",
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ سری اس ای",
+          "اپل واچ 8",
+          "اپل واچ 7",
+          "اپل واچ 6",
+          "اپل واچ 5",
+          "اپل واچ 4",
+          "اپل واچ 3",
+          "اپل واچ 2",
+          "اپل واچ 1"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "لایتنینگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ",
+          "شارژر بی سیم"
+        ]
+      }
+    ],
+    "random_key": "e8d6a1fe-547a-499d-a670-f941a3bd8a20",
+    "image_url": "https://image.torob.com/base/images/YL/PU/YLPUQ2cQFoXrdWdd.jpg"
+  },
+  {
+    "title": "کابل اصلی شارژ مغناطیسی اپل واچ Apple Watch Magnetic Charger to USB Cable 1m",
+    "group": "نامشخص",
+    "product": "کابل شارژ مغناطیسی",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Apple Watch"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1 متر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      }
+    ],
+    "random_key": "23e66c90-eaee-4c26-ae46-0257b6eacc4f",
+    "image_url": "https://image.torob.com/base/images/sa/1u/sa1u3pctU_ciWEsw.jpg"
+  },
+  {
+    "title": "کابل شارژ اپل Apple شارژر اپل واچ مناسب اکثر مدل ها",
+    "group": "نامشخص",
+    "product": "کابل شارژ اپل",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ",
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "0a7864f7-c1bc-40da-809d-cdf69c2e7dc2",
+    "image_url": "https://image.torob.com/base/images/ui/Sk/uiSk03s2n0URMP-R.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی XIAOMI AMAZFIT A1608",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی",
+          "XIAOMI",
+          "AMAZFIT"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "A1608"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "1f675e08-8e39-424b-abbe-13414a9cd65f",
+    "image_url": "https://image.torob.com/base/images/Mc/7B/Mc7BOC4Ptlb0Jbsd.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ ایکس او XO CX012 طول 1 متر",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "XO"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1 متر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "43c269c0-2dbf-4d96-8988-2c7de96a0e2a",
+    "image_url": "https://image.torob.com/base/images/8d/YL/8dYLETBFFMLTUmr8.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند گارمین مدل Garmin D2 Mach 1 Titanium Band",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گارمین",
+          "Garmin"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "D2 Mach 1 Titanium Band"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "ca24abd4-3c6a-45ad-b88c-6e4acf5e9341",
+    "image_url": "https://image.torob.com/base/images/Ee/Fn/EeFndNQOKJAwP33S.jpg"
+  },
+  {
+    "title": "شارژر ساعت شیائومی Mibro Lite2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mibro Lite2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "1e1df74a-f32b-4f3e-beb6-3dbcc0d64c6f",
+    "image_url": "https://image.torob.com/base/images/u9/Xn/u9XnBHwk457bHsnH.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل AF-TR2 مناسب برای ساعت هوشمند امیزفیت Trex 2",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "توتو"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Trex 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "f90afe48-b16f-43bb-8b98-836884edc2c0",
+    "image_url": "https://image.torob.com/base/images/by/Zx/byZxEvsu_ZMLXk3u.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند گلوریمی Glorimi GS1 Pro",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گلوریمی",
+          "Glorimi"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GS1 Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "34591160-2292-4906-8b29-12aeabfed83a",
+    "image_url": "https://image.torob.com/base/images/tl/rO/tlrOjlkNk2d2vd1J.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند hk5 hero",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "hk5 hero"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "f883fe65-0fef-4d16-b131-71dde4acac50",
+    "image_url": "https://image.torob.com/base/images/XO/y5/XOy5ko4XhvINnNJ_.jpg"
+  },
+  {
+    "title": "شارژر دوکاره آیفون و اپل واچ اورجینال",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آیفون",
+          "اپل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر دوکاره"
+        ]
+      }
+    ],
+    "random_key": "170f5fbe-e6cd-4033-8fec-65878af560dd",
+    "image_url": "https://image.torob.com/base/images/ci/1_/ci1_HPOOen53TPPt.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت جی تب GS8",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "جی تب GS8"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "4d354e31-ce74-44d0-8075-4bb3713c32b8",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اپل واچ 1.5 متری مک دودو Mcdodo Wireless Charger For Apple Watch CH-2970",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "مک دودو"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1.5 متر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      }
+    ],
+    "random_key": "ef21d5a6-91c9-410e-a762-e74ebab26e02",
+    "image_url": "https://image.torob.com/base/images/_4/pf/_4pfVPwHw8YkmedS.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Smart Watch Charger X16/T500+/W6-PRO/T3P/T200Puls/i8/T900PROMAX",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Smart Watch Charger X16",
+          "T500+",
+          "W6-PRO",
+          "T3P",
+          "T200Puls",
+          "i8",
+          "T900PROMAX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "5bca1f64-93a8-4bf0-b1f8-63394bfe3bd1",
+    "image_url": "https://image.torob.com/base/images/oi/4T/oi4T1ZIFqZrKVZbH.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Wearfit مدل HK9 Ultra",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "HK9 Ultra"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "88b3797e-f50f-40ea-8e53-e6d01c746b04",
+    "image_url": "https://image.torob.com/base/images/XJ/ZW/XJZW-IpcklZexssM.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ ویوو Wi-M19",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "ویوو Wi-M19"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "a1910e4b-ab1c-4935-a2e3-e9f4b3d8891b",
+    "image_url": "https://image.torob.com/base/images/XH/do/XHdoK7lu3jQUISUA.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Xiaomi Amazfit T-Rex اورجینال",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Xiaomi Amazfit T-Rex"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "77828f13-a485-45d8-a9ee-b49dbf5eaf21",
+    "image_url": "https://image.torob.com/base/images/dB/YB/dBYBhl8qQhhg1trU.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند ایمیلب مدل Imilab W01",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "ایمیلَب"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Imilab W01"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "c6bfda79-b976-436a-9935-50d7590cb81c",
+    "image_url": "https://image.torob.com/base/images/wL/LH/wLLH2P8mgbWYK7d3.jpg"
+  },
+  {
+    "title": "شارژر اورجینال اپل واچ سری 3",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ سری 3"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "0c1606f1-5279-4a4f-805f-9d74c89b2eae",
+    "image_url": "https://image.torob.com/base/images/-w/Jj/-wJjOttC__hlELF0.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند مدل Hello Watch 3",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Hello Watch 3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "64b7b803-351e-4cd3-82e4-ba4e5f76fba1",
+    "image_url": "https://image.torob.com/base/images/XJ/ZW/XJZW-IpcklZexssM.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت iMILAB W02",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "iMILAB W02"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "ca70a03e-0dc6-420e-ab7a-6bf1fcb4cbac",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژ مگ سیف اپل واچ مدل magnetic fast charger to usb-c",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مگ سیف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فست شارژ"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB-C"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مگ سیف"
+        ]
+      }
+    ],
+    "random_key": "333d95c9-8a4b-412f-a1e3-06479d1d6b1e",
+    "image_url": "https://image.torob.com/base/images/-k/nT/-knTZN-FOPPksGxS.jpg"
+  },
+  {
+    "title": "استند شارژ اپل واچ موشی مدل Flekto",
+    "group": "نامشخص",
+    "product": "استند شارژ",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "موشی مدل Flekto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استند شارژ"
+        ]
+      }
+    ],
+    "random_key": "9f0188c4-ec13-4980-bfae-95f76e0239a7",
+    "image_url": "https://image.torob.com/base/images/97/3z/973zchZnqrvtkqiE.jpg"
+  },
+  {
+    "title": "شارژر مغناطیسی ساعت هوشمند بیوا مدل WLC-06 کد 100043",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "WLC-06 کد 100043"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مغناطیسی"
+        ]
+      }
+    ],
+    "random_key": "49e890eb-f7bd-463a-b2e0-d9443d4e0ca7",
+    "image_url": "https://image.torob.com/base/images/s2/RB/s2RBWDRsTFrjFZAz.jpg"
+  },
+  {
+    "title": "ساعت سری 8 طلا اصلی مدل WS09 ULTRA دارای 3 عدد دستبند دارای شارژر وایرلیس و نگه داری شارژ بالا",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "WS09 ULTRA"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "e88ad528-53a3-48c2-8509-dd0b584dda94",
+    "image_url": "https://image.torob.com/base/images/hD/-l/hD-lT162mWxY95PC.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند طرح گیره ای",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گیره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر گیره ای"
+        ]
+      }
+    ],
+    "random_key": "d295fbf4-02ac-4c19-bc88-9a6ba7068638",
+    "image_url": "https://image.torob.com/base/images/cv/rs/cvrshuadEwYCvhhF.jpg"
+  },
+  {
+    "title": "Huawei Honor Watch Magic Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Honor Watch Magic"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "315c462b-1325-49f3-95eb-aeb6299ebde6",
+    "image_url": "https://image.torob.com/base/images/u9/5O/u95OUtLKZUWNB9RX.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل AF-BU مناسب برای ساعت هوشمند آمازفیت Bip U Pro",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آمازفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Bip U Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "3c13b517-7ae4-4752-9b8a-adafd00ccd5b",
+    "image_url": "https://image.torob.com/base/images/by/Zx/byZxEvsu_ZMLXk3u.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند گلوریمی مدل Glorimi Gr1",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گلوریمی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Glorimi Gr1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "2dcbf459-ac37-45b2-afd1-b1f06f40bec5",
+    "image_url": "https://image.torob.com/base/images/cj/4W/cj4WQmyFU1eO6I0Z.jpg"
+  },
+  {
+    "title": "شارژر مغناطیسی به تایپ سی اصلی گلکسی واچ سامسونگ Samsung EP-OR900 Charging Dock Galaxy Watch 5 Pro 4/4 Classic/3/Active/Active 2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 5 Pro",
+          "Galaxy Watch 4",
+          "Galaxy Watch 4 Classic",
+          "Galaxy Watch 3",
+          "Galaxy Watch Active",
+          "Galaxy Watch Active 2"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مغناطیسی به تایپ سی",
+          "شارژر اصلی",
+          "داک شارژر"
+        ]
+      }
+    ],
+    "random_key": "f3148377-201a-4f5f-821c-a0beb06762a9",
+    "image_url": "https://image.torob.com/base/images/wm/jI/wmjIApdgKQPgGe7_.jpg"
+  },
+  {
+    "title": "شارژر بی سیم مگنتی اپل واچ سری 1، 2، 3، 4، 5، 6 و 7 با توان 2.5 وات ایکس او CX019",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Apple Watch سری 1",
+          "Apple Watch سری 2",
+          "Apple Watch سری 3",
+          "Apple Watch سری 4",
+          "Apple Watch سری 5",
+          "Apple Watch سری 6",
+          "Apple Watch سری 7"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "2.5 وات"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم مگنتی"
+        ]
+      }
+    ],
+    "random_key": "a261a3e9-f596-4ad3-aaac-e762ebb05f93",
+    "image_url": "https://image.torob.com/base/images/IF/yv/IFyvB74X50Xqw8bt.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند هواوی واچ GT 3/3 Pro",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هواوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Watch GT 3",
+          "Watch GT 3 Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "0bf38eed-d63e-466e-8471-030331cd020a",
+    "image_url": "https://image.torob.com/base/images/dk/n4/dkn4y3Au9dU3Bel3.jpg"
+  },
+  {
+    "title": "شارژر ساعت شیائومی imilab W12",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "imilab W12"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "4116dfe1-0a25-4495-81b8-c22b208b696f",
+    "image_url": "https://image.torob.com/base/images/o7/DJ/o7DJJRZ9xa23n3H-.jpg"
+  },
+  {
+    "title": "شارژر وایرلس ساعت سامسونگ مدل Galaxy GEAR S3 CLASSIC",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy GEAR S3 CLASSIC"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "70ae4938-bf8a-4cf3-a903-5f4556683f73",
+    "image_url": "https://image.torob.com/base/images/X3/C6/X3C6_6hoVBhj5Xrc.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت میبرو مدل mibro air",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "mibro air"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "335eb2b0-a68d-46ba-a239-6160cc829b9a",
+    "image_url": "https://image.torob.com/base/images/QY/mG/QYmGT2THCeD5tIZ0.jpg"
+  },
+  {
+    "title": "Huawei Watch GT Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Watch GT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "5000fc5e-3840-463a-940e-718f8a000c3b",
+    "image_url": "https://image.torob.com/base/images/u9/5O/u95OUtLKZUWNB9RX.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل HW-GT2Pro مناسب برای ساعت هوشمند هوآوی Watch GT2 Pro",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Watch GT2 Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "d9535010-56c3-4168-abde-a80f58afc20d",
+    "image_url": "https://image.torob.com/base/images/kp/3Z/kp3ZiMdAlgeMoMYu.jpg"
+  },
+  {
+    "title": "شارژر بی‌سیم اپل واچ راک قابل حمل",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم",
+          "قابل حمل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      }
+    ],
+    "random_key": "555a2707-8631-4fc8-ab06-83a4048f742a",
+    "image_url": "https://image.torob.com/base/images/jF/-l/jF-l4OitcbchIokh.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند X22 PRO MAX/X7promax/HW8 Ultra Max",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "X22 PRO MAX",
+          "X7promax",
+          "HW8 Ultra Max"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "833d5008-a690-4e9a-b6db-89d5b9794e5d",
+    "image_url": "https://image.torob.com/base/images/iA/T2/iAT2e-5xcIJ-W2Lg.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند می بند 4",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "می بند"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "می بند 4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "eab5b183-53eb-46a3-91a6-cbd8379c0722",
+    "image_url": "https://image.torob.com/base/images/ye/qf/yeqfCXgfEbIPn5vL.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Samsung Gear Fit 2 / Fit 2 Pro Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Gear Fit 2",
+          "Fit 2 Pro"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "d42df6b8-816b-497a-bfe2-5e1f5afadea8",
+    "image_url": "https://image.torob.com/base/images/9U/Gb/9UGbUcuxmbtrUxbZ.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند ایکس او مدل XO-CX026",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "ایکس او"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "XO-CX026"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "6c46456f-7ecf-4c28-87bd-d7e0880b9f08",
+    "image_url": "https://image.torob.com/base/images/Zk/c2/Zkc2THIhSH-7aYXB.webp"
+  },
+  {
+    "title": "شارژر مغناطیسی اپل واچ انرژیا Energea WatchPod 3 Chargers",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      }
+    ],
+    "random_key": "fd976011-fcba-4d6e-84e1-8c6442114218",
+    "image_url": "https://image.torob.com/base/images/Gs/Gj/GsGjil6GU2GM6Y8M.jpg"
+  },
+  {
+    "title": "کابل شارژ مدل HWBand6 مناسب برای ساعت هوشمند آنر ES/HW Fit/band 6/ HW 4X",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آنر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "ES/HW Fit/band 6/ HW 4X"
+        ]
+      }
+    ],
+    "random_key": "dde7cd7a-517b-4c09-be65-84c137a74940",
+    "image_url": "https://image.torob.com/base/images/JU/AS/JUAS9i6uqRkariMJ.webp"
+  },
+  {
+    "title": "شارژر ساعت هوشمند مدل Hk8 Pro Max",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Hk8 Pro Max"
+        ]
+      }
+    ],
+    "random_key": "46a7da4d-ab53-4cb9-8a60-f9b292b431f7",
+    "image_url": "https://image.torob.com/base/images/XJ/ZW/XJZW-IpcklZexssM.jpg"
+  },
+  {
+    "title": "کابل شارژ دستبند شیائومی Xiaomi Mi Band 4 Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mi Band 4"
+        ]
+      }
+    ],
+    "random_key": "ffcf0ca6-5b16-4627-baef-f4fb69e7d615",
+    "image_url": "https://image.torob.com/base/images/V1/y5/V1y5VORqpVZN6MEp.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند hk9 pro",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "hk9 pro"
+        ]
+      }
+    ],
+    "random_key": "6f62237a-d544-47e0-8e30-f5d9f8380bf2",
+    "image_url": "https://image.torob.com/base/images/Iq/Zc/IqZcyju0nZLPwZIx.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اپل واچ راک ROCK W26 Wireless Charger Apple Watch",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      }
+    ],
+    "random_key": "7802143a-b2ab-4300-8708-81824e577427",
+    "image_url": "https://image.torob.com/base/images/fZ/id/fZid2468ZH98cDyh.jpg"
+  },
+  {
+    "title": "شارژر بی‌سیم سامسونگ Galaxy Watch5 و Watch5 Pro، نوع سکه‌ای، USB C، جایگزین در جعبه، قابل حمل، نسخه 2022، آمریکا، رنگ مشکی",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch5",
+          "Watch5 Pro"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB C"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "e276a51b-a8bd-4b63-a7d4-4d427236f797",
+    "image_url": "https://image.torob.com/base/images/eC/LZ/eCLZ5H3v-IPB6Waw.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند سامسونگ مدل Samsung Active",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Samsung Active"
+        ]
+      }
+    ],
+    "random_key": "d7987fa2-0722-4de9-a8f5-63062ddda47a",
+    "image_url": "https://image.torob.com/base/images/Cw/Mu/CwMuDxZpvJjBVdkN.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت امیزفیت BIP SMART 5",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "امیزفیت BIP SMART 5"
+        ]
+      }
+    ],
+    "random_key": "3c076be8-e0ce-4c93-9d83-6421dba67145",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر وایرلس مگنتی ساعت هوشمند هواوی 2.5 وات راک Rock W28 Type-C Huawei Watch Magnet Wireless Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس",
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هواوی"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "2.5 وات"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type-C"
+        ]
+      }
+    ],
+    "random_key": "0af01fe6-98af-4efd-82bd-8a14de52cb24",
+    "image_url": "https://image.torob.com/base/images/6F/C2/6FC2JUhfcrqwwKKl.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت امیزفیت مدل Amazfit Pop 3R - A2319",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit Pop 3R - A2319"
+        ]
+      }
+    ],
+    "random_key": "6c60b478-654e-4954-94fc-a21488d392e2",
+    "image_url": "https://image.torob.com/base/images/Ml/Lr/MlLroq172PPSMZfb.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل RMI-02 مناسب برای مچ بند هوشمند شیائومی Redmi Watch 2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Redmi Watch 2"
+        ]
+      }
+    ],
+    "random_key": "645fb9fa-f450-4dda-8f06-b7788ad06ff9",
+    "image_url": "https://image.torob.com/base/images/G4/F-/G4F-NCekeHa51XN2.jpg"
+  },
+  {
+    "title": "کابل شارژ مگنتی DENMEN",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مگنتی"
+        ]
+      }
+    ],
+    "random_key": "d07deb1f-cf6f-427a-a08f-b572f3b63dd1",
+    "image_url": "https://image.torob.com/base/images/9R/Hh/9RHhgMgoJ0jC05ym.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت میبرو مدل mibro GS",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "mibro GS"
+        ]
+      }
+    ],
+    "random_key": "27e6c618-9d2b-4c88-a9a9-f4eafeed39a5",
+    "image_url": "https://image.torob.com/base/images/Bv/Zh/BvZhL3v4wY81VYMK.jpg"
+  },
+  {
+    "title": "شارژر ساعت آمیزفیت Amazfit TREX 2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آمیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit TREX 2"
+        ]
+      }
+    ],
+    "random_key": "234bf439-6323-4044-b978-af2315514b63",
+    "image_url": "https://image.torob.com/base/images/TP/_S/TP_SGr00f4bp3ArP.jpg"
+  },
+  {
+    "title": "شارژر ساعت هایلو مدل Haylou solar plus",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هایلو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Haylou solar plus"
+        ]
+      }
+    ],
+    "random_key": "55a1ed5d-7201-4455-83be-3eb28fb05b25",
+    "image_url": "https://image.torob.com/base/images/if/qD/ifqDVRjNyFbDTTHs.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل Galaxia-4 مناسب برای ساعت هوشمند سامسونگ Galaxy Watch 4 Classic 46mm",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 4 Classic 46mm"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "5bdadca0-b30b-445e-b190-2e3ec91897c4",
+    "image_url": "https://image.torob.com/base/images/yD/Ax/yDAxWboB0-jucZP8.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "2103a2dd-d9fb-4601-8c46-581c0a9916f0",
+    "image_url": "https://image.torob.com/base/images/BC/DL/BCDLO9B1xbA6J_U8.jpg"
+  },
+  {
+    "title": "شارژر ساعت شیائومی امیزفیت Amazfit GTS2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit GTS2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "9fa93f35-74c4-4ec8-afe4-aded9efcf87f",
+    "image_url": "https://image.torob.com/base/images/gY/4S/gY4SK5uE2P-UcJ8Z.jpg"
+  },
+  {
+    "title": "شارژر ساعت ترنیو wf1",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "ترنیو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "wf1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "beefe34a-49a6-4f96-bf67-b9cc512ee3e9",
+    "image_url": "https://image.torob.com/base/images/na/w8/naw83qFo-7Gsg2FQ.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Wearfit مدل HK9 Mini Plus",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Wearfit"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "HK9 Mini Plus"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "4dec6ae4-f742-4959-a623-0f3347ebc103",
+    "image_url": "https://image.torob.com/base/images/6L/Mq/6LMq2y5jQIRuPbB8.jpg"
+  },
+  {
+    "title": "شارژر اسمارت واچ شارژر اسمارت واچ",
+    "group": "نامشخص",
+    "product": "شارژر اسمارت واچ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر اسمارت واچ"
+        ]
+      }
+    ],
+    "random_key": "a4f8d9e6-2561-4f8d-8e74-b3703a90759e",
+    "image_url": "https://image.torob.com/base/images/kI/Ca/kICa49R3kKmsxNLS.jpg"
+  },
+  {
+    "title": "آداپتور شارژر ساعت هوشمند اچ تی سی (HTC)",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اچ تی سی (HTC)"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "6aa335f3-b232-45cb-a061-af31017c639c",
+    "image_url": "https://image.torob.com/base/images/Yr/Ic/YrIcWseVwmO3tKIL.jpg"
+  },
+  {
+    "title": "کابل شارژ تایپ سی اپل واچ Apple Watch Magnetic Charger to USB-C Cable",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "Magnetic"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB-C",
+          "تایپ سی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      }
+    ],
+    "random_key": "1e1a6273-d869-4f8d-b504-fa65c90ff84f",
+    "image_url": "https://image.torob.com/base/images/Tu/3U/Tu3U3aIRHl4csnvz.webp"
+  },
+  {
+    "title": "شارژر ساعت هوشمند آنر مدل Honor watch GS4",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آنر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Honor watch GS4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "d09c7301-6fe3-4bef-acf9-4ee9460e2001",
+    "image_url": "https://image.torob.com/base/images/0Z/IT/0ZITXX47iudvFhCS.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند مدل Hk4 Hero",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Hk4 Hero"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "be683972-d745-4e46-87f2-456a198bc178",
+    "image_url": "https://image.torob.com/base/images/XJ/ZW/XJZW-IpcklZexssM.jpg"
+  },
+  {
+    "title": "کابل شارژ ساعت هوشمند مدل t-rex",
+    "group": "نامشخص",
+    "product": "کابل شارژ ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "t-rex"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      }
+    ],
+    "random_key": "825b1afb-845c-4569-97d4-5b14a1bd82ee",
+    "image_url": "https://image.torob.com/base/images/ZD/TJ/ZDTJVDpiTZAu-Hqs.jpg"
+  },
+  {
+    "title": "شارژر مگنتی اپل واچ مک دودو مدل Mcdodo CH-684 Charger for Apple Watch",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "مک دودو",
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mcdodo CH-684"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "5f77b18b-19c5-4c60-9c97-a8d62580dc59",
+    "image_url": "https://image.torob.com/base/images/ys/Sq/ysSqKq-PqzyO72B3.jpg"
+  },
+  {
+    "title": "شارژر وایرلسی ساعت کیفیت بسیار عالی",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلسی"
+        ]
+      }
+    ],
+    "random_key": "4f2138f1-3641-45e4-923a-fd15ff7aae5f",
+    "image_url": "https://image.torob.com/base/images/6d/Hm/6dHmf19STxiVSnkj.jpg"
+  },
+  {
+    "title": "شارژر اورجینال اپل واچ سری 3",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "سری 3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر اورجینال"
+        ]
+      }
+    ],
+    "random_key": "8f9e3455-5a5d-43ca-b014-b224c4c905ec",
+    "image_url": "https://image.torob.com/base/images/Aw/DY/AwDY4_DMBUqznUgJ.jpg"
+  },
+  {
+    "title": "شارژر دستبند سلامتی شیائومی Xiaomi Amazfit Cor 2 Band USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر دستبند سلامتی",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit Cor 2 Band"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "b722ca48-ec18-4848-bf45-4f314fe21e01",
+    "image_url": "https://image.torob.com/base/images/dq/IW/dqIWlCNhR5YdAnMX.jpg"
+  },
+  {
+    "title": "پایه نگهدارنده گرین PT126 مناسب برای ساعت های اپل",
+    "group": "نامشخص",
+    "product": "پایه نگهدارنده ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گرین",
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "PT126"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پایه نگهدارنده"
+        ]
+      }
+    ],
+    "random_key": "5f420e98-2b98-42c1-8bd7-84a4fccc84dd",
+    "image_url": "https://image.torob.com/base/images/Rx/WO/RxWOWAFCJUvj1yas.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی Mi Band 3 مسیر مدل M-Chrge",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mi Band 3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "287dca1e-7730-4571-a0d4-81e0f002a355",
+    "image_url": "https://image.torob.com/base/images/Zk/gh/ZkghbkMMeTiJxZWP.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Samsung Galaxy Watch 4",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Samsung"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "7346aee6-5f6e-4f4d-90c2-5f38169fd566",
+    "image_url": "https://image.torob.com/base/images/6L/dC/6LdCIyb5KYRNkGL0.jpg"
+  },
+  {
+    "title": "شارژر مغناطیسی ساعت هوشمند مدل Magnetic Apple Watch طول 1 متر",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Apple Watch"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1 متر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "053b6e7a-d11f-482c-8fb3-a3510746172e",
+    "image_url": "https://image.torob.com/base/images/L7/C7/L7C7jzW9dd7M6FYD.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Dt Watch",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Dt Watch"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "ce0b8911-f710-4766-8312-568c46099418",
+    "image_url": "https://image.torob.com/base/images/Cd/7F/Cd7F2vRZe5dukNiz.jpg"
+  },
+  {
+    "title": "شارژر وایرلس ساعت هوشمند شیائومی QCY GTC اورجینال",
+    "group": "نامشخص",
+    "product": "شارژر وایرلس",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی",
+          "QCY"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GTC"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "27323fd3-65c3-4dee-b8a7-2d9cad5a3b1c",
+    "image_url": "https://image.torob.com/base/images/E-/Bh/E-BhqEZB-5DEAxtU.jpg"
+  },
+  {
+    "title": "استند شارژر اپل واچ اسپیگن Rugged Armor Stand Designed",
+    "group": "نامشخص",
+    "product": "استند شارژر",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اسپیگن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استند شارژر"
+        ]
+      }
+    ],
+    "random_key": "1064530a-bc6e-46b8-b733-83d226f6d0fe",
+    "image_url": "https://image.torob.com/base/images/IX/ZO/IXZOSg__yqejh8Ic.webp"
+  },
+  {
+    "title": "شارژر اپل واچ مغناطیسی جویروم JR-WQW03",
+    "group": "نامشخص",
+    "product": "شارژر",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "جویروم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "651156ed-e974-4206-9d7a-d686c33d2454",
+    "image_url": "https://image.torob.com/base/images/X3/ao/X3aoiz_9D3OXcNDt.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند آنر مدل Honor watch magic Gs",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آنر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Honor Watch Magic Gs"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "542ec840-2d65-442b-9970-d0f6640cbbbd",
+    "image_url": "https://image.torob.com/base/images/Om/zi/OmziF8pnm8DnpqFV.jpg"
+  },
+  {
+    "title": "کابل شارژ واچ من مدل WM-Charger مناسب برای ساعت هوشمند کیسلکت KR",
+    "group": "نامشخص",
+    "product": "کابل شارژ",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "ساعت هوشمند کیسلکت KR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      }
+    ],
+    "random_key": "a5ff15c9-1b8e-4d76-aaeb-72b8391f4752",
+    "image_url": "https://image.torob.com/base/images/W6/J9/W6J9EC4yesKOlRpM.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل Galaxia-4 مناسب برای ساعت هوشمند سامسونگ Galaxy Watch 4 Classic 46mm",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 4 Classic 46mm"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "2e699eaf-680b-4607-84c1-b6bc54705b9f",
+    "image_url": "https://image.torob.com/base/images/yD/Ax/yDAxWboB0-jucZP8.jpg"
+  },
+  {
+    "title": "کابل شارژ ساعت شیائومی مدل kw66",
+    "group": "نامشخص",
+    "product": "کابل شارژ ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "kw66"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ ساعت"
+        ]
+      }
+    ],
+    "random_key": "f6b4835a-5fec-466e-9322-83d67af61a7e",
+    "image_url": "https://image.torob.com/base/images/Cl/Sr/ClSrHiY7gHs1AIyr.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند سامسونگ Galaxy Watch Series گرین لاین مدل Wch-Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ",
+          "گرین لاین"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch Series"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "81057654-cb76-4d95-97a1-4ddad6f3490c",
+    "image_url": "https://image.torob.com/base/images/FD/Z9/FDZ9Cqrj_aBghKsj.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل HO-B3 مناسب برای مچ بند هوشمند آنر سری band 3",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "آنر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "band 3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "b7bcf17f-6c4b-46f6-96c2-263fc8aeceb4",
+    "image_url": "https://image.torob.com/base/images/uA/uu/uAuuVwE3X6NVDLFA.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت میبرو مدل Mibro Lite 3",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "میبرو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mibro Lite 3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "87f7d768-f31d-42e9-823b-8fea78706e4b",
+    "image_url": "https://image.torob.com/base/images/pk/Eu/pkEu0bwMHR_Hw2bh.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند مدل Hk9 Pro Max",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Hk9 Pro Max"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "bada1f70-7a83-48ef-876d-f1e4604e23c2",
+    "image_url": "https://image.torob.com/base/images/XJ/ZW/XJZW-IpcklZexssM.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اپل واچ Mcdodo CH-499-M",
+    "group": "نامشخص",
+    "product": "شارژر بی سیم",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "لواچ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Mcdodo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      }
+    ],
+    "random_key": "4bb0e9e8-f06a-43da-bde1-01d236d7e6f8",
+    "image_url": "https://image.torob.com/base/images/7k/p9/7kp9vZ3bW3WmlO2s.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل JK-R1 مناسب برای ساعت هوشمند جیکمی Smart Watch R1",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "جیکمی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Smart Watch R1",
+          "JK-R1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "97c141ab-3adc-47a1-a088-85f33051994d",
+    "image_url": "https://image.torob.com/base/images/9r/At/9rAtfU7h2i8iI14H.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اصلی برای Samsung Galaxy Watch 2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Samsung"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 2"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "2630c021-9c84-4cfb-bc2b-ac5cf5fa2ad8",
+    "image_url": "https://image.torob.com/base/images/Ko/N5/KoN5HOcP3sv5cCo7.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Huawei Watch 2 Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Huawei"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Watch 2"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "0640d0ab-3487-44d9-abeb-fb478da5214a",
+    "image_url": "https://image.torob.com/base/images/od/Cb/odCbYBLKTvNm5fsz.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند hk 8 hero",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "hk 8 hero"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "4b059dde-ef56-4c4e-8a44-5080f9c87118",
+    "image_url": "https://image.torob.com/base/images/NK/qK/NKqKurpG8kKgb9y3.jpg"
+  },
+  {
+    "title": "شارژر وایرلس اسمارت واچ اصلی",
+    "group": "نامشخص",
+    "product": "شارژر اسمارت واچ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر وایرلس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وایرلس"
+        ]
+      }
+    ],
+    "random_key": "42205824-3990-41a6-881c-a2e48a162c2c",
+    "image_url": "https://image.torob.com/base/images/50/Zp/50ZpS38KhwlcIPm3.jpg"
+  },
+  {
+    "title": "داک شارژر ساعت سامسونگ Galaxy Watch",
+    "group": "نامشخص",
+    "product": "داک شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "داک شارژر"
+        ]
+      }
+    ],
+    "random_key": "f8327cab-338e-4bd1-aa85-32cac1f658c6",
+    "image_url": "https://image.torob.com/base/images/9L/Q8/9LQ8JLCY2Zg6qXfH.jpg"
+  },
+  {
+    "title": "تاچ و ال سی دی ساعت هوشمند ال جی LG Watch Urbane W150",
+    "group": "نامشخص",
+    "product": "تاچ و ال سی دی ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "ال جی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "LG Watch Urbane W150"
+        ]
+      }
+    ],
+    "random_key": "8824f0fa-b1ea-41a9-b171-71527a3b36ea",
+    "image_url": "https://image.torob.com/base/images/mG/Ib/mGIbkncEILy1aP63.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند امیزفیت مدل Amazfit 2 / Stratos 2S",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit 2",
+          "Stratos 2S"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "d687a5d7-6288-4e68-a2fc-81a605ef6ac7",
+    "image_url": "https://image.torob.com/base/images/yH/vD/yHvDgm5encRX99tE.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Samsung Galaxy Watch 4",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Samsung"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch 4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "29d894b5-619a-44a8-bbc3-935b5cc464ba",
+    "image_url": "https://image.torob.com/base/images/2p/Lb/2pLbWsM8v6Rnw4P-.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت پرودو مدل PORODO PD-SWGTSL",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "پرودو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "PORODO PD-SWGTSL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "3d1a7cc5-2183-441b-bf17-dcfe98a91ff6",
+    "image_url": "https://image.torob.com/base/images/K1/F3/K1F3fXJCV-f-_6qc.jpg"
+  },
+  {
+    "title": "کله شارژر 1 امپر استاندارد LG اورجینال مخصوص ایرپاد و ساعت هوشمند کیفیت عالی",
+    "group": "نامشخص",
+    "product": "کله شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "LG"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 امپر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کله شارژر",
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "2fe5b1a3-6d9f-42d2-9df7-cb04398e046d",
+    "image_url": "https://image.torob.com/base/images/IY/P5/IYP5d8gdu4U2_Wee.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اپل واچ Biva WLC-0",
+    "group": "نامشخص",
+    "product": "شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ",
+          "Biva"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "WLC-0"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "3f077f13-147e-4a6e-b34c-ffb085a61e61",
+    "image_url": "https://image.torob.com/base/images/60/KS/60KS-VYHwao0dH9c.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت شیائومی Redmi Watch 5 Lite",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Redmi Watch 5 Lite"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "70c4e673-f91c-454c-9697-43fba8f73e9e",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند امیزفیت مدل Amazfit Gt",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit Gt"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "c6c5e28e-c456-4044-9cd8-6ee7d577b04c",
+    "image_url": "https://image.torob.com/base/images/qv/jD/qvjD348cztwGOUtK.jpg"
+  },
+  {
+    "title": "شارژر مگنتی ایکس او CX019",
+    "group": "نامشخص",
+    "product": "شارژر مگنتی",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "ایکس او"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "CX019"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "ae9c7cb6-e1f9-43fd-b218-66c89bc4af12",
+    "image_url": "https://image.torob.com/base/images/AF/O9/AFO91mQMIASLvY4k.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Amazfit Pop S3",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Amazfit"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Pop S3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "9727176d-7689-428e-b6ad-012b3ba55add",
+    "image_url": "https://image.torob.com/base/images/k5/Zu/k5ZuIpwMQP0mPAHn.webp"
+  },
+  {
+    "title": "شارژر ساعت هایلو مدل Haylou gs",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هایلو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Haylou gs"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "272075bf-32cc-427d-bcfe-34d5f82bacd9",
+    "image_url": "https://image.torob.com/base/images/Z_/CA/Z_CAyi031TqyLXWP.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "897cbddb-0ff8-4ab4-90f5-757aa20192a4",
+    "image_url": "https://image.torob.com/base/images/UC/05/UC05ByKj7C4aaTxe.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت امیزفیت T-Rex 2",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "امیزفیت T-Rex 2"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "1d3306e5-3908-4519-bfa4-3c3d1bcf4354",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اپل واچ Coteci 26003",
+    "group": "نامشخص",
+    "product": "شارژر بی سیم",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Coteci"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      }
+    ],
+    "random_key": "297a97e1-c392-4463-9fd6-b810a6369f2e",
+    "image_url": "https://image.torob.com/base/images/Yp/h3/Yph3bL27Lijy958d.jpg"
+  },
+  {
+    "title": "کابل شارژ Haylou Solar Plus (هایلو سولار پلاس)",
+    "group": "نامشخص",
+    "product": "کابل شارژ",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Haylou"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Solar Plus",
+          "هایلو سولار پلاس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      }
+    ],
+    "random_key": "86c47769-ff9a-4205-ad20-7cddca0ba5b2",
+    "image_url": "https://image.torob.com/base/images/lu/NL/luNLDhOVPKK2fREI.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ یسیدو ca112",
+    "group": "نامشخص",
+    "product": "شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "یسیدو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "ca112"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "290791fa-a6e7-4292-af8d-9c0d3c6057a1",
+    "image_url": "https://image.torob.com/base/images/08/iP/08iP28y4nvePv_DQ.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت شیائومی Watch S1 Pro",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Watch S1 Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "b51f9527-385e-4286-93e7-85717995f72e",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر مچ بند هوآوی Huawei Band 6",
+    "group": "نامشخص",
+    "product": "شارژر مچ بند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هواوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Huawei Band 6"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مچ بند"
+        ]
+      }
+    ],
+    "random_key": "8ab64e95-4bb3-4bed-beb2-c79f02299996",
+    "image_url": "https://image.torob.com/base/images/Nt/Je/NtJe6RzwMmmghdpG.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت HK13 ULTRA 2",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "HK13 ULTRA 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "a483a592-8559-4cbe-80ef-2cf02570d2eb",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ - کپی",
+    "group": "نامشخص",
+    "product": "شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "89843ece-550a-4b9c-9475-227aa49b14d0",
+    "image_url": "https://image.torob.com/base/images/lT/7a/lT7a3rK7F8U87V4I.jpg"
+  },
+  {
+    "title": "استند شارژ ساعت QCY GS2",
+    "group": "نامشخص",
+    "product": "استند شارژ ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "QCY"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GS2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استند شارژ ساعت"
+        ]
+      }
+    ],
+    "random_key": "c0fe4e99-f189-4616-8bcb-a65d80e00c5b",
+    "image_url": "https://image.torob.com/base/images/9o/9N/9o9NLuc4vDBTty-a.jpg"
+  },
+  {
+    "title": "شارژر مچ بند شیائومی می‌ بند 2",
+    "group": "نامشخص",
+    "product": "شارژر مچ بند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "می بند 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر مچ بند"
+        ]
+      }
+    ],
+    "random_key": "4ed8f824-6519-497e-8702-d426ee248e1a",
+    "image_url": "https://image.torob.com/base/images/Lp/5n/Lp5nmXvm9BcdfdZA.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت IMIKI مدل SF1",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "IMIKE"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "SF1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "aeec769d-fb01-46cc-9d99-1670412acf22",
+    "image_url": "https://image.torob.com/base/images/Ul/PX/UlPXh2xE9KhIJd7v.jpg"
+  },
+  {
+    "title": "شارژر دستبند سلامتی شیائومی Xiaomi Amazfit Cor 2 Band USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر دستبند سلامتی",
+    "entities": [
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit Cor 2 Band"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر دستبند سلامتی"
+        ]
+      }
+    ],
+    "random_key": "2eed256c-6656-4019-acec-8fae61d0a70c",
+    "image_url": "https://image.torob.com/base/images/dq/IW/dqIWlCNhR5YdAnMX.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت امیزفیت GTR 2",
+    "group": "نامشخص",
+    "product": "آداپتور شارژر",
+    "entities": [
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GTR 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "2cafbafb-8a96-45cd-86bf-3e6fccc22ba7",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند Smart Watch Charger T500/M8/T200 PULS/T500Puls/T500+MAX",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر ساعت هوشمند"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "T500",
+          "M8",
+          "T200 PULS",
+          "T500Puls",
+          "T500+MAX"
+        ]
+      }
+    ],
+    "random_key": "84435752-9c6e-445a-a78a-0485ab93f914",
+    "image_url": "https://image.torob.com/base/images/OM/i_/OMi_8TNmuOLpTGUt.jpg"
+  },
+  {
+    "title": "Huawei Honor 3 Smart Watch Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی",
+          "آنر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Honor 3 Smart Watch"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "2219f33c-a0a6-418d-975d-8607cc6f29b6",
+    "image_url": "https://image.torob.com/base/images/iZ/Tm/iZTmRP-jCEqTlzaA.jpg"
+  },
+  {
+    "title": "شارژر دوکاره اپل واچ کوتتسی Coteetci 2 in 1 CS5170 Cable",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر دوکاره",
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      }
+    ],
+    "random_key": "a447165a-6bda-4916-b578-c313b13d84e7",
+    "image_url": "https://image.torob.com/base/images/7S/0o/7S0opDIGARtFeA1b.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "db78e37f-4dc8-433a-8296-cef554eba4bc",
+    "image_url": "https://image.torob.com/base/images/yK/KN/yKKNeAjIqnENocv1.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی Mibro C3",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mibro C3"
+        ]
+      }
+    ],
+    "random_key": "6810e061-511a-4192-9011-fbcd015f3387",
+    "image_url": "https://image.torob.com/base/images/BG/EV/BGEVyW6HRHy7EeWy.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل HW-GTCy مناسب برای ساعت هوشمند هوآوی Watch GT Cyber",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Watch GT Cyber"
+        ]
+      }
+    ],
+    "random_key": "9bd331d1-8186-4d88-bc10-cb954a997bd7",
+    "image_url": "https://image.torob.com/base/images/kp/3Z/kp3ZiMdAlgeMoMYu.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند Samsung Galaxy Watch 3 / 4 / 4 Classic Smart Watch USB Charging",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Samsung Galaxy Watch 3",
+          "Samsung Galaxy Watch 4",
+          "Samsung Galaxy Watch 4 Classic"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      }
+    ],
+    "random_key": "106b8408-0c0d-4bdc-b51d-402bf7b4120e",
+    "image_url": "https://image.torob.com/base/images/5G/tj/5Gtj4QEmhw6_8Qiu.jpg"
+  },
+  {
+    "title": "شارژر 2 کاره (اپل واچ ) COTECI مدل CS5170",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر 2 کاره"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      }
+    ],
+    "random_key": "7c529ebc-265c-4869-b5de-27d75a8bfb4b",
+    "image_url": "https://image.torob.com/base/images/3-/ke/3-kemUfMd-GK9GNU.webp"
+  },
+  {
+    "title": "تبدیل شارژر Type-C ساعت گارمین مدل fenix 7x",
+    "group": "نامشخص",
+    "product": "تبدیل شارژر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تبدیل شارژر"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "Type-C"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گارمین"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "fenix 7x"
+        ]
+      }
+    ],
+    "random_key": "d810a283-3317-42b0-b236-31aabc6d2c5d",
+    "image_url": "https://image.torob.com/base/images/Zn/mR/ZnmRpGMxGyt6RT-p.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند آنر مدل Honor watch4",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "آنر"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Honor Watch 4"
+        ]
+      }
+    ],
+    "random_key": "89275375-5ac6-402b-846e-75b1dc113441",
+    "image_url": "https://image.torob.com/base/images/P_/Kt/P_Ktfxv9V2m2e8hx.jpg"
+  },
+  {
+    "title": "کابل شارژ ساعت هوشمند سامسونگ 1 متری 2.5 وات گرین Green Lion Watch Charger مدل GNWTHCSAMBK",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ",
+          "گرین"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1 متر"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "2.5 وات"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "ddd9d6ed-e6a8-4689-ac23-908eaa851ca6",
+    "image_url": "https://image.torob.com/base/images/ZT/xV/ZTxVGx5stViPMQ05.jpg"
+  },
+  {
+    "title": "شارژر اصلی ساعت هوشمند هواوی واچ 3، واچ 3 پرو و جی تی 2 پرو CP81-1",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر اصلی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هوآوی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "هوآوی واچ 3",
+          "هوآوی واچ 3 پرو",
+          "هوآوی جی تی 2 پرو"
+        ]
+      }
+    ],
+    "random_key": "5a0d8337-9fe6-4a22-9039-c96bf7df814e",
+    "image_url": "https://image.torob.com/base/images/A2/S9/A2S9vVfaoZC7nFng.jpg"
+  },
+  {
+    "title": "شارژر تک آمپر ساعت هوشمند و ایرپاد 1A",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند و ایرپاد",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      }
+    ],
+    "random_key": "0c7b5b7d-d284-48e6-9d33-89875409ae9b",
+    "image_url": "https://image.torob.com/base/images/KD/D1/KDD1ASavVugtJaTP.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی Mi Band 5 مسیر مدل M-Chrge",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mi Band 5"
+        ]
+      }
+    ],
+    "random_key": "39b63628-f509-4b69-828e-25b6d0e46172",
+    "image_url": "https://image.torob.com/base/images/7l/yv/7lyvjjkoV1mPv0cm.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ ویوو Wi-M19",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      }
+    ],
+    "random_key": "478358f1-aecc-4569-9d8d-f74c00bafaff",
+    "image_url": "https://image.torob.com/base/images/CT/u0/CTu0HYfTl0Us6N6V.jpg"
+  },
+  {
+    "title": "شارژر اپل واچ",
+    "group": "نامشخص",
+    "product": "شارژر اپل واچ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      }
+    ],
+    "random_key": "38692bff-fd69-44bd-8c9b-63184788bc50",
+    "image_url": "https://image.torob.com/base/images/dE/ul/dEul3OawBAv5ojb1.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند کربی مدل W103",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "908f3022-526f-40a7-90f0-5ac9096536b5",
+    "image_url": "https://image.torob.com/base/images/kD/fe/kDfe64tJMK1BPp04.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت HK9 PRO PLUS",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "HK9 PRO PLUS"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "637f3bd4-2049-4218-beec-9c9b7b0a97fb",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "کابل شارژ ساعت هوشمند شیائومی Mibro X1/Color/Lite",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Mibro X1/Color/Lite"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "c21ad712-d477-4bad-959c-e73f213f01ef",
+    "image_url": "https://image.torob.com/base/images/mV/ci/mVci0RT-f0EDAZGi.jpg"
+  },
+  {
+    "title": "شارژر تایپ سی اپل واچ مدل R7",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "تایپ سی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "R7"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "49495f44-1109-4ed0-8d59-1f0dcdaaa3cd",
+    "image_url": "https://image.torob.com/base/images/j-/Ht/j-HtDo3w2FlFdEBD.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل AM-GS مناسب برای ساعت هوشمند امیزفیت GTR 47mm",
+    "group": "نامشخص",
+    "product": "کابل شارژر توتو",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امیزفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GTR 47mm"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "66a0ec84-f804-4231-85e3-58b21b1dcec6",
+    "image_url": "https://image.torob.com/base/images/by/Zx/byZxEvsu_ZMLXk3u.jpg"
+  },
+  {
+    "title": "شارژر اپل + کابل",
+    "group": "نامشخص",
+    "product": "شارژر و کابل",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر + کابل"
+        ]
+      }
+    ],
+    "random_key": "341beb61-7472-46df-a832-a09a028267d2",
+    "image_url": "https://image.torob.com/base/images/NC/t7/NCt74VUu-BBr_tnq.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اورجینال ساعت هوشمند مدل سامسونگ واچ 6 کلاسیک GALAXY WATCH6 classic",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم",
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "واچ 6 کلاسیک",
+          "GALAXY WATCH6 classic"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "cea72870-b669-48cb-9068-5591f618e5a7",
+    "image_url": "https://image.torob.com/base/images/0t/p6/0tp6vH1bDHW_WnWA.webp"
+  },
+  {
+    "title": "شارژر ساعت سامسونگ Gear مدل SM-V700",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Gear",
+          "D SM-V700"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "37098c30-7c5f-45dd-9a8d-cb74636911c2",
+    "image_url": "https://image.torob.com/base/images/6_/Dd/6_DdxQTJ5dvehNvP.jpg"
+  },
+  {
+    "title": "کابل های شارژر اپل واچ گرین GREEN MAGNETIC Charging Cable - تایپ سی",
+    "group": "نامشخص",
+    "product": "کابل شارژر",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل واچ",
+          "گرین"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "تایپ سی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "62d5d62c-247d-47a5-aac2-7a16bf3daece",
+    "image_url": "https://image.torob.com/base/images/wW/02/wW02mR5NtcCSLfUp.jpg"
+  },
+  {
+    "title": "آداپتور شارژر 1 آمپر مناسب ساعت iMILAB KW66",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "iMILAB KW66"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "1 آمپر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آداپتور شارژر"
+        ]
+      }
+    ],
+    "random_key": "9a4c1bfd-28ab-4f56-a0fd-3696e0f3f7ec",
+    "image_url": "https://image.torob.com/base/images/PU/yC/PUyCfb2uH1fW_aBZ.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند فیت بیت مدل HR",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "فیت بیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "HR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "1900a249-cb61-40c8-a362-c5d760a3a9e8",
+    "image_url": "https://image.torob.com/base/images/1O/kw/1Okw7SeCi6OQg5hC.jpg"
+  },
+  {
+    "title": "کابل شارژ مغناطیسی اپل واچ مدل Magnetic Charger to USB (غیر اصل)",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "USB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "2e2bfc98-4922-47a1-a63c-27c19783b7d6",
+    "image_url": "https://image.torob.com/base/images/wu/lQ/wulQZ4oGPbOIdmeo.jpg"
+  },
+  {
+    "title": "Samsung Gear 2 Neo R381 Charger",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "Samsung Gear"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "2 Neo",
+          "R381"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "102ef8c3-3dbb-4326-9810-a0374ea49054",
+    "image_url": "https://image.torob.com/base/images/mr/sQ/mrsQvZ4Jq8oux1O0.jpg"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند هایلو GST LS09B",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هایلو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "GST",
+          "LS09B"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "e967c624-8936-48a2-84ae-0248c62ab47d",
+    "image_url": "https://image.torob.com/base/images/F4/YT/F4YTQxN6Vch7k1pJ.webp"
+  },
+  {
+    "title": "کابل شارژر ساعت هوشمند شیاومی kieslect KS (پس کرایه)",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "kieslect KS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      }
+    ],
+    "random_key": "202f90d2-c7b1-4833-9681-6c6fad33e217",
+    "image_url": "https://image.torob.com/base/images/6Y/Tr/6YTrbUZ81BFTy4bv.jpg"
+  },
+  {
+    "title": "شارژر ساعت مناسب برای شیائومی Redmi Watch 2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Redmi Watch 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "43d8e127-13fd-47f6-b3ce-a815cd021278",
+    "image_url": "https://image.torob.com/base/images/DP/_M/DP_MqHnNuJtofMpU.jpg"
+  },
+  {
+    "title": "کابل فست شارژ تایپ سی به تایپ سی و شارژر وایرلس اپل واچ 60 وات 1.2 متری مک دودو CA-2200",
+    "group": "نامشخص",
+    "product": "کابل شارژر و شارژر وایرلس",
+    "entities": [
+      {
+        "name": "طول کابل",
+        "values": [
+          "1.2 متری"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "مک دودو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "CA-2200",
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "توان خروجی",
+        "values": [
+          "60 وات"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "تایپ سی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فست شارژ",
+          "وایرلس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر",
+          "شارژر وایرلس"
+        ]
+      }
+    ],
+    "random_key": "34e532ec-b328-4503-864d-23c7f1a6a248",
+    "image_url": "https://image.torob.com/base/images/2C/h2/2Ch2pzXSznYmJenP.webp"
+  },
+  {
+    "title": "شارژر ساعت سامسونگ Galaxy Watch SM-R810",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxy Watch SM-R810"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "1e770528-3b2a-4bbd-a87a-6e10d90cde44",
+    "image_url": "https://image.torob.com/base/images/sL/E4/sLE4jnlUyC8dszno.jpg"
+  },
+  {
+    "title": "داک شارژ و شارژر ساعت گارمین Garmin Vivosmart HR",
+    "group": "نامشخص",
+    "product": "داک شارژ و شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "گارمین"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Garmin Vivosmart HR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "داک شارژ و شارژر ساعت"
+        ]
+      }
+    ],
+    "random_key": "beb6ac7a-fb58-40ed-b5bb-307c9d6375e0",
+    "image_url": "https://image.torob.com/base/images/wF/Dv/wFDvPyc5Cb2m-S-6.jpg"
+  },
+  {
+    "title": "کابل شارژ مغناطیسی اپل واچ اصلی Apple Watch Magnetic Charger",
+    "group": "نامشخص",
+    "product": "کابل شارژ مغناطیسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      }
+    ],
+    "random_key": "3191094e-43c2-4889-960d-353920e29df9",
+    "image_url": "https://image.torob.com/base/images/Zl/B0/ZlB0wnntikS1jXoT.webp"
+  },
+  {
+    "title": "کابل شارژر توتو مدل MI-B02 مناسب برای مچ بند هوشمند شیائومی MI Band 2",
+    "group": "نامشخص",
+    "product": "کابل شارژر مچ بند هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "MI-B02",
+          "MI Band 2"
+        ]
+      }
+    ],
+    "random_key": "11f49f09-c013-4b79-b026-4d2a7a169a2e",
+    "image_url": "https://image.torob.com/base/images/Xf/RD/XfRDSj0uOX3ALsnT.jpg"
+  },
+  {
+    "title": "شارژر بی سیم اپل واچ و ایرپاد پرو 2 کوتسی Coteeci Dual Interface Apple Watch and Airpods Wireless Charger 26005",
+    "group": "نامشخص",
+    "product": "شارژر بی سیم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر بی سیم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی سیم"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل",
+          "کوتسی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ",
+          "ایرپاد پرو 2",
+          "Dual Interface Apple Watch and Airpods Wireless Charger 26005"
+        ]
+      }
+    ],
+    "random_key": "795c1028-421c-4b1d-993f-f999b3d02d02",
+    "image_url": "https://image.torob.com/base/images/LZ/1M/LZ1M3Wz_E8U2GLWu.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند هایلو LS01 مسیر مدل M-Chrge",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "هایلو"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "LS01",
+          "M-Chrge"
+        ]
+      }
+    ],
+    "random_key": "273a22a2-7ae7-4801-b4f6-db23df89f701",
+    "image_url": "https://image.torob.com/base/images/6f/_h/6f_hxjxJastoXOvd.jpg"
+  },
+  {
+    "title": "کابل شارژر توتو مدل Galaxia مناسب برای ساعت هوشمند سامسونگ Galaxy Watch 3 / 4 / Active 2",
+    "group": "نامشخص",
+    "product": "کابل شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژر"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "توتو",
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Galaxia",
+          "Galaxy Watch 3",
+          "Galaxy Watch 4",
+          "Active 2"
+        ]
+      }
+    ],
+    "random_key": "a5640f18-a3e1-41dc-8acc-6fc31079dc52",
+    "image_url": "https://image.torob.com/base/images/yD/Ax/yDAxWboB0-jucZP8.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند اکتیو 2 سامسونگ",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اکتیو 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "341ee1b7-d225-40cf-9c02-a3933a224d5f",
+    "image_url": "https://image.torob.com/base/images/EO/85/EO85d5zKu_7_Qzdd.webp"
+  },
+  {
+    "title": "داک شارژر ساعت هوشمند سامسونگ مدل R750",
+    "group": "نامشخص",
+    "product": "داک شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "داک شارژر ساعت هوشمند"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "سامسونگ"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "R750"
+        ]
+      }
+    ],
+    "random_key": "1ede9900-05bc-4973-a8e7-c66f7876b583",
+    "image_url": "https://image.torob.com/base/images/kD/wR/kDwR1FMFXoMQeYf9.jpg"
+  },
+  {
+    "title": "شارژر امازفیت t-rex 3",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "امازفیت"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "t-rex 3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      }
+    ],
+    "random_key": "1f28c531-959a-4b6a-9468-6f9e88fff24b",
+    "image_url": "https://image.torob.com/base/images/FU/wP/FUwPihN51JlO3x1-.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی ردمی واچ Redmi Watch 2",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Redmi Watch 2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "c5a7fd07-3b8c-4204-9e77-7b587f790ab9",
+    "image_url": "https://image.torob.com/base/images/ln/8W/ln8Wf2Ti0yYSpDEM.jpg"
+  },
+  {
+    "title": "استند شارژر ساعت هوشمندمدل دایناسور",
+    "group": "نامشخص",
+    "product": "استند شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استند شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "b297c73a-57eb-4b8f-be9e-80b67c906e9c",
+    "image_url": "https://image.torob.com/base/images/kv/FV/kvFVqOcyljOqsNeY.jpg"
+  },
+  {
+    "title": "شارژر مگنتی به تایپ سی 1 متری اپل واچ Apple Watch Magnetic Charger Cable A2257",
+    "group": "نامشخص",
+    "product": "شارژر مگنتی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع پورت ورودی",
+        "values": [
+          "تایپ سی"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "1 متری"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ",
+          "A2257"
+        ]
+      }
+    ],
+    "random_key": "1bf99995-0178-41d3-b563-629493250f00",
+    "image_url": "https://image.torob.com/base/images/pT/up/pTupfdv57GB0br_7.jpg"
+  },
+  {
+    "title": "کابل اصلی شارژ مغناطیسی اپل واچ 2 متری Apple Watch Magnetic Charging Cable",
+    "group": "نامشخص",
+    "product": "کابل شارژ مغناطیسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کابل شارژ"
+        ]
+      },
+      {
+        "name": "نوع اتصال",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "برند سازگار",
+        "values": [
+          "اپل"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "اپل واچ"
+        ]
+      },
+      {
+        "name": "طول کابل",
+        "values": [
+          "2 متری"
+        ]
+      }
+    ],
+    "random_key": "879e100c-7851-4973-8d80-0d1ebce93318",
+    "image_url": "https://image.torob.com/base/images/DI/3v/DI3v0RlT1YB_ClTT.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند سیم کارت خور HK ultra one plus",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "HK"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "ultra one plus"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "727ffa73-7c94-4112-8b74-10d035b30423",
+    "image_url": "https://image.torob.com/base/images/5J/_r/5J_rpsbAhDjz-Z5x.jpg"
+  },
+  {
+    "title": "شارژر ساعت هوشمند شیائومی Amazfit Bip U/Bip U Pro",
+    "group": "نامشخص",
+    "product": "شارژر ساعت هوشمند",
+    "entities": [
+      {
+        "name": "برند سازگار",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "مدل سازگار",
+        "values": [
+          "Amazfit Bip U",
+          "Bip U Pro"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شارژر ساعت هوشمند"
+        ]
+      }
+    ],
+    "random_key": "5cb591af-9624-4fe0-9d1d-2a323481f362",
+    "image_url": "https://image.torob.com/base/images/ji/PD/jiPD61-YUEejQT1Z.jpg"
+  }
+]

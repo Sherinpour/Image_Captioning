@@ -1,0 +1,6134 @@
+[
+  {
+    "title": "صدف مدل عروسکی کد 010",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "6da2814c-c8e4-42f5-96b6-1b6337d5ebb5",
+    "image_url": "https://image.torob.com/base/images/3h/u_/3hu_GIu_dLuTDYP-.jpg"
+  },
+  {
+    "title": "صدف تزیینی آکواریوم مدل MO1",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "زیورآلات",
+          "آکواریوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "630cd542-6741-4de5-982c-5d0da379e76a",
+    "image_url": "https://image.torob.com/base/images/u1/rW/u1rWN5GSH5iB8bnf.webp"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10752",
+    "group": "نامشخص",
+    "product": "ریسه صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "304ce793-63c9-4b60-bf2f-dacba043d0eb",
+    "image_url": "https://image.torob.com/base/images/O9/aq/O9aqRoefT76rtRKd.webp"
+  },
+  {
+    "title": "اسلایس صدف ناتیلوس پولیش خورده کلکسیونی و نادر",
+    "group": "نامشخص",
+    "product": "صدف ناتیلوس",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "نادر"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسلایس صدف ناتیلوس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پولیش خورده"
+        ]
+      }
+    ],
+    "random_key": "b49b5e29-ad81-4824-a6a2-e8788cd0c754",
+    "image_url": "https://image.torob.com/base/images/Cz/ks/CzksgISp0D8PYvq3.jpg"
+  },
+  {
+    "title": "صدف تزئینی مدل دوکی قهوه ای",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزئینی"
+        ]
+      },
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دوکی"
+        ]
+      }
+    ],
+    "random_key": "a0245414-2850-432b-85f5-d40fcbc1a2d3",
+    "image_url": "https://image.torob.com/base/images/9o/Vd/9oVd5_SnVnlk7_XJ.jpg"
+  },
+  {
+    "title": "دیدگاهها",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "e158d616-4da1-4bc1-8def-d6973da64ad3",
+    "image_url": "https://image.torob.com/base/images/A4/f6/A4f66vnzS8TTOcJz.webp"
+  },
+  {
+    "title": "صدف طبیعی 55 عددی shell 3013",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "55 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "b1649698-142e-4c5c-8234-818395b9082b",
+    "image_url": "https://image.torob.com/base/images/mh/Wb/mhWbQlERPUCxehxl.jpg"
+  },
+  {
+    "title": "صدف ابالون طبیعی کد 14",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "417c43cd-1fa0-48ae-86b7-b20667016d4b",
+    "image_url": "https://image.torob.com/base/images/Sn/QH/SnQHHGGfRG16Cowi.jpg"
+  },
+  {
+    "title": "کد 114 تعداد10 تکه صدف شکسته در طرح ها و رنگهای و سایز مختلف بسیار زیبا مناسب انواع کارهای هنری",
+    "group": "نامشخص",
+    "product": "صدف شکسته",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "10 تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف شکسته"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "هنری"
+        ]
+      }
+    ],
+    "random_key": "726ed686-ac95-4352-bf15-c8f5d9beb9e2",
+    "image_url": "https://image.torob.com/base/images/k7/iI/k7iI-ArKAaiM62n7.jpg"
+  },
+  {
+    "title": "صدف توتیا",
+    "group": "نامشخص",
+    "product": "صدف توتیا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف توتیا"
+        ]
+      }
+    ],
+    "random_key": "621256a0-4ae2-42fa-9552-e9c54fad206c",
+    "image_url": "https://image.torob.com/base/images/ZF/xb/ZFxbbE8uxUaSke1y.jpg"
+  },
+  {
+    "title": "کوسه ماهی",
+    "group": "نامشخص",
+    "product": "ماهی کوسه",
+    "entities": [],
+    "random_key": "9f492e80-e304-480c-930f-54a345a337e4",
+    "image_url": "https://image.torob.com/base/images/nM/Lh/nMLh_NvWNY5Wh_uf.jpg"
+  },
+  {
+    "title": "پک 6 عددی گوش ماهی زیبا",
+    "group": "نامشخص",
+    "product": "گوش ماهی",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "6 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوش ماهی"
+        ]
+      }
+    ],
+    "random_key": "a6fd861d-20c6-496a-816b-c658a876341d",
+    "image_url": "https://image.torob.com/base/images/o5/lb/o5lb9xtRnkyFNLHL.jpg"
+  },
+  {
+    "title": "صدف دریایی رنگی",
+    "group": "نامشخص",
+    "product": "صدف دریایی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      }
+    ],
+    "random_key": "0a59bbaa-676b-4dfd-8d8a-029a574d48cd",
+    "image_url": "https://image.torob.com/base/images/O3/Wk/O3WkrAZXY29fM_dN.jpg"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "f9ff2056-6bb0-45ea-9999-bbbd3f3c9c83",
+    "image_url": "https://image.torob.com/base/images/1m/NF/1mNFadDViGQNCrEl.webp"
+  },
+  {
+    "title": "صدف تزیینی مدل Zm کد 1050",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "5ac5343d-8552-45c1-ba16-240463fa0b65",
+    "image_url": "https://image.torob.com/base/images/ba/oq/baoqeCc8eyYWocZh.jpg"
+  },
+  {
+    "title": "مجموعه 7عددی صدف رنگی زیبا",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "7 عددی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مجموعه صدف"
+        ]
+      }
+    ],
+    "random_key": "40a901f7-b851-4e6a-a1ca-5cfb07b1215f",
+    "image_url": "https://image.torob.com/base/images/Xz/7t/Xz7tc23-WSYZhglK.jpg"
+  },
+  {
+    "title": "ریسه صدف درجه یک طول ریسه 40 سانتی متر کد13252",
+    "group": "نامشخص",
+    "product": "ریسه صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه صدف"
+        ]
+      }
+    ],
+    "random_key": "a67a57bb-ae3f-4dc2-901e-33fdca7b3630",
+    "image_url": "https://image.torob.com/base/images/DU/j6/DUj6mCRE2iZ7Y0b1.webp"
+  },
+  {
+    "title": "صدف بتنی ژورنالی جاشمعی و جاجواهری",
+    "group": "نامشخص",
+    "product": "صدف بتنی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بتنی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "جاشمعی",
+          "جاجواهری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف بتنی ژورنالی"
+        ]
+      }
+    ],
+    "random_key": "d8601fc1-97ef-4430-881d-cc416b78a04f",
+    "image_url": "https://image.torob.com/base/images/PX/ee/PXee--ATm7wmIEbU.jpg"
+  },
+  {
+    "title": "سنگ صدف آبالون",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف آبالون"
+        ]
+      }
+    ],
+    "random_key": "1b5b8a46-f873-4fd3-9478-9cda46ee610b",
+    "image_url": "https://image.torob.com/base/images/wz/JV/wzJVlgmNvv_6i6SP.jpg"
+  },
+  {
+    "title": "صدف دو کفه شاخک دار کلکسیونی بسیار زیبا و خاص و کمیاب",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دو کفه شاخک دار"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "زیبا",
+          "خاص",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "a94a6c4c-c63a-462f-9ce7-f50699e0aa70",
+    "image_url": "https://image.torob.com/base/images/As/zr/Aszr7ADGCOMb6nER.jpg"
+  },
+  {
+    "title": "صدف زیبای مورکس هلیکوپتری مناسب دکوری، تزیینات و عکاسی",
+    "group": "نامشخص",
+    "product": "صدف مورکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مورکس هلیکوپتری"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "دکوری",
+          "تزیینات",
+          "عکاسی"
+        ]
+      }
+    ],
+    "random_key": "843a83d7-d1b3-410f-90d5-46bfbd7fa863",
+    "image_url": "https://image.torob.com/base/images/mG/C7/mGC7eqPIw-M661je.jpg"
+  },
+  {
+    "title": "صدف طبیعی پیچی بسته 40 عددی shell 3001",
+    "group": "نامشخص",
+    "product": "صدف طبیعی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع صدف",
+        "values": [
+          "پیچی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "40 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف طبیعی"
+        ]
+      }
+    ],
+    "random_key": "fdc4e13e-fde7-43be-824e-7d7c630e0e3d",
+    "image_url": "https://image.torob.com/base/images/Kt/rj/Ktrjcg2robRVnMI3.jpg"
+  },
+  {
+    "title": "صدف توتیا بزرگ",
+    "group": "نامشخص",
+    "product": "صدف توتیا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف توتیا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      }
+    ],
+    "random_key": "ff064fc4-1aef-44f2-912a-1a570c46a3b1",
+    "image_url": "https://image.torob.com/base/images/VU/jM/VUjMeFlcHquPMs3Q.jpg"
+  },
+  {
+    "title": "صدف چشمی _ صدف دريا",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف چشمی",
+          "صدف دریا"
+        ]
+      }
+    ],
+    "random_key": "998fb901-0a68-49ea-b28e-41f3b0e6ce3d",
+    "image_url": "https://image.torob.com/base/images/r2/uF/r2uFibRmtTL1mopj.jpg"
+  },
+  {
+    "title": "صدف کاروینگ",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کاروینگ"
+        ]
+      }
+    ],
+    "random_key": "2ec627dd-9484-4721-84bf-794f8447d6cb",
+    "image_url": "https://image.torob.com/base/images/Qb/j9/Qbj9LCIlLxWeY4LL.jpg"
+  },
+  {
+    "title": "صدف دریایی بسته بندی شده با تنوع رنگ",
+    "group": "نامشخص",
+    "product": "صدف دریایی",
+    "entities": [
+      {
+        "name": "محل عرضه",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسته بندی شده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "تنوع رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "03400d76-ed32-496b-9972-44702906b110",
+    "image_url": "https://image.torob.com/base/images/hj/DL/hjDLsGHuoOpvnTR4.jpg"
+  },
+  {
+    "title": "صدف عاج فیل یا شاخ",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف عاج فیل",
+          "صدف شاخ"
+        ]
+      }
+    ],
+    "random_key": "87d07711-b9fa-4c81-8973-096276cd1008",
+    "image_url": "https://image.torob.com/base/images/n-/GH/n-GHdIr88a0CiH7r.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل Zm کد 1030",
+    "group": "نامشخص",
+    "product": "صدف تزیینی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "9193bf12-27b5-4466-ad5e-afb237737f3b",
+    "image_url": "https://image.torob.com/base/images/qt/Ip/qtIpqzxaLlZVY_x4.jpg"
+  },
+  {
+    "title": "صدف پسته ای یا زیتونی با رنگهای متنوع و خاص کد 018",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "پسته ای",
+          "زیتونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "متنوع",
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف پسته ای"
+        ]
+      }
+    ],
+    "random_key": "0b4d949f-8a83-47fa-834d-a01aac0cf975",
+    "image_url": "https://image.torob.com/base/images/kr/IE/krIEsAbZdSZj4l1Y.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10731",
+    "group": "نامشخص",
+    "product": "ریسه سنگ صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "ab662df5-bcd7-4afe-a623-95a7cb423f9d",
+    "image_url": "https://image.torob.com/base/images/Ig/6q/Ig6qRDqqsdba7QHf.webp"
+  },
+  {
+    "title": "دیدگاهها",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "e32909ff-ad4c-4ac5-924c-c18c25987279",
+    "image_url": "https://image.torob.com/base/images/2Z/Af/2ZAfbMzV6zKUJNpF.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10803",
+    "group": "نامشخص",
+    "product": "ریسه سنگ صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "ae667657-1625-4703-864f-2d35ab940f63",
+    "image_url": "https://image.torob.com/base/images/45/8x/458xe7SqcC5vMU1k.webp"
+  },
+  {
+    "title": "صدف کد 1170048",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [],
+    "random_key": "8764797a-4481-4812-999c-1c03d9e24e09",
+    "image_url": "https://image.torob.com/base/images/W9/Mz/W9MzhuuIRYJ6fbGb.jpg"
+  },
+  {
+    "title": "صدف کلکسیونی هلمت(لب قرمز)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "لب قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف هلمت"
+        ]
+      }
+    ],
+    "random_key": "f15df18b-e512-4ff4-a956-6da494a8ac9e",
+    "image_url": "https://image.torob.com/base/images/xB/nE/xBnE1LZYoHuQQ3fD.jpg"
+  },
+  {
+    "title": "مجموعه صدف برای تزئین و دکور و مجموعه داری",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئین",
+          "دکور",
+          "مجموعه داری"
+        ]
+      }
+    ],
+    "random_key": "5f006495-bc67-40b6-b79a-5cf2d8734484",
+    "image_url": "https://image.torob.com/base/images/_S/ia/_Sia-cNLlfTi419W.jpg"
+  },
+  {
+    "title": "صدف تزئینی کد 50 بسته 10عددی | کرم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 10 عددی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      }
+    ],
+    "random_key": "f4ff3587-5ae1-45b5-98ed-90df3f0c4730",
+    "image_url": "https://image.torob.com/base/images/KP/6a/KP6aS_k2q0eTcfXc.jpg"
+  },
+  {
+    "title": "زیر کن اتمی سفید تراش قلب تحمل درجه حرارت ذوب سوراخ شده مشابه الماس و موزانایت مناسب مخراج کاری",
+    "group": "نامشخص",
+    "product": "زرکونیا",
+    "entities": [],
+    "random_key": "2bd83811-87a2-4db7-87b9-bdccccc6eeb2",
+    "image_url": "https://image.torob.com/base/images/YJ/yV/YJyV0V4Qbq8i1QpA.jpg"
+  },
+  {
+    "title": "چشم کوسه (صدف شارک پک 2 عددی)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "پک 2 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف شارک"
+        ]
+      }
+    ],
+    "random_key": "e6a4adc4-5b70-4e25-a8ef-7c6e11beb274",
+    "image_url": "https://image.torob.com/base/images/fQ/bb/fQbbEbrGwXsX5YTw.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل 666 بسته 6 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 6 عددی"
+        ]
+      }
+    ],
+    "random_key": "fe1f9a0c-2b57-44b4-b599-15d1886b9cbc",
+    "image_url": "https://image.torob.com/base/images/Ba/4f/Ba4f0IcnfJ8BTxRU.jpg"
+  },
+  {
+    "title": "صدف حلزونی سایز 20*50*90 میلیمتر مدل p66",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "20*50*90 میلیمتر"
+        ]
+      }
+    ],
+    "random_key": "0d905797-2212-41bb-aa35-d1aea11ee2bd",
+    "image_url": "https://image.torob.com/base/images/GJ/uQ/GJuQ6Dl9YZcMKvb0.jpg"
+  },
+  {
+    "title": "صدف دریایی در مدل های مختلف قدیمی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "67a2d053-2232-4f1d-8ccc-4c7cd84a653a",
+    "image_url": "https://image.torob.com/base/images/N5/9N/N59NemMyUSOrmXcT.jpg"
+  },
+  {
+    "title": "صدف شیپوری سایز بزرگ",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "شیپوری"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      }
+    ],
+    "random_key": "cf955f1b-a892-4716-b5c9-8f27e930f666",
+    "image_url": "https://image.torob.com/base/images/OZ/By/OZByZqWQh4RDhCzq.jpg"
+  },
+  {
+    "title": "صدف مدل ببری بسته 6 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ببری"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 6 عددی"
+        ]
+      }
+    ],
+    "random_key": "ce40ec5d-d9fc-447b-9067-b8f0c40027b6",
+    "image_url": "https://image.torob.com/base/images/0f/iY/0fiYHFcs2r-nT5GS.jpg"
+  },
+  {
+    "title": "صدف حلزونی خال خال قهوه ای (بسته 5 عددی)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خال خال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 5 عددی"
+        ]
+      }
+    ],
+    "random_key": "e94c9f44-7d8d-4400-95b3-7c9659743b18",
+    "image_url": "https://image.torob.com/base/images/Fz/8i/Fz8iLVi8Rpm-cx-v.jpg"
+  },
+  {
+    "title": "پک صدف و صدف سوزنی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف",
+          "صدف سوزنی"
+        ]
+      }
+    ],
+    "random_key": "cd8a17dd-1231-4b03-bed5-8d8edc728df9",
+    "image_url": "https://image.torob.com/base/images/kk/o8/kko8n3YIGYUIBE0P.jpg"
+  },
+  {
+    "title": "جفت صدف آویز زیبا یا هم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "6a17172b-65fe-44bd-b45d-7a908cf5f6fd",
+    "image_url": "https://image.torob.com/base/images/Ux/vK/UxvKdmkjhqCjgCP-.jpg"
+  },
+  {
+    "title": "2 کپه صدف مروارید اصل",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مروارید ساز",
+        "values": [
+          "مروارید اصل"
+        ]
+      }
+    ],
+    "random_key": "570bc856-196c-489d-b56c-b0484cb5ff10",
+    "image_url": "https://image.torob.com/base/images/uD/Zk/uDZkTozmVJbIkIc9.jpg"
+  },
+  {
+    "title": "بشقاب مدل صدف",
+    "group": "نامشخص",
+    "product": "بشقاب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بشقاب صدف"
+        ]
+      }
+    ],
+    "random_key": "6158d0c6-d917-43b0-a108-fe9b7bb8f60d",
+    "image_url": "https://image.torob.com/base/images/y0/yJ/y0yJ2R7L36kvt8QE.jpg"
+  },
+  {
+    "title": "صدف",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "ab439fe5-500d-4c27-b43f-c08fbd0302fb",
+    "image_url": "https://image.torob.com/base/images/24/0a/240aqFd4GEa1C58r.jpg"
+  },
+  {
+    "title": "صدف پلنگی کوچک (10 عدد)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "کوچک"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "10 عدد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف پلنگی"
+        ]
+      }
+    ],
+    "random_key": "4ba82153-4f62-4e30-8bcf-3862ce93cb34",
+    "image_url": "https://image.torob.com/base/images/jR/sN/jRsNIRSNmmb32oMJ.jpg"
+  },
+  {
+    "title": "5قطعه صدف زیبا و کلکسیونی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "5 قطعه"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "c6c95fa2-1279-4802-ad2b-23ee5af78ad8",
+    "image_url": "https://image.torob.com/base/images/ZD/ow/ZDowjQyiNtRowqjW.jpg"
+  },
+  {
+    "title": "سنگ صدف اصل طرح گرد 12 میلی (فروش بصورت ریسه ای شامل 30 مهره)",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "12 میلی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "ریسه ای شامل 30 مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "bf41d533-5422-4203-9444-da8ebd1839ca",
+    "image_url": "https://image.torob.com/base/images/NX/WM/NXWMebfrViuuEqpB.jpg"
+  },
+  {
+    "title": "صدف هرمی براق",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "هرمی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "براق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف هرمی"
+        ]
+      }
+    ],
+    "random_key": "77786311-a987-4e1d-95ca-503b63a20484",
+    "image_url": "https://image.torob.com/base/images/Kw/3X/Kw3X5hk82Zm5eJTS.jpg"
+  },
+  {
+    "title": "حوضچه صدف طبیعی مدل ۲",
+    "group": "نامشخص",
+    "product": "حوضچه صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "حوضچه صدف"
+        ]
+      }
+    ],
+    "random_key": "ea266fa7-ce1b-4aac-99b9-308480578498",
+    "image_url": "https://image.torob.com/base/images/h1/ED/h1EDAUQKQ67AxXi9.jpg"
+  },
+  {
+    "title": "سنگ صدف اصل طرح ونکلیف 12 میلی (فروش بصورت ریسه ای)",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ونکلیف"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "12 میلی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "ریسه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "72da35bb-fdd3-4537-b34e-e5a722e4b981",
+    "image_url": "https://image.torob.com/base/images/h_/rT/h_rTJMNCi7s2IJ3h.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل سنگ مصنوعی",
+    "group": "نامشخص",
+    "product": "صدف تزیینی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ مصنوعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "29621257-b718-4175-b18f-dfc43f7ce5d1",
+    "image_url": "https://image.torob.com/base/images/xC/sl/xCslPk4rpqbaEpTp.jpg"
+  },
+  {
+    "title": "صدف کلکسیونی کونوس لیتراتوس conus litteratus با کیفیت عالی و خوش نقش کد 13",
+    "group": "نامشخص",
+    "product": "صدف کلکسیونی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کونوس لیتراتوس"
+        ]
+      }
+    ],
+    "random_key": "830cdfb5-e206-4417-a762-4606fc20fb2c",
+    "image_url": "https://image.torob.com/base/images/bm/W3/bmW33qPoknC8t-yd.jpg"
+  },
+  {
+    "title": "صدف حلزونی سایز 20*60*85 میلیمتر مدل R26",
+    "group": "نامشخص",
+    "product": "صدف حلزونی",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "20*60*85 میلیمتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف حلزونی"
+        ]
+      }
+    ],
+    "random_key": "b25a438a-c44f-45c9-a52a-42ec58473648",
+    "image_url": "https://image.torob.com/base/images/zg/_x/zg_xbQGZe9fYv3a7.jpg"
+  },
+  {
+    "title": "پک 20 عددی گوش ماهی زیبا کد2",
+    "group": "نامشخص",
+    "product": "گوش ماهی",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "20 عددی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوش ماهی"
+        ]
+      }
+    ],
+    "random_key": "255cf2f9-9f69-4bc3-bf0f-1487bd053740",
+    "image_url": "https://image.torob.com/base/images/H5/gB/H5gBxGnogi7huTzx.jpg"
+  },
+  {
+    "title": "صدف دو کپه ای کد 3",
+    "group": "نامشخص",
+    "product": "صدف دو کپه ای",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دو کپه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دو کپه ای"
+        ]
+      }
+    ],
+    "random_key": "557f15c5-0d4b-4053-93d5-ccbd71d6863f",
+    "image_url": "https://image.torob.com/base/images/3X/aw/3XawXB8qAd6Pt_aH.jpg"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "37cb7498-223e-4364-a1cb-02ee9fd26624",
+    "image_url": "https://image.torob.com/base/images/xr/Hf/xrHfzBj9Ypt5f4eq.webp"
+  },
+  {
+    "title": "صدف دریایی ضد عفونی شده بسته 200 گرمی",
+    "group": "نامشخص",
+    "product": "صدف دریایی",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد عفونی شده"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 200 گرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "cf533739-84e6-4b78-b3a4-c8eea03bbbae",
+    "image_url": "https://image.torob.com/base/images/0O/sz/0OszOJvAKKzeRH2M.jpg"
+  },
+  {
+    "title": "صدف ابالون طبیعی کد 6",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "56ed8ea6-8059-4cbc-b488-3dc653c843c7",
+    "image_url": "https://image.torob.com/base/images/uQ/jH/uQjHQjwC_oMo81Zz.jpg"
+  },
+  {
+    "title": "صدف حلزونی زبرا سفید و مشکی (وارداتی)",
+    "group": "نامشخص",
+    "product": "صدف حلزونی",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زبرا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف حلزونی"
+        ]
+      }
+    ],
+    "random_key": "7bf158e1-dd89-4a2c-ab30-b98dc80e3406",
+    "image_url": "https://image.torob.com/base/images/4U/Mm/4UMm_dScbR9TbbIu.jpg"
+  },
+  {
+    "title": "صدف مرجانی کد 028",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مرجانی"
+        ]
+      }
+    ],
+    "random_key": "6fe7e6b7-4824-48ab-a66f-f9de7da3c818",
+    "image_url": "https://image.torob.com/base/images/aN/RQ/aNRQQssGNjXLIW4R.jpg"
+  },
+  {
+    "title": "صدف تنه ای دریایی کد2 (دو عددی)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تنه ای دریایی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "دو عددی"
+        ]
+      }
+    ],
+    "random_key": "4767d159-7629-4702-9cee-6cbb554b448d",
+    "image_url": "https://image.torob.com/base/images/Fq/VA/FqVA8GQt6CieUpJx.jpg"
+  },
+  {
+    "title": "صدف مدل عروسکی کد 011",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف عروسکی"
+        ]
+      }
+    ],
+    "random_key": "02bb16bf-2cd3-4234-8393-10df9afc11ad",
+    "image_url": "https://image.torob.com/base/images/nl/AG/nlAGPoxBQwAoLk7F.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10737",
+    "group": "نامشخص",
+    "product": "ریسه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "7da6e420-858d-4e1e-99db-0f1569c36bcf",
+    "image_url": "https://image.torob.com/base/images/iK/9k/iK9kEAwG8Y1qHpVm.webp"
+  },
+  {
+    "title": "صدف گوش ماهی رنگی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف گوش ماهی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      }
+    ],
+    "random_key": "5d28fba2-81d0-4538-a30b-9988ca1eee5f",
+    "image_url": "https://image.torob.com/base/images/sq/gs/sqgsPPSId-5cVSPD.webp"
+  },
+  {
+    "title": "برکه صدف رزینی",
+    "group": "نامشخص",
+    "product": "برکه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف رزینی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "رزینی"
+        ]
+      }
+    ],
+    "random_key": "b210e957-7de8-4982-b5f6-feb13a087728",
+    "image_url": "https://image.torob.com/base/images/xG/Er/xGErpWyt0yp3PxRV.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل 666 بسته 6 عددی | کرم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 6 عددی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "20238c6d-e36e-4844-99bc-4afb69a9d1b2",
+    "image_url": "https://image.torob.com/base/images/Xx/eT/XxeTuAgd2PLV8d7e.jpg"
+  },
+  {
+    "title": "صدف آبکاری شده درجه یک مشکی طلایی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "آبکاری شده"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "طلایی"
+        ]
+      }
+    ],
+    "random_key": "615d8c41-9a53-4793-b39f-0731da37ac89",
+    "image_url": "https://image.torob.com/base/images/rR/bp/rRbpLCcMeBTgBDLx.jpg"
+  },
+  {
+    "title": "صدف دریایی کونوس امپرالیس",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی کونوس امپرالیس"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      }
+    ],
+    "random_key": "9be7fa73-b6cb-4fa6-985b-d7367846a853",
+    "image_url": "https://image.torob.com/base/images/cT/s6/cTs6R2yjRvKG9IQD.jpg"
+  },
+  {
+    "title": "صنایع دستی صدفی، صدف کد c09",
+    "group": "نامشخص",
+    "product": "صنایع دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صنایع دستی صدفی",
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "bede824e-30bf-47ca-9adb-df4857713359",
+    "image_url": "https://image.torob.com/base/images/z4/YG/z4YGeQuldfSFVldU.jpg"
+  },
+  {
+    "title": "صدف ریز رنگ کرم(30گرم) مدل pkst04",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "ریز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "30گرم"
+        ]
+      }
+    ],
+    "random_key": "16776d2e-3da4-488a-9daa-e696d081eaa3",
+    "image_url": "https://image.torob.com/base/images/2u/b8/2ub8NiNwCd9F5xfp.jpg"
+  },
+  {
+    "title": "پک 2 عددی صدف پسته ای ریز خلیج فارس 100 در 100 طبیعی شاهکار خلقت کاملا تمیز و بدون بو مختص کارهای تزئینی کد 9412",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "2 عددی"
+        ]
+      },
+      {
+        "name": "نوع صدف",
+        "values": [
+          "پسته ای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "ریز"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "خلیج فارس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تمیز",
+          "بدون بو"
+        ]
+      }
+    ],
+    "random_key": "cfc11ec1-2c28-4754-bb97-c57d00964fe9",
+    "image_url": "https://image.torob.com/base/images/qp/3p/qp3p1q0gr5L0MKc1.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل صدف دریایی مدل kh227 وزن 87 گرم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "87 گرم"
+        ]
+      }
+    ],
+    "random_key": "53289cf1-3941-4064-8939-69124381f27e",
+    "image_url": "https://image.torob.com/base/images/qb/hd/qbhd2rgN_z7WEHCl.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل براون",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "براون"
+        ]
+      }
+    ],
+    "random_key": "ae342732-a41f-4647-84ed-15b8e0eef604",
+    "image_url": "https://image.torob.com/base/images/YD/Lx/YDLxTwWMvsYaDAWQ.jpg"
+  },
+  {
+    "title": "قالب سیلیکونی صدف شیاردار",
+    "group": "نامشخص",
+    "product": "قالب سیلیکونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف شیاردار"
+        ]
+      }
+    ],
+    "random_key": "4f7b8053-33c9-41db-bc8c-dbacd9653c09",
+    "image_url": "https://image.torob.com/base/images/3G/qL/3GqLmNTP8Qwowu0e.jpg"
+  },
+  {
+    "title": "صدف دولب از نوع مروارید کد 006",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دولب"
+        ]
+      },
+      {
+        "name": "مروارید ساز",
+        "values": [
+          "مروارید"
+        ]
+      }
+    ],
+    "random_key": "0cf5e1fb-8098-4677-9dfa-57f405f1cfa7",
+    "image_url": "https://image.torob.com/base/images/9E/n6/9En6-cAhcKuwueCm.jpg"
+  },
+  {
+    "title": "صدف دریایی کد 4",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      }
+    ],
+    "random_key": "5d297f01-2d7d-40d1-83b5-61dbeffeb4ae",
+    "image_url": "https://image.torob.com/base/images/BC/fp/BCfp6hensaTZUuV5.jpg"
+  },
+  {
+    "title": "صدف قدمتدار نقاشی (کاردست دوره قاجاریه)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "قدیمی",
+          "نقاشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "ae9e20e0-00a5-43e6-a5a6-f4f4000b061c",
+    "image_url": "https://image.torob.com/base/images/fc/ny/fcnyz-uYvGOE8z2Z.jpg"
+  },
+  {
+    "title": "صدف شکن قدیمی",
+    "group": "نامشخص",
+    "product": "صدف شکن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف شکن"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "0dae931b-9143-4e7e-a91e-5a43e64624c8",
+    "image_url": "https://image.torob.com/base/images/DX/D7/DXD7XiASkmxLTZnH.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف",
+    "group": "نامشخص",
+    "product": "ریسه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ صدف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "fe53aa6c-4a99-452d-8e87-d1a97c483c4d",
+    "image_url": "https://image.torob.com/base/images/NU/1j/NU1jgpyrVwWPXtMQ.jpg"
+  },
+  {
+    "title": "صدف مهره مار شش عددی کد 108344",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "شش عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مهره مار"
+        ]
+      }
+    ],
+    "random_key": "d6080891-fff6-4c39-ab4b-4f801cb5113b",
+    "image_url": "https://image.torob.com/base/images/72/qQ/72qQSUJHx354gFsB.jpg"
+  },
+  {
+    "title": "صدف حلزونی سایز 40*62 میلیمتر مدل تراش اسب دریایی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع فرم",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40*62 میلیمتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف حلزونی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تراش اسب دریایی"
+        ]
+      }
+    ],
+    "random_key": "31db0f35-d58d-477b-b691-b1d023a394cc",
+    "image_url": "https://image.torob.com/base/images/GS/Q2/GSQ2N3kyroAO12mR.jpg"
+  },
+  {
+    "title": "صدف دریایی سایز متوسط کد3(یک عددی)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "یک عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "7291894a-cd52-441b-be80-8c21d3f8fc95",
+    "image_url": "https://image.torob.com/base/images/3z/0x/3z0xdpMy9CvL1QjQ.jpg"
+  },
+  {
+    "title": "صدف طبیعی نقاشی شده ( انار شب یلدا )",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "نقاشی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "انار شب یلدا"
+        ]
+      }
+    ],
+    "random_key": "14b50fbf-c275-4aea-9298-1896f7224b35",
+    "image_url": "https://image.torob.com/base/images/H5/Tv/H5TvkH8uCAVcJvKB.jpg"
+  },
+  {
+    "title": "صدف سوزنی ریز زرد",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "ریز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سوزنی"
+        ]
+      }
+    ],
+    "random_key": "cd06abda-51ad-4098-80f0-5d0aa83a0020",
+    "image_url": "https://image.torob.com/base/images/a4/gU/a4gUxhTIIFuNqIu_.jpg"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "6a4b2fb2-8913-489e-a5d9-13c7b59ae00a",
+    "image_url": "https://image.torob.com/base/images/AP/YE/APYEtc291SFOWsrl.webp"
+  },
+  {
+    "title": "صدف ترکیبی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ترکیبی"
+        ]
+      }
+    ],
+    "random_key": "52ffef99-6563-476d-be1c-61610882c55c",
+    "image_url": "https://image.torob.com/base/images/y9/lO/y9lOAc9h-HBUrMLZ.webp"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "1fff0d46-36c0-4fc6-b6e7-096d94201ba0",
+    "image_url": "https://image.torob.com/base/images/q8/Wg/q8WgsF-ohpLQAolS.webp"
+  },
+  {
+    "title": "صدف ساده مناسب رزین شمع سازی .صدف رزین صدف دریا گوش ماهی گوش ماهی دوکی صدف دریای رزینی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "رزین",
+          "شمع سازی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع آب",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "رزینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف",
+          "گوش ماهی",
+          "گوش ماهی دوکی",
+          "صدف دریایی رزینی"
+        ]
+      }
+    ],
+    "random_key": "7db43a58-891d-4f4c-843c-9370096a9d36",
+    "image_url": "https://image.torob.com/base/images/iH/mY/iHmYD1o71lh3rgox.jpg"
+  },
+  {
+    "title": "صدف مالوک کد 1",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مالوک"
+        ]
+      }
+    ],
+    "random_key": "1fb70d74-8465-4d84-ab16-c2fae8fd5f48",
+    "image_url": "https://image.torob.com/base/images/Ra/yM/RayMamqbZEvew78n.jpg"
+  },
+  {
+    "title": "صدف دو کفه ای با رنگ طبیعی و سایز بزرگ بسیار خاص و کلکسیونی(تک عددی)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دو کفه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "خاص",
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "تک عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دو کفه ای"
+        ]
+      }
+    ],
+    "random_key": "c85097ec-7cfb-4618-8f90-c76ae9798464",
+    "image_url": "https://image.torob.com/base/images/8s/qd/8sqdeMVmLMC8b7ee.jpg"
+  },
+  {
+    "title": "صدف سیپرا mauritiana کلکسیونی فوق العاده باکیفیت و خوشرنگ و خاص کد 2",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سیپرا mauritiana"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "باکیفیت",
+          "خاص"
+        ]
+      }
+    ],
+    "random_key": "2bcee9fa-c9d6-4a3b-b1a5-b8809137ea8b",
+    "image_url": "https://image.torob.com/base/images/wK/Bs/wKBso1v_aLwWSfmv.jpg"
+  },
+  {
+    "title": "صدف تک کفه رنگی مدل برگی یاچیپسی ساده متوسط 12 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "تک کفه ای",
+          "برگی",
+          "چیپسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "12 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "e30a4045-85c9-4164-ad3a-d8144c4f2d14",
+    "image_url": "https://image.torob.com/base/images/nq/v1/nqv1gFo78jxOuoZ-.jpg"
+  },
+  {
+    "title": "صدف تزئینی مدل a08 بسته 3 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 3 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "a410bfc2-db55-4eae-ae98-f04c44444cb9",
+    "image_url": "https://image.torob.com/base/images/9Q/CI/9QCI-Ln5RtM2jaYY.jpg"
+  },
+  {
+    "title": "صدف اقیانوسی دوعددی طبیعی دریایی هندی سایز متوسط",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "اقیانوسی",
+          "دریایی",
+          "هندی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "دو عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "29486b82-a733-453d-a75e-936d552dcd50",
+    "image_url": "https://image.torob.com/base/images/PP/Hy/PPHyJPTtFRrkfZo5.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل RS544 مجموعه 4 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "مجموعه 4 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "e6080e6b-8803-490b-971d-a8272e00e23f",
+    "image_url": "https://image.torob.com/base/images/zx/zn/zxzn5Xql5CTl35HU.jpg"
+  },
+  {
+    "title": "صدف دریای مناسب برای اکواریوم و دکوری",
+    "group": "نامشخص",
+    "product": "صدف دریایی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "آکواریوم",
+          "دکوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "410dceda-99b6-4a8d-9f95-0f6a78b841a3",
+    "image_url": "https://image.torob.com/base/images/0J/8j/0J8jAxQi8l_N403_.jpg"
+  },
+  {
+    "title": "صدف خاردار ترکیبی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "خاردار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ترکیبی"
+        ]
+      }
+    ],
+    "random_key": "c51a6970-fc59-466c-aff5-3737fc4fc8da",
+    "image_url": "https://image.torob.com/base/images/ST/eY/STeY0kN49D99y8eQ.webp"
+  },
+  {
+    "title": "صدف دوکی زیبا سایز کوچک مناسب کارهای هنری، تزیینات و کلکسیون",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دوکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "کوچک"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کارهای هنری",
+          "تزیینات",
+          "کلکسیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دوکی"
+        ]
+      }
+    ],
+    "random_key": "fb45aa8d-c3dd-476a-ad98-8d83cd9bc4ee",
+    "image_url": "https://image.torob.com/base/images/j_/ZX/j_ZXLYjSXNDcIG5m.jpg"
+  },
+  {
+    "title": "دوعدد صدف و مرجان کلکسیونی",
+    "group": "نامشخص",
+    "product": "صدف و مرجان",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "دو عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف و مرجان"
+        ]
+      }
+    ],
+    "random_key": "c4fa8cca-12b5-4653-83d9-244115b723d6",
+    "image_url": "https://image.torob.com/base/images/la/ll/lall4ys_gL_Im131.jpg"
+  },
+  {
+    "title": "صدف کفه ای لب سیاه براق و صیقلی هفت رنگ سایز متوسط مناسب کلکسیون و تزئینی و تراش و رزین",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "کفه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "هفت رنگ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیون",
+          "تزئینی",
+          "تراش",
+          "رزین"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "براق",
+          "صیقلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کفه ای"
+        ]
+      }
+    ],
+    "random_key": "a1cb1560-13ff-4a47-9f61-55fe647db9c1",
+    "image_url": "https://image.torob.com/base/images/ZH/sW/ZHsWySvsplE8u9Uf.jpg"
+  },
+  {
+    "title": "صدف",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "9c1c5f90-fe92-4bd4-a1a8-b236590fa63d",
+    "image_url": "https://image.torob.com/base/images/TW/nu/TWnuZyR5snbZPHRJ.jpg"
+  },
+  {
+    "title": "مرجان و صدف دریایی",
+    "group": "نامشخص",
+    "product": "مرجان و صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان و صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "4e69348b-028e-4232-b96e-11c761c5c17a",
+    "image_url": "https://image.torob.com/base/images/Qb/hX/QbhXuEQhk4u7ojKj.jpg"
+  },
+  {
+    "title": "صدف کفه ای رنگی (پک 10 عددی)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "کفه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "پک 10 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کفه ای"
+        ]
+      }
+    ],
+    "random_key": "22b02918-3de2-4bfe-af86-981d84fa81cd",
+    "image_url": "https://image.torob.com/base/images/yc/-8/yc-8TtW5DrXLxuCZ.jpg"
+  },
+  {
+    "title": "صدف طبیعی سفید",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "25851b88-bb4f-4660-9cde-e384946f55d2",
+    "image_url": "https://image.torob.com/base/images/54/dp/54dpzrAiZHC-xV4G.jpg"
+  },
+  {
+    "title": "صدف مهره مار زیبا کد 48869",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "مهره مار"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "2df3aa72-73d1-48fd-8c87-5e6b92571192",
+    "image_url": "https://image.torob.com/base/images/3z/4j/3z4jLv-7ukNfoavJ.jpg"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "d2670361-23cf-4e6d-9eb9-6c29d2f80e9d",
+    "image_url": "https://image.torob.com/base/images/bO/8X/bO8XrZJOb3WGCa3O.webp"
+  },
+  {
+    "title": "صدف پسته ای دریایی سایز بسیار درشت صددر صد طبیعی شاهکار خلقت کاملا تمیز و بدون بو مختص کارهای تزئینی و ساخت زیور آلات",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "پسته ای"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بسیار درشت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی",
+          "ساخت زیور آلات"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تمیز",
+          "بدون بو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف پسته ای"
+        ]
+      }
+    ],
+    "random_key": "ced495ad-c6ed-4a0d-ac49-35ca68dda4d7",
+    "image_url": "https://image.torob.com/base/images/GI/Wq/GIWq4EiXKaGrB2js.jpg"
+  },
+  {
+    "title": "صدف کونوس کاپیتان رنگ فوق العاده زیبا و خاص کد2",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "کونوس کاپیتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کونوس کاپیتان"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "فوق العاده زیبا",
+          "خاص"
+        ]
+      }
+    ],
+    "random_key": "f3292a24-7e74-41ce-a914-dd3e24349a30",
+    "image_url": "https://image.torob.com/base/images/Lv/ms/Lvmsp0CnK-px20Xz.jpg"
+  },
+  {
+    "title": "صدف اقیانوس دکوری طبیعی بزرگ رنگ گلبهی کرم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "اقیانوسی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "دکوری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گلبهی",
+          "کرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف اقیانوس"
+        ]
+      }
+    ],
+    "random_key": "22e43df5-df1c-4052-b648-f373b4f59e45",
+    "image_url": "https://image.torob.com/base/images/Ho/KX/HoKX_tyx_tJ9IsbS.jpg"
+  },
+  {
+    "title": "سنگ صدف باروک شیری آب شور طبیعی نامنظم سایز درشت دو طرف سوراخ دار",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "باروک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "شیری"
+        ]
+      },
+      {
+        "name": "نوع آب",
+        "values": [
+          "آب شور"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نامنظم",
+          "دو طرف سوراخ دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف باروک"
+        ]
+      }
+    ],
+    "random_key": "b8d04d89-45d8-40ec-986c-bc67a3476851",
+    "image_url": "https://image.torob.com/base/images/GP/b3/GPb3G2KrayzslAnh.jpg"
+  },
+  {
+    "title": "مجموعه 20عددی صدف رنگی بسیارزیبا",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "20 عددی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "415879f3-c533-4cf5-9cc1-884d6e8657c4",
+    "image_url": "https://image.torob.com/base/images/X5/TZ/X5TZvp2qXG2XZhes.jpg"
+  },
+  {
+    "title": "صدف مرجانی کد 025",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "مرجانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مرجانی"
+        ]
+      }
+    ],
+    "random_key": "3f01f26a-a471-4b76-95c9-a54b8dc638ce",
+    "image_url": "https://image.torob.com/base/images/aS/AA/aSAAyONsJA71R6Eu.jpg"
+  },
+  {
+    "title": "صدف تزئینی مدل RS494",
+    "group": "نامشخص",
+    "product": "صدف تزئینی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزئینی"
+        ]
+      }
+    ],
+    "random_key": "7de613d2-c64c-4af5-a69e-5381433e6947",
+    "image_url": "https://image.torob.com/base/images/C3/gM/C3gMdQu2gwYo4Lgg.webp"
+  },
+  {
+    "title": "صدف کفه ای مدل H530 بسته 6 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "کفه ای"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 6 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کفه ای"
+        ]
+      }
+    ],
+    "random_key": "32806d88-87e5-4f6e-9f00-757a495bffd1",
+    "image_url": "https://image.torob.com/base/images/To/40/To40UBlXi3RYBLbM.jpg"
+  },
+  {
+    "title": "صدف دکوری کد 2110 طرح حلزون | چند رنگ",
+    "group": "نامشخص",
+    "product": "صدف دکوری",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "دکوری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "حلزون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دکوری طرح حلزون"
+        ]
+      }
+    ],
+    "random_key": "4036f65a-1d1d-4a60-8710-110882736598",
+    "image_url": "https://image.torob.com/base/images/KV/HT/KVHTBc7axkxihPOc.jpg"
+  },
+  {
+    "title": "صدف کفه ای پر طاوسی زیبای خلیج",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "کفه ای"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "زیبای"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "خلیج"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پر طاوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کفه ای"
+        ]
+      }
+    ],
+    "random_key": "50855bdb-dac0-41c3-96a4-178e6c2ba01f",
+    "image_url": "https://image.torob.com/base/images/MQ/xu/MQxux-orbfwhBMHK.jpg"
+  },
+  {
+    "title": "پک صدف مروارید عشق در رنگبندی متنوع",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مروارید ساز",
+        "values": [
+          "مروارید ساز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگبندی متنوع"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مروارید عشق"
+        ]
+      }
+    ],
+    "random_key": "cc9669bd-1c2b-42c3-babb-cf5612c1b548",
+    "image_url": "https://image.torob.com/base/images/Wh/9O/Wh9OD76_c6jKCrYf.jpg"
+  },
+  {
+    "title": "بیس صدف سایز کوچک",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "کوچک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیس صدف"
+        ]
+      }
+    ],
+    "random_key": "b63d760c-c299-49c1-bc94-7efbcb5d717d",
+    "image_url": "https://image.torob.com/base/images/w4/mY/w4mYy3vB8iLWsGW9.jpg"
+  },
+  {
+    "title": "صدف سیپرا کاملا طبیعی رنگ خاص بسیار باکیفیت",
+    "group": "نامشخص",
+    "product": "صدف سیپرا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سیپرا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "خاص",
+          "باکیفیت"
+        ]
+      }
+    ],
+    "random_key": "27d7dba6-a499-40ca-b2a2-8ccb63b22024",
+    "image_url": "https://image.torob.com/base/images/6H/9u/6H9uwpqfMmzRPony.jpg"
+  },
+  {
+    "title": "صدف دریایی سیپرا (فروش بصورت دونه ای )",
+    "group": "نامشخص",
+    "product": "صدف سیپرا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سیپرا دریایی"
+        ]
+      }
+    ],
+    "random_key": "da568d0b-0a7f-4361-8c02-e44260c018da",
+    "image_url": "https://image.torob.com/base/images/Vx/C7/VxC7P9HEsOio_Ipd.jpg"
+  },
+  {
+    "title": "8 تا صدف کوچک",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "8 عددی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "کوچک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "6bf23698-bd4a-492d-a920-73ab8cb44cdf",
+    "image_url": "https://image.torob.com/base/images/nh/rk/nhrk5SbTWScKJ2PC.jpg"
+  },
+  {
+    "title": "صدف سیپرا خارجی خاص و کاملا طبیعی کد 38",
+    "group": "نامشخص",
+    "product": "صدف سیپرا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سیپرا"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "خارجی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "e5948dcb-4cd7-4368-929f-4483900545fa",
+    "image_url": "https://image.torob.com/base/images/7R/rv/7Rrvu639x4dAa1xW.jpg"
+  },
+  {
+    "title": "صدف آبالون اصل و طبیعی با رنگ و تلالو چشم نواز",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف آبالون"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "اصل",
+          "چشم نواز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "ae921b28-bad4-4056-ae94-322a6fb709cd",
+    "image_url": "https://image.torob.com/base/images/iq/8c/iq8cz15REbUULv5T.jpg"
+  },
+  {
+    "title": "صدف طبیعی 55 عددی shell 3012",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "55 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "99db8ced-0425-4dd2-bc31-3cf66c35ebc7",
+    "image_url": "https://image.torob.com/base/images/cQ/dB/cQdBQTNCSuWcDU_-.jpg"
+  },
+  {
+    "title": "صدف سایز بزرگ کلکسیونی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "ba388ea5-5dc5-453f-bba7-34d9f74bf0c3",
+    "image_url": "https://image.torob.com/base/images/oG/D3/oGD3ENpijKwhDnXJ.jpg"
+  },
+  {
+    "title": "صدف خاردار ترکیبی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "خاردار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "74a166c5-f26c-44b6-9442-1fa00abef1dc",
+    "image_url": "https://image.torob.com/base/images/hM/KD/hMKDpwlm5u4iHvt1.webp"
+  },
+  {
+    "title": "ماهی عید ماهی نوروز ماهی جاویدان ماهی نقاشی شده در صدف",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "نقاشی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "62875d3f-4e16-4b6c-af79-1bb2ee1f96bf",
+    "image_url": "https://image.torob.com/base/images/q2/Z9/q2Z9EuTkU3cS9qJj.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل B001 مجموعه 45 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "مجموعه 45 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "ecb619ba-4e8a-4b94-b345-4598a0d80cb3",
+    "image_url": "https://image.torob.com/base/images/jy/Dt/jyDtOlNx7JqHatlQ.jpg"
+  },
+  {
+    "title": "صدف تزیینی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "77973eb6-0de3-41e0-b04e-f7ae46dbd6da",
+    "image_url": "https://image.torob.com/base/images/IY/Ya/IYYac4w8K_DNhOAt.jpg"
+  },
+  {
+    "title": "صدف _ دور قاب برنجی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "b0d5d1d1-f79b-4e5b-ab61-1bf3bb7b961e",
+    "image_url": "https://image.torob.com/base/images/Ld/mA/LdmATo-F6OdaEv5A.jpg"
+  },
+  {
+    "title": "صدف طبیعی تزئینی شیار دار سایز درشت",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیار دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "86dfce87-502b-4e8d-a1c1-3794cecc5a3f",
+    "image_url": "https://image.torob.com/base/images/-t/wq/-twqkGPdZXtNa3Hc.jpg"
+  },
+  {
+    "title": "صدف دریایی کد 6",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "986db320-4fac-4db5-b931-06c9c59fe962",
+    "image_url": "https://image.torob.com/base/images/Y9/tM/Y9tM9FcISzgAUXY9.jpg"
+  },
+  {
+    "title": "صدف شماره5",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "17737b41-0a9e-42a0-9bc5-066e5f841b41",
+    "image_url": "https://image.torob.com/base/images/18/zs/18zso9o0flJkcFQN.jpg"
+  },
+  {
+    "title": "صدف دریایی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "81d232eb-ddca-4626-b806-095022387c78",
+    "image_url": "https://image.torob.com/base/images/jJ/x7/jJx7dWshhGJqRrDq.jpg"
+  },
+  {
+    "title": "نگین صدف شب چراغ معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "نگین صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین صدف"
+        ]
+      }
+    ],
+    "random_key": "46614e5e-17dc-4dcf-a4ad-6d27ff7c63a3",
+    "image_url": "https://image.torob.com/base/images/Ba/9e/Ba9eLK-Lbbee88Lh.jpg"
+  },
+  {
+    "title": "صدف مدل عروسکی کد 06",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مدل عروسکی"
+        ]
+      }
+    ],
+    "random_key": "cf6f2018-9fec-4cfb-b566-744183de3c14",
+    "image_url": "https://image.torob.com/base/images/M_/Gr/M_GrqQOP4E4pzkvK.jpg"
+  },
+  {
+    "title": "صدف مدل عروسکی کد 014",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مدل عروسکی"
+        ]
+      }
+    ],
+    "random_key": "8fb00879-09c4-4eb3-8626-1069a2f6058a",
+    "image_url": "https://image.torob.com/base/images/o2/o6/o2o6SZYti_P9cO7T.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل RS529",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "ec7bb037-82d7-4d78-8a0d-a9e7c4fb09cf",
+    "image_url": "https://image.torob.com/base/images/FO/vR/FOvReGxXoInXhv5C.jpg"
+  },
+  {
+    "title": "صنایع دستی صدفی، پک صدف کدc05",
+    "group": "نامشخص",
+    "product": "صنایع دستی صدفی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صنایع دستی صدفی"
+        ]
+      }
+    ],
+    "random_key": "4d52c0f0-41ce-44e3-98b0-6be1f6463d17",
+    "image_url": "https://image.torob.com/base/images/h7/sG/h7sGKu-WlxxktAW7.jpg"
+  },
+  {
+    "title": "سنگ گره ای کوتاه 45 صدف ساده قطر 6",
+    "group": "نامشخص",
+    "product": "سنگ گره ای",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "یک عددی"
+        ]
+      }
+    ],
+    "random_key": "3a05347f-120a-4958-bfd7-e6dd222759e7",
+    "image_url": "https://image.torob.com/base/images/l3/Ta/l3Ta-sVQrLJzNbK3.webp"
+  },
+  {
+    "title": "صدف تک شاخ یونیکورن (حلزون قیفی بلند)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزون قیفی بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تک شاخ یونیکورن"
+        ]
+      }
+    ],
+    "random_key": "7ccef07a-e013-404b-8286-05715e4f046c",
+    "image_url": "https://image.torob.com/base/images/kj/NN/kjNNPSlEVcCRNG8e.jpg"
+  },
+  {
+    "title": "صدف مورکس سفید دهانه صورتی بسیار زیبا و کاملا طبیعی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مورکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "صورتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "0736f665-94b2-49da-ae0a-373d555d53a3",
+    "image_url": "https://image.torob.com/base/images/7I/wa/7IwaYzuy50Dw3ayq.jpg"
+  },
+  {
+    "title": "ریسه صدف طرح ونکلیف در 3 سایز -",
+    "group": "نامشخص",
+    "product": "ریسه صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح ونکلیف"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه صدف"
+        ]
+      }
+    ],
+    "random_key": "caea455b-57db-4b7a-a04b-976c687ed4b6",
+    "image_url": "https://image.torob.com/base/images/-o/Bf/-oBfjF0b0HSx6j_I.webp"
+  },
+  {
+    "title": "صدف حلزونی سبز کوچک بسته 12 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "کوچک"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 12 عددی"
+        ]
+      }
+    ],
+    "random_key": "0f2a1988-9f3e-4f4d-893d-5e50a30409e9",
+    "image_url": "https://image.torob.com/base/images/qm/gk/qmgke9FZnlL4f3sh.jpg"
+  },
+  {
+    "title": "صدف لب سیاه یا مروارید ساز خلیج فارس، مناسب برای سرو غذاهای دریایی و پذیرایی،شمع و رزین، جا جواهری ، برش برای کار هنری",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف لب سیاه"
+        ]
+      },
+      {
+        "name": "مروارید ساز",
+        "values": [
+          "مروارید ساز"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "خلیج فارس"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "سرو غذاهای دریایی",
+          "پذیرایی",
+          "شمع",
+          "رزین",
+          "جا جواهری",
+          "برش برای کار هنری"
+        ]
+      }
+    ],
+    "random_key": "291e2eb7-85dc-472b-84ac-31e371ea6fa3",
+    "image_url": "https://image.torob.com/base/images/Xv/2z/Xv2zRsMO7l_FbeT7.jpg"
+  },
+  {
+    "title": "صدف ریز رنگ عسلی (30گرم) مدل pkst03",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "ریز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "عسلی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "30گرم"
+        ]
+      }
+    ],
+    "random_key": "bfc17a44-6478-4f14-b9c4-da86c0e506b3",
+    "image_url": "https://image.torob.com/base/images/HN/Eb/HNEbCdHzRN3WPi5y.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10797",
+    "group": "نامشخص",
+    "product": "ریسه سنگ صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "f03d607b-3690-4835-a4ef-9d3fc15e751c",
+    "image_url": "https://image.torob.com/base/images/Q7/T9/Q7T9_r0HM3fAoEuV.webp"
+  },
+  {
+    "title": "صدف تایگر ،تزیینی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تایگر"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      }
+    ],
+    "random_key": "baf61325-b8e3-427a-953e-f0d4e6b5b858",
+    "image_url": "https://image.torob.com/base/images/A0/Jy/A0Jy6li6q2GHfI9X.jpg"
+  },
+  {
+    "title": "ریسه صدف طرح گل در 4 سایز",
+    "group": "نامشخص",
+    "product": "ریسه صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح گل"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه صدف"
+        ]
+      }
+    ],
+    "random_key": "85bd5879-9dd8-4195-ba68-d2940dd4a2f8",
+    "image_url": "https://image.torob.com/base/images/99/SH/99SHPdzdyykqw5Ds.webp"
+  },
+  {
+    "title": "صدف دریایی سیپرا (فروش بصورت",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی سیپرا"
+        ]
+      },
+      {
+        "name": "نوع آب",
+        "values": [
+          "آب شور"
+        ]
+      }
+    ],
+    "random_key": "8a9992cd-ce05-448a-9847-0b7cce08befd",
+    "image_url": "https://image.torob.com/base/images/ov/sj/ovsjdxiYMtem978-.jpg"
+  },
+  {
+    "title": "صدف والوت کد 3",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف والوت"
+        ]
+      }
+    ],
+    "random_key": "945a873f-5438-4ba3-a0d5-32f98f6a1759",
+    "image_url": "https://image.torob.com/base/images/4N/a5/4Na5R4BpHS1XEyDq.jpg"
+  },
+  {
+    "title": "صدف ریز",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "ریز"
+        ]
+      }
+    ],
+    "random_key": "c73fa10d-a727-49df-8d1e-c9f7d1b747aa",
+    "image_url": "https://image.torob.com/base/images/5B/9W/5B9WVWZJ1tb5i5Fs.jpg"
+  },
+  {
+    "title": "صدف توتیا و ستاره دریایی واقعی",
+    "group": "نامشخص",
+    "product": "صدف و ستاره دریایی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "واقعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف توتیا و ستاره دریایی"
+        ]
+      }
+    ],
+    "random_key": "307d1d64-9c1a-4064-b298-f37862c47d51",
+    "image_url": "https://image.torob.com/base/images/5z/Lw/5zLwYjL5XXJTH2P5.jpg"
+  },
+  {
+    "title": "صدف اشکی طبیعی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "c5113e58-9052-4f7b-8592-881cb6a4f102",
+    "image_url": "https://image.torob.com/base/images/ze/VV/zeVVR_0CbMutyfeC.jpg"
+  },
+  {
+    "title": "پک صدف و ستاره دریایی",
+    "group": "نامشخص",
+    "product": "پک صدف و ستاره دریایی",
+    "entities": [],
+    "random_key": "3f894bf0-e0c9-4618-a79a-4ef9069ad215",
+    "image_url": "https://image.torob.com/base/images/v2/lE/v2lEJliKzOZUYcqV.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10716",
+    "group": "نامشخص",
+    "product": "ریسه سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "fc4532ad-69b4-4de9-ac1c-8a5d5b17d12e",
+    "image_url": "https://image.torob.com/base/images/RM/SD/RMSD_ILqOi9Wb_Vr.webp"
+  },
+  {
+    "title": "صدف ریز ببری ( تعداد موجود در پک 10 عدد)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "ریز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ببری"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "10 عدد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ریز"
+        ]
+      }
+    ],
+    "random_key": "d4ebb427-532e-4f4a-bf39-2ce7cdecb452",
+    "image_url": "https://image.torob.com/base/images/YA/5c/YA5cqBw0e_VvQxAV.jpg"
+  },
+  {
+    "title": "صدف",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "8fd3111b-9045-4b65-9ceb-440686c99e5c",
+    "image_url": "https://image.torob.com/base/images/aL/P9/aLP9-q85pF0aynWw.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف اقلیمه کد B71",
+    "group": "نامشخص",
+    "product": "ریسه سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "495abead-5147-401a-b981-204b95166ee2",
+    "image_url": "https://image.torob.com/base/images/A_/T9/A_T9x-MG-I9dVNkc.jpg"
+  },
+  {
+    "title": "صدف تزئینی آکواریوم مدل COOL 500 مجوعه 13 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی",
+          "آکواریوم"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "13 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزئینی"
+        ]
+      }
+    ],
+    "random_key": "9ba8f577-ed58-4818-9da0-b86c6ecaac02",
+    "image_url": "https://image.torob.com/base/images/Dq/x3/Dqx3e0Flq25Bnwpa.jpg"
+  },
+  {
+    "title": "مجموعه صدف خلیج فارس, کیش",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "خلیج فارس",
+          "کیش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "a9a8ae85-dc98-49f5-a556-5fe532217ef0",
+    "image_url": "https://image.torob.com/base/images/dd/No/ddNoQSgwcy8P2dar.jpg"
+  },
+  {
+    "title": "صدف ابالون 03",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "58836bf1-94bd-4dc2-bad2-2578abd9c606",
+    "image_url": "https://image.torob.com/base/images/Gg/vP/GgvPbRf-yiNAriHH.jpg"
+  },
+  {
+    "title": "صدف طبیعی آبالون",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف آبالون"
+        ]
+      }
+    ],
+    "random_key": "3db2e924-4b90-4647-9c21-070ee9034777",
+    "image_url": "https://image.torob.com/base/images/Ov/9i/Ov9icBaOeGL0EH_s.jpg"
+  },
+  {
+    "title": "صدف جواهرات و تخته موج",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "جواهرات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "e8c00f0d-885a-4bdc-b4bf-3271706296ef",
+    "image_url": "https://image.torob.com/base/images/cA/K1/cAK1RMZ4v27UO0TJ.jpg"
+  },
+  {
+    "title": "صدف مرجانی کد 027",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مرجانی"
+        ]
+      }
+    ],
+    "random_key": "f0d85b1d-a335-41cc-a13a-5e8db0a25839",
+    "image_url": "https://image.torob.com/base/images/t-/t5/t-t5uXHaNZJM-mK2.jpg"
+  },
+  {
+    "title": "صدف کد 1170002",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "dd78c954-8249-4a78-961a-4a5e0d19d60a",
+    "image_url": "https://image.torob.com/base/images/J_/5k/J_5kp4LoZk979ajf.jpg"
+  },
+  {
+    "title": "صدف سنگی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سنگی"
+        ]
+      }
+    ],
+    "random_key": "96312067-29d9-4aca-98d4-372bdabfbdd6",
+    "image_url": "https://image.torob.com/base/images/MQ/9N/MQ9NjvKkMg5-uPOK.jpg"
+  },
+  {
+    "title": "صدف کفه ای پهن",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "کفه ای پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کفه ای"
+        ]
+      }
+    ],
+    "random_key": "4748c0aa-3b0a-4e34-b61a-606f2900c168",
+    "image_url": "https://image.torob.com/base/images/rd/lY/rdlYIvDqIGkA1P2_.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف ، طول ریسه 40 سانتی کد13500",
+    "group": "نامشخص",
+    "product": "ریسه سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "c2a43d7b-b401-4b18-82d4-e8a40456c29a",
+    "image_url": "https://image.torob.com/base/images/fi/vZ/fivZG5YmpP-Zs8cM.webp"
+  },
+  {
+    "title": "سنگ صدف اصل طرح گرد 10 میلی (فروش بصورت ریسه ای شامل 40 مهره)",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "63dd5ef8-1813-4070-98e7-c13a857ae7e5",
+    "image_url": "https://image.torob.com/base/images/LW/h9/LWh9A4Mu4E2p7uaL.jpg"
+  },
+  {
+    "title": "صدف قدیمی بزرگ",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف قدیمی"
+        ]
+      }
+    ],
+    "random_key": "0602790b-2b70-46dc-948e-f4543a3c902f",
+    "image_url": "https://image.torob.com/base/images/UC/Z9/UCZ9AabGqzClnTmA.jpg"
+  },
+  {
+    "title": "صدف طبیعی گرد به قطر 14 میلیمتر و ضخامت 3 میلیمتر برای تزئینات انواع آلات موسیقی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینات",
+          "آلات موسیقی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف طبیعی"
+        ]
+      }
+    ],
+    "random_key": "8543f607-b84d-4ffe-8fec-b866dd1d0523",
+    "image_url": "https://image.torob.com/base/images/es/M6/esM60OLwvk615XWp.jpg"
+  },
+  {
+    "title": "دیدگاهها",
+    "group": "نامشخص",
+    "product": "دیدگاه ها",
+    "entities": [],
+    "random_key": "335bc785-da10-4ccc-8354-d74c4f5be728",
+    "image_url": "https://image.torob.com/base/images/up/rX/uprXT12nwg2xhG7G.jpg"
+  },
+  {
+    "title": "صدف مخروطی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "مخروطی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مخروطی"
+        ]
+      }
+    ],
+    "random_key": "5b55a94e-53fd-46e2-8de2-40ef49341de3",
+    "image_url": "https://image.torob.com/base/images/6v/JO/6vJOhw5BmbXbPmdo.jpg"
+  },
+  {
+    "title": "صدف تزیینی کد 50 بسته 10 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 10 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "8850d124-d93b-4a87-8641-61e011faf0d8",
+    "image_url": "https://image.torob.com/base/images/o3/A1/o3A1kOeq57KhSpEB.jpg"
+  },
+  {
+    "title": "صدف رنگی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف رنگی"
+        ]
+      }
+    ],
+    "random_key": "2c1da635-416c-4518-b8b9-d9f554b59d4d",
+    "image_url": "https://image.torob.com/base/images/Yh/pI/YhpIpsCmQfUTbPDI.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل ساحل",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "90adea21-322a-4b98-ae49-f0092d1cbd5e",
+    "image_url": "https://image.torob.com/base/images/eG/yf/eGyf5gY0i_8F5kHe.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل 15 KMS وزن 40 گرم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "وزن 40 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "fe35c0a0-e54d-4940-b8f6-8f3aa932aacb",
+    "image_url": "https://image.torob.com/base/images/jQ/rh/jQrhZ9cvM8VzBV_u.jpg"
+  },
+  {
+    "title": "صدف تزئینی مدل a19 بسته 16 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 16 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزئینی"
+        ]
+      }
+    ],
+    "random_key": "23987d73-77b2-4a21-909c-75ff37f497eb",
+    "image_url": "https://image.torob.com/base/images/9E/WW/9EWWYKiJoE3nl58y.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف نامنظم سایز ۱۰ میل کد12545",
+    "group": "نامشخص",
+    "product": "ریسه سنگ صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "10 میل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نامنظم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "716305a3-11cb-49d5-b584-2e422e05cc04",
+    "image_url": "https://image.torob.com/base/images/l9/H6/l9H6YFb_BiXUTfTq.webp"
+  },
+  {
+    "title": "صدف کد 1170037",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "c6925735-2909-4b2d-bc98-c8edcfba567f",
+    "image_url": "https://image.torob.com/base/images/Ul/09/Ul09l_UF7cgWAp4E.jpg"
+  },
+  {
+    "title": "صدف دریایی طبیعی (1400عددی) لوازم کاردستی هنری تزیینی(انتخابم همین شد)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "1400عددی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کاردستی هنری",
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی طبیعی"
+        ]
+      }
+    ],
+    "random_key": "d7c66bd2-97d6-4039-92c0-b53e00ff7895",
+    "image_url": "https://image.torob.com/base/images/8d/be/8dbezcIuru-q84XQ.jpg"
+  },
+  {
+    "title": "صدف تیبیا فوسوس",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تیبیا فوسوس"
+        ]
+      }
+    ],
+    "random_key": "dfc39eab-2b7e-41c9-bacc-a5fb350e78c5",
+    "image_url": "https://image.torob.com/base/images/Ye/vv/YevvQAqyw_JQCTqh.jpg"
+  },
+  {
+    "title": "صدف تزیینی آکواریوم کد 3020 مجموعه 3 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی",
+          "آکواریوم"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "مجموعه 3 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "dd668759-0803-4128-9792-f5a7d54f2951",
+    "image_url": "https://image.torob.com/base/images/Qg/hr/QghrRYrasb7fRiOY.jpg"
+  },
+  {
+    "title": "صدف تزئینی سوزنی خارجی بسته 10 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "خارجی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 10 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزئینی سوزنی"
+        ]
+      }
+    ],
+    "random_key": "b9eb50f5-04cb-4b81-bb4d-bb8471e53c8d",
+    "image_url": "https://image.torob.com/base/images/W3/iy/W3iyq22usXNRPBNo.jpg"
+  },
+  {
+    "title": "صدف تزیینی کد RS16",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "3d0665f7-8720-46a3-ab49-df58f9eb5190",
+    "image_url": "https://image.torob.com/base/images/QB/Ks/QBKshUN_d2ZaUp-i.jpg"
+  },
+  {
+    "title": "صدف تزیینی کد TS21 وزن 200 گرم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "وزن 200 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزیینی"
+        ]
+      }
+    ],
+    "random_key": "7338e628-124d-4a41-8637-0382d8984dac",
+    "image_url": "https://image.torob.com/base/images/ux/VT/uxVTYhS0TIsnjEZK.jpg"
+  },
+  {
+    "title": "دستبندژوپینگ سنگ صدف",
+    "group": "نامشخص",
+    "product": "دستبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "16d81eda-78d0-466b-a75a-4ebdb4ee56db",
+    "image_url": "https://image.torob.com/base/images/Ag/Mg/AgMgGyAzBONQiVU_.jpg"
+  },
+  {
+    "title": "قالب سیلیکونی صدف شیاردار پرینتی",
+    "group": "نامشخص",
+    "product": "قالب سیلیکونی صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "شیاردار"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "پرینتی"
+        ]
+      }
+    ],
+    "random_key": "bb1d6de2-6e33-4eda-90ff-abee1af7fb96",
+    "image_url": "https://image.torob.com/base/images/x_/3l/x_3l8hBwmUtBmLBK.jpg"
+  },
+  {
+    "title": "قالب سیلیکونی صدف پرینتی",
+    "group": "نامشخص",
+    "product": "قالب سیلیکونی صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "پرینتی"
+        ]
+      }
+    ],
+    "random_key": "67b982c4-325e-4e51-a120-0c5d22768b86",
+    "image_url": "https://image.torob.com/base/images/ib/VB/ibVBT-W9reZrxoBM.jpg"
+  },
+  {
+    "title": "صدف مهره مار دوتایی کد 138444",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "مهره مار دوتایی"
+        ]
+      }
+    ],
+    "random_key": "7568af27-8745-4f58-a8a4-7f533da42aa5",
+    "image_url": "https://image.torob.com/base/images/z3/DM/z3DMiRTMt0RtVOOx.jpg"
+  },
+  {
+    "title": "صدف حلزون گونه مونتریا کلکسیونی از خلیج فارس",
+    "group": "نامشخص",
+    "product": "صدف حلزون",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزون گونه"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "خلیج فارس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مونتریا"
+        ]
+      }
+    ],
+    "random_key": "3368aae9-7468-413c-abea-e305b26b43ae",
+    "image_url": "https://image.torob.com/base/images/EP/tC/EPtCLepe5n5x4pSZ.jpg"
+  },
+  {
+    "title": "هدیه مفهومی 3 مروارید صدف زینتی تزئین 3D جذابیت Crocs",
+    "group": "نامشخص",
+    "product": "هدیه مفهومی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "جذابیت Crocs",
+          "3D"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف زینتی"
+        ]
+      }
+    ],
+    "random_key": "004a7f91-0d7c-475c-b53e-d16c71dad074",
+    "image_url": "https://image.torob.com/base/images/AF/xl/AFxldYBCO841AJi9.jpg"
+  },
+  {
+    "title": "صدف و حلزون تزیینی آکواریوم کد 20305 مجموعه 9 عددی",
+    "group": "نامشخص",
+    "product": "صدف و حلزون",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی آکواریوم"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "مجموعه 9 عددی"
+        ]
+      }
+    ],
+    "random_key": "ba4d449c-b405-41dd-bd14-00aba6634b01",
+    "image_url": "https://image.torob.com/base/images/eL/jJ/eLjJl9xIBy_rOUBY.webp"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10740",
+    "group": "نامشخص",
+    "product": "ریسه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "cf057d42-283a-4754-a417-fba601193b6d",
+    "image_url": "https://image.torob.com/base/images/pE/oq/pEoqQCx4Yf-TviVo.webp"
+  },
+  {
+    "title": "صدف دو کفه",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دو کفه"
+        ]
+      }
+    ],
+    "random_key": "53e538ca-255a-4c72-b53e-b7782b38a925",
+    "image_url": "https://image.torob.com/base/images/2T/RG/2TRG_rj0zouAFfZb.jpg"
+  },
+  {
+    "title": "صدف حلزونی تک شاخ (بسته 12 عددی)",
+    "group": "نامشخص",
+    "product": "صدف حلزونی",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "تک شاخ"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 12 عددی"
+        ]
+      }
+    ],
+    "random_key": "69812871-30e6-4ad2-9d08-243a7f95cf61",
+    "image_url": "https://image.torob.com/base/images/tn/qM/tnqMLcpeS-WouV-4.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل ابالون گوش دریا",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون گوش دریا"
+        ]
+      }
+    ],
+    "random_key": "bf00e9fd-367d-4283-9963-f3075ea2700a",
+    "image_url": "https://image.torob.com/base/images/VL/sB/VLsBSwwF-lR4Tspy.jpg"
+  },
+  {
+    "title": "صدف ساده مناسب رزین شمع سازی .صدف رزین صدف دریا گوش ماهی گوش ماهی دوکی صدف دریای رزینی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "رزین",
+          "شمع سازی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "رزینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریا",
+          "گوش ماهی",
+          "گوش ماهی دوکی",
+          "صدف دریای رزینی"
+        ]
+      }
+    ],
+    "random_key": "f62a5efc-b6d5-4cab-9661-ef2b57e64e9c",
+    "image_url": "https://image.torob.com/base/images/IH/tM/IHtMQZ1MmSpR9_dD.jpg"
+  },
+  {
+    "title": "ریسه صدف طرح سکه ای در 5 سایز",
+    "group": "نامشخص",
+    "product": "ریسه صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "سکه ای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "5 سایز"
+        ]
+      }
+    ],
+    "random_key": "535eeb5b-8f97-4062-8ca3-7f594ee4655e",
+    "image_url": "https://image.torob.com/base/images/VY/6E/VY6EVXMnzfSCpp8g.webp"
+  },
+  {
+    "title": "نگین صدف حلزونی صورتی کد 139911",
+    "group": "نامشخص",
+    "product": "نگین صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "0b6f5068-c917-4ee7-b5a7-7d667648c7db",
+    "image_url": "https://image.torob.com/base/images/42/cE/42cEBnBe1iTBe_kt.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل 13 shell وزن 100 گرم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "100 گرم"
+        ]
+      }
+    ],
+    "random_key": "3376285e-4306-41ff-9090-123306f0b2f5",
+    "image_url": "https://image.torob.com/base/images/6G/2Q/6G2QG8aNTnEYMNIb.jpg"
+  },
+  {
+    "title": "ریسه سنگ صدف کد10809",
+    "group": "نامشخص",
+    "product": "ریسه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "b9894209-9788-4b27-a5ab-8d66f3a4f96e",
+    "image_url": "https://image.torob.com/base/images/B4/U8/B4U8-1rvj8FUqbxl.webp"
+  },
+  {
+    "title": "صدف هلیکوپتری کد 2",
+    "group": "نامشخص",
+    "product": "صدف هلیکوپتری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف هلیکوپتری"
+        ]
+      }
+    ],
+    "random_key": "78eb773a-5c67-4548-b68d-5fe6b96a84fe",
+    "image_url": "https://image.torob.com/base/images/Mk/k8/Mkk8k8YV0MyPKg1a.jpg"
+  },
+  {
+    "title": "25عدد صدف و سنگ رسوبی",
+    "group": "نامشخص",
+    "product": "صدف و سنگ",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "25 عدد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف و سنگ رسوبی"
+        ]
+      }
+    ],
+    "random_key": "35b1eac6-72de-4461-a674-029046f3a7f8",
+    "image_url": "https://image.torob.com/base/images/5d/Qk/5dQkeWR03h4ZeluN.jpg"
+  },
+  {
+    "title": "ریسه صدف طرح درخت کاج",
+    "group": "نامشخص",
+    "product": "ریسه صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "درخت کاج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه صدف"
+        ]
+      }
+    ],
+    "random_key": "a732b517-a031-4871-b4f5-bd5652cde1a2",
+    "image_url": "https://image.torob.com/base/images/UE/iT/UEiTnUr2W-bTO5al.webp"
+  },
+  {
+    "title": "سنگ صدف طرح ماه 10 میلی (فروش بصورت ریسه ای)",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ماه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "10 میلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "dc12f811-6f2a-4f90-8fbe-e3c53f636155",
+    "image_url": "https://image.torob.com/base/images/Oe/Cn/OeCnIJGuz6A7UzlN.jpg"
+  },
+  {
+    "title": "صدف ابالون طبیعی کد 15",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "13245407-94c9-42ea-94f4-72d68d454475",
+    "image_url": "https://image.torob.com/base/images/XO/vD/XOvD-eM9Yvomx9E8.jpg"
+  },
+  {
+    "title": "صدف گوش دار - سفید،مشکی،کرم،قهوه ای",
+    "group": "نامشخص",
+    "product": "صدف گوش دار",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی",
+          "کرم",
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف گوش دار"
+        ]
+      }
+    ],
+    "random_key": "52687e8e-ac73-4c01-a1eb-9bebee2f8edf",
+    "image_url": "https://image.torob.com/base/images/GZ/_W/GZ_WIllm-iuxTzu3.jpg"
+  },
+  {
+    "title": "صدف تزئینی مدل a06 مجموعه 9 عددی",
+    "group": "نامشخص",
+    "product": "صدف تزئینی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "مجموعه 9 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "e882cbe9-3e3a-48c2-a358-c2f829d5e890",
+    "image_url": "https://image.torob.com/base/images/Mr/_W/Mr_WCOMjm4Qhsz59.jpg"
+  },
+  {
+    "title": "صدف صدف بینش تخیل و سازگاری را تحریک می کندصدف در افزایش وضوح ذهنی و بصیرت در موثر است",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "05580ef0-4817-4304-be86-12468a2144d3",
+    "image_url": "https://image.torob.com/base/images/Mp/UJ/MpUJJhML3QPh9AK7.jpg"
+  },
+  {
+    "title": "یک پک زیبای صدف مناسب دکوراسیون منزل یا محیط کار شما و مناسب کارهای هنری",
+    "group": "نامشخص",
+    "product": "پک صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "دکوراسیون منزل",
+          "محیط کار",
+          "کارهای هنری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "60e99516-4b18-409e-a4be-1455d653052e",
+    "image_url": "https://image.torob.com/base/images/D-/4S/D-4S8bf0byKq3I4-.jpg"
+  },
+  {
+    "title": "نگین صدف آبالون طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "نگین صدف آبالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین صدف آبالون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "f56052d2-91dd-43bd-8e19-dab625cddbf8",
+    "image_url": "https://image.torob.com/base/images/u8/75/u875089sHSAUhLX0.jpg"
+  },
+  {
+    "title": "صدف لبه دار دست ساز",
+    "group": "نامشخص",
+    "product": "صدف لبه دار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دست ساز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف لبه دار"
+        ]
+      }
+    ],
+    "random_key": "e077b8b4-38d8-45f7-bc80-1159cc55077d",
+    "image_url": "https://image.torob.com/base/images/Rb/CF/RbCFrxW8Fk6-WJIF.jpg"
+  },
+  {
+    "title": "صدف حلزون پولیش خورده براق کلکسیونی و نادر",
+    "group": "نامشخص",
+    "product": "صدف حلزون",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پولیش خورده"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "براق",
+          "نادر"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف حلزون"
+        ]
+      }
+    ],
+    "random_key": "b0223df7-2fdc-4c87-8708-31997937a38f",
+    "image_url": "https://image.torob.com/base/images/hX/-G/hX-GmpEQg2LisIee.jpg"
+  },
+  {
+    "title": "صدف آبالون اصل و طبیعی درجه 1",
+    "group": "نامشخص",
+    "product": "صدف آبالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف آبالون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "b3654e97-f816-40e1-82ab-f52186804cd9",
+    "image_url": "https://image.torob.com/base/images/_R/7C/_R7C57yLRNvIme4d.jpg"
+  },
+  {
+    "title": "صدف سوزنی",
+    "group": "نامشخص",
+    "product": "صدف سوزنی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سوزنی"
+        ]
+      }
+    ],
+    "random_key": "c79425ff-04f0-4b60-a621-fd260f6ab481",
+    "image_url": "https://image.torob.com/base/images/3T/dm/3TdmNd8LtD7GYHBk.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل توتیا | چند رنگ",
+    "group": "نامشخص",
+    "product": "صدف تزیینی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف توتیا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      }
+    ],
+    "random_key": "ef804eca-b27a-4af7-ba30-b7744a128cd0",
+    "image_url": "https://image.torob.com/base/images/GW/Ym/GWYmkAoCx0IkjN2_.jpg"
+  },
+  {
+    "title": "صدف وارداتی قیفی هرمی شیپوری بسیار خاص و زیبا و کمیاب مناسب کلکسیون و کارهای هنری صد در صد طبیعی غولپیکر و درشت",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع صدف",
+        "values": [
+          "قیفی",
+          "هرمی",
+          "شیپوری"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "خاص",
+          "زیبا",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیون",
+          "کارهای هنری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "غولپیکر",
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "bc82d552-b0c2-46f1-9ef9-b0b1841bf419",
+    "image_url": "https://image.torob.com/base/images/7b/kf/7bkfPqL50YIdf3Ls.jpg"
+  },
+  {
+    "title": "رشته صدف سایز ۶",
+    "group": "نامشخص",
+    "product": "رشته صدف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "سایز ۶"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رشته صدف"
+        ]
+      }
+    ],
+    "random_key": "2f5462c8-002a-436c-a7a5-add1c252332d",
+    "image_url": "https://image.torob.com/base/images/70/wG/70wG578SDy0bMdjY.jpg"
+  },
+  {
+    "title": "صدف شماره2",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "d3db5378-515d-41a5-83ec-80b3cc0380bf",
+    "image_url": "https://image.torob.com/base/images/-g/es/-gesxoB7LVDwV8lC.jpg"
+  },
+  {
+    "title": "صدف هرمی سبز",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع صدف",
+        "values": [
+          "هرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف هرمی"
+        ]
+      }
+    ],
+    "random_key": "749f710c-0b60-4ef4-b527-8c851a28a02d",
+    "image_url": "https://image.torob.com/base/images/3K/tl/3KtlzF4-xqjyABGf.jpg"
+  },
+  {
+    "title": "1000صدف حلزون کوچک و بزرگ",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "1000 صدف"
+        ]
+      },
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزون"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "کوچک و بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف حلزون"
+        ]
+      }
+    ],
+    "random_key": "54fcf817-d980-47e1-9989-a5219bda0fd4",
+    "image_url": "https://image.torob.com/base/images/ct/ms/ctmsTvdPRpvVz-_D.jpg"
+  },
+  {
+    "title": "صدف تزیینی کد 34 | نخودی",
+    "group": "نامشخص",
+    "product": "صدف تزیینی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف نخودی"
+        ]
+      }
+    ],
+    "random_key": "1b9fb1e3-902e-4ae2-8b4e-b0a8eff64cbb",
+    "image_url": "https://image.torob.com/base/images/O_/gj/O_gj5c5-3rYeTiKE.jpg"
+  },
+  {
+    "title": "صدف حلزونی رنگی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "نوع صدف",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف حلزونی"
+        ]
+      }
+    ],
+    "random_key": "b7d30a45-0ba3-472f-931a-edfb578e27a0",
+    "image_url": "https://image.torob.com/base/images/WX/r6/WXr6OSmsqdZpNRFM.webp"
+  },
+  {
+    "title": "صدف سیپرا مپ کلکسیونی و با طرح بسیار زیبا (یک عدد)",
+    "group": "نامشخص",
+    "product": "صدف سیپرا",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "یک عدد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سیپرا"
+        ]
+      }
+    ],
+    "random_key": "bcce7e2b-6951-4818-b0e9-0aa2806bcb27",
+    "image_url": "https://image.torob.com/base/images/Ab/jd/Abjd-nj-jYNoe-VP.jpg"
+  },
+  {
+    "title": "صدف طرح دار",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف طرح دار"
+        ]
+      }
+    ],
+    "random_key": "241940c4-efe1-45cb-866d-cc94a1f6e3a1",
+    "image_url": "https://image.torob.com/base/images/cK/JL/cKJLyLfanIDhhOfb.jpg"
+  },
+  {
+    "title": "صدف کد 1170073",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "84c0b1cb-b90d-4acd-b899-51da215c8403",
+    "image_url": "https://image.torob.com/base/images/2Z/Af/2ZAfbMzV6zKUJNpF.jpg"
+  },
+  {
+    "title": "صدف پهن سنگ مصنوعی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوغ صدف",
+        "values": [
+          "پهن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ مصنوعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف پهن"
+        ]
+      }
+    ],
+    "random_key": "e1bd3805-a058-4e50-b63e-fecd24642406",
+    "image_url": "https://image.torob.com/base/images/eD/q2/eDq2X-E9GQT4_ZPJ.jpg"
+  },
+  {
+    "title": "صدف تزئینی مدل a19 بسته 16 عددی",
+    "group": "نامشخص",
+    "product": "صدف تزئینی",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته 16 عددی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف تزئینی"
+        ]
+      }
+    ],
+    "random_key": "5e923599-f82d-4f6d-b327-31a03d3bc21b",
+    "image_url": "https://image.torob.com/base/images/9E/WW/9EWWYKiJoE3nl58y.jpg"
+  },
+  {
+    "title": "سنگ صدف طرح ماه 10 میلی (فروش بصورت ریسه ای)",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ماه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "10 میلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "0605a911-d98c-4fc9-a301-9765ef85a3d6",
+    "image_url": "https://image.torob.com/base/images/Uq/FX/UqFX7mjbIAzv_W0v.jpg"
+  },
+  {
+    "title": "صدف دریایی قدیمی کلکسیونی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "مبدا",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دریایی"
+        ]
+      }
+    ],
+    "random_key": "37185b84-f44a-46c7-83fa-e4b2f0e5bc63",
+    "image_url": "https://image.torob.com/base/images/j6/g-/j6g-_3WoSBO-UsIP.jpg"
+  },
+  {
+    "title": "5 عددصدف طبیعی سیپرا برشخورده با طرحهای متنوع جهت ساخت اکسسوری، تزیین لباس ، رومیزی و انواع کارهای هنری",
+    "group": "نامشخص",
+    "product": "صدف سیپرا",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "5 عدد"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف سیپرا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "برشخورده"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "متنوع"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "ساخت اکسسوری",
+          "تزیین لباس",
+          "رومیزی",
+          "کارهای هنری"
+        ]
+      }
+    ],
+    "random_key": "ef4bb633-f8f1-48b1-9cf6-343717e88a95",
+    "image_url": "https://image.torob.com/base/images/7A/IS/7AISL8QQh9_K2bap.jpg"
+  },
+  {
+    "title": "بیس صدف سنگی",
+    "group": "نامشخص",
+    "product": "بیس صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیس صدف سنگی"
+        ]
+      }
+    ],
+    "random_key": "0d6b05db-9465-423e-a657-ad542c0f7e86",
+    "image_url": "https://image.torob.com/base/images/ov/m2/ovm2Ii4NQnE7SW-3.jpg"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "0d8b8ad1-91c4-4a24-9ce2-ddc866e335df",
+    "image_url": "https://image.torob.com/base/images/P9/zA/P9zAoznbiL9FmGhY.webp"
+  },
+  {
+    "title": "ریسه صدف کروی - سایز",
+    "group": "نامشخص",
+    "product": "ریسه صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "کروی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "رسایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف کروی"
+        ]
+      }
+    ],
+    "random_key": "d09fe7d3-b067-4f05-b4dc-1d05c17f79ec",
+    "image_url": "https://image.torob.com/base/images/7-/Xa/7-XaosU-9D79rbAt.webp"
+  },
+  {
+    "title": "صدف طبیعی تزئینی چشم کوسه سایز بزرگ",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف چشم کوسه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      }
+    ],
+    "random_key": "bb702d57-217d-42e8-b951-4777dcc6c9d2",
+    "image_url": "https://image.torob.com/base/images/3V/jE/3VjE7GxmboKH3YZ9.jpg"
+  },
+  {
+    "title": "صدف تزیینی مدل SAD-77",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "3f2ff6c0-14fa-45b5-888c-2f602082fbc4",
+    "image_url": "https://image.torob.com/base/images/l-/Xi/l-XikP7C8mr1yDE-.jpg"
+  },
+  {
+    "title": "صدف آبالون طبیعی کد 24",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف آبالون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "017a9752-2ee2-4ba3-8725-50de11141523",
+    "image_url": "https://image.torob.com/base/images/e5/8o/e58oqO2sBwSJP4Fr.jpg"
+  },
+  {
+    "title": "صدف تزئینی توتیا",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزئینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف توتیا"
+        ]
+      }
+    ],
+    "random_key": "bbd37a81-6a51-4fdb-87f2-2f1ad6132b26",
+    "image_url": "https://image.torob.com/base/images/NB/gF/NBgFWB1uaUn1_NEE.jpg"
+  },
+  {
+    "title": "سنگ صدف آبی",
+    "group": "نامشخص",
+    "product": "سنگ صدف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ صدف"
+        ]
+      }
+    ],
+    "random_key": "e1fd5aab-a6d1-4832-bb5c-8c23170d1288",
+    "image_url": "https://image.torob.com/base/images/GI/P9/GIP9xCFR_Yn3PKNT.webp"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "7c50e3f3-c1f2-4a14-a342-52149a6c84df",
+    "image_url": "https://image.torob.com/base/images/BH/dF/BHdFSZ-Li0Kabp9n.webp"
+  },
+  {
+    "title": "صدف مدل لاله بسته 12 عددی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف لاله"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "12 عددی"
+        ]
+      }
+    ],
+    "random_key": "1575c480-33bf-4573-8b2c-4a665d40f172",
+    "image_url": "https://image.torob.com/base/images/lC/av/lCavnAVGsY6aTmGL.jpg"
+  },
+  {
+    "title": "صدف دوک سایز بزرگ",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دوک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دوک"
+        ]
+      }
+    ],
+    "random_key": "b47c9de0-e96a-412a-946a-1038f88daad2",
+    "image_url": "https://image.torob.com/base/images/A2/qH/A2qHh1m9Dq7OkAgy.jpg"
+  },
+  {
+    "title": "صدف تزیینی کد RS537",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "2090321f-3b4d-4a52-8ee4-7cd372174f5e",
+    "image_url": "https://image.torob.com/base/images/ZO/EP/ZOEP8OPcf82tgrGD.webp"
+  },
+  {
+    "title": "صدف ابالون",
+    "group": "نامشخص",
+    "product": "صدف ابالون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف ابالون"
+        ]
+      }
+    ],
+    "random_key": "124ebc56-3db1-4205-98ca-56d01d2c84d9",
+    "image_url": "https://image.torob.com/base/images/jY/u_/jYu_DyjXp1SR5xVD.webp"
+  },
+  {
+    "title": "صدف تزیینی مدل RS537",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تزیینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "8ef8b1e9-6351-42ac-82e4-f6cae551ecb2",
+    "image_url": "https://image.torob.com/base/images/u1/q_/u1q_Ar8gWhBGKUJ6.jpg"
+  },
+  {
+    "title": "صدف دوکی قهوه ای (بسته ای)",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع صدف",
+        "values": [
+          "دوکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "بسته ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف دوکی"
+        ]
+      }
+    ],
+    "random_key": "268bb9d5-a6d4-4ced-aa75-3f2b84ad0cfe",
+    "image_url": "https://image.torob.com/base/images/Ft/cw/FtcwHulUMwuvJgHi.jpg"
+  },
+  {
+    "title": "صدف مرجانی قدیمی",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف مرجانی"
+        ]
+      },
+      {
+        "name": "ویژگی خاص",
+        "values": [
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "7c052bda-f2b3-481c-8662-72c8ddb8d2f7",
+    "image_url": "https://image.torob.com/base/images/FQ/qD/FQqDcN6Keyakp1IG.jpg"
+  },
+  {
+    "title": "دو مدل صدف خارجی زیبا با پوسته ضخیم جهت برش و تراش ..و دکور و آکواریوم فروش با هم",
+    "group": "نامشخص",
+    "product": "صدف",
+    "entities": [
+      {
+        "name": "مبدا",
+        "values": [
+          "خارجی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پوسته ضخیم"
+        ]
+      },
+      {
+        "name": "نقش",
+        "values": [
+          "برش",
+          "تراش",
+          "آکواریوم",
+          "دکور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "2975abe6-9741-475d-bf09-deb4965332cd",
+    "image_url": "https://image.torob.com/base/images/B8/mg/B8mgHJsQB4_2zJsF.jpg"
+  },
+  {
+    "title": "پک ده تایی صدف و سنگ قیمتی",
+    "group": "نامشخص",
+    "product": "پک صدف و سنگ قیمتی",
+    "entities": [
+      {
+        "name": "تعداد/وزن بسته",
+        "values": [
+          "ده تایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صدف و سنگ قیمتی"
+        ]
+      }
+    ],
+    "random_key": "95acdbc0-64df-48d7-a21f-3d006678fc3a",
+    "image_url": "https://image.torob.com/base/images/hY/MT/hYMT0bmraQJpBFkN.jpg"
+  }
+]

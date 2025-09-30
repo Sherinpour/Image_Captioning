@@ -1,0 +1,6744 @@
+[
+  {
+    "title": "نگین یشم طبیعی9/25 قیراط کد MY37",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "9/25 قیراط"
+        ]
+      }
+    ],
+    "random_key": "111fae9a-d883-4f8c-8ce8-4fad75ef5cd6",
+    "image_url": "https://image.torob.com/base/images/EG/S9/EGS9o26zv28G2b-K.jpg"
+  },
+  {
+    "title": "نگین ناب وزیبای یشم11/35 قیراط کد MY31",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "ناب",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "11/35 قیراط"
+        ]
+      }
+    ],
+    "random_key": "1e9fb0d2-a735-425e-a006-68000b1777e0",
+    "image_url": "https://image.torob.com/base/images/SR/Il/SRIlIq0BS5dGxVOP.jpg"
+  },
+  {
+    "title": "نگین باشکوه یشم 19/65قیراط کدmy242",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "باشکوه"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "19/65 قیراط"
+        ]
+      }
+    ],
+    "random_key": "faa8a955-21f0-453b-b2ad-137d9aeb1075",
+    "image_url": "https://image.torob.com/base/images/rX/AS/rXASMK0f6Nybhwl3.jpg"
+  },
+  {
+    "title": "یشم سیاه سنگ ماساژ",
+    "group": "نامشخص",
+    "product": "سنگ ماساژ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ماساژ"
+        ]
+      }
+    ],
+    "random_key": "34ff1472-ec6c-495a-89b6-b65fc541e379",
+    "image_url": "https://image.torob.com/base/images/Os/-C/Os-C8fyFh14U7FAc.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم معدنی ابعاد 25.5 در 19.2 میلیمتر",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "25.5 در 19.2 میلیمتر"
+        ]
+      }
+    ],
+    "random_key": "f124f6a7-9412-4ae1-a11b-048f715f871f",
+    "image_url": "https://image.torob.com/base/images/6w/3F/6w3FPmgqFTtQtp3T.jpg"
+  },
+  {
+    "title": "جاسپر تراش قلبی a",
+    "group": "نامشخص",
+    "product": "جاسپر",
+    "entities": [
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "تراش قلبی"
+        ]
+      }
+    ],
+    "random_key": "2c058dfc-c9c8-4092-a9c4-05c41cc4c2ba",
+    "image_url": "https://image.torob.com/base/images/fV/mT/fVmTfiKl8GMMu-MI.jpg"
+  },
+  {
+    "title": "تعداد نگین یشم قدیمی طبیعی و دسته دوم",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "42f2da07-340a-4177-9278-8d1e3b0546cf",
+    "image_url": "https://image.torob.com/base/images/kH/tw/kHtwXJByLcXwkWzl.jpg"
+  },
+  {
+    "title": "آویز یشم ذکر دار",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ذکر دار"
+        ]
+      }
+    ],
+    "random_key": "9f8d1022-9cfa-4df2-9802-2d7dedd26c70",
+    "image_url": "https://image.torob.com/base/images/C0/Z1/C0Z1DcvG__tMxPvK.jpg"
+  },
+  {
+    "title": "بند مهره یشم قدیمی تراش دار 25عدد",
+    "group": "نامشخص",
+    "product": "بند مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بند مهره"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "تراش دار"
+        ]
+      }
+    ],
+    "random_key": "0ef6301f-b8ca-4c27-bbd8-55bdd89a3a10",
+    "image_url": "https://image.torob.com/base/images/rn/as/rnasVCADuIvRalkc.jpg"
+  },
+  {
+    "title": "نگین طبیعی یشم 20/75 قیراط کدmy260",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "20/75 قیراط"
+        ]
+      }
+    ],
+    "random_key": "f0e0812a-c6e9-425a-9299-b43249be8ad5",
+    "image_url": "https://image.torob.com/base/images/RM/24/RM24LQMFX6MGsg6g.jpg"
+  },
+  {
+    "title": "یشم معدنی ذغال دار طبیعی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "ذغال دار"
+        ]
+      }
+    ],
+    "random_key": "9d8a1099-168f-41df-86b6-19f4d65dbbf1",
+    "image_url": "https://image.torob.com/base/images/cu/yj/cuyjQeLMpBEMZJg6.jpg"
+  },
+  {
+    "title": "مهره یشم معدنی",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "66aa4aab-d4a2-4778-a234-4a348ad88f6b",
+    "image_url": "https://image.torob.com/base/images/Zx/pW/ZxpWdqIo-A-iYehm.jpg"
+  },
+  {
+    "title": "یشم یمنی درجه 1 قواره دار خوش رنگ",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه 1",
+          "خوش رنگ"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "قواره دار"
+        ]
+      }
+    ],
+    "random_key": "af92432c-3107-4057-a4ae-81030ef5201b",
+    "image_url": "https://image.torob.com/base/images/LE/0K/LE0KBRRw22jG7LJl.jpg"
+  },
+  {
+    "title": "سنگ یشم مژه",
+    "group": "نامشخص",
+    "product": "سنگ مژه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مژه"
+        ]
+      }
+    ],
+    "random_key": "bea6421f-d5d3-46e7-8409-14902a6d332b",
+    "image_url": "https://image.torob.com/base/images/fs/8y/fs8ytxLpkNbSTfu4"
+  },
+  {
+    "title": "سنگ یشم (کد4002)",
+    "group": "نامشخص",
+    "product": "سنگ",
+    "entities": [],
+    "random_key": "8a7ea230-e77a-405e-b556-97dbcfc029eb",
+    "image_url": "https://image.torob.com/base/images/OM/aE/OMaEC1k-DEQJe4Oy.jpg"
+  },
+  {
+    "title": "منشور یشم سرپانتین2",
+    "group": "نامشخص",
+    "product": "منشور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "منشور"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      }
+    ],
+    "random_key": "8c5365b4-fac4-48c0-bcaa-f8d129cbd514",
+    "image_url": "https://image.torob.com/base/images/mh/O4/mhO4bg3oFUYm7q4s.jpg"
+  },
+  {
+    "title": "درختچه سنگی جِید(یشم) قرمز کد 144",
+    "group": "نامشخص",
+    "product": "درختچه سنگی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "درختچه سنگی"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "جید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "9b34e5e6-47d2-4b9a-ad15-3b084ad31d8a",
+    "image_url": "https://image.torob.com/base/images/hA/4M/hA4MgDiytMaDtfPA.jpg"
+  },
+  {
+    "title": "یشم حکاکی معدنی با کیفیت حکاکی عالی 2778",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حکاکی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "عالی"
+        ]
+      }
+    ],
+    "random_key": "87a2efaf-e567-4d57-8dfa-e4f17be81dce",
+    "image_url": "https://image.torob.com/base/images/s4/4x/s44xwK37d2WK7PFM.jpg"
+  },
+  {
+    "title": "تندیس یشم سنتاتیک [سوره توحید و یا علی بن موسی الرضا ادرکنی] کد 128091",
+    "group": "نامشخص",
+    "product": "تندیس یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تندیس یشم"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سنتاتیک"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "سوره توحید",
+          "یا علی بن موسی الرضا ادرکنی"
+        ]
+      }
+    ],
+    "random_key": "8b9d6e65-f9d9-4a5e-bf76-abe4b4459327",
+    "image_url": "https://image.torob.com/base/images/Tz/i-/Tzi-uq8xXQ2fsX6S.jpg"
+  },
+  {
+    "title": "نگین یشم معدنی هندوستان سبز تیره مردابی",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "هندوستان"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز تیره",
+          "مردابی"
+        ]
+      }
+    ],
+    "random_key": "71015eb4-973a-4e4f-99a1-616fe022234a",
+    "image_url": "https://image.torob.com/base/images/wc/_G/wc_GX-yWP7H7zuk4.jpg"
+  },
+  {
+    "title": "نگین یشم",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "256927db-b40c-4067-9b9d-f1ae4dede798",
+    "image_url": "https://image.torob.com/base/images/ZV/C7/ZVC7mBYcwv75LJBb.jpg"
+  },
+  {
+    "title": "گوی یشم قطر 5 سانتیمتر وزن 138 گرم",
+    "group": "نامشخص",
+    "product": "گوی یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "5 سانتیمتر",
+          "138 گرم"
+        ]
+      }
+    ],
+    "random_key": "b059bced-0f39-4c72-8fed-c443818a536a",
+    "image_url": "https://image.torob.com/base/images/dh/ME/dhMEmwBKW4s1tx8H.jpg"
+  },
+  {
+    "title": "نگین یشم زیبا کد 141126",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "59b6589e-7ada-449d-94ac-3e5781438874",
+    "image_url": "https://image.torob.com/base/images/Gw/4t/Gw4tltOKJ5fiWusm.jpg"
+  },
+  {
+    "title": "نگین یشم خوش رنگ کد 134640",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "خوش رنگ"
+        ]
+      }
+    ],
+    "random_key": "27e73de5-765f-4020-ab80-534788c01549",
+    "image_url": "https://image.torob.com/base/images/_R/kl/_Rkl36JBDbealh82.jpg"
+  },
+  {
+    "title": "سنگ یشم لجنی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "لجنی"
+        ]
+      }
+    ],
+    "random_key": "574c397f-c8a7-46dc-ba93-e21fdc735368",
+    "image_url": "https://image.torob.com/base/images/go/og/goog1YUIYj8B42dk.jpg"
+  },
+  {
+    "title": "یشم یمنی عمق رنگ بالا قواره دار",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "عمق رنگ بالا",
+          "قواره دار"
+        ]
+      }
+    ],
+    "random_key": "64058ea0-adb4-4fee-9012-c53efbfc4a15",
+    "image_url": "https://image.torob.com/base/images/tT/xl/tTxlGZobKPonnW6W.jpg"
+  },
+  {
+    "title": "انگشتر نقره حدید صینی رکاب طرح ضریح یا علی مردانه [یا عقیله بنی هاشم] کد 123583",
+    "group": "مردانه",
+    "product": "انگشتر نقره",
+    "entities": [],
+    "random_key": "87b7159b-319c-4e4d-8cf4-1e85eb132db0",
+    "image_url": "https://image.torob.com/base/images/6U/HK/6UHKcPEtI3toepG1.jpg"
+  },
+  {
+    "title": "دو عدد مهره یشم زیبا و قدیمی",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "fb87e0c2-ad0d-4d4a-9b25-1f3e5a92ede5",
+    "image_url": "https://image.torob.com/base/images/n5/Ha/n5HaIi-xe5Xda2tc.jpg"
+  },
+  {
+    "title": "کاروینگ یشم تراش برگ سوراخ دار کد 24555",
+    "group": "نامشخص",
+    "product": "کاروینگ یشم",
+    "entities": [
+      {
+        "name": "تراش/شكل",
+        "values": [
+          "تراش برگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاروینگ یشم"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "سوراخ دار"
+        ]
+      }
+    ],
+    "random_key": "5de1d394-54b2-40c0-9775-558d5b31aef7",
+    "image_url": "https://image.torob.com/base/images/KP/eN/KPeNaiJYfaql3UPy.jpg"
+  },
+  {
+    "title": "یشم اصل تایوان کد34 معدنی با خواص درمانی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با خواص درمانی"
+        ]
+      }
+    ],
+    "random_key": "5d83c604-2186-442e-a141-ead064339ca3",
+    "image_url": "https://image.torob.com/base/images/vW/Y8/vWY8iYCVryXcNzTI.jpg"
+  },
+  {
+    "title": "مهره یشم قدیمی",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "bd25c016-4e9e-46da-8cf4-adf5c2f49b2e",
+    "image_url": "https://image.torob.com/base/images/Um/IG/UmIGkIfwJwzBkyx6.jpg"
+  },
+  {
+    "title": "سنگ یشم افغان",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغان"
+        ]
+      }
+    ],
+    "random_key": "39151ef6-9ccf-45ec-8f11-d2cd8fcd2297",
+    "image_url": "https://image.torob.com/base/images/_N/aV/_NaVh8UHVRN0DYUZ.jpg"
+  },
+  {
+    "title": "نگین یشم نفریت طبیعی کانادا ۲۳۴۰۷۲",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "نفریت"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "کانادا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "b3dc391b-7f51-49c5-9630-18e58e0039c2",
+    "image_url": "https://image.torob.com/base/images/IO/9d/IO9dUNrDJLLnJIyq.jpeg"
+  },
+  {
+    "title": "پک چهارتایی مهره سنگی یشم",
+    "group": "نامشخص",
+    "product": "مهره سنگی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگی یشم"
+        ]
+      }
+    ],
+    "random_key": "356a2cba-083e-456d-b431-6d1a5722b759",
+    "image_url": "https://image.torob.com/base/images/bt/7p/bt7p10-qR-Nillid.jpg"
+  },
+  {
+    "title": "گردن آویز سنگ یشم زغالدار معدنی کد 32971",
+    "group": "نامشخص",
+    "product": "گردن آویز سنگ یشم",
+    "entities": [
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زغالدار"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردن آویز سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "b5523c85-3d15-4b80-9c9f-3279b108b689",
+    "image_url": "https://image.torob.com/base/images/qU/K_/qUK_z_rZT7_LqmlP.jpg"
+  },
+  {
+    "title": "سه عدد لول یشم کهنه و قدیمی دستساز",
+    "group": "نامشخص",
+    "product": "لول یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لول یشم"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنه",
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "7ee43ef6-ad3e-45de-a77b-6858e91b8d50",
+    "image_url": "https://image.torob.com/base/images/E4/33/E433YpYc-yV0Z3R6.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم (جید) معدنی و طبیعی کشور افغانستان",
+    "group": "نامشخص",
+    "product": "نگین سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "جید"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغانستان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "32e0189b-9355-47dc-9e19-170b3fdc0bc9",
+    "image_url": "https://image.torob.com/base/images/r8/k0/r8k0VOAVGhgxThIZ.jpg"
+  },
+  {
+    "title": "نگین یشم خاتم سلیمان اصل دایره ای N3144",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "خاتم سلیمان"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "دایره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "3e1b09da-ce05-4c2a-b9eb-790482bbc1a6",
+    "image_url": "https://image.torob.com/base/images/N0/Bl/N0BlPNVQMcN5KJZK.jpg"
+  },
+  {
+    "title": "تعداد نگین دسته دوم یشم جدید معدنی",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "6758aaab-00fe-45f6-b85e-50d1a3b0184d",
+    "image_url": "https://image.torob.com/base/images/sU/F6/sUF6ZzZAEFoR7UOx.jpg"
+  },
+  {
+    "title": "25 عدد دستبند سنگ یشم خطی و جاسپر",
+    "group": "نامشخص",
+    "product": "دستبند سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "خطی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبند سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "f58e8a3f-af52-4985-938e-f4c526120ce3",
+    "image_url": "https://image.torob.com/base/images/jc/QS/jcQSVNxg7H3_71BL.jpg"
+  },
+  {
+    "title": "یشم یمن",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن"
+        ]
+      }
+    ],
+    "random_key": "0c96b072-db5e-4c3e-9801-021b26301ef2",
+    "image_url": "https://image.torob.com/base/images/yQ/5X/yQ5XHbYIcc81m4vw.webp"
+  },
+  {
+    "title": "6 عدد سنگ یشم زیبا و قدیمی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "b7b87a64-317c-4d0e-af34-ddf277b4208e",
+    "image_url": "https://image.torob.com/base/images/xk/h3/xkh3D3PhTbFBqn5M.jpg"
+  },
+  {
+    "title": "نگین یشم ستاره سلیمان کد N_1013B",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "ستاره سلیمان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "73f40108-10b9-4dc9-8a29-5cece22e33bd",
+    "image_url": "https://image.torob.com/base/images/Kh/sR/KhsRvQcMDU5xWfiJ.jpg"
+  },
+  {
+    "title": "یشم سبز",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "46b94db2-05f9-432e-b794-979266d2b6b7",
+    "image_url": "https://image.torob.com/base/images/Kq/GC/KqGCTbQtVrX0xLmM.webp"
+  },
+  {
+    "title": "یشم جیداصل معدنی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "جید"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "d9b50f10-3212-438c-a734-da00fa99b7f3",
+    "image_url": "https://image.torob.com/base/images/Zq/gs/ZqgsreuTBUiXzFzl.jpg"
+  },
+  {
+    "title": "یشم سیاه 320 گرم",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "320 گرم"
+        ]
+      }
+    ],
+    "random_key": "77698b83-add1-478f-9d6e-a341a38eed28",
+    "image_url": "https://image.torob.com/base/images/Gi/oq/GioqYkzR5G0DALRW.jpg"
+  },
+  {
+    "title": "یشم ختن درجه یک رکاب دستساز",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "ختن"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "08b2dd10-572e-4f21-8a3b-e8fe5e88e046",
+    "image_url": "https://image.torob.com/base/images/nr/Vs/nrVs8G_ku4F0xPkO.jpg"
+  },
+  {
+    "title": "نگین بی نظیر یشم 18/10 قیراط کد my223",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "18/10 قیراط"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بی نظیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "33565f74-a0f1-41ff-962c-95a20d16deca",
+    "image_url": "https://image.torob.com/base/images/nh/sh/nhshPTpwB_LojVWk.jpg"
+  },
+  {
+    "title": "سنگ راف یشم طرح ماهی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف یشم"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "طرح ماهی"
+        ]
+      }
+    ],
+    "random_key": "27985e00-db09-44d6-8bc4-31cc5af0fbb7",
+    "image_url": "https://image.torob.com/base/images/6i/47/6i47m1yZoSgPh61D.jpg"
+  },
+  {
+    "title": "مهره یشم زرد اصل معدنی دفرمه صددرصدطبیعی ومعدنی",
+    "group": "نامشخص",
+    "product": "مهره سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "7de98102-2855-43f4-ad3c-961a3760e494",
+    "image_url": "https://image.torob.com/base/images/4a/-3/4a-36S37-aTmNemx.jpg"
+  },
+  {
+    "title": "یشم یمنی درجه 1 عمق رنگ بالا تراش جواهری",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه 1",
+          "بالا"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "عمق رنگ"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "9641a2bf-498e-4060-b43d-4eea91f17c4b",
+    "image_url": "https://image.torob.com/base/images/1v/OC/1vOCnNkyWY_4j1oq.jpg"
+  },
+  {
+    "title": "یشم اصل معدنی تراش استوانه",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "استوانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "e3ea076a-39ca-4078-806a-afa42fbb9752",
+    "image_url": "https://image.torob.com/base/images/QB/dM/QBdMS9zQGnSmELKs.jpg"
+  },
+  {
+    "title": "سنگ یشم طبیعی راف جید کلکسیونی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم راف جید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی"
+        ]
+      }
+    ],
+    "random_key": "df678a36-17e2-4468-941e-a406df87e3de",
+    "image_url": "https://image.torob.com/base/images/yB/By/yBBy4NlYnQxTQhHV.jpg"
+  },
+  {
+    "title": "نگین اصیل ومعدنی یشم3/70 قیراط کد MY23",
+    "group": "نامشخص",
+    "product": "نگین سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصیل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "3/70 قیراط"
+        ]
+      }
+    ],
+    "random_key": "62b03756-7bc7-4e7f-94ac-bba88721a267",
+    "image_url": "https://image.torob.com/base/images/5n/d7/5nd7P1Zdtxh6FM3G.jpg"
+  },
+  {
+    "title": "نگین یشم طبیعی تراش فانتزی",
+    "group": "نامشخص",
+    "product": "نگین سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "فانتزی"
+        ]
+      }
+    ],
+    "random_key": "0655228f-78a3-4e5b-b074-66c30ca425cb",
+    "image_url": "https://image.torob.com/base/images/qB/P6/qBP6XJ7RrJp2Z4Sa.jpg"
+  },
+  {
+    "title": "سنگ یشم (کد456)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "0d5babef-d669-434e-b485-740774eeedf4",
+    "image_url": "https://image.torob.com/base/images/nx/uZ/nxuZwVns1cnv5XY6.jpg"
+  },
+  {
+    "title": "نگین یشم [ولایت علی بن ابیطالب] کد 34440",
+    "group": "نامشخص",
+    "product": "نگین سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "ولایت علی بن ابیطالب"
+        ]
+      }
+    ],
+    "random_key": "4fa75d23-f944-4942-9f46-940f85cad5e2",
+    "image_url": "https://image.torob.com/base/images/qF/55/qF55ntWq4OZoPX7_.jpg"
+  },
+  {
+    "title": "سنگ یشم (کد 414)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "7b70d4ab-8558-42ef-bc51-d74c893c47b3",
+    "image_url": "https://image.torob.com/base/images/Hg/OC/HgOCJt79mwOTux9U.jpg"
+  },
+  {
+    "title": "سنگ یشم طبیعی و مرغوب روسیه (سایز درشت)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "مرغوب"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "روسیه"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "8c620241-71b8-4ab2-a960-67f9108aa0b3",
+    "image_url": "https://image.torob.com/base/images/cP/dq/cPdqfOwtQf_mTm76.jpg"
+  },
+  {
+    "title": "یشم حبه قندی کرمان",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم حبه قندی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "کرمان"
+        ]
+      }
+    ],
+    "random_key": "52341e60-1ffc-48d4-80ad-87373d7ba1f7",
+    "image_url": "https://image.torob.com/base/images/JB/-O/JB-O8zhljFzEgH-C.jpg"
+  },
+  {
+    "title": "یشم غول پیکر",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "غول پیکر"
+        ]
+      }
+    ],
+    "random_key": "aec13787-c957-4571-9c1f-27af5b9abb44",
+    "image_url": "https://image.torob.com/base/images/eZ/Z9/eZZ9a6YskvA578IS.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم برفی معدنی کد 10006",
+    "group": "نامشخص",
+    "product": "نگین سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ یشم"
+        ]
+      },
+      {
+        "name": "معدنی",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "برفی"
+        ]
+      }
+    ],
+    "random_key": "ffd49d4c-0631-4ac2-a07d-78ecc76b55f4",
+    "image_url": "https://image.torob.com/base/images/B2/vf/B2vfcfAg7_Eu6oPu.jpg"
+  },
+  {
+    "title": "سنگ یشم خاص",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ یشم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "deca08cd-c938-4308-b5df-32c29bfb8be0",
+    "image_url": "https://image.torob.com/base/images/gY/2D/gY2D6IRHGuZ46UwU.jpg"
+  },
+  {
+    "title": "منشور یشم (جید) مرمر سبز",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "منشور یشم (جید)"
+        ]
+      },
+      {
+        "name": "همراه با",
+        "values": [
+          "مرمر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "bf93ee12-a75e-4dc8-9138-6eb89974acf2",
+    "image_url": "https://image.torob.com/base/images/vn/Bl/vnBlrdKfvpatWdBK.jpg"
+  },
+  {
+    "title": "سنگ الماس یشم یاقوت یا یشم نفریت راف خام نایاب",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "نفریت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف خام"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نایاب"
+        ]
+      }
+    ],
+    "random_key": "9057a915-313a-4086-8b73-8e1bd8a94cd2",
+    "image_url": "https://image.torob.com/base/images/GR/i4/GRi4AirkdQPHb1MW.jpg"
+  },
+  {
+    "title": "نگین یشم [وان یکاد] کد 122047",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "وان یکاد"
+        ]
+      }
+    ],
+    "random_key": "4659b367-ae61-4433-9bde-15dcd9bf5594",
+    "image_url": "https://image.torob.com/base/images/L3/eg/L3egribbdp5CYxga.jpg"
+  },
+  {
+    "title": "یشم افغان معدنی با خواص درمانی درشت کدy12",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغان"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با خواص درمانی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      }
+    ],
+    "random_key": "52fc7184-d98f-47ec-a455-7b67f2bb0565",
+    "image_url": "https://image.torob.com/base/images/GB/U7/GBU7BEFBXAGQ_81y.jpg"
+  },
+  {
+    "title": "مهره کهنه سنگ یشم معدنی کهنه",
+    "group": "نامشخص",
+    "product": "مهره سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنه"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "8fd3baf5-c988-4c51-a6ec-f849a1afc437",
+    "image_url": "https://image.torob.com/base/images/cz/FZ/czFZlgd6K2ZN8O0Y.jpg"
+  },
+  {
+    "title": "سنگ یشم طبیعی گرد تراش تخت دایره ای بسیار زیبا",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "گرد تراش تخت دایره ای"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بسیار زیبا"
+        ]
+      }
+    ],
+    "random_key": "a01c020c-b3d0-48f1-8837-c6ddc13806d6",
+    "image_url": "https://image.torob.com/base/images/Tb/oW/TboWvUNXXxdhBTjQ.jpg"
+  },
+  {
+    "title": "نگین یشم یمن کد 91593",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن"
+        ]
+      }
+    ],
+    "random_key": "7c4fcc30-b1c5-43f9-b5cc-4a2d65dea10a",
+    "image_url": "https://image.torob.com/base/images/Lv/NP/LvNPHZWhTHMzExWn.jpg"
+  },
+  {
+    "title": "نگین یشم یمنی اصل تراش اشکی کد N_1800",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "اشکی"
+        ]
+      }
+    ],
+    "random_key": "ca6c3d63-31ca-499f-a7eb-9a436bd844ca",
+    "image_url": "https://image.torob.com/base/images/m1/-3/m1-3NEJkSq2gRFZL.jpg"
+  },
+  {
+    "title": "یشم طبیعی برزیلی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "برزیلی"
+        ]
+      }
+    ],
+    "random_key": "5c121c2d-bd1e-4836-9b89-48e0d57eedae",
+    "image_url": "https://image.torob.com/base/images/2Y/D-/2YD-Vjh4p7hMr9Qz.jpg"
+  },
+  {
+    "title": "یشم پیریت دار ذغالی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "پیریت دار",
+          "ذغالی"
+        ]
+      }
+    ],
+    "random_key": "4233aa22-f46b-42ae-ba63-bbc223fc75c4",
+    "image_url": "https://image.torob.com/base/images/1I/s6/1Is6XyTPT5DbX-RZ.jpg"
+  },
+  {
+    "title": "یشم معدنی زغال دار طبیعی و با کیفیت عالی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زغال دار"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "عالی"
+        ]
+      }
+    ],
+    "random_key": "deb837a8-059f-4552-8e8b-6143be541cb9",
+    "image_url": "https://image.torob.com/base/images/Kq/7f/Kq7fWghfZYxLlIWC.jpg"
+  },
+  {
+    "title": "کتیبه سنگی یشم معدنی جذب آهن ربا",
+    "group": "نامشخص",
+    "product": "کتیبه سنگی یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتیبه"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذب آهن ربا"
+        ]
+      }
+    ],
+    "random_key": "19121b4a-7d0c-4d0e-be4b-4443cb953c70",
+    "image_url": "https://image.torob.com/base/images/5L/eD/5LeD9uQ3Lg74L0En.jpg"
+  },
+  {
+    "title": "چهار عدد منجیق قدیمی یشم جدید زیبا",
+    "group": "نامشخص",
+    "product": "منجیق یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "منجیق"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "49b96b86-71ea-4871-8251-7127779ea1b2",
+    "image_url": "https://image.torob.com/base/images/cM/_R/cM_RB7sQlJGkyDky.jpg"
+  },
+  {
+    "title": "یشم اصل تایوان کدyash83 معدنی ذغالدار خواص درمانی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "ذغالدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خواص درمانی"
+        ]
+      }
+    ],
+    "random_key": "f5d66812-8985-44da-a262-99723a14c234",
+    "image_url": "https://image.torob.com/base/images/C1/sg/C1sgjLYINqod2k4F.jpg"
+  },
+  {
+    "title": "نگین درشت طبیعی یشم خراسانی معدنی کد 31628",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "خراسانی"
+        ]
+      }
+    ],
+    "random_key": "1a298baa-b8cf-4713-bc78-38fa92cf782c",
+    "image_url": "https://image.torob.com/base/images/ia/Io/iaIoGBXvKTwfxm8w.jpg"
+  },
+  {
+    "title": "مجموعه یشم و سلنایت",
+    "group": "نامشخص",
+    "product": "یشم و سلنایت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مجموعه"
+        ]
+      }
+    ],
+    "random_key": "b193fc5b-e1e7-4b05-be99-c763b4bd5d37",
+    "image_url": "https://image.torob.com/base/images/Vt/oY/VtoYyMks8TlQcKqr.jpg"
+  },
+  {
+    "title": "نگین یشم خطی طبیعی یمنی تراش . علی مع الحق (۵)",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "خطی",
+          "علی مع الحق"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      }
+    ],
+    "random_key": "09070b1d-a403-46c3-9e56-b290a6725b75",
+    "image_url": "https://image.torob.com/base/images/8o/wo/8owoqGTeZTzWQVWP.jpg"
+  },
+  {
+    "title": "یشم سرپانتین سنگ خام یشم سرپانتین با قابلیت ساخت نگین عکسبرداری در حالت خیس کد 24694",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ خام یشم"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با قابلیت ساخت نگین",
+          "عکسبرداری در حالت خیس"
+        ]
+      }
+    ],
+    "random_key": "5f1519d7-bee8-4dd7-9b0b-dba4dd837711",
+    "image_url": "https://image.torob.com/base/images/53/L1/53L1albFoSI3abR6.jpg"
+  },
+  {
+    "title": "یشم جیدیت برمه شناسنامه دار",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "جیدیت"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "برمه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شناسنامه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "100183ab-8cbc-4759-b8ac-26e9f210d75b",
+    "image_url": "https://image.torob.com/base/images/9Z/lQ/9ZlQ26LtvjY5Jipo.jpg"
+  },
+  {
+    "title": "گوی یشم نفریت طبیعی دکوری به وزن 640 گرمی",
+    "group": "نامشخص",
+    "product": "گوی یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی یشم"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "نفریت"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دکوری"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "640 گرمی"
+        ]
+      }
+    ],
+    "random_key": "921cbea0-c099-4fba-9594-243d9896d05d",
+    "image_url": "https://image.torob.com/base/images/9W/ys/9WysjoSMHU4_hhVH.jpg"
+  },
+  {
+    "title": "26 عدد مهره سنگ یشم",
+    "group": "نامشخص",
+    "product": "مهره سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگ یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "26 عدد"
+        ]
+      }
+    ],
+    "random_key": "6e32179a-1ac5-49dd-b2b4-c36b801513ae",
+    "image_url": "https://image.torob.com/base/images/Qi/lD/QilDrfWHfSHhX26Q.jpg"
+  },
+  {
+    "title": "نگین زیبای یشم8/35 قیراط کدMY187",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "8/35 قیراط"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "c684fc7d-f5bb-466b-a8c1-66199234289c",
+    "image_url": "https://image.torob.com/base/images/zg/Q_/zgQ_SB19Re-V3SlM.jpg"
+  },
+  {
+    "title": "گردنبند چشم ببر اصل خوش تراش کد G_1665",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "خوش تراش"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "b7045457-19d6-4f30-b356-b6a2a8aa2b2f",
+    "image_url": "https://image.torob.com/base/images/aV/IQ/aVIQaD1ZV-pbcPrt.jpg"
+  },
+  {
+    "title": "یشم سبز",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "457fb363-5674-44d5-a18d-d0f2bd11fecc",
+    "image_url": "https://image.torob.com/base/images/9h/wP/9hwPuKHh8PoGoqCD.webp"
+  },
+  {
+    "title": "نگین یشم [پنج تن] کد 136564",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "پنج تن"
+        ]
+      }
+    ],
+    "random_key": "36140297-9353-4334-9065-71268612b6e5",
+    "image_url": "https://image.torob.com/base/images/ad/xI/adxIQN50wNh02-0q.jpg"
+  },
+  {
+    "title": "نگین یشم معدنی با حکاکی نماد باشگاه پرسپولیس",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "نماد باشگاه پرسپولیس"
+        ]
+      }
+    ],
+    "random_key": "802cd48c-ce09-4e87-b71a-f4533a1a09b5",
+    "image_url": "https://image.torob.com/base/images/-o/Dk/-oDkmWCkV2n3djAD.jpg"
+  },
+  {
+    "title": "منشور یشم سرپانتین 3",
+    "group": "نامشخص",
+    "product": "منشور یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "منشور یشم"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      }
+    ],
+    "random_key": "3d77d348-9232-4e98-a804-2d126f986166",
+    "image_url": "https://image.torob.com/base/images/Ay/-O/Ay-OTu7SvnSS5sO7.jpg"
+  },
+  {
+    "title": "نگین یشم حکاکی شده فاخر و محشر",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "حکاکی شده"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فاخر",
+          "محشر"
+        ]
+      }
+    ],
+    "random_key": "e5c6e330-330e-4886-bfa4-8b0a347c73f4",
+    "image_url": "https://image.torob.com/base/images/v9/T2/v9T2MSLul8Y38ifu.jpg"
+  },
+  {
+    "title": "گوی یشم",
+    "group": "نامشخص",
+    "product": "گوی یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی یشم"
+        ]
+      }
+    ],
+    "random_key": "f811dfbd-0a4b-4a5c-ad25-867e00adb064",
+    "image_url": "https://image.torob.com/base/images/gx/EF/gxEFjYfS701IzTQ5.jpg"
+  },
+  {
+    "title": "مهره نشان سنگی قدیمی یشم معدنی",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگی"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "75eb7f52-4f2f-4db2-9004-53256f983e1f",
+    "image_url": "https://image.torob.com/base/images/FC/kU/FCkUMpLUuIUIwoi_.jpg"
+  },
+  {
+    "title": "نگین یشم [آیت الکرسی] کد 93350",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "آیت الکرسی"
+        ]
+      }
+    ],
+    "random_key": "2079725e-fde3-49c4-9d86-4ae0581e8d4a",
+    "image_url": "https://image.torob.com/base/images/PP/Z9/PPZ95BiAFACJA0qD.jpg"
+  },
+  {
+    "title": "نگین یشم",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "12cfb5da-6d08-42f8-9a6d-a0801faa5d55",
+    "image_url": "https://image.torob.com/base/images/8Y/G7/8YG7CsVP-_v8HOZF.jpg"
+  },
+  {
+    "title": "یشم اصل تایوان کدyash40 معدنی با خواص درمانی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با خواص درمانی"
+        ]
+      }
+    ],
+    "random_key": "e2c19e10-9543-4e59-bc05-21192522f2f7",
+    "image_url": "https://image.torob.com/base/images/hP/zU/hPzUmW9V6av7M5yd.jpg"
+  },
+  {
+    "title": "گردنبند عقیق زرد حکاکی شرف الشمس کد G_1594",
+    "group": "نامشخص",
+    "product": "گردنبند یشم",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "شرف الشمس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند"
+        ]
+      }
+    ],
+    "random_key": "f6e39c7f-fb35-4444-b349-5f1126a7b82b",
+    "image_url": "https://image.torob.com/base/images/lc/B1/lcB1P--EDTRHve7z.jpg"
+  },
+  {
+    "title": "یشم یمنی پاک تراش مکعبی زیبا خاص",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "پاک"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "مکعبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "bf016d59-1856-4153-a2a2-a422997ff673",
+    "image_url": "https://image.torob.com/base/images/77/zZ/77zZOmxYKzm6Md8a.jpg"
+  },
+  {
+    "title": "یشم اصل تایوان کدyash98 معدنی اذغالدار خواص درمانی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "اذغالدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خواص درمانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "0ecd1d22-593f-4273-9f15-5340df278e40",
+    "image_url": "https://image.torob.com/base/images/Px/CG/PxCG3wXZGEvcaemt.jpg"
+  },
+  {
+    "title": "مهره یشم معدنی",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "9f46a1fa-b49f-4d7d-8ac0-8f7bf46ec03d",
+    "image_url": "https://image.torob.com/base/images/PZ/lk/PZlkp3RyCOBqfSX1.jpg"
+  },
+  {
+    "title": "چهار عدد مهره سنگی یشم با جذب آهن ربا",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذب آهن ربا"
+        ]
+      }
+    ],
+    "random_key": "373600ee-0a38-4f4b-9aa1-91a47273f582",
+    "image_url": "https://image.torob.com/base/images/RF/Mi/RFMi6bRUHahCa3Lm.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم معدنی کد 32934",
+    "group": "نامشخص",
+    "product": "نگین سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "467888d7-4435-433e-8067-d026cb77b0ac",
+    "image_url": "https://image.torob.com/base/images/Cx/en/Cxen5Wyh_F55DTvX.jpg"
+  },
+  {
+    "title": "یشم سبز کد 021",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "f9b02700-e340-42e6-ac6c-24fdef97eafb",
+    "image_url": "https://image.torob.com/base/images/eY/Jo/eYJo9_0RIYUo6vwL.jpg"
+  },
+  {
+    "title": "نگین بسیار زیبای یشم0/70 پوینت کد MY34",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار زیبای"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "0/70 پوینت"
+        ]
+      }
+    ],
+    "random_key": "c265453a-f5bf-4417-8e1f-0aaa95e47ddf",
+    "image_url": "https://image.torob.com/base/images/wL/oX/wLoXUTUNx4FwpbXV.jpg"
+  },
+  {
+    "title": "جواهر اعلای طبیعی یشم19/05قیراط کد MY167",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "اعلای"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "19/05قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "df867761-bfee-4486-b177-380c80df0070",
+    "image_url": "https://image.torob.com/base/images/_x/KW/_xKW7cR9fUwCI2Jm.jpg"
+  },
+  {
+    "title": "نیم ست زنانه یشم شبدر شانس - Marbelin",
+    "group": "زنانه",
+    "product": "نیم ست یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم ست"
+        ]
+      }
+    ],
+    "random_key": "f49a9357-a77e-414a-bf7e-60ae373ec07a",
+    "image_url": "https://image.torob.com/base/images/Fm/EQ/FmEQ5F8Qoiiq6dIl.jpg"
+  },
+  {
+    "title": "سنگ یشم کد (28) با حکاکی الله هم اعجل یشم خطی سنگ ماه تولد سنگ فاخر حراج نگین",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "الله هم اعجل",
+          "خطی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سنگ ماه تولد",
+          "فاخر",
+          "حراج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ",
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "cbef43fb-a4ad-4e6b-868d-ddd6bf820f94",
+    "image_url": "https://image.torob.com/base/images/cE/3S/cE3S9kkAgMVCym9U.jpg"
+  },
+  {
+    "title": "سنگ یشم تراش گلدانی قاجاری",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "گلدانی"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قاجاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "036acced-ccf1-4e3a-9df6-17719dbab874",
+    "image_url": "https://image.torob.com/base/images/Dw/ip/DwipMeFuoF8OOaSA.jpg"
+  },
+  {
+    "title": "نگین یشم [آیت الکرسی] کد 47503 (به همراه هدیه)",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "آیت الکرسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "به همراه هدیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "542c9223-7d6f-443a-8c99-696a6da1df49",
+    "image_url": "https://image.torob.com/base/images/kP/BX/kPBXppXaVFd_nJX_.jpg"
+  },
+  {
+    "title": "پک نگین های ایراد دارسنگ های یشم خراسانی معدنی کد10233",
+    "group": "نامشخص",
+    "product": "پک نگین سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "خراسانی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک نگین",
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "e8424079-1e08-4e5a-91ee-850b85dd2ded",
+    "image_url": "https://image.torob.com/base/images/-_/QX/-_QXmIdLcH4xH5VZ.jpg"
+  },
+  {
+    "title": "یشم یمنی درجه 1 ارتفاع دار خوش رنگ عمق رنگ بالا",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه 1",
+          "خوش رنگ",
+          "عمق رنگ بالا"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "ارتفاع دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "5249b91c-fdcb-4e05-917b-b08581fcbf61",
+    "image_url": "https://image.torob.com/base/images/gL/l9/gLl92QHGh9whhZ1S.jpg"
+  },
+  {
+    "title": "یشم سبز",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "022159c4-b82b-4697-8204-602ba512d41c",
+    "image_url": "https://image.torob.com/base/images/HI/P7/HIP74OIAAqjGuY2E.webp"
+  },
+  {
+    "title": "یشم اصل تایوان کدyash117 معدنی اذغالدار خواص درمانی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "اذغالدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خواص درمانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "b78700c2-a615-4d04-b694-54397e929f36",
+    "image_url": "https://image.torob.com/base/images/1w/uL/1wuLIusOhv78ZmEC.jpg"
+  },
+  {
+    "title": "چهار عدد مهره سنگی یشم با جذب آهن ربا",
+    "group": "نامشخص",
+    "product": "مهره سنگی یشم",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذب آهن ربا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگی"
+        ]
+      }
+    ],
+    "random_key": "370d64d6-970e-4f19-aaf3-5b1fb11fbd53",
+    "image_url": "https://image.torob.com/base/images/RF/Mi/RFMi6bRUHahCa3Lm.jpg"
+  },
+  {
+    "title": "نگین انگشتر یشم با حکاکی یا ابالفضل العباس _کد:۲۱۶۰۱",
+    "group": "نامشخص",
+    "product": "نگین انگشتر",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "یا ابالفضل العباس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین انگشتر"
+        ]
+      }
+    ],
+    "random_key": "e3195e7a-5135-4600-b11e-6cb1a1c1e746",
+    "image_url": "https://image.torob.com/base/images/Db/DS/DbDS2RNAB_HMKQKa.jpg"
+  },
+  {
+    "title": "یشم کهنه و اصیل، اثری بی بدیل و خاص",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنه"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بی بدیل",
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "5f7f36c6-97d7-4e6c-be2e-0ee075915edc",
+    "image_url": "https://image.torob.com/base/images/U2/5f/U25fglDHdbwHrMXz.jpg"
+  },
+  {
+    "title": "مهره لول یشم قدیمی، کلکسیونی و کمیاب",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره لول"
+        ]
+      }
+    ],
+    "random_key": "c2806288-26ac-4c35-bb07-fc7b340fc728",
+    "image_url": "https://image.torob.com/base/images/Lc/YY/LcYY4cRanc9OFGY5.jpg"
+  },
+  {
+    "title": "یشم غولپیکر سلطانی حراج مزایدات و عادی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "غولپیکر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سلطانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "f0fc496f-5dd9-4436-8964-d63265d348f2",
+    "image_url": "https://image.torob.com/base/images/87/-X/87-XBgcQbzTkroHU.jpg"
+  },
+  {
+    "title": "نگین جذاب یشم16/20 قیراط کد MY163",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "16/20 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "a595266a-ecc2-4ad3-b004-cafbc19c4b3a",
+    "image_url": "https://image.torob.com/base/images/da/9j/da9jy6QfNrEyqJvT.jpg"
+  },
+  {
+    "title": "نگین سرپانتین یشم سبز اصل معدنی تراش دار",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "تراش دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "fd03017a-e123-4622-ac5b-12e63193d59d",
+    "image_url": "https://image.torob.com/base/images/c0/QQ/c0QQvzQok6Go0FvF.jpg"
+  },
+  {
+    "title": "نگین یشم زیبا کد 117141",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "e37a2bb3-3fa6-4934-a494-fd64c92c4797",
+    "image_url": "https://image.torob.com/base/images/o5/Gd/o5GdB-kcNtNLZ-xR.jpg"
+  },
+  {
+    "title": "نگین خاص و جذاب یشم25/0 قیراط کد MY143",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "25/0 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "94a5d421-76f9-472f-ac3c-35431a3076f1",
+    "image_url": "https://image.torob.com/base/images/hx/WQ/hxWQJp55YkRN5-qJ.jpg"
+  },
+  {
+    "title": "جید سرخ تراش فنسی جواهری جید معروف به یشم یشم",
+    "group": "نامشخص",
+    "product": "جید",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "فنسی",
+          "جواهری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جید"
+        ]
+      }
+    ],
+    "random_key": "66df30ba-7a70-46f3-9f35-e306157e68a0",
+    "image_url": "https://image.torob.com/base/images/2y/7Z/2y7ZeN_31qWEaPY2.jpg"
+  },
+  {
+    "title": "سنگ یشم طبیعی کشور روسیه",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "روسیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "5df6caea-db57-4efd-a26e-f3056d4310d5",
+    "image_url": "https://image.torob.com/base/images/Xy/HK/XyHKxYmf08LnKmn5.jpg"
+  },
+  {
+    "title": "مهره یشم بزرگ",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      }
+    ],
+    "random_key": "9a337c5c-c04e-45fd-9cd3-1c8888412c56",
+    "image_url": "https://image.torob.com/base/images/B1/Av/B1Av8tRn8Zg80Fxh.jpg"
+  },
+  {
+    "title": "سنگ یشم کد 61 سنگ متولدین فروردین اردیبهشت خرداد تیر مرداد و مهر ماه",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سنگ متولدین فروردین",
+          "اردیبهشت",
+          "خرداد",
+          "تیر",
+          "مرداد",
+          "مهر ماه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "cb36e218-da25-45ae-97e6-39730e424daf",
+    "image_url": "https://image.torob.com/base/images/iP/mu/iPmuTBdUb5KP0pmL.jpg"
+  },
+  {
+    "title": "نگین یشم سرپانتین معدنی و طبیعی پاک 1",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "پاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "708b2603-3da6-4701-bb7f-d724b03a17bb",
+    "image_url": "https://image.torob.com/base/images/0B/5L/0B5LNMAn_q85uAK7.jpg"
+  },
+  {
+    "title": "مهره لول یشم کهنه، اصیل و کمیاب",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنه"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره لول"
+        ]
+      }
+    ],
+    "random_key": "94dbdd56-c1ef-4445-8375-037fbc502d8a",
+    "image_url": "https://image.torob.com/base/images/z3/_Z/z3_Zk8LhdCO9jjLp.jpg"
+  },
+  {
+    "title": "دستبند سنگ مدل مارشال با سنگ یشم اصل شاران",
+    "group": "نامشخص",
+    "product": "دستبند سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبند سنگ"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "e59a1101-f80d-4688-896f-2830f17389e3",
+    "image_url": "https://image.torob.com/base/images/LD/TL/LDTL5_BkKDrovWku.jpg"
+  },
+  {
+    "title": "نگین یشم خطی معدنی و طبیعی.ارسال مدل عکس اول (۱۳)",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خطی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "27d6f262-c987-4e84-ba90-643465f4a45c",
+    "image_url": "https://image.torob.com/base/images/CD/Yu/CDYu8EQlgHBCzP75.jpg"
+  },
+  {
+    "title": "یشم عباس اباد اصل تراش عالی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "عباس اباد"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "عالی"
+        ]
+      }
+    ],
+    "random_key": "ab664d22-90fd-49f8-a530-137ae8ec5c43",
+    "image_url": "https://image.torob.com/base/images/ze/to/zetoi7ZyEp166-Vd.jpg"
+  },
+  {
+    "title": "نگین فوق العاده زیبای یشم0/65 پوینت کدMY94",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "0.65 پوینت"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "56773e22-86ed-4963-ba91-627c6d50c51a",
+    "image_url": "https://image.torob.com/base/images/-E/kk/-EkkO6a61KawFQP4.jpg"
+  },
+  {
+    "title": "نگین انگشتر یشم زیبا",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین انگشتر"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "c933911c-24eb-4d51-acf4-1f6b938c9eb9",
+    "image_url": "https://image.torob.com/base/images/sv/C-/svC-34VTbZE5BzmT.jpg"
+  },
+  {
+    "title": "یشم( سرپانتین)مناسب کلکسیونی 1300 گرمی جذب آهن ربا",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی",
+          "جذب آهن ربا"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "1300 گرمی"
+        ]
+      }
+    ],
+    "random_key": "59a76596-7edd-4442-968d-f10fa38214a7",
+    "image_url": "https://image.torob.com/base/images/eh/VA/ehVACaZgcUHiqQ71.jpg"
+  },
+  {
+    "title": "نگین اعلای طبیعی یشم1/25 قیراط کد MY108",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "1.25 قیراط"
+        ]
+      }
+    ],
+    "random_key": "46ce3932-a1ab-4eed-8b31-4e7157f877f5",
+    "image_url": "https://image.torob.com/base/images/6H/Cx/6HCxDonDHZzS1X9S.jpg"
+  },
+  {
+    "title": "یشم راف 183 گرم کدmy272",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "183 گرم"
+        ]
+      }
+    ],
+    "random_key": "87b2a4dc-0a7b-4bef-977c-dff082331539",
+    "image_url": "https://image.torob.com/base/images/ll/Dl/llDlpuODbMJJAxkZ.jpg"
+  },
+  {
+    "title": "نگین خاص وجذاب یشم1/10 قیراط کدMY83",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "1.10 قیراط"
+        ]
+      }
+    ],
+    "random_key": "38c060cd-5b79-4cc0-9617-be9a5fe360a5",
+    "image_url": "https://image.torob.com/base/images/JM/Tp/JMTpyyvBqXJ2yQ1h.jpg"
+  },
+  {
+    "title": "یشم زرد تراش فنی خوش رنگ و عالی و چشم نواز",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "فنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "عالی"
+        ]
+      }
+    ],
+    "random_key": "f233e51b-2d29-4250-9207-69e7067608d5",
+    "image_url": "https://image.torob.com/base/images/eo/x1/eox1Ef6zYireWkRi.jpg"
+  },
+  {
+    "title": "نگین یشم شمایل [یا اباعبدالله الحسین] کد 104485",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "یا اباعبدالله الحسین"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "شمایل"
+        ]
+      }
+    ],
+    "random_key": "30465aad-1bdb-4750-ba91-d27f422290c3",
+    "image_url": "https://image.torob.com/base/images/Ep/Ca/EpCak9O6g-t9oOZZ.jpg"
+  },
+  {
+    "title": "نگین یشم عباس آباد اصل حکاکی آیه مخصوص کد N_2086",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "عباس آباد"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "آیه مخصوص"
+        ]
+      }
+    ],
+    "random_key": "06b85aa4-24a5-4da6-8e4c-54780f0ff97e",
+    "image_url": "https://image.torob.com/base/images/5m/US/5mUSIsucEwEMhxyl.jpg"
+  },
+  {
+    "title": "نگین یشم درشت ذغال دار",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "ذغال دار"
+        ]
+      }
+    ],
+    "random_key": "1f276e19-aa75-48f8-aff6-1263820cc393",
+    "image_url": "https://image.torob.com/base/images/y5/FE/y5FEr1a1yYEA-jQt.jpg"
+  },
+  {
+    "title": "کاروینگ سنگی یشم سگ",
+    "group": "نامشخص",
+    "product": "کاروینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاروینگ سنگی یشم"
+        ]
+      }
+    ],
+    "random_key": "8f04d79f-6bd1-4d3f-9bdd-6522a7f7043c",
+    "image_url": "https://image.torob.com/base/images/Cv/M1/CvM1CKkOdBP5ISYR.jpg"
+  },
+  {
+    "title": "بارخانه سنگ یشم سبز",
+    "group": "نامشخص",
+    "product": "بارخانه سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بارخانه سنگ یشم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "691cf623-ce7e-427b-83dc-e2c06be19707",
+    "image_url": "https://image.torob.com/base/images/sm/eR/smeR_5pw7HiejmVD.jpg"
+  },
+  {
+    "title": "نگین بسیار بسیار خاص و ارزنده یشم طبیعی و اصل معدنی کد 15",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی",
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "fd2442ca-8bd2-4d96-b11a-c2b3c2d8594f",
+    "image_url": "https://image.torob.com/base/images/ey/Gy/eyGyGQVOzSDxIGSq.jpg"
+  },
+  {
+    "title": "نگین انگشتر یشم درشت خوشرنگ زیبا _کد:۱۷۸۸۹",
+    "group": "نامشخص",
+    "product": "نگین انگشتر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین انگشتر"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "خوشرنگ",
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "670dff86-0bd1-4899-8652-bc56d304b288",
+    "image_url": "https://image.torob.com/base/images/cI/UN/cIUN3s1Fcg6zoW96.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم خراسان حکاکی یا حسین _ کد : 401027",
+    "group": "نامشخص",
+    "product": "نگین سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "خراسان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حکاکی"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "یا حسین"
+        ]
+      }
+    ],
+    "random_key": "35601200-3c37-4f1b-88fc-2ee6044cacb9",
+    "image_url": "https://image.torob.com/base/images/Rh/81/Rh81tgQZP3U-M5ey"
+  },
+  {
+    "title": "یشم3.0ct کدMY219",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "3.0ct"
+        ]
+      }
+    ],
+    "random_key": "d840c55e-ae72-4c30-9682-6129c7222bac",
+    "image_url": "https://image.torob.com/base/images/57/z-/57z-veeAqxl76PS1.jpg"
+  },
+  {
+    "title": "نیم ست یشم زنانه نازگل - Marbelin",
+    "group": "زنانه",
+    "product": "نیم ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم ست"
+        ]
+      }
+    ],
+    "random_key": "d1c24b8d-1975-41b0-9457-2c6f64b27d24",
+    "image_url": "https://image.torob.com/base/images/8d/z9/8dz9TDllkdfp9lFe.jpg"
+  },
+  {
+    "title": "یشم سبز",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "71f77cc4-58ff-443f-9aeb-ab534c6667a1",
+    "image_url": "https://image.torob.com/base/images/vW/ho/vWhoKtoxGt58KyPR.webp"
+  },
+  {
+    "title": "نگین یشم خطی طبیعی یمنی تراش . ناد علی ع (۲۰)",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خطی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "تراش/شكل",
+        "values": [
+          "تراش"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "ناد علی ع"
+        ]
+      }
+    ],
+    "random_key": "8d4bf49e-85a2-4daf-82ec-8c9373e79a1c",
+    "image_url": "https://image.torob.com/base/images/nv/fd/nvfdkxhdfm_t7P0K.jpg"
+  },
+  {
+    "title": "سنگ یشم کد 59 سنگ متولدین فروردین اردیبهشت خرداد تیر مرداد و مهر ماه",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سنگ متولدین فروردین اردیبهشت خرداد تیر مرداد و مهر ماه"
+        ]
+      }
+    ],
+    "random_key": "74bb1529-135e-4030-8e6c-7d5b72ab3a7f",
+    "image_url": "https://image.torob.com/base/images/Un/_m/Un_mchVbOxgUvSPF.jpg"
+  },
+  {
+    "title": "سنگ یشم (کد 447)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "d6da87bd-1fb4-4bef-82cb-e8e5a5d890ec",
+    "image_url": "https://image.torob.com/base/images/VJ/aR/VJaRou8sdutkjQEy.jpg"
+  },
+  {
+    "title": "یشم بسیار ارزشمند",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار ارزشمند"
+        ]
+      }
+    ],
+    "random_key": "81c6b6cf-d692-443a-9fa2-97caad245129",
+    "image_url": "https://image.torob.com/base/images/In/Xj/InXjfR9gKPqxHguT.jpg"
+  },
+  {
+    "title": "یشم یمنی درجه 1 عمق رنگ بالا خوش رنگ",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه 1",
+          "خوش رنگ"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "عمق رنگ بالا"
+        ]
+      }
+    ],
+    "random_key": "b5e76c37-dafc-4a5f-8a32-44664d0ed772",
+    "image_url": "https://image.torob.com/base/images/KT/5J/KT5Jd5iSZI9C5RTH.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم سبز اصل معدنی حکاکی خطی دعای ناد علی",
+    "group": "نامشخص",
+    "product": "نگین سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حکاکی خطی"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "دعای ناد علی"
+        ]
+      }
+    ],
+    "random_key": "5516d43f-8cfb-45e2-ab67-c09c3337ef83",
+    "image_url": "https://image.torob.com/base/images/ot/b9/otb9ubB5sN1-qNeY.jpg"
+  },
+  {
+    "title": "مهره یشم اصل معدنی سایز6 طبیعی ومعدنی",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "سایز6"
+        ]
+      }
+    ],
+    "random_key": "dd8dd6ab-6d72-4a55-853b-8e4e3be9aa91",
+    "image_url": "https://image.torob.com/base/images/ip/Kw/ipKwwGfo_X1f9_ov.jpg"
+  },
+  {
+    "title": "نگین یشم [هیهات من الذله] کد 98842 (به همراه هدیه)",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "هیهات من الذله"
+        ]
+      }
+    ],
+    "random_key": "6daff818-0d7b-4c6e-92f9-4529750c5019",
+    "image_url": "https://image.torob.com/base/images/1b/JF/1bJF6yy6qUJLhKoY.jpg"
+  },
+  {
+    "title": "ده عدد مهره یشم معدنی تراش بی نظیر",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بی نظیر"
+        ]
+      },
+      {
+        "name": "تراش/شكل",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "6d23b2e5-fc40-4cec-866b-5fe5631034b2",
+    "image_url": "https://image.torob.com/base/images/4d/Td/4dTdG9F6g4fmIZu5.jpg"
+  },
+  {
+    "title": "جیدولر (سنگ یشم)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "f57516b4-4d6c-4d14-a223-366dae12c5dc",
+    "image_url": "https://image.torob.com/base/images/XY/UZ/XYUZqkoenNU56zUq.jpg"
+  },
+  {
+    "title": "نگین یشم یمن خوشرنگ کد 60455",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "خوشرنگ"
+        ]
+      }
+    ],
+    "random_key": "86fec185-0fea-447d-8db6-1a8ff1031253",
+    "image_url": "https://image.torob.com/base/images/xI/A-/xIA-xiyZXCOVP6Rc.jpg"
+  },
+  {
+    "title": "یشم سبز",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "bf919e3d-7790-472b-add7-e8f8beb60d53",
+    "image_url": "https://image.torob.com/base/images/l3/gP/l3gPQcxmeWSNWkjp.webp"
+  },
+  {
+    "title": "پک 2 عددی یشم سرپانتین بزرگ 150 گرمی",
+    "group": "نامشخص",
+    "product": "سنگ یشم 2 عددی",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "بزرگ",
+          "150 گرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "eab613b9-5128-488f-aaec-ee33895c7650",
+    "image_url": "https://image.torob.com/base/images/cd/X_/cdX_LsS0C5yNmDBv.jpg"
+  },
+  {
+    "title": "یشم اصل معدنی رومانتویی کد 42",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم رومانتویی"
+        ]
+      }
+    ],
+    "random_key": "c89d6b3b-6c4e-4132-9223-bc8622f2be65",
+    "image_url": "https://image.torob.com/base/images/GS/Ww/GSWwRy6vIVCuBPCC.jpg"
+  },
+  {
+    "title": "نگین یشم زیبا کد 141068",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "3f0b6852-5227-45ad-b67f-9dfb08f1afd6",
+    "image_url": "https://image.torob.com/base/images/KC/1h/KC1hqjfSL-vGWJok.jpg"
+  },
+  {
+    "title": "یشم یمن",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "6ae836f6-8d24-46a5-9fcb-6fa607d7e008",
+    "image_url": "https://image.torob.com/base/images/eF/gz/eFgzioao03x3CehZ.webp"
+  },
+  {
+    "title": "نگین خطی سنگ یشم معدنی کرمان",
+    "group": "نامشخص",
+    "product": "نگین سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ یشم"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "خطی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "کرمان"
+        ]
+      }
+    ],
+    "random_key": "5649659d-f87f-4d93-b0ba-37b882c51b33",
+    "image_url": "https://image.torob.com/base/images/Wj/1k/Wj1kb5lr51OtsVWJ.jpg"
+  },
+  {
+    "title": "یشم اصل تایوان کدyash87 معدنی ذغالدار خواص درمانی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "ذغالدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خواص درمانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "65248623-2fa9-458e-800a-63b45ff11932",
+    "image_url": "https://image.torob.com/base/images/s8/VU/s8VU8Bf9QSfZ7xc9.jpg"
+  },
+  {
+    "title": "یشم سبز زیبا",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "32e9cee5-b509-4e30-8a6e-db221c6c9b6e",
+    "image_url": "https://image.torob.com/base/images/-6/fv/-6fv1c9HJxaoScz_.jpg"
+  },
+  {
+    "title": "یشم کهنه باستانی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنه",
+          "باستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "40eb3be7-13c2-4cfe-ab5a-1618ca3cefed",
+    "image_url": "https://image.torob.com/base/images/v3/fq/v3fqfPv2S-_oEK1W.jpg"
+  },
+  {
+    "title": "نگین یشم اصل حکاکی عین علی و چهارده معصوم درشت",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "عین علی",
+          "چهارده معصوم"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      }
+    ],
+    "random_key": "085a1118-86d4-41cd-8f77-03be3559a41a",
+    "image_url": "https://image.torob.com/base/images/f3/bE/f3bE45JVAuxhyDee.jpg"
+  },
+  {
+    "title": "راف یشم ناب مخصوص مدیتیشن و کلکسیون",
+    "group": "نامشخص",
+    "product": "راف یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف یشم"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "ناب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مخصوص مدیتیشن",
+          "کلکسیونی"
+        ]
+      }
+    ],
+    "random_key": "3de06b6a-4b14-47d9-b6c2-e9822f1ad7b2",
+    "image_url": "https://image.torob.com/base/images/L2/2h/L22hZuvI_6Era1NG.jpg"
+  },
+  {
+    "title": "نگین انگشتر یشم با حکاکی برجسته بسیار زیبا _کد:۲۱۱۸۰",
+    "group": "نامشخص",
+    "product": "نگین انگشتر یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین انگشتر یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "حکاکی برجسته"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بسیار زیبا"
+        ]
+      }
+    ],
+    "random_key": "62874722-0b99-400e-87fa-1113f41733cb",
+    "image_url": "https://image.torob.com/base/images/Xv/9O/Xv9O-zVFK5kpFy04.jpg"
+  },
+  {
+    "title": "یشم زمردی فقط 3 کیلو موجود",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زمردی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "33a31313-e73d-4422-94c8-cc62721e0fcf",
+    "image_url": "https://image.torob.com/base/images/1O/Mg/1OMgtyId2UXzaElo.jpg"
+  },
+  {
+    "title": "یشم اصل معدنی طبیعی سبز تیره مایل به سیاه . رومانتویی. حکاکی . دستبند کد 1",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز تیره مایل به سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم رومانتویی",
+          "دستبند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حکاکی"
+        ]
+      }
+    ],
+    "random_key": "b7237bfb-f4eb-40e1-8c64-beb98f3bcb46",
+    "image_url": "https://image.torob.com/base/images/-D/qX/-DqXW9yhvccV5ZBD.jpg"
+  },
+  {
+    "title": "نگین یشم حکاکی شده محشر. و فاخر",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "حکاکی شده"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "محشر",
+          "فاخر"
+        ]
+      }
+    ],
+    "random_key": "30141a86-bc3b-47c8-8dda-be71721654d7",
+    "image_url": "https://image.torob.com/base/images/WF/rJ/WFrJQIvbrfdkTt_T.jpg"
+  },
+  {
+    "title": "مهره یشم جدیت 15میلی گوی یشم بزرگ اصل فروشگاه سنگ قیمتی کرج سلما گالری مهره سنگ ماه تولد طبیعی مهره یشم نفریت اصل",
+    "group": "نامشخص",
+    "product": "مهره سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "جدیت",
+          "نفریت"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "15میلی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "گوی",
+          "مهره"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم",
+          "گوی یشم"
+        ]
+      }
+    ],
+    "random_key": "d0f8bf72-a598-49b3-89c9-3afd41c8fdad",
+    "image_url": "https://image.torob.com/base/images/5h/ET/5hET9UNV9PRp6yfP.jpg"
+  },
+  {
+    "title": "یشم یمن",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "2be9a23c-394b-4ac0-a526-1b8f32bab07b",
+    "image_url": "https://image.torob.com/base/images/43/PB/43PBqxkHEWHYaoqb.webp"
+  },
+  {
+    "title": "یشم اصل تایوان کدyash100 معدنی اذغالدار خواص درمانی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "اذغالدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خواص درمانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "87459042-407f-4d58-b6d5-cfcb2862d78c",
+    "image_url": "https://image.torob.com/base/images/_y/LK/_yLKqfIyc1kojNtL.jpg"
+  },
+  {
+    "title": "یشم نشان باستانی نفیس",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "باستانی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "نفیس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "cbeecfa7-5ddc-4239-962d-4093f3f48bcb",
+    "image_url": "https://image.torob.com/base/images/ph/Hh/phHhamTgHKC2mmAN.jpg"
+  },
+  {
+    "title": "یشم اصل معدنی سایز مدالی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "مدالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "f628011f-10c5-4dfa-a791-6152137c003b",
+    "image_url": "https://image.torob.com/base/images/BR/ut/BRutDX9i2qtKajeg.jpg"
+  },
+  {
+    "title": "مهره یشم پادزهر کهنه قدمتدار",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنه",
+          "قدمتدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پادزهر"
+        ]
+      }
+    ],
+    "random_key": "4212dffb-c88d-49fc-8942-627386dc75d4",
+    "image_url": "https://image.torob.com/base/images/mU/gD/mUgDZXC09-0jU9HR.jpg"
+  },
+  {
+    "title": "گردنبند سنگ طبیعی یشم عباس آباد معدنی کد 35061",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "عباس آباد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "fa937033-ee82-465f-bff4-f6adeab2591f",
+    "image_url": "https://image.torob.com/base/images/A9/m_/A9m_1NfO4qfpmHR-.jpg"
+  },
+  {
+    "title": "یشم یمنی تراش مکعبی پاک کمیاب",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "مکعبی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "پاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "ef038d49-710c-44a0-aae6-f03e3fba480c",
+    "image_url": "https://image.torob.com/base/images/6B/Fr/6BFrbQqMrB4P36B1.jpg"
+  },
+  {
+    "title": "یشم معدنی حکاکی 2685",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حکاکی 2685"
+        ]
+      }
+    ],
+    "random_key": "c6031cd3-ced8-43e7-875c-220076de61a7",
+    "image_url": "https://image.torob.com/base/images/Jp/Gn/JpGnfP11u2sFLfx4.jpg"
+  },
+  {
+    "title": "نگین یشم خطی",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "خطی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "19041582-e4d6-46c6-9b6d-9790fc840cc9",
+    "image_url": "https://image.torob.com/base/images/Kp/h_/Kph_wTqgGz3H4aTH.jpg"
+  },
+  {
+    "title": "نگین گردنی یشم",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "a3982fc7-6812-462d-8efe-4ac4bab99a4b",
+    "image_url": "https://image.torob.com/base/images/VH/jf/VHjfpHi0QiGjMe7B.jpg"
+  },
+  {
+    "title": "ده عدد نگین یشم خطی",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "خطی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "efbdcddc-bc5f-4a07-a841-96ec21783a6f",
+    "image_url": "https://image.torob.com/base/images/u2/MF/u2MFFRrdqAjBXbEr.jpg"
+  },
+  {
+    "title": "سنگ یشم (کد 421)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "09d90528-4b61-4412-bbbf-186efba313ea",
+    "image_url": "https://image.torob.com/base/images/eD/Im/eDImG01CJx0jibKn.jpg"
+  },
+  {
+    "title": "ریسه سنگ یشم کانادا در 3 سایز",
+    "group": "نامشخص",
+    "product": "ریسه",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "کانادا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "b5e8168e-3871-4bd1-822a-24443216d9e6",
+    "image_url": "https://image.torob.com/base/images/_Y/Az/_YAzF2XrcsITlNNW.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم سبز معدنی حکاکی خطی دعای آیت الکرسی",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "خطی",
+          "دعای آیت الکرسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "802b4f98-1fbb-4b67-bf10-ead33efbffa3",
+    "image_url": "https://image.torob.com/base/images/46/cO/46cOYc6Wf6NNYE9A.jpg"
+  },
+  {
+    "title": "سنگ یشم معدنی و اصیل",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "اصیل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "910c2eea-48d6-416f-bbf1-2c9f40896ee4",
+    "image_url": "https://image.torob.com/base/images/RN/J6/RNJ62RP3RGI28yAc.jpg"
+  },
+  {
+    "title": "مهره یشم تراش چند وجهی",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "چند وجهی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      }
+    ],
+    "random_key": "fcebb1a6-6a73-4a7c-973b-bbe4d9cfd657",
+    "image_url": "https://image.torob.com/base/images/Yo/rs/YorsoTODcRzTPMLr.jpg"
+  },
+  {
+    "title": "مهره یشم شاه مقصود اصل معدنی دفرمه",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "86632fec-e9dd-4906-ad94-0c9cfcbfab41",
+    "image_url": "https://image.torob.com/base/images/tf/u6/tfu6hoJ-o08Zh8WJ.jpg"
+  },
+  {
+    "title": "یشم یمن",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "4a5644d6-25fe-4d1c-a55b-8a5077d540ac",
+    "image_url": "https://image.torob.com/base/images/tc/gU/tcgU7gFzyf5z0gVk.webp"
+  },
+  {
+    "title": "یشم معدنی یکدست",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "4cf436d6-567c-4edd-a4fa-b9854529a7ab",
+    "image_url": "https://image.torob.com/base/images/q4/kE/q4kEkGQLs6Fad2Zt.jpg"
+  },
+  {
+    "title": "نگین یشم",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "04b98c71-0a6e-4719-9544-119d4c4810b4",
+    "image_url": "https://image.torob.com/base/images/EB/YB/EBYB1NPycOv0-b93.jpg"
+  },
+  {
+    "title": "سنگ یشم سبز خطی یا ابا عبدالله الحسین اصل معدنی زیبا",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "خطی",
+          "یا ابا عبدالله الحسین"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "62abba74-cb64-4e92-82fe-bc36d70e790d",
+    "image_url": "https://image.torob.com/base/images/oL/qN/oLqNZKLl0f0h65MB.jpg"
+  },
+  {
+    "title": "راف اونتورین هندی سنگ سبز طبیعی سنگ سلامت قلب سنگ یشم معدنی راف اونتورین سبز سنگ جذب تراش سنگ یشم سبز",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "هندی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سلامت قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف اونتورین",
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "dbc3987c-9e87-4213-b6b3-af8916057c14",
+    "image_url": "https://image.torob.com/base/images/Bi/pX/BipXViSHVUCq6u6d.jpg"
+  },
+  {
+    "title": "25گرم یشم طبیعی معدنی زغالدار",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "25گرم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زغالدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "af7ec22e-5d5c-421c-8026-f83785e33524",
+    "image_url": "https://image.torob.com/base/images/2_/Fp/2_FpJNm1A3CrNTUg.jpg"
+  },
+  {
+    "title": "نگین خوشرنگ یشم0/70 پوینت کدMY60",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "0.70 پوینت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "5ed055d3-b588-471a-9d09-a1abdbb90047",
+    "image_url": "https://image.torob.com/base/images/mm/A0/mmA0NiDzCKJbs1Y8.jpg"
+  },
+  {
+    "title": "نگین یشم کاملا طبیعی و دستراش با خاصیت درمان",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "کاملا طبیعی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "دستراش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درمان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "c9572fe9-7542-4578-9c58-146d8104cdbe",
+    "image_url": "https://image.torob.com/base/images/ms/9M/ms9Mik-zl3PWxxcu.jpg"
+  },
+  {
+    "title": "مهره های یشم وعقیق",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم",
+          "مهره عقیق"
+        ]
+      }
+    ],
+    "random_key": "58226215-76c2-4a2c-8de5-684443dfca4a",
+    "image_url": "https://image.torob.com/base/images/bF/Jk/bFJkgGsMRiZHaL6P.jpg"
+  },
+  {
+    "title": "مهره یشم 3 گوش بسیار زیبا قدیمی کلکسیونی ش 19",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "لبه 3 گوش"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      }
+    ],
+    "random_key": "fa9600f7-d053-4f95-ac3a-d40ac47e17c3",
+    "image_url": "https://image.torob.com/base/images/t_/yg/t_ygpyRMKUmN0UUl.jpg"
+  },
+  {
+    "title": "پک 2 عددی یشم سرپانتین کوچک 80 گرمی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "کوچک",
+          "80 گرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "b1ba38d3-f45e-4cde-9595-8b3c09274cde",
+    "image_url": "https://image.torob.com/base/images/Yl/HA/YlHA5UCabK9F_mSs.jpg"
+  },
+  {
+    "title": "یشم طبیعی 3489",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "b1e5e808-a456-4f3a-a345-45baa3f71985",
+    "image_url": "https://image.torob.com/base/images/XZ/8b/XZ8b6H7pBW9SyJGg.jpg"
+  },
+  {
+    "title": "یشم معدنی درجه یک افغان.کد3",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "64d14cdf-af17-453d-b2d7-df40df03ea73",
+    "image_url": "https://image.torob.com/base/images/RH/aI/RHaIF6Up3pbQo1et.jpg"
+  },
+  {
+    "title": "یشم باقدمت بسیار بالا",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "قدمت",
+        "values": [
+          "بسیار بالا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "34a72b30-3f6a-4aed-aa0d-e61e1963088d",
+    "image_url": "https://image.torob.com/base/images/tC/e8/tCe8MuEmPKD4vP43.jpg"
+  },
+  {
+    "title": "مهره درشت یشم سیاه فوق کهنه بینظیر",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "فوق کهنه"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بینظیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      }
+    ],
+    "random_key": "837b8b34-f5e5-4f44-976e-56ed363ef6d1",
+    "image_url": "https://image.torob.com/base/images/9F/83/9F831scyescm9Asy.jpg"
+  },
+  {
+    "title": "سنگ یشم معدنی کد 01",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "ee5d5363-b8a6-4749-9dd6-51eb57587f0d",
+    "image_url": "https://image.torob.com/base/images/Br/ko/BrkonrYoCNIoK0Aa.jpg"
+  },
+  {
+    "title": "یشم سبز",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "f79730b9-67df-4604-b746-3075d2495930",
+    "image_url": "https://image.torob.com/base/images/aB/ex/aBexh12DRhO3NJXm.webp"
+  },
+  {
+    "title": "یشم یمنی درجه 1 پاک رنگ چمنی کمیاب",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه 1"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "پاک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چمنی",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "0ab06dc8-d1bd-4a24-a49f-1a591b3e0e0b",
+    "image_url": "https://image.torob.com/base/images/DL/zG/DLzGzV7qRaFWqekB.jpg"
+  },
+  {
+    "title": "نگین یشم معدنی رنگ تیره بسیار زیبا تراش دامله کیفیت عالی وزن حدود 5.3 گرم تخصصی چاکرای قلب",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "تیره"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بسیار زیبا",
+          "عالی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "دامله"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "حدود 5.3 گرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تخصصی چاکرای قلب"
+        ]
+      }
+    ],
+    "random_key": "3c2b5e96-0891-4e86-9d0f-e787287bef70",
+    "image_url": "https://image.torob.com/base/images/38/0X/380Xofg4n2wblx76.jpg"
+  },
+  {
+    "title": "یشم یمن سبز",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "7b5bebaa-1d9c-480e-bd38-ed46bf1ce7d0",
+    "image_url": "https://image.torob.com/base/images/V-/pK/V-pKXIN8ufFQhDoI.webp"
+  },
+  {
+    "title": "نگین بیهمتای یشم9/70 قیراط کد MY178",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "9/70 قیراط"
+        ]
+      }
+    ],
+    "random_key": "bd35ab78-47f4-4bd1-9ea3-5f904caf369e",
+    "image_url": "https://image.torob.com/base/images/PG/mW/PGmWyErTT4VyHpAu.jpg"
+  },
+  {
+    "title": "نگین درشت یشم سبز طبع یمانی آماده نصب",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمانی"
+        ]
+      }
+    ],
+    "random_key": "ee077c31-8391-4c68-a233-1264080bf0dc",
+    "image_url": "https://image.torob.com/base/images/hy/g6/hyg6wK9AMgNxSG5z.jpg"
+  },
+  {
+    "title": "یشم اشکی",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "008a20ec-680a-4bf5-bba5-6a655227734f",
+    "image_url": "https://image.torob.com/base/images/NF/6N/NF6Nr1-OXHjc02hj.jpg"
+  },
+  {
+    "title": "نگین قدیمی یشم زمردی 10 عدد با هم ضریب دار طبیعی",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زمردی"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "bd94cdc3-a82d-4c2f-8ac1-fdfa45af7f00",
+    "image_url": "https://image.torob.com/base/images/4v/U9/4vU9fvTEDigru3DN.jpg"
+  },
+  {
+    "title": "یشم معدنی درجه یک و کلکسیونی 2775",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "50de4016-a47a-4062-98e7-50801c69b9c7",
+    "image_url": "https://image.torob.com/base/images/E7/Uf/E7Uf_gE5La3QFZ5W.jpg"
+  },
+  {
+    "title": "بارخانه ۱۸ عدد گردنی اشکی یشم افغانستان طبیعی اصل کد 999113",
+    "group": "نامشخص",
+    "product": "گردنی یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغانستان"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی",
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "9daf21f4-6e17-4195-954a-6f64d6b98022",
+    "image_url": "https://image.torob.com/base/images/Ck/ae/Ckaevf3IxVpvKgqe.jpg"
+  },
+  {
+    "title": "سنگ راف یشم سرپانتین",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      }
+    ],
+    "random_key": "3f88c447-3e9a-48d1-90eb-86246d439848",
+    "image_url": "https://image.torob.com/base/images/wu/gU/wugUxzI9Kg68Fg_2.jpg"
+  },
+  {
+    "title": "یشم معدنی 2972",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "1e0a7410-bc4a-465f-b262-86eb6525aa30",
+    "image_url": "https://image.torob.com/base/images/Aw/DL/AwDL-3cUPNmTDniW.jpg"
+  },
+  {
+    "title": "ریسه سنگ لوله ای کوتاه یشم کد4093",
+    "group": "نامشخص",
+    "product": "ریسه سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ",
+          "لوله ای"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "3ac3fedd-700d-4318-9085-6d8ff7256efe",
+    "image_url": "https://image.torob.com/base/images/hJ/Q-/hJQ-OpP8VCN2slzp.jpg"
+  },
+  {
+    "title": "یشم سبز",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "7dbd8468-c376-4c30-92f6-7167beee8e43",
+    "image_url": "https://image.torob.com/base/images/34/oh/34oh8_nMQ7AIIIft.webp"
+  },
+  {
+    "title": "نگین یشم سبز29/05 قیراط کدmy264",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "29/05 قیراط"
+        ]
+      }
+    ],
+    "random_key": "510472a7-10b9-4ac1-ae01-f1fbaf465e3e",
+    "image_url": "https://image.torob.com/base/images/gP/X2/gPX2QSgsPsGAHiSX.jpg"
+  },
+  {
+    "title": "یشم نفریت طبیعی بیضی سبز افغانستان ۲۳۳۲۰۳",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "نفریت"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "تراش/شكل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغانستان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "f9324e9d-098c-4f4d-a642-49c5aba9b917",
+    "image_url": "https://image.torob.com/base/images/3U/T8/3UT8htf7_wRQfWO7.jpg"
+  },
+  {
+    "title": "یشم اصل تایوان کدyash80 معدنی ذغالدار خواص درمانی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "ذغالدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خواص درمانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "4f249808-a5a7-49af-804c-7bbbc465b26a",
+    "image_url": "https://image.torob.com/base/images/ga/Ly/gaLyTeXF-_W7q8sv.jpg"
+  },
+  {
+    "title": "یشم معدنی افغان.4",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "9d43781e-3b47-4a08-aab4-421daf2cce90",
+    "image_url": "https://image.torob.com/base/images/gR/Ue/gRUeFxF7ETCZloog.jpg"
+  },
+  {
+    "title": "یشم سرپانتین سنگ خام یشم سرپانتین با قابلیت ساخت نگین عکسبرداری در حالت خیس کد 24691",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سرپانتین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ خام یشم سرپانتین",
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "117d8ec4-5785-4cd3-be33-240f0ce4a8f6",
+    "image_url": "https://image.torob.com/base/images/7r/9Q/7r9Q9tSxWFNfeY_V.jpg"
+  },
+  {
+    "title": "جیدولر (سنگ یشم)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جیدولر (سنگ یشم)"
+        ]
+      }
+    ],
+    "random_key": "f0190d41-819b-44c3-91cb-c9d1b92ba4d5",
+    "image_url": "https://image.torob.com/base/images/8x/8D/8x8D2wYGiBoQRf3r.jpg"
+  },
+  {
+    "title": "گوی سنگی تخم مرغی یشم معدنی مناسب برای سنگ درمانی و ماساژ و هدیه و دکور",
+    "group": "نامشخص",
+    "product": "گوی سنگ درمانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی سنگی تخم مرغی",
+          "سنگ درمانی",
+          "ماساژ",
+          "دکور"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "6d092d64-b52b-49a8-8405-599379ab60fd",
+    "image_url": "https://image.torob.com/base/images/ii/bv/iibvcnk8puitJ1l0.jpg"
+  },
+  {
+    "title": "نگین یشم درشت با حکاکی سوره کوثر کد N_1181",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "حکاکی سوره کوثر"
+        ]
+      }
+    ],
+    "random_key": "d55a08b0-ce32-427b-9f3c-35c06c8e4d13",
+    "image_url": "https://image.torob.com/base/images/X8/Fq/X8FqJIqnD0N2zrM2.jpg"
+  },
+  {
+    "title": "مهره یشم درجه یک افغان معدنی سایز8",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغان"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "سایز8"
+        ]
+      }
+    ],
+    "random_key": "bc545a44-490c-41a5-8f12-7e628358c2eb",
+    "image_url": "https://image.torob.com/base/images/Eu/Wy/EuWyoDgHJBZfd_di.jpg"
+  },
+  {
+    "title": "یشم معدنی افغان.کد8",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "5b212922-aeb2-4f6a-8204-92a09415a16b",
+    "image_url": "https://image.torob.com/base/images/dF/_2/dF_2zCtFl8w460nz.jpg"
+  },
+  {
+    "title": "سنگ یشم (کد466)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "c5a73ed4-4b84-4eba-acbf-dbf9af4c7abf",
+    "image_url": "https://image.torob.com/base/images/yB/d-/yBd-_b-YVEcNgQKc.jpg"
+  },
+  {
+    "title": "یشم سرخ اصل بدون قیمت رزو",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "0cb04331-be93-41a5-9001-3e76359a76d8",
+    "image_url": "https://image.torob.com/base/images/ir/F-/irF-Pj0as8RE4WSs.jpg"
+  },
+  {
+    "title": "یشم تراش اشکی کد 2591",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "تراش/شكل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "150db6f7-9a84-46f1-86bc-69f848de8f12",
+    "image_url": "https://image.torob.com/base/images/RA/gJ/RAgJiCvgBrU_Pax7.jpg"
+  },
+  {
+    "title": "سنگ یشم (کد 432)",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "95c29623-3c38-44cf-a14e-6ce8388aec2c",
+    "image_url": "https://image.torob.com/base/images/m4/Ee/m4EeX2A_RYT5x_EG.jpg"
+  },
+  {
+    "title": "یشم یمن نسبتا کهنه، اصل یمنی",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمن",
+          "یمنی"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "نسبتا کهنه"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "10a7b57f-007f-42a0-aa1d-12851f1a458a",
+    "image_url": "https://image.torob.com/base/images/AB/3g/AB3gTsp6vLdXA_x-.jpg"
+  },
+  {
+    "title": "نگین درشت مدالی سنگ یشم معدنی خراسانی کد27474",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین",
+          "مدالی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "خراسانی"
+        ]
+      }
+    ],
+    "random_key": "f903ad15-c6f4-4ab3-8411-21a856f67902",
+    "image_url": "https://image.torob.com/base/images/0P/Mh/0PMh2Q7bAfAqnNfU.jpg"
+  },
+  {
+    "title": "مهره یشم سایز بزرگ و بسیار قدیمی",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "بسیار قدیمی"
+        ]
+      }
+    ],
+    "random_key": "424dd9dd-f841-4b3b-9edd-ae473765a6ab",
+    "image_url": "https://image.torob.com/base/images/kF/Ie/kFIejVDzfYocYhPA.jpg"
+  },
+  {
+    "title": "نگین سنگ یشم حکاکی یا علی اسد الله الغالب _ کد 401094",
+    "group": "نامشخص",
+    "product": "نگین سنگ یشم",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "یا علی اسد الله الغالب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "902fd967-746b-4dd6-a9b1-8fe8c242a6df",
+    "image_url": "https://image.torob.com/base/images/29/OP/29OPV7AxwPioC3UM.webp"
+  },
+  {
+    "title": "یشم یمنی تراش مکعبی درشت ارتفاع دار",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "یمنی"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "مکعبی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت",
+          "ارتفاع دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "09c5788b-f0ec-436a-a5a1-369581c3184e",
+    "image_url": "https://image.torob.com/base/images/7r/Wb/7rWbQaIHeOlAQoNW.jpg"
+  },
+  {
+    "title": "یه جفت مهره یشم معدنی کهنه",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      }
+    ],
+    "random_key": "e824dbca-0251-428f-a964-59f61bc07278",
+    "image_url": "https://image.torob.com/base/images/da/4X/da4XPelMB9S0SDLc.jpg"
+  },
+  {
+    "title": "سنگ یشم معدنی و طبیعی خال دار بسیار زیبا",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "خال دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "56472a64-d1d3-45db-a028-c669f7b9ae1f",
+    "image_url": "https://image.torob.com/base/images/vZ/8I/vZ8I9Hpkx2ggXCSc.jpg"
+  },
+  {
+    "title": "دستبند سنگ یشم شاه مقصود معدنی با بافت چرم",
+    "group": "نامشخص",
+    "product": "دستبند سنگ یشم شاه مقصود",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبند سنگ یشم شاه مقصود"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با بافت چرم"
+        ]
+      }
+    ],
+    "random_key": "a52a0bf0-ed24-4a7d-99ec-39df34dc95c9",
+    "image_url": "https://image.torob.com/base/images/rz/ls/rzlsycuEYAIHOja-.jpg"
+  },
+  {
+    "title": "سنگ یشم معدنی زغالدار تایوان بسیار پرخاصیت درشت h",
+    "group": "نامشخص",
+    "product": "سنگ یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "زغالدار"
+        ]
+      },
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "تایوان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار پرخاصیت"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "983e8ec2-5238-4c3a-ad2c-c1901907439d",
+    "image_url": "https://image.torob.com/base/images/WM/SH/WMSHm9nt4ww6NuMW.jpg"
+  },
+  {
+    "title": "سنگ راف یشم سیاه",
+    "group": "نامشخص",
+    "product": "سنگ راف یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "850ae7ea-4b4b-4499-b655-c85e531ce1b5",
+    "image_url": "https://image.torob.com/base/images/hN/dH/hNdHLNf88f5pAtVS.jpg"
+  },
+  {
+    "title": "نگین یشم هندی خوش نقش درشت کد N_1488",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "هندی"
+        ]
+      },
+      {
+        "name": "ویژگی های ظاهری",
+        "values": [
+          "خوش نقش"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "6e2f8b9e-de2e-4473-8267-1ab906697fd1",
+    "image_url": "https://image.torob.com/base/images/A7/Q2/A7Q21tGAyi5Q0vBF.jpg"
+  },
+  {
+    "title": "نگین خوشرنگ و زیبای یشم0/70 پوینت کدMY65",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "0/70 پوینت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "cbbfae97-f3bb-443d-b993-6b79517b11bc",
+    "image_url": "https://image.torob.com/base/images/8I/Ix/8IIxP_t76pGU_EeE.jpg"
+  },
+  {
+    "title": "یشم طبیعی ستگ آرامش تامبلر یشم اصل کدtam33",
+    "group": "نامشخص",
+    "product": "یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ستگ آرامش"
+        ]
+      },
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "تامبلر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یشم"
+        ]
+      }
+    ],
+    "random_key": "21de9ac5-26ea-47e6-8ff3-3f1166e6b82d",
+    "image_url": "https://image.torob.com/base/images/k0/Ec/k0EcAZfX8vm9nslS.jpg"
+  },
+  {
+    "title": "مهره یشم چند وجهی قدیمی، تراش زیبا، کلکسیونی",
+    "group": "نامشخص",
+    "product": "مهره یشم",
+    "entities": [
+      {
+        "name": "تراش/شکل",
+        "values": [
+          "چند وجهی"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره یشم"
+        ]
+      }
+    ],
+    "random_key": "4a2067b1-3590-4aff-9f50-9aae84f499b2",
+    "image_url": "https://image.torob.com/base/images/CN/vM/CNvMIrc3k32cjd4N.jpg"
+  },
+  {
+    "title": "سنگ الماس آسیاب یشم خام فونت خط میخی کهنی باستان",
+    "group": "نامشخص",
+    "product": "سنگ الماس آسیاب یشم",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "خام"
+        ]
+      },
+      {
+        "name": "قدمت",
+        "values": [
+          "کهنی باستان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ الماس آسیاب یشم"
+        ]
+      },
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "فونت خط میخی"
+        ]
+      }
+    ],
+    "random_key": "fa26f37d-f71e-40fc-86ac-56ec7d42d573",
+    "image_url": "https://image.torob.com/base/images/at/ai/ataimSRqrb8ZsOI_.jpg"
+  },
+  {
+    "title": "کاروینگ برگ سنگ یشم افغان سوراخ دار صد در صد طبیعی کد 11698",
+    "group": "نامشخص",
+    "product": "کاروینگ برگ سنگ یشم",
+    "entities": [
+      {
+        "name": "منبع/خاستگاه",
+        "values": [
+          "افغان"
+        ]
+      },
+      {
+        "name": "اصالت",
+        "values": [
+          "صد در صد طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاروینگ برگ سنگ یشم"
+        ]
+      }
+    ],
+    "random_key": "264d1dab-ee97-419b-ae3c-f5df3bae347a",
+    "image_url": "https://image.torob.com/base/images/eC/fB/eCfBYRZ31A4ri4lF.jpg"
+  },
+  {
+    "title": "جواهر زیبای طبیعی یشم7/45 قیراط کد MY14",
+    "group": "نامشخص",
+    "product": "جواهر یشم",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "7/45 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جواهر یشم"
+        ]
+      }
+    ],
+    "random_key": "ff508469-8150-40e8-b7f1-f9cc5cb9bb7d",
+    "image_url": "https://image.torob.com/base/images/-v/Zg/-vZgVuoJtFIp_ckc.jpg"
+  },
+  {
+    "title": "پک سه عددی عقیق کلوخه اصل معدنی درجه یک درشت زیبا",
+    "group": "نامشخص",
+    "product": "عقیق کلوخه",
+    "entities": [
+      {
+        "name": "اصالت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "اندازه/وزن",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "عقیق کلوخه"
+        ]
+      }
+    ],
+    "random_key": "ee979a48-a8cc-4e2c-a572-5c233603717f",
+    "image_url": "https://image.torob.com/base/images/f6/Ug/f6UgGCRf4Eo7ZO9g.jpg"
+  },
+  {
+    "title": "نگین یشم چهار قل [سوره توحید و بسم الله الرحمن الرحیم و سوره ناس و سوره فلق و سوره کافرون] کد 34434 (به همراه هدیه)",
+    "group": "نامشخص",
+    "product": "نگین یشم",
+    "entities": [
+      {
+        "name": "نوع حکاکی",
+        "values": [
+          "چهار قل",
+          "سوره توحید",
+          "بسم الله الرحمن الرحیم",
+          "سوره ناس",
+          "سوره فلق",
+          "سوره کافرون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین یشم"
+        ]
+      }
+    ],
+    "random_key": "155b5549-e2dd-4fed-a96c-6a7c1ac050d4",
+    "image_url": "https://image.torob.com/base/images/zI/NW/zINW7hTx9ourYdnA.jpg"
+  }
+]

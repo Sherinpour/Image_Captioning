@@ -1,0 +1,7114 @@
+[
+  {
+    "title": "آویز طلا طرح چکمه کد 100039",
+    "group": "نامشخص",
+    "product": "آویز طلا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز طلا"
+        ]
+      }
+    ],
+    "random_key": "803741df-b6e9-451a-bdf2-3ff9cb2b4b90",
+    "image_url": "https://image.torob.com/base/images/08/Ut/08UtLuHBx2MaKgJO.jpg"
+  },
+  {
+    "title": "پلاک شهریور کد 162",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "شهریور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "e5a80a54-4d94-4bb2-974c-65a5283e9f7b",
+    "image_url": "https://image.torob.com/base/images/Qz/P6/QzP6-uR5FrWzMShf.jpg"
+  },
+  {
+    "title": "پلاک اسم کوهسار کد 4589",
+    "group": "نامشخص",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم کوهسار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک اسم"
+        ]
+      }
+    ],
+    "random_key": "a3384aad-ec29-49cc-a93e-f1c73fea90a9",
+    "image_url": "https://image.torob.com/base/images/iH/PE/iHPE4oInwqoWNyGT.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه الن نار مدل يلدا کد ELN30480",
+    "group": "زنانه",
+    "product": "آویز گردنبند طلا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الن نار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "یلدا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند طلا"
+        ]
+      }
+    ],
+    "random_key": "925dc54b-393b-47f0-b9f4-b75f02bd1094",
+    "image_url": "https://image.torob.com/base/images/eJ/La/eJLaV0i__SFLjMRh.webp"
+  },
+  {
+    "title": "پلاک سفارشی طرح بال",
+    "group": "نامشخص",
+    "product": "پلاک سفارشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "بال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک سفارشی"
+        ]
+      }
+    ],
+    "random_key": "84adcd7b-05c1-4375-98fc-6a807f457243",
+    "image_url": "https://image.torob.com/base/images/QS/QX/QSQXS2Cn6wOenTpN.jpg"
+  },
+  {
+    "title": "آویز گردنبند زنانه مدل ماه کریستال دار کد 230",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ماه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کریستال دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "2dc9bd75-6cc6-44d1-b6b2-92a565b75fbf",
+    "image_url": "https://image.torob.com/base/images/nO/8s/nO8sS06nJDBnCaHj.jpg"
+  },
+  {
+    "title": "زنجیر نقره ۹۲۵ عیار ترک ۶۰ سانت مردانه کد Z_1051",
+    "group": "مردانه",
+    "product": "زنجیر نقره",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره 925 عیار"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر نقره"
+        ]
+      }
+    ],
+    "random_key": "6caa479f-5fe0-4c04-94c6-20220a67216e",
+    "image_url": "https://image.torob.com/base/images/0E/sj/0EsjzJWXhIzVdGKk.jpg"
+  },
+  {
+    "title": "پلاک طلا 18 عیار مدل دم وال",
+    "group": "نامشخص",
+    "product": "پلاک طلا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دم وال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک طلا"
+        ]
+      }
+    ],
+    "random_key": "12724174-0e32-45cf-9865-2b598943c8a3",
+    "image_url": "https://image.torob.com/base/images/Kb/Eg/KbEgK884uGlynj6o.jpg"
+  },
+  {
+    "title": "آویز سنگ عقیق ( آگات )",
+    "group": "نامشخص",
+    "product": "آویز سنگ",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق",
+          "آگات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز سنگ"
+        ]
+      }
+    ],
+    "random_key": "7efaffe9-80e3-4831-ae69-d7720d235148",
+    "image_url": "https://image.torob.com/base/images/Ww/_u/Ww_uCsbfXR0Kg2Vv.webp"
+  },
+  {
+    "title": "مدال نقره زنجیر دارطرح جواهر قلبی MK4008",
+    "group": "نامشخص",
+    "product": "مدال نقره",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جواهر قلبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال نقره زنجیر دار"
+        ]
+      }
+    ],
+    "random_key": "faaa4384-ea2a-4610-a6d9-91ac88036da6",
+    "image_url": "https://image.torob.com/base/images/qx/yE/qxyEkVc2xn4Ev5Nw.jpg"
+  },
+  {
+    "title": "پلاک دستبندی استیل نقره ای طرح ماه (فروش به صورت دونه ای)",
+    "group": "نامشخص",
+    "product": "پلاک دستبندی استیل",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک دستبندی استیل"
+        ]
+      }
+    ],
+    "random_key": "900fd4ac-acb1-4081-8451-e2af5e29c415",
+    "image_url": "https://image.torob.com/base/images/f2/Mt/f2Mthhy0BVYzKXag.jpg"
+  },
+  {
+    "title": "پلاک و ان یکاد کد ۱۳۰۷۱",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "و ان یکاد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "41de6955-2a5d-4401-a61e-6943a549d0a7",
+    "image_url": "https://image.torob.com/base/images/1W/f8/1Wf8Ebfd2pA6lHS4.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار دخترانه مدل mob 4",
+    "group": "دخترانه",
+    "product": "آویز گردنبند طلا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند طلا"
+        ]
+      }
+    ],
+    "random_key": "3247b7e8-030e-452a-8207-33dafc0eb5b0",
+    "image_url": "https://image.torob.com/base/images/aV/Ca/aVCaHL2c5X0bD0_u.jpg"
+  },
+  {
+    "title": "زنجیر نقره ایتالیا مدل خاص",
+    "group": "نامشخص",
+    "product": "زنجیر نقره",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر نقره"
+        ]
+      }
+    ],
+    "random_key": "f9070010-7145-4d19-b338-7ffb0145195d",
+    "image_url": "https://image.torob.com/base/images/6P/TX/6PTX7Q0bYXzPJ48_.jpg"
+  },
+  {
+    "title": "پلاک Cluster Pendant ژوپینگ",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک Cluster Pendant"
+        ]
+      }
+    ],
+    "random_key": "45f60d62-52d2-4396-b677-12eee79a27ff",
+    "image_url": "https://image.torob.com/base/images/eA/mw/eAmwfjXoYLUolGhx.webp"
+  },
+  {
+    "title": "زنجیر ریز ژوپینگ آلیاژ مس با آبکاری طلا و رنگ ثابت و بدون ایجاد حساسیت",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "آلیاژ مس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آبکاری طلا",
+          "رنگ ثابت",
+          "بدون ایجاد حساسیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "7fc29e5f-8d20-4866-aa77-f26c474f1aad",
+    "image_url": "https://image.torob.com/base/images/oP/CR/oPCRPcFnK60h0gV8.jpg"
+  },
+  {
+    "title": "پلاک لیزری لنگر M450",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "لنگر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لیزری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "b7eba1b2-cb8d-41fd-8474-06084e49e5dd",
+    "image_url": "https://image.torob.com/base/images/Lu/zP/LuzPvvpX9w7gMuXD.jpg"
+  },
+  {
+    "title": "آویز درخت زندگی چشم ببر 10132",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "درخت زندگی"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "چشم ببر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "4d8beef9-1ada-4e39-84a1-a66b98bbd7ed",
+    "image_url": "https://image.torob.com/base/images/Zt/Ig/ZtIgSx7L5pum0XKo.webp"
+  },
+  {
+    "title": "مدال نقره مروارید طرح سحر کد 123644",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سحر"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "مروارید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "dbe75676-9228-4a5a-87af-42519debe8fc",
+    "image_url": "https://image.torob.com/base/images/It/Z_/ItZ_XVhPRQTqm2Sy.jpg"
+  },
+  {
+    "title": "مدال توگردنی جواهری یاقوت کبود اصلی",
+    "group": "نامشخص",
+    "product": "مدال توگردنی",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "یاقوت کبود اصلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال توگردنی"
+        ]
+      }
+    ],
+    "random_key": "09a47b2a-e022-43c9-8ec1-4a06469b2fe1",
+    "image_url": "https://image.torob.com/base/images/le/Ce/leCePKu_MxJu-1yK.jpg"
+  },
+  {
+    "title": "پلاک لیزری حرف ق C102",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "حرف ق"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لیزری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "11b007ce-95df-4137-b741-b59eaabe6811",
+    "image_url": "https://image.torob.com/base/images/1m/BJ/1mBJam11yD9Gdg4K.jpg"
+  },
+  {
+    "title": "توو گردنی سنگی وچوب کار دست",
+    "group": "نامشخص",
+    "product": "توو گردنی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست ساز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سنگی",
+          "چوب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "توو گردنی"
+        ]
+      }
+    ],
+    "random_key": "43614b4c-107b-4489-a15f-21241e102f49",
+    "image_url": "https://image.torob.com/base/images/ED/0-/ED0-zp8uwzLssqBn.jpg"
+  },
+  {
+    "title": "پلاک حرف لام کد 3713",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "حرف لام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "294151f0-6318-4ac6-840a-cac199cee5dd",
+    "image_url": "https://image.torob.com/base/images/pt/3n/pt3nEDe_Vv8w_NYi.jpg"
+  },
+  {
+    "title": "زنجیر ران جواهری مجلسی",
+    "group": "نامشخص",
+    "product": "زنجیر ران",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر ران"
+        ]
+      }
+    ],
+    "random_key": "efe99a24-0c72-4ba2-a06a-1a9ae9c33873",
+    "image_url": "https://image.torob.com/base/images/4W/3M/4W3MD5MAW8IqqAcO.jpg"
+  },
+  {
+    "title": "مدال حدید صینی [چهار قل] کد 141148",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهار قل"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "حدید صینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "68ec1e7d-2869-4578-bdf1-2d9983a08f4f",
+    "image_url": "https://image.torob.com/base/images/9x/EH/9xEHUqaP5ehDYPoo.jpg"
+  },
+  {
+    "title": "زنجیر ران زنانه مجلسی مدل توپی استیل رنگ ثابت",
+    "group": "زنانه",
+    "product": "زنجیر ران",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر ران"
+        ]
+      }
+    ],
+    "random_key": "2f28e197-fbdd-42e3-8f6e-09e352156916",
+    "image_url": "https://image.torob.com/base/images/mc/v1/mcv15_QtrYnKbCtz.jpg"
+  },
+  {
+    "title": "پلاک زنجیر آینه",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "آینه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      }
+    ],
+    "random_key": "5e759858-05e5-4c09-870f-fc41fb53fab9",
+    "image_url": "https://image.torob.com/base/images/iv/IJ/ivIJCOPPhh2L_7gM.jpg"
+  },
+  {
+    "title": "پلاک اسم الهام کد 2157",
+    "group": "نامشخص",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم الهام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک اسم"
+        ]
+      }
+    ],
+    "random_key": "c3c32437-5222-4261-8b0d-cfb7b8f8f38a",
+    "image_url": "https://image.torob.com/base/images/Fe/rR/FerR9blpQVWFgoa8.jpg"
+  },
+  {
+    "title": "پلاک اسم مهیار همراه با زنجیر.",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم مهیار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک",
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "d5031967-19ca-46fa-abbb-5735a92121ac",
+    "image_url": "https://image.torob.com/base/images/i5/j0/i5j0932mG-diQKGF.jpg"
+  },
+  {
+    "title": "پلاک طلا تک FLP505",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "3917f05a-6f3c-4fb3-96ee-c4ca8441a0f9",
+    "image_url": "https://image.torob.com/base/images/lF/PS/lFPSXJAcwBqgZHQd.jpg"
+  },
+  {
+    "title": "پلاک طلا طرح ون کلیف سنگ صدفی سفید کد P129",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ون کلیف"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "صدفی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "e6d4a56c-9fdd-4a20-a70f-3575460fa5f9",
+    "image_url": "https://image.torob.com/base/images/Un/Id/UnIdXShPEMSfTYxQ.jpg"
+  },
+  {
+    "title": "مدال نقره زنجیر دار طرح چهار برگ سه رنگ MK4024",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چهار برگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سه رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال",
+          "زنجیر دار"
+        ]
+      }
+    ],
+    "random_key": "8b1d1cd7-2b63-461e-9cdb-25f6b0b8e131",
+    "image_url": "https://image.torob.com/base/images/ZQ/BH/ZQBHZntXpwfTlGXq.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه مایا ماهک مدل MM2056",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایا ماهک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "43c80022-504d-4286-b7a7-e40deb9a58a4",
+    "image_url": "https://image.torob.com/base/images/gf/9P/gf9PoAVdVfDAGL0w.jpg"
+  },
+  {
+    "title": "پلاک اسم زنانه زهره",
+    "group": "زنانه",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم زهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک اسم"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "a94341e3-b836-45f5-8542-0849a55ab201",
+    "image_url": "https://image.torob.com/base/images/DR/Zo/DRZoOQH6_RQeEzVo.jpg"
+  },
+  {
+    "title": "آویز قلب (استیل، رنگ ثابت، آبکاری طلایی) کد 41307",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت",
+          "آبکاری طلایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "516a1c98-9c6d-46a0-a0f1-da85c506da02",
+    "image_url": "https://image.torob.com/base/images/24/Gg/24GgHPDK4bmfgXUn.jpg"
+  },
+  {
+    "title": "آویز اسم tia (استیل، رنگ ثابت) کد 5500",
+    "group": "نامشخص",
+    "product": "آویز اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم tia"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز اسم"
+        ]
+      }
+    ],
+    "random_key": "55d14d24-8be6-4d0a-8b0c-80081fb4ba7b",
+    "image_url": "https://image.torob.com/base/images/7J/KS/7JKSPwO8Ss6XfSes.jpg"
+  },
+  {
+    "title": "پلاک تک های دو گرمی نقره",
+    "group": "نامشخص",
+    "product": "پلاک تک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک تک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      }
+    ],
+    "random_key": "a3f77299-1c24-4a6d-85e5-5a8f2bad35a9",
+    "image_url": "https://image.torob.com/base/images/4Y/h2/4Yh2hZ6ob1GIP6EZ.jpg"
+  },
+  {
+    "title": "آویز عقیق اصل یا زینب",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق اصل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "یا زینب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "e0822cc1-01da-46a4-9817-4f247f1e201a",
+    "image_url": "https://image.torob.com/base/images/tI/ry/tIryeuYD7Amrk-bR.jpg"
+  },
+  {
+    "title": "پلاک اسم هانیه کد 63",
+    "group": "نامشخص",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم هانیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک اسم"
+        ]
+      }
+    ],
+    "random_key": "7b251128-6934-4631-9ef4-555b949ecca7",
+    "image_url": "https://image.torob.com/base/images/lO/km/lOkm2hEwz4Nr43xb.jpg"
+  },
+  {
+    "title": "پلاک استيل اسم شاهرخ مدل Givi1562",
+    "group": "نامشخص",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم شاهرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک اسم"
+        ]
+      }
+    ],
+    "random_key": "cdeebce1-59ba-409d-990a-9a5e25524cfb",
+    "image_url": "https://image.torob.com/base/images/u_/gk/u_gkD5elHWhHyFRC.jpg"
+  },
+  {
+    "title": "آویز گردنبند زنانه طرح ماه و ستاره مدل چشم و نظر کد 08 مجموعه 3 عددی",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ماه و ستاره",
+          "چشم و نظر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "125ea5b9-ec28-40b3-8055-b745301eefa9",
+    "image_url": "https://image.torob.com/base/images/-V/lQ/-VlQDDBSVcdqKUm6.jpg"
+  },
+  {
+    "title": "زنجیر کارتیر ایتالیا",
+    "group": "نامشخص",
+    "product": "زنجیر کارتیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر کارتیر"
+        ]
+      }
+    ],
+    "random_key": "1f31f679-e212-44a6-8128-cede4baf7c5c",
+    "image_url": "https://image.torob.com/base/images/nF/s1/nFs1YKHcw4SQOpDE.jpg"
+  },
+  {
+    "title": "پلاک قفل و کلید ژوپینگ",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قفل و کلید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "d0513293-f7a7-4615-9e3e-e283be623d3b",
+    "image_url": "https://image.torob.com/base/images/ze/YG/zeYGtNYvn8wa4KXf.jpg"
+  },
+  {
+    "title": "آویز تک نقره به همراه زنجیر 7",
+    "group": "نامشخص",
+    "product": "آویز و زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز تک نقره",
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      }
+    ],
+    "random_key": "4cabac6c-4441-420d-817c-af6f7a2c54f9",
+    "image_url": "https://image.torob.com/base/images/nc/ln/nclnr9FRioYY1aQM.jpg"
+  },
+  {
+    "title": "زنجیر پسرانه استیل رنگ ثابت رنگ طلایی و مشکی مد1",
+    "group": "پسرانه",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "پسرانه"
+        ]
+      }
+    ],
+    "random_key": "75a60015-2c40-4c83-9ee1-39088e376519",
+    "image_url": "https://image.torob.com/base/images/tM/Bo/tMBoflfPFKTbASOM.jpg"
+  },
+  {
+    "title": "پلاک‌ پاپیون مدل Aloo - ۴ سانتی‌متر / ۴ حک / طلایی",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      }
+    ],
+    "random_key": "7ccea107-6011-43bb-956e-4bef922ab5d0",
+    "image_url": "https://image.torob.com/base/images/c6/gF/c6gFWpKiOqap3UP5.jpg"
+  },
+  {
+    "title": "پلاک سوارسکی استیل کد 14",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "سوارسکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "aab5f5d0-c48d-4575-b839-5612cb18f041",
+    "image_url": "https://image.torob.com/base/images/0G/mM/0GmMqZxZZybhkRYx.webp"
+  },
+  {
+    "title": "پلاک طلا طرح زنبور و قلب کد P6583",
+    "group": "نامشخص",
+    "product": "پلاک طلا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زنبور و قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک طلا"
+        ]
+      }
+    ],
+    "random_key": "09affa9e-c7d8-4aee-ae13-3d4c70d24224",
+    "image_url": "https://image.torob.com/base/images/UB/jM/UBjMp_7XG96Ak8OY.jpg"
+  },
+  {
+    "title": "زنجیر طلا هرمس بیضی AJ3541",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هرمس بیضی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر طلا"
+        ]
+      }
+    ],
+    "random_key": "2f574b7f-7f35-4317-a9f2-8ef5f1a3ca17",
+    "image_url": "https://image.torob.com/base/images/5A/2o/5A2oR1n4Ip6jQCS3.jpg"
+  },
+  {
+    "title": "پلاک گردنی استیل طرح دستکش بوکس طلایی کد D429",
+    "group": "نامشخص",
+    "product": "پلاک گردنی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دستکش بوکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گردنی استیل"
+        ]
+      }
+    ],
+    "random_key": "bd7c58d9-125d-44cf-a223-3af17c8ac2f6",
+    "image_url": "https://image.torob.com/base/images/Xv/kd/XvkdEfac37Seofgf.jpg"
+  },
+  {
+    "title": "آویز میوه برای زیورآلات",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "میوه"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "زیورآلات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز میوه"
+        ]
+      }
+    ],
+    "random_key": "5fc173c2-17f9-4a9c-a838-8e5594ed3f09",
+    "image_url": "https://image.torob.com/base/images/G6/hP/G6hP7tfQsvrEtRFY.jpg"
+  },
+  {
+    "title": "آویز گردنبند بدون زنجیر-کد14",
+    "group": "نامشخص",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "ae7ddeca-14d2-41de-8af6-c8cc38daaca6",
+    "image_url": "https://image.torob.com/base/images/8h/q6/8hq6vkTi8_PeGmGL.jpg"
+  },
+  {
+    "title": "آویز طلا ایران 1.01",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز طلا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      }
+    ],
+    "random_key": "1447bb0f-ce30-4743-8295-22b818b36061",
+    "image_url": "https://image.torob.com/base/images/RX/Vg/RXVgMCgQHtAsrN1N.jpg"
+  },
+  {
+    "title": "پلاک طلا 18 عیار مدل گریه وخنده",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گریه وخنده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک طلا"
+        ]
+      }
+    ],
+    "random_key": "8b0145c7-d18a-495f-ae84-3f2594e256da",
+    "image_url": "https://image.torob.com/base/images/JA/-l/JA-lAFoFQMs7KVll.jpg"
+  },
+  {
+    "title": "زنجیر نقره 55 سانتی مدل طنابی ایتالیایی کد 95586",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طنابی ایتالیایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر نقره"
+        ]
+      }
+    ],
+    "random_key": "7691aa80-d8df-4061-ae05-dcb0a8c5565e",
+    "image_url": "https://image.torob.com/base/images/WE/Rv/WERvGg0N7IJKriJ6.jpg"
+  },
+  {
+    "title": "زنجیر کیف مجلسی مدل حلزونی رنگ طلایی برنز سایز 120",
+    "group": "نامشخص",
+    "product": "زنجیر کیف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "حلزونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی برنز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر کیف مجلسی"
+        ]
+      }
+    ],
+    "random_key": "e76a5579-9ac1-4ec8-8700-7fad10c81d4b",
+    "image_url": "https://image.torob.com/base/images/87/xF/87xFyBXtI78MAwhy.jpg"
+  },
+  {
+    "title": "آویز نقره زنانه- برگ-مدل SLP-23",
+    "group": "زنانه",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "برگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز نقره زنانه"
+        ]
+      }
+    ],
+    "random_key": "147edb93-4b05-4243-8f57-c7a3cb8d009e",
+    "image_url": "https://image.torob.com/base/images/hq/L_/hqL_zELnhslti2RV.jpg"
+  },
+  {
+    "title": "اویز گل و غتچه قاصدک رنگ بنفش کد6",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل و غنچه قاصدک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گل و غنچه قاصدک"
+        ]
+      }
+    ],
+    "random_key": "38edddbd-2b71-4bdd-a8c8-0a4677b531b0",
+    "image_url": "https://image.torob.com/base/images/CI/IB/CIIBs5XYa0zGDe6k.jpg"
+  },
+  {
+    "title": "زنجیر خاویاری استیل رنگ ثابت. نایس اکسسوری",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خاویاری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایس اکسسوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر خاویاری استیل"
+        ]
+      }
+    ],
+    "random_key": "23de3d49-7056-4455-8e6c-a1ec01fc9ea4",
+    "image_url": "https://image.torob.com/base/images/3q/UR/3qUReZGaQ5YcvCmR.jpg"
+  },
+  {
+    "title": "آویز طلا طرح پروانه توخالی بزرگ کد 1WDL133",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه توخالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز طلا"
+        ]
+      }
+    ],
+    "random_key": "fbe9a313-633d-482b-aa8a-77341e607617",
+    "image_url": "https://image.torob.com/base/images/dg/_m/dg_mVJMPcc8AeWy_.jpg"
+  },
+  {
+    "title": "پلاک گردنی صلیب",
+    "group": "نامشخص",
+    "product": "پلاک گردنی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "صلیب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گردنی صلیب"
+        ]
+      }
+    ],
+    "random_key": "4551b151-cbf9-4128-809f-b11c2cc50042",
+    "image_url": "https://image.torob.com/base/images/md/Ne/mdNeUp-xDb8Revt7.jpg"
+  },
+  {
+    "title": "زنجیر فیگارو، 45 سانت، برند ژوپینگ، بدون حساسیت، آبکاری طلا، رنگ ثابت",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "فیگارو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بدون حساسیت",
+          "آبکاری طلا",
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر فیگارو"
+        ]
+      }
+    ],
+    "random_key": "a5270cfd-4f6d-4a73-a625-f72d2cb3da35",
+    "image_url": "https://image.torob.com/base/images/0d/BF/0dBFr1nSrQlU9BuB.jpg"
+  },
+  {
+    "title": "دو عدد اویز برنجی قدیمی",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "برنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز برنجی"
+        ]
+      }
+    ],
+    "random_key": "c4285e3c-2311-484d-82f2-8284e7036002",
+    "image_url": "https://image.torob.com/base/images/jP/OB/jPOBCXB8HA9s-GfJ.jpg"
+  },
+  {
+    "title": "مدال طلا چتر",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال طلا"
+        ]
+      }
+    ],
+    "random_key": "bc3e1e24-263a-4b14-b903-ea5d16f7b0d7",
+    "image_url": "https://image.torob.com/base/images/pm/QG/pmQGhGAqgt6Stc_J.jpg"
+  },
+  {
+    "title": "اویز سلنیت اصل اویز سلنایت معدنی اویز ساتین اسپار مراکش سنگ انرژی اویز سنگ سلنیت ارزان راف سلنایت بدون برش فسیل نمک",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز سنگ"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "سلنیت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "معدنی",
+          "اسپار",
+          "انرژی",
+          "ارزان",
+          "راف",
+          "بدون برش",
+          "فسیل نمک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بدون برش"
+        ]
+      }
+    ],
+    "random_key": "333e8fd0-4b66-44f4-b3c9-e385632ec207",
+    "image_url": "https://image.torob.com/base/images/de/Q9/deQ9vTKYKM_U1WA2.jpg"
+  },
+  {
+    "title": "زنجیر زنانه ژوپینگ کد AAB-540",
+    "group": "زنانه",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      }
+    ],
+    "random_key": "b476dc5f-a661-4760-87d0-931cdaefb1cf",
+    "image_url": "https://image.torob.com/base/images/sl/E4/slE4ZmqDAhnl9ALq.jpg"
+  },
+  {
+    "title": "پلاک وان یکاد استیل طلایی کد ۴۰۴۶",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "وان یکاد"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      }
+    ],
+    "random_key": "17ebc149-403f-42c2-947e-5e1c901226bb",
+    "image_url": "https://image.torob.com/base/images/aA/MA/aAMAaYF2Esc5577V.jpg"
+  },
+  {
+    "title": "آویز یا گردنبند چوبی طرح بلوط.(سرکلیدیش هم موجوده)",
+    "group": "نامشخص",
+    "product": "آویز و گردنبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چوبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بلوط"
+        ]
+      }
+    ],
+    "random_key": "17cee61b-1687-4cbf-98c5-57c96428c97b",
+    "image_url": "https://image.torob.com/base/images/T_/Qx/T_QxWDPEw0pZat9Q.jpg"
+  },
+  {
+    "title": "پلاک دوستت دارم کد 6443",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دوستت دارم"
+        ]
+      }
+    ],
+    "random_key": "162ec61d-845f-4a67-bad6-418e4a9eba15",
+    "image_url": "https://image.torob.com/base/images/mv/7R/mv7RgnA4iH3DYqpn.jpg"
+  },
+  {
+    "title": "پلاک و زنجیر ژوپینگ",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      }
+    ],
+    "random_key": "70bf3479-4731-49e9-84ea-517c75a9ea77",
+    "image_url": "https://image.torob.com/base/images/eg/HS/egHSmVhLzJs1D-5r.jpg"
+  },
+  {
+    "title": "پلاک طلا کفشدوزک مینا",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کفشدوزک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مینا"
+        ]
+      }
+    ],
+    "random_key": "a090dbe3-9523-41bd-bcd7-1db1792cb5db",
+    "image_url": "https://image.torob.com/base/images/dx/Aj/dxAjxB8cptMP8TKR.jpg"
+  },
+  {
+    "title": "پلاک اسم بهرام و زنجیر",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم بهرام"
+        ]
+      }
+    ],
+    "random_key": "a692a9fc-70ef-410c-a9f8-524c987854ff",
+    "image_url": "https://image.torob.com/base/images/YL/pi/YLpiJDR4U-1uAIYQ.webp"
+  },
+  {
+    "title": "پلاک طلا اسم محمدعلی",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم محمدعلی"
+        ]
+      }
+    ],
+    "random_key": "5516585a-8293-4ad5-8e9b-30e6a04bc438",
+    "image_url": "https://image.torob.com/base/images/xD/Fr/xDFr8nt-M0m855pg.jpg"
+  },
+  {
+    "title": "گردن آویز چشم ببر",
+    "group": "نامشخص",
+    "product": "گردن آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردن آویز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چشم ببر"
+        ]
+      }
+    ],
+    "random_key": "cbf10972-fdd2-4163-bb92-d1db9aaeb805",
+    "image_url": "https://image.torob.com/base/images/Ip/jq/IpjqGNC4k1CxewLV.jpg"
+  },
+  {
+    "title": "پلاک فرشته کد 40512",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فرشته"
+        ]
+      }
+    ],
+    "random_key": "a7252df0-2f59-48a7-8b25-b549400d156a",
+    "image_url": "https://image.torob.com/base/images/yN/IW/yNIWmp8LZT0uNJNm.jpg"
+  },
+  {
+    "title": "پلاک چوبی چشم نظر",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چوبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چشم نظر"
+        ]
+      }
+    ],
+    "random_key": "4b6a839a-55d7-40d6-ba84-10068349f01e",
+    "image_url": "https://image.torob.com/base/images/L0/kI/L0kICYSDa9nNb42b.jpg"
+  },
+  {
+    "title": "پلاک زنجیر پروانه ژوپینگ",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      }
+    ],
+    "random_key": "8b1e9fb9-d5eb-48d6-adfa-8eed786c9bab",
+    "image_url": "https://image.torob.com/base/images/Z2/qY/Z2qY1Us4xQPXOfkj.jpg"
+  },
+  {
+    "title": "مدال عقیق مشکی زیبا با قاب طلاروس کد 141843",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلاروس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "4599fe57-3c4c-497c-a3a9-f026a0b1f97b",
+    "image_url": "https://image.torob.com/base/images/EO/4E/EO4EzConN-k9dZZO.jpg"
+  },
+  {
+    "title": "آویز رزین طرح کهربا درشت به همراه زنجیر کد 132814",
+    "group": "نامشخص",
+    "product": "آویز و زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز",
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "رزین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کهربا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درشت"
+        ]
+      }
+    ],
+    "random_key": "8bd0125e-e84b-4121-913a-a53f40c0d6ce",
+    "image_url": "https://image.torob.com/base/images/dU/dl/dUdldLI0IDFqqr1e.jpg"
+  },
+  {
+    "title": "مدال نقره عقیق سیاه [رزق و روزی » و من یتق الله] کد 64017",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق سیاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "رزق و روزی و من یتق الله"
+        ]
+      }
+    ],
+    "random_key": "3e69de67-74d6-43fa-b6a0-f06108e77670",
+    "image_url": "https://image.torob.com/base/images/rb/sP/rbsPOvFz5HjY9irJ.jpg"
+  },
+  {
+    "title": "مدال نقره توپاز دامله طرح فریال کد 133227",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "توپاز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فریال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "f0fc98fe-3f3c-4b3d-913a-bb5ad6debfde",
+    "image_url": "https://image.torob.com/base/images/_V/x4/_Vx4HbfsoppZzPdx.jpg"
+  },
+  {
+    "title": "مدال مس هبهاب تراش نامنظم طبیعی سه قلو کد 127548",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مس"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "هبهاب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تراش نامنظم طبیعی سه قلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "d2617b97-a839-4ccf-8da4-9a8a53b4aa10",
+    "image_url": "https://image.torob.com/base/images/ie/kd/iekd6lNFsvcKPJqb.jpg"
+  },
+  {
+    "title": "چارم آویز مینی ام-ای فیل طلایی پاندورا",
+    "group": "نامشخص",
+    "product": "چارم آویز",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پاندورا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فیل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز مینی ام-ای"
+        ]
+      }
+    ],
+    "random_key": "2122b81a-0ed6-4ae8-ac47-10ae20d987ae",
+    "image_url": "https://image.torob.com/base/images/q0/jj/q0jjTexh_NsIpwqO.jpg"
+  },
+  {
+    "title": "زنجیر مردانه استیل آجری نقره ای 70985",
+    "group": "مردانه",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آجری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "f01475d9-e0d1-477c-bf0e-f1d0eb764c86",
+    "image_url": "https://image.torob.com/base/images/ji/WT/jiWTYbsCWOrArxsK.jpg"
+  },
+  {
+    "title": "پلاک نقره طرح ضربان قلب کد 121740",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ضربان قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "1b2436b3-47f1-4d25-bd79-76eceb8820a2",
+    "image_url": "https://image.torob.com/base/images/U4/w9/U4w9egKDed9NerM8.jpg"
+  },
+  {
+    "title": "مدال افتخار دانش آموزی",
+    "group": "دانش آموزی",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "دانش آموزی",
+          "افتخار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "9f8f9535-c6f2-4a02-ac29-888dede2dcec",
+    "image_url": "https://image.torob.com/base/images/03/c7/03c7XouVJKn5yNgM.jpg"
+  },
+  {
+    "title": "آویز قلب آنشرلی طلا",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب آنشرلی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "ab3d9ef1-1810-4a33-8a53-d0b9b28b98b5",
+    "image_url": "https://image.torob.com/base/images/Ws/u-/Wsu-vT3nMWQdkM5t.webp"
+  },
+  {
+    "title": "پلاک زنانه فول نگین طرح پروانه",
+    "group": "زنانه",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فول نگین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "affbe77a-fbc1-4219-bbfb-2380e26bccb6",
+    "image_url": "https://image.torob.com/base/images/2h/L4/2hL48cLzPA-PVK1I.jpg"
+  },
+  {
+    "title": "پلاک خانواده باب اسفنجی",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خانواده باب اسفنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "09622ff9-f0ab-47bd-9b71-b7e6ef58f88c",
+    "image_url": "https://image.torob.com/base/images/1h/3e/1h3eW3AEmKXOLtYc.jpg"
+  },
+  {
+    "title": "پلاک طرح طلا برند ژوپینگ کد 003198",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "e6a716b0-56d7-4ce1-9157-122983c742f6",
+    "image_url": "https://image.torob.com/base/images/yc/wI/ycwIibjAGGc5w3X0.jpg"
+  },
+  {
+    "title": "آویز رزین طرح اقیانوس",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "رزین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اقیانوس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "ec9d9b39-3113-416a-adc1-1b4f0b32e990",
+    "image_url": "https://image.torob.com/base/images/Us/3L/Us3LOFIYVDhoOoWe.jpg"
+  },
+  {
+    "title": "پلاک نقره اسم هوتن مدل Givi1514",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم هوتن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "bc5bf23f-92f6-419c-be80-a7df077d5607",
+    "image_url": "https://image.torob.com/base/images/e3/e1/e3e1ZzUzN000hVuZ.jpg"
+  },
+  {
+    "title": "زنجیر ونیزی توپی ژوپینگ (2 مدل) - گوی",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر ونیزی توپی"
+        ]
+      }
+    ],
+    "random_key": "8d226f72-bd4a-4c1a-8d1f-5091437ad0c8",
+    "image_url": "https://image.torob.com/base/images/f5/D7/f5D7Eac0Txtkwka7.jpg"
+  },
+  {
+    "title": "پلاک فرشته کد 40503",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "فرشته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "3d537509-c173-4ef6-91bb-8bb930a3dc96",
+    "image_url": "https://image.torob.com/base/images/70/4X/704XEETWWRv3RHeG.jpg"
+  },
+  {
+    "title": "پلاک طلاروس طرح طلا رنگ ثابت",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "ثابت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلاروس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "19c9098c-dab0-42cc-b5a1-575e65e5177d",
+    "image_url": "https://image.torob.com/base/images/X5/Iu/X5Iui1y4YnJu7ovB.jpg"
+  },
+  {
+    "title": "آویز آبروی دو عالم (استیل، رنگ ثابت) کد 6064",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ثابت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آبروی دو عالم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "ac082b15-5936-44d7-8006-4813179ee606",
+    "image_url": "https://image.torob.com/base/images/dz/m-/dzm-t-ut9QhClCRG.jpg"
+  },
+  {
+    "title": "گردنبند پلاک ملیله نقره کوچک ظریف دستساز سبک",
+    "group": "نامشخص",
+    "product": "گردنبند پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دستساز",
+          "ظریف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک",
+          "گردنبند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ملیله"
+        ]
+      }
+    ],
+    "random_key": "278fdb24-609b-4fa5-9f4b-86bf63705206",
+    "image_url": "https://image.torob.com/base/images/1P/t_/1Pt_mSpZJRbSgJbJ.jpg"
+  },
+  {
+    "title": "آویز رزینی قاب برنجی بزرگ گلدار",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "برنجی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "495222f1-9bd7-40a9-b3e1-07aa4f54e119",
+    "image_url": "https://image.torob.com/base/images/Sq/iz/Sqiz_2XTtc1mhe8R.jpg"
+  },
+  {
+    "title": "مدال نقره شعر (جان جانا…) MEDZ2 1026",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شعر",
+          "جان جانا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "9166dccb-071b-43cf-8e00-a6ca07a01abc",
+    "image_url": "https://image.torob.com/base/images/jD/F5/jDF58emozrvzVFTz.jpg"
+  },
+  {
+    "title": "آویز طلا کارتیه خاص",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کارتیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "be5c36ab-b5be-4d71-b454-cca3b9399af6",
+    "image_url": "https://image.torob.com/base/images/pm/QG/pmQGhGAqgt6Stc_J.jpg"
+  },
+  {
+    "title": "آویز اسم آراد (استیل، رنگ ثابت) کد 5358",
+    "group": "نامشخص",
+    "product": "آویز اسم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز اسم"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم آراد"
+        ]
+      }
+    ],
+    "random_key": "52b0d1df-c9b5-4c8c-8dd8-dc1a18cebafd",
+    "image_url": "https://image.torob.com/base/images/mP/qR/mPqR_ivyZuLavPfH.jpg"
+  },
+  {
+    "title": "پلاک طلا قلب کدN604",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "366f0402-6de8-4a0c-b9f4-e9c371cf47eb",
+    "image_url": "https://image.torob.com/base/images/Dm/7A/Dm7AtCZI4ZKl_2wb.jpg"
+  },
+  {
+    "title": "آویز طلا طرح دایره و ان یکاد کد 100018",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دایره",
+          "ان یکاد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "3bc5fc34-a4c1-4f2b-9c86-81d6cbdb71ff",
+    "image_url": "https://image.torob.com/base/images/gm/eq/gmeqArufltcCSx8l.jpg"
+  },
+  {
+    "title": "پلاک تک گل ژوپینگ طلایی و نگین دار مشابه طلا با رنگ ثابت در زیور آلات زرسان گالری",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین دار",
+          "رنگ ثابت",
+          "مشابه طلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک تک گل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل"
+        ]
+      }
+    ],
+    "random_key": "f4976411-9a2c-4411-acd1-1c4c4dd5fb35",
+    "image_url": "https://image.torob.com/base/images/3W/SF/3WSFveidKZyJl1eI.jpg"
+  },
+  {
+    "title": "آویز ستاره دریایی مینا کرم",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره دریایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "میناکاری"
+        ]
+      }
+    ],
+    "random_key": "4bd10d05-cbaf-4bc8-9003-0fed684621f3",
+    "image_url": "https://image.torob.com/base/images/rl/E4/rlE4jM7OKHVePzqv.jpg"
+  },
+  {
+    "title": "آویز گردن ژوپینگ PCX008",
+    "group": "نامشخص",
+    "product": "آویز گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "d80d3baa-e701-436e-918a-717b61706742",
+    "image_url": "https://image.torob.com/base/images/xb/xU/xbxU9zqYCTPLBWXa.webp"
+  },
+  {
+    "title": "زنجیر پلاک طرح ستاره دوست دارم",
+    "group": "نامشخص",
+    "product": "زنجیر پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره دوست دارم"
+        ]
+      }
+    ],
+    "random_key": "b8b0da00-94ee-4c96-8684-6dcf6ad84311",
+    "image_url": "https://image.torob.com/base/images/xQ/82/xQ82DBNNgDzU2M4D.jpg"
+  },
+  {
+    "title": "مدال نقره تالیندی نگین عقیق یمنی اصل کد14",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق یمنی اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "5a7c896f-7677-4622-abd7-279ee3bfbfe1",
+    "image_url": "https://image.torob.com/base/images/y2/rv/y2rvOROdNAKKPISm.jpg"
+  },
+  {
+    "title": "پلاک استوانه ای مردانه ۳۰۰۱۹۲۲",
+    "group": "مردانه",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک استوانه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "استوانه ای"
+        ]
+      }
+    ],
+    "random_key": "b7ea4089-39d4-4017-8fe9-3dd866aee8b7",
+    "image_url": "https://image.torob.com/base/images/8v/pV/8vpVLXeXSzFRZ0_n.jpg"
+  },
+  {
+    "title": "گردنبند فوتبال دخترانه گردنبند فوتبال زنانه پلاک فوتبال اویز فوتبال پلاک ورزشی",
+    "group": "دخترانه و زنانه",
+    "product": "گردنبند فوتبال",
+    "entities": [
+      {
+        "name": "مناسب برای",
+        "values": [
+          "دخترانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فوتبال",
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند",
+          "پلاک",
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "dd4317f9-987b-4c22-97f9-8a92ddbbab45",
+    "image_url": "https://image.torob.com/base/images/8b/qD/8bqDDcir54nwxe6G.jpg"
+  },
+  {
+    "title": "آویز طلا قاب قرآن کد BF-2658",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قاب قرآن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "00ff9d02-13ea-462a-8ae1-a9152dd2ae59",
+    "image_url": "https://image.torob.com/base/images/-M/H3/-MH3rn-4wM29lJv_.jpg"
+  },
+  {
+    "title": "مدال استیل طرح قلب مدل Givi1993",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "b9139ba2-2b93-4413-8f56-cb99fd053e1d",
+    "image_url": "https://image.torob.com/base/images/yz/h8/yzh8C85glFvlKIMv.jpg"
+  },
+  {
+    "title": "مدال نقره عقیق زرد دست ساز [شرف الشمس] کد 32991",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق زرد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست ساز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "649d6000-548c-47df-8022-335bfc11a3c4",
+    "image_url": "https://image.torob.com/base/images/78/bm/78bmlClhnkUyre8p.jpg"
+  },
+  {
+    "title": "آویز کهربا بولونی لهستان خوشرنگ کد 102001",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کهربا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "8a2b58eb-6684-4fa3-a998-54c1fd9e8be9",
+    "image_url": "https://image.torob.com/base/images/5j/-T/5j-Tf27wWBl0Fwsc.jpg"
+  },
+  {
+    "title": "پلاک اسم آتنا کد 5713",
+    "group": "نامشخص",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم آتنا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "baa965ee-91de-44b3-b1c7-bc29943b94f9",
+    "image_url": "https://image.torob.com/base/images/kk/e8/kke8-_UTeT9567yj.jpg"
+  },
+  {
+    "title": "کد 1951 پلاک نقره تایلندی",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تایلندی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "1b602ce7-0a98-4fed-9bb1-d1583a5c692c",
+    "image_url": "https://image.torob.com/base/images/k2/mJ/k2mJlO_gDGPYUPpX.jpg"
+  },
+  {
+    "title": "پلاک عقیق شجر پاییزی مدل بادبادک",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق شجر پاییزی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بادبادک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "f4fa81e7-dff2-4481-857f-d24f6aa5fa97",
+    "image_url": "https://image.torob.com/base/images/wD/2Y/wD2YglGHTScH27W3.jpg"
+  },
+  {
+    "title": "مدال نقره شعر (از من تا من تو گسترده ای…) MEDZ2 1023",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شعر (از من تا من تو گسترده ای…)"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "f7a7d948-8740-4f73-b2ab-e8ef1ac68bda",
+    "image_url": "https://image.torob.com/base/images/r5/rF/r5rFIMXCX_Keh0zO.jpg"
+  },
+  {
+    "title": "پلاک زنجیر استیل مدل حلال ماه آویز خاص کد XPZ79",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "حلال ماه آویز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک زنجیر"
+        ]
+      }
+    ],
+    "random_key": "b140e1ae-f7d2-43d3-946a-45421f8ce19b",
+    "image_url": "https://image.torob.com/base/images/T6/rV/T6rVnSlfZXXeDyw9.jpg"
+  },
+  {
+    "title": "زنجیر استیل رنگ ثابت ضد حساسیت نقره ای 50سانت",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت",
+          "ضد حساسیت",
+          "50سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "36caf7e7-81ed-4337-bd72-4ebf07cdb36f",
+    "image_url": "https://image.torob.com/base/images/uy/W1/uyW1Rd8Bez_eU5Xk.jpg"
+  },
+  {
+    "title": "زنجیر آویز رسمی استرلینگ با طرح دوربین خانه‌الف‌ها برند harry potter",
+    "group": "نامشخص",
+    "product": "زنجیر آویز",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "رسمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "harry potter"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دوربین خانه الف ها"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر آویز"
+        ]
+      }
+    ],
+    "random_key": "7af81e31-53e5-4209-9828-dbb222ffd516",
+    "image_url": "https://image.torob.com/base/images/Km/s-/Kms-XjaNcgI3zbDM.jpg"
+  },
+  {
+    "title": "آویز درشت سنگ طبیعی عقیق اصل خراسانی کد 27853",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ طبیعی عقیق اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درشت",
+          "خراسانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "78ebcef2-5888-4467-8693-f0acf0bc0db2",
+    "image_url": "https://image.torob.com/base/images/GB/h7/GBh7IymMv7vR4E4e.jpg"
+  },
+  {
+    "title": "آویز برف (استیل، رنگ ثابت) کد 42872",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "برف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "14cc7ba5-7251-4ef7-a2cc-799659316399",
+    "image_url": "https://image.torob.com/base/images/R4/0t/R40tivCO2iNNAB9O.jpg"
+  },
+  {
+    "title": "پلاک اسم فریده کد 2951",
+    "group": "نامشخص",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم فریده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "eb9fd421-c75f-4c0d-9f0b-51f7890ee554",
+    "image_url": "https://image.torob.com/base/images/yz/ji/yzjioosqQ2H7A_VJ.jpg"
+  },
+  {
+    "title": "آویز اسم احلامی(استیل، رنگ ثابت)کد 200",
+    "group": "نامشخص",
+    "product": "آویز اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم احلامی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "902e3b0d-a24e-4ec9-8441-2ade78f08707",
+    "image_url": "https://image.torob.com/base/images/nn/Y7/nnY7l5G9XViQniqv.jpg"
+  },
+  {
+    "title": "آویز نقره کهربا بولونی لهستان حشره ای خوش نقش کد 129816",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره کهربا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حشره ای",
+          "خوش نقش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "68ca4430-29ad-4a64-b88c-ada7348242b5",
+    "image_url": "https://image.torob.com/base/images/Lc/FA/LcFATymoIEhKBhjm.jpg"
+  },
+  {
+    "title": "تو گردنی تاج فلت بزرگ",
+    "group": "نامشخص",
+    "product": "تو گردنی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تاج فلت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تو گردنی"
+        ]
+      }
+    ],
+    "random_key": "d9042b15-fe67-4dce-ab9a-5b3893b6cbeb",
+    "image_url": "https://image.torob.com/base/images/w8/Jw/w8Jw34X5sVfOL-a_.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه الن نار مدل ELN1029",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الن نار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "988ca650-0c9a-4623-8886-55c9ad1f298e",
+    "image_url": "https://image.torob.com/base/images/Ar/Wk/ArWkWTeS6-FBBtok.webp"
+  },
+  {
+    "title": "زنجیر نقره طرح فلامینگو آبکاری طلا سفید",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فلامینگو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آبکاری طلا سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "262de7b2-465b-4ecb-9059-44e2c9b78bd5",
+    "image_url": "https://image.torob.com/base/images/6D/WX/6DWXw5D8Ga8-w6WC.jpg"
+  },
+  {
+    "title": "مدبر یا آویز قدیمی خاص و کمیاب",
+    "group": "نامشخص",
+    "product": "مدبر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدبر",
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "9ce3d2da-9366-4a04-b411-7ce29763a9a8",
+    "image_url": "https://image.torob.com/base/images/IG/V6/IGV6-sk4DZnjD1QN.jpg"
+  },
+  {
+    "title": "زنجیر ژوپینگ ماری ۲۰۱۱۴۸۲",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "3b78486b-a4b1-4c72-9a90-99901204fb0b",
+    "image_url": "https://image.torob.com/base/images/9I/r7/9Ir7-jMy4XoELaBQ.jpg"
+  },
+  {
+    "title": "تن آویز دستساز",
+    "group": "نامشخص",
+    "product": "تن آویز",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دستساز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تن آویز"
+        ]
+      }
+    ],
+    "random_key": "9ab44942-e712-41c8-afc3-2262465d2e92",
+    "image_url": "https://image.torob.com/base/images/4c/1S/4c1S7mJzvDeH9RP-.jpg"
+  },
+  {
+    "title": "آویز اسم کمیل (استیل، رنگ ثابت) کد 5403",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم کمیل"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "884c0bb2-f949-4d0e-85d8-d51e8e5df2ec",
+    "image_url": "https://image.torob.com/base/images/M3/I0/M3I05gejRot2UfoN.jpg"
+  },
+  {
+    "title": "پلاک برند ژوپینگ طرح جواهری کد1259 بدون زنجیر",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جواهری"
+        ]
+      }
+    ],
+    "random_key": "44916b1d-bfaa-4302-a2db-ff82a336e3e5",
+    "image_url": "https://image.torob.com/base/images/el/qC/elqCbSUkC8yOjdND.jpg"
+  },
+  {
+    "title": "پلاک زنجیر I am ارسال رایگان- مزون یونا",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "I am"
+        ]
+      }
+    ],
+    "random_key": "60a0bbed-db1a-4a7a-92eb-4cff35d56c62",
+    "image_url": "https://image.torob.com/base/images/mF/5l/mF5lDIkc9-exQ3Uq.jpg"
+  },
+  {
+    "title": "زنجیر فلامینگو 1.36",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فلامینگو"
+        ]
+      }
+    ],
+    "random_key": "12b9d299-77f2-44bb-95d9-ff898a6a1f52",
+    "image_url": "https://image.torob.com/base/images/Xi/bT/XibTMawbi2dFQ5gO.jpg"
+  },
+  {
+    "title": "پلاک طلا اسم ایلیار",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم ایلیار"
+        ]
+      }
+    ],
+    "random_key": "c4f36fd0-2f83-405f-b56c-fbed5b6e9b94",
+    "image_url": "https://image.torob.com/base/images/kz/ql/kzqlUbT8rjbhubJ9.jpg"
+  },
+  {
+    "title": "مدال زنانه عقیق یمنی مشکی اصل رکاب نقره مخراج وآبکاری طلاسفید سایز رایگان ارسال رایگان به کل کشور",
+    "group": "زنانه",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق یمنی مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آبکاری طلاسفید"
+        ]
+      }
+    ],
+    "random_key": "0976c737-ed3e-4002-bac8-53b1b4e2030f",
+    "image_url": "https://image.torob.com/base/images/mE/WJ/mEWJOGETp31Okthn.jpg"
+  },
+  {
+    "title": "آویز لاجورد طرح قلب کد 101227",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "لاجورد"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      }
+    ],
+    "random_key": "84009cce-270c-4b9f-8e32-91a2f2ba1799",
+    "image_url": "https://image.torob.com/base/images/XR/fR/XRfRlNjfzJZmW-SI.jpg"
+  },
+  {
+    "title": "آویز طلا لنگر",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "لنگر"
+        ]
+      }
+    ],
+    "random_key": "b1e4bdf3-95f1-4804-99a7-d2362d4d50b5",
+    "image_url": "https://image.torob.com/base/images/X0/d5/X0d5XW9EYOxFcuAS.jpg"
+  },
+  {
+    "title": "تو گردنی فیروزه کرمان",
+    "group": "نامشخص",
+    "product": "تو گردنی",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "فیروزه کرمان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تو گردنی"
+        ]
+      }
+    ],
+    "random_key": "11f4c6d2-8fb0-43e7-81b5-38527629b998",
+    "image_url": "https://image.torob.com/base/images/_P/gx/_PgxmrmyB6RIpgsx.jpg"
+  },
+  {
+    "title": "پلاک شعر تو مرا جان و جهانی چه کنم جان و جهان را کد 7017",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شعر تو مرا جان و جهانی چه کنم جان و جهان را"
+        ]
+      }
+    ],
+    "random_key": "65ba365f-c4b2-4ff6-8e8e-8c7d87d68f62",
+    "image_url": "https://image.torob.com/base/images/Ii/kK/IikKmJcEV1WvcEsu.jpg"
+  },
+  {
+    "title": "پلاک گردنی سنگ طبیعی عقیق سلیمانی(( درشت))",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گردنی"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق سلیمانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سنگ طبیعی"
+        ]
+      }
+    ],
+    "random_key": "91872c69-3ed7-45b5-abc8-84a7c636f38f",
+    "image_url": "https://image.torob.com/base/images/04/wz/04wzGp9KAxp_qKdt.jpg"
+  },
+  {
+    "title": "پلاک ژوپینگ طرح جواهری کد 4",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جواهری"
+        ]
+      }
+    ],
+    "random_key": "8307f38c-3c10-4778-bfff-a57f34c21867",
+    "image_url": "https://image.torob.com/base/images/s0/Ff/s0Fft_9CHreTviic.jpg"
+  },
+  {
+    "title": "زنجیر توپی",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توپی"
+        ]
+      }
+    ],
+    "random_key": "6df5491d-6043-416c-b283-41b4b9710b05",
+    "image_url": "https://image.torob.com/base/images/Aq/fb/AqfbWkmZAK7VNYJn.jpg"
+  },
+  {
+    "title": "پلاک نقره طرح خاتون کد 107145",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خاتون"
+        ]
+      }
+    ],
+    "random_key": "633f06ad-2c43-4d9d-a959-fbb3c544fd53",
+    "image_url": "https://image.torob.com/base/images/fJ/3_/fJ3_KqnM_uqqFRFm.jpg"
+  },
+  {
+    "title": "مدال توگردنی یاقوت کبود اصل",
+    "group": "نامشخص",
+    "product": "مدال توگردنی",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "یاقوت کبود اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال توگردنی"
+        ]
+      }
+    ],
+    "random_key": "627b7c65-d862-4cde-b7a7-cd98bf9e8b36",
+    "image_url": "https://image.torob.com/base/images/Cf/KY/CfKYQtJYZZuLfczV.jpg"
+  },
+  {
+    "title": "آویز حرف B آبی تیفانی",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی تیفانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "حرف B"
+        ]
+      }
+    ],
+    "random_key": "7e2145e6-d699-4409-9b89-83a27bf42b70",
+    "image_url": "https://image.torob.com/base/images/GN/F4/GNF448yxoVGD4AWY.jpg"
+  },
+  {
+    "title": "پلاک S میو گلد Mio Gold کد N1859",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میو گلد Mio Gold"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "S"
+        ]
+      }
+    ],
+    "random_key": "a45b95ef-1f18-439a-bb50-b1da9a78b6e2",
+    "image_url": "https://image.torob.com/base/images/9l/Cj/9lCjrYvcoynIvBRX.jpg"
+  },
+  {
+    "title": "زنجیر نقره فیگارو در سایز بندی-اسپرت کد 105",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فیگارو"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "c3adc91f-4073-4219-a512-689ffab70375",
+    "image_url": "https://image.torob.com/base/images/8p/gZ/8pgZluT9qhaf4UYl.jpg"
+  },
+  {
+    "title": "پلاک گردنبند ست قلب استیل",
+    "group": "نامشخص",
+    "product": "پلاک گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گردنبند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      }
+    ],
+    "random_key": "10b6cdf5-d4f8-4d4a-9e59-b74b706ce741",
+    "image_url": "https://image.torob.com/base/images/-F/hQ/-FhQL_dFHEyytia2.jpg"
+  },
+  {
+    "title": "پلاک و زنجیر استیل دراگون Deragon مدل اژدهای زیبا رنگ ثابت",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دراگون Deragon"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اژدهای زیبا"
+        ]
+      }
+    ],
+    "random_key": "fddebfd8-c2cc-4d5a-8e2d-4bd3db7dbd1a",
+    "image_url": "https://image.torob.com/base/images/nt/2M/nt2MZJ9_MNMS1jSj.jpg"
+  },
+  {
+    "title": "ونکلیف تراش 3 گل",
+    "group": "نامشخص",
+    "product": "ونکلیف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونکلیف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "3 گل"
+        ]
+      }
+    ],
+    "random_key": "cfd940a5-6307-4a5e-8c50-698f39ab67f6",
+    "image_url": "https://image.torob.com/base/images/k_/uO/k_uOLAFXT_RxNRtF.jpg"
+  },
+  {
+    "title": "گردنبندگل زنجیر استیل پلاک مراقبتی",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند",
+          "زنجیر",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل",
+          "مراقبتی"
+        ]
+      }
+    ],
+    "random_key": "35646678-ee7a-485b-af75-d10f139516f0",
+    "image_url": "https://image.torob.com/base/images/hr/5I/hr5IOAZDx1dUJbga.jpg"
+  },
+  {
+    "title": "قاب گردن آویز مسی کد:165/4",
+    "group": "نامشخص",
+    "product": "قاب گردن آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب گردن آویز"
+        ]
+      }
+    ],
+    "random_key": "cfac6864-e34f-4416-9368-174ae6a23824",
+    "image_url": "https://image.torob.com/base/images/k1/Xw/k1XwoI3fwt3QNb2W.jpeg"
+  },
+  {
+    "title": "مدال توگردنی جواهری یاقوت زرد اصلی",
+    "group": "نامشخص",
+    "product": "مدال توگردنی",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "یاقوت زرد اصلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال توگردنی جواهری"
+        ]
+      }
+    ],
+    "random_key": "3084980b-6c27-4e6f-8cbb-0c59bf8a47af",
+    "image_url": "https://image.torob.com/base/images/0r/CB/0rCBmPM5Tum5nEzD.jpg"
+  },
+  {
+    "title": "پلاک گردنبند طلا 18 عیار طرح گربه",
+    "group": "نامشخص",
+    "product": "پلاک گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گردنبند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گربه"
+        ]
+      }
+    ],
+    "random_key": "daa66a1f-c08f-4cc9-89ea-f5598f7d708f",
+    "image_url": "https://image.torob.com/base/images/we/aG/weaGkJZSmMunPTmK.jpg"
+  },
+  {
+    "title": "آویز هفت سنگ درخت زندگی ماه تولد(اسفند)",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هفت سنگ درخت زندگی"
+        ]
+      }
+    ],
+    "random_key": "3ee41097-36a6-4e5c-88e8-004274ea51c7",
+    "image_url": "https://image.torob.com/base/images/8X/Ac/8XAcsGjDeHc7Y4UD.jpg"
+  },
+  {
+    "title": "آویز گرد مات ونگینی",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گرد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مات و نگینی"
+        ]
+      }
+    ],
+    "random_key": "8120f8d5-add4-488a-959f-cbead139e681",
+    "image_url": "https://image.torob.com/base/images/qi/FF/qiFFigymch4xz_3x.jpg"
+  },
+  {
+    "title": "پلاک تو گردنی زنانه نقره 925 مخراج کاری شده نگین عقیق سبز یمانی خطی بسیار زیبا با نقش آیه ی رزق و روزی کد364",
+    "group": "زنانه",
+    "product": "پلاک تو گردنی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره 925"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مخراج کاری شده",
+          "نگین عقیق سبز یمانی خطی بسیار زیبا با نقش آیه ی رزق و روزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک تو گردنی"
+        ]
+      }
+    ],
+    "random_key": "0f4791f8-328c-44b8-8e4d-baf91c70d7a5",
+    "image_url": "https://image.torob.com/base/images/y_/d1/y_d11WLGxgmGwcQ3.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه الن نار مدل ELN0628",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الن نار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "4a0087e7-aa74-4086-8643-62ce1fc175ce",
+    "image_url": "https://image.torob.com/base/images/81/eo/81eo9UitnUxmYn6Z.webp"
+  },
+  {
+    "title": "چارم نقره Gnoce گیتار",
+    "group": "نامشخص",
+    "product": "چارم",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Gnoce"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گیتار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چارم"
+        ]
+      }
+    ],
+    "random_key": "c0b52174-a92b-48db-a9ac-fb8b7eb8fc50",
+    "image_url": "https://image.torob.com/base/images/s0/p5/s0p5bL89vE5T3Hjh.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار جواهری میکا طرح جغد کد 0110013",
+    "group": "نامشخص",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جواهری میکا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جغد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "c9cf352e-c668-4c88-8feb-07ea4876cb31",
+    "image_url": "https://image.torob.com/base/images/u2/_L/u2_LE-9oh4oNmtC0.jpg"
+  },
+  {
+    "title": "آویز نهنگ",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نهنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "891713f5-7062-4378-a032-894e1c5756f1",
+    "image_url": "https://image.torob.com/base/images/uM/ve/uMveJYh5z0pkrkv2.webp"
+  },
+  {
+    "title": "زنجیر استیل هرینگبون آسو کد ۰۲",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آسو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر هرینگبون"
+        ]
+      }
+    ],
+    "random_key": "487e4fbc-e1ec-44fe-81a2-fecc06e859c7",
+    "image_url": "https://image.torob.com/base/images/iE/l2/iEl2VudDfTFv1INw.jpg"
+  },
+  {
+    "title": "آویز نقره 1495 گرم",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "338d5bdc-f509-4ff4-a8b1-67400f6b4ca8",
+    "image_url": "https://image.torob.com/base/images/AE/O6/AEO6suSgQ1rLFxUa.jpg"
+  },
+  {
+    "title": "گردنبند نقره اسم سعیده پلاک نقره عیار 925 با آبکاری طلا زنجیر استیل رنگ ثابت 1",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره",
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم سعیده"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آبکاری طلا",
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک",
+          "گردنبند"
+        ]
+      }
+    ],
+    "random_key": "25181434-f867-488a-9bd6-0215e706aaec",
+    "image_url": "https://image.torob.com/base/images/Oy/KI/OyKI5jHl6zJwzEuD.jpg"
+  },
+  {
+    "title": "پلاک کپسولی استیل رنگ ثابت",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک کپسولی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      }
+    ],
+    "random_key": "b4c098d6-2f7b-421e-8120-ebe79f29c832",
+    "image_url": "https://image.torob.com/base/images/Xi/Jk/XiJkjwImSr-gSKJi.jpg"
+  },
+  {
+    "title": "آویز طلا قلب سایز بزردگ",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "3ca0c6ba-87fc-427a-9fe8-0b2d74576b5e",
+    "image_url": "https://image.torob.com/base/images/pm/QG/pmQGhGAqgt6Stc_J.jpg"
+  },
+  {
+    "title": "آویز نقره خاص کد 102823",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "cc310a99-7719-4554-aa21-70d142f1dd95",
+    "image_url": "https://image.torob.com/base/images/vS/cq/vScqiOmtmHz2rfVO.jpg"
+  },
+  {
+    "title": "مدال حدید صینی [عین علی و آیت الکرسی] کد 131847",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "حدید صینی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "عین علی و آیت الکرسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "a6fcda5a-f9f1-4e5f-bc06-faac4e855895",
+    "image_url": "https://image.torob.com/base/images/QY/i1/QYi17OEEkqsCLo8O.jpg"
+  },
+  {
+    "title": "پلاک‌ پاپیون مدل Aloo - ۴ سانتی‌متر / ۲ حک / طلایی",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Aloo"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "be549d0a-1b56-4886-b38b-568f83e60043",
+    "image_url": "https://image.torob.com/base/images/c6/gF/c6gFWpKiOqap3UP5.jpg"
+  },
+  {
+    "title": "آویز طلا بال فرشته جدید",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بال فرشته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "96b46a45-8bf4-4a7b-82b3-766bb8dbb427",
+    "image_url": "https://image.torob.com/base/images/pm/QG/pmQGhGAqgt6Stc_J.jpg"
+  },
+  {
+    "title": "پلاک زنجیر طلایی تک نگین",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تک نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک",
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "3fc97815-6961-4789-a877-da53099baf9d",
+    "image_url": "https://image.torob.com/base/images/R2/0E/R20EVWY8qs7wUrNL.jpg"
+  },
+  {
+    "title": "پلاک میوکی طرح پرطاووس - کد pa1003",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میوکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پرطاووس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "fb12b5ac-3f83-48d1-a357-6482ccb5d977",
+    "image_url": "https://image.torob.com/base/images/16/D5/16D5JLjLaS7lx5eq.jpg"
+  },
+  {
+    "title": "گردنبند درخت زندگی سنگ تورمالین هندوانه ای سنگ اصل طبیعی آویز گردنیند مدال به همراه زنجیر استیل یا بندچرم هدیه",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سنگ",
+          "استیل",
+          "چرم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "درخت زندگی"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "تورمالین هندوانه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سنگ اصل طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند",
+          "آویز",
+          "مدال",
+          "زنجیر",
+          "بند چرم"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "هدیه"
+        ]
+      }
+    ],
+    "random_key": "80243649-f81a-484b-a1ab-0a105f1ec2a5",
+    "image_url": "https://image.torob.com/base/images/FO/NH/FONHkxdXnhQqX67o.jpg"
+  },
+  {
+    "title": "پلاک زنجیر نگین سورمه ای جواهری طرح نقره پر کار",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      }
+    ],
+    "random_key": "08450b9c-6e28-4da8-9bc8-9170033f17f7",
+    "image_url": "https://image.torob.com/base/images/Sy/i7/Syi7_p1OyErDyGtg.jpg"
+  },
+  {
+    "title": "آویز طلا اُریس پرسته Parasteh کد 531862",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پرسته",
+          "Parasteh"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "52ea7792-8619-483a-9bd0-94f0accf1043",
+    "image_url": "https://image.torob.com/base/images/U6/V-/U6V-DD4LqV-2qptL.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار",
+    "group": "نامشخص",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "5d73719d-fd3e-4c86-b3f1-3550861ab153",
+    "image_url": "https://image.torob.com/base/images/ko/DQ/koDQsraM_9w4HOE7.jpg"
+  },
+  {
+    "title": "آویز انواع نوشیدنی ها ، آویز کولا",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نوشیدنی",
+          "کولا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "98f432c5-51f0-4ce4-b9ce-e61bf361d965",
+    "image_url": "https://image.torob.com/base/images/iV/Yb/iVYbWX5S_WD6BlJU.jpg"
+  },
+  {
+    "title": "رومانتویی سنگ و زنجیر رنگ ثابت",
+    "group": "نامشخص",
+    "product": "رومانتویی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رومانتویی"
+        ]
+      }
+    ],
+    "random_key": "1e42b61e-59cc-499a-9cc5-fee9838f0aa8",
+    "image_url": "https://image.torob.com/base/images/kb/-Y/kb-Y2NYfjNy6q-Uu.jpg"
+  },
+  {
+    "title": "مدال نقره نگین رنگی آبی جواهری",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "0d63a663-3254-489e-ab85-ee004ef8f688",
+    "image_url": "https://image.torob.com/base/images/CJ/WI/CJWI_co4l9fDvIhb.jpg"
+  },
+  {
+    "title": "پلاک استيل اسم آلا مدل Givi1382",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم آلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "c3f1a501-f02a-45ca-9ff1-6cba905c7d7c",
+    "image_url": "https://image.torob.com/base/images/Ki/BL/KiBLguHKC2ThSdon.jpg"
+  },
+  {
+    "title": "پلاک نقره عقیق یمنی نارنجی طرح درنا کد 132053",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق یمنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "درنا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "90dced24-fd10-41ca-a6cb-4fc0edfd28ad",
+    "image_url": "https://image.torob.com/base/images/Em/KN/EmKN6XTg-d2vm9nG.jpg"
+  },
+  {
+    "title": "زنجیر و پلاک‌ هیچ",
+    "group": "نامشخص",
+    "product": "زنجیر و پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "هیچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر و پلاک "
+        ]
+      }
+    ],
+    "random_key": "535b3570-cd42-4911-9a7b-f673d90afe65",
+    "image_url": "https://image.torob.com/base/images/5r/tV/5rtVXp7KtNQ9Jj1i.jpg"
+  },
+  {
+    "title": "پلاک زنجیر حرز امام جواد طلا روس اصلی اصل اصل",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "حرز امام جواد"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا روس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک زنجیر"
+        ]
+      }
+    ],
+    "random_key": "b0ede05d-4dcb-4702-b203-70af1f27cbe9",
+    "image_url": "https://image.torob.com/base/images/-c/vY/-cvY_8tbcDQGJw0j.jpg"
+  },
+  {
+    "title": "آویز مکعب نگینی ژوپینگ106046761",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "مکعب نگینی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "04f64796-fbdb-4226-bf03-6725a8459b26",
+    "image_url": "https://image.torob.com/base/images/EF/j9/EFj9kDCkF4XX3bDB.jpg"
+  },
+  {
+    "title": "شمایل و زنجیر بزرگ نقره ایتالیایی",
+    "group": "نامشخص",
+    "product": "شمایل و زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره ایتالیایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شمایل و زنجیر"
+        ]
+      }
+    ],
+    "random_key": "9ed3d98f-2667-4fe8-93ee-f80f2f6a763c",
+    "image_url": "https://image.torob.com/base/images/Ht/bD/HtbDJ_cz6lvmxcZv.jpg"
+  },
+  {
+    "title": "پلاک زنجیر فیروزه نیشابور اصلی اصل رکاب نقره ای پر کار",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "فیروزه نیشابور"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک زنجیر"
+        ]
+      }
+    ],
+    "random_key": "afae16ff-6369-4df2-93ac-2f9743cc10e1",
+    "image_url": "https://image.torob.com/base/images/QB/ci/QBci5SJtO0gKDTXF.jpg"
+  },
+  {
+    "title": "آویز گردن بند فیروزه کوب خشتی طرح آئینه کد 1706",
+    "group": "نامشخص",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "فیروزه کوب"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خشتی",
+          "آئینه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "3a8c7836-d4b1-49c7-bfc4-f899cfe53cc2",
+    "image_url": "https://image.torob.com/base/images/IZ/dU/IZdUyikLx4rb1MLN.jpg"
+  },
+  {
+    "title": "گردنبند و آویز پلاک فول نگین طرح دلار دایره رنگ ثابت کد vn (پس کرایه)",
+    "group": "نامشخص",
+    "product": "گردنبند و آویز پلاک",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دلار",
+          "دایره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند و آویز پلاک"
+        ]
+      }
+    ],
+    "random_key": "3892c0f4-6a29-454d-b723-97300aeda13d",
+    "image_url": "https://image.torob.com/base/images/xK/vZ/xKvZ3GhVjOyeDVi-.jpg"
+  },
+  {
+    "title": "زنجیر کارتیر مردانه ۲۰۰۹۷۰۲",
+    "group": "مردانه",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "کارتیر"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "e75873b7-711c-4d6a-b12e-aaad2c9f0170",
+    "image_url": "https://image.torob.com/base/images/ae/Yf/aeYfwRgRm9knd1oc.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زرمان مدل ZMM0751 شعر عشق پیدا شد و آتش به همه عالم زد",
+    "group": "نامشخص",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شعر عشق پیدا شد و آتش به همه عالم زد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "6e89c51b-4c63-400c-b7c1-4bccd0dc192f",
+    "image_url": "https://image.torob.com/base/images/4r/5_/4r5_OWVwcVKKUAP7.jpg"
+  },
+  {
+    "title": "مدال یاد بود شاه عباس کبیر 1395با جعبه فابریکی و گواهی اصالت",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "یاد بود شاه عباس کبیر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با جعبه فابریکی",
+          "گواهی اصالت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "aa3d96b6-4120-48c5-83c6-a052dbf84b61",
+    "image_url": "https://image.torob.com/base/images/ss/lp/sslpok_BWS2ZN8Rc.jpg"
+  },
+  {
+    "title": "گردنبند طلا مدال شمش با زنجیر کد 10026",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال شمش",
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "03d34183-2c88-4f11-b685-7f3433d3a4cd",
+    "image_url": "https://image.torob.com/base/images/ox/Vx/oxVxIKg1B5iaXizD.jpg"
+  },
+  {
+    "title": "اسم اره کاری سابرینا AJ4395",
+    "group": "نامشخص",
+    "product": "اسم اره کاری",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اره کاری سابرینا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسم اره کاری"
+        ]
+      }
+    ],
+    "random_key": "61cf8d91-ceb5-4ddf-a772-32cf69d5359c",
+    "image_url": "https://image.torob.com/base/images/1b/D_/1bD_nVM5LSc7PO1k.jpg"
+  },
+  {
+    "title": "مدال شرف الشمس زنانه اصل کد 1563 ( شرف شمس )",
+    "group": "زنانه",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "شرف الشمس"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "e4387776-e40a-4dc9-ba27-ac4511baa7af",
+    "image_url": "https://image.torob.com/base/images/oZ/L4/oZL47H06NCX-Qrxa.jpg"
+  },
+  {
+    "title": "آویز نقره حدید صینی شمایل من سلیمانی هستم کد 125266",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "حدید صینی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شمایل من سلیمانی هستم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "8847964c-e2a7-449a-8c1d-b59cc5dd8142",
+    "image_url": "https://image.torob.com/base/images/rT/jp/rTjpzTrtMaqd6fM3.jpg"
+  },
+  {
+    "title": "آویز قدیمی آنتیک",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قدیمی",
+          "آنتیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "c212c959-d5dd-42e1-a053-20b581ff4617",
+    "image_url": "https://image.torob.com/base/images/_m/Hv/_mHv72uXu-DX1_6Y.jpg"
+  },
+  {
+    "title": "پلاک طلا حرف L",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "حرف L"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "c4b344e3-c46b-4a49-a40d-86c314e11e6a",
+    "image_url": "https://image.torob.com/base/images/6x/ei/6xeiDImDdmatMopm.jpg"
+  },
+  {
+    "title": "پلاک نگین پایه دار ژوپینگ",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین پایه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "512df90d-274f-4920-b474-53f026c653e2",
+    "image_url": "https://image.torob.com/base/images/7D/it/7DitSarehmZOL_AT.jpg"
+  },
+  {
+    "title": "پلاک استیل طرح قلب پلاک جواهری نگین کاری شده محصول شماره 49",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جواهری",
+          "نگین کاری شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "e7cd1b2c-4a18-4662-b67f-b6f9f93deb39",
+    "image_url": "https://image.torob.com/base/images/Zs/9z/Zs9z2cr_j8UXOQ7u.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه کد UN0219",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "63161121-3689-4ef2-bb00-2ab8854d2f32",
+    "image_url": "https://image.torob.com/base/images/du/dF/dudFBuKTdjWncT7h.jpg"
+  },
+  {
+    "title": "مدال استيل طرح تاج مدل Givi2447",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تاج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "65ac41bc-5164-412c-884c-1205351f8150",
+    "image_url": "https://image.torob.com/base/images/CB/De/CBDevxeNQm5U0_qY.jpg"
+  },
+  {
+    "title": "پلاک طلا مادر کدN239",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مادر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "edeba5e7-895c-469d-948f-7c307745b4e4",
+    "image_url": "https://image.torob.com/base/images/NL/AT/NLATz49ibn235oif.jpg"
+  },
+  {
+    "title": "پلاک صلیب بزرگ مردانه مارک استیل کد 16418",
+    "group": "مردانه",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "صلیب"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "da5e42c8-75fd-4dc1-9887-7dbd923545c9",
+    "image_url": "https://image.torob.com/base/images/pC/8U/pC8UM2yBOqWN2qtQ.jpg"
+  },
+  {
+    "title": "پلاک نقره طرح سیاه قلم کد 35707",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سیاه قلم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "fa22f3c3-75cf-4d8d-b9f8-7395f3e5e811",
+    "image_url": "https://image.torob.com/base/images/m4/gp/m4gplG_5w7yQyBgw.jpg"
+  },
+  {
+    "title": "تو گردنی نقره الله",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "الله"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تو گردنی"
+        ]
+      }
+    ],
+    "random_key": "dde7d365-a7a8-44c6-ae62-ffcadeb63371",
+    "image_url": "https://image.torob.com/base/images/ym/Ey/ymEygtBWd4Ffb5_s.jpg"
+  },
+  {
+    "title": "پلاک نقره فیروزه نیشابوری خوش طبع کد 123846",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "فیروزه نیشابوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "ec90b853-a56e-42b7-970e-c907aa0babe2",
+    "image_url": "https://image.torob.com/base/images/6r/fe/6rfeprYO7G3G68sQ.jpg"
+  },
+  {
+    "title": "پلاک آویز گردنبند سنتی مجلسی اکسسوری زنانه دخترانه",
+    "group": "زنانه دخترانه",
+    "product": "پلاک آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک آویز"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "سنتی",
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      }
+    ],
+    "random_key": "1bfdd02b-d26b-46d1-b94d-af167eda167f",
+    "image_url": "https://image.torob.com/base/images/8J/fm/8JfmLshO5XtZd4sy.jpg"
+  },
+  {
+    "title": "پلاک طلا اسم شیدا",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم شیدا"
+        ]
+      }
+    ],
+    "random_key": "cc4f5ae4-212a-4137-b37c-782cc84ec73d",
+    "image_url": "https://image.torob.com/base/images/bj/GF/bjGFBnm35FDt4lFB.jpg"
+  },
+  {
+    "title": "چارم آویز شکوفه‌ گیلاس رزگلد پاندورا",
+    "group": "نامشخص",
+    "product": "چارم آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چارم آویز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شکوفه  گیلاس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رزگلد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پاندورا"
+        ]
+      }
+    ],
+    "random_key": "af845b56-45ce-4351-8d4a-2051d39a1427",
+    "image_url": "https://image.torob.com/base/images/zb/Py/zbPyHw3TpGxUwz8u.jpg"
+  },
+  {
+    "title": "پلاک اسم : علی اصغر ali asghar کد 850878",
+    "group": "نامشخص",
+    "product": "پلاک اسم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک اسم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسم",
+          "علی اصغر",
+          "ali asghar"
+        ]
+      }
+    ],
+    "random_key": "9ded2f73-7a0a-4450-8648-36e487521205",
+    "image_url": "https://image.torob.com/base/images/fJ/Mr/fJMrJyHCCC755FV6.jpg"
+  },
+  {
+    "title": "پلاک فیروزه نیشابوری",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "فیروزه نیشابوری"
+        ]
+      }
+    ],
+    "random_key": "e28a7fe9-d0e5-44c5-b068-2f2d4306a22d",
+    "image_url": "https://image.torob.com/base/images/Qn/hv/Qnhv_pwRfA4AI4wp.jpg"
+  },
+  {
+    "title": "گردنبندژوپینگ زنانه پلاک زنجیرطلایی کیفیت عالی کد93",
+    "group": "زنانه",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک زنجیر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ژوپینگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی"
+        ]
+      }
+    ],
+    "random_key": "d89c06c8-59cb-4365-9afe-74800cb5793c",
+    "image_url": "https://image.torob.com/base/images/Kb/BA/KbBAoJcMFREam0wG.jpg"
+  },
+  {
+    "title": "زنجیر و مدال گردنی آیت الکرسی تمام نقره عیار بالا",
+    "group": "نامشخص",
+    "product": "زنجیر و مدال گردنی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر و مدال گردنی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آیت الکرسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "عیار بالا"
+        ]
+      }
+    ],
+    "random_key": "23001380-379f-4c32-bcc7-2641cf19cd4f",
+    "image_url": "https://image.torob.com/base/images/Zw/Ov/ZwOvygVuaLU1t75O.jpg"
+  },
+  {
+    "title": "آویز نقره زنانه تایلندی با آبکاری طلا سفید",
+    "group": "زنانه",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره تایلندی"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آبکاری طلا سفید"
+        ]
+      }
+    ],
+    "random_key": "6ba98c78-7520-47f7-b946-9a3315b14b23",
+    "image_url": "https://image.torob.com/base/images/1T/iA/1TiAAlIay05UUcdg.jpg"
+  },
+  {
+    "title": "آویز قدیمی با زنجیر فلزی",
+    "group": "نامشخص",
+    "product": "آویز و زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز",
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قدیمی"
+        ]
+      }
+    ],
+    "random_key": "555990e0-5f9b-4276-b8fc-4dab69f08a37",
+    "image_url": "https://image.torob.com/base/images/4_/Md/4_MdsRDykgC0F-49.jpg"
+  },
+  {
+    "title": "مدال نقره",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      }
+    ],
+    "random_key": "3fd100c8-2354-4e6c-93c3-cf76b7ec4e1a",
+    "image_url": "https://image.torob.com/base/images/iA/bc/iAbcCymTATK5PR9-.jpg"
+  },
+  {
+    "title": "پلاک طلا اسپرت طرح لاو LOVE سه بعدی",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "لاو LOVE سه بعدی"
+        ]
+      }
+    ],
+    "random_key": "9ef6124e-0594-4c18-a021-a6aec3550c70",
+    "image_url": "https://image.torob.com/base/images/0z/0A/0z0AEFD-bEv0U6cH.jpg"
+  },
+  {
+    "title": "پلاک زنجیر گردنبند مردانه زنانه الله استیل رنگ ثابت به قیمت عمده حداقل خرید 10 عدد",
+    "group": "مردانه زنانه",
+    "product": "پلاک و زنجیر گردنبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک زنجیر گردنبند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "الله"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      }
+    ],
+    "random_key": "1fd4e4ff-0ae2-465e-b3ee-8a8be0164998",
+    "image_url": "https://image.torob.com/base/images/KM/zd/KMzd8TvystFHgMiD.jpg"
+  },
+  {
+    "title": "زنجیر استیل مردانه کارتیر 60 سانتی درشت (با جعبه جواهر)",
+    "group": "مردانه",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کارتیر"
+        ]
+      }
+    ],
+    "random_key": "d4dcece9-8f5d-4578-9c89-38269fdc5733",
+    "image_url": "https://image.torob.com/base/images/1c/w-/1cw-L1jiidGrzd0G.jpg"
+  },
+  {
+    "title": "زنجیر دیپلمات نقره ای استیل رنگ ثابت سایز 0.5 فروش بصورت متری",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دیپلمات"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      }
+    ],
+    "random_key": "020e9a70-4d7b-42ac-96b6-8c8719612e26",
+    "image_url": "https://image.torob.com/base/images/Hd/iv/HdivCKU8dLNTHD9A.webp"
+  },
+  {
+    "title": "مدال نقره زمرد طرح قلب قاب عکسی لاکت کد 3952",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال",
+          "لاکت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "زمرد"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب",
+          "قاب عکسی"
+        ]
+      }
+    ],
+    "random_key": "33988c89-01a6-4b7d-9fe4-3a47f2d3962d",
+    "image_url": "https://image.torob.com/base/images/ns/JG/nsJG1fNLHcUP_X0F.jpg"
+  },
+  {
+    "title": "پلاک زنجیر استیل مدل بال نهنگ کد XPZ55",
+    "group": "نامشخص",
+    "product": "پلاک و زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بال نهنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و زنجیر"
+        ]
+      }
+    ],
+    "random_key": "028a759a-69a4-43f3-b6cf-f9744e768737",
+    "image_url": "https://image.torob.com/base/images/zS/LW/zSLWd4mQH7zuzhx2.jpg"
+  },
+  {
+    "title": "پلاک طلا طرح پروانه - 03",
+    "group": "نامشخص",
+    "product": "پلاک طلا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "897f03cf-f6a1-41df-8e36-72df4b47cb6f",
+    "image_url": "https://image.torob.com/base/images/Pq/hx/PqhxWmYvDICwlych.jpg"
+  },
+  {
+    "title": "آویز تیتانیوم فیروزه نیشابوری خوش طبع کد 71389",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تیتانیوم"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "فیروزه نیشابوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "48be18db-d2ee-450a-9bc1-3fec73c166cf",
+    "image_url": "https://image.torob.com/base/images/kM/Qx/kMQxct0nmXqVtEVa.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه الن نار مدل وفا کد EN30458",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الن نار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "وفا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "91e6aa01-a608-4674-880c-7bda7b9c8346",
+    "image_url": "https://image.torob.com/base/images/h1/Yq/h1YqJ18tHWNyj7ds.webp"
+  },
+  {
+    "title": "زنجیر استیل ظریف 16",
+    "group": "نامشخص",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ظریف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "5e788ed3-81fd-45d7-ab3e-336125a18ac9",
+    "image_url": "https://image.torob.com/base/images/c8/wR/c8wRa4vq9MMilUYx.jpg"
+  },
+  {
+    "title": "پلاک طلا میوکی مثلث M540",
+    "group": "نامشخص",
+    "product": "پلاک طلا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میوکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مثلث"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "972b3f3c-aed6-4849-9855-acfdcbad1d49",
+    "image_url": "https://image.torob.com/base/images/ld/3X/ld3XNIMLiM7VG-N4.jpg"
+  },
+  {
+    "title": "آویز نقره طرح خرس به همراه زنجیر کد 130110 (به همراه هدیه)",
+    "group": "نامشخص",
+    "product": "آویز نقره به همراه زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "1eeeae84-9919-4573-a744-d9da15bf7db4",
+    "image_url": "https://image.torob.com/base/images/G0/Vs/G0VsWQlBjLBULC0p.jpg"
+  },
+  {
+    "title": "پلاک گرگ و عقاب و شیر",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گرگ",
+          "عقاب",
+          "شیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "622b95db-9df6-41cf-81b0-15e6d85ae12f",
+    "image_url": "https://image.torob.com/base/images/JQ/sY/JQsYrP6x3ed7tX4s.jpg"
+  },
+  {
+    "title": "آویز یشم معدنی",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "یشم معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "fc4750c7-ba20-4e83-9b9e-4723492ba048",
+    "image_url": "https://image.torob.com/base/images/6v/cZ/6vcZlI7h9RXhA9Fc.jpg"
+  },
+  {
+    "title": "آویز اسم عباس (استیل، رنگ ثابت، آبکاری طلایی) کد 5338",
+    "group": "نامشخص",
+    "product": "آویز اسم",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسم عباس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت",
+          "آبکاری طلایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "be1c7c97-d9e5-4a88-ad1a-248019d34ab9",
+    "image_url": "https://image.torob.com/base/images/wL/Ao/wLAo7H6a5LyYpNvL.jpg"
+  },
+  {
+    "title": "آویز رقص سما (استیل، رنگ ثابت، آبکاری طلایی) کد 40910",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "رقص سما"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت",
+          "آبکاری طلایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "0579be9b-a9d6-40b7-9ae0-3b8c2909572b",
+    "image_url": "https://image.torob.com/base/images/9s/21/9s21XJRI3PkHhZMy.jpg"
+  },
+  {
+    "title": "پلاک گردنبند طلا 18 عیار حروف اول اسم ت",
+    "group": "نامشخص",
+    "product": "پلاک گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "حروف اول اسم ت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گردنبند"
+        ]
+      }
+    ],
+    "random_key": "f5aec16d-d2d7-4f57-9b28-1f08b7004cce",
+    "image_url": "https://image.torob.com/base/images/y3/sN/y3sN9UKk-OVvt-S2.jpg"
+  },
+  {
+    "title": "زنجیر مردانه با رنگ نقره‌ای 3.5 میلی‌متری فیوزم/مشکی/طلای 14 عیار، زنجیر گردنبند مردانه، گردنبند زنجیر زنجیر کوبایی استیل ضد زنگ مردانه، مردانه زنجیر 16، 18، 20، 22، 24، 26، 28 اینچی",
+    "group": "مردانه",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "مناسب برای",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای",
+          "مشکی",
+          "طلایی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلای 14 عیار",
+          "استیل ضد زنگ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کوبایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر",
+          "گردنبند زنجیر"
+        ]
+      }
+    ],
+    "random_key": "d71bc3f2-927b-4847-809a-d4ce6aaabc20",
+    "image_url": "https://image.torob.com/base/images/1z/Pg/1zPgqQlq1DOYQ0za.jpg"
+  },
+  {
+    "title": "پلاک برگ در دست کد 289",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "برگ در دست"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "6c1ccd34-e2fb-4778-a4e1-c9b54b76552c",
+    "image_url": "https://image.torob.com/base/images/hv/yi/hvyiD1xA7oVBq1G7.jpg"
+  },
+  {
+    "title": "تو گردنی کم اجرت",
+    "group": "نامشخص",
+    "product": "تو گردنی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کم اجرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تو گردنی"
+        ]
+      }
+    ],
+    "random_key": "ffa357a8-d7da-40b1-91bc-31f4025636c9",
+    "image_url": "https://image.torob.com/base/images/md/AL/mdALDcrRy_Xpy0og.jpg"
+  },
+  {
+    "title": "مدال طرح دریا و ساحل",
+    "group": "نامشخص",
+    "product": "مدال",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "دریا و ساحل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدال"
+        ]
+      }
+    ],
+    "random_key": "7b0ab438-a176-420e-9bf4-b2635ac5d153",
+    "image_url": "https://image.torob.com/base/images/8g/is/8gis7yJOVa_pm2Zk.jpg"
+  },
+  {
+    "title": "پلاک گیره کد 41068",
+    "group": "نامشخص",
+    "product": "پلاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گیره"
+        ]
+      }
+    ],
+    "random_key": "0f0b63dd-2725-406d-b8c7-54670f5f27a9",
+    "image_url": "https://image.torob.com/base/images/oW/Ba/oWBapdxY2lv7DHwE.jpg"
+  },
+  {
+    "title": "آویز گردنبند مدل قلب و بینهایت کد 110470 مجموعه دو عددی",
+    "group": "نامشخص",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب و بینهایت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "702c3bb6-570b-4176-9988-3211b82afc48",
+    "image_url": "https://image.torob.com/base/images/z8/em/z8emi7V7-nv4ZMny.jpg"
+  },
+  {
+    "title": "آویز نقره آمتیست طرح پیچک کد 132977",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "آمتیست"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پیچک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "e331f170-6915-43f7-b9ee-ec3450f118cd",
+    "image_url": "https://image.torob.com/base/images/Va/qW/VaqWCounwqxUs4aB.jpg"
+  },
+  {
+    "title": "زنجیر نقره 45 سانتی ساچمه ای زنانه ایتالیایی ظریف کد 107093",
+    "group": "زنانه",
+    "product": "زنجیر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ظریف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زنجیر"
+        ]
+      }
+    ],
+    "random_key": "917af5fe-b654-4dbb-bf99-07e6e2d8d2bf",
+    "image_url": "https://image.torob.com/base/images/A-/Eh/A-Eho1AFSyJy4DBh.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18عیار زنانه طرح قلب مدل SG137",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18عیار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "3a59c53a-5e44-450f-812e-7cc89bfbba53",
+    "image_url": "https://image.torob.com/base/images/AT/0S/AT0Sj5D_a4P3o_3V.jpg"
+  },
+  {
+    "title": "پلاک آویز چشم نظر طرح پروانه (فروش به صورت دونه ای)",
+    "group": "نامشخص",
+    "product": "پلاک آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چشم نظر",
+          "پروانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک آویز"
+        ]
+      }
+    ],
+    "random_key": "fdc551db-fc5d-4115-a9fc-23aff7ed316f",
+    "image_url": "https://image.torob.com/base/images/Mh/4T/Mh4TSMDYe40RXT8-.jpg"
+  },
+  {
+    "title": "آویز قدیمی سکه 2ریال 2 تاج 1338",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "1f36266d-3db5-4f93-8087-07327f104bdd",
+    "image_url": "https://image.torob.com/base/images/0G/dk/0GdkWXnRHBIFbe4q.jpg"
+  },
+  {
+    "title": "آویز گردنبند سنگ کوارتز زرد معدنی کد 33804",
+    "group": "نامشخص",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "کوارتز زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "1c19edbb-35c6-4a2b-b2f5-474018ebae44",
+    "image_url": "https://image.torob.com/base/images/HL/FT/HLFTiozsV-7fS_cf.jpg"
+  },
+  {
+    "title": "پلاک و آویز طرح هندوانه و انار",
+    "group": "نامشخص",
+    "product": "پلاک و آویز",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "هندوانه و انار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک و آویز"
+        ]
+      }
+    ],
+    "random_key": "a0142ea6-a418-4346-87a0-b84430616274",
+    "image_url": "https://image.torob.com/base/images/eQ/ak/eQakc7hVBvDfnCDo.jpg"
+  },
+  {
+    "title": "آویز طلا زنانه مدل ونکلیف تراش وزن 1.590 گرم",
+    "group": "زنانه",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ونکلیف تراش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "32bdbfed-102a-4a86-9634-7222184e77c7",
+    "image_url": "https://image.torob.com/base/images/HC/to/HCtoV_ny6LoPZn16.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه قیراط طرح خرچنگ کد GH2482",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرچنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "7806e736-13cc-457d-b0a2-eeaf8e4bbc3b",
+    "image_url": "https://image.torob.com/base/images/n7/Rc/n7Rcb8FezAnzG50M.jpg"
+  },
+  {
+    "title": "آویز love (استیل، رنگ ثابت) کد 6420",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "love"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "7ba66b00-9df9-4493-8a95-55ceeadce8a6",
+    "image_url": "https://image.torob.com/base/images/SE/Zm/SEZmtEvPaSW-8jnP.jpg"
+  },
+  {
+    "title": "گرندنبد حرف s نقره زنانه ایتالیایی(با زنجیر) عیار 925استاندارد بدون ریزش نگین",
+    "group": "زنانه",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نقره 925"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بدون ریزش نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گرندنبد حرف s"
+        ]
+      }
+    ],
+    "random_key": "f6a3fe85-157c-48ec-acbc-866151efe9e9",
+    "image_url": "https://image.torob.com/base/images/m9/Q-/m9Q-BJmuAFcWwGs7.jpg"
+  },
+  {
+    "title": "آویز گردنبند طلا 18 عیار زنانه الن نار مدل وحيد کد 10907",
+    "group": "زنانه",
+    "product": "آویز گردنبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "طلا 18 عیار"
+        ]
+      },
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الن نار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "وحيد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز گردنبند"
+        ]
+      }
+    ],
+    "random_key": "c6aa0cd6-02e7-4acb-881b-52ddf1f5f8b5",
+    "image_url": "https://image.torob.com/base/images/rx/tG/rxtGoX1iDtF0AxR_.webp"
+  },
+  {
+    "title": "پلاک گردنبند زنانه کد 7000",
+    "group": "زنانه",
+    "product": "پلاک گردنبند",
+    "entities": [
+      {
+        "name": "مناسب برای",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاک گردنبند"
+        ]
+      }
+    ],
+    "random_key": "5e15258b-f7d1-41a0-9895-30ea02e60964",
+    "image_url": "https://image.torob.com/base/images/SO/nB/SOnBTkQR_AnumnQO.jpg"
+  },
+  {
+    "title": "آویز عقیق شجر دریایی طرح ماه",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع سنگ",
+        "values": [
+          "عقیق شجر دریایی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "fd15e162-b530-44f0-90e5-d04ce442f0e7",
+    "image_url": "https://image.torob.com/base/images/Pm/49/Pm49KGdATy3Opc2Z.jpg"
+  }
+]

@@ -1,0 +1,6759 @@
+[
+  {
+    "title": "پینت وود ابسیدین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پینت وود"
+        ]
+      }
+    ],
+    "random_key": "eb0081a2-4bed-4631-b52c-9f72b1d18e89",
+    "image_url": "https://image.torob.com/base/images/CO/jp/COjpq0FVEuZh5MAS.jpg"
+  },
+  {
+    "title": "ابسیدین گلدشین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلدشین"
+        ]
+      }
+    ],
+    "random_key": "62ac5e8b-4cb4-47d1-9eaf-dcdef6a8e001",
+    "image_url": "https://image.torob.com/base/images/Fw/kF/FwkFk7VisG788Wiw.webp"
+  },
+  {
+    "title": "سنگ ابسیدین کبالت اصل و راف و معدنی S561",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کبالت"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      }
+    ],
+    "random_key": "99bfe74e-977b-4346-b7a5-be5a691b3cf5",
+    "image_url": "https://image.torob.com/base/images/kt/Gi/ktGiuYOIl1PQ-sYo.jpg"
+  },
+  {
+    "title": "سنگ راف سماق یا پورفیری",
+    "group": "نامشخص",
+    "product": "سنگ راف",
+    "entities": [],
+    "random_key": "3859b3ca-162e-420d-ba3e-7dcfa430e7e3",
+    "image_url": "https://image.torob.com/base/images/z9/TR/z9TRIVRdn6aeu1sd.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین لکه برفی سایز ۸ کد10272",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "ریسه"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      }
+    ],
+    "random_key": "20fe8263-f918-4773-bba2-2b0a56864019",
+    "image_url": "https://image.torob.com/base/images/Q1/Wx/Q1WxOIgEg8F6yXz4.webp"
+  },
+  {
+    "title": "ابسیدین ماهاگونی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      }
+    ],
+    "random_key": "60bf40ef-6d01-47f6-8de7-1732963f22f3",
+    "image_url": "https://image.torob.com/base/images/pS/xy/pSxy1P5fGbOAwBsY.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "c281183c-e4a5-431f-a61e-1b2a565e8d66",
+    "image_url": "https://image.torob.com/base/images/Zs/Gd/ZsGdWyJAmP0dWM2w.jpg"
+  },
+  {
+    "title": "ابسیدین رنگین کمان",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگین کمان"
+        ]
+      }
+    ],
+    "random_key": "23eb8d2b-6f00-466c-bbb5-d2a0e5797a89",
+    "image_url": "https://image.torob.com/base/images/No/Mm/NoMmJCpdXZzgJ7Ae.jpg"
+  },
+  {
+    "title": "آبسیدین سبز زیبا با دانه های برفی",
+    "group": "نامشخص",
+    "product": "آبسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه های برفی"
+        ]
+      }
+    ],
+    "random_key": "67a4b9e1-1807-4676-8721-a28cac6d9b88",
+    "image_url": "https://image.torob.com/base/images/Tm/I2/TmI218mF8xrac8Am.jpg"
+  },
+  {
+    "title": "ابسیدین کد98 _ابعاد5×4سانت وزن 108گرم",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "5×4سانت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "108گرم"
+        ]
+      }
+    ],
+    "random_key": "f8035556-b9de-4a92-abf5-bd5c30c4d0b3",
+    "image_url": "https://image.torob.com/base/images/8c/ON/8cONNK_KirgPukFT.jpg"
+  },
+  {
+    "title": "ابسیدین رنگین کمان",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگین کمان"
+        ]
+      }
+    ],
+    "random_key": "1dbf011b-7df1-4e4a-a4cf-bbe7b6b7bb82",
+    "image_url": "https://image.torob.com/base/images/1X/m1/1Xm1IewZOBqCAvjJ.jpg"
+  },
+  {
+    "title": "نگین ابسیدین کد 112",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "b9194b22-f1f2-438b-8fac-c78384940356",
+    "image_url": "https://image.torob.com/base/images/Bk/qI/BkqIL4RY026xnDy6.jpg"
+  },
+  {
+    "title": "ابسیدین ابی کد1",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "ابی"
+        ]
+      }
+    ],
+    "random_key": "b4275efd-669a-451f-98ff-0a6eaa6bb476",
+    "image_url": "https://image.torob.com/base/images/cX/X-/cXX-3HeZcgaxldfD.jpg"
+  },
+  {
+    "title": "نگین درشت سنگ آبسیدین با رفلکس نقره ای کد 29503",
+    "group": "نامشخص",
+    "product": "نگین سنگ آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین درشت"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "رفلکس نقره ای"
+        ]
+      }
+    ],
+    "random_key": "8aae92f5-2069-41e9-af1f-77e8868b7965",
+    "image_url": "https://image.torob.com/base/images/JO/EQ/JOEQEGTdBIZI3Ldn.jpg"
+  },
+  {
+    "title": "ابسیدین کد234_ابعاد4×4سانت وزن42گرم",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "4×4سانت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "42گرم"
+        ]
+      }
+    ],
+    "random_key": "f1b66efd-020e-48de-98cd-6a18f838758b",
+    "image_url": "https://image.torob.com/base/images/w2/D1/w2D1lwCEmw3CUMzF.jpg"
+  },
+  {
+    "title": "آبسیدین دونه برفی طبیعی ابسیدین معروف به لکه آتشفشان لکه برفی a16",
+    "group": "نامشخص",
+    "product": "آبسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی",
+          "لکه آتشفشان",
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "4e377b72-3511-4b34-b120-2e76cdc3bf7a",
+    "image_url": "https://image.torob.com/base/images/_1/N6/_1N6StzIyrPvoKHT.jpg"
+  },
+  {
+    "title": "رینگ سنگ آبسیدین",
+    "group": "نامشخص",
+    "product": "رینگ سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رینگ سنگ"
+        ]
+      }
+    ],
+    "random_key": "75f3dbe4-2ca0-49b5-a1cc-0011a9070951",
+    "image_url": "https://image.torob.com/base/images/z-/Dj/z-Dj9Dm5pLzoPpEx.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین سبز راف و استثنایی و انحصاری بر پایه S574",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی",
+          "انحصاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بر پایه S574"
+        ]
+      }
+    ],
+    "random_key": "eb028c48-26ad-4d82-b727-db7d527f1e2f",
+    "image_url": "https://image.torob.com/base/images/jJ/eW/jJeWtokXovYlzqV1.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav27 معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهانگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کدav27",
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "08d867e6-92f9-44fa-bba4-46a9f84adb57",
+    "image_url": "https://image.torob.com/base/images/jq/mE/jqmE9Iyf8wmN9Idg.jpg"
+  },
+  {
+    "title": "نگین سنگ ابسیدین گلد (طلایی) معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "نگین سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      }
+    ],
+    "random_key": "130c8c52-c89f-48db-9de0-d3efd89482ce",
+    "image_url": "https://image.torob.com/base/images/Ne/KX/NeKXF3XSSm90P9q3.jpg"
+  },
+  {
+    "title": "آبسیدین آبسدین ابسیدین ابسدین سنگ خام بسیار خوش رنگ کد 25446",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوش رنگ",
+          "کد 25446"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ خام"
+        ]
+      }
+    ],
+    "random_key": "55b9705f-9e80-47df-8b09-f8e4a84f3260",
+    "image_url": "https://image.torob.com/base/images/Hd/pT/HdpTJwblqSTb-Lgm.jpg"
+  },
+  {
+    "title": "ابسیدین نقره ای اصل ومعدنی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "2888634a-29ea-4d30-ac97-d11ed6fa4941",
+    "image_url": "https://image.torob.com/base/images/ks/rR/ksrRte-pDG65yZd6.jpg"
+  },
+  {
+    "title": "نگین ابسیدین معدنی نقره ای 250194",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "250194"
+        ]
+      }
+    ],
+    "random_key": "1a1b5761-274e-4c66-b4f8-a20965f15747",
+    "image_url": "https://image.torob.com/base/images/ur/jU/urjUNm0psqDtOhjX.webp"
+  },
+  {
+    "title": "آبسیدین لکه برفی معروف دونه برفی ابسیدین اشکی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی",
+          "دونه برفی",
+          "اشکی"
+        ]
+      }
+    ],
+    "random_key": "1c67c62d-11ae-43fd-bafe-161fc5d76aa8",
+    "image_url": "https://image.torob.com/base/images/vy/CJ/vyCJH6RGgQBYohUB.jpg"
+  },
+  {
+    "title": "ابسیدین عسلی زیبا و کلکسیونی دو پوست",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "عسلی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دو پوست"
+        ]
+      }
+    ],
+    "random_key": "fa4eb02f-08a7-48e0-a4b5-10312030b834",
+    "image_url": "https://image.torob.com/base/images/2V/Vr/2VVrwZAsvPH_NxPN.jpg"
+  },
+  {
+    "title": "ابسیدین مکزیکی معدنی و خاص و کلکسیونی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "مکزیکی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "خاص",
+          "کلکسیونی"
+        ]
+      }
+    ],
+    "random_key": "652f0b53-464b-4781-af0d-fa3037c789b2",
+    "image_url": "https://image.torob.com/base/images/em/wJ/emwJxRnJY6QZ6EIk.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین زیبا لاجوردی",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "لاجوردی"
+        ]
+      }
+    ],
+    "random_key": "896d7a7a-94dc-4398-baf1-9d451ba64c2e",
+    "image_url": "https://image.torob.com/base/images/gn/On/gnOnjWPEKxUcQvPd.jpg"
+  },
+  {
+    "title": "نگین ابسیدین",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "6504f79f-d8b5-4372-8d2a-dd340d6a7971",
+    "image_url": "https://image.torob.com/base/images/RR/Dh/RRDhl5Kla9xQE3NQ.jpg"
+  },
+  {
+    "title": "سنگ راف ابسیدین سبز نمونه استثنایی و اصل و معدنی S1188",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "نمونه استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "S1188"
+        ]
+      }
+    ],
+    "random_key": "14765add-cfd8-4908-b795-247304275ef0",
+    "image_url": "https://image.torob.com/base/images/UU/9P/UU9PQAk5D8fq9YV8.jpg"
+  },
+  {
+    "title": "نگین پینوت وود ابسیدین طبیعی بیضی ۲۳۴۳۰۱",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین",
+          "پینوت وود"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "234301"
+        ]
+      }
+    ],
+    "random_key": "aa19828d-ca7f-42f8-99ec-43c9bdc1978c",
+    "image_url": "https://image.torob.com/base/images/qA/mn/qAmnMPeVqIESuGHv.jpg"
+  },
+  {
+    "title": "ابسیدین کد1062_ابعاد5×4سانت وزن74گرم",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "5×4سانت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "74گرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کد1062"
+        ]
+      }
+    ],
+    "random_key": "7db97030-4188-4c2b-878f-eb479e1a436f",
+    "image_url": "https://image.torob.com/base/images/BK/Bj/BKBjOMzygS9EUHtd.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی دانه برفی کلاس جهانی و اصل و انحصاری S1045",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه برفی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلاس جهانی",
+          "انحصاری"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "S1045"
+        ]
+      }
+    ],
+    "random_key": "b5dce80e-5464-4c24-b484-bf3e4cbe9ec3",
+    "image_url": "https://image.torob.com/base/images/zA/bU/zAbUCxBtl8qNWevv.jpg"
+  },
+  {
+    "title": "نگین ابسیدین طلایی",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین ابسیدین طلایی"
+        ]
+      }
+    ],
+    "random_key": "e1ea464c-268c-4d32-b571-d14f1c64949d",
+    "image_url": "https://image.torob.com/base/images/oh/lK/ohlKsmx07LYW4f6M.jpg"
+  },
+  {
+    "title": "ماهاگونی ابسیدین 3796",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ماهاگونی ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "d3e1e060-8bcc-4a30-8c4d-b6efb7827d7c",
+    "image_url": "https://image.torob.com/base/images/b5/xO/b5xOXqv1XP2ob6QS.jpg"
+  },
+  {
+    "title": "آویز سنگ ابسیدین آبی دانه برفی معدنی نمونه انحصاری A1180",
+    "group": "نامشخص",
+    "product": "آویز سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "نمونه انحصاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز سنگ ابسیدین آبی دانه برفی معدنی"
+        ]
+      }
+    ],
+    "random_key": "8055d0bf-beb0-48c3-aede-7f69de7d7e9e",
+    "image_url": "https://image.torob.com/base/images/yT/TT/yTTTh6x4gK9Df_Ly.jpg"
+  },
+  {
+    "title": "ابسیدین سیاه و نقره ای طبیعی 250196",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه",
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین سیاه و نقره ای طبیعی"
+        ]
+      }
+    ],
+    "random_key": "daf2bbed-9edd-4eb9-a020-77e3612ecdcd",
+    "image_url": "https://image.torob.com/base/images/Eg/K6/EgK67LkKWE11M-vl.webp"
+  },
+  {
+    "title": "ابسیدین اصل شفاف کد06",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین اصل شفاف"
+        ]
+      }
+    ],
+    "random_key": "dfb54947-6cdf-43a5-91b3-b7f30201bccd",
+    "image_url": "https://image.torob.com/base/images/uc/Cm/ucCmPVEs8Ys-qo5-.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav11 معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهانگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "دفرمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز آبسیدین ماهانگونی معدنی دفرمه طبیعی ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "6e89c62c-70fa-4d0c-acac-59b04713af7d",
+    "image_url": "https://image.torob.com/base/images/cJ/uk/cJukOCcJgh4Z94oJ.jpg"
+  },
+  {
+    "title": "ابسیدین سبز بزرگ کد 3",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین سبز"
+        ]
+      }
+    ],
+    "random_key": "af81f4ab-92eb-4801-8080-d19bd7cff653",
+    "image_url": "https://image.torob.com/base/images/sp/uM/spuMvTVTqRJEFrmt.jpg"
+  },
+  {
+    "title": "آویز ابسیدین سبز انحصاری نمونه اصل و معدنی A517",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "انحصاری",
+          "نمونه اصل"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز ابسیدین سبز انحصاری نمونه اصل و معدنی"
+        ]
+      }
+    ],
+    "random_key": "2a66d31a-f36a-4f87-ade5-6b3252f4f2d1",
+    "image_url": "https://image.torob.com/base/images/1w/wG/1wwGVYwyNPewxEjO.jpg"
+  },
+  {
+    "title": "پک ۱۰ عدد ابسیدین مشکی برفی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "برفی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پک ۱۰ عدد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک ابسیدین مشکی برفی"
+        ]
+      }
+    ],
+    "random_key": "30ff0f64-c9c4-43b5-8360-61cd71ce4463",
+    "image_url": "https://image.torob.com/base/images/47/wP/47wP94Ohd_O9Bp_f.jpg"
+  },
+  {
+    "title": "ابسیدین طبیعی درجه یک ( 11 در 11 میل)",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "11 در 11 میل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین طبیعی"
+        ]
+      }
+    ],
+    "random_key": "cd799917-be12-4642-aeef-16cbe11ed9e9",
+    "image_url": "https://image.torob.com/base/images/6y/Ho/6yHoElpKlkLhJ_yo.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین سیلور سایز 8 کد9481",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیلور"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ ابسیدین سیلور"
+        ]
+      }
+    ],
+    "random_key": "05a2a494-1c48-43b0-9bca-d0979e6517ab",
+    "image_url": "https://image.torob.com/base/images/vO/cV/vOcVQegDBl8RYBB7.webp"
+  },
+  {
+    "title": "ابسیدین ماه گونی معدنی ل930",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماه گونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین ماه گونی معدنی"
+        ]
+      }
+    ],
+    "random_key": "e7b33ecb-ad6b-48ca-921b-f7d388302abf",
+    "image_url": "https://image.torob.com/base/images/jp/7J/jp7JjBecjjPMjpJf.jpg"
+  },
+  {
+    "title": "پک سنگ های هفت چاکرا",
+    "group": "نامشخص",
+    "product": "پک سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک سنگ های هفت چاکرا"
+        ]
+      }
+    ],
+    "random_key": "8c027045-d9ac-43a9-8c17-e9c87b70335e",
+    "image_url": "https://image.torob.com/base/images/xJ/jH/xJjHzAjh5JA_zdS-.jpg"
+  },
+  {
+    "title": "دستبندناماسته مدل آبسیدین لکه برفی کد101",
+    "group": "نامشخص",
+    "product": "دستبند",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبندناماسته مدل آبسیدین لکه برفی"
+        ]
+      }
+    ],
+    "random_key": "ea19cefe-3350-49ee-958d-b426f161f711",
+    "image_url": "https://image.torob.com/base/images/Qd/PB/QdPBFaKeUpYss5jv.jpg"
+  },
+  {
+    "title": "سنگ راف اصل گوهر سبز معدنی ابسیدین کد 8",
+    "group": "نامشخص",
+    "product": "سنگ راف",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف اصل گوهر سبز معدنی ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "ada36bac-d26b-420e-9c69-5f7fd1c7ed03",
+    "image_url": "https://image.torob.com/base/images/Nu/ni/Nuni1qJX36STzu5B.jpg"
+  },
+  {
+    "title": "نگین های قلبی ابسیدین",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "قلبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین های قلبی ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "9d2afa57-ba3b-45b3-8bdc-b7c6f42c3911",
+    "image_url": "https://image.torob.com/base/images/cN/-U/cN-U1ngQfGBKaLT7.jpg"
+  },
+  {
+    "title": "ابسیدین سبز اصل نمونه معدنی S1638",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نمونه معدنی"
+        ]
+      }
+    ],
+    "random_key": "e589b3b6-09c2-4459-ab3a-5f75dc923a93",
+    "image_url": "https://image.torob.com/base/images/St/-9/St-9v_OYDtMAdXmA.jpg"
+  },
+  {
+    "title": "مهره آبسیدین بلک سایز6 ابسیدین سیاه",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 6"
+        ]
+      }
+    ],
+    "random_key": "d34d34bb-597e-45f1-b1c7-b9d98d1bf661",
+    "image_url": "https://image.torob.com/base/images/wC/WF/wCWF0B9lofb6uvsr.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین کلر نمونه بینظیر و پاک و معدنی S924",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "بینظیر"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پاک"
+        ]
+      }
+    ],
+    "random_key": "a96b5d3d-a90f-487d-8b57-5e5ddaa089c5",
+    "image_url": "https://image.torob.com/base/images/kO/RR/kORR2DL0t5DTzp4X.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین لکه برفی معدنی و طبیعی (تراش قلب)",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "تراش قلب"
+        ]
+      }
+    ],
+    "random_key": "79c5d6c0-b7c1-4bd1-ad91-88127957062a",
+    "image_url": "https://image.torob.com/base/images/U0/aS/U0aSdLBw0r8ggK_d.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav82 معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهانگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "2f090d9e-f4c8-4775-ad76-f694dc300ff0",
+    "image_url": "https://image.torob.com/base/images/dY/K4/dYK4KpH-Vx95kBla.jpg"
+  },
+  {
+    "title": "بلک ابسیدین سرخ کلاس جهانی راف نمونه استثنایی و اصل و معدنی S1667",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نمونه"
+        ]
+      }
+    ],
+    "random_key": "a58656b4-8690-4403-b37a-f05b6ebb37b5",
+    "image_url": "https://image.torob.com/base/images/-o/co/-ocoifvq9tf3HBVF.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین سایز 3 میلیمتر تراش کد 14062",
+    "group": "نامشخص",
+    "product": "ریسه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "3 میلیمتر"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "b1aa1538-cf96-48f4-84f1-9b599668ba21",
+    "image_url": "https://image.torob.com/base/images/A3/N3/A3N3POqJbOUtVLq7.webp"
+  },
+  {
+    "title": "اُبسیدیَن سیاه و اصل با طرحی زیبا",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طرحی زیبا"
+        ]
+      }
+    ],
+    "random_key": "7ac68d84-c71c-4cbb-9889-6943ee835a89",
+    "image_url": "https://image.torob.com/base/images/aB/Pc/aBPcE_iVrU2lOTtI.jpg"
+  },
+  {
+    "title": "حبه های 30 تا 40 گرمی سنگ راف آبسیدین رگه دار",
+    "group": "نامشخص",
+    "product": "سنگ راف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "30 تا 40 گرمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رگه دار"
+        ]
+      }
+    ],
+    "random_key": "9dc6facb-49a8-41f7-957a-98c713e5965b",
+    "image_url": "https://image.torob.com/base/images/7r/yX/7ryXbSDeE_yjOyMn.jpg"
+  },
+  {
+    "title": "نگین آبسیدین نقرهای طبیعی و معدنی بادامی با تلالو",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بادامی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با تلالو"
+        ]
+      }
+    ],
+    "random_key": "61e5656f-6323-42ea-bd29-96e5a72a01dc",
+    "image_url": "https://image.torob.com/base/images/Kt/Z6/KtZ6GPeqm9hT1U7e.jpg"
+  },
+  {
+    "title": "سنگ راف آبسیدین",
+    "group": "نامشخص",
+    "product": "سنگ راف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      }
+    ],
+    "random_key": "f92d1671-21a7-4516-9bb8-108a407ab925",
+    "image_url": "https://image.torob.com/base/images/yg/qF/ygqFSdJCL2G3K_YS.jpg"
+  },
+  {
+    "title": "سنگ راف کلکسیونی آبسیدین به وزن 6 کیلوگرم",
+    "group": "نامشخص",
+    "product": "سنگ راف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6 کیلوگرم"
+        ]
+      }
+    ],
+    "random_key": "213b0abd-4338-4a9d-8f2c-dbd9ac7d872a",
+    "image_url": "https://image.torob.com/base/images/Sc/WO/ScWORM1j6-LhAsxS.jpg"
+  },
+  {
+    "title": "آبسیدین دونه برفی ابسیدین لکه برفی a36",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی",
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لکه برفی"
+        ]
+      }
+    ],
+    "random_key": "26dd7dd4-d092-4391-b405-1b660ad43dfb",
+    "image_url": "https://image.torob.com/base/images/Lp/da/LpdatB9lC2fBXt_P.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین لکه برفی معدنی و طبیعی (تراش قلب)",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "تراش قلب"
+        ]
+      }
+    ],
+    "random_key": "d8de7240-7558-46a0-a129-cef75a17c90e",
+    "image_url": "https://image.torob.com/base/images/Cg/Z2/CgZ2mgMbHjgL0qwx.jpg"
+  },
+  {
+    "title": "مهره آبسیدین بلک دفرمه ابسیدین سیاه",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "53ab97eb-a6a7-40e3-b528-bef8bbef8561",
+    "image_url": "https://image.torob.com/base/images/ea/44/ea44Kt7PDuj8DSmL.jpg"
+  },
+  {
+    "title": "منشور سنگ فلوریت رنگین‌کمانی",
+    "group": "نامشخص",
+    "product": "منشور سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "منشور سنگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگین کمانی"
+        ]
+      }
+    ],
+    "random_key": "6935dd02-adc8-4f7d-9285-7ca870f51f7d",
+    "image_url": "https://image.torob.com/base/images/Kz/Hg/KzHgpFuw60dB8YpE.jpg"
+  },
+  {
+    "title": "ابسیدین آبی بستر دار هیجان انگیز نمونه اصل و معدنی S1587",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "هیجان انگیز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین بستر دار"
+        ]
+      }
+    ],
+    "random_key": "468ccdd3-b4a5-49fc-9b99-13850d4e42d0",
+    "image_url": "https://image.torob.com/base/images/YC/fk/YCfkPWJDlEdJeBVk.jpg"
+  },
+  {
+    "title": "سرباره شیشه بدل ابسیدین",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرباره شیشه بدل ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "36340cab-9876-4286-9009-dfccda57bff1",
+    "image_url": "https://image.torob.com/base/images/UU/Dl/UUDleKp2BPMq7JA2.jpg"
+  },
+  {
+    "title": "مهره آبسیدین بلک سایز8 ابسیدین سیاه",
+    "group": "نامشخص",
+    "product": "مهره ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 8"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "a380c62c-e330-440d-a916-3be033c1e09d",
+    "image_url": "https://image.torob.com/base/images/wC/WF/wCWF0B9lofb6uvsr.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین سبز آتشفشانی زیبا روی بستر نمونه اصل و معدنی S1080",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "آتشفشانی",
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین روی بستر"
+        ]
+      }
+    ],
+    "random_key": "768a9e01-2150-4bb6-b6bb-872e8c7446aa",
+    "image_url": "https://image.torob.com/base/images/2_/ln/2_lnCvBJpDmSO22q.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین زیتونی نمونه حیرت انگیز و انحصاری S970",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زیتونی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "حیرت انگیز",
+          "انحصاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "f24ee4ad-3108-4fdb-b59f-6bfb13d7ea5c",
+    "image_url": "https://image.torob.com/base/images/Xv/75/Xv756mx4lpK-yjIN.jpg"
+  },
+  {
+    "title": "نگین ابسیدین طبیعی درجه یک ارتفاع دار ( 16 در 10 )",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "16 در 10"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارتفاع دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "47ee9674-3593-4191-8d0d-c068b4491c39",
+    "image_url": "https://image.torob.com/base/images/G0/4z/G04zxQNkllc_6Cbj.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی شفاف کلاس جهانی نمونه استثنایی و اصل و معدنی S1724",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلاس جهانی",
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "7120fbd4-b406-4e2a-9bf3-ab03f5fd5302",
+    "image_url": "https://image.torob.com/base/images/GF/aa/GFaa6rlqatlZQN3L.jpg"
+  },
+  {
+    "title": "ابسیدین بلک سرخ نمونه استثنایی و اصل و ویژه S1202",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی",
+          "ویژه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین بلک"
+        ]
+      }
+    ],
+    "random_key": "9ca01b12-5cc3-43bf-817a-7e4cf6b89952",
+    "image_url": "https://image.torob.com/base/images/Mu/-O/Mu-OBM8T9MP_FTcs.jpg"
+  },
+  {
+    "title": "آبسیدین - جنیفر ال آرمنترات",
+    "group": "نامشخص",
+    "product": "کتاب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتاب آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "931d95e4-bc26-4f89-aaf7-fe1253f722a8",
+    "image_url": "https://image.torob.com/base/images/gv/LG/gvLG-dw8LJMD-o21.jpg"
+  },
+  {
+    "title": "ابسیدین اصل شفاف کد05",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "bc198066-fb24-47ec-9d56-5199c6281ec2",
+    "image_url": "https://image.torob.com/base/images/oM/V-/oMV-06STaPyuklOx.jpg"
+  },
+  {
+    "title": "ابسیدین اسنوفلیک آبی زیبا نمونه استثنایی و اصل و معدنی S1361",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "اسنوفلیک"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "dda1b72a-9ec9-4a61-9913-12af13500af3",
+    "image_url": "https://image.torob.com/base/images/Or/pz/OrpzAKtt-UoKaBbt.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین گوهر اصل معدنی کد 1000",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین گوهر"
+        ]
+      }
+    ],
+    "random_key": "f8ca8815-a38e-4e2f-9ed1-a930d5eca433",
+    "image_url": "https://image.torob.com/base/images/zd/eK/zdeKrjkg1NpXcPtK.jpg"
+  },
+  {
+    "title": "نگین اشکی ابسیدین معدنی زیبا 250173",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "bbe578ba-ac5d-4698-b4b1-1e1bf882f5a2",
+    "image_url": "https://image.torob.com/base/images/CE/lB/CElBc8VAh2vE_v8K.webp"
+  },
+  {
+    "title": "سنگ ابسیدین شاین طلایی اصل 250172",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "شاین طلایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "ef13fed0-cf55-4fff-a120-dc200cb8238b",
+    "image_url": "https://image.torob.com/base/images/JR/Nk/JRNkn8cNScNibtRm.webp"
+  },
+  {
+    "title": "نگین خوشرنگ ابسیدین کدO24",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "9f48dea7-0761-42f5-bfb5-30c6353f6737",
+    "image_url": "https://image.torob.com/base/images/zg/uQ/zguQ8BpHiZGOAlLG.jpg"
+  },
+  {
+    "title": "پک 4 عددی ابسیدین سنگ اصل معدنی کد 2010",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "ce5a1161-2188-49a5-a928-15d925394b5f",
+    "image_url": "https://image.torob.com/base/images/Wu/fk/WufkBoOm2iXhPrtH.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین نقره ای بیضی 6.7 گرم",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6.7 گرم"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "2f1ee969-f055-480b-93dd-45a07347fde8",
+    "image_url": "https://image.torob.com/base/images/XW/b0/XWb0glq1dmexMtik.jpg"
+  },
+  {
+    "title": "ابسیدین گلدشین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلدشین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "5970640e-664d-46ba-9ceb-19f140874c66",
+    "image_url": "https://image.torob.com/base/images/dw/Am/dwAmbNl6rmayNR0m.webp"
+  },
+  {
+    "title": "مهره ابسیدین سبز اصل 15میلی گوی ابسیدین سبز اصل فروشگاه سنگ قیمتی کرج سلما گالری مهره ابسدین سبز طبیعی مهره سنگ دستبندی",
+    "group": "نامشخص",
+    "product": "مهره ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "15میلی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "گوی",
+          "مهره"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره ابسیدین",
+          "گوی ابسیدین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دستبندی"
+        ]
+      }
+    ],
+    "random_key": "5806aaac-6af4-4410-8d24-832ea34ccfa9",
+    "image_url": "https://image.torob.com/base/images/ko/7h/ko7hgndiJgrYIh-K.jpg"
+  },
+  {
+    "title": "ابسیدین کد 3018 نمونه خاص کلکسیونی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "f1585e08-b93d-443f-80c3-d93377a7f930",
+    "image_url": "https://image.torob.com/base/images/Fu/gw/FugwT7lQ0LeknHyg.jpg"
+  },
+  {
+    "title": "کریستال ابسیدین آبی درون بستر نمونه استثنایی و اصل و معدنی S1682",
+    "group": "نامشخص",
+    "product": "کریستال ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کریستال ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "54805137-be39-4de2-a96f-74f0cc3853d9",
+    "image_url": "https://image.torob.com/base/images/nR/-Y/nR-YhQ1pXGKnjZ8h.jpg"
+  },
+  {
+    "title": "آویز ابسیدین آبی اصل و معدنی نمونه انحصاری A471",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "انحصاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "b699c66b-7051-497c-96aa-fd059a60b129",
+    "image_url": "https://image.torob.com/base/images/rD/2x/rD2xi8pZARPDpDvO.jpg"
+  },
+  {
+    "title": "سنگ پینوت وود ابسیدین طبیعی ۲۳۴۳۰۲",
+    "group": "نامشخص",
+    "product": "سنگ پینوت وود ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ پینوت وود ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "6dce37cb-958d-45fb-a705-3b5b5b352ee4",
+    "image_url": "https://image.torob.com/base/images/LJ/Zu/LJZusFCJIdVeVfVT.jpg"
+  },
+  {
+    "title": "گردنبند منشور سنگ آبسیدین طبیعی بسیار زیبا",
+    "group": "نامشخص",
+    "product": "گردنبند",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "منشور"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند منشور سنگ آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "ab2f3de5-c956-466f-b55e-684335872a7a",
+    "image_url": "https://image.torob.com/base/images/lu/qM/luqMGXFcwaQtRGc3.jpg"
+  },
+  {
+    "title": "نگین قیمتی ابسیدین 240973",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین قیمتی ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "f0ba583f-d06f-44aa-a51e-2a0fea7bc6c7",
+    "image_url": "https://image.torob.com/base/images/sU/wv/sUwvLvr3KQJWZfPZ.webp"
+  },
+  {
+    "title": "سنگ راف مانا جم مدل گوی سنگ بلک ابسیدین",
+    "group": "نامشخص",
+    "product": "سنگ راف",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "گوی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "سنگ بلک ابسیدین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      }
+    ],
+    "random_key": "c340d11b-af39-4306-8288-6137fe648837",
+    "image_url": "https://image.torob.com/base/images/wW/IK/wWIKbNaUaAbP_jcg.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین سیاه نمونه با اصالت و ویژه S871",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "ویژه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "740f7bfd-0903-4761-824e-ba1168cad5ae",
+    "image_url": "https://image.torob.com/base/images/FM/b7/FMb7IS81ZufZhqFI.jpg"
+  },
+  {
+    "title": "ابسیدین گلدشین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلدشین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "b90a3552-4f46-4dc2-be39-6241f7f66eb2",
+    "image_url": "https://image.torob.com/base/images/S8/W0/S8W0WhzPdXvujs-o.webp"
+  },
+  {
+    "title": "آبسیدین سبز بزرگ و بسیار با کیفیت",
+    "group": "نامشخص",
+    "product": "آبسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "با کیفیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "0614aeb2-2184-4088-ab8d-00525a5802f3",
+    "image_url": "https://image.torob.com/base/images/Nk/Tk/NkTkNNsh0PAxiSna.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین دانه برفی سیاه طبیعی بیضی 5694",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "138d0b34-c709-4bb3-9b83-9be5d3c9b82d",
+    "image_url": "https://image.torob.com/base/images/ii/Of/iiOfXoJbvMTWaEzk.jpg"
+  },
+  {
+    "title": "نگین فست آبسیدین سبز شش‌ضلعی | سنگ چشم‌نواز و محافظ انرژی",
+    "group": "نامشخص",
+    "product": "نگین آبسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین",
+          "شش ضلعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محافظ انرژی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین فست آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "2f976c9a-25cc-4c1a-881e-12aefa0f1d03",
+    "image_url": "https://image.torob.com/base/images/dn/41/dn415zftnhIUIzsJ.jpg"
+  },
+  {
+    "title": "مهره آبسیدین دونه برفی سایز8 اصل ابسیدین طبیعی",
+    "group": "نامشخص",
+    "product": "مهره آبسیدین",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز8"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "bd6b1610-db53-42a1-86ed-635909847f8c",
+    "image_url": "https://image.torob.com/base/images/er/ds/erdsyc0U36PF_tyj.jpg"
+  },
+  {
+    "title": "تعدادسنگ ابسیدین احتمال دارد زیاد طبیعی با جباب",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "70941b42-2e3d-46ea-97d7-932f7d835a37",
+    "image_url": "https://image.torob.com/base/images/h4/wu/h4wuAMR2ABE_Ffw-.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی معدنی با پایه اختصاصی نمونه استثنایی و اصل S1466",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با پایه اختصاصی"
+        ]
+      }
+    ],
+    "random_key": "f467a009-7761-40da-999e-2ce16b24a6c8",
+    "image_url": "https://image.torob.com/base/images/P0/fH/P0fHvQNQqWX5_cpe.jpg"
+  },
+  {
+    "title": "سنگ راف اصل معدنی آبسیدین گوهر سبز بر بستر کد 9000",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "7f9f07d9-738b-4380-9a6a-b27e90672c8f",
+    "image_url": "https://image.torob.com/base/images/rb/x9/rbx93zxRABIJcinX.jpg"
+  },
+  {
+    "title": "نگین ابسیدین آبی شفاف تراش زمردی نگین شیشه ی طبیعی تراش فست تراش زمردی پروانه ای",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "تراش زمردی",
+          "تراش فست",
+          "پروانه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیشه ی طبیعی"
+        ]
+      }
+    ],
+    "random_key": "ec9e897b-c1a8-4dd6-9411-304791eaeed5",
+    "image_url": "https://image.torob.com/base/images/fA/JG/fAJG2NSpCaJ7UQ5Q.jpg"
+  },
+  {
+    "title": "نگین ابسیدین دانه برفی جفت 8428",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه برفی"
+        ]
+      }
+    ],
+    "random_key": "8857eb81-bd9c-470f-a4d7-5b2ec77ae5e7",
+    "image_url": "https://image.torob.com/base/images/ZK/2s/ZK2sK-dB0WTZq9yu.jpeg"
+  },
+  {
+    "title": "سنگ راف آبسیدین مشکی 125 گرم",
+    "group": "نامشخص",
+    "product": "سنگ راف آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "125 گرم"
+        ]
+      }
+    ],
+    "random_key": "056bda83-723e-49d3-b458-d1893b10aa21",
+    "image_url": "https://image.torob.com/base/images/jl/gW/jlgWilBS1rMHteIj.jpg"
+  },
+  {
+    "title": "سنگ پینت وود ابسیدین یا ابسیدین بادام زمینی معدنی تراش قلب (کمیاب)",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "پینت وود",
+          "بادام زمینی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "0ce51983-56b3-4f5e-b927-738d43993f4e",
+    "image_url": "https://image.torob.com/base/images/Fo/jp/FojpYLM81Tw2k5MG.jpg"
+  },
+  {
+    "title": "مهره سنگ ابسیدین لکه برفی طبیعی سایز8 آبسیدین",
+    "group": "نامشخص",
+    "product": "مهره سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 8"
+        ]
+      }
+    ],
+    "random_key": "836e38df-95d2-4cfb-9be5-6a12d909e0be",
+    "image_url": "https://image.torob.com/base/images/Zw/ym/Zwym8DNQ1TNVCFdl.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین نقره ای اشکی 3.4 گرم",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "3.4 گرم"
+        ]
+      }
+    ],
+    "random_key": "b0d59a89-4733-4748-b8ca-904cbbe1c072",
+    "image_url": "https://image.torob.com/base/images/Gq/O6/GqO6b3c8TRdbimKE.jpg"
+  },
+  {
+    "title": "نگین ابسیدین اصل نقره ای مشکی 250184",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای",
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "2cd2e59c-d3b9-4244-abd3-40a148204972",
+    "image_url": "https://image.torob.com/base/images/ok/Hf/okHfhBU_r0QXuDFH.webp"
+  },
+  {
+    "title": "سنگ راف ابسیدین آبی اصل و معدنی از منطقه بینگول S1195",
+    "group": "نامشخص",
+    "product": "سنگ راف ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "1809613a-72d6-4ab5-9d78-ab18ff47419f",
+    "image_url": "https://image.torob.com/base/images/3m/Up/3mUpkzRI8pAbLAVl.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی راف نمونه استثنایی و اصل و معدنی S1660",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "fb52991d-2c62-4751-913d-f8bb45bd1cce",
+    "image_url": "https://image.torob.com/base/images/EW/64/EW64sRoHzcwcdASo.jpg"
+  },
+  {
+    "title": "نگین سنگ آبسیدین برفی طبیعی و معدنی 2",
+    "group": "نامشخص",
+    "product": "نگین سنگ آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "0f2af132-3754-43ef-a2ac-15e41135bb0f",
+    "image_url": "https://image.torob.com/base/images/JG/VW/JGVWBZtSr4iC9a1Y.jpg"
+  },
+  {
+    "title": "سنگ راف ابسیدین آبسیدین سبز خاص و کمیاب با قابلیت ساخت چندین نگین",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "خاص",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با قابلیت ساخت چندین نگین"
+        ]
+      }
+    ],
+    "random_key": "7edf0169-be7f-492a-b55b-f93f0cf4cfa0",
+    "image_url": "https://image.torob.com/base/images/w8/A1/w8A11SjkjQgQD2A9.jpg"
+  },
+  {
+    "title": "نگین آبسیدین آبسدین ابسیدین ابسدین لکه برفی تراش بیضی بسیار خاص و زیبا",
+    "group": "نامشخص",
+    "product": "نگین آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "بسیار خاص",
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "2ff6027a-a1b4-43b9-83b4-d7b9fb0f6f1b",
+    "image_url": "https://image.torob.com/base/images/mv/Ba/mvBaFthpLlujlLqr.jpg"
+  },
+  {
+    "title": "گوی ابسیدین سبز",
+    "group": "نامشخص",
+    "product": "گوی ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "e1f8b980-14ea-4d0a-ac89-6d8efeee509a",
+    "image_url": "https://image.torob.com/base/images/5x/YX/5xYXg1Xa6W46yTm9.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین اتشفشانی خوشرنگ کمیاب",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اتشفشانی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "b1689149-fecd-473d-8e3b-4003a3049092",
+    "image_url": "https://image.torob.com/base/images/WJ/Up/WJUpw_Qa7Wdj42Em.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین زیبا لاجوردی",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "لاجوردی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "73f0ba22-31c0-41ae-880c-e056c4c553fa",
+    "image_url": "https://image.torob.com/base/images/VY/JZ/VYJZardis1LTjFRT.jpg"
+  },
+  {
+    "title": "سنگ ماهاگونی ابسیدین طبیعی بیضی 7596",
+    "group": "نامشخص",
+    "product": "سنگ ماهاگونی ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ماهاگونی ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "48114db7-d88f-4e8b-b743-b3b5441955ef",
+    "image_url": "https://image.torob.com/base/images/lm/bY/lmbYk6TVv97g4tI3.jpg"
+  },
+  {
+    "title": "سیلور شاین ابسیدین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "سیلور شاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "30b7fa77-e646-41f3-82bb-800b53537022",
+    "image_url": "https://image.torob.com/base/images/p5/h6/p5h6NueawR2ZARIh.webp"
+  },
+  {
+    "title": "ابسیدین کلاس جهانی آبی بستر دار با پایه نمونه استثنایی و اصل و معدنی S1745",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلاس جهانی",
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بستر دار",
+          "با پایه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نمونه ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "61940d0a-c3d2-4575-9e96-71e434599861",
+    "image_url": "https://image.torob.com/base/images/l2/-8/l2-8SwQL95nSSvWI.jpg"
+  },
+  {
+    "title": "نگین ابسیدین طبیعی درجه یک (21 در 12 )",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "21 در 12"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "3c6e34bc-2ee6-400e-9d57-d46182f583e8",
+    "image_url": "https://image.torob.com/base/images/_G/ay/_GaykJYeV4nXVXM3.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین طبیعی سیلور شاین 250183",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "سیلور شاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "f3031ea5-acb7-4c4f-bdea-93c78a27c817",
+    "image_url": "https://image.torob.com/base/images/Nf/8v/Nf8vO80dUP02vcSf.webp"
+  },
+  {
+    "title": "ابسیدین شفاف سبز بر روی بستر نمونه استثنایی معدنی S1476",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بر روی بستر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نمونه ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "6c9d3018-47cc-4fc2-8059-30b00832cb65",
+    "image_url": "https://image.torob.com/base/images/NN/Xa/NNXaObVv9QD0oFJb.jpg"
+  },
+  {
+    "title": "ابسیدین گلدشین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلدشین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "9efdc987-bd5f-48b9-a9bc-ce3985bd57c1",
+    "image_url": "https://image.torob.com/base/images/BX/qa/BXqaUAG9r3nYmbV-.webp"
+  },
+  {
+    "title": "آبسیدین آبسدین ابسیدین ابسدین سنگ خام بسیار خوش رنگ کد 25441",
+    "group": "نامشخص",
+    "product": "سنگ خام ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "سنگ خام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ خام آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "d713eee5-d3e4-4e1f-8b46-7141fb32f633",
+    "image_url": "https://image.torob.com/base/images/rk/Yc/rkYcAHcw9mG97aOT.jpg"
+  },
+  {
+    "title": "نگین معدنی ابسیدین مشکی طلایی 250177",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین ابسیدین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "طلایی"
+        ]
+      }
+    ],
+    "random_key": "1855af0d-d4d5-4a74-960e-5684df81f257",
+    "image_url": "https://image.torob.com/base/images/WJ/WL/WJWLdpuPWFkuMH2-.webp"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین طرح گل 20 میل",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "ریسه",
+          "طرح گل"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "20 میل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "d7886f3e-3677-4569-a8c5-e4ec31099fb7",
+    "image_url": "https://image.torob.com/base/images/qw/Lv/qwLvI4pu7jDJfw4C.webp"
+  },
+  {
+    "title": "ابسیدین ماهاگونی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین ماهاگونی"
+        ]
+      }
+    ],
+    "random_key": "b13c929b-fa62-4b31-99d6-436389624133",
+    "image_url": "https://image.torob.com/base/images/5k/Xu/5kXukam8d02PjWsi.jpg"
+  },
+  {
+    "title": "ابسیدین آبی خارق العاده و شفاف نمونه اصل و معدنی S1589",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "خارق العاده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نمونه ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "8a604a53-e115-4be6-8b64-1310726d8d85",
+    "image_url": "https://image.torob.com/base/images/Il/ZY/IlZYiYFjdu1Oc_uB.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین سیلور سایز 6 کد9484",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "ریسه"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "سیلور"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 6"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "f37e3dce-291b-47fb-94dd-8dfe5941bd95",
+    "image_url": "https://image.torob.com/base/images/vO/cV/vOcVQegDBl8RYBB7.webp"
+  },
+  {
+    "title": "نگین پینوت وود ابسیدین طبیعی اشکی ۲۳۴۲۸۹",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "44a1bd23-c841-408c-8b9d-68b0e3b21d73",
+    "image_url": "https://image.torob.com/base/images/3n/fg/3nfgcxm1gsp9PDyj.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین کلکسیونی زیبا(آبی آکومارین)",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "آکومارین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "ee2f1756-9020-4cd3-9904-5de53d7355a7",
+    "image_url": "https://image.torob.com/base/images/oX/1N/oX1Nq_ZJu24S89rP.jpg"
+  },
+  {
+    "title": "مهره آبسیدین لکه برفی سوراخ دار سایز8 سنگ اصل طبیعی درجه یک",
+    "group": "نامشخص",
+    "product": "مهره ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "12683caa-5883-45fd-a25f-2e8b01a07ddf",
+    "image_url": "https://image.torob.com/base/images/0x/W_/0xW_qiARB8CroPs5.jpg"
+  },
+  {
+    "title": "ابسیدین سبز گوهر اصلی کد 2",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "اصلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوهر ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "4692bf90-b259-43eb-9724-85c798ee291b",
+    "image_url": "https://image.torob.com/base/images/3r/55/3r55byFUEU7Crae1.jpg"
+  },
+  {
+    "title": "پک 4 عددی آبسیدین اصل معدنی کد 8000",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "3121ba8f-2ca7-4021-b40b-1ad87bfa4054",
+    "image_url": "https://image.torob.com/base/images/IG/dz/IGdzzJ2Lukky8YAu.jpg"
+  },
+  {
+    "title": "مهره آبسیدین زرد اصل 12میلی گوی ابسیدین مشکی اصل مهره ابسیدین ابی سلما گالری مهره ابسدین بزرگ طبیعی مهره سنگ دستبندی",
+    "group": "نامشخص",
+    "product": "مهره ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد",
+          "مشکی",
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره آبسیدین",
+          "گوی ابسیدین",
+          "مهره ابسیدین",
+          "مهره سنگ دستبندی"
+        ]
+      }
+    ],
+    "random_key": "e2b8a7dc-93a1-4fa3-b824-3ff5460f56e8",
+    "image_url": "https://image.torob.com/base/images/gV/3H/gV3HKzPg6GtLZLzO.jpg"
+  },
+  {
+    "title": "نگین ابسیدین دونه برفی 5699",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "22505038-ef96-46aa-b3a1-b0eda96afe55",
+    "image_url": "https://image.torob.com/base/images/4F/M5/4FM5Lcn1KxJtbM3p.jpg"
+  },
+  {
+    "title": "رشته ابسیدین ماهاگونی",
+    "group": "نامشخص",
+    "product": "رشته ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رشته ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "b3e60607-516c-4d83-a566-cd572f3b112a",
+    "image_url": "https://image.torob.com/base/images/Y4/BW/Y4BW2Ers3dqx5QNK.jpg"
+  },
+  {
+    "title": "ابسیدین مکزیکی معدنی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "مکزیکی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "31549c60-0b06-47a6-b86d-1774ec3374d3",
+    "image_url": "https://image.torob.com/base/images/eN/wD/eNwDv6ABQAehki_0.jpg"
+  },
+  {
+    "title": "مهره سنگ آبسیدین سیاه سایز 10 تراش استار سوراخ دار سنگ اصل طبیعی",
+    "group": "نامشخص",
+    "product": "مهره سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "تراش استار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگ آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "c257189b-669c-479f-99e5-e28079efe57f",
+    "image_url": "https://image.torob.com/base/images/R4/DA/R4DAhitEem2pwC-q.jpg"
+  },
+  {
+    "title": "آبسیدین سبز",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "7621fb38-1d3f-4746-84b0-f68cc06ef4f2",
+    "image_url": "https://image.torob.com/base/images/9o/tH/9otHoO4Mqfy9NcHF.jpg"
+  },
+  {
+    "title": "ابسیدین ابسدین ماهاگونی مهره سنگ ابسیدین ماهاگونی تامبلر درشت",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تامبلر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "ef09c873-ff33-4f08-b197-95b5e7845b7c",
+    "image_url": "https://image.torob.com/base/images/RN/nE/RNnEb47fFVjhuNOI.jpg"
+  },
+  {
+    "title": "پینت وود ابسیدین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [],
+    "random_key": "ffe9dc2c-3c9d-48df-8f40-be258e27da2c",
+    "image_url": "https://image.torob.com/base/images/Ex/b6/Exb6eV-bsOGo_vV4.jpg"
+  },
+  {
+    "title": "ابسیدین سبز زمردی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز زمردی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "8646f3fe-bd6e-477f-84d6-85241395a85e",
+    "image_url": "https://image.torob.com/base/images/4V/_K/4V_KGJ1xR56QzGA0.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین اصل کبالت نمونه ویژه و معدنی S1304",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "ویژه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کبالت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "24492e05-8d59-41b2-a0fd-91317db73bba",
+    "image_url": "https://image.torob.com/base/images/Lf/zr/LfzrlAeve6-VN1j3.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین اصلی مشکی طلایی 250167",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "طلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "39256cbb-6b3a-471d-bdfa-b24264516bd1",
+    "image_url": "https://image.torob.com/base/images/c_/Op/c_OpMbZ2nVP_OuRb.webp"
+  },
+  {
+    "title": "ابسیدین ماهاگونی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "1a9a188f-62af-4e07-943c-15a0ebfc6035",
+    "image_url": "https://image.torob.com/base/images/zS/fu/zSfuTSXpEnTS7aSh.jpg"
+  },
+  {
+    "title": "نگین ماهاگونی ابسیدین طبیعی بیضی 7599",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      }
+    ],
+    "random_key": "cc0fe41d-e53b-4e8a-ac57-9173f5548c95",
+    "image_url": "https://image.torob.com/base/images/Tm/mA/TmmA_knIm7krGfCR.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین گوهر اصل معدنی چند رنگ لایه ای",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لایه ای"
+        ]
+      }
+    ],
+    "random_key": "8081deab-53a7-4ee1-bc86-1f6c12848c7e",
+    "image_url": "https://image.torob.com/base/images/HW/Hd/HWHdMReGE0q7XwSi.jpg"
+  },
+  {
+    "title": "سنگ قیمتی و خاص ابسیدین سبز A71",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "خاص"
+        ]
+      }
+    ],
+    "random_key": "e92db102-d96e-43be-9812-e749a2cbb446",
+    "image_url": "https://image.torob.com/base/images/6c/1O/6c1OxWgACXXn3VrT.jpg"
+  },
+  {
+    "title": "سنگ راف آبسیدین گوهر اصلی رنگ شفاف کمیاب کد 12009",
+    "group": "نامشخص",
+    "product": "سنگ راف ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصلی"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "20151fef-e2ce-47e3-b2ea-0c861421ad46",
+    "image_url": "https://image.torob.com/base/images/d7/uW/d7uWW1KVBVFTOBJA.jpg"
+  },
+  {
+    "title": "آبسیدین دونه برفی طبیعی ابسیدین معروف به لکه آتشفشان لکه برفی a15",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی",
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی",
+          "آتشفشان"
+        ]
+      }
+    ],
+    "random_key": "d2bbde6e-5b6f-447b-b102-992ac191b846",
+    "image_url": "https://image.torob.com/base/images/1v/w7/1vw70r0KTcWtSrvX.jpg"
+  },
+  {
+    "title": "ابسیدین نامنظم",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نامنظم"
+        ]
+      }
+    ],
+    "random_key": "e8128a60-a003-4eed-861d-56a8b141fa5c",
+    "image_url": "https://image.torob.com/base/images/O_/61/O_61z_FE6uo_mOe4.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین طرح ونکلیف کوچک",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      }
+    ],
+    "random_key": "a902db55-de1b-4ee6-9e46-2a8c470e2afb",
+    "image_url": "https://image.torob.com/base/images/sq/34/sq34FP92cZDyHXST.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین کهکشانی S193",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "کهکشانی"
+        ]
+      }
+    ],
+    "random_key": "9887be40-a688-4fb9-a358-1a44a356ad07",
+    "image_url": "https://image.torob.com/base/images/x8/zR/x8zR8d3hE-EgksSS.jpg"
+  },
+  {
+    "title": "ابسیدین رنگین کمان",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "رنگین کمان"
+        ]
+      }
+    ],
+    "random_key": "cf49b39d-8406-48d7-b52b-562739d709e6",
+    "image_url": "https://image.torob.com/base/images/jW/et/jWety7axMsIgmbRh.jpg"
+  },
+  {
+    "title": "سنگ بلک ابسیدین خالص و معدنی S477",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "خالص",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "5295072e-b789-4c71-a8b6-a684080d4f0d",
+    "image_url": "https://image.torob.com/base/images/LL/5Q/LL5QPp3pSkHoA890.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین اصل دایره ای 250169",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "دایره ای"
+        ]
+      }
+    ],
+    "random_key": "18dfc477-e40c-4f96-ada7-1898fe186587",
+    "image_url": "https://image.torob.com/base/images/Pz/j7/Pzj7GPK4TCbLto86.webp"
+  },
+  {
+    "title": "سنگ ابسیدین کلکسیونی زیبا(آبی آکومارین)",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی آکومارین"
+        ]
+      }
+    ],
+    "random_key": "a27931ad-7e9a-48b7-996b-0605d42e574a",
+    "image_url": "https://image.torob.com/base/images/oX/1N/oX1Nq_ZJu24S89rP.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی 2600گرم (پس کرایه)",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "2600 گرم"
+        ]
+      }
+    ],
+    "random_key": "6c2c2376-34a5-4b97-9f82-99cd4a79f1c4",
+    "image_url": "https://image.torob.com/base/images/Hp/rd/HprdW5rz1J576Zmr.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav44 معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهاگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شكل/نوع تراش",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "c7e19a3f-37a7-4a0e-afdf-f3dcde2e3e28",
+    "image_url": "https://image.torob.com/base/images/3v/5F/3v5F6CsKPZCzvTUC.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین گوهر اصل معدنی کد 65 7",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "0e56f074-b6d0-4567-bc58-95973e246c22",
+    "image_url": "https://image.torob.com/base/images/N1/K9/N1K9RfUFyRYeCCYz.jpg"
+  },
+  {
+    "title": "ابسیدین اسنوفلیک",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "اسنوفلیک"
+        ]
+      }
+    ],
+    "random_key": "6c3e1d67-7b33-4db0-b3b1-562bce809b8c",
+    "image_url": "https://image.torob.com/base/images/EZ/3Y/EZ3YsttnSrWJNagd.jpg"
+  },
+  {
+    "title": "ریسه سنگ آبسیدین اقلیمه کد B211",
+    "group": "نامشخص",
+    "product": "ریسه سنگ آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      }
+    ],
+    "random_key": "a4ce3b4d-66f8-473e-a729-e2e1170dee85",
+    "image_url": "https://image.torob.com/base/images/36/WR/36WRrXDiRWI14-lO.jpg"
+  },
+  {
+    "title": "ابسیدین با درخشش نقره ای 7.7 گرم",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "7.7 گرم"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "نقره ای"
+        ]
+      }
+    ],
+    "random_key": "c8410827-e11f-4d1d-a66b-9c0724aa7f7c",
+    "image_url": "https://image.torob.com/base/images/73/pU/73pUFhHyngpqW5yD.jpg"
+  },
+  {
+    "title": "ابسیدین شفاف ک 07",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      }
+    ],
+    "random_key": "471d7a01-c585-4920-af1d-5aa49199b642",
+    "image_url": "https://image.torob.com/base/images/E-/ii/E-iiV6hMTdIqxJDz.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین سبز نمونه زیبا و استثنایی و معدنی روی بستر S930",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "bbb149fd-2401-42a6-948b-12408151a353",
+    "image_url": "https://image.torob.com/base/images/ns/dm/nsdm9cVjnood72hh.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین گلد سایز 6",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلد"
+        ]
+      }
+    ],
+    "random_key": "14bd037c-53b6-4357-ba78-208000c79e7f",
+    "image_url": "https://image.torob.com/base/images/6I/Ro/6IRogMAWGZxKMalU.webp"
+  },
+  {
+    "title": "سنگ راف جاسپرمشکی آبسیدین",
+    "group": "نامشخص",
+    "product": "سنگ راف جاسپر آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "f6ef5b20-50c1-456c-88f9-fa8a423aa74b",
+    "image_url": "https://image.torob.com/base/images/I5/uk/I5uk5AlvdY0UElbF.jpg"
+  },
+  {
+    "title": "کریستال ابسیدین سبز آتشفشانی نمونه اصل و معدنی S1633",
+    "group": "نامشخص",
+    "product": "کریستال ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی",
+          "آتشفشانی"
+        ]
+      }
+    ],
+    "random_key": "395c1033-637b-4119-908b-6a11e765d48a",
+    "image_url": "https://image.torob.com/base/images/3K/Od/3KOdbgUZ5ScEWAcC.jpg"
+  },
+  {
+    "title": "ابسیدین اسنوفلیک",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "اسنوفلیک"
+        ]
+      }
+    ],
+    "random_key": "4ea7ce6b-1b4d-475c-94b9-f038386413ae",
+    "image_url": "https://image.torob.com/base/images/Cc/eH/CceHasUuVVcMozTW"
+  },
+  {
+    "title": "ابسیدین دونه برفی کاملا معدنی و با کیفیت عالی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "عالی"
+        ]
+      }
+    ],
+    "random_key": "1b5534e4-100e-4799-8539-6dcc163eccea",
+    "image_url": "https://image.torob.com/base/images/rY/lL/rYlLB9JljHwPDQy-.jpg"
+  },
+  {
+    "title": "شیشه سنگ آبسیدین",
+    "group": "نامشخص",
+    "product": "شیشه سنگ آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شیشه سنگ"
+        ]
+      }
+    ],
+    "random_key": "597b6f89-800f-4744-b3c8-ea254a4fe938",
+    "image_url": "https://image.torob.com/base/images/k3/OP/k3OPwN9tALrNi1M_.jpg"
+  },
+  {
+    "title": "سنگ راف ابسیدین نمونه انحصاری و اصل و معدنی S1562",
+    "group": "نامشخص",
+    "product": "سنگ راف ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "انحصاری"
+        ]
+      }
+    ],
+    "random_key": "4641962d-8c79-4b60-bf7f-efbbc9a297f6",
+    "image_url": "https://image.torob.com/base/images/Db/D3/DbD3KjNtLOkY0MF4.jpg"
+  },
+  {
+    "title": "سنگ آبسیدین کاملا طبیعی و بسیار کلکسونی و خاص",
+    "group": "نامشخص",
+    "product": "سنگ آبسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسونی",
+          "خاص"
+        ]
+      }
+    ],
+    "random_key": "61070b51-0c5b-46b7-9cf4-8e500e4e466c",
+    "image_url": "https://image.torob.com/base/images/jz/KA/jzKARQwcNManA378.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین گوهر اصل معدنی سبز کد 3010",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین گوهر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "afd42c8d-be25-4334-8fdf-994fc1375670",
+    "image_url": "https://image.torob.com/base/images/sG/N6/sGN6L-tkbgcrUkuy.jpg"
+  },
+  {
+    "title": "آبسیدین لکه برفی نگین آبسیدین لکه برفی نگین ریز آبسدین لکه برفی ارسال بصورت رندوم قیمت برای یک عدد نگین کد 26631",
+    "group": "نامشخص",
+    "product": "نگین آبسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "17cbdd62-2bba-4322-b0ec-19af8d68ba44",
+    "image_url": "https://image.torob.com/base/images/kz/bd/kzbdfdZ4vp2f3CvW.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی کلکسیونی نمونه استثنایی و اصل و معدنی S1646",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی",
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "61ce0acc-87f1-4ae5-85f9-5105a25d8807",
+    "image_url": "https://image.torob.com/base/images/lS/f0/lSf0I0nxdTsMLOJM.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav62 معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز آبسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماه گونی/ماهاگونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "a7b7bf2a-8981-48fa-9094-d30268b9b3fc",
+    "image_url": "https://image.torob.com/base/images/wb/f5/wbf5kBEXyupyHX_1.jpg"
+  },
+  {
+    "title": "سنگ راف اصل معدنی گوهر سبز ابسیدین کد 200",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "13b30f58-7f08-40f1-8059-3278dcf61025",
+    "image_url": "https://image.torob.com/base/images/fw/MA/fwMAjYjo-kJ0vnxa.jpg"
+  },
+  {
+    "title": "سنگ آبسیدین اصل معدنی سیاه کد 50",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      }
+    ],
+    "random_key": "6e3adc81-3604-4de3-8403-6d36501194bd",
+    "image_url": "https://image.torob.com/base/images/zv/pS/zvpSffQcSRuCKwBt.jpg"
+  },
+  {
+    "title": "گوی سنگ آبسیدین کد 10",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "گوی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی سنگ"
+        ]
+      }
+    ],
+    "random_key": "a6811cbb-4b60-4dd1-b26f-65a83cec2da9",
+    "image_url": "https://image.torob.com/base/images/wV/xD/wVxD0unrPDnSlnM0.jpg"
+  },
+  {
+    "title": "آبسیدین دونه برفی طبیعی ابسیدین معروف به لکه آتشفشان لکه برفی a24",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی",
+          "لکه آتشفشان",
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "9ba5b895-6685-49c7-ad2e-93757fce655f",
+    "image_url": "https://image.torob.com/base/images/7J/i3/7Ji35HCrS6Vm2ZMq.jpg"
+  },
+  {
+    "title": "گوهر راف آبسیدین سنگ معدنی",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوهر راف"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "4dc343d1-7b05-42e6-9202-7b3ab91d1ed4",
+    "image_url": "https://image.torob.com/base/images/mu/fa/mufaAxAcpjmPzNuV.jpg"
+  },
+  {
+    "title": "گردن آویز سنگ طبیعی ابسیدین با رفلکس نقره ای",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردن آویز"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "رفلکس نقره ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      }
+    ],
+    "random_key": "f536594c-f02d-4a1f-bec2-5b23711e7fd7",
+    "image_url": "https://image.torob.com/base/images/-R/Wr/-RWr9VUtyS_zg8di.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین اتشفشانی خوشرنگ کمیاب",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "اتشفشانی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "3154e961-2a1f-48db-a658-6eb212b0deff",
+    "image_url": "https://image.torob.com/base/images/WJ/Up/WJUpw_Qa7Wdj42Em.jpg"
+  },
+  {
+    "title": "نگین ابسیدین معدنی طلایی اشکی 250171",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "شكل/نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      }
+    ],
+    "random_key": "a7df531a-9313-4836-829d-648abef1775a",
+    "image_url": "https://image.torob.com/base/images/u9/8D/u98D9enitQJJbe60.webp"
+  },
+  {
+    "title": "ابسیدین 6.3 گرم",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "6.3 گرم"
+        ]
+      }
+    ],
+    "random_key": "25be1ccb-b176-4585-b3aa-e5ded5698387",
+    "image_url": "https://image.torob.com/base/images/nC/DH/nCDH9FIOMbUK4AkQ.jpg"
+  },
+  {
+    "title": "ابسیدین رنگین کمان",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگین کمان"
+        ]
+      }
+    ],
+    "random_key": "0331831b-b78b-4146-94cb-e9726f1dae0b",
+    "image_url": "https://image.torob.com/base/images/rL/WL/rLWLXwTlfEKw0S6i.jpg"
+  },
+  {
+    "title": "مهره کوچکی ابسیدین شیشه ایی",
+    "group": "نامشخص",
+    "product": "مهره ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شیشه ایی"
+        ]
+      }
+    ],
+    "random_key": "6927a10a-237c-4abb-bb14-671e04852fbe",
+    "image_url": "https://image.torob.com/base/images/F0/TP/F0TPW3WBLlnbgLky.jpg"
+  },
+  {
+    "title": "ابسیدین معدنی مشکی رنگ کد187 وزن 331 گرم",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "331 گرم"
+        ]
+      }
+    ],
+    "random_key": "6c4bd27b-f7e8-4420-8185-3cea06190171",
+    "image_url": "https://image.torob.com/base/images/fA/EH/fAEHSDURpZATAxJs.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین دونه برفی معدنی بیضی ۲۳۵۲۸۳",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "شكل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      }
+    ],
+    "random_key": "76d8f60d-fab6-4ea3-9bbb-f1a7f6d8b893",
+    "image_url": "https://image.torob.com/base/images/kX/rb/kXrbYWQuPKrzkvGf.jpg"
+  },
+  {
+    "title": "ابسیدین کلکسیونی زیبا و کمیاب وسه پوست",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی",
+          "زیبا",
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "de3b5e8d-caff-4ff0-861f-53f7924b9759",
+    "image_url": "https://image.torob.com/base/images/6D/2k/6D2koGOZ_ZCL29HT.jpg"
+  },
+  {
+    "title": "نگین سنگ ابسیدین لکه برفی (اسنو فلیک) معدنی",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی",
+          "اسنو فلیک"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "b9235afa-b6c9-41ac-b796-08fc57ad1bb5",
+    "image_url": "https://image.torob.com/base/images/kn/tC/kntCzTU58q9FjvGE.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین نقره ای بیضی 12.6 گرم",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "شكل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "12.6 گرم"
+        ]
+      }
+    ],
+    "random_key": "c8170498-89fc-4c69-9e5e-3ec71c71f8f4",
+    "image_url": "https://image.torob.com/base/images/UW/QJ/UWQJTT89DKkUeo1t.jpg"
+  },
+  {
+    "title": "حبه های سنگ طبیعی آبسیدین",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "حبه"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "حبه سنگ طبیعی"
+        ]
+      }
+    ],
+    "random_key": "c9273a87-a1ee-49e9-8cee-d9ca5613f341",
+    "image_url": "https://image.torob.com/base/images/aO/kl/aOklel3floBiGFM0.jpg"
+  },
+  {
+    "title": "گردنبند سنگ ابسیدین",
+    "group": "نامشخص",
+    "product": "گردنبند سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند سنگ"
+        ]
+      }
+    ],
+    "random_key": "3866b5e5-a711-42da-8df4-25c965c16bcc",
+    "image_url": "https://image.torob.com/base/images/jg/0a/jg0azLlgfZEN-QpM.jpg"
+  },
+  {
+    "title": "ابسیدین مکزیکی",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "مکزیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "7ec6b988-5c00-4f4c-aba8-568276288398",
+    "image_url": "https://image.torob.com/base/images/o3/Wu/o3WuxyZlWmMEKEEh.webp"
+  },
+  {
+    "title": "سیلور شاین ابسیدین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "سیلور شاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "1b87e65a-036d-4347-af89-2e0aa7ab22f4",
+    "image_url": "https://image.torob.com/base/images/DJ/cZ/DJcZkoaXHfuBvDKH.webp"
+  },
+  {
+    "title": "نگین معدنی ابسیدین مشکی نقره ای 250188",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "3068ef14-27b9-4d97-ae40-b4ef8bf801ed",
+    "image_url": "https://image.torob.com/base/images/ZO/Eo/ZOEolfeL0Gvfb-sk.webp"
+  },
+  {
+    "title": "سنگ راف آبسیدین سبز زمردی کد40",
+    "group": "نامشخص",
+    "product": "سنگ راف ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز زمردی"
+        ]
+      }
+    ],
+    "random_key": "6a548727-93fe-4663-8588-c814a0902525",
+    "image_url": "https://image.torob.com/base/images/CT/fJ/CTfJrVvKJdKTsin6.jpg"
+  },
+  {
+    "title": "آبسیدین آبسدین ابسیدین ابسدین سنگ خام بسیار خوش رنگ کد 25454",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "خام"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خوش رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ خام"
+        ]
+      }
+    ],
+    "random_key": "e61efbcc-c217-4831-8da7-7c0035a4871a",
+    "image_url": "https://image.torob.com/base/images/C-/du/C-dujfy9IpH5qpYP.jpg"
+  },
+  {
+    "title": "سنگ راف بلک ابسیدین کلکسیونی نمونه استثنایی و اصل و معدنی S1480",
+    "group": "نامشخص",
+    "product": "سنگ راف ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بلک"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "کلکسیونی",
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "03ad9f96-0492-4d9e-b78b-a119a6599f85",
+    "image_url": "https://image.torob.com/base/images/ZG/fU/ZGfUVp587Ahom6vk.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین لکه برفی معدنی و طبیعی (تراش قلب)",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "تراش قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "6153abe6-55d3-44b8-96c4-282be5c5fea7",
+    "image_url": "https://image.torob.com/base/images/YW/jF/YWjF4Fv1wyS00f1R.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav138 معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهانگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "دفرمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "be24b2d1-4754-464e-a4d9-fbcc32f7b439",
+    "image_url": "https://image.torob.com/base/images/q_/ML/q_MLeTSgJr4pOped.jpg"
+  },
+  {
+    "title": "ابسیدین کد 17 _ابعاد6×6سانت وزن 266گرم",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "6×6 سانت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "266 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "28d27b4f-f8c3-4a3e-b189-4f48acdbf832",
+    "image_url": "https://image.torob.com/base/images/IO/xj/IOxjZvmKBexWObvc.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی شفاف نمونه استثنایی و اصل و معدنی S1399",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "شفاف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "62bbf80b-f337-4dd1-a490-77b9fd0345e0",
+    "image_url": "https://image.torob.com/base/images/QB/vE/QBvErFpjjkFAN9eV.jpg"
+  },
+  {
+    "title": "نگین فوق العاده زیبا و جذاب آبسیدین مشکی درجه یک",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "فوق العاده زیبا",
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "335dbc11-a559-436c-b92e-70a7236632ef",
+    "image_url": "https://image.torob.com/base/images/dU/4u/dU4ugmolS2xOEGSh.jpg"
+  },
+  {
+    "title": "ابسیدین_چرم",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "e5936ebf-68bb-4bd8-abfb-6c6eab726c57",
+    "image_url": "https://image.torob.com/base/images/XH/jc/XHjcrHsSoeFEyX72.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین لکه برفی",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      }
+    ],
+    "random_key": "dbfe72a1-d512-4d81-8c35-b17ed38c0639",
+    "image_url": "https://image.torob.com/base/images/PJ/1V/PJ1VkZlgM7jX942p.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین سبز کهکشانی S160",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "کهکشانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "ff9ea89e-b826-4086-aa88-2ba2146d3b28",
+    "image_url": "https://image.torob.com/base/images/SI/a0/SIa0zcsQT5spOqfU.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین کاملا شفاف نایاب کد 33333",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شفافیت",
+        "values": [
+          "کاملا شفاف"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "نایاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "9828e49a-22bb-42c2-b941-788c3dc9aa94",
+    "image_url": "https://image.torob.com/base/images/sH/y0/sHy0c6KDWZB4gfQ2.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین سبز s178",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "ec33b967-2c16-4517-8dcf-864c177e03ee",
+    "image_url": "https://image.torob.com/base/images/1Y/Xv/1YXvJ3aMzxXCzQZR.jpg"
+  },
+  {
+    "title": "بلک ابسیدین دانه برفی سرخ نمونه استثنایی و اصل و معدنی S1773",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه برفی",
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "نمونه استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "ac8ecfc6-3a5b-447b-aaed-fdcb8a763036",
+    "image_url": "https://image.torob.com/base/images/-X/_-/-X_-xagOAA9HrN7W.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین آبی دانه برفی اصل و نمونه زیبا و خاص S631",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "نمونه زیبا",
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "d8c3a58f-b378-413d-8534-566b946c2fc4",
+    "image_url": "https://image.torob.com/base/images/5E/l1/5El19DxMCgu_mG_e.jpg"
+  },
+  {
+    "title": "پک 5 عددی سنگهای آبسیدین در چند رنگ کد111",
+    "group": "نامشخص",
+    "product": "سنگ آبسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "پک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "6461b07d-e9f1-4137-bcaf-b277dd0e489e",
+    "image_url": "https://image.torob.com/base/images/Wh/Q4/WhQ4TthtxJBbqy-Q.jpg"
+  },
+  {
+    "title": "سیلور شاین ابسیدین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "سیلور شاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "b8cf961a-57c9-4c83-a4c7-e33aedc62d16",
+    "image_url": "https://image.torob.com/base/images/yZ/1c/yZ1c93i4dq8TxdRX.webp"
+  },
+  {
+    "title": "نگین ابسیدین طبیعی نقره ای 250190",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "fdf8ad27-e7ed-411d-9c3c-bb97c75ee370",
+    "image_url": "https://image.torob.com/base/images/ry/GX/ryGXJaO6XMPu04S3.webp"
+  },
+  {
+    "title": "نگین آبسیدین کد3",
+    "group": "نامشخص",
+    "product": "نگین آبسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "1cb20d85-3436-4363-ba65-be9516950adc",
+    "image_url": "https://image.torob.com/base/images/Rt/NN/RtNNTDA9vaCalCuf.jpg"
+  },
+  {
+    "title": "نگین پینوت وود ابسیدین طبیعی مستطیلی ۲۳۴۲۹۳",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "پینوت وود"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "e5f80f28-5885-4c7e-b239-eaf04774abbb",
+    "image_url": "https://image.torob.com/base/images/NO/PA/NOPA7Bp94deGHMvm.jpg"
+  },
+  {
+    "title": "نگین سنگ ابسیدین لکه برفی معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "نگین سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      }
+    ],
+    "random_key": "68a2b998-d07e-4f4a-b445-cc0f4cccdbcf",
+    "image_url": "https://image.torob.com/base/images/-q/XT/-qXTU-llNcH5iMSE.jpg"
+  },
+  {
+    "title": "ابسیدین اسنوفلیک",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "اسنوفلیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "aa3ab433-14b8-42de-a6f7-4d0c2449fbf8",
+    "image_url": "https://image.torob.com/base/images/nt/rK/ntrKuyFwOdlb6hbH.jpg"
+  },
+  {
+    "title": "ریسه سنگ شکسته ابسیدین",
+    "group": "نامشخص",
+    "product": "ریسه سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "شکسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      }
+    ],
+    "random_key": "f40ed518-4745-4506-a355-d27772330eb7",
+    "image_url": "https://image.torob.com/base/images/Tl/KG/TlKGQrLqZDR2sZe8.jpg"
+  },
+  {
+    "title": "گردنبندهای سنگ طبیعی آبسیدین طرح منشور دستساز",
+    "group": "نامشخص",
+    "product": "گردنبند سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "منشور"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دستساز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "df977008-fcab-4350-b674-6e5de002640c",
+    "image_url": "https://image.torob.com/base/images/GX/rG/GXrG13jARnGjljwR.jpg"
+  },
+  {
+    "title": "نگین ابسیدین طبیعی طلایی سیاه 250166",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "fe0d077f-5a08-43fc-95a4-a5d77962078a",
+    "image_url": "https://image.torob.com/base/images/gy/v2/gyv2ZGzJV38VYHPG.webp"
+  },
+  {
+    "title": "ابسیدین ماه گونی ط420",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماه گونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "90c393b5-db3c-4ba1-bb24-ba58c2160967",
+    "image_url": "https://image.torob.com/base/images/X6/bb/X6bbtT0zOgAPew-A.jpg"
+  },
+  {
+    "title": "ابسیدین گلدشین",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلدشین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "d0c6cf6a-ed41-49fd-9e8d-50e1703284aa",
+    "image_url": "https://image.torob.com/base/images/6f/mP/6fmPA-EPXy-6K2tY.webp"
+  },
+  {
+    "title": "ابسیدین دونه برفی معدنی با کیفیت درجه یک",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "01e89414-a02f-4e34-b8a0-6a4010b88174",
+    "image_url": "https://image.torob.com/base/images/Sl/Le/SlLesTaF8vRLJQTc.jpg"
+  },
+  {
+    "title": "آبسیدین دونه برفی طبیعی ابسیدین معروف به لکه آتشفشان لکه برفی a27",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی",
+          "لکه آتشفشان",
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "bae1033a-7f1d-4810-ae03-3b255b1826e2",
+    "image_url": "https://image.torob.com/base/images/pO/VL/pOVLC94SHqisT7rP.jpg"
+  },
+  {
+    "title": "ابسیدین گلدشین",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلدشین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "7c9b5f17-3741-4810-8bd2-4f171244b4f0",
+    "image_url": "https://image.torob.com/base/images/b_/kh/b_kh7M4Sc1HdFJS2.webp"
+  },
+  {
+    "title": "ابسیدین سنتیتیک شیشه سرباره فوق زیبا کلکسیونی",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "سنتیتیک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیشه سرباره"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "فوق زیبا",
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "a8d12298-9a82-4aaf-8eaa-bb8ba0a7cf4e",
+    "image_url": "https://image.torob.com/base/images/Tm/0O/Tm0Oh8qKWTtc_m8e.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین گلدشاین بیضی 5.4 گرم",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "گلدشاین"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5.4 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "e8f6e64f-c7db-487a-b9b5-e1b94a100ca5",
+    "image_url": "https://image.torob.com/base/images/f0/19/f019zVvHYTs9DP8m.jpg"
+  },
+  {
+    "title": "نگین آبسیدین برفی طبیعی و معدنی مرغوب",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "مرغوب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین آبسیدین"
+        ]
+      }
+    ],
+    "random_key": "63ff6bae-0e10-46e0-b964-3037ade3a21d",
+    "image_url": "https://image.torob.com/base/images/fE/ng/fEng5W3lhABnQpSf.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین گلد سایز 8",
+    "group": "نامشخص",
+    "product": "ریسه سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ ابسیدین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گلد"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 8"
+        ]
+      }
+    ],
+    "random_key": "98f9cf10-cece-4570-9c41-16fc7b8fa4be",
+    "image_url": "https://image.torob.com/base/images/6I/Ro/6IRogMAWGZxKMalU.webp"
+  },
+  {
+    "title": "ابسیدین سنتتیک (مصنوعی، سرباره) دکوری زیبا خوش رنگ",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "سنتتیک",
+          "مصنوعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سرباره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین دکوری"
+        ]
+      }
+    ],
+    "random_key": "e75a1373-177a-49b6-ab43-4aefaa6142cd",
+    "image_url": "https://image.torob.com/base/images/R5/B4/R5B4PsqYa4JfS6-e.jpg"
+  },
+  {
+    "title": "گوی ابسیدین سبز 32 میلیمتر",
+    "group": "نامشخص",
+    "product": "گوی سنگ",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "گوی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "32 میلیمتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "5501033d-0309-4d2d-8b86-7559115386de",
+    "image_url": "https://image.torob.com/base/images/C4/Sc/C4SccuDYqk0iSYrR.jpg"
+  },
+  {
+    "title": "ابسیدین اسنوفلیک",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "اسنوفلیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "51f5d9a6-0483-48ef-8253-c52e09186156",
+    "image_url": "https://image.torob.com/base/images/K3/Nj/K3NjDn1FFYcA60xA.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین طلایی درجه یک مناسب ساخت گردنبند و انگشتر",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "874e74e6-7fef-4264-b60d-ee7fc9972c45",
+    "image_url": "https://image.torob.com/base/images/vd/f-/vdf-qB2oYzjv8P1g.jpg"
+  },
+  {
+    "title": "ابسیدین کد303_ابعاد5×5سانت وزن159گرم",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوغ کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "5×5سانت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "159گرم"
+        ]
+      }
+    ],
+    "random_key": "ef7cc3f4-1c27-4b16-bf5e-da1171437b5a",
+    "image_url": "https://image.torob.com/base/images/a8/qa/a8qadHbbt_jAZfO0.jpg"
+  },
+  {
+    "title": "ریسه سنگ ابسیدین سایز 4 میلیمتر تراش کد 98158",
+    "group": "نامشخص",
+    "product": "ریسه سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ ابسیدین"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 4 میلیمتر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "69939f99-b4ed-49e5-a17e-d83af92f5edf",
+    "image_url": "https://image.torob.com/base/images/Xn/Ef/XnEfHEasPsw8y1mL.webp"
+  },
+  {
+    "title": "نگین سنگ آبسیدین برفی طبیعی و معدنی 3",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ آبسیدین"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "acec6883-8bc1-4ed7-996e-351f2a4052bd",
+    "image_url": "https://image.torob.com/base/images/eB/Di/eBDiaBtDD8JQr6Qb.jpg"
+  },
+  {
+    "title": "نگین سنگ آبسیدین برفی طبیعی و معدنی 1",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ آبسیدین"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "ac7cb095-923e-413c-825b-0c651d93fb95",
+    "image_url": "https://image.torob.com/base/images/K3/uv/K3uv-uh1MaRmufRT.jpg"
+  },
+  {
+    "title": "نگین سنگ ابسیدین دونه برفی مکزیک اصل معدنی سایز یک سانت",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ابسیدین"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "مکزیک",
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز یک سانت"
+        ]
+      }
+    ],
+    "random_key": "2c5f954f-b861-4312-aa2e-a7e59f158ce7",
+    "image_url": "https://image.torob.com/base/images/U6/o2/U6o28ZI2RX-YmmPN.webp"
+  },
+  {
+    "title": "آویز ابسیدین آبی اسنوفلیک یا برفی نمونه استثنایی و اصل A1209",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "اسنوفلیک",
+          "برفی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "استثنایی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "9201fdf4-e9c6-4ee7-8cf9-3104a02cbb80",
+    "image_url": "https://image.torob.com/base/images/0B/gj/0BgjRWidi5BQMdJ3.jpg"
+  },
+  {
+    "title": "گردنبند سنگ ابسیدین معدنی کد 60474",
+    "group": "نامشخص",
+    "product": "گردنبند سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند"
+        ]
+      }
+    ],
+    "random_key": "11e92548-a48d-4f0b-91c6-5be8e76e58bc",
+    "image_url": "https://image.torob.com/base/images/zh/6i/zh6iE4WR1y5c0sG0.jpg"
+  },
+  {
+    "title": "درختچه سنگی آبسیدین لکه برفی کد 129",
+    "group": "نامشخص",
+    "product": "درختچه سنگی ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "درختچه سنگی"
+        ]
+      }
+    ],
+    "random_key": "3b7d395a-5cbc-482f-96e0-9d8e634a156b",
+    "image_url": "https://image.torob.com/base/images/H7/SC/H7SC6qh3pcLB8N8l.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav139معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهانگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "7b6d927b-514b-4db9-9605-e8d09ee0efa0",
+    "image_url": "https://image.torob.com/base/images/bM/j9/bMj97N8ehbfCiMDv.jpg"
+  },
+  {
+    "title": "گوی سنگ ابسیدین سیاه",
+    "group": "نامشخص",
+    "product": "گوی سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "گوی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوی"
+        ]
+      }
+    ],
+    "random_key": "6ad76e0e-1272-4fb9-a59d-440fff91a277",
+    "image_url": "https://image.torob.com/base/images/jr/kp/jrkplEp93qhbvHaM.jpg"
+  },
+  {
+    "title": "آویز آبسیدین ماهانگونی کدav26 معدنی دفرمه طبیعی ابسیدین",
+    "group": "نامشخص",
+    "product": "آویز ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "ماهانگونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دفرمه"
+        ]
+      }
+    ],
+    "random_key": "9e1ceb80-f347-4035-a9e8-50115a34f172",
+    "image_url": "https://image.torob.com/base/images/VZ/Mk/VZMkgF4ThkQz8zuH.jpg"
+  },
+  {
+    "title": "دستبند آبسیدین لکه برفی ابسیدین سوپرنچرال اصلی",
+    "group": "نامشخص",
+    "product": "دستبند ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوپرنچرال"
+        ]
+      }
+    ],
+    "random_key": "78225f48-d570-48fa-91bc-bf5c76b4ae70",
+    "image_url": "https://image.torob.com/base/images/5S/-o/5S-ocQcYmhmv0V1i.jpg"
+  },
+  {
+    "title": "سنگ ابسیدین دانه برفی آبی (کبالت ) معدنی و ویژه S530",
+    "group": "نامشخص",
+    "product": "سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "کبالت"
+        ]
+      },
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دانه برفی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "ویژه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "f3c0d1c7-c855-49b6-b6d5-81c2e5f83a5b",
+    "image_url": "https://image.torob.com/base/images/cy/yX/cyyXNmklQKiDUVzh.jpg"
+  },
+  {
+    "title": "مهره آبسیدین سایز 8",
+    "group": "نامشخص",
+    "product": "مهره ابسیدین",
+    "entities": [
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 8"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      }
+    ],
+    "random_key": "63f548af-53de-4537-95e3-b12826e1ddfe",
+    "image_url": "https://image.torob.com/base/images/ca/SO/caSOB5OHWQKsw3_Y.jpg"
+  },
+  {
+    "title": "نگین آبسیدین کد2",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "شكل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "f7d4e88f-c753-4e34-989e-86e0726ffa9e",
+    "image_url": "https://image.torob.com/base/images/qD/dp/qDdp2YeKU5eQdZ0Y.jpg"
+  },
+  {
+    "title": "ابسیدین دونه برفی 240966",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "5a13c961-bf53-4c90-88d3-58cb9561e031",
+    "image_url": "https://image.torob.com/base/images/hx/oe/hxoevxYl-raNkrKO.webp"
+  },
+  {
+    "title": "نگین آبسیدین معدنی و طبیعی 3",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "منشاء",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "3a1314f5-6bc4-45ac-8073-211baa3a6934",
+    "image_url": "https://image.torob.com/base/images/eb/gx/ebgxilK5_zfhUHPJ.jpg"
+  },
+  {
+    "title": "آبسیدین دونه برفی ابسیدین لکه برفی a31",
+    "group": "نامشخص",
+    "product": "ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "دونه برفی",
+          "لکه برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ابسیدین"
+        ]
+      }
+    ],
+    "random_key": "7a638300-e6cb-480b-b1a2-1cadf9e96b84",
+    "image_url": "https://image.torob.com/base/images/OQ/gb/OQgb8w6ZUh4yqaro.jpg"
+  },
+  {
+    "title": "نگین ابسیدین سبز زمردی کدO21",
+    "group": "نامشخص",
+    "product": "نگین ابسیدین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز زمردی"
+        ]
+      },
+      {
+        "name": "شکل/نوع تراش",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "10ca3b13-a5bb-4366-8fa4-78960d4237ae",
+    "image_url": "https://image.torob.com/base/images/SG/Eo/SGEooRKwlh3jx83X.jpg"
+  },
+  {
+    "title": "گردنبند ابسیدین سیلور شین یا سیلور شاین اصل وارداتی گرید بالا فول تلألو نقره ای نئونی کمیاب و جذاب کد NSSO273",
+    "group": "نامشخص",
+    "product": "گردنبند ابسیدین",
+    "entities": [
+      {
+        "name": "طرح یا ویژگی بصری",
+        "values": [
+          "سیلور شین",
+          "سیلور شاین",
+          "تلألو نقره ای نئونی"
+        ]
+      },
+      {
+        "name": "منشاء",
+        "values": [
+          "اصل",
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "کیفیت/کلکسیونی بودن",
+        "values": [
+          "گرید بالا",
+          "کمیاب",
+          "جذاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند"
+        ]
+      }
+    ],
+    "random_key": "f3a39002-b6f8-48e3-b287-8508ddb82006",
+    "image_url": "https://image.torob.com/base/images/RD/Hk/RDHkocX2xEycUMo0.jpg"
+  },
+  {
+    "title": "گرنبند سنگ آبسیدین (زنانه و مردانه ) سنگ محافظت",
+    "group": "زنانه و مردانه",
+    "product": "گردنبند سنگ ابسیدین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سنگ محافظت"
+        ]
+      }
+    ],
+    "random_key": "4adb4dc1-89f0-4610-a052-830df8cbff51",
+    "image_url": "https://image.torob.com/base/images/2Z/B8/2ZB8OdO2TFVYyH02.jpg"
+  }
+]

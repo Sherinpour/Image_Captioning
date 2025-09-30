@@ -1,0 +1,7429 @@
+[
+  {
+    "title": "نگین گارنت هسونایت اصل با تراش Cabochon",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "هسونایت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "Cabochon"
+        ]
+      }
+    ],
+    "random_key": "ded3fc22-46ce-42b1-8bfd-ae53cee073d0",
+    "image_url": "https://image.torob.com/base/images/SD/zK/SDzKj2ulOo6Vj8qx.jpg"
+  },
+  {
+    "title": "گارنت پیروپ",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "پیروپ"
+        ]
+      }
+    ],
+    "random_key": "3137ba97-3849-46b5-a5ac-c6191ede4f2a",
+    "image_url": "https://image.torob.com/base/images/xf/EI/xfEIccMUzMnasqcG.jpg"
+  },
+  {
+    "title": "گارنت گروسولار یا آندرادیت معدنی (نیاز به آنالیز)",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "b64d5c44-ab1b-42fb-a4d1-922e45cc9fef",
+    "image_url": "https://image.torob.com/base/images/_7/U4/_7U4d7Ao4prylQel.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید 6.25ct کدGN213",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6.25ct"
+        ]
+      }
+    ],
+    "random_key": "0c7d986b-f4ba-4cb3-a6e5-0196759e2168",
+    "image_url": "https://image.torob.com/base/images/nV/jJ/nVjJ3PFhXuvEkRt2.jpg"
+  },
+  {
+    "title": "نگین گارنت رودولایت 12*16 میلیمتری تراش اشکی",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "رودولایت"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "12*16 میلیمتری"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      }
+    ],
+    "random_key": "473664bf-ddb0-4b3d-b18c-e67f132bbc2f",
+    "image_url": "https://image.torob.com/base/images/nZ/R7/nZR7bXLXwTLJaS1Q.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 2 قیراط 33069",
+    "group": "نامشخص",
+    "product": "نگین سنگ طبیعی گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "2 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "551b1739-fb35-4ac3-ac60-dfa1988326bf",
+    "image_url": "https://image.torob.com/base/images/Nr/Ao/NrAoah_si7_9Mw33.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ اصل",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "0660b706-3f70-4b7d-967b-cbcb2080b752",
+    "image_url": "https://image.torob.com/base/images/Vf/7N/Vf7N776vXsIyhkcA.jpg"
+  },
+  {
+    "title": "گارنت کاروینگ",
+    "group": "نامشخص",
+    "product": "گارنت کاروینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "a700cab8-b75b-4d92-98b4-787324dc83f5",
+    "image_url": "https://image.torob.com/base/images/gR/0K/gR0KuE93DOyYLxGv.webp"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی وزن 12/75 قیراط کد31036",
+    "group": "نامشخص",
+    "product": "نگین سنگ طبیعی گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "12/75 قیراط"
+        ]
+      }
+    ],
+    "random_key": "9353b8ca-e19b-4423-a996-3847cae0f42f",
+    "image_url": "https://image.torob.com/base/images/O6/Fz/O6Fz8_VUd4oos3Tf.jpg"
+  },
+  {
+    "title": "نمونه زیبا و کمیاب گارنت عسلی (اسپسارتین)",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "عسلی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "اسپسارتین"
+        ]
+      }
+    ],
+    "random_key": "c0ee569f-a97c-436b-8eed-3a985e32b6da",
+    "image_url": "https://image.torob.com/base/images/Go/SI/GoSISfhQ3j-T4CGD.jpg"
+  },
+  {
+    "title": "سنگ گارنت سرخ طبیعی و",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "3baa6d4d-8b3e-40b5-90a7-9eb32a6b1b24",
+    "image_url": "https://image.torob.com/base/images/-x/o-/-xo-4w-US8NDC29a.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید 4.5ct کدGN266",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4.5ct"
+        ]
+      }
+    ],
+    "random_key": "7ebe885c-69e0-4f31-852a-173a9a94c8ca",
+    "image_url": "https://image.torob.com/base/images/Uv/TH/UvTHtmk1Hs_s-XZP.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی کد 34840",
+    "group": "نامشخص",
+    "product": "نگین سنگ طبیعی گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "52dedf61-6579-4f76-a2c7-4df46a12954f",
+    "image_url": "https://image.torob.com/base/images/Er/if/Eriflv02_WMqPMtM.jpg"
+  },
+  {
+    "title": "گارنت فانتایی 3.6 قیراطی",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "3.6 قیراط"
+        ]
+      }
+    ],
+    "random_key": "dc811f2a-2124-4c2f-825f-227762f06d5e",
+    "image_url": "https://image.torob.com/base/images/a3/5F/a35FOlhirqL7C_NW.jpg"
+  },
+  {
+    "title": "گارنت سبز بر روی بستر (کد26)",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بر روی بستر"
+        ]
+      }
+    ],
+    "random_key": "51c7ad32-1de5-4b6b-8718-57192b255b3f",
+    "image_url": "https://image.torob.com/base/images/0U/iN/0UiNhLDQsxfhRhYR.jpg"
+  },
+  {
+    "title": "فروش راف گارنت قرمز درجه1",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "درجه1"
+        ]
+      }
+    ],
+    "random_key": "99519513-d4f8-4ae2-baae-6340fc47ae81",
+    "image_url": "https://image.torob.com/base/images/xN/Uz/xNUz05REtjiaiz8X.jpg"
+  },
+  {
+    "title": "گارنت سنگ یا مهره دفرمه گارنت ریز سوراخ دار صد در صد طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "دفرمه",
+          "ریزی",
+          "سوراخ دار"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "صد در صد طبیعی"
+        ]
+      }
+    ],
+    "random_key": "589500dc-8483-45bf-a9e6-707a00b26589",
+    "image_url": "https://image.torob.com/base/images/bl/r5/blr5DM_Zq3dkgRQ-.jpg"
+  },
+  {
+    "title": "گارنت آلماندین ALM101",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت آلماندین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "31dcae55-40dd-4e0d-8425-00d365c2fb96",
+    "image_url": "https://image.torob.com/base/images/1M/85/1M85azr10uY3da9_.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی وزن 7 قیراط کد 31041",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "7 قیراط"
+        ]
+      }
+    ],
+    "random_key": "394ecfbc-11b1-4f3f-8d0f-0cd1a92a1086",
+    "image_url": "https://image.torob.com/base/images/jC/IF/jCIF2cRElUNIL2wV.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "24a57ebc-7b52-46bb-bf51-b71d5f9a374b",
+    "image_url": "https://image.torob.com/base/images/dF/y0/dFy0lUmGjoIFlqav.jpg"
+  },
+  {
+    "title": "راف گارنت اسپارتین استثنایی کمیاب",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت اسپارتین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "استثنایی",
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "e41ec96e-7b54-43cc-958f-74f925ef548e",
+    "image_url": "https://image.torob.com/base/images/lU/Sg/lUSg5zxGJvNr6fBC.jpg"
+  },
+  {
+    "title": "نگین گارنت هسونایت طبیعی ( تراش Cabochon )",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونایت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "Cabochon"
+        ]
+      }
+    ],
+    "random_key": "5f82d73f-8d27-4032-b290-43ce4ba71ff0",
+    "image_url": "https://image.torob.com/base/images/Mm/SM/MmSMzuT-Jr_rWMRr.jpg"
+  },
+  {
+    "title": "گارنت سبز دمانتوئید 91 گرم درشت مناسب برای تراش دستی و دامله موجودی را جویا شوید",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "91 گرم"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مناسب برای تراش دستی و دامله"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "b19e03f5-e30f-4782-84fd-6d54fb4cb35e",
+    "image_url": "https://image.torob.com/base/images/mF/LO/mFLORvxHJ6crHy_g.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "a4c9c105-dfa5-43ae-bbf0-b9cb86eda7cf",
+    "image_url": "https://image.torob.com/base/images/6l/02/6l026jqigsxO9Eom.jpg"
+  },
+  {
+    "title": "گارنت سبز دمانتوئید فین هرمزگان کیفیت دو رنگ زمردی و زیتونی متفاوت موجودی را جویا شوید",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز",
+          "زمردی",
+          "زیتونی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "هرمزگان"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "فین",
+          "کیفیت دو رنگ",
+          "متفاوت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "21e099f7-5ffd-4bed-bb16-900b3ee72e32",
+    "image_url": "https://image.torob.com/base/images/3q/vz/3qvz74kDjkOhEhLN.jpg"
+  },
+  {
+    "title": "نگین سنگ گارنت رودولایت معدنی کد 60232",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "cc87e3be-b609-495f-acde-338a20d9bd32",
+    "image_url": "https://image.torob.com/base/images/v3/ma/v3ma89uSb-3lhizf.jpg"
+  },
+  {
+    "title": "نگین گارنت کد 26755",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "85c1e797-bb30-4894-81db-5ca8e636e333",
+    "image_url": "https://image.torob.com/base/images/De/SM/DeSMNnwin3-N2flL.webp"
+  },
+  {
+    "title": "نگین گارنت رودولایت 8*10 میلیمتری امرالد کات",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "8*10 میلیمتری"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "امرالد کات"
+        ]
+      }
+    ],
+    "random_key": "09a2fd21-caa0-4a2d-9f13-5339bd9f9975",
+    "image_url": "https://image.torob.com/base/images/3_/iG/3_iGUbHkgMCa_NA2.jpg"
+  },
+  {
+    "title": "نگین خوشرنگ گارنت6 قیراط کد GN70",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6 قیراط"
+        ]
+      }
+    ],
+    "random_key": "08d37a2a-442e-475b-a2c8-833fe945890c",
+    "image_url": "https://image.torob.com/base/images/Ih/H-/IhH-NlZMGCZw6JNt.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت اناری معدنی کد 34839",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "اناری"
+        ]
+      }
+    ],
+    "random_key": "0f9a8dd7-35ee-4231-889d-7d432621e23a",
+    "image_url": "https://image.torob.com/base/images/5G/V_/5GV_wN6FVsA40tBW.jpg"
+  },
+  {
+    "title": "ریسه سنگ گارنت سرخ سایز 8 کد9464",
+    "group": "نامشخص",
+    "product": "ریسه سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "8"
+        ]
+      }
+    ],
+    "random_key": "60c0cc86-7c01-45ad-9355-1c8094281ca0",
+    "image_url": "https://image.torob.com/base/images/4A/BZ/4ABZQX4NowiqUcGT.webp"
+  },
+  {
+    "title": "10 کیلو راف گارنت",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "10 کیلو"
+        ]
+      }
+    ],
+    "random_key": "4ac43697-8dbe-4a67-95d0-096270db56d7",
+    "image_url": "https://image.torob.com/base/images/BP/QQ/BPQQ9vYnzvRQQUrC.jpg"
+  },
+  {
+    "title": "گارنت اسپسارتیت ( ماندارین ) جواهری پاک طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت اسپسارتیت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ماندارین"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری",
+          "پاک"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "87a27581-aa19-4f31-9b35-d23f1604c566",
+    "image_url": "https://image.torob.com/base/images/Tp/hP/TphPcx6IXKOpwtXo.jpg"
+  },
+  {
+    "title": "یک قطعه سنگ راف گارنت چهار کیلوی زیبا",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "چهار کیلوی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      }
+    ],
+    "random_key": "35317d66-bb5f-4f97-8caa-81574fd57389",
+    "image_url": "https://image.torob.com/base/images/Mg/j_/Mgj_yy8FnMCG2wTY.jpg"
+  },
+  {
+    "title": "سنگ گارنت ( کد 196)",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "333dca18-44a9-41c3-8a35-e36effbfeeb7",
+    "image_url": "https://image.torob.com/base/images/dw/ls/dwlsr1PGb7qAxYg4.jpg"
+  },
+  {
+    "title": "آویز سنگ گارنت شیست گارنت دانه اناری خاص",
+    "group": "نامشخص",
+    "product": "آویز سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت شیست"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دانه اناری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز سنگ"
+        ]
+      }
+    ],
+    "random_key": "c16dbede-0ccd-4fbb-83a9-9995ed327324",
+    "image_url": "https://image.torob.com/base/images/Aa/KH/AaKHKLbmUR0Jv_2f.jpg"
+  },
+  {
+    "title": "نگین سنگین گارنت زرد سبز طبیعی 101.25 قیراط",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد",
+          "سبز"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "101.25 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "bb1cc6fc-7d28-4016-80fc-930aebf684cd",
+    "image_url": "https://image.torob.com/base/images/KW/lc/KWlc4HG0_5-pAdVs.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید21.90ct کدgn147",
+    "group": "نامشخص",
+    "product": "گارنت دمانتوئید",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "21.90ct"
+        ]
+      }
+    ],
+    "random_key": "2eba8984-39d3-41e7-8ce3-5ff2f264f882",
+    "image_url": "https://image.torob.com/base/images/t6/z8/t6z8KUaUgoixF63q.jpg"
+  },
+  {
+    "title": "گارنت سبز دمانتوئید نسبتا درشت 48 گرم قیمت مناسب کد 5 موجودی را جویا شوید",
+    "group": "نامشخص",
+    "product": "گارنت دمانتوئید",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "48 گرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نسبتا درشت"
+        ]
+      }
+    ],
+    "random_key": "565124a5-b76c-4e2f-83d1-0f794acdd2ec",
+    "image_url": "https://image.torob.com/base/images/D1/B3/D1B3DOVIin5zW41M.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید 5.40ct کدGN288",
+    "group": "نامشخص",
+    "product": "گارنت دمانتوئید",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5.40ct"
+        ]
+      }
+    ],
+    "random_key": "346fb34b-e91d-4044-ba89-2283162c2e5f",
+    "image_url": "https://image.torob.com/base/images/9b/ed/9bedK2ZWk4dDjcKj.jpg"
+  },
+  {
+    "title": "راف گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      }
+    ],
+    "random_key": "35af8f16-3a96-462d-b0ee-26ddbd3a165a",
+    "image_url": "https://image.torob.com/base/images/B3/KP/B3KPl3nfGNkSZrEE.jpg"
+  },
+  {
+    "title": "گارنت پیروپ",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت پیروپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "39a5cae9-9139-45d6-b719-898d9ea74b6b",
+    "image_url": "https://image.torob.com/base/images/tc/nV/tcnVqPxzuRNWpxH6.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "6f83045c-c875-46bf-b15b-ca9974929d5a",
+    "image_url": "https://image.torob.com/base/images/6E/9n/6E9nwxI4mW7Ef9NM.jpg"
+  },
+  {
+    "title": "نگین گارنت سبز دمانتوئید فین هرمزگان کیفیت جواهری پک سه عددی،، نگین ها نیمه آماده هستند 11 قیراط وزن دارند",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "فین هرمزگان"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "11 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "49342481-c119-4f3d-a0f0-579df13b1438",
+    "image_url": "https://image.torob.com/base/images/i-/eO/i-eOk-dlJITclDh8.jpg"
+  },
+  {
+    "title": "7قطعه سنگ طبیعی گارنت الماندین معدنی 10.1 قیراط کد 33274",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "10.1 قیراط"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت الماندین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "faaf556a-fbf6-4a2c-8e20-401a61c2949c",
+    "image_url": "https://image.torob.com/base/images/z3/FR/z3FRNYNDjTKsklUI.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی با وزن 5 قیراط کد 30688",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "5 قیراط"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      }
+    ],
+    "random_key": "22376a30-a196-4a76-bb6f-87233c6ac674",
+    "image_url": "https://image.torob.com/base/images/IG/ER/IGERnyPoz4x9kwFH.jpg"
+  },
+  {
+    "title": "ریسه سنگ گارنت سایز 8 کد3689",
+    "group": "نامشخص",
+    "product": "ریسه سنگ گارنت",
+    "entities": [
+      {
+        "name": "اندازه",
+        "values": [
+          "سایز 8"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      }
+    ],
+    "random_key": "a185b3ca-e5e3-4d65-9cf7-8af483741dad",
+    "image_url": "https://image.torob.com/base/images/S0/vK/S0vKYEbpNEbPEXSE.webp"
+  },
+  {
+    "title": "سنگ شکسته گارنت(فروش بصورت ریسه ای)",
+    "group": "نامشخص",
+    "product": "سنگ شکسته گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ شکسته"
+        ]
+      }
+    ],
+    "random_key": "367a0ee6-b440-49f8-90d1-85558f395f42",
+    "image_url": "https://image.torob.com/base/images/am/CP/amCPXZxFEDwxLddE.jpg"
+  },
+  {
+    "title": "10 بلور جواهری گارنت دمانتوئید سبز کرمان",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "کرمان"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      }
+    ],
+    "random_key": "78a05f46-44ca-4ed9-a565-7adf4bafe499",
+    "image_url": "https://image.torob.com/base/images/ll/8K/ll8K1zBAMzQMhZS8.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ معدنی و طبیعی کد 4482",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "ee6429f2-bc46-4657-8815-9f7d2c5d0fbd",
+    "image_url": "https://image.torob.com/base/images/2Q/Hv/2QHvKZl56aqL6jiH.jpg"
+  },
+  {
+    "title": "نگین گارنت2/70 قیراط کد GN26",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "2/70 قیراط"
+        ]
+      }
+    ],
+    "random_key": "b81a59d1-e79b-47ac-a96d-bc78f773a3a7",
+    "image_url": "https://image.torob.com/base/images/Ze/Gs/ZeGsmPLW1tVzJUoy.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی ۸/۵ قیراط کد : 33969",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "8/5 قیراط"
+        ]
+      }
+    ],
+    "random_key": "a7e8c01c-ac27-4498-b2f9-cd3a64f7324e",
+    "image_url": "https://image.torob.com/base/images/MV/il/MVillHAhLG0pNmOT.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 34840",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "c7a9c47f-2aa0-43ee-8f4d-22d6ec3e962a",
+    "image_url": "https://image.torob.com/base/images/26/LW/26LW5J2FHc6cj7mk.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "140a4ea6-966e-4a82-aff7-f6559c4d51cf",
+    "image_url": "https://image.torob.com/base/images/Op/dH/OpdHU6-1kVa0J8dj.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      }
+    ],
+    "random_key": "f6862101-4aad-46b4-8a76-b111181c9c07",
+    "image_url": "https://image.torob.com/base/images/8N/h7/8Nh7TXZlTqiqJlEp.webp"
+  },
+  {
+    "title": "نگین قیمتی گارنت هسونیت طبیعی بیضی ۲۴۰۲۰۶",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "بیضی"
+        ]
+      }
+    ],
+    "random_key": "ae9885cc-ec48-4283-b51f-a5c34aaea7d9",
+    "image_url": "https://image.torob.com/base/images/wT/TB/wTTBqB_off9VM73a.jpg"
+  },
+  {
+    "title": "سنگ راف گارنت دمانتوئید کلکسیونی کمیاب 336 گرم",
+    "group": "نامشخص",
+    "product": "سنگ راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "336 گرم"
+        ]
+      }
+    ],
+    "random_key": "1501f3d9-46a7-4615-9e57-42032afc1e72",
+    "image_url": "https://image.torob.com/base/images/5e/bh/5ebhGMEGOY1jQr4k.jpg"
+  },
+  {
+    "title": "نگین قیمتی گارنت هسونیت طبیعی مستطیلی ۲۴۰۲۱۶",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "مستطیلی"
+        ]
+      }
+    ],
+    "random_key": "ed16d9ff-6582-4ec5-a222-18f9e6bf892c",
+    "image_url": "https://image.torob.com/base/images/Gu/IY/GuIYurBFw47l2FhB.jpg"
+  },
+  {
+    "title": "گارنت سرخ سیر کد Y 8436",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ سیر"
+        ]
+      }
+    ],
+    "random_key": "488d9aee-5292-404e-887a-d047be8edc51",
+    "image_url": "https://image.torob.com/base/images/oX/Hd/oXHdS9YzQA6Mzcu2.jpg"
+  },
+  {
+    "title": "گارنت اصل 107/15قیراط کدGn325",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "107/15قیراط"
+        ]
+      }
+    ],
+    "random_key": "994d1268-0166-45e2-a31f-a3e89d7ab14e",
+    "image_url": "https://image.torob.com/base/images/sB/5r/sB5riBMvqvhsVpOH.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت رودولایت معدنی 4.75 قیراط کد 33975",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4.75 قیراط"
+        ]
+      }
+    ],
+    "random_key": "355d6d84-72cd-4907-9a6f-a58c5bf84518",
+    "image_url": "https://image.torob.com/base/images/1Y/sB/1YsBfCvpCRUJBULH.jpg"
+  },
+  {
+    "title": "نگین گارنت هسونیت طبیعی دامله دایره ای ۲۴۰۳۳۹",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "دامله",
+          "دایره ای"
+        ]
+      }
+    ],
+    "random_key": "a45e0f4e-ee15-44b6-aa17-1c83ec671814",
+    "image_url": "https://image.torob.com/base/images/sG/KI/sGKII0kofmXDQtCS.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 4 قیراط کد 33964",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4 قیراط"
+        ]
+      }
+    ],
+    "random_key": "6f49cbc2-a5fb-47f8-a157-df7123cc87f6",
+    "image_url": "https://image.torob.com/base/images/Cf/lC/CflCGic1H4TpCuaH.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "7964a33f-bf94-4172-9a19-f2c1cbf2b11c",
+    "image_url": "https://image.torob.com/base/images/ht/cL/htcLaR2MAJXdG7rF.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اطالعت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "e20f018e-29ad-4db4-88c0-62485d2491de",
+    "image_url": "https://image.torob.com/base/images/Mr/4G/Mr4GQg4y5-SJoeCV.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید (Demantoid garnet)",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "7a6ab658-bde9-4561-85f7-8cac89435165",
+    "image_url": "https://image.torob.com/base/images/Ab/Lo/AbLo_bU7lBqBEETZ.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اطالعت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "e6cfebb2-05dd-4e59-bba2-96b0d3b1dbc5",
+    "image_url": "https://image.torob.com/base/images/tA/pl/tAplgSEW1vX9sfoe.jpg"
+  },
+  {
+    "title": "انگشنر گارنت رودولایت سریلانکا فاخر",
+    "group": "نامشخص",
+    "product": "انگشتر گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "سریلانکا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فاخر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "انگشتر"
+        ]
+      }
+    ],
+    "random_key": "28d8cfed-8216-40da-9e38-12b7a124888d",
+    "image_url": "https://image.torob.com/base/images/6D/pI/6DpIKhFFVbxBf6tg.jpg"
+  },
+  {
+    "title": "سنگ گارنت در بستر سفید",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "در بستر سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "5f9b4028-512a-42d0-a055-5f7137555805",
+    "image_url": "https://image.torob.com/base/images/VZ/0g/VZ0gbSOmqOHmGWHF.jpg"
+  },
+  {
+    "title": "گارنت سبز بر روی بستر (کد25)",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بر روی بستر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "229e1295-8bce-4e28-b328-0d6b81ec7fc7",
+    "image_url": "https://image.torob.com/base/images/nw/uC/nwuC0_oqtZMyJw9Q.jpg"
+  },
+  {
+    "title": "نگین گارنت طبیعی و معدنی خوش رنگ کد ۱۱۴۱۷",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "اطالعت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی",
+          "خوش رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "e2a1bba8-4fab-47bf-b9ad-9b2ae098f5ad",
+    "image_url": "https://image.torob.com/base/images/Zs/p0/Zsp0rvKnspu111Zl.jpg"
+  },
+  {
+    "title": "ریسه سنگ گارنت سایز 2 میلیمتر تراش کد 29332",
+    "group": "نامشخص",
+    "product": "ریسه سنگ گارنت",
+    "entities": [
+      {
+        "name": "اندازه",
+        "values": [
+          "2 میلیمتر"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "17aade95-14f3-4212-ba42-733e5c3b52f2",
+    "image_url": "https://image.torob.com/base/images/th/h4/thh4ro5Xlz8kXPbo.webp"
+  },
+  {
+    "title": "نگین سنگین گارنت بنفش درشت 123 قیراط 3 عدد",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "123 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "7801abdd-01c1-47b3-b11c-aa2237563b73",
+    "image_url": "https://image.torob.com/base/images/L6/4l/L64l6BypiHJ2ryEp.jpg"
+  },
+  {
+    "title": "گارنت استار کد Y 8473",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع تراش",
+        "values": [
+          "استار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت استار"
+        ]
+      }
+    ],
+    "random_key": "64a3e08b-66dc-4192-9bbe-811f006ebab5",
+    "image_url": "https://image.torob.com/base/images/2w/UC/2wUCCAyublI63v1a.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اطالعت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "e311d321-974e-4339-949c-9438879d0024",
+    "image_url": "https://image.torob.com/base/images/X3/Vu/X3Vu-ZjzNovc22m-.jpg"
+  },
+  {
+    "title": "گارنت سبز بر روی بستر (کد15)",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بر روی بستر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "21171c0c-7110-4cf3-9861-79cf11fe8a9b",
+    "image_url": "https://image.torob.com/base/images/6b/nI/6bnI0HILWx90dW-V.jpg"
+  },
+  {
+    "title": "نگین گارنت تساوریت اصلی قابل شناسنامه دار انگشتر گارنت سبز افریقایی معدنی گارنت گروسولار طبیعی زمرد سبز معدنی اصل",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت تساوریت",
+          "گارنت گروسولار"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "افریقایی"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "اطالعت و کیفیت",
+        "values": [
+          "اصل",
+          "قابل شناسنامه دار",
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین",
+          "انگشتر",
+          "زمرد"
+        ]
+      }
+    ],
+    "random_key": "45ba1723-a797-44f2-948c-8d0431ae3b99",
+    "image_url": "https://image.torob.com/base/images/HR/OQ/HROQn_1iNCQhwPa8.jpg"
+  },
+  {
+    "title": "گارنت رودولایت چشم گربه استار فین هرمزگان",
+    "group": "نامشخص",
+    "product": "گارنت رودولایت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چشم گربه",
+          "استار فین"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "هرمزگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "73acc2fb-afa7-4ff8-acc6-be700d5c5ee9",
+    "image_url": "https://image.torob.com/base/images/vl/dW/vldWljPIS7RTJxCU.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی (کریستالی)",
+    "group": "نامشخص",
+    "product": "سنگ",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف",
+          "کریستالی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اطالعت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "98e19019-7f5f-4801-b614-675995b26502",
+    "image_url": "https://image.torob.com/base/images/31/J1/31J1NK5dYZa8mh_G.jpg"
+  },
+  {
+    "title": "راف گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اطالعت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "d7f110bd-6b55-4849-a54b-9844c8666677",
+    "image_url": "https://image.torob.com/base/images/Yh/ms/YhmsZDVczo3C5EfO.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "5a27e215-17ed-4953-a764-611001515414",
+    "image_url": "https://image.torob.com/base/images/mx/un/mxunkbCQrGD93qvV.jpg"
+  },
+  {
+    "title": "گوهر جواهری گارنت اسپسارتایت کمیاب با شناسنامه معتبر",
+    "group": "نامشخص",
+    "product": "گوهر گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گوهر"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت اسپسارتایت"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "با شناسنامه معتبر"
+        ]
+      }
+    ],
+    "random_key": "6badbb82-29cd-48e0-9ba8-6b1f6d561e41",
+    "image_url": "https://image.torob.com/base/images/jt/my/jtmy_QAnPPrvTAmb.jpg"
+  },
+  {
+    "title": "گارنت سرخ اصل و معدنی تراش فست مخصوص جواهرات و انگشتر زنانه و مردانه و گردنبند",
+    "group": "زنانه و مردانه",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "فست"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "مخصوص جواهرات",
+          "انگشتر"
+        ]
+      }
+    ],
+    "random_key": "4d1c8b94-c420-4ede-9000-329208819c00",
+    "image_url": "https://image.torob.com/base/images/ge/YP/geYPooXZqVJb21BG.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی کد : 34838",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "b6b5ed3c-3d32-4a3e-ba67-9617a9ac4395",
+    "image_url": "https://image.torob.com/base/images/Rf/ty/Rfty4A7I58LC12UX.jpg"
+  },
+  {
+    "title": "راف گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "164cb90e-c68f-47b8-9124-8e4eeaf3b478",
+    "image_url": "https://image.torob.com/base/images/Ip/EQ/IpEQn4Au3rFekxqx.jpg"
+  },
+  {
+    "title": "ست نگین سنگ طبیعی گارنت رودولایت معدنی 3.1 قیراط کد 33292",
+    "group": "نامشخص",
+    "product": "ست نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "3.1 قیراط"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      }
+    ],
+    "random_key": "3695040f-b632-4fe6-9012-80a0c1e599da",
+    "image_url": "https://image.torob.com/base/images/tn/DE/tnDEwLbSYKmYon2B.jpg"
+  },
+  {
+    "title": "گارنت سبز کد Y 8439",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "ffc6efa9-4def-49c1-b088-4a1a8299fdbc",
+    "image_url": "https://image.torob.com/base/images/I7/T0/I7T0ociITqKyrAbH.jpg"
+  },
+  {
+    "title": "بارخونه گارنت سرخ اشکی ریز 96 قیراط",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "ریز"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "96 قیراط"
+        ]
+      }
+    ],
+    "random_key": "3a0ed588-dec0-41de-bb5e-2826c7703c2a",
+    "image_url": "https://image.torob.com/base/images/S9/YW/S9YWkvEJ6WbSxz4n.jpg"
+  },
+  {
+    "title": "گارنت هسونیت معدنی 5.7 قیراطی",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5.7 قیراطی"
+        ]
+      }
+    ],
+    "random_key": "c094f9fb-c5ee-4e2c-8471-2995c2d52d8f",
+    "image_url": "https://image.torob.com/base/images/6t/CF/6tCFYzemH8LWPdQg.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "bcc9e268-4801-4056-ba4e-6be7b46f79e2",
+    "image_url": "https://image.torob.com/base/images/j9/RF/j9RFOYJfAsxvzDPH.jpg"
+  },
+  {
+    "title": "گارنت رودولایت شرابی طبیعی 1.2 قیراطی",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "شرابی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "1.2 قیراطی"
+        ]
+      }
+    ],
+    "random_key": "9aaf74d3-fe83-402c-b2c6-e3da47584cc2",
+    "image_url": "https://image.torob.com/base/images/cl/DR/clDRTTt0EFHg9kCS.jpg"
+  },
+  {
+    "title": "بلور غیر شفاف سنگ گارنت آلماندین معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "بلور سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور سنگ گارنت"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "غیر شفاف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت آلماندین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "7efd2165-9099-4674-9c48-489365677f56",
+    "image_url": "https://image.torob.com/base/images/I1/w4/I1w4qGUivORZ4dZm.jpg"
+  },
+  {
+    "title": "گارنت سرخ افغانستان مناسب مخراجکاری، درمانی و مدیتشن کیفیت عالی",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "افغانستان"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "کیفیت عالی"
+        ]
+      }
+    ],
+    "random_key": "51eaf2e6-4241-4b4c-831c-1348e80a80bf",
+    "image_url": "https://image.torob.com/base/images/0i/Vw/0iVwWFxmf1ydbQbu.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید 105.400ct کدGN248",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "105.400ct"
+        ]
+      }
+    ],
+    "random_key": "a1636ba9-e554-4c6d-86a5-220186eca25b",
+    "image_url": "https://image.torob.com/base/images/nG/S7/nGS7irxq8PDJsfqp.jpg"
+  },
+  {
+    "title": "گارنت عسلی 9",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "عسلی"
+        ]
+      }
+    ],
+    "random_key": "73c4ce99-330e-406e-8070-47ad64eaa927",
+    "image_url": "https://image.torob.com/base/images/tS/vM/tSvM8TSKvNa2EjHB.jpg"
+  },
+  {
+    "title": "نگین گارنت",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین گارنت"
+        ]
+      }
+    ],
+    "random_key": "f3502082-d762-4db2-92e5-33a4a1cd0076",
+    "image_url": "https://image.torob.com/base/images/sW/Np/sWNpS4gFvKZfKvBb.jpg"
+  },
+  {
+    "title": "جواهر گارنت رودولایت سرخِ اناری اصل معدنی سریلانکا",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جواهر"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ اناری"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "سریلانکا"
+        ]
+      }
+    ],
+    "random_key": "bd0d1c11-0adb-4554-815f-9b4c1a8294e1",
+    "image_url": "https://image.torob.com/base/images/f1/qT/f1qT0FRK80z6xgjb.jpg"
+  },
+  {
+    "title": "گارنت درشت10.6قیراطی طبیعی اصل و معدنی با تراشی عالی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "10.6 قیراطی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "اصل",
+          "معدنی",
+          "تراشی عالی"
+        ]
+      }
+    ],
+    "random_key": "72c5790b-0b82-4874-b383-a2cffdff0fb7",
+    "image_url": "https://image.torob.com/base/images/Ir/i6/Iri6qnOStfUjZPZs.jpg"
+  },
+  {
+    "title": "گارنت آلماندین ALM102",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت آلماندین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "bbab9a07-b8d6-4a5f-8a1c-562c5b7e1314",
+    "image_url": "https://image.torob.com/base/images/OU/Pi/OUPi1SnjG4TwDtek.jpg"
+  },
+  {
+    "title": "گارنت پایروپ سیلان کمیاب با شناسنامه معتبر",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت پایروپ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "با شناسنامه معتبر"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "سیلان"
+        ]
+      }
+    ],
+    "random_key": "fc19c8a3-6e5d-4e28-a43d-0f5863a16f96",
+    "image_url": "https://image.torob.com/base/images/ol/Ur/olUrwWGRYxJGaQwB.jpg"
+  },
+  {
+    "title": "گارنت دیمانتویید6/50 قیراط کد GN97",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دیمانتویید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6/50 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "e4f16a1b-28ab-452b-b078-d72786d054c5",
+    "image_url": "https://image.torob.com/base/images/Ku/VX/KuVXOY9svanlOQ1V.jpg"
+  },
+  {
+    "title": "نگین سنگ گارنت رودولایت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "382cfbf5-593f-42d4-a951-a326328073a7",
+    "image_url": "https://image.torob.com/base/images/To/xh/ToxhX8A8Y-hFrThG.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "شكل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "b6eaf5d7-1e9b-4f08-8776-b31c3117431a",
+    "image_url": "https://image.torob.com/base/images/oz/jH/ozjHIwahnVHD2Qne.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شكل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      }
+    ],
+    "random_key": "8b7f52c4-05eb-4a8f-8572-59380487394d",
+    "image_url": "https://image.torob.com/base/images/-N/bt/-NbtiMTYhmYL9DWw.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شكل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      }
+    ],
+    "random_key": "c41e0708-afe1-46d1-b631-3ba3a767d86e",
+    "image_url": "https://image.torob.com/base/images/Ra/Oj/RaOjYHzS7Zbivlbf.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ طبیعی ومعدنی تراش فست",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "شكل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "فست"
+        ]
+      }
+    ],
+    "random_key": "edc5fca6-313f-4fe9-8ee2-db20310cab16",
+    "image_url": "https://image.torob.com/base/images/jT/Ew/jTEwAyH_44OYDnKH.jpg"
+  },
+  {
+    "title": "گارنت نارنجی طبیعی 1.85 قیراط 8 میل",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "1.85 قیراط"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "8 میل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "156ae4a1-9105-49a1-924d-e08089fb7ee6",
+    "image_url": "https://image.torob.com/base/images/4t/Dj/4tDjR_HgSdt7uI0n.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "شكل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "72974bf8-4113-4de8-a912-09199f42b89b",
+    "image_url": "https://image.torob.com/base/images/kM/gR/kMgRgis5hwdhPpg1.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ طبیعی کد GRR10205",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "شكل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "8cd15b39-c9d4-4456-8590-cb3fcfe11e94",
+    "image_url": "https://image.torob.com/base/images/0T/Tm/0TTmNbvAwQby76tt.jpg"
+  },
+  {
+    "title": "گارنت استار معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "استار"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "a8fd1332-6bf5-429f-b125-b19f82f3464c",
+    "image_url": "https://image.torob.com/base/images/wd/bq/wdbqo0bGtd4pkH2q.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شكل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      }
+    ],
+    "random_key": "f81f668a-c282-48dd-929c-8301c424dd30",
+    "image_url": "https://image.torob.com/base/images/sq/0V/sq0VRXfaIH7sLxvc.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید بلور قهوه ای",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بلور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "1dbdc6d7-18d6-4163-b430-f2f7af76ff44",
+    "image_url": "https://image.torob.com/base/images/ZZ/Zk/ZZZkJwEfnpB914MR.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید4.90ct کدgn178",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4.90ct"
+        ]
+      }
+    ],
+    "random_key": "8baa27f2-a81f-498c-be1a-65cd1151f672",
+    "image_url": "https://image.torob.com/base/images/p-/pY/p-pYTIdip3DCInA5.jpg"
+  },
+  {
+    "title": "گارنت زیبا 9/10 قیراط کدGN329",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "9/10 قیراط"
+        ]
+      }
+    ],
+    "random_key": "9931175c-1a41-463d-bdf8-daee6c402bca",
+    "image_url": "https://image.torob.com/base/images/OH/Fr/OHFrscFLe1TkejUP.jpg"
+  },
+  {
+    "title": "تک بلور زیبای گارنت دمانتویید سبز بر روی بستر به همراه پایه چوبی مناسب دکور و ویترین",
+    "group": "نامشخص",
+    "product": "بلور گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "تک بلور"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "روی بستر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور"
+        ]
+      }
+    ],
+    "random_key": "e82115c7-2186-4a1b-a9d6-20dcda659f7e",
+    "image_url": "https://image.torob.com/base/images/NF/9R/NF9RWVWzOjtRlbYU.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      }
+    ],
+    "random_key": "497b4fe9-f171-4485-9c27-c18cbde7d06e",
+    "image_url": "https://image.torob.com/base/images/v1/bw/v1bw63sT2T87IGd2.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی ۳/۵۵ قیراط کد : 33965",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "۳/۵۵ قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "248d95a8-0cbf-4692-b21c-b9474dda60f1",
+    "image_url": "https://image.torob.com/base/images/Rn/t6/Rnt6zcF8MnqDLpFK.jpg"
+  },
+  {
+    "title": "گارنت سبز دمانتوئید فین هرمزگان کیفیت زمرد کلمبیایی مناسب مخراج کاری و جواهری سازی لطفاً موجودی را جویا شوید",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید فین"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "هرمزگان"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      }
+    ],
+    "random_key": "b2b86540-32f2-4d52-975c-3f73d18bb409",
+    "image_url": "https://image.torob.com/base/images/qB/h_/qBh_xmH9iBnTPmlA.jpg"
+  },
+  {
+    "title": "اسپسارتین گارنت پاکستان",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "اسپسارتین"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "پاکستان"
+        ]
+      }
+    ],
+    "random_key": "e0369612-c1f6-494e-b918-9da5f06eefe7",
+    "image_url": "https://image.torob.com/base/images/z3/uF/z3uFHgU7OIf2422A.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      }
+    ],
+    "random_key": "5de596bf-4ddc-490d-8ed2-8b20c7378f68",
+    "image_url": "https://image.torob.com/base/images/Hf/lm/Hflm2lMGBY6ItwhS.jpg"
+  },
+  {
+    "title": "راف سنگ بلور های وجهدار گارنت سبز معدنی تکاب",
+    "group": "نامشخص",
+    "product": "بلور گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف",
+          "بلور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "تکاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ بلور"
+        ]
+      }
+    ],
+    "random_key": "bd441a8a-1a62-49b8-8a47-903756479402",
+    "image_url": "https://image.torob.com/base/images/us/nk/usnkSL55GGNocmN3.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی کد : 34837",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "7e4d3eee-a776-43b1-b37e-375db0951741",
+    "image_url": "https://image.torob.com/base/images/yL/yU/yLyUPBSN-fT6uiGM.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 6قیراط کد 33971",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "eb3a4cc1-cb4a-421f-a265-75b1c298acbe",
+    "image_url": "https://image.torob.com/base/images/I_/0t/I_0ti8TMMoT9F_Zt.jpg"
+  },
+  {
+    "title": "نگین گارنت اصل و طبیعی تراش Cabochon",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "Cabochon"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "f5af88f8-c900-47ee-8f2b-70a21ef9b9eb",
+    "image_url": "https://image.torob.com/base/images/mI/34/mI34-JzC94o6yVgB.jpg"
+  },
+  {
+    "title": "گارنت طبیعی و معدنی آفریقایی کد 12",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "آفریقایی"
+        ]
+      }
+    ],
+    "random_key": "aada0a49-41c0-4126-ba93-e4cd2d50ba2e",
+    "image_url": "https://image.torob.com/base/images/-Z/Rk/-ZRkNGpuSF7CnW73.jpg"
+  },
+  {
+    "title": "نگین گارنت طبیعی و معدنی آفریقایی کد 5",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "آفریقایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "fe90b6ab-8821-470d-979f-f89f90087cdb",
+    "image_url": "https://image.torob.com/base/images/Me/Bg/MeBgdMwMjc00bdIc.jpg"
+  },
+  {
+    "title": "اتمی مخراجی سنگ گارنت سرخ ریز3میل مخراج کاری",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "3میل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ",
+          "ریز"
+        ]
+      }
+    ],
+    "random_key": "ef4a1016-d830-4cec-8d74-7ef33062f234",
+    "image_url": "https://image.torob.com/base/images/-c/v6/-cv6z5OnlceI1HKA.jpg"
+  },
+  {
+    "title": "گارنت طبیعی و معدنی آفریقایی کد 9",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "آفریقایی"
+        ]
+      }
+    ],
+    "random_key": "701bfe58-1265-499e-8138-42ffd57e7d5a",
+    "image_url": "https://image.torob.com/base/images/If/e-/Ife-SpnlpYRrnDyp.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "ac8ece05-c616-438a-8b7f-1c5ee2b65580",
+    "image_url": "https://image.torob.com/base/images/8F/it/8Fit6QKoxrW-jaoU.jpg"
+  },
+  {
+    "title": "سنگ گارنت عسلی بلور طبیعی و دست نخورده خاص و متفاوت مناسب کلکسیون و کلکسیونرها",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "عسلی"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست نخورده",
+          "خاص",
+          "متفاوت",
+          "مناسب کلکسیون و کلکسیونرها"
+        ]
+      }
+    ],
+    "random_key": "617e4a59-d986-41c9-bb93-afaa2e037a65",
+    "image_url": "https://image.torob.com/base/images/y1/Jh/y1JhuGZo9xZsuL9K.jpg"
+  },
+  {
+    "title": "نگین سنگ گارنت معدنی 6.7 قیراط(گوشه نگین لب پری ریز دارد)کد 33972",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6.7 قیراط"
+        ]
+      }
+    ],
+    "random_key": "1b1906e3-f28b-437b-8f83-56073c9b1357",
+    "image_url": "https://image.torob.com/base/images/EU/V9/EUV9OMwiyOFllOgJ.jpg"
+  },
+  {
+    "title": "سنگ گارنت تامبلر آویز قرمز تیره 7 گرمی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تامبلر آویز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز تیره"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "7 گرمی"
+        ]
+      }
+    ],
+    "random_key": "6201c4a8-605c-4d1c-aa86-c5af38a0634d",
+    "image_url": "https://image.torob.com/base/images/4_/lJ/4_lJriaHZKO7plHi.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی کد 34833",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "cb8261cf-4a05-4fa3-a366-b61a0ca1eda7",
+    "image_url": "https://image.torob.com/base/images/Ss/tZ/SstZWP22aD_BExfw.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت سرخ ( آلماندین ) معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "آلماندین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "034e4f43-022b-4e59-a350-f01372e94300",
+    "image_url": "https://image.torob.com/base/images/yw/rc/ywrcCKraAXrE8YpD.jpg"
+  },
+  {
+    "title": "نگین سنگ گارنت پیروپ معدنی کشور برزیل",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت پیروپ"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی",
+          "برزیل"
+        ]
+      }
+    ],
+    "random_key": "8756f596-5315-4fee-8e85-e15d9129dd00",
+    "image_url": "https://image.torob.com/base/images/j1/Rd/j1RdPJ6_p3OfamdW.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت رودولایت معدنی کد 34846",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "868b7744-3164-4167-aeb5-76a2d6b8d881",
+    "image_url": "https://image.torob.com/base/images/YD/EN/YDENquBh6HHaCsnN.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ معدنی و طبیعی اعلا - کد 582",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "اعلا"
+        ]
+      }
+    ],
+    "random_key": "8d1e6da7-96a8-4925-b22e-496280518869",
+    "image_url": "https://image.torob.com/base/images/eu/l-/eul--SLi5HhoUe-r.jpg"
+  },
+  {
+    "title": "راف گارنت سبز (کد72)",
+    "group": "نامشخص",
+    "product": "راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "b73ada17-ece3-4e46-b880-0d996d3246c1",
+    "image_url": "https://image.torob.com/base/images/xt/oe/xtoeQaAJW-do5KnJ.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "9fbdfc6d-36f6-4ad1-af5b-2a04d3f148a2",
+    "image_url": "https://image.torob.com/base/images/n6/o6/n6o6kF56XTZc4e6g.jpg"
+  },
+  {
+    "title": "نگین گارنت گومت 10*14 دامله تراش",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گومت"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "10*14"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "دامله"
+        ]
+      }
+    ],
+    "random_key": "2486969a-bcd1-4ad1-b42c-698811e9e5d5",
+    "image_url": "https://image.torob.com/base/images/VC/_M/VC_My9i4rydQRTkc.jpg"
+  },
+  {
+    "title": "فروش گارنت سبز دمانتویید جواهری",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروش"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتویید"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      }
+    ],
+    "random_key": "e3300870-e9b9-4208-877d-ccf74fa7a4b6",
+    "image_url": "https://image.torob.com/base/images/fx/5s/fx5surQixH3IkC_M.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 5 قیراط کد 33973",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5 قیراط"
+        ]
+      }
+    ],
+    "random_key": "79112b92-a943-4194-892f-2fba2f1553b4",
+    "image_url": "https://image.torob.com/base/images/KR/xQ/KRxQ-51unpby0H2h.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      }
+    ],
+    "random_key": "42f4eae2-b91e-4fbc-82ee-50ec9ef08d43",
+    "image_url": "https://image.torob.com/base/images/-7/3y/-73yjOzVU1pJyA6s.webp"
+  },
+  {
+    "title": "نگین گارنت کد 11215",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "0b65b4b5-21b8-4c29-ab98-3049d42ba918",
+    "image_url": "https://image.torob.com/base/images/p2/F7/p2F7DB2sYtBaqzRG.jpg"
+  },
+  {
+    "title": "مهره گارنت معدنی با کیفیت درجه یک",
+    "group": "نامشخص",
+    "product": "مهره گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "c935d41f-688b-4399-892a-e9042a2f8061",
+    "image_url": "https://image.torob.com/base/images/Z8/IN/Z8INC_cQ3GDTkeQQ.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت رودولایت معدنی با وزن 4 قیراط کد 30725",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "رودولایت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4 قیراط"
+        ]
+      }
+    ],
+    "random_key": "35c3cebb-6d41-4a11-b14c-10100f0df2ba",
+    "image_url": "https://image.torob.com/base/images/CQ/Ge/CQGe8ndFIOUBt4QR.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید5.10ct کدgn174",
+    "group": "نامشخص",
+    "product": "گارنت دمانتوئید",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5.10ct"
+        ]
+      }
+    ],
+    "random_key": "ccbb43df-dfce-45d7-a71c-6c0ca9d317db",
+    "image_url": "https://image.torob.com/base/images/BS/DO/BSDOWFULiqAfxflO.jpg"
+  },
+  {
+    "title": "نگین گارنت4/50 قیراط کد GN27",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4.50 قیراط"
+        ]
+      }
+    ],
+    "random_key": "f4b55f56-8fe6-46a0-823d-4e1e85529a53",
+    "image_url": "https://image.torob.com/base/images/Rt/nY/RtnYEuRN_N4g0cAc.jpg"
+  },
+  {
+    "title": "گارنت سبز دمانتوئید کیفیت زمرد کلمبیایی 15 گرم 6 میلیون و 500 هزار تومان موجودی را جویا شوید",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت زمرد کلمبیایی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "15 گرم"
+        ]
+      }
+    ],
+    "random_key": "fa483c88-d02d-443e-8093-b27629e3dab6",
+    "image_url": "https://image.torob.com/base/images/OL/fk/OLfkalhaCjTdLtL2.jpg"
+  },
+  {
+    "title": "گارنت 160ct کدGN280",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "160ct"
+        ]
+      }
+    ],
+    "random_key": "854430df-a9f9-4d5f-86d9-9e4cd0c4c4b7",
+    "image_url": "https://image.torob.com/base/images/F9/bW/F9bW4872U5740Yux.jpg"
+  },
+  {
+    "title": "سنگ گارنت دمانتوئید سبز تکاب",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "تکاب"
+        ]
+      }
+    ],
+    "random_key": "63891b6a-0d63-41ae-a915-5bdabf2a4bd3",
+    "image_url": "https://image.torob.com/base/images/qJ/Ln/qJLnLi419SM_q2QI.jpg"
+  },
+  {
+    "title": "نگین سنگین 8 عدد گارنت قهوه ای 100.50 قیراط طبیعی",
+    "group": "نامشخص",
+    "product": "نگین سنگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "100.50 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "a1c983a3-6f79-4f9a-984a-241e0b7a7744",
+    "image_url": "https://image.torob.com/base/images/QS/86/QS86TEv7cRSYq3xq.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ معدنی و طبیعی کد 590",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "326862ad-a3ca-42cf-9fa4-5466e574ee27",
+    "image_url": "https://image.torob.com/base/images/44/ka/44kavxxodGcejypS.jpg"
+  },
+  {
+    "title": "سنگ گارنت سبز دمانتوئید معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "47046f8b-db33-4905-a7bf-151330ad48a4",
+    "image_url": "https://image.torob.com/base/images/Bk/Nt/BkNtlCEtPMZThgXr.jpg"
+  },
+  {
+    "title": "یاقوت گارنت مرجان سرخ سنگ خون جاسپر سرخ ابسیدین ماهاگونی دستبند یاقوت مرجان گارنت سنگ خون جاسپر سرخ ابسیدین ماهاگونی",
+    "group": "نامشخص",
+    "product": "دستبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبند"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      }
+    ],
+    "random_key": "29620327-1ea2-41a8-ad26-f8d4a4ba2b4c",
+    "image_url": "https://image.torob.com/base/images/tg/-6/tg-6OKsbiQQufXQP.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ معدنی وطبیعی تراش فست",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "فست"
+        ]
+      }
+    ],
+    "random_key": "0e4f851e-e904-4619-bb2e-9dba7aff2e91",
+    "image_url": "https://image.torob.com/base/images/Wa/BO/WaBO-sP1IJ0n577b.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید5.90ct کدgn100",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5.90ct"
+        ]
+      }
+    ],
+    "random_key": "b7c82536-df94-44ea-9655-fad98ee29a84",
+    "image_url": "https://image.torob.com/base/images/vc/jd/vcjduvDQAZWiRUJ0.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "d31f4c0e-317f-4e3e-abdd-0869db4af04e",
+    "image_url": "https://image.torob.com/base/images/3K/eY/3KeYnoI6dR_1JzU2.jpg"
+  },
+  {
+    "title": "10 بلور جواهری گارنت دمانتوئید سبز کرمان",
+    "group": "نامشخص",
+    "product": "بلور گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "کرمان"
+        ]
+      }
+    ],
+    "random_key": "674b7be2-3193-4db7-a3b6-b0cd0ec6571f",
+    "image_url": "https://image.torob.com/base/images/ll/8K/ll8K1zBAMzQMhZS8.jpg"
+  },
+  {
+    "title": "گارنت نارنجی طبیعی 2.65 قیراط 9 میل",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "2.65 قیراط"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "9 میل"
+        ]
+      }
+    ],
+    "random_key": "2100a1a1-d41d-4e89-9f49-b81ef75b028b",
+    "image_url": "https://image.torob.com/base/images/HD/k6/HDk6u9U3E0MFEOes.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "d26d264f-bdb7-4366-99bd-0cc7f80ef66e",
+    "image_url": "https://image.torob.com/base/images/7v/dP/7vdPm7rW0eRSwLW-.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 7 قیراط کد 33060",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "7 قیراط"
+        ]
+      }
+    ],
+    "random_key": "0c22c480-f62a-47ee-999f-74f6f35de0c9",
+    "image_url": "https://image.torob.com/base/images/cr/32/cr32nLQ0dON9B4iV.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید 15.50ct کدGN220",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "15.50ct"
+        ]
+      }
+    ],
+    "random_key": "b0473012-28cf-4ea6-9268-053bc914b35d",
+    "image_url": "https://image.torob.com/base/images/Xx/-7/Xx-7fZ0soADF_UNb.jpg"
+  },
+  {
+    "title": "نگین گارنت دمانتوئید کرمان اصل کد 023",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "کرمان"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "b552fb9d-34ad-479c-8bf9-dadbb7ef3571",
+    "image_url": "https://image.torob.com/base/images/EF/Kf/EFKfwOmSidQb-GhV.jpg"
+  },
+  {
+    "title": "گارنت توکار 32 وات",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [],
+    "random_key": "6a4d9557-225a-4a71-899c-c3c6716ca69a",
+    "image_url": "https://image.torob.com/base/images/fF/JE/fFJExOozacPPEOKu.webp"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "6cb0c408-8337-4667-8b15-20e7087134cc",
+    "image_url": "https://image.torob.com/base/images/JE/3M/JE3M-iNqy1XQDVo2.jpg"
+  },
+  {
+    "title": "سنگ گارنت | خواص سنگ گارنت",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "80968c44-751a-4c77-83b2-b9fcf2c49283",
+    "image_url": "https://image.torob.com/base/images/TM/gQ/TMgQW_bAyloP3gPb.webp"
+  },
+  {
+    "title": "بلور گارنت دمانتوئید بر روی بستر 73 گرم",
+    "group": "نامشخص",
+    "product": "بلور گارنت دمانتوئید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بر روی بستر"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "73 گرم"
+        ]
+      }
+    ],
+    "random_key": "7761f617-027d-4236-8d94-34a67d282971",
+    "image_url": "https://image.torob.com/base/images/3s/XR/3sXRuTYtmecWNli5.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "1907d494-6c28-45f5-b848-a1f388c05bec",
+    "image_url": "https://image.torob.com/base/images/nk/1J/nk1JkjXlJ_5UmJfh.jpg"
+  },
+  {
+    "title": "گارنت معدنی تراش جواهری 9680",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "جواهری"
+        ]
+      }
+    ],
+    "random_key": "47081a03-9445-4659-947b-037464f94e53",
+    "image_url": "https://image.torob.com/base/images/m7/0D/m70DJw7FM7eKjp0r.jpg"
+  },
+  {
+    "title": "گارنت هسونیت طبیعی 5.9 قیراط",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5.9 قیراط"
+        ]
+      }
+    ],
+    "random_key": "471b8714-ca46-436e-b3d2-963c41331bc6",
+    "image_url": "https://image.torob.com/base/images/xw/2L/xw2L8yjOzatuHouZ.jpg"
+  },
+  {
+    "title": "سنگ چیپسی گارنت آقای خرازی",
+    "group": "نامشخص",
+    "product": "سنگ چیپسی گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ چیپسی"
+        ]
+      }
+    ],
+    "random_key": "ac0b140e-4bb2-42e2-9666-d2f4371a7197",
+    "image_url": "https://image.torob.com/base/images/P3/JX/P3JXmj_TuKXNUgw0.jpg"
+  },
+  {
+    "title": "مهره سنگ گارنت سایز 10 سوراخ دار اصل طبیعی",
+    "group": "نامشخص",
+    "product": "مهره سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "10"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "06b289c5-4c1e-4219-9260-966f48f94ad7",
+    "image_url": "https://image.torob.com/base/images/8M/CJ/8MCJmgtnoKEnNebl.jpg"
+  },
+  {
+    "title": "نگین درشت سنگ طبیعی گارنت سرخ معدنی کد 34849",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      }
+    ],
+    "random_key": "70f25ae8-fb07-4d69-bb50-edb1f42eb3e5",
+    "image_url": "https://image.torob.com/base/images/R1/lu/R1luYPJHWd2B4y2y.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی (نیمه کریستالی)",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نیمه کریستالی"
+        ]
+      }
+    ],
+    "random_key": "de89567d-a674-4ad2-9f1b-9c4e1e03c0cc",
+    "image_url": "https://image.torob.com/base/images/zD/cr/zDcr9ZvEgzgZHq02.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید 9ct کدGN313",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "9ct"
+        ]
+      }
+    ],
+    "random_key": "fc578fda-d668-4d63-8756-c538991069f7",
+    "image_url": "https://image.torob.com/base/images/zb/-k/zb-kAsWew1VKMVJm.jpg"
+  },
+  {
+    "title": "گارنت درشت طبیعی 102قیراطی اصل و معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "102 قیراطی"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "e16e5bf7-15bd-49a5-830e-c25d06e91047",
+    "image_url": "https://image.torob.com/base/images/Vq/LY/VqLYr53MuJ6eKWag.jpg"
+  },
+  {
+    "title": "نگین گارنت اصل وطبیعی5/85 قیراط کد GN18",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "5.85 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین گارنت"
+        ]
+      }
+    ],
+    "random_key": "f888fb18-dad1-4da1-8155-060895f576f5",
+    "image_url": "https://image.torob.com/base/images/tl/fy/tlfyhUKK8OgzceX4.jpg"
+  },
+  {
+    "title": "ریسه سنگ گارنت سایز 8 تراش درجه یک",
+    "group": "نامشخص",
+    "product": "ریسه سنگ گارنت",
+    "entities": [
+      {
+        "name": "اندازه",
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "5eabaf22-ffae-4f16-bdd3-b38a4c58aff7",
+    "image_url": "https://image.torob.com/base/images/8I/0G/8I0G8k8rtk4ypvTR.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "e2c3b1e3-427f-4e36-bb14-d26dbec225e3",
+    "image_url": "https://image.torob.com/base/images/jr/en/jrenO1pY5rNfCyPX.webp"
+  },
+  {
+    "title": "نگین گارنت سرخ طبیعی کد GRR10207",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین گارنت"
+        ]
+      }
+    ],
+    "random_key": "54631752-564b-4c07-b293-42f31d1acaa9",
+    "image_url": "https://image.torob.com/base/images/sp/oP/spoPf0dbLKrwhRrn.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      }
+    ],
+    "random_key": "f09fe4c3-1fd7-413d-aafc-f3917ed0b4cb",
+    "image_url": "https://image.torob.com/base/images/AV/p2/AVp2kNowk3Y9TRbP.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی ۶/۵ قیراط کد : 33971",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6.5 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "9753edb3-243d-4a51-9a92-8c6ec56cd0ec",
+    "image_url": "https://image.torob.com/base/images/0C/Ge/0CGeGGRpQ8KokiHN.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "3984f20b-fcde-4786-9fd9-382ffb8415b6",
+    "image_url": "https://image.torob.com/base/images/Ca/US/CaUSo1kYeSmejwlf.webp"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 4.45 قیراط کد 33058",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4.45 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "cbda5e0b-107f-4b96-a430-5b12011766e0",
+    "image_url": "https://image.torob.com/base/images/cE/yE/cEyEqjYeZpppwcNS.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید گرم 72کد gn331",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "72 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "ac2c06cb-828e-4675-b94f-54aee0c7df02",
+    "image_url": "https://image.torob.com/base/images/rj/kq/rjkqxah0Y6KtOKBS.jpg"
+  },
+  {
+    "title": "گارنت5.5ct کدgn118",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "5.5 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "5b138746-bb0b-4a4a-8192-4358911fba11",
+    "image_url": "https://image.torob.com/base/images/eC/di/eCdil58oGm7TdAIW.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت اناری معدنی کد : 34839",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت اناری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "32a85e2b-072d-4d5c-b1b0-2853936cfb77",
+    "image_url": "https://image.torob.com/base/images/Nm/Mp/NmMp-Pnl-ofg48at.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      }
+    ],
+    "random_key": "07574f14-dc33-4739-b858-50e3ea61a2ab",
+    "image_url": "https://image.torob.com/base/images/3d/M0/3dM0xvn89783MIUV.jpg"
+  },
+  {
+    "title": "نگین خاص گارنت رودولایت قلب",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین گارنت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "قلب"
+        ]
+      }
+    ],
+    "random_key": "351c1470-1fb0-46bc-b2d1-68a7200363e9",
+    "image_url": "https://image.torob.com/base/images/XA/C8/XAC89jEWKSv14p8y.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ گارنت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      }
+    ],
+    "random_key": "4edf79a9-e02f-4e48-ba41-ade7b52ef9dd",
+    "image_url": "https://image.torob.com/base/images/3n/T-/3nT-1C1lxL4gh8hK.jpg"
+  },
+  {
+    "title": "دیمانتویید طبیعی گارنت14/15 قیراط کد GN82",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دیمانتویید گارنت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "14.15 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ گارنت"
+        ]
+      }
+    ],
+    "random_key": "8f931584-0a0c-40fd-8910-fd5f6e7d9c35",
+    "image_url": "https://image.torob.com/base/images/Wm/4Q/Wm4QTnvjbbSXAoL7.jpg"
+  },
+  {
+    "title": "گارنت رودولایت شرابی طبیعی 1.15 قیراطی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "رودولایت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "شرابی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "1.15 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "fdef14c1-266d-46f2-b063-68be6644c414",
+    "image_url": "https://image.torob.com/base/images/KM/8w/KM8wMeaozkCgmE6n.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت دارچینی معدنی ۵/۶ قیراط کد : 33276",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دارچینی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5/6 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "7718fc0f-1418-4151-92de-2f2ad62074e5",
+    "image_url": "https://image.torob.com/base/images/Gs/zz/GszzAUhM_rj-u020.jpg"
+  },
+  {
+    "title": "بلور چند وجهی سنگ گارنت سرخ ( آلماندین ) معدنی",
+    "group": "نامشخص",
+    "product": "بلور سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "آلماندین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "ebd07a14-96b5-4c6a-a38f-4f0daf4fc8f6",
+    "image_url": "https://image.torob.com/base/images/SF/_r/SF_rw-RLKx3SJDB3.jpg"
+  },
+  {
+    "title": "سنگ راف گارنت دمانتوئید کلکسیونی کمیاب 102 گرم",
+    "group": "نامشخص",
+    "product": "سنگ راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "102 گرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی",
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "47ed4420-3747-4cab-980c-f2d12311eb17",
+    "image_url": "https://image.torob.com/base/images/lt/eB/lteBuz7PFk8MJ1VD.jpg"
+  },
+  {
+    "title": "نگین گارنت کد 26753",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "f146d54b-52cd-49ec-9ce7-427d41065d92",
+    "image_url": "https://image.torob.com/base/images/8L/DH/8LDHVL2G-X0PXO6F.webp"
+  },
+  {
+    "title": "نگین گارنت سرخ طبیعی کد GRR10202",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "8dd2f5ae-4f89-4c04-829d-821cdb1e2ec0",
+    "image_url": "https://image.torob.com/base/images/aI/Ae/aIAelU7B77CSCdK2.jpg"
+  },
+  {
+    "title": "سنگ راف گارنت سبز دمانتوید",
+    "group": "نامشخص",
+    "product": "سنگ راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "6c1059e3-c4e8-453d-a7b2-8da821fa46ce",
+    "image_url": "https://image.torob.com/base/images/ye/gd/yegdsMX18-d09PdT.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "0f513efd-b8b3-408a-8600-b6ddbed1a4df",
+    "image_url": "https://image.torob.com/base/images/Vr/pt/VrptX0zbkOUhYZ1P.jpg"
+  },
+  {
+    "title": "بارخانه 25 عددی گارنت هسونایت 100 طبیعی نایاب",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "هسونایت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نایاب"
+        ]
+      }
+    ],
+    "random_key": "9d772de7-a82b-4c3e-90da-ec030c8b19fa",
+    "image_url": "https://image.torob.com/base/images/ie/Pf/iePfy16qyKWZr6No.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "راف سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "4d45ea3d-5734-4288-90df-9fe3d39b6347",
+    "image_url": "https://image.torob.com/base/images/ak/jH/akjHP3SU82JdKp6p.jpg"
+  },
+  {
+    "title": "مهره سنگ دفرمه گارنت ریز سوراخ دار کد281",
+    "group": "نامشخص",
+    "product": "مهره سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "دفرمه",
+          "ریزه سوراخ دار"
+        ]
+      }
+    ],
+    "random_key": "13017d6f-35f9-4d65-ad58-2b9876070fd7",
+    "image_url": "https://image.torob.com/base/images/uy/dR/uydR2aU99WbAJ0nx.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "هسونیت"
+        ]
+      }
+    ],
+    "random_key": "e189320a-39ee-4516-9fad-28053a1c7753",
+    "image_url": "https://image.torob.com/base/images/bm/sp/bmspanAgEIbFbrkK.jpg"
+  },
+  {
+    "title": "سنگ راف گارنت دمانتوئید طبیعی کمیاب 421 گرم",
+    "group": "نامشخص",
+    "product": "سنگ راف گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "421 گرم"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "3e8f028e-67c0-47bb-a7f6-9418a9a3e415",
+    "image_url": "https://image.torob.com/base/images/x8/2J/x82J-ybcW_R9Mfcd.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی ۶/۷ قیراط کد : 33972",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6/7 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "c668336f-6818-45d6-8657-170ec224b69e",
+    "image_url": "https://image.torob.com/base/images/UX/7t/UX7tVjyCBur2enIC.jpg"
+  },
+  {
+    "title": "نگین سنگ گارنت معدنی کد30714",
+    "group": "نامشخص",
+    "product": "نگین سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "468fc6e5-0b25-4516-928c-63a89a55f7e8",
+    "image_url": "https://image.torob.com/base/images/rk/WO/rkWOBVad1wnODjjm.jpg"
+  },
+  {
+    "title": "گارنت زیبای دمانتویید سبز رنگ با بلور درشت به همراه پایه چوبی مناسب دکور و ویترین",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتویید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "بلور درشت"
+        ]
+      }
+    ],
+    "random_key": "b073bad4-7034-454c-96fc-10b2226c4ae3",
+    "image_url": "https://image.torob.com/base/images/93/RQ/93RQ6nqDDDGp7AkR.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت رودولایت معدنی کد 34847",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      }
+    ],
+    "random_key": "a671a668-f666-4da4-ab8b-82379d3e3496",
+    "image_url": "https://image.torob.com/base/images/iq/OG/iqOGfz6S-oGT2LZV.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "76e252f0-e34f-4523-bc63-2ee12b2f25d5",
+    "image_url": "https://image.torob.com/base/images/Mg/el/MgelTwBPlZhg4Chi.jpg"
+  },
+  {
+    "title": "کریستال اعلای طبیعی گارنت3/05 قیراط کد GN91",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کریستال"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اعلای طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "3/05 قیراط"
+        ]
+      }
+    ],
+    "random_key": "8df8473d-a6c7-4d38-98bb-ff5be47c6d23",
+    "image_url": "https://image.torob.com/base/images/gq/AV/gqAVQNXasmG296NY.jpg"
+  },
+  {
+    "title": "سِت جذاب گارنت رودولایت سرخ آلبالویی",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سِت"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ آلبالویی"
+        ]
+      }
+    ],
+    "random_key": "49ccb701-29bb-45ce-8026-41da8717b4f6",
+    "image_url": "https://image.torob.com/base/images/46/jZ/46jZ4bOnovmuxQ62.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      }
+    ],
+    "random_key": "beb917f0-3076-48ca-8b70-1fae30e91a5f",
+    "image_url": "https://image.torob.com/base/images/B9/pl/B9plrXY4kt2ohM3F.webp"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی وزن 1قیراط کد 31029",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "1قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "d05d591c-c967-460b-b24b-589bb4164e97",
+    "image_url": "https://image.torob.com/base/images/ne/66/ne66HG5B71PRHJnf.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "f35d8dc5-72f5-4c2f-9ad0-770282799afa",
+    "image_url": "https://image.torob.com/base/images/oL/tZ/oLtZq26LNliDuqOv.jpg"
+  },
+  {
+    "title": "نگین گارنت رودولایت 8*12 میلیمتری اوال کات",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت رودولایت"
+        ]
+      },
+      {
+        "name": "اندازه",
+        "values": [
+          "8*12 میلیمتری"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "اوال کات"
+        ]
+      }
+    ],
+    "random_key": "61a7c338-e893-4afe-bbd2-f8fbb4f01539",
+    "image_url": "https://image.torob.com/base/images/cj/LL/cjLLc7sSV9gfIt7n.jpg"
+  },
+  {
+    "title": "جفت کلوخه گارنت رورشدی",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کلوخه"
+        ]
+      }
+    ],
+    "random_key": "83662934-7dd5-46e2-afb7-c5c4fb7aace5",
+    "image_url": "https://image.torob.com/base/images/Kq/lh/Kqlh9Ohxq7wqwYXb.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "b22c79bb-4a87-459e-bbd1-fb6cc78e3ace",
+    "image_url": "https://image.torob.com/base/images/dq/W_/dqW_JytWJZoqhcGs.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید16ct کدgn139",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "16ct"
+        ]
+      }
+    ],
+    "random_key": "a681319c-7040-4024-8c33-e595d763ad0f",
+    "image_url": "https://image.torob.com/base/images/Df/h7/Dfh71IrT2FWzaaWq.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 3.4 قیراط کد 33067",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "3.4 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "cec1e5b7-652f-45b1-bf12-b14de806b9d7",
+    "image_url": "https://image.torob.com/base/images/NT/kR/NTkROcTuGCycO_V9.jpg"
+  },
+  {
+    "title": "نگین گارنت اصل و طبیعی زیبا با تراش Emerald",
+    "group": "نامشخص",
+    "product": "نگین گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "اصل",
+          "طبیعی",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "Emerald"
+        ]
+      }
+    ],
+    "random_key": "f7bca066-17c3-48eb-9f00-f18c6de813e9",
+    "image_url": "https://image.torob.com/base/images/Dg/ut/Dgut7NJ7IyqnmYN9.jpg"
+  },
+  {
+    "title": "گارنت با بلورهای ریز قرمز منحصر کد 24032",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بلورهای ریز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "2efe9e3c-4935-47a9-be17-c02a13b3912a",
+    "image_url": "https://image.torob.com/base/images/1f/3I/1f3I1iF7q91CiEXW.jpg"
+  },
+  {
+    "title": "گارنت سرخ (اناری) معدنی",
+    "group": "نامشخص",
+    "product": "گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "اناری"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "c77ab50d-cda5-405e-8ad5-e2d45da6bd4b",
+    "image_url": "https://image.torob.com/base/images/hw/Eq/hwEqsviyD29aeHoF.jpg"
+  },
+  {
+    "title": "سنگ راف گارنت دمانتوئید کلکسیونی 26 گرم",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "26 گرم"
+        ]
+      }
+    ],
+    "random_key": "2d60fc30-b1af-470d-aa67-e08992ab8077",
+    "image_url": "https://image.torob.com/base/images/AX/k3/AXk3apxZZCHQ5Onk.jpg"
+  },
+  {
+    "title": "سنگ معدنی راف گارنت سبز دمانتویید ،کلکسیونی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتویید"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      }
+    ],
+    "random_key": "ad95246d-e001-4599-a841-3ec9bd334aae",
+    "image_url": "https://image.torob.com/base/images/pW/ZV/pWZVQ7eU_at3_LVa.jpg"
+  },
+  {
+    "title": "ریسه سنگ گارنت مدل شکسته",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "شکسته"
+        ]
+      }
+    ],
+    "random_key": "8a20952b-037b-4b88-8cce-5b3ebe57c0cc",
+    "image_url": "https://image.torob.com/base/images/98/B8/98B8vX-6rfca1oR2.jpg"
+  },
+  {
+    "title": "گارنت سبز دمانتوئید فین هرمزگان کیفیت زمردی قیمت سه بسته باهم 5 میلیون و 600 هزار تومان موجودی را جویا شوید",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "دمانتوئید"
+        ]
+      },
+      {
+        "name": "منشأ",
+        "values": [
+          "فین هرمزگان"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "کیفیت زمردی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "2f358ad2-3934-48a5-bc7f-e55fcf9439f0",
+    "image_url": "https://image.torob.com/base/images/7L/zp/7LzpnKvwqurTlFSe.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "هسونیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "fc8a1262-e39f-4824-9925-1bf6e4ae63f3",
+    "image_url": "https://image.torob.com/base/images/Tt/3D/Tt3D1hFj4kc7dccJ.webp"
+  },
+  {
+    "title": "نگین سنگ گارنت سرخ معدنی وزن 5 قیراط کد 31004",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      }
+    ],
+    "random_key": "c937b7f1-641e-4f9d-9da3-8fa1eb711b96",
+    "image_url": "https://image.torob.com/base/images/J5/4N/J54NeH1JPQ9PnydG.jpg"
+  },
+  {
+    "title": "نگین گارنت هسونیت طبیعی 5.2 قیراط",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "هسونیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "5.2 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "edbaef67-1526-49fe-a2f8-ad6962f1fc5c",
+    "image_url": "https://image.torob.com/base/images/5y/3k/5y3k_wCBUGh0_2_D.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی کد 34837",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      }
+    ],
+    "random_key": "b1a46b60-5de0-470c-b06a-e4e75b51c26b",
+    "image_url": "https://image.torob.com/base/images/r_/OB/r_OBLEHlpqeBZXDr.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ"
+        ]
+      }
+    ],
+    "random_key": "35208c4e-99eb-4c95-b9a5-87d1dec44fe5",
+    "image_url": "https://image.torob.com/base/images/R1/vy/R1vyfH-nrrByUt_M.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "هسونیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "1e32935b-f44b-421e-8a58-bfd6b39c5b7b",
+    "image_url": "https://image.torob.com/base/images/eN/gy/eNgyqEaTVEOdi95V.webp"
+  },
+  {
+    "title": "بلور های گارنت سرخ (آلماندین) معدنی واقع در بستر",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "بلور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "آلماندین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "واقع در بستر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلور گارنت"
+        ]
+      }
+    ],
+    "random_key": "b7b66b1d-9316-4653-b574-756e583d303d",
+    "image_url": "https://image.torob.com/base/images/iQ/5l/iQ5lZ4n85slZ-yYx.jpg"
+  },
+  {
+    "title": "راف گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف گارنت"
+        ]
+      }
+    ],
+    "random_key": "41b0df55-b4b6-41bd-ae01-abfd21f3a184",
+    "image_url": "https://image.torob.com/base/images/KO/gf/KOgfHnCxOiaMJGX3.jpg"
+  },
+  {
+    "title": "سنگ راف گارنت اسپارتین جواهری نایاب",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "اسپارتین"
+        ]
+      },
+      {
+        "name": "شفافیت",
+        "values": [
+          "جواهری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نایاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف"
+        ]
+      }
+    ],
+    "random_key": "4fc98db2-41db-49ee-a358-8f08924ca0ad",
+    "image_url": "https://image.torob.com/base/images/qz/Ja/qzJao-1TMLYI0f-U.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت رودولایت معدنی 2 قیراط کد 33967",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "رودولایت"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "2 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      }
+    ],
+    "random_key": "1c760ac9-085e-43ae-9bc3-0cc859f739b1",
+    "image_url": "https://image.torob.com/base/images/iG/-d/iG-dfHtOsEqP-gy-.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 7 قیراط 33060",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "7 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      }
+    ],
+    "random_key": "db789a62-bd79-48b4-82d9-82ea9971dbf7",
+    "image_url": "https://image.torob.com/base/images/rj/75/rj75R_jm7EyyIMbx.jpg"
+  },
+  {
+    "title": "گارنت عسلی 8",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "عسلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گارنت"
+        ]
+      }
+    ],
+    "random_key": "b614867d-2014-4f5c-9df9-999304b049e0",
+    "image_url": "https://image.torob.com/base/images/3A/X3/3AX3_U6QCKLn9ESn.jpg"
+  },
+  {
+    "title": "راف گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گروسولار",
+          "آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف گارنت"
+        ]
+      }
+    ],
+    "random_key": "857eb0c2-cb3b-45cb-9b37-4e4f8c5df19f",
+    "image_url": "https://image.torob.com/base/images/JU/0X/JU0XMcjJ61ULXuEy.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "4a61a5a2-173d-460f-a4f7-7e2ddd0aaa67",
+    "image_url": "https://image.torob.com/base/images/RU/XA/RUXA7bozXKyxNmIh.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 8.7 قیراط کد 33073",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "8.7 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "e11d6827-5af8-473a-a9f4-e45f6ae37104",
+    "image_url": "https://image.torob.com/base/images/fW/8H/fW8HsvXk_Nh-zmmq.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت سرخ ( آلماندین ) معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "آلماندین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "ef5adf48-9807-4a0d-a912-ccd826fdea00",
+    "image_url": "https://image.torob.com/base/images/sp/2D/sp2DstS7GXosZMjX.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "f4d31c4e-cd6d-45cd-a24a-af954eaa2e79",
+    "image_url": "https://image.torob.com/base/images/je/2F/je2FmBTi30mFQ8h5.jpg"
+  },
+  {
+    "title": "نگین خوشرنگ گارنت 75/65قیراط کدGn323",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "6.75 قیراط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "7d13df7f-80af-4a54-8c37-283b521736f7",
+    "image_url": "https://image.torob.com/base/images/d-/XF/d-XFKaLnHCQceOOQ.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی گارنت معدنی 3.55 قیراط کد 33965",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "3.55 قیراط"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "63f5141f-0019-4c4a-ad19-92cc4244e85f",
+    "image_url": "https://image.torob.com/base/images/ee/Tc/eeTcedhId5_6hjyt.jpg"
+  },
+  {
+    "title": "نگین سنگین گارنت سبز دمانتویید طبیعی 11.90 قیراط",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "11.90 قیراط"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "f5cd3e14-16f3-476a-8ac0-6c5190bf97a6",
+    "image_url": "https://image.torob.com/base/images/-r/tr/-rtrTTLNDfayJ1EH.jpg"
+  },
+  {
+    "title": "نگین گارنت سرخ طبیعی کد GRR10206",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "eca04739-ffcb-40dc-bf72-2eefbeb06c64",
+    "image_url": "https://image.torob.com/base/images/fQ/LX/fQLXaXDFIuCpFPnk.jpg"
+  },
+  {
+    "title": "مخمل گارنت قرمز",
+    "group": "نامشخص",
+    "product": "مخمل گارنت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "fc3132ae-c559-4a00-ab29-69f8e0b975de",
+    "image_url": "https://image.torob.com/base/images/4M/bM/4MbMXXo49m38tMl6.jpg"
+  },
+  {
+    "title": "راف سنگ گارنت گروسولار و آندرادیت معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت گروسولار",
+          "گارنت آندرادیت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "78416526-b7f4-44ce-affc-acf5e90d0a79",
+    "image_url": "https://image.torob.com/base/images/78/iJ/78iJs_sfThUATg-C.jpg"
+  },
+  {
+    "title": "گارنت هسونیت",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "615c8dbb-515f-4fcb-9340-550daa509157",
+    "image_url": "https://image.torob.com/base/images/SE/3w/SE3wej_R8VOlST78.webp"
+  },
+  {
+    "title": "نگین سنگ گارنت سرخ آلماندین معدنی (تراش اوال)",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "آلماندین"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "اووال"
+        ]
+      }
+    ],
+    "random_key": "3a2ce6db-6a8b-4e50-9efb-985ca9b4bf16",
+    "image_url": "https://image.torob.com/base/images/KW/f9/KWf9aIqF8MJRGV8t.jpg"
+  },
+  {
+    "title": "نگین گارنت پایروپ سرخ سیاه 2.7 قیراطی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت پایروپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "2.7 قیراط"
+        ]
+      }
+    ],
+    "random_key": "5438d8be-4491-4484-a82e-ba8f2548ed79",
+    "image_url": "https://image.torob.com/base/images/8k/0K/8k0KP2kqD5ovA2AS.jpg"
+  },
+  {
+    "title": "گارنت دمانتوئید4.15ct کدgn120",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت دمانتوئید"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4.15 قیراط"
+        ]
+      }
+    ],
+    "random_key": "e3c40780-eb7e-409c-9a33-42e303df15ac",
+    "image_url": "https://image.torob.com/base/images/Nd/a4/Nda49deJsQ_WGXOu.jpg"
+  },
+  {
+    "title": "گارنت هسونایت طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع گارنت",
+        "values": [
+          "گارنت هسونایت"
+        ]
+      },
+      {
+        "name": "اصالت و کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "1e4b9c4d-5b81-4a37-b46b-44baeb06b19f",
+    "image_url": "https://image.torob.com/base/images/YK/up/YKupjQJd-zrYQ82C.jpg"
+  },
+  {
+    "title": "گارنت26ct کدgn196",
+    "group": "نامشخص",
+    "product": "سنگ گارنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "26 قیراط"
+        ]
+      }
+    ],
+    "random_key": "0056954b-5fa7-4972-8171-6f66fccc9cfd",
+    "image_url": "https://image.torob.com/base/images/2A/qi/2AqibfPxUKComnBp.jpg"
+  }
+]

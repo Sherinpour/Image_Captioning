@@ -1,0 +1,6086 @@
+[
+  {
+    "title": "دستمال سر و گردن و اسکارف پلار ورزشی چندمنظوره",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن و اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی",
+          "چند منظوره"
+        ]
+      }
+    ],
+    "random_key": "da0cd4eb-6c10-4ff2-83ba-272029732ecb",
+    "image_url": "https://image.torob.com/base/images/QU/Lm/QULmdaLkVaFIdB46.jpg"
+  },
+  {
+    "title": "دستمال سر نخی مدل blue skulls",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "blue skulls"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "75c6734f-e29e-43a5-a375-1e82077fda6b",
+    "image_url": "https://image.torob.com/base/images/tc/Yn/tcYn_s4fuLBLfZ3r.jpg"
+  },
+  {
+    "title": "مینی اسکارف دخترانه",
+    "group": "دخترانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "07670987-44c4-4955-9128-59f1a7e1af75",
+    "image_url": "https://image.torob.com/base/images/V0/Qs/V0QsX4EefzdWh3lV.jpg"
+  },
+  {
+    "title": "اسکارف ورزشی اسپرت جنس بسیار عالی در طرح های مختلف",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "1d99162e-2f62-4cb5-85b1-15ae5cb3d7b9",
+    "image_url": "https://image.torob.com/base/images/xd/dU/xddU0Yb_3H_isKWh.jpg"
+  },
+  {
+    "title": "مینی اسکارف ابریشم مدل چهره رنگ شیری جنس ابریشم براق",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم",
+          "ابریشم براق"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چهره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "شیری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "af862c9a-153b-4347-8aef-8451cacf1f2b",
+    "image_url": "https://image.torob.com/base/images/-y/wf/-ywfQQ9XD11mTfqU.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن هاماگراف مدل ریسمان",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هاماگراف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ریسمان"
+        ]
+      }
+    ],
+    "random_key": "6f20935d-6102-4fb7-bbb7-a817ed4c4131",
+    "image_url": "https://image.torob.com/base/images/oQ/0I/oQ0IzY8uK_DiGO5r.jpg"
+  },
+  {
+    "title": "اسکارف و رینگ بچگانه",
+    "group": "بچگانه",
+    "product": "اسکارف و رینگ",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": []
+      }
+    ],
+    "random_key": "8189a316-4bf5-42a5-a32a-31d11061497d",
+    "image_url": "https://image.torob.com/base/images/s0/-5/s0-5UAnqG3LoS_9U.jpg"
+  },
+  {
+    "title": "مینی اسکارف",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "fde11900-bc78-4c68-9bae-0ee6d0167c14",
+    "image_url": "https://image.torob.com/base/images/rj/B8/rjB8W0yDcEnWTnSs.jpg"
+  },
+  {
+    "title": "باندانا بته جقه قرمز نخی/ مردانه و زنانه",
+    "group": "مردانه و زنانه",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "بته جقه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "036fff16-81de-42c2-86b0-93a1cffb96e4",
+    "image_url": "https://image.torob.com/base/images/1n/ci/1ncijwC3NCGFDujv.webp"
+  },
+  {
+    "title": "مینی اسکارف ابریشم کد1934",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "52bf2f76-0f70-41ad-9b0c-ab5a2714ab7a",
+    "image_url": "https://image.torob.com/base/images/PZ/xf/PZxf2K2KBCx8u7K_.jpg"
+  },
+  {
+    "title": "اسکارف هیمالیا مدل 0367",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      }
+    ],
+    "random_key": "13c77dac-bad6-4f20-89c7-eee8f9f36e64",
+    "image_url": "https://image.torob.com/base/images/y_/iF/y_iFV457Os3CaS-S.jpg"
+  },
+  {
+    "title": "دستمال سر EX2 مدل 668039-3",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "EX2"
+        ]
+      }
+    ],
+    "random_key": "7bdd9296-6023-4855-a2fe-a39f22171fef",
+    "image_url": "https://image.torob.com/base/images/kN/ez/kNezNFsza7U2z4-L.jpg"
+  },
+  {
+    "title": "مینی اسکارف",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "4e5bc899-a9ff-429b-a674-3ffa74f18a45",
+    "image_url": "https://image.torob.com/base/images/Ww/ak/WwakG3XVIJV0_2H5.jpg"
+  },
+  {
+    "title": "اسکارف ورزشی هزاردستان مدل DB83",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هزاردستان"
+        ]
+      }
+    ],
+    "random_key": "e0d90753-2b57-4e8d-bd3c-3cc37b9bfac6",
+    "image_url": "https://image.torob.com/base/images/LG/gu/LGgutRTTYjoMAkDC.jpg"
+  },
+  {
+    "title": "مینی اسکارف یلدایی مشکی با هندوانه قرمز ، حاشیه سبز راه راه و اشعار نستعلیق قرمز کد YM18",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "قرمز",
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "7a7d0e61-31da-4fee-8068-9e250e6914e8",
+    "image_url": "https://image.torob.com/base/images/OR/wX/ORwXIf4OV1wsDj0m.jpg"
+  },
+  {
+    "title": "بیگ اسکارف",
+    "group": "نامشخص",
+    "product": "بیگ اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیگ اسکارف"
+        ]
+      }
+    ],
+    "random_key": "ff4b0439-aad5-4706-87dd-a5dd1af4a0f0",
+    "image_url": "https://image.torob.com/base/images/_q/wl/_qwl7M6-ypTNaqaF.jpg"
+  },
+  {
+    "title": "مینی اسکارف",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "e53e749e-b7a3-4622-a522-d4b561ad8c8d",
+    "image_url": "https://image.torob.com/base/images/tM/kv/tMkviMrai0_e7BTt.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن دخترانه کد 4277",
+    "group": "دخترانه",
+    "product": "دستمال سر و گردن",
+    "entities": [],
+    "random_key": "4bd3caf5-15d0-47f1-81c8-8feaf0dd729d",
+    "image_url": "https://image.torob.com/base/images/1Q/eo/1QeoBSAFp6Uoow_t.jpg"
+  },
+  {
+    "title": "دورگ عربی",
+    "group": "نامشخص",
+    "product": "دورگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورگ عربی"
+        ]
+      }
+    ],
+    "random_key": "7a840dba-e81a-4dae-8f26-8bab426ffb0e",
+    "image_url": "https://image.torob.com/base/images/0S/Oz/0SOz8B5XVoitHc-9.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل تونلی کد 009",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونلی"
+        ]
+      }
+    ],
+    "random_key": "eba9f5e6-9eb4-489e-84b7-28bca9bb59d2",
+    "image_url": "https://image.torob.com/base/images/Or/TT/OrTToXpC_skOd5yA.jpg"
+  },
+  {
+    "title": "مینی اسکارف دخترانه نخی ارسال رایگان قواره کوچیک ۷۰ در ۷۰",
+    "group": "دخترانه",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۷۰ در ۷۰"
+        ]
+      }
+    ],
+    "random_key": "3196d1ee-9a75-4b72-9a37-96ecce44ac09",
+    "image_url": "https://image.torob.com/base/images/zh/Qb/zhQbHfBwWlAGjpRU.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری گل رنگی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      }
+    ],
+    "random_key": "44d1d63e-03fd-4937-8692-4322183be63b",
+    "image_url": "https://image.torob.com/base/images/kk/SI/kkSI8Eciq1qWZFvQ.webp"
+  },
+  {
+    "title": "دستمال سر و گردن طرح خال‌خالی درشت نارنجی",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خال خالی درشت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      }
+    ],
+    "random_key": "758c0de7-92c5-4d91-be53-1d636a635f8f",
+    "image_url": "https://image.torob.com/base/images/cY/iq/cYiqn3q9RHx4048k.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن طرح‌ دار",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح  دار"
+        ]
+      }
+    ],
+    "random_key": "6b058864-233d-47c4-b3f4-b8daf6a938d8",
+    "image_url": "https://image.torob.com/base/images/YC/8s/YC8sZHSH2a37UhbA.webp"
+  },
+  {
+    "title": "مینی اسکارف دخترانه طرح ورساچ با جنسی عالی",
+    "group": "دخترانه",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ورساچ"
+        ]
+      }
+    ],
+    "random_key": "c12bbd7a-394a-4981-9237-1c8b4093eec5",
+    "image_url": "https://image.torob.com/base/images/cL/tV/cLtVFQjllJZOGz9G.jpg"
+  },
+  {
+    "title": "مینی اسکارف پرتقالی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "پرتقالی"
+        ]
+      }
+    ],
+    "random_key": "e94bab36-1ca1-4bc1-9d0e-55ca9a7249ba",
+    "image_url": "https://image.torob.com/base/images/HS/kT/HSkT5bkmD6ZZJVBI.jpg"
+  },
+  {
+    "title": "مینی اسکارف تور سوزندوزی در رنگبندی عمده و تکی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور سوزندوزی"
+        ]
+      }
+    ],
+    "random_key": "8d755f85-85d0-410f-ab0b-24f4525419a7",
+    "image_url": "https://image.torob.com/base/images/Oq/tl/OqtlPWIGPHk2WwAu.jpg"
+  },
+  {
+    "title": "اسکارف فیس پیکسلی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف فیس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پیکسلی"
+        ]
+      }
+    ],
+    "random_key": "c96aa771-bf5b-4cdd-af02-a3051aca44f8",
+    "image_url": "https://image.torob.com/base/images/DY/s6/DYs6b5vmQzX9zAvy.jpg"
+  },
+  {
+    "title": "دستمال سر بافتنی",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      }
+    ],
+    "random_key": "aded4290-2b72-4168-b5b3-e643fbfcc930",
+    "image_url": "https://image.torob.com/base/images/JZ/PS/JZPSwW3YP1KjAuuM.jpg"
+  },
+  {
+    "title": "اسکارف دستمال سر و گردن ورزشی مدل fgthty",
+    "group": "نامشخص",
+    "product": "اسکارف دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "66dc7e44-c944-48d0-960d-eceaae299514",
+    "image_url": "https://image.torob.com/base/images/KQ/_s/KQ_sCehhctu6oQjj.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن آمان حوس / طرح AS26 کد 1630",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آمان حوس"
+        ]
+      }
+    ],
+    "random_key": "a3e718dd-2435-4044-84ca-c600d92cc74f",
+    "image_url": "https://image.torob.com/base/images/VE/xb/VExb4pKuyxL9vYUS.jpg"
+  },
+  {
+    "title": "اسکارف تو کرک مشکی اسپرت طرح اسکلتی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تو کرک"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلتی"
+        ]
+      }
+    ],
+    "random_key": "339f6710-6f3d-47e4-a292-74013ab0c457",
+    "image_url": "https://image.torob.com/base/images/Bb/xJ/BbxJdQsNBpTFweVK.webp"
+  },
+  {
+    "title": "دستمال سر و گردن باف مدل Gauxi Night Blue",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی شب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "f4973c31-4a7d-422c-8514-466b780e5ca3",
+    "image_url": "https://image.torob.com/base/images/Ys/CM/YsCMZkLyOeSsU9Ha.jpg"
+  },
+  {
+    "title": "مینی اسکارف کرپ نخ طرح بندی زمینه نگین دار",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ نخ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح بندی زمینه نگین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "28d7e32b-c9dc-4776-99c4-52b2dc380513",
+    "image_url": "https://image.torob.com/base/images/ac/Mj/acMjpLJaFcU7qhjT.jpg"
+  },
+  {
+    "title": "دستمال گردن یاسی",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "یاسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "709c46be-cbad-41b3-aaac-54f78978608b",
+    "image_url": "https://image.torob.com/base/images/Js/I6/JsI6EexJlKwKSMZH.jpg"
+  },
+  {
+    "title": "باندانا اسکلتی مدل Honor کد Njd-691d1",
+    "group": "نامشخص",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "4b5304d5-28ee-4557-83fd-faa6bbd8e806",
+    "image_url": "https://image.torob.com/base/images/lR/AG/lRAG_KhY35LlyuBP.jpg"
+  },
+  {
+    "title": "دستمال گردن کد 075010",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "37bc633f-91d7-4dff-98c3-8b3ef2f5c252",
+    "image_url": "https://image.torob.com/base/images/LV/RE/LVREcbtbC0Iwq4w4.jpg"
+  },
+  {
+    "title": "مینی اسکارف سفید مشکی کپی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "37d01a27-9ec5-4d35-afde-e00882e0040a",
+    "image_url": "https://image.torob.com/base/images/fq/rX/fqrX3nSrBMqU4P4X.jpg"
+  },
+  {
+    "title": "دورگ کاستوم کد۰۱ - مشکی دوخت",
+    "group": "نامشخص",
+    "product": "دورگ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دوخت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورگ"
+        ]
+      }
+    ],
+    "random_key": "bf2ae706-94e7-4bf7-a1ae-84328ac58afd",
+    "image_url": "https://image.torob.com/base/images/mp/dO/mpdOuz1_sceXW23u.jpg"
+  },
+  {
+    "title": "اسکارف و دستمال سر و گردن استار مدل ۸۵۸۰",
+    "group": "نامشخص",
+    "product": "اسکارف و دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف و دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "d4cd0c6e-e3ff-4da7-9a23-aca337e01bcd",
+    "image_url": "https://image.torob.com/base/images/Ri/xA/RixA8eabljd0jEdg.jpg"
+  },
+  {
+    "title": "اسکارف طرح دار کد ss1121",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "75630948-6e41-4c1d-b90f-855c747a61d9",
+    "image_url": "https://image.torob.com/base/images/ZB/hE/ZBhEjjNfiZqe6AL_.jpg"
+  },
+  {
+    "title": "پیش‌نویس ۹",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "2798f1c6-2115-4a54-b785-76d2a9a201a4",
+    "image_url": "https://image.torob.com/base/images/D9/xE/D9xERFcNXKguaISZ.jpg"
+  },
+  {
+    "title": "بیگ اسکارف",
+    "group": "نامشخص",
+    "product": "بیگ اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیگ اسکارف"
+        ]
+      }
+    ],
+    "random_key": "d0629ed9-90ce-4a8f-8483-cd2a2f46ea12",
+    "image_url": "https://image.torob.com/base/images/M-/dL/M-dL-Un7HTxevVKF.jpg"
+  },
+  {
+    "title": "اسکارف آلمانی کریویت crivit1007",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کریویت crivit"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف آلمانی"
+        ]
+      }
+    ],
+    "random_key": "7e52074d-1f1b-4f0f-87fe-06077fc47329",
+    "image_url": "https://image.torob.com/base/images/mB/nv/mBnvC0d13SPihOc_.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن تابستانی طرح پلنگی",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "3ce81bb9-be5e-4b03-a6bd-e60d6a1c300e",
+    "image_url": "https://image.torob.com/base/images/NA/V1/NAV1EzIBSuwmrOOn.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری مخمل توپی درشت 20256 رنگ سبز",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری مخمل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توپی درشت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "5aec7e06-da9b-429e-a556-77faa42e184b",
+    "image_url": "https://image.torob.com/base/images/1b/lR/1blRRtKcOJjRVkRP.jpg"
+  },
+  {
+    "title": "اسکارف توری",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "a09cceaa-40f5-4083-b195-7d1c96df9417",
+    "image_url": "https://image.torob.com/base/images/Sv/S7/SvS7bRP8sKySYJvj.jpg"
+  },
+  {
+    "title": "مینی اسکارف فانتزی جنس نخی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "528483a0-6a82-4c5b-8bdf-f6e3dcf6f6e2",
+    "image_url": "https://image.torob.com/base/images/4F/1K/4F1K1h3SpYzsMji5.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن باف m-blacnk blue",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "08e73674-cc83-4243-8ea5-734c5f5756c7",
+    "image_url": "https://image.torob.com/base/images/Vr/5B/Vr5B5xt6vN0a1tHC.jpg"
+  },
+  {
+    "title": "اسکارف بافتنی با کاموای خارجی درجه یک قرمز",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی",
+          "کاموای خارجی درجه یک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "eafab925-98c3-42da-bb61-bfeb96c4d543",
+    "image_url": "https://image.torob.com/base/images/X7/DJ/X7DJ79zMXIjajFEf.jpg"
+  },
+  {
+    "title": "مینی اسکارف اسلپ کرم تیره",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "اسلپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم تیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "13708416-4642-4389-9f48-c3143962dc37",
+    "image_url": "https://image.torob.com/base/images/Rm/22/Rm229HI27H_kPg8r.jpg"
+  },
+  {
+    "title": "مینی اسکارف توپ توپی 1982",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "توپ توپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "d526647e-f36f-41bd-8982-dc1ebdb78bb2",
+    "image_url": "https://image.torob.com/base/images/Db/jE/DbjE6GBaRvbuyUbX.jpg"
+  },
+  {
+    "title": "مینی اسکارف دخترانه",
+    "group": "دخترانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "2fa65aa2-873b-42cf-a6f8-cb97e4cae816",
+    "image_url": "https://image.torob.com/base/images/5G/Y0/5GY05guce8OPpuV3.jpg"
+  },
+  {
+    "title": "دستمال سر برند OVS طرح اسکلت",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "OVS"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "a9d01a43-9e35-4f6d-820e-540fe96e8c6e",
+    "image_url": "https://image.torob.com/base/images/1A/UP/1AUPOwa2JGfbJpGu.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل اسکارف تو خز کد 74",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تو خز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "c486261c-d2cc-40df-b46a-0e8a93a98836",
+    "image_url": "https://image.torob.com/base/images/iG/fn/iGfnMJqtseSv2gwK.webp"
+  },
+  {
+    "title": "اسکارف باندانا پسرانه و دخترانه طرح صلیبی",
+    "group": "پسرانه و دخترانه",
+    "product": "اسکارف باندانا",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "صلیبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف باندانا"
+        ]
+      }
+    ],
+    "random_key": "2c89bda1-c005-4926-ab78-63d1843761cd",
+    "image_url": "https://image.torob.com/base/images/fO/WC/fOWCiBIJhRhZs9Wk.webp"
+  },
+  {
+    "title": "اسکارف SA42 هیمالیا آبی روشن",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی روشن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "5e701e8a-d4e4-495e-8c4a-d4423e16b3d7",
+    "image_url": "https://image.torob.com/base/images/FI/xN/FIxNKk7TNk5QOrlS.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح سنتی کد 253",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "سنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "008da037-a1bf-4cf8-a498-00db2affcc04",
+    "image_url": "https://image.torob.com/base/images/Vk/7D/Vk7DNpyb7mWfZVq3.jpg"
+  },
+  {
+    "title": "مينی اسكارف خال قرمز",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خال قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "19d6397c-c255-400b-9e92-e7aae810ec62",
+    "image_url": "https://image.torob.com/base/images/f6/MM/f6MM7Qge892LxQN2.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح اسکلت کد 251",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "77913967-a717-40b9-a13c-8fa00d2a858c",
+    "image_url": "https://image.torob.com/base/images/pB/Nx/pBNxq-d_WC7OXijx.jpg"
+  },
+  {
+    "title": "بیبی اسکارف زنانه قواره 70 ابریشم",
+    "group": "زنانه",
+    "product": "بیبی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 70"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیبی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "58147943-84f0-47be-a6bb-986ab662748b",
+    "image_url": "https://image.torob.com/base/images/X4/7t/X47tq0au2oVkVILQ.jpg"
+  },
+  {
+    "title": "مینی اسکارف حریر نخ 972",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر نخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "88e44e18-5ad8-4c17-8f64-dafe635ce2bd",
+    "image_url": "https://image.torob.com/base/images/M5/dy/M5dyBQhU-KUHlBRl.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "1fbd100e-7214-4678-b15f-bfabd11d04ab",
+    "image_url": "https://image.torob.com/base/images/9E/-j/9E-jMjbWbsJQ-WyZ.jpg"
+  },
+  {
+    "title": "مینی اسکارف واکسی رنگ نسکافه ای طوسی(ارسال رایگان)",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "واکسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نسکافه ای",
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "88396ebf-d85b-4814-bb57-793425c277ec",
+    "image_url": "https://image.torob.com/base/images/j-/Sr/j-SrbFb4vkSfJmyW.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن طرح یلدا زمینه سفید",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "یلدا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "1ab74538-edbe-4cdc-ab44-cd0fccc108cc",
+    "image_url": "https://image.torob.com/base/images/ah/L4/ahL4AYMPHLp4hMFe.jpg"
+  },
+  {
+    "title": "اسکارف بدون طرح کشی ساده/ مشکی ضخیم",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بدون طرح"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "3e6b53a0-862a-4475-95d5-cb04bdabe797",
+    "image_url": "https://image.torob.com/base/images/cP/dQ/cPdQvu1HyMfH9UMh.jpg"
+  },
+  {
+    "title": "مینی اسکارف سفید طرح پاپیون",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      }
+    ],
+    "random_key": "e559a108-1b87-4021-b59f-f80c6e56cbcb",
+    "image_url": "https://image.torob.com/base/images/Yd/Ks/YdKsfrEL2lnYrX1x.jpg"
+  },
+  {
+    "title": "مینی اسکارف ابریشمCELINE سبز تیره کد4075",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CELINE"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز تیره"
+        ]
+      }
+    ],
+    "random_key": "9be36dfb-6031-47db-8773-ed23089e7cdc",
+    "image_url": "https://image.torob.com/base/images/t6/u0/t6u0HFSmAhybW73H.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن-sa35",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "e775d59f-370c-4bfa-825a-cfbfff136073",
+    "image_url": "https://image.torob.com/base/images/ED/s0/EDs0I-8NojE9R-w2.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن باف مدل hunter military",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "hunter military"
+        ]
+      }
+    ],
+    "random_key": "c5e121c7-c026-4365-a24d-d7743ee9804d",
+    "image_url": "https://image.torob.com/base/images/rR/Vi/rRViTv6X_dh8oEkJ.jpg"
+  },
+  {
+    "title": "دستمال سر بنفش BA1033",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      }
+    ],
+    "random_key": "d2c9dcfa-cc19-4ac6-b1d8-31a9b5518387",
+    "image_url": "https://image.torob.com/base/images/N1/d1/N1d1zpw64b4GX9iu.jpg"
+  },
+  {
+    "title": "مینی اسکارف بابونه",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بابونه"
+        ]
+      }
+    ],
+    "random_key": "da4fb007-26f4-4d88-a116-1b9d19ea2082",
+    "image_url": "https://image.torob.com/base/images/Zf/Ex/ZfExSF0l86ARPAQk.jpg"
+  },
+  {
+    "title": "مینی اسکارف پلنگی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      }
+    ],
+    "random_key": "b7355f19-8e34-46c1-a048-c1ea5434a905",
+    "image_url": "https://image.torob.com/base/images/W1/QF/W1QFz_c9ggH7CwFa.jpg"
+  },
+  {
+    "title": "مینی اسکارف مدل sc117",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "sc117"
+        ]
+      }
+    ],
+    "random_key": "3a5c2bb5-e609-403c-b8cc-dd7224a52f19",
+    "image_url": "https://image.torob.com/base/images/Kl/fv/KlfvlMT2cHX7CcpD.jpg"
+  },
+  {
+    "title": "مینی اسکارف جذاب در طرح های مختلف با رنگ‌بندی جذاب جنس نخی. بسیار باکیفیت",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذاب",
+          "باکیفیت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگ بندی جذاب"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "0e7758ff-d177-40ed-99a4-350cd96217b4",
+    "image_url": "https://image.torob.com/base/images/EJ/am/EJamQabUkrVRPYSS.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل BAFF123",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "BAFF123"
+        ]
+      }
+    ],
+    "random_key": "3f200162-3346-4467-9f1c-977d82bb56f5",
+    "image_url": "https://image.torob.com/base/images/cL/Hv/cLHvYnvJ5mjFEW11.jpg"
+  },
+  {
+    "title": "مدیوم اسکارف مارک مشکی (6038) | مادام بلا | شال دخترانه | روسری دخترانه",
+    "group": "دخترانه",
+    "product": "مدیوم اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدیوم اسکارف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مادام بلا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "4e6855a5-932f-4b2d-b2a9-037625ca11ce",
+    "image_url": "https://image.torob.com/base/images/4e/JZ/4eJZjNpetskRef73.jpg"
+  },
+  {
+    "title": "دورگ نخی زنانه با نوار هندی",
+    "group": "زنانه",
+    "product": "دورگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورگ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نوار هندی"
+        ]
+      }
+    ],
+    "random_key": "611b618b-61c3-4e05-a182-4bc55574d13a",
+    "image_url": "https://image.torob.com/base/images/ar/Nx/arNxKNxe8S9XPWwj.jpg"
+  },
+  {
+    "title": "مینی اسکارف مزونی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "ec2af869-6503-4ed5-8a51-46811368931d",
+    "image_url": "https://image.torob.com/base/images/tu/af/tuaf7esnV72q3vE1.jpg"
+  },
+  {
+    "title": "مینی اسکارف دست دوز طرح بهاره فانتزی عبیرشاپ",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بهاره فانتزی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "عبيرشاپ"
+        ]
+      }
+    ],
+    "random_key": "8fa15c04-fcf9-4584-87c8-4ef19253e8e4",
+    "image_url": "https://image.torob.com/base/images/KM/0U/KM0UcFGMCkAfddok.jpg"
+  },
+  {
+    "title": "اسکارف ورزشی هزاردستان طرح اسکلت کد 10",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هزاردستان"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلت"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف ورزشی"
+        ]
+      }
+    ],
+    "random_key": "4b9bf2c7-5f6c-4a82-9fc5-9f8d95582be7",
+    "image_url": "https://image.torob.com/base/images/0H/ZH/0HZHYDG3B6UOpS0y.jpg"
+  },
+  {
+    "title": "دستمال سر اسکارف هزاردستان کد 73",
+    "group": "نامشخص",
+    "product": "دستمال سر و اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هزاردستان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف",
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "e4915eb0-1a8e-488b-a8c3-810f77e16749",
+    "image_url": "https://image.torob.com/base/images/Uy/FV/UyFVnnW0yYVf1-C7.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل باندانا کد 007",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا",
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "ccc2bfc7-e586-4fe2-ba60-c6e33690068d",
+    "image_url": "https://image.torob.com/base/images/AK/P2/AKP2Fk7c-Y-9Tnsh.jpg"
+  },
+  {
+    "title": "روسری دستمال گردن مشکی سفید یا دستمال گردن حاشیه زرشکی قرمز طرح زبرا نخی قواره 45",
+    "group": "نامشخص",
+    "product": "روسری",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی سفید",
+          "زرشکی",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زبرا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 45"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "روسری دستمال گردن",
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "6b817038-6bd6-45d2-8bd6-dbc0d014f8c3",
+    "image_url": "https://image.torob.com/base/images/Mn/Ck/MnCkxjT5PNlUWawP.jpg"
+  },
+  {
+    "title": "مینی اسکارف نخی طرح پاپیون سفید",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف نخی"
+        ]
+      }
+    ],
+    "random_key": "b12e717e-69bb-4ae4-9d3b-0b5487a66edb",
+    "image_url": "https://image.torob.com/base/images/a5/8a/a58aob0wi6ctNhKR.jpg"
+  },
+  {
+    "title": "دورگ یا دستمال سر کرپ حریر",
+    "group": "نامشخص",
+    "product": "دورگ",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ حریر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورگ",
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "29a779d8-442d-48b8-a62b-8e5252c6d4ad",
+    "image_url": "https://image.torob.com/base/images/KL/7j/KL7j4zoYcrdI1wJl.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن زنانه نخی طرح سنتی طوبی آرتمیس",
+    "group": "زنانه",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سنتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "طوبی آرتمیس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "9f3286ee-7fa4-49a3-bec7-1e443afeaddc",
+    "image_url": "https://image.torob.com/base/images/A4/_L/A4_LVHH7lU0vHru6.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن کوهنوردی اسکارف تابستانی طرحدار سوزنی هد گیر BRS ABS | سرمه ای/زرشکی",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "کوهنوردی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار سوزنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف",
+          "دستمال سر و گردن",
+          "هد گیر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای",
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BRS ABS"
+        ]
+      }
+    ],
+    "random_key": "2201a528-f80a-4b41-9dd8-25c22e1832a4",
+    "image_url": "https://image.torob.com/base/images/cC/P1/cCP1AIbfOaoWtLhu.webp"
+  },
+  {
+    "title": "اسکارف پارچه ای داخل فوتر چاپی هالک - فقط عمده",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای",
+          "فوتر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هالک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "d4e13c84-5b91-4f2d-a73d-e8b2174e16d3",
+    "image_url": "https://image.torob.com/base/images/rU/_p/rU_pJPPbOjyuIrYY.jpg"
+  },
+  {
+    "title": "دستمال سر بلک لایت / کد 26005",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "15303e77-09b1-4556-8f46-e8fc6ddcbb0a",
+    "image_url": "https://image.torob.com/base/images/wT/KF/wTKFIF8TYvmpQdJL.jpg"
+  },
+  {
+    "title": "اسکارف تو خز دار اعلا",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تو خز دار",
+          "اعلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "930b29fa-bcf2-4fb3-913a-b8ed01b87667",
+    "image_url": "https://image.torob.com/base/images/GY/dc/GYdcYewO4Q0jxNMx.jpg"
+  },
+  {
+    "title": "باندانا یا دستمال سر نخی مدل Hex3 Bnfsh",
+    "group": "نامشخص",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا",
+          "دستمال سر نخی"
+        ]
+      }
+    ],
+    "random_key": "0263d7a2-726b-4fea-802b-586889e06a78",
+    "image_url": "https://image.torob.com/base/images/H5/uJ/H5uJXOKW5FUmpwHq.jpg"
+  },
+  {
+    "title": "دستمال گردن یا اسکارف برند فیزان وارداتی ایتالیا",
+    "group": "نامشخص",
+    "product": "دستمال گردن و اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "فیزان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی ایتالیا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن",
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "aad27336-e8c0-4eab-978c-c73ae6a76242",
+    "image_url": "https://image.torob.com/base/images/Yy/-7/Yy-71cJQU4oLFxsx.jpg"
+  },
+  {
+    "title": "مینی اسکارف تور نگین",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "319115d8-3b20-44e7-ae74-6ef6bb819313",
+    "image_url": "https://image.torob.com/base/images/bg/mx/bgmxnU2tICQ6SDPz.webp"
+  },
+  {
+    "title": "دستمال گردن دورو خال خال قرمز",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دورو"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خال خال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "8e1ecc14-6b88-4151-9255-b380ad4fe619",
+    "image_url": "https://image.torob.com/base/images/z_/jz/z_jzJFjTf7PssWkl.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن هاماگراف مدل alone",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هاماگراف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "a77597fe-2de4-4c2d-8974-a8e7f0ce0e4c",
+    "image_url": "https://image.torob.com/base/images/Wi/s8/Wis8QlQi4ziG_MC9.jpg"
+  },
+  {
+    "title": "باندانا یا دستمال سر نخی مدل بته جقه اصلی مشکی چاپ سبز",
+    "group": "نامشخص",
+    "product": "باندانا یا دستمال سر",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بته جقه اصلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا",
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "a20a212d-f20c-476b-95dd-df124f77e9bf",
+    "image_url": "https://image.torob.com/base/images/RH/Fh/RHFh_r6_9H0q_7XJ.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن دفکتو مدل def86",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "271f3dbc-4f0b-4262-bc9e-ca28487be37a",
+    "image_url": "https://image.torob.com/base/images/dH/Be/dHBebYsVjPpeCjQ-.jpg"
+  },
+  {
+    "title": "اسکارف زنانه دخترانه مردانه",
+    "group": "زنانه دخترانه مردانه",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "fe25472f-766c-4078-98b9-fc3b5ed8bdc9",
+    "image_url": "https://image.torob.com/base/images/w-/gQ/w-gQcJ8-3bmefzCd.jpg"
+  },
+  {
+    "title": "دستمال گردن کد 075011",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "46c70506-5e39-4c67-91fe-d99144a8e74b",
+    "image_url": "https://image.torob.com/base/images/P4/vd/P4vd2KKhRoAdROAy.jpg"
+  },
+  {
+    "title": "اسکارف چند کاره حوله ای طرح دار اسپرت",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حوله ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چند کاره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "f2e74260-1457-4005-a72e-25529f0a7c7e",
+    "image_url": "https://image.torob.com/base/images/4p/dQ/4pdQ9aOfVqWn8DCl.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری پلنگی (5984) | مادام بلا | شال دخترانه | روسری دخترانه",
+    "group": "دخترانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مادام بلا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "69745f4e-7024-4ea0-a8e2-6193a736b147",
+    "image_url": "https://image.torob.com/base/images/Yj/8j/Yj8jPNzyNghnP4tS.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن زمستانی باف مدل Zree Camouflage",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "46f4fe55-b2b5-419a-a2f5-efb5bf8bb8c9",
+    "image_url": "https://image.torob.com/base/images/gu/_u/gu_uJeqyJH--rRsA.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح ترمه کد 237",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ترمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "e1ba6ece-9438-443e-b7c5-0837f80b239c",
+    "image_url": "https://image.torob.com/base/images/K1/aK/K1aK74GpjqWp-w2A.jpg"
+  },
+  {
+    "title": "مینی اسکارف (باندانا) اسلپ رنگ سفید( ارسال رایگان)",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف",
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "d8e777e8-1257-42be-97cd-d05a1a34d3d4",
+    "image_url": "https://image.torob.com/base/images/pH/Wh/pHWhGcmktBp5E6rn.jpg"
+  },
+  {
+    "title": "اسکارف دستمال چند کاره حوله ای زمستانی",
+    "group": "نامشخص",
+    "product": "اسکارف دستمال",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حوله ای"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چند کاره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف دستمال"
+        ]
+      }
+    ],
+    "random_key": "26a2a472-1744-4e79-8a69-ac1697d703d3",
+    "image_url": "https://image.torob.com/base/images/pK/NC/pKNCj0_YlsWBakT3.jpg"
+  },
+  {
+    "title": "اسکارف لوپیلو کد EU1217",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "e07fb4ca-346d-45ec-8008-6f91d10bc40e",
+    "image_url": "https://image.torob.com/base/images/7M/3N/7M3NSFdQlpl4mgh7.jpg"
+  },
+  {
+    "title": "بیبی اسکارف زنانه مجلسی قواره 70 ابریشم توییل",
+    "group": "زنانه",
+    "product": "بیبی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم توییل"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 70"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیبی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "5a3991c9-8dc1-4f18-a162-79e3d02fb6c6",
+    "image_url": "https://image.torob.com/base/images/B0/aJ/B0aJw-SrqVo9sJZr.jpg"
+  },
+  {
+    "title": "دستمال سر",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "bf3c907d-a321-4ba3-8d18-6b64dcc216a7",
+    "image_url": "https://image.torob.com/base/images/or/hb/orhbG5ysLOFwXiSF.jpg"
+  },
+  {
+    "title": "مینی اسکارف نخی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "3eabc8e3-37aa-42fe-860d-151456dcd91d",
+    "image_url": "https://image.torob.com/base/images/_V/W7/_VW7tUPXdanOr6gS.jpg"
+  },
+  {
+    "title": "دستمالسر نقابدار وینداکستریمWDX",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "وینداکستریم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمالسر نقابدار"
+        ]
+      }
+    ],
+    "random_key": "d13d2254-56cc-44a1-be87-481774a67819",
+    "image_url": "https://image.torob.com/base/images/mc/KA/mcKABHkqsDu6L3Lt.jpg"
+  },
+  {
+    "title": "دستمال تزئینی زنانه موج Mowj مدل اصفهان",
+    "group": "زنانه",
+    "product": "دستمال تزئینی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mowj"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال تزئینی"
+        ]
+      }
+    ],
+    "random_key": "6912e842-eb69-4a7e-8c46-ee6380be6a27",
+    "image_url": "https://image.torob.com/base/images/ER/OA/EROA9BYqUrg0okBk.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح ترمه کد 273",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ترمه"
+        ]
+      }
+    ],
+    "random_key": "dc2867a9-52f5-44cc-a4d8-f9e3e14bc172",
+    "image_url": "https://image.torob.com/base/images/Yg/M5/YgM54juKKstRr8jf.jpg"
+  },
+  {
+    "title": "مینی اسکارف قواره 70",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 70"
+        ]
+      }
+    ],
+    "random_key": "c42a9963-8eef-4f41-920f-e45038e9c5ed",
+    "image_url": "https://image.torob.com/base/images/d4/Sc/d4ScCF6S_SLLRXsM.jpg"
+  },
+  {
+    "title": "مینی اسکارف نخی با طرح های متنوع سبک راحت و بسیار زیبا",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک",
+          "راحت",
+          "بسیار زیبا"
+        ]
+      }
+    ],
+    "random_key": "0c44d58b-81ff-4b8d-a984-32913db878f0",
+    "image_url": "https://image.torob.com/base/images/46/q7/46q74H0iOxy6Ac-T.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح اسکلت کد 58",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلت"
+        ]
+      }
+    ],
+    "random_key": "866d1c62-3b41-4c44-b330-4ed9dea32fae",
+    "image_url": "https://image.torob.com/base/images/_K/Xo/_KXoQ50rtGK1Xxqz.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      }
+    ],
+    "random_key": "24891b99-f8d2-41e1-a176-9d7dd5a02a46",
+    "image_url": "https://image.torob.com/base/images/Hm/lX/HmlXteHyJtAHfeuL.jpg"
+  },
+  {
+    "title": "دستمال سرو گردن اسکارف پولار طرح اژدها Scarf",
+    "group": "نامشخص",
+    "product": "دستمال سرو گردن اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پولا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اژدها"
+        ]
+      }
+    ],
+    "random_key": "1dc94b80-41a7-4696-82b1-20ac47989357",
+    "image_url": "https://image.torob.com/base/images/86/Q_/86Q_RS9onkNbS4R7.jpg"
+  },
+  {
+    "title": "دستمال سر کوهنوردی کودکان",
+    "group": "کودکان",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "6bbbaf6c-6c9b-4fa0-b751-deaa40e737b1",
+    "image_url": "https://image.torob.com/base/images/t_/jb/t_jb_aeNY6eRyc2y.webp"
+  },
+  {
+    "title": "مینی اسکارف در انواع رنگ و طرح موجود شد رنگبندی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "779488fd-ebe2-43ec-8023-d90992ee5afa",
+    "image_url": "https://image.torob.com/base/images/Po/zz/Pozzn4M4ih6s2CrB.jpg"
+  },
+  {
+    "title": "اسکارف زمستانی دورو دکتلون / SOLOGNAC – مدل Double Sided 500",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دور",
+          "دورو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون",
+          "SOLOGNAC"
+        ]
+      }
+    ],
+    "random_key": "7729e53f-df1c-48b8-9dff-489500c1e106",
+    "image_url": "https://image.torob.com/base/images/Sz/65/Sz65byxfNCBKAKOf.jpg"
+  },
+  {
+    "title": "مینی اسکارف کد 077159",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "b24cf30c-bb64-460c-9879-efadaa009f6a",
+    "image_url": "https://image.torob.com/base/images/_T/zm/_TzmSqYXJgM7itm4.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل تو خز کد 308",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تو خز"
+        ]
+      }
+    ],
+    "random_key": "5f27144f-e86f-4195-8b0c-060a58cd21ca",
+    "image_url": "https://image.torob.com/base/images/vD/VY/vDVYqyPH6jGAEiPN.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن کوهنوردی اسکارف تابستانی طرحدار سوزنی هد گیر BRS ABS | سفید/صورتی",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "کوهنوردی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BRS"
+        ]
+      }
+    ],
+    "random_key": "1808c6c8-ea78-4260-97ef-b27376ac7a23",
+    "image_url": "https://image.torob.com/base/images/a6/ee/a6eezXKiZ_UxXNa5.webp"
+  },
+  {
+    "title": "مینی اسکارف توری شاین یا لمه دار نوار دوزی روسری مینی اسکارف سفید روسری مینی اسکارف طوسی روسری دخترانه زنانه",
+    "group": "دخترانه زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری",
+          "شاین",
+          "لمه دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "روسری",
+          "نوار دوزی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "f7f49a9e-4578-4d80-bd83-60fe2e2bb3a4",
+    "image_url": "https://image.torob.com/base/images/73/al/73alNj7B6ZQKTWP1.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری مینی اسکارف رنگ سال روسری مینی اسکارف طرح پلنگی مینی اسکارف نوار دوزی شده دور دوخت",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نوار دوزی شده",
+          "دور دوخت"
+        ]
+      }
+    ],
+    "random_key": "4a6a8aa1-8842-49ee-8837-f37ed99eb8d1",
+    "image_url": "https://image.torob.com/base/images/_p/FZ/_pFZhxrl1z6zEb0N.jpg"
+  },
+  {
+    "title": "مینی اسکارف ابریشم توییل ابعاد ۷۰در۷۰ (مُژَک)",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم توییل"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "70در70"
+        ]
+      }
+    ],
+    "random_key": "ff72b1a6-adf4-48f3-a953-53c9989e64a8",
+    "image_url": "https://image.torob.com/base/images/sJ/I6/sJI6PucG8jXM7L9b.jpg"
+  },
+  {
+    "title": "مینی اسکارف حریر پلنگی دور گان",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دور گان"
+        ]
+      }
+    ],
+    "random_key": "14a19c04-f1cb-4c75-8322-ec2b956ef6c6",
+    "image_url": "https://image.torob.com/base/images/KC/sJ/KCsJPfv9iXQ8HAgT.jpg"
+  },
+  {
+    "title": "ست مینی اسکارف و دست کش توری",
+    "group": "نامشخص",
+    "product": "ست مینی اسکارف و دستکش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      }
+    ],
+    "random_key": "53bcef62-cf25-4493-821a-0cf6ebd5356c",
+    "image_url": "https://image.torob.com/base/images/Mr/GN/MrGNHqMEE68h7sIU.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل BF 131",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "5cfb9208-ed90-4216-9016-8320338391e0",
+    "image_url": "https://image.torob.com/base/images/YP/vL/YPvLEyBJaWzSoUtJ.jpg"
+  },
+  {
+    "title": "مینی اسکارف زنانه برند اکسسوریز کد 29141",
+    "group": "زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اکسسوریز"
+        ]
+      }
+    ],
+    "random_key": "44f73016-1c9f-4ef0-aa20-bf16f73c6b78",
+    "image_url": "https://image.torob.com/base/images/yp/qc/ypqcKXdU6WQV8K8d.webp"
+  },
+  {
+    "title": "مینی اسکارف طرحدار 2",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      }
+    ],
+    "random_key": "e7367e1f-6729-48d7-b127-0993839e6c18",
+    "image_url": "https://image.torob.com/base/images/45/4R/454RsxyQkqE-eh6y.jpg"
+  },
+  {
+    "title": "دستمال سر لویی ویتون 4382",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لویی ویتون"
+        ]
+      }
+    ],
+    "random_key": "3a9c5db6-b067-46a9-a2fa-6cdbb1550186",
+    "image_url": "https://image.torob.com/base/images/7k/T8/7kT8SpfQCcoWNe37.jpg"
+  },
+  {
+    "title": "مینی اسکارف یا باندانا رنگ قرمز برند ای ام",
+    "group": "نامشخص",
+    "product": "مینی اسکارف یا باندانا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف",
+          "باندانا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ای ام"
+        ]
+      }
+    ],
+    "random_key": "98ed12d4-abff-4c94-b03d-78eb402a365f",
+    "image_url": "https://image.torob.com/base/images/1Q/Np/1QNpy4NqP1QqQjv5.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن باف مدل Tribica Coral",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      }
+    ],
+    "random_key": "902ce9cc-ad2a-41c8-b35d-6daebd61def5",
+    "image_url": "https://image.torob.com/base/images/2b/SK/2bSKDnS9I4XPeNl8.jpg"
+  },
+  {
+    "title": "مینی اسکارف (باندانا) طرح خال خالی ریز سفید و آبی ارسال رایگان",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف",
+          "باندانا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خال خالی ریز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "64310135-cf70-43d0-9eea-025326c10375",
+    "image_url": "https://image.torob.com/base/images/RS/bv/RSbvhG7rb3n9sYgJ.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن کوهنوردی اسکارف تابستانی طرحدار | ST-700",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن",
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کوهنوردی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      }
+    ],
+    "random_key": "34f52dac-4477-4638-9520-3f7548da3d14",
+    "image_url": "https://image.torob.com/base/images/_x/Dj/_xDjkdyJAW6ztkS4.jpg"
+  },
+  {
+    "title": "دستمال سر طرح اشکی رنگ سفید مشکی",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید مشکی"
+        ]
+      }
+    ],
+    "random_key": "32229a53-f27c-434a-a24b-3ebb687aedc9",
+    "image_url": "https://image.torob.com/base/images/jg/OM/jgOMaWvRHbsyCn3x.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن زمستانی D1",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      }
+    ],
+    "random_key": "e65f16bc-0f2f-4dcb-be83-3b20a7daea6d",
+    "image_url": "https://image.torob.com/base/images/hO/Wo/hOWotD33jW6vtafn.jpg"
+  },
+  {
+    "title": "مینی اسکارف گیپور ارسال رایگان",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      }
+    ],
+    "random_key": "d6238ba8-3d24-4829-b4e7-3f01e6919c6a",
+    "image_url": "https://image.torob.com/base/images/5n/7u/5n7u2qGbsEZf0RwU.jpg"
+  },
+  {
+    "title": "دستمال سر دورگ نخی",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر",
+          "دورگ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "9ceeb578-154e-439f-8b92-4ab1236a62eb",
+    "image_url": "https://image.torob.com/base/images/ax/Ro/axRoDzNrjgejDTQW.jpg"
+  },
+  {
+    "title": "مینی اسکارف ابریشم ژان ژان ارسال رایگان",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      }
+    ],
+    "random_key": "2a4dc89f-e670-4fbc-8ee3-44b9bbb77ed4",
+    "image_url": "https://image.torob.com/base/images/q_/-D/q_-D_OvvJfMlS609.jpg"
+  },
+  {
+    "title": "مینی اسکارف نخی کرم طرح گوچی مشکی با حاشیه باریک قرمز کد YM40",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوچی",
+          "حاشیه باریک قرمز"
+        ]
+      }
+    ],
+    "random_key": "c736e0ec-0271-4a8b-b4d4-3282875f2c54",
+    "image_url": "https://image.torob.com/base/images/Fp/7S/Fp7SvAXW9jqPuqus.jpg"
+  },
+  {
+    "title": "مینی اسکراف باندانا مشکی و چاپ طرح قلب",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکراف",
+          "باندانا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح قلب"
+        ]
+      }
+    ],
+    "random_key": "bbccfdb8-c2ca-411d-9e3d-77ed604c0bd4",
+    "image_url": "https://image.torob.com/base/images/OM/LI/OMLIm8IqcGtY_6rY.jpg"
+  },
+  {
+    "title": "باندانا مدل bn232",
+    "group": "نامشخص",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "b53325f9-1fb0-48fd-9f5a-30a50877d8bd",
+    "image_url": "https://image.torob.com/base/images/0M/ac/0MacqYapAoMtzVps.jpg"
+  },
+  {
+    "title": "مینی اسکارف گل گلی ۳۴۷۰۰۱۱۴",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل گلی"
+        ]
+      }
+    ],
+    "random_key": "57a888c3-e5ec-4251-84ef-9cc8989f6b79",
+    "image_url": "https://image.torob.com/base/images/DR/P2/DRP2q85ilfQKPOO2.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن باف مدل Shadyver Mauve",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "1ca354a9-0434-4c83-8fa5-01ba080365eb",
+    "image_url": "https://image.torob.com/base/images/2D/Cw/2DCwAytk_8YkHV46.jpg"
+  },
+  {
+    "title": "دستمال گردن دخترانه کوبوس کد 3111",
+    "group": "دخترانه",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوبوس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "20921ea4-1be5-46ec-9e21-c0d6bb36a7af",
+    "image_url": "https://image.torob.com/base/images/6A/xX/6AxXGZxhAACTwfoY.jpg"
+  },
+  {
+    "title": "بیگ اسکارف پشمی",
+    "group": "نامشخص",
+    "product": "بیگ اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیگ اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      }
+    ],
+    "random_key": "6a5f72c9-cf54-4704-9024-01624a810773",
+    "image_url": "https://image.torob.com/base/images/EG/5f/EG5f43SLJfuvDec8.jpg"
+  },
+  {
+    "title": "مینی اسکارف زنانه نخی 00",
+    "group": "زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "9c5bbce4-6b5b-4065-bb73-0f5037dd818a",
+    "image_url": "https://image.torob.com/base/images/Uu/Qo/UuQo_pmum-drZwgo.jpg"
+  },
+  {
+    "title": "مینی اسکارف اسلپ کرم روشن",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم روشن"
+        ]
+      }
+    ],
+    "random_key": "d13d5f0f-f1df-40d2-8b5c-4f1cb8026160",
+    "image_url": "https://image.torob.com/base/images/Qi/36/Qi36HFj7RzEZWrwZ.jpg"
+  },
+  {
+    "title": "اسکارف نظامی طرح ۵٫۱۱",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نظامی طرح ۵٫۱۱"
+        ]
+      }
+    ],
+    "random_key": "5ebaddd1-3e5f-4101-8e1b-000cb7a6b686",
+    "image_url": "https://image.torob.com/base/images/ED/Bl/EDBlAIUypMKKNW9-.jpg"
+  },
+  {
+    "title": "اسکارف مدل New Cashmere Black برند باف Buff",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باف",
+          "باف Buff"
+        ]
+      }
+    ],
+    "random_key": "53146cf1-a315-486a-84ac-af1bae00bb2d",
+    "image_url": "https://image.torob.com/base/images/p7/Up/p7UpyF5vJCIksPfb.jpg"
+  },
+  {
+    "title": "مینی اسکارف قواره کوچک زمینه سرمه ای ابریشم",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره کوچک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "11dc16d8-d313-46d9-a149-3e0fdae6cdf9",
+    "image_url": "https://image.torob.com/base/images/1s/qo/1sqozBfwXQp2Wdlu.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن زمستانی باف مدل Arkiet Multi",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      }
+    ],
+    "random_key": "9f285a32-aac8-4037-93e2-931006c880f7",
+    "image_url": "https://image.torob.com/base/images/wm/4n/wm4n2pBf_Y4RwvAy.jpg"
+  },
+  {
+    "title": "دستمال سر هومتو 5-202110",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هومتو"
+        ]
+      }
+    ],
+    "random_key": "bc799d94-3715-4664-b924-a6dc13ff949e",
+    "image_url": "https://image.torob.com/base/images/dJ/lX/dJlXZda5leMH78Db.jpg"
+  },
+  {
+    "title": "اسکارف داخل خز",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "داخل خز"
+        ]
+      }
+    ],
+    "random_key": "d927578b-6bb1-4680-9d7d-7d56fcadd3be",
+    "image_url": "https://image.torob.com/base/images/LY/Ck/LYCkCOOUiQamUILN.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن پلار باف Buff POLAR HAERA MAUVE",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باف",
+          "باف Buff"
+        ]
+      }
+    ],
+    "random_key": "25dc8ee5-89f2-415a-b68f-76e4f239ece7",
+    "image_url": "https://image.torob.com/base/images/Da/Hs/DaHs85oO5EI1usNn.jpg"
+  },
+  {
+    "title": "اسکارف طرح دار کریویت سرمه ای",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "7f99518b-7755-4607-9ef2-5f48622a6af3",
+    "image_url": "https://image.torob.com/base/images/i4/za/i4zaSz_4e8De8fyC.jpg"
+  },
+  {
+    "title": "دستمال سر باف Buff Original EcoStretch Neckwear Micor Graphite",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باف",
+          "باف Buff"
+        ]
+      }
+    ],
+    "random_key": "7bbc416f-0d37-4237-adcb-0fde9bb4f1b7",
+    "image_url": "https://image.torob.com/base/images/LL/Rg/LLRgWjSAxCPkf1B2.webp"
+  },
+  {
+    "title": "دستمال گردن طرح ترمه کد 292",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ترمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "286787c8-709d-4093-bd47-11ba64d25b50",
+    "image_url": "https://image.torob.com/base/images/nd/oP/ndoP-kuGzAftAf53.jpg"
+  },
+  {
+    "title": "مینی اسکارف حریر کدR402",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "54f333c8-2b68-4a46-9be5-9ada2c500d77",
+    "image_url": "https://image.torob.com/base/images/mN/W5/mNW5qumce2J2iyWY.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح ستاره کد 26",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "193bfcab-872e-4b3f-aebd-27a8f0ff8ecd",
+    "image_url": "https://image.torob.com/base/images/eC/vM/eCvM-gvC2nOTN0pC.jpg"
+  },
+  {
+    "title": "مینی اسکارف سه گوش دالبری",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف سه گوش دالبری"
+        ]
+      }
+    ],
+    "random_key": "3676f9ed-7716-4150-8fb0-8c98b3e7f6dc",
+    "image_url": "https://image.torob.com/base/images/VL/Eb/VLEbkzNLI1VEbeHq.jpg"
+  },
+  {
+    "title": "باندانا ارسال رایگان",
+    "group": "نامشخص",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "8c59de54-85dc-4f3d-89ca-bc1b130be8af",
+    "image_url": "https://image.torob.com/base/images/tE/q8/tEq8q8lnkp0UYjf-.jpg"
+  },
+  {
+    "title": "ست تاپ و دستمال گردن طاقه چیان Taghechian مدل سماع",
+    "group": "نامشخص",
+    "product": "ست تاپ و دستمال گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "طاقه چیان Taghechian"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "a4a4bd33-4e76-431b-9c81-0c2a265cceba",
+    "image_url": "https://image.torob.com/base/images/ED/F7/EDF7Tig2smwTYMaG.jpg"
+  },
+  {
+    "title": "اسکارف عنکبوتی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "عنکبوتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "dce048e1-e49b-4699-be14-1e5bb931fd8b",
+    "image_url": "https://image.torob.com/base/images/_d/c4/_dc45SWTigI80VB0.jpg"
+  },
+  {
+    "title": "مینی اسکارف دورو مزونی اعلا رنگ کرم نسکافه ای ارسال رایگان",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دورو",
+          "مزونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم نسکافه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "68d5a898-fc68-4ce9-8b68-8388756ef62b",
+    "image_url": "https://image.torob.com/base/images/rk/CS/rkCS-vkyTnQGo2pO.jpg"
+  },
+  {
+    "title": "اسکارف پارچه ای داخل فوتر چاپی مرد ریش و سبیل دار - فقط عمده",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای داخل فوتر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپی مرد ریش و سبیل دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "55b6a5a2-8d0b-4393-93d2-e5869052a90a",
+    "image_url": "https://image.torob.com/base/images/bJ/-N/bJ-NhAc6am4xoGlo.jpg"
+  },
+  {
+    "title": "توییلی اسکارف عاشیق- اوت لت",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "b3ae7e7d-6277-422c-bf71-1e2c2776bde0",
+    "image_url": "https://image.torob.com/base/images/Ny/Ch/NyChJWLDo1SPtL_9.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن هاماگراف مدل اسکلتی 2",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هاماگراف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "f05f91b9-7094-434e-9fbe-71f8a6a87705",
+    "image_url": "https://image.torob.com/base/images/ua/j4/uaj4eHQRL8BPn_GB.jpg"
+  },
+  {
+    "title": "اسکارف ورزشی طرح چریکی کد 03 - 47*25 سانتیمتر",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چریکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "47*25 سانتیمتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "acdc8f7b-d230-4b8a-ae31-11b49e487604",
+    "image_url": "https://image.torob.com/base/images/FG/jl/FGjlY6vldZ8Wn9wD.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن و پیشانی بند اسکارف طرح الفبا سایز 25 در 50 مدل H2-1 شرکت رنس",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "25 در 50"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "رنس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "الفبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف",
+          "دستمال سر و گردن",
+          "پیشانی بند"
+        ]
+      }
+    ],
+    "random_key": "f7e5eb68-f8a4-47f1-a930-dd5f725ca6ec",
+    "image_url": "https://image.torob.com/base/images/EB/Vf/EBVfJS9Sv_eYnhV9.jpg"
+  },
+  {
+    "title": "دستمالسر نقابدار وینداکستریم WDX",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "وینداکستریم WDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمالسر نقابدار"
+        ]
+      }
+    ],
+    "random_key": "0cd727ab-e1b6-47fd-8b07-2704d5f30665",
+    "image_url": "https://image.torob.com/base/images/Kc/_M/Kc_M9jba0GTcUcZ-.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل باندانا کد Unicorn - 03",
+    "group": "نامشخص",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "Unicorn"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن",
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "bb672747-0841-4d48-a483-2017dd753958",
+    "image_url": "https://image.torob.com/base/images/-_/oA/-_oAIVUQfF02B4wj.jpg"
+  },
+  {
+    "title": "دستمال سر دورو پلار Tribord مدل 2350091",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دورو"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Tribord"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "859f93b1-61b7-49b0-a9a5-070ec5c2bb05",
+    "image_url": "https://image.torob.com/base/images/X2/C6/X2C67pJfABX7zkq_.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن طرح BTS سبز",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "BTS"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "1b187d45-1fba-49d8-aced-3eba159ccca9",
+    "image_url": "https://image.torob.com/base/images/As/sO/AssOAWY68Y_1LQ7B.jpg"
+  },
+  {
+    "title": "مینی اسکارف ابریشم مدل باربی رنگبندی (ارسال رایگان)",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "باربی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "0f4b33b4-57b3-491b-96f2-6e387d02e2f6",
+    "image_url": "https://image.torob.com/base/images/Tf/sF/TfsFtAHYdGSFd8do.jpg"
+  },
+  {
+    "title": "دستمال گردن مردانه",
+    "group": "مردانه",
+    "product": "دستمال گردن",
+    "entities": [],
+    "random_key": "0b157947-7dc6-4338-92ff-0dc7cb509f67",
+    "image_url": "https://image.torob.com/base/images/IM/0h/IM0hS-_BjnBVLNuc.jpg"
+  },
+  {
+    "title": "اسکارف ورزشی هزاردستان مدل das187",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هزاردستان"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "c02bb5a4-39fe-4599-ae13-6ae91040b798",
+    "image_url": "https://image.torob.com/base/images/aB/1U/aB1Ut_gmQHewEhbe.jpg"
+  },
+  {
+    "title": "مینی اسکارف توپی - سفید مشکی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "توپی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "b84a09de-4412-4a22-bdbc-79bfa9bfef06",
+    "image_url": "https://image.torob.com/base/images/Sj/dk/SjdkrLXB8KcBym3x.jpg"
+  },
+  {
+    "title": "مینی اسکارف فانتزی مشکی کهکشانی کد YM63",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "فانتزی",
+          "کهکشانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "4c43f9b6-f1d2-434d-afe0-bc547de06c46",
+    "image_url": "https://image.torob.com/base/images/w6/og/w6ogu6kexTsUKZ5S.jpg"
+  },
+  {
+    "title": "دستمال سر نقابدار وینداکستریم / Wind X-treme – مدل WDX 7252",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "وینداکستریم",
+          "Wind X-treme"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نقابدار"
+        ]
+      }
+    ],
+    "random_key": "63c95bde-f6bf-428a-97cd-9f9fe3dd350f",
+    "image_url": "https://image.torob.com/base/images/Lf/wa/Lfwa7fURG52vZeOL.jpg"
+  },
+  {
+    "title": "مینی اسکارف با طرح های ایرانی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ایرانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "1aaeeed3-b1f2-4755-8dc2-38afa9192032",
+    "image_url": "https://image.torob.com/base/images/s_/E_/s_E__BQOafZN6kAV.jpg"
+  },
+  {
+    "title": "دستمال سر مدل دورگ عربی",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورگ عربی"
+        ]
+      }
+    ],
+    "random_key": "46e0e101-fef3-440f-a5d8-38756a0bed81",
+    "image_url": "https://image.torob.com/base/images/pE/20/pE20Fr3oRBNNbbqO.jpg"
+  },
+  {
+    "title": "مینی اسکارف طرح گل آفتابگردان",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل آفتابگردان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "1246518c-7017-43b2-80dd-5d88a4a6fb42",
+    "image_url": "https://image.torob.com/base/images/ao/Yz/aoYzhZncaMuvYJIM.jpg"
+  },
+  {
+    "title": "مینی اسکارف زنانه آی ام کد Z-Yd343",
+    "group": "زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آی ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "735c5e37-458d-4255-9782-54c6e50383c8",
+    "image_url": "https://image.torob.com/base/images/3Z/df/3Zdfhk-GXCevX54-.jpg"
+  },
+  {
+    "title": "مینی اسکارف پروانه",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "65524580-882a-4cc2-9fca-be922ad512b6",
+    "image_url": "https://image.torob.com/base/images/sg/wy/sgwyoo4wpjT_0EVF.jpg"
+  },
+  {
+    "title": "مینی اسکارف پاپیون ترند (پس کرایه)",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "64526e31-f7b6-408d-b107-410f35aafac0",
+    "image_url": "https://image.torob.com/base/images/HK/ph/HKph3thryJxAc2Xj.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "007d0323-2f11-4883-a05e-d9bbf8e0381f",
+    "image_url": "https://image.torob.com/base/images/8W/bm/8WbmYMTGP_ko1C4A.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح ترمه کد 86",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ترمه"
+        ]
+      }
+    ],
+    "random_key": "af38add7-2be4-4163-be38-fcdac1673bb9",
+    "image_url": "https://image.torob.com/base/images/bu/Hh/buHhR-7qAklS4-T1.jpg"
+  },
+  {
+    "title": "عمده دستمال گردن ساتن جینگ 6 عددی",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      }
+    ],
+    "random_key": "c43e8ed9-877a-49ea-8520-7fca3f6d44c9",
+    "image_url": "https://image.torob.com/base/images/Bm/1R/Bm1RtPVinATA_Nap.jpg"
+  },
+  {
+    "title": "اسکارف طرح اسکلت اسپرت",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلت"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "583bb2e4-a19c-4351-8db9-4b04626cef7b",
+    "image_url": "https://image.torob.com/base/images/6X/PU/6XPUtphzA8Vgypwa.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح خال خالی کد 444",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خال خالی"
+        ]
+      }
+    ],
+    "random_key": "00b61779-d6a4-467a-b98f-0d0282a16c08",
+    "image_url": "https://image.torob.com/base/images/5g/-O/5g-OAqc2Cwo-Sizb.jpg"
+  },
+  {
+    "title": "اسکارف طرح ساده",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      }
+    ],
+    "random_key": "0232eecb-aef7-434c-989d-252eb334a37b",
+    "image_url": "https://image.torob.com/base/images/P5/BW/P5BWDlmnmSTRPOQJ.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن باف مدل coolnet tasei multy",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن",
+          "باف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      }
+    ],
+    "random_key": "b22adc38-4e15-4a69-ad16-a0ece4453a34",
+    "image_url": "https://image.torob.com/base/images/kl/J_/klJ_iFY_vP7yBbE_.jpg"
+  },
+  {
+    "title": "مینی اسکارف دخترانه خال خالی",
+    "group": "دخترانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خال خالی"
+        ]
+      }
+    ],
+    "random_key": "f7d8b52f-3aae-470f-9500-7e95eabcdec0",
+    "image_url": "https://image.torob.com/base/images/5b/oS/5boS-jbR2JAxjXMx.jpg"
+  },
+  {
+    "title": "مینی اسکارف ابریشم آبی روشن کد21100",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی روشن"
+        ]
+      }
+    ],
+    "random_key": "c67b29fb-be13-4125-bd66-bea203080a42",
+    "image_url": "https://image.torob.com/base/images/Zb/ff/ZbffTbojF0O-GGzI.jpg"
+  },
+  {
+    "title": "دستمال سرو گردن اسکارف Scarf طرح آتش",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن",
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آتش"
+        ]
+      }
+    ],
+    "random_key": "7ff0529b-5ed8-44d3-8d7e-5a87e839e9d5",
+    "image_url": "https://image.torob.com/base/images/pW/vs/pWvslEutqUvPaDcG.jpg"
+  },
+  {
+    "title": "پک سه عددی مینی اسکارف طرح بابونه نخی دور دست دوز. قواره 75. موجود در 12 رنگ جذاب و زیبا",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بابونه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دور دست دوز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 75"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "12 رنگ جذاب و زیبا"
+        ]
+      }
+    ],
+    "random_key": "70554fc9-834e-4aba-9a29-1f83a8f942bf",
+    "image_url": "https://image.torob.com/base/images/xd/UM/xdUMQ6ohmRvdI8jh.jpg"
+  },
+  {
+    "title": "مینی اسکارف مجلسی پارچه فلورانس قواره 70",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه فلورانس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 70"
+        ]
+      }
+    ],
+    "random_key": "30f00d3a-3720-4194-999d-ff4bbbaacd72",
+    "image_url": "https://image.torob.com/base/images/0f/gO/0fgOGDYNiJKSbSf6.jpg"
+  },
+  {
+    "title": "اسکارف ورزشی هزاردستان مدل DB42",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هزاردستان"
+        ]
+      }
+    ],
+    "random_key": "0aed063a-42a3-4db6-83c5-86a6a5bd055f",
+    "image_url": "https://image.torob.com/base/images/He/0F/He0FdU0wtFbB7fcS.jpg"
+  },
+  {
+    "title": "مینی اسکارف حریر",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      }
+    ],
+    "random_key": "6927c668-a60f-407f-afba-3259296cd431",
+    "image_url": "https://image.torob.com/base/images/Fv/jn/FvjnSWelyI9NIPTf.jpg"
+  },
+  {
+    "title": "مینی اسکارف توری دلارام کد : M33",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      }
+    ],
+    "random_key": "43f10d89-dfeb-4d48-a55f-79162ba6a8bd",
+    "image_url": "https://image.torob.com/base/images/Gc/JJ/GcJJBYLCXvdUDq_w.jpg"
+  },
+  {
+    "title": "باندانا مدل bn253",
+    "group": "نامشخص",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "d7676c8d-0441-4cae-8d78-1b2fc10ddd76",
+    "image_url": "https://image.torob.com/base/images/yo/Wb/yoWbU-MLhNdL5Uvo.jpg"
+  },
+  {
+    "title": "دستمال سر ای ایکس 2 - 668065-2",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ای ایکس 2"
+        ]
+      }
+    ],
+    "random_key": "78a44b44-1d7a-4dc5-82d7-83d87b89936f",
+    "image_url": "https://image.torob.com/base/images/N0/9l/N09lIT4UYzmr8rCR.jpg"
+  },
+  {
+    "title": "اسکارف اسپارکل مشکی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "4b263b7e-8afa-461b-a669-c00912a95aba",
+    "image_url": "https://image.torob.com/base/images/lV/vZ/lVvZuDMKlssyUFeR.jpg"
+  },
+  {
+    "title": "توییلی اسکارف خورشید- اوت لت",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توییلی"
+        ]
+      }
+    ],
+    "random_key": "5a624502-9963-42e2-a1a0-dc62e872fa6b",
+    "image_url": "https://image.torob.com/base/images/n-/Oz/n-OzM2RA0hxgCpvI.jpg"
+  },
+  {
+    "title": "دستمال سر دخترانه نظامی دیجیتالی",
+    "group": "دخترانه",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نظامی دیجیتالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "bb3e82cb-09af-4413-a47e-b23208c08478",
+    "image_url": "https://image.torob.com/base/images/fN/Z3/fNZ3XPrC9ohym5GZ.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن ال سی وایکیکی مدل آنتی باکتریال دراگون",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آنتی باکتریال"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دراگون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "f48a94ac-667e-479d-92f1-40209880d7cf",
+    "image_url": "https://image.torob.com/base/images/zt/69/zt69XgyAsnduovkk.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن زغالی طهران الف Tehran Alef طرح گوچی کد 108010016",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زغالی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "طهران الف Tehran Alef"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوچی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "b1a86c89-427f-4de2-810e-2fd45d334697",
+    "image_url": "https://image.torob.com/base/images/vk/fD/vkfDKWiiw-ANGeNM.jpg"
+  },
+  {
+    "title": "اسکارف نایکی مدل N.WA.55.008",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "b5d70c3f-9479-4b65-b6eb-de3eecc7b07f",
+    "image_url": "https://image.torob.com/base/images/wb/7-/wb7-brylizUDZhah.jpg"
+  },
+  {
+    "title": "مینی اسکارف تور خالدار سفید",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خالدار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "6dbc437c-2b80-4400-9067-706b0698d456",
+    "image_url": "https://image.torob.com/base/images/-i/fQ/-ifQkp1Ep8FRDgFG.jpg"
+  },
+  {
+    "title": "مینی اسکارف پوست ماری بنفش کد MA368",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پوست ماری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "75f3a0bd-71f2-43b0-8dd5-907f0aad330b",
+    "image_url": "https://image.torob.com/base/images/6W/eH/6WeHQQ_t_fLO4YNU.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل باندانا کد 013",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا",
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "3bd376c0-50e6-486a-943f-41fceb4751a0",
+    "image_url": "https://image.torob.com/base/images/xe/CT/xeCTtRILvMuH0B9A.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن باف مدل PRIDE OTIVA MULTI G2024",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "باف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر و گردن"
+        ]
+      }
+    ],
+    "random_key": "b27f0bd0-b847-4ddf-93ab-cb3650dfade9",
+    "image_url": "https://image.torob.com/base/images/IZ/yB/IZyBMQwSF-JAc1us.jpg"
+  },
+  {
+    "title": "دستمال گردن طرح اسکلت کد 397",
+    "group": "نامشخص",
+    "product": "دستمال گردن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال گردن"
+        ]
+      }
+    ],
+    "random_key": "880ae7f2-61fc-443c-b363-93d9fcf85fb7",
+    "image_url": "https://image.torob.com/base/images/7c/5t/7c5tqlqGlG32wVPq.jpg"
+  },
+  {
+    "title": "پک 10 تایی مینی اسکارف عمده تور",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "5b155adc-ba73-438a-a0f2-a42f02c466aa",
+    "image_url": "https://image.torob.com/base/images/Wh/4a/Wh4aEsf3fk2ZlcPl.jpg"
+  },
+  {
+    "title": "مینی ‌اسکارف سورمه‌ای گلگلی I am",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلگلی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "I am"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "006152af-d1fd-4443-8695-6c1254f150d2",
+    "image_url": "https://image.torob.com/base/images/9J/6B/9J6BRA8oB-QUuF75.jpg"
+  },
+  {
+    "title": "باندانا اسکارف نخی فانتزی",
+    "group": "نامشخص",
+    "product": "باندانا اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا اسکارف"
+        ]
+      }
+    ],
+    "random_key": "255c752c-1bfd-4ba1-aacb-dff7e07024f7",
+    "image_url": "https://image.torob.com/base/images/p6/HB/p6HBfIwWHCOCaooD.jpg"
+  },
+  {
+    "title": "مینی اسکارف کریستال کد m4",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "c2f79674-95ae-4f2d-a6e4-e62cf5679c34",
+    "image_url": "https://image.torob.com/base/images/kb/GX/kbGXq0Bjl0u5NYqw.jpg"
+  },
+  {
+    "title": "مینی اسکارف(باندانا) راه راه چهار رنگ",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چهار رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف",
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "0bded317-5f80-4ebd-9f86-aed14516980a",
+    "image_url": "https://image.torob.com/base/images/gy/tn/gytnCv6vH5MU5Oi7.jpg"
+  },
+  {
+    "title": "مینی اسکارف گیپور مجلسی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "3121c0f0-2916-4620-99c2-8e0efbfe5e75",
+    "image_url": "https://image.torob.com/base/images/Av/BZ/AvBZl7j_-kCppIHY.jpg"
+  },
+  {
+    "title": "اسکارف دوچرخه سواری ساده",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "8c01252d-ee71-4ed3-a979-b2a1b56a9032",
+    "image_url": "https://image.torob.com/base/images/F-/FB/F-FBeKV3M-MufGXm.jpg"
+  },
+  {
+    "title": "مینی اسکارف (باندانا) اسلپ رنگ سبز( ارسال رایگان)",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف",
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "2c301c47-2efe-4265-a574-96625abaa2d9",
+    "image_url": "https://image.torob.com/base/images/ZB/gx/ZBgxp6HjwPHDfVOy.jpg"
+  },
+  {
+    "title": "مینی اسکارف نخی زنانه قواره 90 سانت دوردوخت مارتاشاپ 05 - زر",
+    "group": "زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 90 سانت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دوردوخت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مارتاشاپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "13404899-0635-4913-b75c-edcf533dab74",
+    "image_url": "https://image.torob.com/base/images/2-/ga/2-gafyd7PACumT2Z.jpg"
+  },
+  {
+    "title": "مینی اسکارف مدل موهر کد ana-9630",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "موهر"
+        ]
+      }
+    ],
+    "random_key": "b5cae138-fd58-464c-9f4c-036beb1144eb",
+    "image_url": "https://image.torob.com/base/images/Bc/6h/Bc6hvJ0Ciltg7E7v.jpg"
+  },
+  {
+    "title": "باندانا نخی زمینه سفید با طرح هندسی پیچازی نارنجی کد BA012",
+    "group": "نامشخص",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زمینه سفید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هندسی پیچازی نارنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "b4a18017-c7cd-42df-803b-68bd652d2131",
+    "image_url": "https://image.torob.com/base/images/xC/0A/xC0AxgqPT8Cm8Le0.jpg"
+  },
+  {
+    "title": "مینی اسکارف پلنگی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "1a8c4a81-e932-4a32-b5ac-62825bb975f1",
+    "image_url": "https://image.torob.com/base/images/Am/ev/AmevnhM1VHtQBRFM.jpg"
+  },
+  {
+    "title": "مینی اسکارف گیپور",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "81f519e0-abc0-440d-bc86-1c44ebbfeded",
+    "image_url": "https://image.torob.com/base/images/OW/Zk/OWZk1UutO7KbPooS.jpg"
+  },
+  {
+    "title": "ماسک صورت طرح گوست 01",
+    "group": "نامشخص",
+    "product": "ماسک صورت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گوست"
+        ]
+      }
+    ],
+    "random_key": "007537e2-56df-48e8-8504-758a7898a25c",
+    "image_url": "https://image.torob.com/base/images/NC/PL/NCPLm-uXl5YWzjXU.jpg"
+  },
+  {
+    "title": "دستمال سر رنس مدل H1-10621",
+    "group": "نامشخص",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رنس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "85832d43-ff4c-4237-902a-02805362716d",
+    "image_url": "https://image.torob.com/base/images/FI/0O/FI0OTIPyy70yjse2.jpg"
+  },
+  {
+    "title": "مینی اسکارف طرح آفتابگردون",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "آفتابگردون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "845270cd-db18-40d9-836e-5a2c728300fd",
+    "image_url": "https://image.torob.com/base/images/NX/Q5/NXQ5ZdzVDPB8BIis.webp"
+  },
+  {
+    "title": "مینی اسکارف زنانه کد 009",
+    "group": "زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "46b18e97-8e72-4ee8-a5d9-ded6f72f741f",
+    "image_url": "https://image.torob.com/base/images/5l/xg/5lxgIpfG9FnmSmma.jpg"
+  },
+  {
+    "title": "اسکارف لوپیلو کد EU373",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "662ee1f9-af13-468c-97f8-a9dc516ee734",
+    "image_url": "https://image.torob.com/base/images/-F/k3/-Fk3qAD3tY7QOlIs.jpg"
+  },
+  {
+    "title": "مینی اسکارف نخی طرحدار چهارفصل قواره70 شیک و زیبا",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "چهارفصل"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 70"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "990c8378-4788-4775-979b-b68f4aa37cb6",
+    "image_url": "https://image.torob.com/base/images/ug/Yv/ugYvJOw06mzaHhZ3.jpg"
+  },
+  {
+    "title": "مینی اسکارف آبی آسمانی طرح توپ توپی قواره 70 دور دست دوز",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "آسمانی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توپ توپی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 70"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دور دست دوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "4c8c19c9-c3b8-4111-a8cb-101ddfe1578a",
+    "image_url": "https://image.torob.com/base/images/3I/ud/3Iud49JOQEAktLsw.jpg"
+  },
+  {
+    "title": "اسکارف کشی طرح ماندالا کد 22",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماندالا"
+        ]
+      }
+    ],
+    "random_key": "0b9e5f7c-8648-489e-b900-f29c53fc3cd7",
+    "image_url": "https://image.torob.com/base/images/JE/J2/JEJ28sPQPnHVGTjP.webp"
+  },
+  {
+    "title": "بیبی اسکارف زنانه کد 696",
+    "group": "زنانه",
+    "product": "بیبی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیبی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "a185dbb9-77a0-45ca-aed6-904873da707a",
+    "image_url": "https://image.torob.com/base/images/gW/rq/gWrqU3gAjzamlT3l.jpg"
+  },
+  {
+    "title": "دستمال سر زنانه طرح مینیمال کد ana9535",
+    "group": "زنانه",
+    "product": "دستمال سر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "مینیمال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستمال سر"
+        ]
+      }
+    ],
+    "random_key": "22bfa581-2eeb-4d89-bf20-4b588c595e25",
+    "image_url": "https://image.torob.com/base/images/ht/K1/htK1suH8jygtOwt6.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن ورزشی (اسکارف) پلار وارداتی کریویت آلمان",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت آلمان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      }
+    ],
+    "random_key": "e14ee461-9f6b-46e4-ba62-499bc9b172c3",
+    "image_url": "https://image.torob.com/base/images/zl/XS/zlXSXUNpA1uzhfKk.jpg"
+  },
+  {
+    "title": "باندانا چند منظوره زنانه Multi Bandana",
+    "group": "زنانه",
+    "product": "باندانا",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چند منظوره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باندانا"
+        ]
+      }
+    ],
+    "random_key": "c5c707f7-764d-4b59-8b8e-cbfae16c530b",
+    "image_url": "https://image.torob.com/base/images/og/PM/ogPMlybxmVJle3aK.jpg"
+  },
+  {
+    "title": "مینی اسکارف تک رنگ نخی",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تک رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "36277bed-6dd4-4f21-98fd-40d91082f488",
+    "image_url": "https://image.torob.com/base/images/f4/pU/f4pUf2fvP9KKDqQd.jpg"
+  },
+  {
+    "title": "مینی اسکارف زنانه مدل نخی مجلسی زری دوزی",
+    "group": "زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زری دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "706fe915-020a-4fef-9028-e64bc039b07a",
+    "image_url": "https://image.torob.com/base/images/jX/Sr/jXSrgmh6MfHdrB2X.jpg"
+  },
+  {
+    "title": "اسکارف آرت وُرک",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آرت وُرک"
+        ]
+      }
+    ],
+    "random_key": "241a7f48-de27-4d55-ab1c-2d20739602a2",
+    "image_url": "https://image.torob.com/base/images/mx/SU/mxSUDlFiNYV08hzP.jpg"
+  },
+  {
+    "title": "اسکارف نازک دیجیتال خاکی کلاه اسکارف دستمال سر نظامی اسکارف نظامی اسکارف استتار اسکارف پیکسلی کامپیوتری کوهنوردی ارتشی",
+    "group": "نامشخص",
+    "product": "اسکارف",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نازک",
+          "دیجیتال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "نظامی",
+          "کوهنوردی",
+          "ارتشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکارف",
+          "کلاه اسکارف",
+          "دستمال سر",
+          "اسکارف نظامی",
+          "اسکارف استتار",
+          "اسکارف پیکسلی",
+          "اسکارف کامپیوتری"
+        ]
+      }
+    ],
+    "random_key": "b76e0ac1-9300-47c2-a0ca-664c3a2b6a78",
+    "image_url": "https://image.torob.com/base/images/mO/To/mOTo7jWNaasZ0AjB.jpg"
+  },
+  {
+    "title": "مینی اسکارف پلنگی کد 1593",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "4cedc642-3e11-4fb4-a12a-726462953b4c",
+    "image_url": "https://image.torob.com/base/images/bf/ek/bfekMP-mCy0-RVDv.webp"
+  },
+  {
+    "title": "مینی اسکارف قرمز خاص و شیک کد M100 مخصوص یلدا و ولنتاین",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "شیک"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مخصوص یلدا",
+          "مخصوص ولنتاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "c1791c45-21fd-4d3c-93b9-16f05d850ff3",
+    "image_url": "https://image.torob.com/base/images/ub/xW/ubxWn3y3DEaZzmSu.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن صورتی راه‌راه نوجوانانه",
+    "group": "نوجوانانه",
+    "product": "دستمال سر و گردن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      }
+    ],
+    "random_key": "f17b8c7d-e7b8-49d5-9456-ca802162a639",
+    "image_url": "https://image.torob.com/base/images/cW/-o/cW-o8a8Qf2DpckEz.jpg"
+  },
+  {
+    "title": "مینی اسکارف بچه گانه",
+    "group": "بچه گانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "939af0fe-466a-40a1-9038-c1f3e7deb19c",
+    "image_url": "https://image.torob.com/base/images/Um/TJ/UmTJk_k6yPPK8oGv.jpg"
+  },
+  {
+    "title": "مینی اسکارف حریر طرح دار مینی اسکارف سفید دخترانه",
+    "group": "دخترانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "8975b3db-4156-4e3e-a8de-db3560fe31a8",
+    "image_url": "https://image.torob.com/base/images/Yn/L5/YnL5YIQ3KBRvW3j6.jpg"
+  },
+  {
+    "title": "مینی اسکارف ابریشم زنانه نوولاشال Novella shawl کد 77156",
+    "group": "زنانه",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابریشم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نوولاشال Novella shawl"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "b5c2d349-edf2-4166-ba70-97ede768405c",
+    "image_url": "https://image.torob.com/base/images/tH/3k/tH3k66fUo54ZGT0I.jpg"
+  },
+  {
+    "title": "مینی اسکارف نخی اسلپ با کیفیت اعلا و قواره 70 کالکشن مجلسی کد 2-4291 ضمانت مرجوع رایگان در صورت عدم رضایت از کیفیت",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی",
+          "اسلپ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره 70"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت اعلا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "66387324-2f4c-4676-b50c-be938209b500",
+    "image_url": "https://image.torob.com/base/images/c4/_n/c4_n_GCwfaDRTb7U.jpg"
+  },
+  {
+    "title": "خرید مینی اسکارف گلدار ارزان | جدیدترین مدل‌های ۲۰۲۴",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "c47bab1d-d059-4032-a32b-611a203e2d83",
+    "image_url": "https://image.torob.com/base/images/eX/Pf/eXPfmM0rb1dlUHO8.jpg"
+  },
+  {
+    "title": "دستمال سر و گردن مدل BF 112",
+    "group": "نامشخص",
+    "product": "دستمال سر و گردن",
+    "entities": [],
+    "random_key": "028e4e58-a347-4035-9d43-0f2aca5bd0bd",
+    "image_url": "https://image.torob.com/base/images/Fr/OS/FrOS_XTu_iTH0wvl.jpg"
+  },
+  {
+    "title": "مینی اسکارف ترند طرح های بسیار پر طرفدار و پرفروش نخ کامل بسیار لطیف طرح های مختلف",
+    "group": "نامشخص",
+    "product": "مینی اسکارف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ کامل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پر طرفدار",
+          "پرفروش",
+          "مختلف"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار لطیف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی اسکارف"
+        ]
+      }
+    ],
+    "random_key": "46f3678c-9239-4b11-b975-c0f57825cdc6",
+    "image_url": "https://image.torob.com/base/images/Y9/ii/Y9iiKRw4DP9jx4QN.jpg"
+  }
+]

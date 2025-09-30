@@ -1,0 +1,6121 @@
+[
+  {
+    "title": "دامن گلدار",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      }
+    ],
+    "random_key": "9a378b2f-acc5-4d45-9ef6-fb17af804831",
+    "image_url": "https://image.torob.com/base/images/e_/9e/e_9eReZRgQfgKBih.jpg"
+  },
+  {
+    "title": "دامن کوتاه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "856fd598-0776-4b11-9ce0-0abbe0292320",
+    "image_url": "https://image.torob.com/base/images/IW/zj/IWzjubwtnCEAmK7-.jpg"
+  },
+  {
+    "title": "دامن کد ۰۵۰۳۸",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "4c47e9de-4673-48ac-8066-34ff14792e7b",
+    "image_url": "https://image.torob.com/base/images/F6/xV/F6xVOY5ZzEU8Zz9z.jpg"
+  },
+  {
+    "title": "دامن زنانه میدی با چاک جلو برند Koton",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاک جلو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Koton"
+        ]
+      }
+    ],
+    "random_key": "83fd9dcb-693e-4a84-8da1-8152ad9eeb10",
+    "image_url": "https://image.torob.com/base/images/bj/2M/bj2MiZEOI485e8Ro.webp"
+  },
+  {
+    "title": "بیلرسوت جین خارجی سفید",
+    "group": "زنانه",
+    "product": "بیلرسوت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "ed683601-32f0-4e63-991f-78dcd58508b9",
+    "image_url": "https://image.torob.com/base/images/a3/Ov/a3Ovc9wHBx5bVn4g.jpg"
+  },
+  {
+    "title": "دامن دوپیل کرم کد ۴۰۴",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دوپیل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      }
+    ],
+    "random_key": "02cc16ab-6ae5-4c02-b303-474b69728e0a",
+    "image_url": "https://image.torob.com/base/images/xg/GG/xgGGtR6fFjVVf7zz.jpg"
+  },
+  {
+    "title": "دامن پفدار کد 0987",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پفدار"
+        ]
+      }
+    ],
+    "random_key": "751ec491-0b85-479c-80e9-f6437f1deaf2",
+    "image_url": "https://image.torob.com/base/images/BK/79/BK79un5mt7bfXk-P.jpg"
+  },
+  {
+    "title": "دامن کوتاه مشکی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "cc7b85a1-5cc8-4742-9b9f-78cf1712069e",
+    "image_url": "https://image.torob.com/base/images/hp/d6/hpd6wWU9NhrejCV9.jpg"
+  },
+  {
+    "title": "دامن زنانه (سایز Free) (رنگ سبز) (مدل بلند)",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "Free"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      }
+    ],
+    "random_key": "1efa3881-d11b-45dd-85e1-146b8cb02fd4",
+    "image_url": "https://image.torob.com/base/images/6z/6N/6z6NGVyw79nI35IW.jpg"
+  },
+  {
+    "title": "دامن بلند جیب دار",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "جیب دار"
+        ]
+      }
+    ],
+    "random_key": "f5ba9d16-7864-4d24-b216-7d3a1ab09df2",
+    "image_url": "https://image.torob.com/base/images/UV/HZ/UVHZNbhE5TjQAWWR.jpg"
+  },
+  {
+    "title": "دامن مازاراتی مجلسی سایز ۳۸ تا ۴۶",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مازاراتی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38 تا 46"
+        ]
+      }
+    ],
+    "random_key": "858626d5-f17d-48ec-8cf2-72f35f1ef0bd",
+    "image_url": "https://image.torob.com/base/images/Qx/PF/QxPF-R_Xd7fQM0id.jpg"
+  },
+  {
+    "title": "دامن فلور کد 2399",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "80aa0cbb-a845-4cc1-8a83-b20a3f8cce2c",
+    "image_url": "https://image.torob.com/base/images/Pg/M2/PgM2HGdDH9crfRlc.jpg"
+  },
+  {
+    "title": "دامن ساتن پلیسه الکس وارداتی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      }
+    ],
+    "random_key": "b39fc90e-28bd-412a-bcae-ea835741f29b",
+    "image_url": "https://image.torob.com/base/images/I9/Ys/I9YsfAMNNlmgJ-Ln.jpg"
+  },
+  {
+    "title": "دامن طرح گل رز زنانه (سایز Free) (مدل بلند)",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل رز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "Free"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      }
+    ],
+    "random_key": "e64bb1c7-18fe-4511-b980-465f542409ff",
+    "image_url": "https://image.torob.com/base/images/Cv/qU/CvqUO-ViJbmmv_oJ.jpg"
+  },
+  {
+    "title": "دامن زنانه کتان مدل گلبهار",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "گلبهار"
+        ]
+      }
+    ],
+    "random_key": "4e1a46d0-4f3b-41a5-a04e-27bf71abb6d1",
+    "image_url": "https://image.torob.com/base/images/Wa/WM/WaWM_w2t7B09_PKS.jpg"
+  },
+  {
+    "title": "دامن ساده",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      }
+    ],
+    "random_key": "eb4cf037-9405-4151-bbd0-6a644cb5db28",
+    "image_url": "https://image.torob.com/base/images/MJ/22/MJ22dKAyz58RCJTD.webp"
+  },
+  {
+    "title": "دامن زنانه اورجینال 22KETK0060227",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "22KETK0060227"
+        ]
+      }
+    ],
+    "random_key": "539064ea-23d8-4f79-9224-a9a665700fb7",
+    "image_url": "https://image.torob.com/base/images/yw/zJ/ywzJ_Me2tyaR9A9s.jpg"
+  },
+  {
+    "title": "دامن کوتاه مجلسی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "ef43ba60-d1d9-4cbf-aa42-6429365ef423",
+    "image_url": "https://image.torob.com/base/images/z7/Tw/z7Twdmvu1I3wiF4p.jpg"
+  },
+  {
+    "title": "دامن ماکسی ساتن آمریکایی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن آمریکایی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "ماکسی"
+        ]
+      }
+    ],
+    "random_key": "315b5630-6e93-4b67-b101-459e8b056cb4",
+    "image_url": "https://image.torob.com/base/images/OB/xX/OBxXjljc6AtFGcVa.jpg"
+  },
+  {
+    "title": "دامن دورس کرکی کد 4162",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دورس کرکی"
+        ]
+      }
+    ],
+    "random_key": "35145b7c-271f-4002-8d92-7d953975e519",
+    "image_url": "https://image.torob.com/base/images/8d/dO/8ddOtHolmWYoddKV.jpg"
+  },
+  {
+    "title": "دامن کوتاه 3دکمه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "3دکمه"
+        ]
+      }
+    ],
+    "random_key": "2b1d1f90-b522-4d10-8d7d-2b28de336e87",
+    "image_url": "https://image.torob.com/base/images/5v/b1/5vb1stu-OgEvSz69.jpg"
+  },
+  {
+    "title": "دامن پلیسه درشت اشکی فری سایز",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه درشت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "c88aea85-dfec-4183-9a7a-690c0cf80961",
+    "image_url": "https://image.torob.com/base/images/Do/LW/DoLWca_1jJIXFJhe.jpg"
+  },
+  {
+    "title": "دامن زنانه مدل 3726",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "3726"
+        ]
+      }
+    ],
+    "random_key": "eda60d33-7c92-448d-97a8-4a29646aa08b",
+    "image_url": "https://image.torob.com/base/images/6c/sc/6csciGUdLV1j2-8u.jpg"
+  },
+  {
+    "title": "دامن کوتاه زنانه و دخترانه فری سایز 36 تا 44، دامن تک، دامن کوتاه زنانه، دامن عروسکی",
+    "group": "زنانه و دخترانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز",
+          "36 تا 44"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن عروسکی",
+          "دامن تک"
+        ]
+      }
+    ],
+    "random_key": "6e8c3839-00b8-41e9-af4b-f79d446ec3d6",
+    "image_url": "https://image.torob.com/base/images/xQ/fL/xQfLIXNIy0GXmD5D.jpg"
+  },
+  {
+    "title": "دامن نخی زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "5fe98218-315b-4bd9-948e-11ef9ca12d51",
+    "image_url": "https://image.torob.com/base/images/AG/89/AG89b7TommdsrAlB.jpg"
+  },
+  {
+    "title": "دامن زنانه دخترانه بلند مجلسی کشمیر",
+    "group": "زنانه دخترانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشمیر"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "c1f5f925-930a-4a35-949b-e7af9d70ec23",
+    "image_url": "https://image.torob.com/base/images/Vz/GB/VzGBVaEYmcYbyeEX.jpg"
+  },
+  {
+    "title": "دامن کوتاه مجلسی قد 55قابل تغییر جنس تور و آستر شخصی دوزی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه",
+          "55قابل تغییر"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور",
+          "آستر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شخصی دوزی"
+        ]
+      }
+    ],
+    "random_key": "340459af-1358-4cc2-b789-868d28569449",
+    "image_url": "https://image.torob.com/base/images/0-/AS/0-ASr0SgDcNeAtRr.jpg"
+  },
+  {
+    "title": "دامن جین جلو دکمه دار قد 95 پارچه کشی اعلاء",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین",
+          "پارچه کشی اعلاء"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "95"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جلو دکمه دار"
+        ]
+      }
+    ],
+    "random_key": "4df0d3f8-ce9d-4e0b-8543-84a4e17229cf",
+    "image_url": "https://image.torob.com/base/images/d7/Tc/d7Tcvm-N95ln7L0p.webp"
+  },
+  {
+    "title": "دامن زنانه جیب کمر جزئیات کوتاه برش رنگ خاکی 4119 Beyza",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "جیب"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Beyza"
+        ]
+      }
+    ],
+    "random_key": "aa90b2d4-a216-4a2c-9dd0-86890e41e0b3",
+    "image_url": "https://image.torob.com/base/images/VG/73/VG73Y0diG2TaIWoV.jpg"
+  },
+  {
+    "title": "دامن زنانه کد BLK45",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "4e25ff63-0fdc-4bbb-8424-92bece50e57b",
+    "image_url": "https://image.torob.com/base/images/H-/1v/H-1vETVQ5WRwhVLf.jpg"
+  },
+  {
+    "title": "دامن پله ای ترند جنس اعلا",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پله ای",
+          "ترند"
+        ]
+      }
+    ],
+    "random_key": "8a878a65-cdf2-4a51-abc6-9a60d5d94981",
+    "image_url": "https://image.torob.com/base/images/q9/DX/q9DXs0Sd21p73pd8.jpg"
+  },
+  {
+    "title": "دامن بلند توری پلنگی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      }
+    ],
+    "random_key": "5b7aa13a-bdb6-452f-ac2d-8304824a89a3",
+    "image_url": "https://image.torob.com/base/images/OC/Jg/OCJgrpCJHm8XoSDy.jpg"
+  },
+  {
+    "title": "دامن پارئو کتان زنانه شکلات منگو",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "منگو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "شکلات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن پارئو"
+        ]
+      }
+    ],
+    "random_key": "692a218f-1ed5-434a-b21f-7c58eda2d129",
+    "image_url": "https://image.torob.com/base/images/Dx/sX/DxsX96l_f7DNjZt7.jpg"
+  },
+  {
+    "title": "دامن گیپور زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      }
+    ],
+    "random_key": "afb1296f-c596-4b1c-a68f-a1a2f64a67f3",
+    "image_url": "https://image.torob.com/base/images/dB/dK/dBdKJGKA0PI4S0an.jpg"
+  },
+  {
+    "title": "دامن چاکدار",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاکدار"
+        ]
+      }
+    ],
+    "random_key": "5877fbda-1a34-4cb9-8eb9-2aef4fb408d2",
+    "image_url": "https://image.torob.com/base/images/Pt/Ff/PtFfUW4_OVvRFyLo.jpg"
+  },
+  {
+    "title": "دامن 3طبقه (پس کرایه)",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "3طبقه"
+        ]
+      }
+    ],
+    "random_key": "4ab299d5-15fe-4b22-8645-95e59f47f658",
+    "image_url": "https://image.torob.com/base/images/ac/yB/acyBohp11tyNvtle.jpg"
+  },
+  {
+    "title": "دامن زنانه آلوینا Alvina اورجینال 23YETK0060402",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آلوینا Alvina"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "2e568daf-2771-44b6-aa9b-bb2fc0fdba17",
+    "image_url": "https://image.torob.com/base/images/RF/zs/RFzshe5HntjFGIIY.jpg"
+  },
+  {
+    "title": "دامن زنانه کد 374",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "کد 374"
+        ]
+      }
+    ],
+    "random_key": "ce92e7ab-c638-402a-8b73-73c5da9facfe",
+    "image_url": "https://image.torob.com/base/images/8Y/ox/8Yoxmj3RiPO5wUrs.jpg"
+  },
+  {
+    "title": "دامن زنانه مدل 1826",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "کد 1826"
+        ]
+      }
+    ],
+    "random_key": "7ed2fc8c-1fe2-41a1-b701-a05912c9e9b8",
+    "image_url": "https://image.torob.com/base/images/UF/4c/UF4c5PECPeNe0nRv.jpg"
+  },
+  {
+    "title": "دامن پلیسه پلنگی توری select",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "select"
+        ]
+      }
+    ],
+    "random_key": "8a230b81-db21-47e7-bc45-377ff4d3cb0c",
+    "image_url": "https://image.torob.com/base/images/WR/h1/WRh1vfsdThEAMsBZ.jpg"
+  },
+  {
+    "title": "دامن تنیسی الو",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن تنیسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الو"
+        ]
+      }
+    ],
+    "random_key": "1d27f11f-1d03-4039-b7d0-a76f9c704943",
+    "image_url": "https://image.torob.com/base/images/t4/t5/t4t5B4lAmFuxcnU9.jpg"
+  },
+  {
+    "title": "دامن کتان نیلا",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نیلا"
+        ]
+      }
+    ],
+    "random_key": "1f2107fb-eaf2-41e1-9fee-c83bd7bca488",
+    "image_url": "https://image.torob.com/base/images/1w/wt/1wwtrZc3hWd32TGR.jpg"
+  },
+  {
+    "title": "دامن طرح زارا قد۹۰ فری سایز",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "90"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "f4b1c405-6777-4151-987d-d0b10fe053b1",
+    "image_url": "https://image.torob.com/base/images/Si/pg/Sipgcg50_D5fc99Z.jpg"
+  },
+  {
+    "title": "دامن زنانه مشکی سرژه Serge کد 210219",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مشکی سرژه Serge"
+        ]
+      }
+    ],
+    "random_key": "00e34d91-4616-4c00-ba23-c90fdfdd759a",
+    "image_url": "https://image.torob.com/base/images/Ns/vR/NsvRpbxZUqQHZJFa.jpg"
+  },
+  {
+    "title": "دامن شلواری کریشه مشکی کد۴۱۴۱۰۷ بسته 6 تایی",
+    "group": "نامشخص",
+    "product": "دامن شلواری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن شلواری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کریشه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "c6de185f-1ed0-4eff-9d68-20558ae22a4c",
+    "image_url": "https://image.torob.com/base/images/6j/Ov/6jOvcXqQJn1lI2IO.jpg"
+  },
+  {
+    "title": "دامن پشمی جنس آنغوره",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی",
+          "آنغوره"
+        ]
+      }
+    ],
+    "random_key": "3902d86d-358d-43de-b2d8-8220b61dcbe5",
+    "image_url": "https://image.torob.com/base/images/5H/Pm/5HPmhHMXvvHve6Sz.jpg"
+  },
+  {
+    "title": "دامن کوتاه چین دار زنانه مشکی استرادیوریوس",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "استرادیوریوس"
+        ]
+      }
+    ],
+    "random_key": "4b94af4b-7082-479c-8c7b-c66a2b40e53e",
+    "image_url": "https://image.torob.com/base/images/yi/VJ/yiVJK-QaxWVC5xOG.jpg"
+  },
+  {
+    "title": "دامن زنانه لوسیفر Lusifer کد W21175",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوسیفر Lusifer"
+        ]
+      }
+    ],
+    "random_key": "e3a58bd0-b0e9-4618-b7ee-c5eaa56c9e14",
+    "image_url": "https://image.torob.com/base/images/dO/IA/dOIAQL0qiSXWTIAR.jpg"
+  },
+  {
+    "title": "دامن زنانه مزونی پلیسه ساتن کشی تابستانی بهاره",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن کشی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی",
+          "بهاره"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مزونی"
+        ]
+      }
+    ],
+    "random_key": "854dfb24-59bf-41e7-ae7c-b2e321b9c651",
+    "image_url": "https://image.torob.com/base/images/z0/jq/z0jqB3zlxBEP9lMP.jpg"
+  },
+  {
+    "title": "دامن جین کارگو کد ۱۲۲۷",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن کارگو"
+        ]
+      }
+    ],
+    "random_key": "f0b729e5-3538-4937-904f-d04a493f2bb5",
+    "image_url": "https://image.torob.com/base/images/ch/cM/chcMZWNPqE-j8A-H.jpg"
+  },
+  {
+    "title": "دامن نخی بلند خالدار کد 1",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خالدار"
+        ]
+      }
+    ],
+    "random_key": "33e93f28-796f-476a-920a-8d665944e9cc",
+    "image_url": "https://image.torob.com/base/images/e6/p0/e6p0Mohw9mvzXrVB.jpg"
+  },
+  {
+    "title": "دامن",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      }
+    ],
+    "random_key": "0facfb9a-fa50-4294-b8d1-12b701c63911",
+    "image_url": "https://image.torob.com/base/images/R3/7T/R37TPERdfGXHIu0n.jpg"
+  },
+  {
+    "title": "دامن جین ابی خارجی زنانه دامن چاک دار ترندی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاک دار"
+        ]
+      }
+    ],
+    "random_key": "9bf9c734-b13b-4505-919e-67e25f4bfbf4",
+    "image_url": "https://image.torob.com/base/images/lk/qm/lkqmD6blDeX7U22m.jpg"
+  },
+  {
+    "title": "دامن ساس بندی لینن",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      }
+    ],
+    "random_key": "73582642-f15d-4677-8843-c66322a9823f",
+    "image_url": "https://image.torob.com/base/images/UH/3u/UH3uf0__sNJpwGWK.jpg"
+  },
+  {
+    "title": "دامن پپا مدل Midi رنگ سفید",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "Midi"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "134a0b01-2975-422c-97e7-ca122804ca2c",
+    "image_url": "https://image.torob.com/base/images/NU/R7/NUR7p9Z8-_MpFlIR.jpg"
+  },
+  {
+    "title": "دامن نخی کمر کش",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمر کش"
+        ]
+      }
+    ],
+    "random_key": "444e8a92-34b9-4eca-a66a-a7ed8b4c3dc7",
+    "image_url": "https://image.torob.com/base/images/Ui/Oz/UiOzFUwpYCLxBTSS.jpg"
+  },
+  {
+    "title": "دامن شلوار جین WRAP مدل زنانه آبی میانه زارا",
+    "group": "زنانه",
+    "product": "دامن شلوار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "WRAP"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی میانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن شلوار"
+        ]
+      }
+    ],
+    "random_key": "640803ad-e8f2-4fa7-9d05-6b4a77a781fa",
+    "image_url": "https://image.torob.com/base/images/AO/nR/AOnRVw_b0YZ7Fn09.jpg"
+  },
+  {
+    "title": "دامن زنانه اورجینال TYC3O8C72N170546300784882",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "6d9d5582-fb5c-4939-b12f-a63ca9c6f7b8",
+    "image_url": "https://image.torob.com/base/images/uD/uH/uDuHknQhu4sZnusX.jpg"
+  },
+  {
+    "title": "دامن فوتر زنانه کد ۱۰۵۶ - طوسی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "فوتر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "7b83d103-ed4e-4a87-adb7-faf9f2953fad",
+    "image_url": "https://image.torob.com/base/images/0-/-b/0--b3iXn9gg2a5Tg.jpg"
+  },
+  {
+    "title": "دامن دیپلمات فیونا زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "فیونا"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دیپلمات"
+        ]
+      }
+    ],
+    "random_key": "15dfcbf2-877e-4c5c-aa86-d7280c11f470",
+    "image_url": "https://image.torob.com/base/images/Bj/M6/BjM6a8OJZcdn1Tcq.webp"
+  },
+  {
+    "title": "دامن زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "086309cb-f952-48a5-b2be-9588c04e3b2c",
+    "image_url": "https://image.torob.com/base/images/nW/8Z/nW8Zve67pQVK1WEQ.jpg"
+  },
+  {
+    "title": "دامن پوشیده نود زنانه دکمه PLISEL DEPLACY LNITWEAR 60207 آلوینا Alvina",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Alvina",
+          "PLISEL DEPLACY LNITWEAR"
+        ]
+      }
+    ],
+    "random_key": "53aeef6b-64ca-45de-acb7-94680e3b6adc",
+    "image_url": "https://image.torob.com/base/images/iM/Se/iMSeb0-mUrbJmCGq.jpg"
+  },
+  {
+    "title": "دامن زنانه برنس مدل هیوان رنگ مشکی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "برنس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "a3e5ab76-6115-4add-bf1f-c7d0580668b6",
+    "image_url": "https://image.torob.com/base/images/Wj/ju/WjjuIWAUeHJpcFJ4.jpg"
+  },
+  {
+    "title": "دامن ساتن پلیسه",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      }
+    ],
+    "random_key": "e29061d8-8466-419f-8c91-0fbf40ebc4c6",
+    "image_url": "https://image.torob.com/base/images/ZJ/Ps/ZJPsBCjZtXEFURzV.jpg"
+  },
+  {
+    "title": "دامن کبریتی پاییزی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن کبریتی"
+        ]
+      }
+    ],
+    "random_key": "aa8cd3ca-4848-4fe0-b784-b968df61d417",
+    "image_url": "https://image.torob.com/base/images/Yn/cr/Yncrz0GzO7_wQush.jpg"
+  },
+  {
+    "title": "دامن نخی بلند",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن نخی"
+        ]
+      }
+    ],
+    "random_key": "621cbae0-a631-47b3-83be-4baac287633d",
+    "image_url": "https://image.torob.com/base/images/pQ/RR/pQRRLg2n5OcbX_nY.jpg"
+  },
+  {
+    "title": "دامن کوتاه زنانه دکتلون",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "20e7edab-4bc5-46c9-b2bb-0bec338ba4f7",
+    "image_url": "https://image.torob.com/base/images/Xm/df/XmdfBWomzOZMZTEY.jpg"
+  },
+  {
+    "title": "دامن زنانه اورجینال P0002",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "76c9efa1-a13d-45d2-89fc-a4fdaa8e37ef",
+    "image_url": "https://image.torob.com/base/images/K4/Z7/K4Z7Wxq3SVXDlfUO.jpg"
+  },
+  {
+    "title": "دامن زنانه سرژه مدل 210226",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سرژه"
+        ]
+      }
+    ],
+    "random_key": "acf1cc12-f170-45c0-9abc-04f5d3c4b8d7",
+    "image_url": "https://image.torob.com/base/images/2C/Q5/2CQ53ufWz67TizkS.jpg"
+  },
+  {
+    "title": "دامن جین پشت زیپ",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن جین"
+        ]
+      }
+    ],
+    "random_key": "763bd2e0-6a63-454f-904e-4187c8a7635f",
+    "image_url": "https://image.torob.com/base/images/8j/8r/8j8rWNE0k6MKC05N.jpg"
+  },
+  {
+    "title": "دامن حریر ابرنگی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ابری"
+        ]
+      },
+      {
+        "name": "تا",
+        "values": [
+          "آبرنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن حریر",
+          "دامن آبرنگی"
+        ]
+      }
+    ],
+    "random_key": "b7de8a9f-9662-4d74-a22c-161ef25b6898",
+    "image_url": "https://image.torob.com/base/images/bc/Pc/bcPciCsqqy5AxHa3.jpg"
+  },
+  {
+    "title": "دامن زنانه پارچه ترک مشکی لاکچری اسپرت",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "کشور مبدا",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لاکچری"
+        ]
+      }
+    ],
+    "random_key": "ee0aeae0-ab3d-4fa7-99b2-b5a1095600a2",
+    "image_url": "https://image.torob.com/base/images/KD/0E/KD0EFhYtZkkmO8Zs.jpg"
+  },
+  {
+    "title": "دامن زنانه نتورک Network اورجینال 1091064",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نتورک",
+          "Network"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "13083b7b-b957-453a-a212-9a09d59f2e7c",
+    "image_url": "https://image.torob.com/base/images/lZ/Lg/lZLg1ZodD6WLivzu.jpg"
+  },
+  {
+    "title": "دامن بهبود کد:402070 کرم L",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بهبود"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      }
+    ],
+    "random_key": "51adf148-5922-4bde-8c18-43435e85932a",
+    "image_url": "https://image.torob.com/base/images/2g/k-/2gk-eQ5AtH6sWkTk.jpg"
+  },
+  {
+    "title": "دامن زنانه adL کد 12742952003",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "adL"
+        ]
+      }
+    ],
+    "random_key": "089db845-ea96-4881-9eb8-6aec5b7ddf93",
+    "image_url": "https://image.torob.com/base/images/Z-/cj/Z-cjoLgTV3VQ-aYp.webp"
+  },
+  {
+    "title": "دامن مینی بافتنی زنانه صورتی پاستلی زارا",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "مینی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی پاستلی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن مینی",
+          "دامن بافتنی"
+        ]
+      }
+    ],
+    "random_key": "96b3f9fb-4063-434c-a38a-5c518a2643b2",
+    "image_url": "https://image.torob.com/base/images/_Z/Le/_ZLeB8-9prJNHZaT.jpg"
+  },
+  {
+    "title": "دامن زنانه مدل 1826",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "5cebc7f6-11cc-4181-bcaf-7c3495c2639b",
+    "image_url": "https://image.torob.com/base/images/UF/4c/UF4c5PECPeNe0nRv.jpg"
+  },
+  {
+    "title": "دامن حریر",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن حریر"
+        ]
+      }
+    ],
+    "random_key": "7e7e91fd-6d4e-4b83-9715-cd047a3338d4",
+    "image_url": "https://image.torob.com/base/images/EO/tM/EOtMmr6cnUOtrvrS.jpg"
+  },
+  {
+    "title": "دامن میدی شستشوی مالتینتو با جزئیات درز زنانه خاکستری مایل به قرمز ماسیمودوتی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری مایل به قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماسیمودوتی"
+        ]
+      }
+    ],
+    "random_key": "84c39557-ea98-4966-8594-1d1211b23f51",
+    "image_url": "https://image.torob.com/base/images/4q/pO/4qpO2_-gimzHc_FC.jpg"
+  },
+  {
+    "title": "دامن مجلسی شیک دامن کرپ طرحدار هدیه ، دامن بلند ماکسی ، مناسب کادو روز مادر ، دامن پلنگی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند",
+          "ماکسی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن کرپ"
+        ]
+      }
+    ],
+    "random_key": "9ec16099-a38a-4809-ba1f-d36c41153c8d",
+    "image_url": "https://image.torob.com/base/images/Yf/uz/YfuzzT3Jos8Gbpji.jpg"
+  },
+  {
+    "title": "دامن نخی گلدار زنانه قواره دار دامن کلوش زنانه طرح متنوع",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار",
+          "طرح متنوع"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قواره دار"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "کلوش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن نخی گلدار",
+          "دامن کلوش"
+        ]
+      }
+    ],
+    "random_key": "30c8d241-d781-42f1-a418-e3d589fba2de",
+    "image_url": "https://image.torob.com/base/images/N_/xa/N_xatEML5hKGNChb.jpg"
+  },
+  {
+    "title": "دامن گلدار 6922",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن گلدار"
+        ]
+      }
+    ],
+    "random_key": "9efcc362-7656-484f-8c80-564d428ac94d",
+    "image_url": "https://image.torob.com/base/images/B7/Ge/B7Geu4bW3hzeOG0z.jpg"
+  },
+  {
+    "title": "دامن مجلسی کارشده کد 0401102",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کارشده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن مجلسی"
+        ]
+      }
+    ],
+    "random_key": "c22e09cf-5c56-4b54-97eb-7b8c39349610",
+    "image_url": "https://image.torob.com/base/images/wz/2k/wz2kGvw3Gv8QnrZU.jpg"
+  },
+  {
+    "title": "دامن بافتنی مدادی پولک دار زنانه رنگ وانیلی منگو",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پولک دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "وانیلی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "مدادی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "منگو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن بافتنی مدادی"
+        ]
+      }
+    ],
+    "random_key": "e25a9e67-9669-416b-9bac-272397a2becf",
+    "image_url": "https://image.torob.com/base/images/Gj/0z/Gj0zDwW-ID6VN0SF.jpg"
+  },
+  {
+    "title": "دامن بلند اسمال خارجی نخی جیب دار بیرون پوش",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "جیب دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن بلند"
+        ]
+      }
+    ],
+    "random_key": "68181028-f27b-4994-b6aa-35f24ffa199d",
+    "image_url": "https://image.torob.com/base/images/6D/Zz/6DZzwZPqOEz9o4C1.jpg"
+  },
+  {
+    "title": "دامن گلدار01 (پس کرایه)",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن گلدار"
+        ]
+      }
+    ],
+    "random_key": "33b2ed27-a840-42d7-b1b1-694122b4518a",
+    "image_url": "https://image.torob.com/base/images/0m/4y/0m4yAq7yOeEwcvko.jpg"
+  },
+  {
+    "title": "بلوز دامن مانلی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "26a2efd5-1df7-4d50-8403-c48f6de5db75",
+    "image_url": "https://image.torob.com/base/images/sA/6Z/sA6ZqpdgZ-UoyOX-.jpg"
+  },
+  {
+    "title": "دامن ریش ریشی تنخور زیبا",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ریش ریشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ریش ریشی"
+        ]
+      }
+    ],
+    "random_key": "467df281-5fbf-49ba-9525-e2889d5ccd1f",
+    "image_url": "https://image.torob.com/base/images/sv/Nq/svNqypFVALsV9-Qm.jpg"
+  },
+  {
+    "title": "دامن سفید کتان زنانە برند اسمارا کد bano1565",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسمارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن سفید کتان"
+        ]
+      }
+    ],
+    "random_key": "ef82b0b0-84fc-4d57-9894-29542d9c5555",
+    "image_url": "https://image.torob.com/base/images/FL/iI/FLiIpV2YNc-pKYGg.jpg"
+  },
+  {
+    "title": "دامن چین‌دار گلدار زنانه مدل آیلین کد ۱۱۸۲",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن چین دار گلدار"
+        ]
+      }
+    ],
+    "random_key": "ca1817a6-2539-4392-9819-7364b1151b9a",
+    "image_url": "https://image.torob.com/base/images/3w/pm/3wpmRsN7x9iXtKHe.jpg"
+  },
+  {
+    "title": "دامن زنانه زارا FLOWY SKIRT WITH BELT",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "FLOWY",
+          "WITH BELT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمر کش"
+        ]
+      }
+    ],
+    "random_key": "fecffd9d-a1c1-4282-9d57-d4cb2d0cf1cc",
+    "image_url": "https://image.torob.com/base/images/x-/_r/x-_rPdEf_aG8rNFF.jpg"
+  },
+  {
+    "title": "دامن پلیسه ترک",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن پلیسه"
+        ]
+      }
+    ],
+    "random_key": "e9825a46-cb8a-474f-abf2-ab089b0f4db5",
+    "image_url": "https://image.torob.com/base/images/_C/Y2/_CY2J_kgMuk45NC0.webp"
+  },
+  {
+    "title": "دامن ساتن پلیسه",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ساتن پلیسه"
+        ]
+      }
+    ],
+    "random_key": "dd890f8c-92fc-45a4-bc34-3ea373d96f49",
+    "image_url": "https://image.torob.com/base/images/FN/E3/FNE3w229s-h4uIgJ.jpg"
+  },
+  {
+    "title": "دامن زنانه برند آلوینا Alvina اصل 23KETK0060364",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آلوینا Alvina"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "c4aefbd5-9be3-4952-b1c2-e7ab55867e89",
+    "image_url": "https://image.torob.com/base/images/lE/G1/lEG11FEKrl9jy1Gi.jpg"
+  },
+  {
+    "title": "دامن نیمه کلوش",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "کلوش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن نیمه کلوش"
+        ]
+      }
+    ],
+    "random_key": "2b99d2e9-a93d-4f62-ba1c-c506631ccc41",
+    "image_url": "https://image.torob.com/base/images/Ti/4T/Ti4TCH0y0Hn7O3X2.jpg"
+  },
+  {
+    "title": "دامن گلدار کمربندی (وارداتی) کد 2614",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمربندی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن گلدار کمربندی"
+        ]
+      }
+    ],
+    "random_key": "f244b183-2374-4664-9c44-c9c952ab6a84",
+    "image_url": "https://image.torob.com/base/images/MH/8S/MH8SQtfHuLOuryid.jpg"
+  },
+  {
+    "title": "دامن زنانه جین وست Jeanswest کد 32241501",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جین وست",
+          "Jeanswest"
+        ]
+      }
+    ],
+    "random_key": "45112ab0-15ef-4775-850b-396df788e58b",
+    "image_url": "https://image.torob.com/base/images/bG/x0/bGx0KTEy--omyxnN.jpg"
+  },
+  {
+    "title": "دامن مشکی بافت بدون آستر کد 833092",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بدون آستر"
+        ]
+      }
+    ],
+    "random_key": "73e782d3-195c-4bdb-a078-ab985669e7d1",
+    "image_url": "https://image.torob.com/base/images/Qi/Cu/QiCukKq8bLbAlCDO.jpg"
+  },
+  {
+    "title": "دامن زنانه مدل نخی کلوش کد 202",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "کلوش"
+        ]
+      }
+    ],
+    "random_key": "2ee632a8-847e-410f-b957-151bd6969a78",
+    "image_url": "https://image.torob.com/base/images/8-/2I/8-2ILSZ-1xC1WiiZ.jpg"
+  },
+  {
+    "title": "دامن پشت کش بغل زیپ وسط چاک دار کد1001620",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "پشت کش",
+          "بغل زیپ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پشت چاک دار"
+        ]
+      }
+    ],
+    "random_key": "46134319-c558-4f7f-8c4d-0f22bb41d2bd",
+    "image_url": "https://image.torob.com/base/images/Q5/Y_/Q5Y_KZlS6u77qVQG.webp"
+  },
+  {
+    "title": "دامن دو جیب (پارت یک)",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "دو جیب"
+        ]
+      }
+    ],
+    "random_key": "0719b828-6daf-45e1-a5f6-50c5ef55d60b",
+    "image_url": "https://image.torob.com/base/images/Q9/_p/Q9_pUQ7RpF6z40NG.jpg"
+  },
+  {
+    "title": "پارئو سفید زنانه لیلی BLEU BLANC LONG PAREO دامن Nur Karaata",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیلی",
+          "BLEU BLANC LONG PAREO",
+          "Nur Karaata"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پارئو"
+        ]
+      }
+    ],
+    "random_key": "3362e876-f910-436d-81b8-fcaf1a258376",
+    "image_url": "https://image.torob.com/base/images/wO/v8/wOv8AeYaktR73ruE.jpg"
+  },
+  {
+    "title": "دامن بافت دامن بافت وارداتی دامن بافت اسپرت دامن بافت ظریف",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "ظریف"
+        ]
+      }
+    ],
+    "random_key": "a906fbfe-3824-45b8-bf62-3fac097e82b3",
+    "image_url": "https://image.torob.com/base/images/Rz/ph/RzphDg3Fa4Bc9Nhk.jpg"
+  },
+  {
+    "title": "دامن پلیسه قهوه ای",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      }
+    ],
+    "random_key": "db68fa12-7d30-47ea-a4cb-fc71fd01543b",
+    "image_url": "https://image.torob.com/base/images/4W/OZ/4WOZIx7gJQEUUlIW.jpg"
+  },
+  {
+    "title": "دامن پوشیده نارنجی زنانه حجاب زن بیمار لونا کاشی Rukayyel",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پوشیده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لونا کاشی",
+          "Rukayyel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "حجاب"
+        ]
+      }
+    ],
+    "random_key": "400ebad5-7180-43e1-af7a-3a9d00a399a7",
+    "image_url": "https://image.torob.com/base/images/sw/QX/swQX_mwCljT2dNnG.jpg"
+  },
+  {
+    "title": "دامن بلند توتو پرچین تور به همراه آستر فری سایز ۳۶ تا ۵۲",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پرچین",
+          "آستر دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز 36 تا 52"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن توتو"
+        ]
+      }
+    ],
+    "random_key": "c1d6d0de-bbb3-4e19-8b0e-ae9e84d72bd2",
+    "image_url": "https://image.torob.com/base/images/sR/Go/sRGoellrOFuEsIb5.jpeg"
+  },
+  {
+    "title": "ست کراپ دامن جنس شنل ریما دامن زنانه مانتو زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "شنل"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "ست کراپ"
+        ]
+      }
+    ],
+    "random_key": "21231332-571a-4daf-8e65-65af20831695",
+    "image_url": "https://image.torob.com/base/images/Tt/tm/TttmppGvzyvrNZJI.jpg"
+  },
+  {
+    "title": "دامن مجلسی کتان کجرا (38تا48) - دامن مجلسی - دامن کتان - دامن اسپورت - دامن دخترانه - دامن زیبا - دامن زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی",
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان",
+          "کجرا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38 تا 48"
+        ]
+      }
+    ],
+    "random_key": "22785055-c572-402e-8b77-fd12d3144363",
+    "image_url": "https://image.torob.com/base/images/tP/F0/tPF0W41zf3diM820.jpg"
+  },
+  {
+    "title": "دامن زنانه جوتی جینز JootiJeans کد 33742118",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جوتی جینز",
+          "JootiJeans"
+        ]
+      }
+    ],
+    "random_key": "217add52-768d-41ef-9a6f-4e8fd4ae518a",
+    "image_url": "https://image.torob.com/base/images/7B/Zm/7BZmlEKtMp8LvoR8.jpg"
+  },
+  {
+    "title": "دامن لی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      }
+    ],
+    "random_key": "4a9064f7-145d-455d-adcc-01bc11c8d2bf",
+    "image_url": "https://image.torob.com/base/images/g6/Oh/g6OhBYzZd9QqrtQb.jpg"
+  },
+  {
+    "title": "دامن زنانه مدل تمام کلوش کد cv90",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "تمام کلوش"
+        ]
+      }
+    ],
+    "random_key": "af91386f-c56f-4197-a3d2-4f7d166ead1d",
+    "image_url": "https://image.torob.com/base/images/px/Rp/pxRpNikZPM0nTBgO.jpg"
+  },
+  {
+    "title": "دامنک نخ پنبه اعلا",
+    "group": " نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامنک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اعلا"
+        ]
+      }
+    ],
+    "random_key": "f3ada756-9436-4abd-b179-45e44e8dcfe3",
+    "image_url": "https://image.torob.com/base/images/qt/-W/qt-WARqu0O3-avTH.jpg"
+  },
+  {
+    "title": "دامن بلند زنانه ال سی وایکیکی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "017a0688-f658-4d35-b214-76b1a65d15a1",
+    "image_url": "https://image.torob.com/base/images/IA/x5/IAx5xZEmVDFSQV6E.jpg"
+  },
+  {
+    "title": "دامن کوتاه چاک دار زنانه مشکی استرادیوریوس",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاک دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "استرادیوریوس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "213fc463-93d6-4d21-9509-26b4ca574d21",
+    "image_url": "https://image.torob.com/base/images/oo/xz/ooxzMIvEdGUZE3eG.jpg"
+  },
+  {
+    "title": "دامن زنانه اورجینال 23KETK0060320",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "65aa5f37-c70e-4483-9cf0-9b379d690a74",
+    "image_url": "https://image.torob.com/base/images/XD/Cj/XDCjkXYZ_72BJdbv.jpg"
+  },
+  {
+    "title": "دامن جین بغل چاکدار",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاکدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "99153973-be57-4805-9c19-2243da256b77",
+    "image_url": "https://image.torob.com/base/images/HT/-k/HT-kQItyalSs45JB.jpg"
+  },
+  {
+    "title": "دامن پوشیده خاکستری زنانه حجاب 60627 آلوینا اورجینال Alvina",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آلوینا Alvina"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "e5474392-24fa-4b88-bdaa-a003d6206363",
+    "image_url": "https://image.torob.com/base/images/Nl/Ul/NlUlcJUPNAyzFF0w.jpg"
+  },
+  {
+    "title": "دامن لخت طرح گرافیکی زنانه سبز تیره ماسیمودوتی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گرافیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز تیره"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماسیمودوتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "bd9d8f27-2463-4870-b85c-7e53b6e7a151",
+    "image_url": "https://image.torob.com/base/images/xI/CG/xICGjgBxWIqiEGsH.jpg"
+  },
+  {
+    "title": "دامن زنانه آلوینا Alvina اورجینال 24KETK0060502",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آلوینا Alvina"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "3ded0498-6b58-4f89-b384-524a205f4bd0",
+    "image_url": "https://image.torob.com/base/images/u-/4P/u-4PVqA4kM-nMiwY.jpg"
+  },
+  {
+    "title": "دامن زنانه اسمارا مدل جین کاغذی 2022",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسمارا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کاغذی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "26aafa6e-8634-447d-ac59-aaeb0d1479b8",
+    "image_url": "https://image.torob.com/base/images/-R/84/-R84NnR-JvbfgX3E.jpg"
+  },
+  {
+    "title": "ست بالاپایین پوشیده سفید زنانه تیم دامن خشخاش اورجینال MERVEN AKYÜZ",
+    "group": "زنانه",
+    "product": "ست بالاپایین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MERVEN AKYÜZ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن",
+          "ست بالاپایین"
+        ]
+      }
+    ],
+    "random_key": "12b74412-13ef-4ddf-a093-fc7cef329c49",
+    "image_url": "https://image.torob.com/base/images/wd/9c/wd9co9474iKg9P8B.jpg"
+  },
+  {
+    "title": "دامن تنیس زنانه نایک NikeCourt Slam Dri-FIT- سفید/بنفش",
+    "group": "زنانه",
+    "product": "دامن تنیس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک Nike"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن تنیس"
+        ]
+      }
+    ],
+    "random_key": "da962225-1bbc-4653-8e09-fcb6ebbfcf36",
+    "image_url": "https://image.torob.com/base/images/B1/3U/B13UCzCbvr9WpIEN.jpg"
+  },
+  {
+    "title": "دامن زنانه اورجینال 24KETK0060501",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "7b070f71-8fa6-4ff1-9dff-14e3199667ca",
+    "image_url": "https://image.torob.com/base/images/wb/ik/wbik6_2bwAQ3oyTE.jpg"
+  },
+  {
+    "title": "دامن زنانه کتان وارداتی گلدوزی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "99fbe925-094e-4d5c-a2e5-b18603fbc7d6",
+    "image_url": "https://image.torob.com/base/images/DO/db/DOdbJ1E5rptR7P38.jpg"
+  },
+  {
+    "title": "دامن دستبافت ترک زنانه گالری آفتابگردون",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دستبافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "گالری آفتابگردون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "ddb63505-ba05-4eb2-9829-9319faff408f",
+    "image_url": "https://image.torob.com/base/images/uN/DH/uNDHfqIuAMio51EX.jpg"
+  },
+  {
+    "title": "دامن چین‌دار زنانه مشکی زارا",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "0ccebb63-b702-4ba2-99e4-034f8e5c6dcd",
+    "image_url": "https://image.torob.com/base/images/33/6t/336tt1OHNh6rKAw2.jpg"
+  },
+  {
+    "title": "دامن راه راه سفید آبی میدی کمرکش ای لاین کرپ نخ سایز 32 تا 62",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "آبی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمرکش"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "ای لاین"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ نخ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "32 تا 62"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "7071a082-92c6-42ca-8321-649ccce0dcb7",
+    "image_url": "https://image.torob.com/base/images/yk/P2/ykP2H4-ojZ4lCnxB.jpg"
+  },
+  {
+    "title": "دامن میدی ساتن راه راه زنانه صورتی زارا",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن"
+        ]
+      }
+    ],
+    "random_key": "cc92a8cf-7fd4-40ba-9361-21170afe7525",
+    "image_url": "https://image.torob.com/base/images/n5/gC/n5gCw80Vd8y1Hj_B.jpg"
+  },
+  {
+    "title": "دامن لینن - سایز",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن لینن"
+        ]
+      }
+    ],
+    "random_key": "b01d6c99-30e5-42ee-911a-e8fd6703f563",
+    "image_url": "https://image.torob.com/base/images/FL/lS/FLlS8PVwTHUhyaQm.jpg"
+  },
+  {
+    "title": "پارئو نارنجی زنانه ساتن بلند پارو با الگوی برگ صورتی فصل جدیدی را نشان نمی دهد pistore",
+    "group": "زنانه",
+    "product": "پارئو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی",
+          "صورتی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "فصل جدید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پارئو"
+        ]
+      }
+    ],
+    "random_key": "29185d71-c8d9-40c4-a71d-3ae5305750fa",
+    "image_url": "https://image.torob.com/base/images/GV/tu/GVtupgKUmvurGqWc.jpg"
+  },
+  {
+    "title": "دامن میدی سایز بزرگ سوپر مازاراتی - مشکی / سایز",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن مازاراتی"
+        ]
+      }
+    ],
+    "random_key": "525806c4-cc3e-4990-a030-8d9a29a6ef78",
+    "image_url": "https://image.torob.com/base/images/Fd/AN/FdANEhcQ3T6DA5Ci.jpg"
+  },
+  {
+    "title": "دامن زنانه برند سی اند ای مدل پلیسه ای کد 31",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سی اند ای"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه ای"
+        ]
+      }
+    ],
+    "random_key": "943ee500-2ec4-49aa-ac15-00854b1d63e7",
+    "image_url": "https://image.torob.com/base/images/og/dZ/ogdZME65QXbni0sN.jpg"
+  },
+  {
+    "title": "دامن زنانه کوتاه کرپ مرویجت آستر دار کلاسیک بشرا مشکی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ مرویجت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستر دار"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "کلاسیک"
+        ]
+      }
+    ],
+    "random_key": "24f85b73-7ea9-42a0-85bd-7920da52d4fb",
+    "image_url": "https://image.torob.com/base/images/kS/Up/kSUpBGpqvw_Sqo2F.jpg"
+  },
+  {
+    "title": "دامن کبریتی نازک مناسب فصل سایز بزرگ 46تا66 رنگبندی 2رنگ قهوه ای مشکی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی نازک"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "مناسب فصل"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ 46تا66"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای",
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "b9d94a3a-4533-45ca-82c4-90fba1f46101",
+    "image_url": "https://image.torob.com/base/images/cd/P0/cdP0TsXAuvaRo2Pz.jpg"
+  },
+  {
+    "title": "دامن حریر گلدار شومیز شاپ shomizshope",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      }
+    ],
+    "random_key": "d139695d-1481-49ad-8219-1d8891afddc3",
+    "image_url": "https://image.torob.com/base/images/BX/BI/BXBIt_e2EqnPIymX.jpg"
+  },
+  {
+    "title": "دامن زنانه mango",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "mango"
+        ]
+      }
+    ],
+    "random_key": "f2d2b98a-8428-4c0b-bb7f-927161245d26",
+    "image_url": "https://image.torob.com/base/images/CX/vT/CXvTMZO2oL95DKMU.jpg"
+  },
+  {
+    "title": "دامن طبقه ایی پلنگی زنانه و دخترانه",
+    "group": "زنانه و دخترانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "طبقه ایی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      }
+    ],
+    "random_key": "99d3febc-b718-4bdd-9f59-dec8be2ed93a",
+    "image_url": "https://image.torob.com/base/images/Xb/rf/Xbrf-NCpoo4gbXbo.jpg"
+  },
+  {
+    "title": "دامن بافت طرح دار خارجی زنانه و دخترانه",
+    "group": "زنانه و دخترانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      }
+    ],
+    "random_key": "c4cdd3e6-49c7-4a06-8d2d-b1d5ec2f739f",
+    "image_url": "https://image.torob.com/base/images/9V/in/9VinTGn30aQ7_zCI.jpg"
+  },
+  {
+    "title": "دامن رقص سکه ای مدل گره ای جنس تور",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن رقص سکه ای"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "گره ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      }
+    ],
+    "random_key": "bc1087ad-1461-43e0-bf7a-5c8c7ffaa9ae",
+    "image_url": "https://image.torob.com/base/images/1h/Hz/1hHzdFCej1VdABFP.jpg"
+  },
+  {
+    "title": "دامن اسپرت لینن کد g767",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      }
+    ],
+    "random_key": "85fda469-b689-4fd1-8d08-90b2d2f4f96c",
+    "image_url": "https://image.torob.com/base/images/yN/0R/yN0RxYpGNTqh3BmR.webp"
+  },
+  {
+    "title": "ست بالا و پایین کرمی زنانه حجاب چهار مجموعه دامن سرد lurex moda",
+    "group": "زنانه",
+    "product": "ست بالا و پایین",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      },
+      {
+        "name": "تعداد",
+        "values": [
+          "چهار مجموعه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست بالا و پایین"
+        ]
+      }
+    ],
+    "random_key": "ed0aa39a-628d-46d9-badd-c0c13162de79",
+    "image_url": "https://image.torob.com/base/images/-F/i5/-Fi59h-fpIEpkkB-.jpg"
+  },
+  {
+    "title": "دامن زنانه ال تی LT کد LT-DN11A",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال تی LT"
+        ]
+      }
+    ],
+    "random_key": "943474d6-5de5-4482-af11-aa74eafe41a9",
+    "image_url": "https://image.torob.com/base/images/uT/hW/uThWOcc_PZpimSaH.jpg"
+  },
+  {
+    "title": "دامن کد ۰۷۸۰۹",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "69a92a21-4a42-4b29-9607-967a6c82c127",
+    "image_url": "https://image.torob.com/base/images/xa/vE/xavE_Ia9oOpQkjWt.jpg"
+  },
+  {
+    "title": "دامن پوشیده مشکی زنانه تایر کمر پشت اورجینال Aker",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "پوشیده"
+        ]
+      }
+    ],
+    "random_key": "590ed4f9-63b9-43d3-829a-5b371ea4b790",
+    "image_url": "https://image.torob.com/base/images/PH/oY/PHoYlcfO58PEPSbS.jpg"
+  },
+  {
+    "title": "دامن کتان بلند جیب دار رنگ موکا BN100",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "جیب دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "موکا"
+        ]
+      }
+    ],
+    "random_key": "85aefb21-22a1-48a3-b9da-289ac3d18e3d",
+    "image_url": "https://image.torob.com/base/images/5o/Kr/5oKreMKg1I8DgW2o.jpg"
+  },
+  {
+    "title": "دامن عروسکی زنانه و دخترانه",
+    "group": "زنانه و دخترانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "عروسکی"
+        ]
+      }
+    ],
+    "random_key": "ce9617a0-2e2d-4e80-b4eb-e845fd001f37",
+    "image_url": "https://image.torob.com/base/images/8S/6v/8S6vXLr8TLjqXspH.jpg"
+  },
+  {
+    "title": "دامن تمام کلوش",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "تمام کلوش"
+        ]
+      }
+    ],
+    "random_key": "2984644d-9ab4-49ba-a5ac-b37794b58bd8",
+    "image_url": "https://image.torob.com/base/images/7_/R9/7_R9b_S5muts3sWY.jpg"
+  },
+  {
+    "title": "دامن مجلسی قد 80قابل تغییر کرپ باربی شخصی دوزی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "80"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ باربی"
+        ]
+      }
+    ],
+    "random_key": "8a18370d-a146-4310-90f3-8160f61906d4",
+    "image_url": "https://image.torob.com/base/images/AL/O-/ALO-5tBFvUJsCy4w.jpg"
+  },
+  {
+    "title": "دامن زنانه تولیکا Tulika کد 21217",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تولیکا Tulika"
+        ]
+      }
+    ],
+    "random_key": "02416f19-33f8-4ab9-a9c6-5458c3fb9627",
+    "image_url": "https://image.torob.com/base/images/w3/Yh/w3YhYdW56-D90-3P.jpg"
+  },
+  {
+    "title": "دامن قرمزتک سایز کرپ",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "تک سایز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      }
+    ],
+    "random_key": "ff381cdf-e091-4e13-928e-2a16869eb1c1",
+    "image_url": "https://image.torob.com/base/images/TU/s6/TUs6C8cVIQjvbfsk.jpg"
+  },
+  {
+    "title": "دامن راسته چاکدار کرپ",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاکدار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      }
+    ],
+    "random_key": "884b2442-ab5e-43f4-835f-d98642448b96",
+    "image_url": "https://image.torob.com/base/images/hr/HD/hrHDURq8QuQQ5y6B.jpg"
+  },
+  {
+    "title": "دامن زنانه اچ اند ام مدل 1017827004",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      }
+    ],
+    "random_key": "b1333de8-b60c-486b-a8a6-b51348fd3a64",
+    "image_url": "https://image.torob.com/base/images/vV/xc/vVxcuxgEx0pw7HCa.jpg"
+  },
+  {
+    "title": "دامن کتان کد 2347",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "74f7d95e-02d5-4fa4-b9ca-ffe7ab8cca12",
+    "image_url": "https://image.torob.com/base/images/vd/dM/vddMM9CjnCqZf90k.jpg"
+  },
+  {
+    "title": "ست یقه فیک و دامنک سفید",
+    "group": "نامشخص",
+    "product": "ست یقه فیک و دامنک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "dbf86604-7c97-4ed5-99db-ea0adc418aa0",
+    "image_url": "https://image.torob.com/base/images/0H/c_/0Hc_CaCutV0lou5K.jpg"
+  },
+  {
+    "title": "دامن میدی ساتن زنانه سبز خاکستری زارا",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      }
+    ],
+    "random_key": "db49301e-fc8c-4485-bdf3-4c15824d4078",
+    "image_url": "https://image.torob.com/base/images/UL/XO/ULXOFyjeXvA3VXKT.jpg"
+  },
+  {
+    "title": "دامن کبریتی کد ۳۱۴",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن کبریتی"
+        ]
+      }
+    ],
+    "random_key": "7eb025b8-bba0-4fc5-b37a-f3ea0c312c1d",
+    "image_url": "https://image.torob.com/base/images/I3/HF/I3HFyoN4EXlB6iAf.jpg"
+  },
+  {
+    "title": "دامن راسته زنانه کمر کش خارجی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمر کش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خارجی"
+        ]
+      }
+    ],
+    "random_key": "0fca5a15-df4c-4e78-8ff8-a34f1afa9844",
+    "image_url": "https://image.torob.com/base/images/2a/LN/2aLN-3qa8B1IVV7r.jpg"
+  },
+  {
+    "title": "دامن بلند جنس کرپ رنگبندی فری سایز",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگبندی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "1156ece4-ed78-4a6b-8fad-109784148414",
+    "image_url": "https://image.torob.com/base/images/mB/nT/mBnT1CRiFtdepAEO.jpg"
+  },
+  {
+    "title": "دامن جین درجه یک عالی جنس جین درجه یک ضخیم عالی سایر 36تا 46",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین",
+          "جین ضخیم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36تا 46"
+        ]
+      }
+    ],
+    "random_key": "724b6a86-19d3-4886-94bd-96c290060cc6",
+    "image_url": "https://image.torob.com/base/images/RB/id/RBidT_4L83xu64MK.jpg"
+  },
+  {
+    "title": "دامن زنانه آلوینا Alvina اورجینال 24YETK0060565",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آلوینا Alvina"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "b0e0444b-86d5-43bd-9b60-97024a4cb867",
+    "image_url": "https://image.torob.com/base/images/Sa/vD/SavDdrcwDACXvZRa.jpg"
+  },
+  {
+    "title": "دامن میدی با طرح پوست مار با پارچه خراطی زنانه عاج ماسیمودوتی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پوست مار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماسیمودوتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خراطی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن میدی"
+        ]
+      }
+    ],
+    "random_key": "e0619a2c-4622-41d6-86b8-46173a5cd860",
+    "image_url": "https://image.torob.com/base/images/Iq/Gt/IqGt3GWZ7siezUdE.jpg"
+  },
+  {
+    "title": "ست دامن چرم کراپ چرم دستکش چرم",
+    "group": "نامشخص",
+    "product": "ست دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست دامن چرم"
+        ]
+      }
+    ],
+    "random_key": "4792bfff-53e4-4a6b-af83-90aa43192e1c",
+    "image_url": "https://image.torob.com/base/images/dC/OR/dCORhviq_hMnPidf.jpg"
+  },
+  {
+    "title": "دامن کوتاه زنانه لاکوست",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لاکوست"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن کوتاه"
+        ]
+      }
+    ],
+    "random_key": "d5ecc852-431c-478f-a6e7-3c88c977bc0b",
+    "image_url": "https://image.torob.com/base/images/Kw/IY/KwIYF-7WSHGh8r92.jpg"
+  },
+  {
+    "title": "دامن مجلسی طبقه ای جنس گیپور فری سایز 38تا 46",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز",
+          "38",
+          "46"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبقه ای"
+        ]
+      }
+    ],
+    "random_key": "f1e650f1-3401-471e-b1ec-d10d36f9b1ae",
+    "image_url": "https://image.torob.com/base/images/zY/Zv/zYZvwo6DFqC3bx1C.jpg"
+  },
+  {
+    "title": "دامن پلیسه بلند کرمی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن پلیسه"
+        ]
+      }
+    ],
+    "random_key": "475c517d-db93-43ec-b5d1-f8b4ba42a090",
+    "image_url": "https://image.torob.com/base/images/Kd/gd/Kdgdhn9oxLt5p8bS.jpg"
+  },
+  {
+    "title": "دامن زنانه نوا استایل Neva Style اورجینال HOP-4892",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نوا استایل"
+        ]
+      }
+    ],
+    "random_key": "5d112f15-3dc8-45b3-910d-76402bb873c8",
+    "image_url": "https://image.torob.com/base/images/3R/85/3R85k_GF9CsCL6C1.jpg"
+  },
+  {
+    "title": "دامن ریون نگین دار سه گل قد 80 (پس کرایه)",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "80"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین دار",
+          "سه گل"
+        ]
+      }
+    ],
+    "random_key": "5e4e908a-0e9f-4180-9c1c-fd1f2c372d03",
+    "image_url": "https://image.torob.com/base/images/Mw/3h/Mw3hs5v-KvjbMPJw.jpg"
+  },
+  {
+    "title": "دامن کوتاه حریر طبقه ای استوایی رنگ زرد کد 4190",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "استوایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبقه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن کوتاه"
+        ]
+      }
+    ],
+    "random_key": "a7aa9d11-da3a-4f52-a2ff-965c36e6e822",
+    "image_url": "https://image.torob.com/base/images/Os/aJ/OsaJ74i37tItx7s9.jpg"
+  },
+  {
+    "title": "دامن جین جلو چاک اسنو",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن جین اسنو"
+        ]
+      }
+    ],
+    "random_key": "d1e04759-3430-4f4a-ac64-aa7da68e6c1c",
+    "image_url": "https://image.torob.com/base/images/8y/6f/8y6fmxcEAQBV5P2l.jpg"
+  },
+  {
+    "title": "دامن مجلسی زنانه بیگ سایز کد 2396 - تصویر کاتالوگ / 4 ایکس- 44/48",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بیگ سایز",
+          "4 ایکس",
+          "44",
+          "48"
+        ]
+      }
+    ],
+    "random_key": "2a443133-90aa-4281-8880-601de95202fc",
+    "image_url": "https://image.torob.com/base/images/gk/Lv/gkLvW5x78l6f9--U.jpg"
+  },
+  {
+    "title": "دامن لنین بلند",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن لنین"
+        ]
+      }
+    ],
+    "random_key": "e25e0e95-044c-4344-b810-a69b4172153d",
+    "image_url": "https://image.torob.com/base/images/fi/dL/fidLJua8PcpZsikb.jpg"
+  },
+  {
+    "title": "دامن توری توتو طوسی کد 407581",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن توتو"
+        ]
+      }
+    ],
+    "random_key": "06a24f26-a33c-4806-8359-cbe4b73ba88c",
+    "image_url": "https://image.torob.com/base/images/cg/40/cg40anv0UKoPOys9.jpg"
+  },
+  {
+    "title": "دامن پفی را بررسی کنید زنانه خاکستری ملانژ استرادیوریوس",
+    "group": "زنانه",
+    "product": "دامن پفی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری ملانژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "استرادیوریوس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن پفی"
+        ]
+      }
+    ],
+    "random_key": "c5e3af16-d38e-42fc-bd44-7651fe81fc46",
+    "image_url": "https://image.torob.com/base/images/Je/kQ/JekQAjYabrUdcZDi.jpg"
+  },
+  {
+    "title": "دامن بلند پلیسه لینن کنفی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لینن",
+          "کنفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن پلیسه"
+        ]
+      }
+    ],
+    "random_key": "d6483b11-de46-40f9-926d-dd049f0429ea",
+    "image_url": "https://image.torob.com/base/images/_i/y0/_iy09fPiT3Spixpv.jpg"
+  },
+  {
+    "title": "دامن مشکی چین دار 6009 - مشکی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      }
+    ],
+    "random_key": "b221163a-2627-4b22-89cf-bbbdf65b887e",
+    "image_url": "https://image.torob.com/base/images/yA/Kh/yAKhZ7cf1m1Llf3F.jpg"
+  },
+  {
+    "title": "دامن پلیسه حریر اشکی شاین دار در رنگبندی متنوع(کد1342)",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شاین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن پلیسه"
+        ]
+      }
+    ],
+    "random_key": "f42c7cde-0d6b-4c2b-9ffd-c237d3f402d0",
+    "image_url": "https://image.torob.com/base/images/Di/6u/Di6udLXNiUe-Tjlr.jpg"
+  },
+  {
+    "title": "دامن دمپا هفت و هشتی 1685 سرمه ای 44",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "44"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "دمپا هفت و هشتی"
+        ]
+      }
+    ],
+    "random_key": "dbfe1be1-0502-4595-8c1e-8c5343a06de3",
+    "image_url": "https://image.torob.com/base/images/PG/Lg/PGLgcr1KZ4Lu-gvk.jpg"
+  },
+  {
+    "title": "دامن بافت خارجی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "d8ec9010-82c0-4d35-aaf0-ed124d1e367f",
+    "image_url": "https://image.torob.com/base/images/AR/LS/ARLS3kZuguQ4Mmkq.jpg"
+  },
+  {
+    "title": "دامن گلدار کمربندی (وارداتی) کد 2624",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمربندی"
+        ]
+      }
+    ],
+    "random_key": "81b91175-7888-414a-968e-9458e738f08e",
+    "image_url": "https://image.torob.com/base/images/93/Ff/93Ff_oiZYUU_-UtJ.jpg"
+  },
+  {
+    "title": "دامن تنیسی ابی جین ۸۰۸۰",
+    "group": "زنانه",
+    "product": "دامن تنیسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن تنیسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ابی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      }
+    ],
+    "random_key": "b9a715c3-ed00-43af-be3d-dc1301f9ecda",
+    "image_url": "https://image.torob.com/base/images/Fl/aY/FlaYD2ArMFYBfpUY.jpg"
+  },
+  {
+    "title": "دامن کوتاه چین دار لینن سفید نکست NEXT",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نکست",
+          "NEXT"
+        ]
+      }
+    ],
+    "random_key": "6cb5226c-c0fc-4f9a-9b9b-59c11c077110",
+    "image_url": "https://image.torob.com/base/images/uX/LN/uXLNgXkuifo2xRPT.webp"
+  },
+  {
+    "title": "دامن بلند زنانه فتر",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فتر"
+        ]
+      }
+    ],
+    "random_key": "68810963-396e-45e4-8528-fbdcdd17f8e5",
+    "image_url": "https://image.torob.com/base/images/qZ/Sz/qZSzTZb4bnoWD4BZ.webp"
+  },
+  {
+    "title": "دامن نخی طرح بابونه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بابونه"
+        ]
+      }
+    ],
+    "random_key": "d0e175ea-c315-478e-af7a-825543ef2c33",
+    "image_url": "https://image.torob.com/base/images/j8/Kb/j8Kby3yb3b56FAOa.jpg"
+  },
+  {
+    "title": "دامن زنانه کرپ مازراتی کلوش جیب دار کژوال هورا مشکی 44 بُرنُس",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ مازراتی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "کلوش"
+        ]
+      },
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "جیب دار"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "کژوال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هورا",
+          "بُرنُس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "44"
+        ]
+      }
+    ],
+    "random_key": "dab128b0-c024-4f53-a1c8-e38eec3e1692",
+    "image_url": "https://image.torob.com/base/images/wM/q_/wMq_Pn2vyTIx2pDI.jpg"
+  },
+  {
+    "title": "دامن تور مجلسی جلو کوتاه پشت تور بلند",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "جلو کوتاه پشت بلند"
+        ]
+      }
+    ],
+    "random_key": "94d1a8a2-d5ef-4a6d-af80-37e1588f8662",
+    "image_url": "https://image.torob.com/base/images/lq/BR/lqBRvMmlrVdOHtJu.jpg"
+  },
+  {
+    "title": "دامن زنانه کوتون Koton کد 3SAK10377EK",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      }
+    ],
+    "random_key": "77e4869a-9d66-4ce8-9706-14617a67cc16",
+    "image_url": "https://image.torob.com/base/images/v6/_w/v6_wPI73hifoDekk.jpg"
+  },
+  {
+    "title": "دامن وافل 6372",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "وافل"
+        ]
+      }
+    ],
+    "random_key": "20cb5800-65dc-4fa7-973b-282ecede06d7",
+    "image_url": "https://image.torob.com/base/images/TX/ab/TXab_YoFSko85HTE.webp"
+  },
+  {
+    "title": "دامن زنانه سرژه مدل 210199 رنگ نسکافه ای",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سرژه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نسکافه ای"
+        ]
+      }
+    ],
+    "random_key": "9120a723-5c7b-4c21-9c2e-78c8837573e2",
+    "image_url": "https://image.torob.com/base/images/u2/5L/u25L_5nJP1R_isSY.jpg"
+  },
+  {
+    "title": "دامن کلوش بلند مجلسی کرپ قد ۱۰۰",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "کلوش"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند",
+          "100"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      }
+    ],
+    "random_key": "e8042766-dab4-4366-a6f7-80d6bbebbf76",
+    "image_url": "https://image.torob.com/base/images/oG/1M/oG1MLsCT9t9zFIRr.jpg"
+  },
+  {
+    "title": "دامن سه چین لینن",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سه چین"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      }
+    ],
+    "random_key": "bc2c4f91-5b85-4a89-a5a1-5a17cfb3df09",
+    "image_url": "https://image.torob.com/base/images/yG/qP/yGqPNvXXLOeoyvtx.jpg"
+  },
+  {
+    "title": "دامن بافت ابریشم",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت ابریشم"
+        ]
+      }
+    ],
+    "random_key": "eda73e39-bcb0-4429-9659-861b29cbc399",
+    "image_url": "https://image.torob.com/base/images/3p/nP/3pnPX0yMj4BjM_Fz.jpg"
+  },
+  {
+    "title": "دامن چند رنگ زنانه قهوه دارچین کمر معمولی میانه با شکاف از جلو Whenever Company",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ",
+          "قهوه ای",
+          "دارچین"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمر معمولی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "میانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شکاف از جلو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Whenever Company"
+        ]
+      }
+    ],
+    "random_key": "a01f940e-a505-4797-9129-35d6318d23be",
+    "image_url": "https://image.torob.com/base/images/2W/wR/2WwRwhwwL3UY2CHr.jpg"
+  },
+  {
+    "title": "دامن زنانه اورجینال 23KETK0060347",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "bada8af7-dedc-41ed-92e2-00aaa23d56e5",
+    "image_url": "https://image.torob.com/base/images/oW/O6/oWO6Ml_yDm7mgoeP.jpg"
+  },
+  {
+    "title": "دامن بلند زنانه دیفکتو",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دیفکتو"
+        ]
+      }
+    ],
+    "random_key": "0ab071be-069b-4a0a-ac63-78bb5263f51e",
+    "image_url": "https://image.torob.com/base/images/kR/9L/kR9LCOZwyRtQRnuP.jpg"
+  },
+  {
+    "title": "دامن پیله دار زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پیله دار"
+        ]
+      }
+    ],
+    "random_key": "156544e3-22d4-4695-8664-8157917e0489",
+    "image_url": "https://image.torob.com/base/images/2e/9M/2e9MXz4TnQC9AKRD.jpg"
+  },
+  {
+    "title": "دامن نخی خنک چین رو باسن(فری سایز)",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین رو باسن"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "خنک"
+        ]
+      }
+    ],
+    "random_key": "12dc32f7-12f1-45b2-bd3a-0fed212df903",
+    "image_url": "https://image.torob.com/base/images/r0/LO/r0LOe9EQOkJ3FgLg.jpg"
+  },
+  {
+    "title": "دامن زنانه مدل YSN-24 رنگ مشکی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "0472aeff-187e-4d0a-9e72-46b7ffab397f",
+    "image_url": "https://image.torob.com/base/images/-w/HZ/-wHZWcMOGL_ARghP.jpg"
+  },
+  {
+    "title": "دامن زنانه نکست مدل AZ-1591",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نکست"
+        ]
+      }
+    ],
+    "random_key": "637d765c-11b0-4e16-883e-eb23d97a8dbc",
+    "image_url": "https://image.torob.com/base/images/2K/G-/2KG-NZCpCuUNm-DD.jpg"
+  },
+  {
+    "title": "دامن لینن بلند",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      }
+    ],
+    "random_key": "e359ce31-cf13-47a4-a599-c7907413be6a",
+    "image_url": "https://image.torob.com/base/images/iW/yR/iWyRfiFH4QcmL1VX.jpg"
+  },
+  {
+    "title": "دامن پلیسه جنس کرپ اسکاچی 2 رنگ بندی مشکی و کرمی فیری سایز 38 تا 46",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ اسکاچی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "کرمی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فیری سایز 38 تا 46"
+        ]
+      }
+    ],
+    "random_key": "b64c01f1-a423-48cd-864d-8f2279b61a80",
+    "image_url": "https://image.torob.com/base/images/O5/Vp/O5VpuqatlmQ0AuHp.jpg"
+  },
+  {
+    "title": "دامن زنانه جین - ۳۱(۳۸)",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۳۱(۳۸)"
+        ]
+      }
+    ],
+    "random_key": "87ab5fa6-60ac-4bd5-a1ff-f912608f8bb9",
+    "image_url": "https://image.torob.com/base/images/od/Zr/odZrvRD8itLgOMVE.jpg"
+  },
+  {
+    "title": "دامن زنانه اسمارا مدل 15219619",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسمارا"
+        ]
+      }
+    ],
+    "random_key": "e0039b4b-c9f3-44b5-a676-de5b8c1226bf",
+    "image_url": "https://image.torob.com/base/images/yW/OA/yWOA5cdQafBMo1lw.jpg"
+  },
+  {
+    "title": "دامن کرپ مجلسی زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b4ce5385-5f16-4739-b019-b5a0cfa81680",
+    "image_url": "https://image.torob.com/base/images/IU/rK/IUrKy-3rmnVwMo1i.jpg"
+  },
+  {
+    "title": "دامن ژرسه راک چیبو آلمان",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ژرسه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "چیبو آلمان"
+        ]
+      }
+    ],
+    "random_key": "25ae05fa-7c01-4dda-90f0-823f3d96e90a",
+    "image_url": "https://image.torob.com/base/images/d6/SB/d6SBV2CTE6GA2pXj.jpg"
+  },
+  {
+    "title": "دامن دامن طبقه ای.دامن پله ای",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "طبقه ای",
+          "پله ای"
+        ]
+      }
+    ],
+    "random_key": "2cb02a80-c0d8-426a-b7fd-e508408c50a7",
+    "image_url": "https://image.torob.com/base/images/E1/zl/E1zlFvGx7G8i6uHV.jpg"
+  },
+  {
+    "title": "دامن شلوارکی کوتاه",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن شلوارکی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "61f8219e-3fef-474a-9180-e4648dcdbd54",
+    "image_url": "https://image.torob.com/base/images/ZA/PF/ZAPF3XFbZpw_752o.jpg"
+  },
+  {
+    "title": "دامن طبقه ای",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "طبقه ای"
+        ]
+      }
+    ],
+    "random_key": "0e1026e0-528f-4d7f-903a-b1bff074e625",
+    "image_url": "https://image.torob.com/base/images/2s/In/2sInKuGKkBJDtIPb.jpg"
+  },
+  {
+    "title": "دامن کوتاه حریر طبقه ای استوایی رنگ مشکی کد 4191",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "طبقه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "استوایی"
+        ]
+      }
+    ],
+    "random_key": "9fbc0f84-8c2c-4084-b791-b84e8f9ad8ca",
+    "image_url": "https://image.torob.com/base/images/32/aZ/32aZxc4CtKVqu1vW.jpg"
+  },
+  {
+    "title": "دامن دو طرف دکمه مازراتی 38 تا 44",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38",
+          "44"
+        ]
+      }
+    ],
+    "random_key": "b6cd9751-5486-46c9-8037-a98cc8e1393f",
+    "image_url": "https://image.torob.com/base/images/LI/R9/LIR9PPQ6DY6a8exP.jpg"
+  },
+  {
+    "title": "دامن جودون",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جودون"
+        ]
+      }
+    ],
+    "random_key": "2917a51a-3351-447a-8dfe-e81ef4d55eac",
+    "image_url": "https://image.torob.com/base/images/2a/oW/2aoW08FB3XOEc42-.jpg"
+  },
+  {
+    "title": "دامن شورتکی فیروزه ای",
+    "group": "زنانه",
+    "product": "دامن شورتی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن شورتکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "فیروزه ای"
+        ]
+      }
+    ],
+    "random_key": "a010f370-af9b-4f72-856b-7d446c2e091c",
+    "image_url": "https://image.torob.com/base/images/1H/1P/1H1PD2OKkWHKUOMx.jpg"
+  },
+  {
+    "title": "دامن چرم زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      }
+    ],
+    "random_key": "27359418-1577-4d0b-b615-18811985b6ae",
+    "image_url": "https://image.torob.com/base/images/f2/Bi/f2Biwfhjv0xOBiZu.jpg"
+  },
+  {
+    "title": "دامن چروک بلند سپند جنس کرپ خاویاری",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "چروک"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ خاویاری"
+        ]
+      }
+    ],
+    "random_key": "f4aece75-67a2-4269-baf3-7f482889a05e",
+    "image_url": "https://image.torob.com/base/images/bw/N4/bwN4iM0I2235rNjH.jpg"
+  },
+  {
+    "title": "دامن زنانه کرپ طرح دار",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      }
+    ],
+    "random_key": "9bd851da-6d50-440e-994b-a4a56fdfa3d6",
+    "image_url": "https://image.torob.com/base/images/LT/Ut/LTUts0RmEos3PRP9.jpg"
+  },
+  {
+    "title": "دامن لينن سه دكمه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "سه دکمه"
+        ]
+      }
+    ],
+    "random_key": "8f881391-391a-4b4d-b6de-13bf11bd7819",
+    "image_url": "https://image.torob.com/base/images/Ek/_9/Ek_9wGbC3FqLFuxt.jpg"
+  },
+  {
+    "title": "دامن لینن",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      }
+    ],
+    "random_key": "bb6178b1-b2e0-4f47-9892-d50f54be47d8",
+    "image_url": "https://image.torob.com/base/images/OX/Jz/OXJzPtUvVo1GCLkc.jpg"
+  },
+  {
+    "title": "دامن قلبي _كد 185",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "cccbe7bd-545a-4eda-b356-371f7f37ff84",
+    "image_url": "https://image.torob.com/base/images/6S/Ux/6SUxaqVa5872pelO.jpg"
+  },
+  {
+    "title": "دامن پلیسه جنس ونیز درجه یک فری سایز 38تا46",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ونیز درجه یک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز",
+          "38",
+          "46"
+        ]
+      }
+    ],
+    "random_key": "d134368f-53ba-4f7c-a07d-3ba05e1550e8",
+    "image_url": "https://image.torob.com/base/images/FO/yJ/FOyJ2moKoaB8_RR2.jpg"
+  },
+  {
+    "title": "دامن کمر کش زنانه دست دوم",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمر کش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوم"
+        ]
+      }
+    ],
+    "random_key": "e2200c86-1c13-448c-955e-78e62e787dc6",
+    "image_url": "https://image.torob.com/base/images/4N/nL/4NnLGgFlxbqK8MFD.jpg"
+  },
+  {
+    "title": "دامن ساتن استوک اروپایی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "استوک اروپایی"
+        ]
+      }
+    ],
+    "random_key": "58c50c82-56e4-494e-bca7-da7bc5627228",
+    "image_url": "https://image.torob.com/base/images/de/nq/denq9BCT8nMifUCS.jpg"
+  },
+  {
+    "title": "دامن پوشیده آبی زنانه بلند با تایر کمر 60280 آلوینا Alvina",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پوشیده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آلوینا",
+          "Alvina"
+        ]
+      }
+    ],
+    "random_key": "f5e12f2b-1519-4384-85a1-600e46a8c3b7",
+    "image_url": "https://image.torob.com/base/images/Oy/91/Oy91s-pTbpEnRVK0.jpg"
+  },
+  {
+    "title": "دامن پلیسه چین چین . ارسال رایگان",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین چین"
+        ]
+      }
+    ],
+    "random_key": "de9087fc-ae23-4d5e-8af3-0bfd7be5a7c4",
+    "image_url": "https://image.torob.com/base/images/Vb/-R/Vb-RiicYarTBwJWB.jpg"
+  },
+  {
+    "title": "دامن",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "df65a506-3e3b-4ad3-a0b1-13d20ebef812",
+    "image_url": "https://image.torob.com/base/images/sa/22/sa22d76S5iPds-yr.webp"
+  },
+  {
+    "title": "دامن جین جلو چاک اسکای",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جلو چاک"
+        ]
+      }
+    ],
+    "random_key": "343615fa-3b61-43c8-94a1-2e30f6cd5dcf",
+    "image_url": "https://image.torob.com/base/images/py/3R/py3R2etiFNp3nfmK.jpg"
+  },
+  {
+    "title": "دامن زنانه توییت پشمی مدل سپیتا",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توییت پشمی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "سپيتا"
+        ]
+      }
+    ],
+    "random_key": "a4203092-4f94-454c-b244-a9650848eb87",
+    "image_url": "https://image.torob.com/base/images/KE/yi/KEyimOAH-zWsp2d1.jpg"
+  },
+  {
+    "title": "تونیک دامن ابروبادی مدل حنا سایز ۳۶ تا ۴۲",
+    "group": "زنانه",
+    "product": "تونیک دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابروبادی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "حنا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36 تا 42"
+        ]
+      }
+    ],
+    "random_key": "02a70150-c3d3-4a48-a5b4-cb32d3e989d0",
+    "image_url": "https://image.torob.com/base/images/53/P5/53P5eSQ0ZVOoRlF9.jpg"
+  },
+  {
+    "title": "دامن پوشیده بنفش زنانه با لوازم جانبی فلزی 60528 آلوینا Alvina",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پوشیده",
+          "با لوازم جانبی فلزی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آلوینا Alvina"
+        ]
+      }
+    ],
+    "random_key": "74c7e4ae-4692-4ed3-b9cc-c28c778adb7b",
+    "image_url": "https://image.torob.com/base/images/j4/kJ/j4kJWqotjpKB3wsF.jpg"
+  },
+  {
+    "title": "دامن زنانه جین",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      }
+    ],
+    "random_key": "2c83510a-ef67-408e-abc2-66e7352a1f2a",
+    "image_url": "https://image.torob.com/base/images/h3/lB/h3lBHpl_3oKNM_Sp.jpg"
+  },
+  {
+    "title": "دامن زنانه خارجی کتان گلدوزی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی"
+        ]
+      }
+    ],
+    "random_key": "6dcd54b3-d34c-46df-89e5-f806182de987",
+    "image_url": "https://image.torob.com/base/images/xG/O7/xGO7JhoHlBLIltOK.jpg"
+  },
+  {
+    "title": "دامن زنانه اسمارا مدل لینن کد 15709277",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسمارا"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      }
+    ],
+    "random_key": "f04b0abc-f422-4d90-8134-7f787e55afb8",
+    "image_url": "https://image.torob.com/base/images/5I/jU/5IjUqnCj91NgmwCP.jpg"
+  },
+  {
+    "title": "دامن وارداتی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "43244250-7d3a-4e8c-9a49-52f9b54fbded",
+    "image_url": "https://image.torob.com/base/images/T7/XX/T7XXWKJ6-o1OZnC_.jpg"
+  },
+  {
+    "title": "دامن نخی بلند گل بنفشه دررنگبندی متنوع فروشگاه صدف گالری",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل بنفشه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگبندی متنوع"
+        ]
+      }
+    ],
+    "random_key": "70795603-cc7c-4831-9c11-10fb02e126aa",
+    "image_url": "https://image.torob.com/base/images/Iq/DR/IqDRbucFhtaaHXa4.jpg"
+  },
+  {
+    "title": "دامن پلیسه کوتاه مجلسی کرپ کیفیت و دوخت عالی آستر دار در رنگبندی متنوع قرمز و ... ارسال رایگان از دامن قرمزی",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستر دار",
+          "کیفیت عالی",
+          "دوخت عالی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگبندی متنوع",
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "76a5dc7b-2b88-47f0-b96b-85c1937ab5cc",
+    "image_url": "https://image.torob.com/base/images/MI/GK/MIGKtIqAR5bcIhtx.jpg"
+  },
+  {
+    "title": "دامن زنانه مدل AM26",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "AM26"
+        ]
+      }
+    ],
+    "random_key": "1bafcd15-88da-48cd-929e-7b83e7c37b48",
+    "image_url": "https://image.torob.com/base/images/TD/zH/TDzH8fJLQjje3Z66.jpg"
+  },
+  {
+    "title": "دامن نخی زنانه همراه با اشانتیون و ارسال رایگان",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "ac4e21f3-1e99-4315-9042-32bbf6091f29",
+    "image_url": "https://image.torob.com/base/images/5P/lM/5PlMGX8SEWCht_Q4.jpg"
+  },
+  {
+    "title": "دامن مشکی نخی بلند حاشیه دار زنانه با کیفیت عالی مناسب سایز 38 تا 54",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حاشیه دار",
+          "با کیفیت عالی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38 تا 54"
+        ]
+      }
+    ],
+    "random_key": "7bf2226f-8c45-42b7-85e3-8968689630ff",
+    "image_url": "https://image.torob.com/base/images/B0/Ft/B0FtkHgHlnsc9E6e.jpg"
+  },
+  {
+    "title": "دامن خاکستری زنانه Maxi Tafta فلزی Mert Erkan",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "Maxi"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "Tafta فلزی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Mert Erkan"
+        ]
+      }
+    ],
+    "random_key": "85f8f34e-9164-4765-b189-7d2c7469395d",
+    "image_url": "https://image.torob.com/base/images/mN/ov/mNovAk5Bmw3ZHvD3.jpg"
+  },
+  {
+    "title": "دامن بلند پشمی زنانه دست دوم",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوم"
+        ]
+      }
+    ],
+    "random_key": "71750497-c0c5-49b1-bb72-ebfccb602389",
+    "image_url": "https://image.torob.com/base/images/2V/tv/2Vtvv3hdJzajdxLb.jpg"
+  },
+  {
+    "title": "دامن ریون مشکی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "83279d5d-ce9f-429b-9470-159d51fcfea7",
+    "image_url": "https://image.torob.com/base/images/hx/2p/hx2p9pasQs7YoQoX.jpg"
+  },
+  {
+    "title": "دامن چهار خونه کرکی پاییزه",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهار خونه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرکی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      }
+    ],
+    "random_key": "95b3c39e-ae56-41e6-8a96-e87403d68590",
+    "image_url": "https://image.torob.com/base/images/YF/Lt/YFLtYsrIANRbcqla.jpg"
+  },
+  {
+    "title": "دامن زنانه کد 23",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [],
+    "random_key": "5adde86a-8c90-4d9e-877a-ba83ef222db9",
+    "image_url": "https://image.torob.com/base/images/H1/1T/H11TANNSRqZErWtL.jpg"
+  },
+  {
+    "title": "دامن آنی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "d2ee7149-3450-498e-ba30-6faef53bc597",
+    "image_url": "https://image.torob.com/base/images/s2/WS/s2WSpoAfoPJ5asmI.webp"
+  },
+  {
+    "title": "دامن بلند زنانه کوتون",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      }
+    ],
+    "random_key": "f053721c-b8f8-4d8f-86a0-73b792705fce",
+    "image_url": "https://image.torob.com/base/images/38/-o/38-ouWxb4fuA1vza.jpg"
+  },
+  {
+    "title": "ست دامن پانچ مناسب خانمها و دختران",
+    "group": "زنانه و دخترانه",
+    "product": "ست دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن پانچ"
+        ]
+      }
+    ],
+    "random_key": "3402021b-69c4-498b-98bc-f527a1e3a4f8",
+    "image_url": "https://image.torob.com/base/images/LS/0m/LS0mPfGjBCXq69ZY.jpg"
+  },
+  {
+    "title": "دامن میدی بافتنی ساده زنانه اکرو زارا",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "میدی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "اکرو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      }
+    ],
+    "random_key": "7b581d0e-3b7a-4648-a25c-c82095a407be",
+    "image_url": "https://image.torob.com/base/images/1I/Z-/1IZ-9aQAW1cBfCJM.jpg"
+  },
+  {
+    "title": "دامن بلند زنانه کرپ مازارتی با رنگ بندی",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ مازارتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با رنگ بندی"
+        ]
+      }
+    ],
+    "random_key": "64cd50ca-ff6c-43e2-915d-8bb75842362b",
+    "image_url": "https://image.torob.com/base/images/Kg/WD/KgWDfU5VaJXHLZKt.jpg"
+  },
+  {
+    "title": "دامن گلی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [],
+    "random_key": "fd8103af-3dac-4d17-b4b0-fa75dc19059e",
+    "image_url": "https://image.torob.com/base/images/QA/GU/QAGUWW49ZaXqV6Dh.jpg"
+  },
+  {
+    "title": "دامن پوشیده آبی زنانه مداد مفصل شکاف زیپ 60224 آلوینا Alvina",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "پوشیده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "مداد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مفصل شکاف"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Alvina",
+          "آلوینا"
+        ]
+      }
+    ],
+    "random_key": "0bf6cf01-c967-4c04-b71e-08f77eed05d8",
+    "image_url": "https://image.torob.com/base/images/4e/tK/4etKkPeMyQrmz25b.jpg"
+  },
+  {
+    "title": "دامن بهاره",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "بهاره"
+        ]
+      }
+    ],
+    "random_key": "5779a9d3-9dc4-45c3-a72f-1488ed7328c7",
+    "image_url": "https://image.torob.com/base/images/yz/Rk/yzRkNj3HgYPVwIyA.jpg"
+  },
+  {
+    "title": "دامن کوتاه حریر خوشرنگ و خوش طرح",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوشرنگ",
+          "خوش طرح"
+        ]
+      }
+    ],
+    "random_key": "8175b05d-aa42-4131-a469-0d075a5408cc",
+    "image_url": "https://image.torob.com/base/images/Yw/7B/Yw7Bt5bwl8OE8LAu.jpg"
+  },
+  {
+    "title": "دامن نخی بلند حاشیه گلهای بهاری پارچه خارجی",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلهای بهاری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حاشیه",
+          "پارچه خارجی"
+        ]
+      }
+    ],
+    "random_key": "df1099c0-0caf-45c7-ab3b-a4dfdf16a150",
+    "image_url": "https://image.torob.com/base/images/Kf/Rq/KfRqN550n730bzhr.jpg"
+  },
+  {
+    "title": "دامن سفید زنانه پارچه چتر نجات حداکثر Rivus",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه چتر نجات"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Rivus"
+        ]
+      }
+    ],
+    "random_key": "9c1c32e6-e027-4b66-9a1c-8c9d89c4d869",
+    "image_url": "https://image.torob.com/base/images/dJ/0I/dJ0IxTlJcqoFICgh.jpg"
+  },
+  {
+    "title": "دامن کمرکش",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمرکش"
+        ]
+      }
+    ],
+    "random_key": "17b54daa-a6cb-486f-af05-8d4d933d2466",
+    "image_url": "https://image.torob.com/base/images/XO/R8/XOR8H2d6tXTdThqk.jpg"
+  },
+  {
+    "title": "دامن زنانه سرژه مدل 210222",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سرژه"
+        ]
+      }
+    ],
+    "random_key": "61802c93-3b36-4c81-b419-5e5c83daadd9",
+    "image_url": "https://image.torob.com/base/images/Nx/0u/Nx0uocwR5F4mf_pB.jpg"
+  },
+  {
+    "title": "دامن نخی کلوش،دامن نخی طرحدار،دامن نخی چیندار",
+    "group": "نامشخص",
+    "product": "دامن نخی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "کلوش"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      },
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "چیندار"
+        ]
+      }
+    ],
+    "random_key": "f083ff0b-5b85-4137-919d-35a7d11175d3",
+    "image_url": "https://image.torob.com/base/images/eU/RG/eURGyyb3GtKZemjK.jpg"
+  },
+  {
+    "title": "دامن مجلسی آستردار کلوش فون گلدار زنانه فوق العاده زیبا اورجینال برند آمریکا سایز 42 44",
+    "group": "زنانه",
+    "product": "دامن زنانه",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستردار",
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "کلوش",
+          "فون"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "42",
+          "44"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آمریکا"
+        ]
+      }
+    ],
+    "random_key": "9a6b7aea-4a36-465e-a47e-17392ca08e95",
+    "image_url": "https://image.torob.com/base/images/7r/hW/7rhWPkQ6hWOo0bqj.jpg"
+  }
+]

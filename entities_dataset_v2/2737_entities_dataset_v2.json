@@ -1,0 +1,6935 @@
+[
+  {
+    "title": "ساسبند چرمی زنانه مدل Cross",
+    "group": "زنانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Cross"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند چرمی"
+        ]
+      }
+    ],
+    "random_key": "0aaa71e3-e0b1-49de-aa1d-0991a6200bfe",
+    "image_url": "https://image.torob.com/base/images/Q8/kJ/Q8kJad9Hzo4ANcIn.jpg"
+  },
+  {
+    "title": "ساسبند مردانه طوسی",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "7af955c8-42a7-4b28-94da-08e432120d76",
+    "image_url": "https://image.torob.com/base/images/7V/iT/7ViTyM7ARp0JVHaE.jpg"
+  },
+  {
+    "title": "بند شلوار رو دوشی (ساس بند شلوار) زرشکی",
+    "group": "نامشخص",
+    "product": "بند شلوار رو دوشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بند شلوار رو دوشی",
+          "ساس بند شلوار"
+        ]
+      }
+    ],
+    "random_key": "4bf18ca5-3027-4a4a-a2f9-288c33f252c8",
+    "image_url": "https://image.torob.com/base/images/4S/_9/4S_9OxL7SKfrPCu8.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه ملودی رنگ آجری-عرض کش دو سانت",
+    "group": "بچگانه",
+    "product": "ساسبند بچگانه",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آجری"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      }
+    ],
+    "random_key": "12d7f4ca-cd0d-4e78-ae03-aa3c9d0ea23e",
+    "image_url": "https://image.torob.com/base/images/Qz/e4/Qze4NOVFVOx9_dvh.jpg"
+  },
+  {
+    "title": "ساسپندر",
+    "group": "نامشخص",
+    "product": "ساسپندر",
+    "entities": [],
+    "random_key": "15c333a5-0374-499c-8392-9347dab72c8a",
+    "image_url": "https://image.torob.com/base/images/NG/Ui/NGUifYPOHmkE0SWu.jpg"
+  },
+  {
+    "title": "ساسپندر / ساس بند شلوار مردانه آبی سرمه ای راسته مردانه | تودورز Tudors PASK141-707",
+    "group": "مردانه",
+    "product": "ساسپندر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند شلوار مردانه"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تودورز",
+          "Tudors"
+        ]
+      }
+    ],
+    "random_key": "67bf79ee-ee44-4029-a0ea-403adf133f84",
+    "image_url": "https://image.torob.com/base/images/bC/Nh/bCNhblVIwljnECAw.jpg"
+  },
+  {
+    "title": "ست ساس بند و پاپیون ماوی mavi",
+    "group": "نامشخص",
+    "product": "ست ساس بند و پاپیون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساس بند و پاپیون"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماوی",
+          "mavi"
+        ]
+      }
+    ],
+    "random_key": "60138fa6-9265-4f51-b3c3-02ba1d2f2fba",
+    "image_url": "https://image.torob.com/base/images/67/wV/67wVQulx2cbbanuq.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه با سگک فلزی",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع گیره",
+        "values": [
+          "سگک فلزی"
+        ]
+      }
+    ],
+    "random_key": "393aa1fc-d26b-46ae-bd41-1c2f5cdaa7b7",
+    "image_url": "https://image.torob.com/base/images/hY/A1/hYA19HoUEoiclfQp.jpg"
+  },
+  {
+    "title": "پک جفت امپول بیوتین بپانتن +یک جفیت فیتو 4mus فرانسوی",
+    "group": "نامشخص",
+    "product": "پک جفت امپول بیوتین بپانتن",
+    "entities": [],
+    "random_key": "055088ee-8511-4544-9abe-d313c554fb79",
+    "image_url": "https://image.torob.com/base/images/uM/vM/uMvMpP1q21qa5FJq.jpg"
+  },
+  {
+    "title": "ساس بند نوجوان (۸ تا ۱۵سال ) پسرانه CHR مدل دی سی DC",
+    "group": "نوجوان پسرانه",
+    "product": "ساسبند نوجوان",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوجوان",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۸ تا ۱۵سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دی سی",
+          "DC"
+        ]
+      }
+    ],
+    "random_key": "ade699c9-ebe1-4ea3-a675-d7687a6b0128",
+    "image_url": "https://image.torob.com/base/images/lP/mF/lPmFFD7ko1x6U7By.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 15 فری سایز Code 18383590",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "eb3561ec-3770-4f69-b908-69e7d2612ddc",
+    "image_url": "https://image.torob.com/base/images/3Z/c1/3Zc1idSOE5qqLd-c.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه ال سی وایکیکی مدل 4039",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "2b7d8501-7817-44a7-a605-44895c7a41bf",
+    "image_url": "https://image.torob.com/base/images/HX/un/HXunuFjHJTfhS9oS.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه کش 2 سانت (سیاه)",
+    "group": "بچگانه",
+    "product": "ساسبند بچگانه",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      }
+    ],
+    "random_key": "7c64bfb9-ca36-4eee-8a27-14f406b6e4e4",
+    "image_url": "https://image.torob.com/base/images/Fg/iV/FgiVy5y8YZK3OpCH.jpg"
+  },
+  {
+    "title": "ساسبند 2313201",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [],
+    "random_key": "9e64a253-d8ff-4b75-b9fb-834b3df99248",
+    "image_url": "https://image.torob.com/base/images/jS/4-/jS4-6ThSVD_uYBbm.jpg"
+  },
+  {
+    "title": "ساسبند مردانه چرم طبیعی",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      }
+    ],
+    "random_key": "f1ddaecd-829a-4f46-9e26-5bf21bff9091",
+    "image_url": "https://image.torob.com/base/images/2R/yn/2Rynq3aFbOg0mb4r.jpg"
+  },
+  {
+    "title": "21376 ساس بند اهورا(2تا7سال)",
+    "group": "2تا7سال",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اهورا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2تا7سال"
+        ]
+      }
+    ],
+    "random_key": "c92ac853-a4df-4e06-bef2-6f39056611ca",
+    "image_url": "https://image.torob.com/base/images/yT/2W/yT2WtQVa2Ohdqmro.jpg"
+  },
+  {
+    "title": "گیره ساسبند پلاستیکی صورتی(بسته 20 تایی)",
+    "group": "نامشخص",
+    "product": "گیره ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "20 تایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گیره ساسبند"
+        ]
+      }
+    ],
+    "random_key": "aa4c4f88-423c-4e7c-b548-0f2a63794da0",
+    "image_url": "https://image.torob.com/base/images/XV/wd/XVwdlnta73LUSlBr.jpg"
+  },
+  {
+    "title": "ساسبند متوسط",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "ed811c80-fb93-4b54-85fa-edf45ebf1e73",
+    "image_url": "https://image.torob.com/base/images/yY/UG/yYUG_vlB7UA7uL0D.jpg"
+  },
+  {
+    "title": "ساسبند یک تا هشت سال",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "یک تا هشت سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "37d12599-c40b-4ee6-b88c-849738735e63",
+    "image_url": "https://image.torob.com/base/images/6T/Xe/6TXef3HxPrQN3voR.jpg"
+  },
+  {
+    "title": "ساس بند زنانه CHR مدل دی سی DC",
+    "group": "زنانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند زنانه"
+        ]
+      }
+    ],
+    "random_key": "78f0a176-d6be-425c-95b0-1b7e163eca5f",
+    "image_url": "https://image.torob.com/base/images/44/b8/44b8-2y6RoZVXWyW.jpg"
+  },
+  {
+    "title": "ساسبند گیره فلزی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "a881ed7d-84f4-4f4c-9a57-e87641fee0f3",
+    "image_url": "https://image.torob.com/base/images/Wv/jY/WvjYZ0MYwvCJeNzH.jpg"
+  },
+  {
+    "title": "ساسبند مردانه CHR مدل لاگوست نیمه پهن",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "نیمه پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "5db516ca-1cfa-4d55-8828-7f32754be3e2",
+    "image_url": "https://image.torob.com/base/images/2S/ZL/2SZLH0kV27qOgBjx.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ قرمز-عرض کش دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "93aef5f7-ef97-4e85-8c0c-9b5d3c9675d6",
+    "image_url": "https://image.torob.com/base/images/RT/L3/RTL3lhyTYepvm5mK.jpg"
+  },
+  {
+    "title": "کیت ساس بند مردانه(دکمه‌ای و کلیپس) مدل والنتینو کش نقش برجسته",
+    "group": "مردانه",
+    "product": "کیت ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع گیره",
+        "values": [
+          "دکمه ای",
+          "کلیپس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کش نقش برجسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیت ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "b217ad48-a212-4b98-947c-02bcac068ea1",
+    "image_url": "https://image.torob.com/base/images/MO/vI/MOvIWWNz7c4QK04J.jpg"
+  },
+  {
+    "title": "ساس بند پسرانه کد 007 فری سایز Code 49355355",
+    "group": "پسرانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "bf782a55-6b49-4489-a64e-7d61be6b0d93",
+    "image_url": "https://image.torob.com/base/images/yv/py/yvpykeQqNUVrUorw.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه بابانوئل کارتی با گیره انبری",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بابانوئل کارتی"
+        ]
+      },
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره انبری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "dafd61df-b5aa-4a36-8d15-53d50ca4c836",
+    "image_url": "https://image.torob.com/base/images/Ph/bo/Phbo0AB6GvVKxQR-.jpg"
+  },
+  {
+    "title": "ساسبند مردانه",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "728882bb-5df7-4782-ae0c-79371793c2c5",
+    "image_url": "https://image.torob.com/base/images/tE/M_/tEM_osgSEYZpuRlX.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-12",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "e5f72306-9005-4346-bbdf-5b0ea0000110",
+    "image_url": "https://image.torob.com/base/images/N9/ce/N9cemWwHA99Gq5Ch.jpg"
+  },
+  {
+    "title": "ساسبند زنانه و مردانه مدل دو دور کد 886435",
+    "group": "زنانه و مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه",
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند زنانه و مردانه"
+        ]
+      }
+    ],
+    "random_key": "6e6fd31f-23db-487c-af9b-ac554da4a149",
+    "image_url": "https://image.torob.com/base/images/4N/0j/4N0jHVMPVeEejF_F.jpg"
+  },
+  {
+    "title": "ساس بند مردانه هکس ایران کد SB-SRM",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هکس ایران"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "1dcadc99-ac2e-4b80-9a62-fa4b32479524",
+    "image_url": "https://image.torob.com/base/images/3l/or/3lorHKekycgmqCax.jpg"
+  },
+  {
+    "title": "ساس بند نوزادی مدل K017CNN",
+    "group": "نوزادی",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوزادی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند نوزادی"
+        ]
+      }
+    ],
+    "random_key": "b9806c99-4155-477b-977c-7d3289cef9df",
+    "image_url": "https://image.torob.com/base/images/1U/5C/1U5CPL5IwQwQaIgb.jpg"
+  },
+  {
+    "title": "ساس بند مردانه CHR مدل ماسیمو دوتی",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "19083551-5864-4d4e-b413-6f24719b2d9a",
+    "image_url": "https://image.torob.com/base/images/xe/Dm/xeDmiplOxMa3rL6l.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ سفید-عرض کش دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "8d432ea8-d4b4-411e-91ac-4a8258cda5b0",
+    "image_url": "https://image.torob.com/base/images/zr/FE/zrFEZKVQoxU0zfuv.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ گلبهی روشن مات-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گلبهی روشن مات"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "dcbdd07b-d814-4e28-ac6b-8ca1152c1027",
+    "image_url": "https://image.torob.com/base/images/5y/r_/5yr_XLu1dkcnMBPS.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه کش 2 سانت (سفید)",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "81c3b555-1077-4137-a4e3-5c206f863c1e",
+    "image_url": "https://image.torob.com/base/images/aZ/cj/aZcjW6UuSCuq-RcV.jpg"
+  },
+  {
+    "title": "ساسبند زنانه مدل پانچی 4 سانت",
+    "group": "زنانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پانچی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "4 سانت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "be78b53a-f9c4-428b-b8ea-d3b775a6c850",
+    "image_url": "https://image.torob.com/base/images/vS/In/vSInOxBg-F4PaSJ-.jpg"
+  },
+  {
+    "title": "ساس بند زنانه CHR مدل مونت بلانک ۳ گیره MONT BLANC",
+    "group": "زنانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "۳ گیره"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "7a8aa8ec-b78b-4337-a711-e35cafa28a72",
+    "image_url": "https://image.torob.com/base/images/GE/PT/GEPTViCsuSpK_D5g.jpg"
+  },
+  {
+    "title": "ساسبند کش 3 سانت (زیتونی)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "3 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زیتونی"
+        ]
+      }
+    ],
+    "random_key": "619c3c3f-3f10-4907-a274-eb0b7af2c696",
+    "image_url": "https://image.torob.com/base/images/JF/YN/JFYNh755l_yny6EX.jpg"
+  },
+  {
+    "title": "ساس بند کلیپسی انگشتی شطرنجی مشکی قهوه ای",
+    "group": "نامشخص",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "کلیپسی انگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شطرنجی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "قهوه ای"
+        ]
+      }
+    ],
+    "random_key": "7e58d054-820e-4d62-ae7f-60a53ecdff43",
+    "image_url": "https://image.torob.com/base/images/6v/_3/6v_3yd7kiub_ddmh.jpg"
+  },
+  {
+    "title": "ویتامین ب۱ ناتری کاست",
+    "group": "نامشخص",
+    "product": "ویتامین",
+    "entities": [],
+    "random_key": "649c8322-fe2b-4014-a2ff-2325d5980304",
+    "image_url": "https://image.torob.com/base/images/49/QM/49QMrsFWZVR515rs.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-24 فری سایز Code 38979117",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      }
+    ],
+    "random_key": "21965cde-d973-4884-b8cf-3757d67553a3",
+    "image_url": "https://image.torob.com/base/images/71/PN/71PNCJuW_CBHR0-6.jpg"
+  },
+  {
+    "title": "قرص تقویت کننده تستسترون تستوسترو گرو_اچ پی 2 اولتیمیت (126 عددی)",
+    "group": "نامشخص",
+    "product": "قرص تقویت کننده",
+    "entities": [],
+    "random_key": "365a5234-b276-427b-b5f5-c5fb84b38fdf",
+    "image_url": "https://image.torob.com/base/images/nL/5E/nL5EL6ZZ5k01ZjTN.jpg"
+  },
+  {
+    "title": "ساس بند مردانه، ساسبند مردانه درجه یک عرض 2/5 سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "2/5 سانت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "79da4080-cf88-4e09-99ba-e04cc68706f3",
+    "image_url": "https://image.torob.com/base/images/tp/2U/tp2UXo5FBN7xRtzA.jpg"
+  },
+  {
+    "title": "کد502 . لن یارد - لند یارد دو تیکه . اویز لباس . آویز شلوار . اکسسوری مردانه . اکسسوری زنانه . ولنتاین . بدلیجات",
+    "group": "مردانه و زنانه",
+    "product": "اکسسوری",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اویز لباس",
+          "آویز شلوار"
+        ]
+      }
+    ],
+    "random_key": "ec5edaac-b799-4989-8aa9-b9f40881b843",
+    "image_url": "https://image.torob.com/base/images/sR/sr/sRsrEkgYXkB4CvE5.jpg"
+  },
+  {
+    "title": "ساسبند+پاپیون پسرانه و دخترانه",
+    "group": "پسرانه و دخترانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند+پاپیون"
+        ]
+      }
+    ],
+    "random_key": "1defa678-da88-42d8-8891-18cf0752e294",
+    "image_url": "https://image.torob.com/base/images/lm/a0/lma08aqDFvt_Yb4C.jpg"
+  },
+  {
+    "title": "محلول ضد ریزش مو الوپکسی 2 درصد مخصوص بانوان",
+    "group": "بانوان",
+    "product": "محلول",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بانوان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "محلول ضد ریزش مو"
+        ]
+      }
+    ],
+    "random_key": "91446102-8127-48d5-97ff-5a44797f37b5",
+    "image_url": "https://image.torob.com/base/images/0y/JR/0yJRonBRgUXzFCAR.jpg"
+  },
+  {
+    "title": "ساسبند بچه گانه اسپورت مشکی OROD",
+    "group": "بچه گانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "OROD"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچه گانه"
+        ]
+      }
+    ],
+    "random_key": "7e4dc6ba-3d9d-4a1c-8216-23c8ffe923fe",
+    "image_url": "https://image.torob.com/base/images/RS/gG/RSgGwJ0K4YfbVuyR.jpg"
+  },
+  {
+    "title": "ساسبند کش 3 سانت (سیاه)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "3 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      }
+    ],
+    "random_key": "b87046a3-7d55-4512-aab9-4ee2d1e3f1bc",
+    "image_url": "https://image.torob.com/base/images/7E/bT/7EbT2sA2SE_z9Yjd.jpg"
+  },
+  {
+    "title": "ساسبند سبز بزرگسال و بچگانه",
+    "group": "بزرگسال و بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "بزرگسال",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "ac954704-9833-4fb2-8a79-dc6e1a9c4135",
+    "image_url": "https://image.torob.com/base/images/sC/mM/sCmMWpgT4FsZgiq2.jpg"
+  },
+  {
+    "title": "ساس بند طوسی خالدار",
+    "group": "نامشخص",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خالدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "81ed6969-bcad-4777-882c-cfd409a2d596",
+    "image_url": "https://image.torob.com/base/images/vg/xT/vgxTarBQ-St_x64p.jpg"
+  },
+  {
+    "title": "ساس بند مشکی کد 7314",
+    "group": "نامشخص",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "af0bd79f-4f70-4354-9a5b-b8f160c625fc",
+    "image_url": "https://image.torob.com/base/images/6w/pn/6wpnGXtV7NIwb3Nd.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ دودی طرح دار-عرض کش دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دودی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "5fa26dd9-4be3-4cdd-b320-cb20d8af3efa",
+    "image_url": "https://image.torob.com/base/images/Yk/e3/Yke3T_nnAMVHiTFK.jpg"
+  },
+  {
+    "title": "ست ساس بند با پاپیون خردسال (۱ تا ۵ سال) CHR مدل ست کودک",
+    "group": "خردسال",
+    "product": "ست ساس بند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "خردسال"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۱ تا ۵ سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساس بند با پاپیون"
+        ]
+      }
+    ],
+    "random_key": "2ff157d6-4797-4316-92c7-f9fb9934f008",
+    "image_url": "https://image.torob.com/base/images/I8/cv/I8cvFILGSZEab2sj.jpg"
+  },
+  {
+    "title": "ساس بند بچگانه کد 416",
+    "group": "بچگانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "d14adc52-c152-495b-89c9-ce908e336578",
+    "image_url": "https://image.torob.com/base/images/Yf/Ch/YfChNrPR1wmz4RZ8.jpg"
+  },
+  {
+    "title": "خرید اینترنتی ساس بند مردانه بژ برند Hatemoğlu S000302799",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Hatemoğlu"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "cdd354ad-50c3-4665-9bee-67a26f873c13",
+    "image_url": "https://image.torob.com/base/images/VA/4b/VA4bFu0CjHJDm0UL.jpg"
+  },
+  {
+    "title": "ست ساس بند و پاپیون نوزادی سی اچ آر مدل KNBTIE019CNCN",
+    "group": "نوزادی",
+    "product": "ست ساس بند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوزادی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سی اچ آر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساس بند و پاپیون نوزادی"
+        ]
+      }
+    ],
+    "random_key": "018f27d7-09a2-4e05-b298-6e4935df73b2",
+    "image_url": "https://image.torob.com/base/images/ac/np/acnpJDS0bUhT7VaW.jpg"
+  },
+  {
+    "title": "ساس بند مردانه هکس ایران مدل SB-ORANG",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هکس ایران"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "e522b74b-6712-465d-a174-32bc7a1569e3",
+    "image_url": "https://image.torob.com/base/images/OR/pU/ORpUqJIi0oDpe26F.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ماسیمو دوتی آبی کاربنی",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماسیمو دوتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی کاربنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "b790932c-d0f6-41b5-8fa1-f4e7b64fead6",
+    "image_url": "https://image.torob.com/base/images/oq/OD/oqODPDSjnDRkdT0e.jpg"
+  },
+  {
+    "title": "ساس بند (پس کرایه)",
+    "group": "نامشخص",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "78de7054-400c-4b8c-a286-68dde7e29b7c",
+    "image_url": "https://image.torob.com/base/images/AE/uo/AEuo7Gs-vAV6uDuW.jpg"
+  },
+  {
+    "title": "ساسبند رنگ مشکی و قرمز با طرح گل سرخ کد 7320",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل سرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "79ea2115-47fa-4075-a943-d093311e3f9a",
+    "image_url": "https://image.torob.com/base/images/gD/dT/gDdTHTBAzXzHkjMv.jpg"
+  },
+  {
+    "title": "کمپلکس منیزیم ناتری کاست",
+    "group": "نامشخص",
+    "product": "کمپلکس",
+    "entities": [],
+    "random_key": "aa19081c-4b43-453c-ac70-ed1fdaf30afa",
+    "image_url": "https://image.torob.com/base/images/GE/rc/GErc4SD-tuWUf-xY.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ آبی درباری براق-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی درباری براق"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای مردانه"
+        ]
+      }
+    ],
+    "random_key": "bbc2ca8c-c6ba-4560-95db-771c7fe740f7",
+    "image_url": "https://image.torob.com/base/images/wd/qQ/wdqQ_s-GH6Jq8tOs.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-28",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "c3c00674-e0da-4323-9c72-81c8562f0b58",
+    "image_url": "https://image.torob.com/base/images/Vv/M8/VvM8vp0XedIUiWHy.jpg"
+  },
+  {
+    "title": "ساس بند مردانه CHR مدل ماسیمو دوتی کش بافت دار",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش بافت دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "53f823d1-f992-4a1c-8571-251bfeec7c90",
+    "image_url": "https://image.torob.com/base/images/HW/nD/HWnDEYujdBvC_oXz.jpg"
+  },
+  {
+    "title": "ساسبند کش 2 سانت (بنفش)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند کش"
+        ]
+      }
+    ],
+    "random_key": "ad118d36-a155-42a4-9148-64e77cf7dda4",
+    "image_url": "https://image.torob.com/base/images/B5/4Z/B54Za9QxGuQqWD2A.jpg"
+  },
+  {
+    "title": "خرید اینترنتی ساس بند مردانه کرمی برند TUDORS S000245432",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "TUDORS"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "85925978-b067-4343-bba4-add0aaff1f25",
+    "image_url": "https://image.torob.com/base/images/aa/zd/aazdFdLZhJgzS-0k.jpg"
+  },
+  {
+    "title": "ساس بند پهن پلو",
+    "group": "نامشخص",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند پهن"
+        ]
+      }
+    ],
+    "random_key": "f4982109-1f3c-4910-9ae6-c71b5f897bee",
+    "image_url": "https://image.torob.com/base/images/Fi/ha/FihaESo2CWjmmKxi.jpg"
+  },
+  {
+    "title": "ساسبند 6 قفله",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "شش قفله"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "5235a10d-e023-490d-a5b4-e5f160879ac5",
+    "image_url": "https://image.torob.com/base/images/t4/0O/t40Om17f_eXnJ6EP.jpg"
+  },
+  {
+    "title": "ساسبند نوجوان بابانوئل کارتی با گیره انبری سایز ۶ تا ۱۲ سال",
+    "group": "نوجوان 6 تا 12 سال",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوجوان"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بابانوئل کارتی"
+        ]
+      },
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره انبری"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۶ تا ۱۲ سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند نوجوان"
+        ]
+      }
+    ],
+    "random_key": "a41c5d9d-34db-40dd-a73d-2004b2cf3746",
+    "image_url": "https://image.torob.com/base/images/Ph/bo/Phbo0AB6GvVKxQR-.jpg"
+  },
+  {
+    "title": "ساسپندر / ساس بند شلوار مردانه خاکستری راسته مردانه | تودورز Tudors PASK141-704",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تودورز Tudors"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند شلوار مردانه"
+        ]
+      }
+    ],
+    "random_key": "8ee6b329-bde7-40fe-aa4b-04288ae55c6f",
+    "image_url": "https://image.torob.com/base/images/-Q/F7/-QF7balTQJIO5SXg.jpg"
+  },
+  {
+    "title": "تورین ناو",
+    "group": "نامشخص",
+    "product": "تورین ناو",
+    "entities": [],
+    "random_key": "31f36241-24a8-4186-a466-29042413105b",
+    "image_url": "https://image.torob.com/base/images/Gj/cH/GjcH8DJ3ydbj4_-X.jpg"
+  },
+  {
+    "title": "ساس بند مشکی بچگانه",
+    "group": "بچگانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "6465868b-8dcc-48d4-9343-ab597767f5fd",
+    "image_url": "https://image.torob.com/base/images/Qi/6F/Qi6Fokq2JV9PibWu.jpg"
+  },
+  {
+    "title": "ساس بندی کتان اسپرت بچه گانه",
+    "group": "بچه گانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بندی کتان اسپرت"
+        ]
+      }
+    ],
+    "random_key": "4bf4e075-ea12-4a44-9568-4e53e6300ad0",
+    "image_url": "https://image.torob.com/base/images/fU/v5/fUv5uzF-Cakh7-Pa.jpg"
+  },
+  {
+    "title": "ساسبند ست کامل کودک",
+    "group": "کودک",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "کودک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند ست کامل کودک"
+        ]
+      }
+    ],
+    "random_key": "369842c5-0921-4170-a48a-7a875b07d80d",
+    "image_url": "https://image.torob.com/base/images/5n/QB/5nQBMGJkT7rAhKgX.jpg"
+  },
+  {
+    "title": "ساسبند مردانه مدل 716091-6",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "3de58cc7-b5be-4819-9880-20ad5ca40294",
+    "image_url": "https://image.torob.com/base/images/gF/FM/gFFMTLdy0TKTgb9v.jpg"
+  },
+  {
+    "title": "ساسبند 2313202",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "ebe85960-6bff-4cb0-aeb7-9b5744659ce1",
+    "image_url": "https://image.torob.com/base/images/KC/iL/KCiLdzZJ05lQ1l1v.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه ملودی رنگ دودی-عرض کش دو سانت",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دودی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "f044847f-c632-411d-89de-d57f22d16023",
+    "image_url": "https://image.torob.com/base/images/D6/25/D625cDhn8WHtfMv1.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ قهوه ای براق-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای براق"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای مردانه"
+        ]
+      }
+    ],
+    "random_key": "58b97b5f-3f9e-44b5-b7f0-16480fc6ddd8",
+    "image_url": "https://image.torob.com/base/images/Af/kQ/AfkQBwZn5E87y6ue.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-22",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "ba6c423f-17bd-41b7-97a7-3e47b2805ad4",
+    "image_url": "https://image.torob.com/base/images/1U/63/1U63ZyDZKqk9eT90.jpg"
+  },
+  {
+    "title": "محلول ماینوکسیدل آقایان الوپکسی ۵ درصد فرانسه پک تک",
+    "group": "آقایان",
+    "product": "محلول ماینوکسیدل",
+    "entities": [],
+    "random_key": "36c4cf40-4c4a-4a2a-b684-969f78f0fdee",
+    "image_url": "https://image.torob.com/base/images/xX/ev/xXevVp1vIss4Ld0e.jpg"
+  },
+  {
+    "title": "ساسبند مردانه فری سایز",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "e8142a7a-0799-45a0-aab6-5fb2ba2e4bc7",
+    "image_url": "https://image.torob.com/base/images/sP/A4/sPA46jIM8LLaLyTY.jpg"
+  },
+  {
+    "title": "ساسبند کشی نارنجی Melody",
+    "group": "نامشخص",
+    "product": "ساسبند کشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Melody"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند کشی"
+        ]
+      }
+    ],
+    "random_key": "5da5d523-c3b7-4555-8fc7-6196c659f498",
+    "image_url": "https://image.torob.com/base/images/mq/BL/mqBLm1ERLSORCZCl.jpg"
+  },
+  {
+    "title": "ساسبند کشی سفید Melody",
+    "group": "نامشخص",
+    "product": "ساسبند کشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Melody"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند کشی"
+        ]
+      }
+    ],
+    "random_key": "e2463e28-e06f-440c-9c21-bab5c0075984",
+    "image_url": "https://image.torob.com/base/images/fT/f9/fTf9eSJANYkG3h3B.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ بنفش براق-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند پارچه ای",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش براق"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "d8ba8073-84a3-4143-aa19-e99c51b2ed7e",
+    "image_url": "https://image.torob.com/base/images/s6/qS/s6qSkzFClzdrEeix.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه مدل کلاسیک",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "ade1b5f4-3d5a-4ce5-b088-f74e621a4b38",
+    "image_url": "https://image.torob.com/base/images/eM/ew/eMewq1fTMBg2Z7Y8.jpg"
+  },
+  {
+    "title": "ساسبند تمام تنه زنانه و مردانه مدل مدبر کد 886450",
+    "group": "زنانه و مردانه",
+    "product": "ساسبند تمام تنه",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه",
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند تمام تنه"
+        ]
+      }
+    ],
+    "random_key": "d48654dd-d97f-4c11-8a98-6271be389c5d",
+    "image_url": "https://image.torob.com/base/images/lE/jT/lEjTVHnICG_JZPEI.jpg"
+  },
+  {
+    "title": "ساسبند کش 2 سانت (آجری)",
+    "group": "نامشخص",
+    "product": "ساسبند کش",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آجری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند کش"
+        ]
+      }
+    ],
+    "random_key": "f162e076-5280-45ae-99d0-552c354f4dd9",
+    "image_url": "https://image.torob.com/base/images/KO/ZC/KOZCZUnzFQVOYu6m.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه کش 2 سانت (قهوه ای)",
+    "group": "بچگانه",
+    "product": "ساسبند بچگانه کش",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه کش"
+        ]
+      }
+    ],
+    "random_key": "b0b86fcd-854f-4012-8dc2-e24fdaa3cf63",
+    "image_url": "https://image.torob.com/base/images/Ij/99/Ij99GOKWH-GGq8JT.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ زیتونی-عرض کش دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زیتونی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "ce3c330d-b4b3-42d9-adc2-01f24c7fe3e5",
+    "image_url": "https://image.torob.com/base/images/1G/mc/1GmcveE_DRBwbyyq.jpg"
+  },
+  {
+    "title": "ساسبند مناسب سن یک سالگی تا سه سالگی",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "یک سالگی تا سه سالگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "b822e278-c689-4877-888e-06cfec13d22a",
+    "image_url": "https://image.torob.com/base/images/q1/-T/q1-TWp8EDDT1lenR.jpg"
+  },
+  {
+    "title": "ساسبند مردانه 2423202",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "d7874dca-3855-4bfa-85f6-a4b3668ec72f",
+    "image_url": "https://image.torob.com/base/images/2-/C6/2-C63UZcMh7l7jHw.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه همراه با پاپیون .مناسب برای سنین 4 تا 10 سال",
+    "group": "پسرانه 4 تا 10 سال",
+    "product": "ساسبند همراه با پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 10 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه همراه با پاپیون"
+        ]
+      }
+    ],
+    "random_key": "b68c01d3-4b9e-4072-82dc-f79ff2b6c90c",
+    "image_url": "https://image.torob.com/base/images/Ck/ca/CkcaoXV0bEMX6F94.jpg"
+  },
+  {
+    "title": "ست ساس بند کیف و کمربند طرح کلارکس",
+    "group": "نامشخص",
+    "product": "ست ساس بند کیف و کمربند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساس بند کیف و کمربند"
+        ]
+      }
+    ],
+    "random_key": "e528fd6c-20e3-4d25-9d67-793057bf4723",
+    "image_url": "https://image.torob.com/base/images/Gg/pn/Ggpnq-4hKiOmGU_e.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 36 فری سایز Code 18496846",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "72991fc1-e21f-4774-85f1-7b573447db0d",
+    "image_url": "https://image.torob.com/base/images/ro/PZ/roPZhFPcEsAQos63.jpg"
+  },
+  {
+    "title": "ساس بند بچگانه CHR پاپیونی مدل فنری",
+    "group": "بچگانه",
+    "product": "ساس بند پاپیونی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند بچگانه پاپیونی مدل فنری"
+        ]
+      }
+    ],
+    "random_key": "5317afd0-cb7e-45a1-b869-662088b9a48d",
+    "image_url": "https://image.torob.com/base/images/vW/_O/vW_OG3sLIoqks0JN.jpg"
+  },
+  {
+    "title": "قرص خار مریم سوانسون امریکایی ۱۰۰ عددی 500mg",
+    "group": "نامشخص",
+    "product": "قرص",
+    "entities": [],
+    "random_key": "239877c5-ad01-4eb3-b926-045a10e8015e",
+    "image_url": "https://image.torob.com/base/images/gR/SH/gRSHYoIJtt36PIsr.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ نارنجی مات-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی مات"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "bda492e1-6153-435e-aa36-4b60f2c28412",
+    "image_url": "https://image.torob.com/base/images/iI/A2/iIA2uLrW6jV-oUF0.jpg"
+  },
+  {
+    "title": "سوسن شلوار مردانه آبی تیره برند tudors",
+    "group": "مردانه",
+    "product": "ساسبند شلوار",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی تیره"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "tudors"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند شلوار"
+        ]
+      }
+    ],
+    "random_key": "42f2f003-8640-4961-8176-27caa62c9ffa",
+    "image_url": "https://image.torob.com/base/images/4S/tc/4Stc1-W-ay_wDBCL.jpg"
+  },
+  {
+    "title": "ساس بند مردانه CHR مدل پولو کش بافتی خالدار",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش بافتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خالدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "b00e58c4-aec9-4728-a89b-9cedd3a3f0cb",
+    "image_url": "https://image.torob.com/base/images/yu/hL/yuhLx_LcSJANbVZr.jpg"
+  },
+  {
+    "title": "ساسb بچگانه کش 2 سانت (نسکافه ای)",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نسکافه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "04bbf78e-3376-4358-acde-92c79904e8b8",
+    "image_url": "https://image.torob.com/base/images/6F/s7/6Fs7nRvJpzPviFLy.jpg"
+  },
+  {
+    "title": "ساس - ولادیمیر مایاکوفسکی",
+    "group": "نامشخص",
+    "product": "ولادیمیر مایاکوفسکی",
+    "entities": [],
+    "random_key": "152edaee-c688-4fcb-be85-e1a89b785233",
+    "image_url": "https://image.torob.com/base/images/iu/I0/iuI0XtecqIzxn6xb.jpg"
+  },
+  {
+    "title": "گیره ساسبند پلاستیکی کرم(بسته 20 تایی)",
+    "group": "نامشخص",
+    "product": "گیره ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "20 تایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گیره ساسبند"
+        ]
+      }
+    ],
+    "random_key": "59512671-b937-4914-be4e-a9fc2a706159",
+    "image_url": "https://image.torob.com/base/images/PP/RJ/PPRJMD--OrGhFIYd.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ماسیمو دوتی زرد",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماسیمو دوتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "0f8519b2-1c04-48ed-919b-f4632ba8b6c7",
+    "image_url": "https://image.torob.com/base/images/cV/8e/cV8ePGIoMSN-nLOz.jpg"
+  },
+  {
+    "title": "ساسبند کش‌دار زرشکی مات Melody",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کش دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی مات"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Melody"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "482eccb4-8da9-42e2-8f5a-6c12a5ebd07b",
+    "image_url": "https://image.torob.com/base/images/EM/tW/EMtWSxMzcucLOzQv.jpg"
+  },
+  {
+    "title": "ساس بند مردانه وارداتی رنگ مشکی",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "71a6b427-853d-4862-a823-80e3eb84e81e",
+    "image_url": "https://image.torob.com/base/images/Ix/VE/IxVEYPUNQiTjfcx-.jpg"
+  },
+  {
+    "title": "ساسبند مردانه مدل هکس",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "2c932e25-9290-4ccc-a999-b81a3b25ca30",
+    "image_url": "https://image.torob.com/base/images/5c/7y/5c7ySnDtcjZ4QkZz.jpg"
+  },
+  {
+    "title": "ساسبند مشکی سه قفله",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "سه قفله"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "406454d8-3be7-4526-81b5-2d0cf3e71eac",
+    "image_url": "https://image.torob.com/base/images/gg/tx/ggtx3kxZ9MkdQNjy.jpeg"
+  },
+  {
+    "title": "ساس بند نوجوان (۸ تا ۱۵سال ) پسرانه CHR مدل بوسینی Bossini",
+    "group": "نوجوان پسرانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوجوان",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۸ تا ۱۵سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "f855cea3-eb2c-4dbb-bab0-0b23d63a07b3",
+    "image_url": "https://image.torob.com/base/images/ST/J2/STJ2Z2kWYUGw4IIK.jpg"
+  },
+  {
+    "title": "بند شلوار مردانه تودورز PASK143-501 - 21164 | TUDORS",
+    "group": "مردانه",
+    "product": "بند شلوار",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تودورز",
+          "TUDORS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بند شلوار"
+        ]
+      }
+    ],
+    "random_key": "ff7fbd0a-2bf4-4432-9150-a8df9a130197",
+    "image_url": "https://image.torob.com/base/images/3F/un/3FundEgSjYSMatsj.jpg"
+  },
+  {
+    "title": "ساسبند کش 2 سانت (زرد)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "2b93e39a-8775-4768-bef4-5f7f08a8e9f2",
+    "image_url": "https://image.torob.com/base/images/GX/ZH/GXZH80hADLmtBoW3.jpg"
+  },
+  {
+    "title": "خرید اینترنتی ساس بند مردانه سرمه‌ای برند TUDORS S000245451",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TUDORS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "6145fa27-623d-41a0-a0a8-e07045e89717",
+    "image_url": "https://image.torob.com/base/images/dT/Xw/dTXwsrAcTAht_3cU.jpg"
+  },
+  {
+    "title": "ساسبند سرمه ای",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "903269db-3729-455f-b3bd-91cf8335641a",
+    "image_url": "https://image.torob.com/base/images/_g/j4/_gj4GlOISNlVhzrx.jpg"
+  },
+  {
+    "title": "ساس بند پسرانه کد 11 فری سایز Code 49354869",
+    "group": "پسرانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "c79111ff-f656-4abf-ac06-016dc92132d3",
+    "image_url": "https://image.torob.com/base/images/bO/Nr/bONrdAg2u0nCoi5c.jpg"
+  },
+  {
+    "title": "ساسبند کش 2 سانت (سبز روشن)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز روشن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند کشی"
+        ]
+      }
+    ],
+    "random_key": "fa1837ab-7022-414c-b193-553744db05cd",
+    "image_url": "https://image.torob.com/base/images/jo/VZ/joVZhvlMKwJI3EB3.jpg"
+  },
+  {
+    "title": "ست ساسبند و پاپیون بچه‌گانه فری سایز",
+    "group": "بچگانه",
+    "product": "ست ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساسبند و پاپیون"
+        ]
+      }
+    ],
+    "random_key": "95f9bd20-efcc-4122-8302-e31e6abe5e2a",
+    "image_url": "https://image.torob.com/base/images/2m/A5/2mA5xTBGSgtEKMMo.jpg"
+  },
+  {
+    "title": "ساس بند بچگانه",
+    "group": "بچگانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "59de3c2f-b43e-462e-9c5a-f8bb74f1438f",
+    "image_url": "https://image.torob.com/base/images/Ue/nH/UenH1aDxeQv4-lcM.jpg"
+  },
+  {
+    "title": "ساسبند 3قفله متوسط",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "3قفله"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "eba21c0f-732d-497b-8337-f3e9c1c691e4",
+    "image_url": "https://image.torob.com/base/images/N5/EB/N5EB1gyCDn3nAECa.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه کش 2 سانت (زرد)",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه کشی"
+        ]
+      }
+    ],
+    "random_key": "a83fb28b-1915-44db-89a4-eb516163d549",
+    "image_url": "https://image.torob.com/base/images/ww/O2/wwO2-ADsvzXBbcax.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-12 فری سایز Code 38975881",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "4d9a2483-d5c2-4543-a427-559071308948",
+    "image_url": "https://image.torob.com/base/images/yA/4p/yA4pQb2HCBc-DpHT.jpg"
+  },
+  {
+    "title": "ساسبند ماسیمو دوتی زرشکی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ماسیمو دوتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "1bb2b9d3-0b8c-412a-ac3e-778d2c8eec0f",
+    "image_url": "https://image.torob.com/base/images/2I/yT/2IyT5h3-pE4dfSGi.jpg"
+  },
+  {
+    "title": "ساس بند زنانه چرم طبیعی دست دوز",
+    "group": "زنانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند زنانه"
+        ]
+      }
+    ],
+    "random_key": "8a2461fd-6268-4122-bc64-dac710da562c",
+    "image_url": "https://image.torob.com/base/images/yj/WE/yjWEPQshPdVufPLW.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه ملودی رنگ آبی-عرض کش دو سانت",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "ad4752d7-b901-4a28-a77d-ec63fc188134",
+    "image_url": "https://image.torob.com/base/images/Xi/Ue/XiUe0WUh0dKDwpcV.jpg"
+  },
+  {
+    "title": "ساسبند کشی قرمز Melody",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Melody"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند کشی"
+        ]
+      }
+    ],
+    "random_key": "b3fba2af-07e5-459d-b95f-f40ce0484699",
+    "image_url": "https://image.torob.com/base/images/lm/Mq/lmMqdYcKaWMw7QMl.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (عنابی براق)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "عنابی براق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "5e9306a6-d217-4a74-8752-ae786ca5454d",
+    "image_url": "https://image.torob.com/base/images/Yh/Aj/YhAjjVjFQAE4jHdT.jpg"
+  },
+  {
+    "title": "ساسبند زنانه چرم طبیعی کارتیر CARTIER نیمه پهن",
+    "group": "زنانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کارتیر CARTIER"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "نیمه پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند زنانه"
+        ]
+      }
+    ],
+    "random_key": "2c6a6f24-5327-48f3-99ec-42f73cb5aa9d",
+    "image_url": "https://image.torob.com/base/images/aK/MV/aKMVGmq-thYR8XnS.jpg"
+  },
+  {
+    "title": "ساسبند مردانه نیمه پهن",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "mokhateb",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "نیمه پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "75f25808-ca32-433f-960a-f3299863625a",
+    "image_url": "https://image.torob.com/base/images/jX/ip/jXipAxXzEB0Q1NjM.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (قرمز مات)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز مات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "7001955c-200a-4f7f-8f93-e15f95d4271c",
+    "image_url": "https://image.torob.com/base/images/Di/Cd/DiCdMgyCebHL9XZX.jpg"
+  },
+  {
+    "title": "نگین عقیق دراگون (52)",
+    "group": "نامشخص",
+    "product": "نگین عقیق دراگون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین عقیق دراگون"
+        ]
+      }
+    ],
+    "random_key": "84bba47e-b735-4f7c-8d13-23b2f15e09fd",
+    "image_url": "https://image.torob.com/base/images/2C/fe/2Cfe9a3TChRY8qqj.jpg"
+  },
+  {
+    "title": "ساس بند کودکان همراه پاپیون",
+    "group": "کودکان",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "کودکان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند همراه پاپیون"
+        ]
+      }
+    ],
+    "random_key": "8b464ddd-15b3-40b3-af1f-7e3284c12d33",
+    "image_url": "https://image.torob.com/base/images/kp/Xd/kpXdSiC9vAJAhYmT.jpg"
+  },
+  {
+    "title": "ساسبند سورمه ای و توسی مناسب برای 6 تا 12سال و رنگ کرم و قرمز و توسی و ابی کاربنی مناسب برای 3 تا 5 سال",
+    "group": "بچگانه 3 تا 12 سال",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای",
+          "توسی",
+          "کرم",
+          "قرمز",
+          "ابی کاربنی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6 تا 12سال",
+          "3 تا 5 سال"
+        ]
+      }
+    ],
+    "random_key": "5f851cd6-67ca-4ae4-94c0-88eb67c9862e",
+    "image_url": "https://image.torob.com/base/images/If/sI/IfsI5ZqxukjFTLIN.jpg"
+  },
+  {
+    "title": "ساسبند و پاپیون بچگانه",
+    "group": "بچگانه",
+    "product": "ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند و پاپیون بچگانه"
+        ]
+      }
+    ],
+    "random_key": "a4f614c0-e251-4e2f-9639-73270e75eef6",
+    "image_url": "https://image.torob.com/base/images/ig/-T/ig-Tap42JA8MBy7d.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 27",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      }
+    ],
+    "random_key": "c59fcf18-76ad-4c43-86c0-6a7cb623b703",
+    "image_url": "https://image.torob.com/base/images/Ql/QQ/QlQQkti6gYixuZne.jpg"
+  },
+  {
+    "title": "ساسبند کش 2 سانت (خاکستری)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      }
+    ],
+    "random_key": "aa6c8e58-44a7-4642-b0bd-d8b4440a820a",
+    "image_url": "https://image.torob.com/base/images/mt/8U/mt8UM-1E_EeWoIgv.jpg"
+  },
+  {
+    "title": "پک ساسبند مردانه فری سایز",
+    "group": "مردانه",
+    "product": "پک ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "پک"
+        ]
+      }
+    ],
+    "random_key": "2bbcf560-885a-4119-b86b-e7bec8ac050a",
+    "image_url": "https://image.torob.com/base/images/xe/Pa/xePaymH4-h4mH7Ze.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ شیری براق-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "شیری براق"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      }
+    ],
+    "random_key": "a5fa4a2d-5213-4715-aaff-ba0136ed41dd",
+    "image_url": "https://image.torob.com/base/images/5V/Op/5VOpLl6Bs60ntjs7.jpg"
+  },
+  {
+    "title": "ساسبند مردانه سی اچ آر کد M064BRDLVWI",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سی اچ آر"
+        ]
+      }
+    ],
+    "random_key": "1f0744ba-8b77-4135-87c1-a62fdd36c007",
+    "image_url": "https://image.torob.com/base/images/OE/eH/OEeHPgARTs1cqEJn.jpg"
+  },
+  {
+    "title": "ساسبند فلزی یک عدد",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "یک عدد"
+        ]
+      }
+    ],
+    "random_key": "19f5ff90-bde6-4c36-8472-3d5e07d3d826",
+    "image_url": "https://image.torob.com/base/images/Fe/A8/FeA8JTruiJMNWKlM.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-5 فری سایز Code 38973810",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "db80069d-3005-4711-9e07-45140e14d03b",
+    "image_url": "https://image.torob.com/base/images/An/nt/AnntM_I3NkFLpV7v.jpg"
+  },
+  {
+    "title": "ساس بند بزرگسال CHR مدل فری گامو ۴ گیره",
+    "group": "بزرگسال",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بزرگسال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "۴ گیره"
+        ]
+      }
+    ],
+    "random_key": "f215019a-3839-4f63-9b1c-27f60092d43c",
+    "image_url": "https://image.torob.com/base/images/DL/pE/DLpE-473zOFKzikT.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-22 فری سایز Code 38978567",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "9d825a2d-6ba6-45df-9a67-37d12bd066d9",
+    "image_url": "https://image.torob.com/base/images/eD/R2/eDR25r97ceTQY8uw.jpg"
+  },
+  {
+    "title": "ساسبند تک مردانه (پس کرایه)",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "تک"
+        ]
+      }
+    ],
+    "random_key": "6b13f770-0d89-4248-9bc2-a153be2f5d18",
+    "image_url": "https://image.torob.com/base/images/bz/_m/bz_mbxSswWSpikY5.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 26 فری سایز Code 18410238",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "2b70729e-d33f-41df-9426-65bf9526f502",
+    "image_url": "https://image.torob.com/base/images/6q/L_/6qL_y08ClDVzg1mg.jpg"
+  },
+  {
+    "title": "ساسبند مردانه مدل نقطه دار کد 7321 رنگ سرمه‌ای",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نقطه دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "2c8e1a27-41ee-4911-a72d-c4d352a0200c",
+    "image_url": "https://image.torob.com/base/images/gR/Bn/gRBnt0CvMfwi0a9D.jpg"
+  },
+  {
+    "title": "ساس بند و پاپیون دخترانه (3 تا 8 سال) CHR مدل گپ GAP",
+    "group": "دخترانه 3 تا 8 سال",
+    "product": "ساس بند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 8 سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR",
+          "GAP"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند و پاپیون"
+        ]
+      }
+    ],
+    "random_key": "53ccccfb-2c76-4d3c-8356-fdae86c0d2f9",
+    "image_url": "https://image.torob.com/base/images/Na/zJ/NazJjPJocW69UZow.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ زیتونی-عرض کش سه سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زیتونی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "سه سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "339ae97d-5902-45b6-8ccf-702f47f8133d",
+    "image_url": "https://image.torob.com/base/images/qe/t5/qet5z14WP7KaOHs-.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه اچ اند ام کد 5875 کد 1801900",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "8a78f6f8-cd4d-458a-b92c-f43c25dd25fc",
+    "image_url": "https://image.torob.com/base/images/vX/V2/vXV2vI9HRc-nMZzd.jpg"
+  },
+  {
+    "title": "ست ساس بند و پاپیون نوزادی سی اچ آر کد K018BUD",
+    "group": "نوزادی",
+    "product": "ست ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوزادی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سی اچ آر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساس بند و پاپیون نوزادی"
+        ]
+      }
+    ],
+    "random_key": "3079d5fc-81e4-443b-a31a-2502dc909052",
+    "image_url": "https://image.torob.com/base/images/Dd/if/DdifkfRdRvtLmebm.jpg"
+  },
+  {
+    "title": "ساسبند ابی نفتی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "ابی نفتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "5b5c062f-be04-4229-b688-195046b6ecd4",
+    "image_url": "https://image.torob.com/base/images/Ce/Qj/CeQj1KrHysm7mGHQ.jpg"
+  },
+  {
+    "title": "ساس بند مردانه زارا",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "21bed8fe-c1bd-43d9-afbd-8424a52f7597",
+    "image_url": "https://image.torob.com/base/images/FJ/l8/FJl8Q9Gc3s9fhcP3.jpg"
+  },
+  {
+    "title": "ساسبند 3 قفله،وزن 70 گرم،رنگ سورمه ای ،اندازه کش 2سانت",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "3 قفله"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "3b7a2f52-bf89-40d7-b2fc-08216accef8c",
+    "image_url": "https://image.torob.com/base/images/h-/mE/h-mEjzWAGyk4VlwV.jpg"
+  },
+  {
+    "title": "ساسبند و پاپیون پسرانه کیفیت عالی",
+    "group": "پسرانه",
+    "product": "ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند و پاپیون پسرانه"
+        ]
+      }
+    ],
+    "random_key": "2f18bb11-07dd-4f63-b982-21689f48340d",
+    "image_url": "https://image.torob.com/base/images/bI/tB/bItBWfw4JJaSWlDA.jpg"
+  },
+  {
+    "title": "ساس بند پسرانه کد 001 فری سایز Code 49355768",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "ed0e70ca-79d4-49f1-992a-57fe15a09e65",
+    "image_url": "https://image.torob.com/base/images/qo/wn/qownSWyj9TPH84uR.jpg"
+  },
+  {
+    "title": "ساس بند بچگانه - سیسمونی نی نی مون",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "589e6395-2a8c-43c1-9e2e-fdcdafd59ee1",
+    "image_url": "https://image.torob.com/base/images/rT/ck/rTckzH_G82KqBh24.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه مشکی تن یر",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تن یر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "62c2001c-34a5-4230-8c0f-3dccb0ce877b",
+    "image_url": "https://image.torob.com/base/images/C8/na/C8naS1yjCs6wvGjA.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه بچه گانه دخترانه",
+    "group": "پسرانه بچگانه دخترانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه",
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه بچه گانه دخترانه"
+        ]
+      }
+    ],
+    "random_key": "462f0fd7-0891-4d52-b170-54de011285e0",
+    "image_url": "https://image.torob.com/base/images/2P/S2/2PS2OW1V3nQhqdvd.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-2 فری سایز Code 38971896",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "547b6022-9380-4eeb-86d6-c10ed3093e38",
+    "image_url": "https://image.torob.com/base/images/JX/Ux/JXUx0FbmtxnwnRDs.jpg"
+  },
+  {
+    "title": "ساسبند و پاپیون mymio ترکیه",
+    "group": "نامشخص",
+    "product": "ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "mymio",
+          "ترکیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند و پاپیون"
+        ]
+      }
+    ],
+    "random_key": "7d776080-50d1-488a-9acb-64e55562d05a",
+    "image_url": "https://image.torob.com/base/images/iZ/Ky/iZKynF3ZZXiDINAq.jpg"
+  },
+  {
+    "title": "ساسبند گیره فلزی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "6a044516-8b44-41ec-8f0f-51144b1226d2",
+    "image_url": "https://image.torob.com/base/images/fw/wE/fwwEaxW51LxW1CVO.jpg"
+  },
+  {
+    "title": "ساسپندر / ساس بند شلوار مردانه راسته مردانه | تودورز Tudors PASK141-705",
+    "group": "مردانه",
+    "product": "ساسبند شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسپندر",
+          "ساس بند شلوار مردانه راسته مردانه"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تودورز",
+          "Tudors"
+        ]
+      }
+    ],
+    "random_key": "e3ec673c-c772-44ce-90b2-2f151c7447a5",
+    "image_url": "https://image.torob.com/base/images/3P/sm/3PsmP6xGmy-H3UjS.jpg"
+  },
+  {
+    "title": "ساس بند (ساسپندر) ارسال رایگان مردانه POLO مشکی مردونه",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند",
+          "ساسپندر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "مردونه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "POLO"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "61a3b785-3f98-42c7-b854-48879e6b566e",
+    "image_url": "https://image.torob.com/base/images/BQ/2Z/BQ2ZmiTiQHIoyV3x.jpg"
+  },
+  {
+    "title": "ساس بند پسرانه کد 006 فری سایز Code 49355405",
+    "group": "پسرانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "b4394972-8569-4501-80e8-578d3fb7fc0f",
+    "image_url": "https://image.torob.com/base/images/Yv/Qe/YvQe-clbYJu7XCuT.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ بنفش تیره مات-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش تیره مات"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "13f3a6a4-57f9-42e1-9468-c48988368cf8",
+    "image_url": "https://image.torob.com/base/images/yB/ut/yButQ9ZTxQaLIU4o.jpg"
+  },
+  {
+    "title": "ست ساسبند و پاپیون",
+    "group": "نامشخص",
+    "product": "ست ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساسبند و پاپیون"
+        ]
+      }
+    ],
+    "random_key": "f5b0b0c8-37e8-4f83-a4c9-4d41be6ac904",
+    "image_url": "https://image.torob.com/base/images/D0/74/D074_RALRiZsBpv2.jpg"
+  },
+  {
+    "title": "ساسبند مردانه هکس مدل H",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "e08606c7-a8d1-4429-a4eb-59c8ad53c41d",
+    "image_url": "https://image.torob.com/base/images/xe/np/xenpPInQndGD3e1L.jpg"
+  },
+  {
+    "title": "ساسبند مردانه سی اچ آر مدل MH089NBK",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سی اچ آر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "c493ca88-0a87-4cab-ae49-03f91a53bd0d",
+    "image_url": "https://image.torob.com/base/images/a3/K_/a3K_5bu3IkbsFCYL.jpg"
+  },
+  {
+    "title": "ساسبند درجه یک مارک ماکسیما",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ماکسیما"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "66cf11f5-b8e5-40db-b04b-ad4aa1f385d9",
+    "image_url": "https://image.torob.com/base/images/hD/Bf/hDBfrYahy_M6Ypws.jpg"
+  },
+  {
+    "title": "بنفوتیامین ۳۰۰ میلی گرم نوتری کاست",
+    "group": "نامشخص",
+    "product": "بنفوتیامین",
+    "entities": [],
+    "random_key": "4e23f68a-43b6-47bb-b100-a529829a8dbb",
+    "image_url": "https://image.torob.com/base/images/lO/yf/lOyf6zv0VljP6cTv.jpg"
+  },
+  {
+    "title": "ساس بند مردانه هکس ایران (Hex Iran) مدل Sb-Bron",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هکس ایران"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "6e5a42eb-fad4-406c-acaa-c3ca39c550be",
+    "image_url": "https://image.torob.com/base/images/NR/gl/NRgl48Mc-mXvQdTn.jpg"
+  },
+  {
+    "title": "ساسبند و پاپیون مشکی مناسب هر سن و سایز",
+    "group": "نامشخص",
+    "product": "ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مناسب هر سن و سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند و پاپیون"
+        ]
+      }
+    ],
+    "random_key": "b803a56d-0824-4118-b5a9-8c43d88c7b82",
+    "image_url": "https://image.torob.com/base/images/Nc/6w/Nc6w6Fb0bRNHoM-_.jpg"
+  },
+  {
+    "title": "ست ساسبند وپاپیون پسرانه",
+    "group": "پسرانه",
+    "product": "ست ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساسبند وپاپیون پسرانه"
+        ]
+      }
+    ],
+    "random_key": "71d41db3-987e-417b-b0b5-5c791d106440",
+    "image_url": "https://image.torob.com/base/images/ck/wS/ckwSzrmgHjO3QUlj.jpg"
+  },
+  {
+    "title": "ساس بند پاپیونی بچگانه",
+    "group": "بچگانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند پاپیونی بچگانه"
+        ]
+      }
+    ],
+    "random_key": "64268860-31e0-4fe1-b91c-9cab6538c10c",
+    "image_url": "https://image.torob.com/base/images/UB/xr/UBxrBGLWEIbC3CnJ.webp"
+  },
+  {
+    "title": "ساسبند اکسسوری نوزاد و کودک پسرانه",
+    "group": "نوزاد و کودک پسرانه",
+    "product": "ساسبند اکسسوری",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوزاد",
+          "کودک پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند اکسسوری"
+        ]
+      }
+    ],
+    "random_key": "83e59a19-121b-4cef-961e-f537168f2b2a",
+    "image_url": "https://image.torob.com/base/images/d3/yq/d3yqq9CoVjYe1y7F.jpg"
+  },
+  {
+    "title": "ساسبند مردانه چرم آراهمراه مدل ARABS01",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "چرم آراهمراه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه چرم"
+        ]
+      }
+    ],
+    "random_key": "1bee8941-f064-4b6f-a14b-364578b62786",
+    "image_url": "https://image.torob.com/base/images/Yp/Nz/YpNzEAtHhHli2PLJ.jpg"
+  },
+  {
+    "title": "ساس بند خردسال( زیر 5 سال) CHR مدل 4 گیره",
+    "group": "خردسال",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "خردسال"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "زیر 5 سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "4 گیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "f60ef279-8fd6-4236-9a39-6b1e789cc2ac",
+    "image_url": "https://image.torob.com/base/images/y-/xb/y-xb4t60zFrBXRvi.jpg"
+  },
+  {
+    "title": "ساس بند نوزادی CHR مدل 4 گیره",
+    "group": "نوزادی",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوزادی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "4 گیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند نوزادی"
+        ]
+      }
+    ],
+    "random_key": "a6eab813-a947-49f5-bd19-37c3c53b3215",
+    "image_url": "https://image.torob.com/base/images/qB/EV/qBEVrTTZnu65GSzU.jpg"
+  },
+  {
+    "title": "ساس بند مردانه CHR مدل ال وی پهن",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند مردانه"
+        ]
+      }
+    ],
+    "random_key": "e9347d3b-06b3-473d-b278-bebd06e5bede",
+    "image_url": "https://image.torob.com/base/images/_2/JB/_2JBFG399y1IHHym.jpg"
+  },
+  {
+    "title": "ساسپندر / آویز شلوار مردانه | پیرکاردین Pierre Cardin 993677",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پیرکاردین Pierre Cardin"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسپندر / آویز شلوار مردانه"
+        ]
+      }
+    ],
+    "random_key": "51aca7f1-05d9-4f05-8dc2-799c9c2b4a54",
+    "image_url": "https://image.torob.com/base/images/iV/46/iV46DbwMwrqSQeXU.jpg"
+  },
+  {
+    "title": "ساسبند گیره فلزی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره فلزی"
+        ]
+      }
+    ],
+    "random_key": "57b4e1ca-79e3-48d3-9525-6e7ca73f8b64",
+    "image_url": "https://image.torob.com/base/images/s6/Qy/s6QydLwcrxWVcXDw.jpg"
+  },
+  {
+    "title": "ساسبندمردانه وزنانه همه رنگ مشکی و...... هرمس اصل",
+    "group": "مردانه و زنانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هرمس"
+        ]
+      }
+    ],
+    "random_key": "cea78bd7-de96-4739-a6d3-68ae6c70ff76",
+    "image_url": "https://image.torob.com/base/images/0M/uE/0MuE4cfIgNHicYSF.jpg"
+  },
+  {
+    "title": "ساسبند سبز مات Melody",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز مات"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Melody"
+        ]
+      }
+    ],
+    "random_key": "b6a946a5-57ae-4994-98b8-af9573c63320",
+    "image_url": "https://image.torob.com/base/images/V5/-h/V5-h36JhrwpGNYjR.jpg"
+  },
+  {
+    "title": "ساسبند اسپرت برند POLO رنگ مشکی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "POLO"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "dbd47577-2616-460e-ae4e-e49984e27dea",
+    "image_url": "https://image.torob.com/base/images/Uv/rs/UvrsZk7VnFlte_PC.jpg"
+  },
+  {
+    "title": "ساسبند بچه گانه",
+    "group": "بچه گانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچه گانه"
+        ]
+      }
+    ],
+    "random_key": "d79dea47-4b02-458e-b2bf-37048d413a85",
+    "image_url": "https://image.torob.com/base/images/SZ/1j/SZ1j8cLMlOm14FNi.jpg"
+  },
+  {
+    "title": "ساسبند کش 3 سانت (آجری)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "3 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آجری"
+        ]
+      }
+    ],
+    "random_key": "9850a256-4529-4601-b7b0-ab5448a14f66",
+    "image_url": "https://image.torob.com/base/images/-r/T-/-rT-RT7b_svAs4ap.jpg"
+  },
+  {
+    "title": "ساس بند پسرانه کد 003",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      }
+    ],
+    "random_key": "44b6ae7e-57ea-4651-b5af-22eb7a103e34",
+    "image_url": "https://image.torob.com/base/images/z8/hP/z8hP-S7F1L1VSz4N.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (گل بهی روشن مات)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گل بهی روشن مات"
+        ]
+      }
+    ],
+    "random_key": "40ac52c8-191c-4270-a26c-bd5c8ad383f8",
+    "image_url": "https://image.torob.com/base/images/jx/f1/jxf1KV4yNEkdaxQq.jpg"
+  },
+  {
+    "title": "ساس بند نوجوان پسرانه (8 تا 14 سال) CHR مدل LCW",
+    "group": "نوجوان پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوجوان",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8 تا 14 سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR",
+          "LCW"
+        ]
+      }
+    ],
+    "random_key": "b4487fd6-1344-488a-b2a7-f3d65918c890",
+    "image_url": "https://image.torob.com/base/images/9S/TR/9STRXdyZuHToUeQl.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-27 فری سایز Code 38983981",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "3b6ecedb-4549-42fe-b5cf-83f2cff427f4",
+    "image_url": "https://image.torob.com/base/images/X-/xZ/X-xZ5EyplU2USJDs.jpg"
+  },
+  {
+    "title": "ساسبند بچه گانه دخترانه پسرانه کد k590",
+    "group": "بچه گانه دخترانه پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچه گانه",
+          "دخترانه",
+          "پسرانه"
+        ]
+      }
+    ],
+    "random_key": "22c27d14-500b-4658-9ab9-a2072874db3d",
+    "image_url": "https://image.torob.com/base/images/HX/oY/HXoYQNslAZnJftc1.jpg"
+  },
+  {
+    "title": "ساسبند کش 2 سانت (سرمه ای)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "71516b39-1a0a-4e2b-9a3c-be2a646e0a64",
+    "image_url": "https://image.torob.com/base/images/zB/hH/zBhHve8s2-Y6Cc3F.jpg"
+  },
+  {
+    "title": "ساس بند پسرانه کد 002 فری سایز Code 49355702",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "99db54b6-6ae9-45a1-890c-da91d458ba11",
+    "image_url": "https://image.torob.com/base/images/CW/ml/CWmlFOR1jO-YJkg0.jpg"
+  },
+  {
+    "title": "ساسبند مدل k580",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [],
+    "random_key": "ab29e5cc-5f10-4467-bccf-d0818c4df8ac",
+    "image_url": "https://image.torob.com/base/images/76/y1/76y1RD3P6CPJ1dEL.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه ملودی رنگ نارنجی-عرض کش دو سانت",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      }
+    ],
+    "random_key": "98ec97dd-646c-4bb9-9160-c896d4b33ae1",
+    "image_url": "https://image.torob.com/base/images/bd/3s/bd3sIw4QlFDS_KGE.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد 1310",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "369cf1fe-8f65-4bf3-93b5-0e8e7bb0f000",
+    "image_url": "https://image.torob.com/base/images/PD/GI/PDGIvw_wttgFfB2P.jpg"
+  },
+  {
+    "title": "ساس بند بچگانه ترک",
+    "group": "بچگانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "99294265-e3b5-4783-ba8b-a1537e7a33a6",
+    "image_url": "https://image.torob.com/base/images/vW/Xa/vWXaDUY8RyKw_rJj.jpg"
+  },
+  {
+    "title": "ساس بند سورمه ای مردانه و پسرانه",
+    "group": "مردانه و پسرانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "f8a1fbfa-aa37-4189-9f60-779430c41235",
+    "image_url": "https://image.torob.com/base/images/46/V1/46V1ObZaJc-HuQbf.jpg"
+  },
+  {
+    "title": "ساسپندر / آویز شلوار مردانه | پیرکاردین Pierre Cardin 993680",
+    "group": "مردانه",
+    "product": "ساسپندر",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پیرکاردین Pierre Cardin"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسپندر / آویز شلوار"
+        ]
+      }
+    ],
+    "random_key": "91f0d086-949a-4112-a515-cdfc1cdbea11",
+    "image_url": "https://image.torob.com/base/images/NI/83/NI83OjnEtvMqL8r-.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه ملودی رنگ زیتونی-عرض کش دو سانت",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زیتونی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "28e5e78d-85ce-4ce6-a7fd-a467077ef7e1",
+    "image_url": "https://image.torob.com/base/images/5f/Pi/5fPilRdyKkomDvnh.jpg"
+  },
+  {
+    "title": "ساسبند مردانه مدل MH084NBK",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "ca54f980-8c58-483c-94fb-60fef482081b",
+    "image_url": "https://image.torob.com/base/images/nM/Wh/nMWh5JxG6wQnbJlb.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 28 فری سایز Code 18410262",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "3138542f-6f52-4b3c-ada5-c506965244f2",
+    "image_url": "https://image.torob.com/base/images/CF/im/CFim0G15sfdiT3zZ.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه ملودی رنگ قهوه ای-عرض کش دو سانت",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "2fd23ade-f956-4660-8fae-c630055f144c",
+    "image_url": "https://image.torob.com/base/images/FW/Rm/FWRmc97n5ZoymZEm.jpg"
+  },
+  {
+    "title": "ساسبند نوجوان (7 تا 15 سال) CHR مدل کلش آف کلنز",
+    "group": "نوجوان",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوجوان"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "7 تا 15 سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کلش آف کلنز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند نوجوان"
+        ]
+      }
+    ],
+    "random_key": "8a534a5e-f652-496c-b91b-ba555f0b94c9",
+    "image_url": "https://image.torob.com/base/images/Iu/QV/IuQVu56cYkYTFtRH.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (گل بهی سیر مات)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گل بهی سیر مات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "3e3e35e3-a638-4612-a78f-28d6ce770141",
+    "image_url": "https://image.torob.com/base/images/-r/VU/-rVUOt2oyqFCYSVX.jpg"
+  },
+  {
+    "title": "ساس بندوپاپیون نوزادی سیسمونی نوزادی ساس بندنوزادی سیسمونی نوزادی ساس بندنوزادی",
+    "group": "نوزادی",
+    "product": "ساس بندوپاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "نوزادی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند و پاپیون نوزادی",
+          "سیسمونی نوزادی",
+          "ساس بند نوزادی"
+        ]
+      }
+    ],
+    "random_key": "f8814291-02b2-484f-bff6-ef99a180bc38",
+    "image_url": "https://image.torob.com/base/images/5X/7q/5X7q7rOblXgygBwG.jpg"
+  },
+  {
+    "title": "ساسبند گیره فلزی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "2a7edb40-023c-4644-98f8-65ce09a588e5",
+    "image_url": "https://image.torob.com/base/images/Yc/l1/Ycl1v79OvWtlrwGQ.jpg"
+  },
+  {
+    "title": "ساسبند مردانه باریک کد 1556308",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "باریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "2dd8bac1-e795-4fd3-9ae3-ecd95df48f7a",
+    "image_url": "https://image.torob.com/base/images/6c/mb/6cmb_HJAcbveOT8S.jpg"
+  },
+  {
+    "title": "گیره ساسبند پلاستیکی آبی(بسته 10 تایی)",
+    "group": "نامشخص",
+    "product": "گیره ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "10 تایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گیره ساسبند"
+        ]
+      }
+    ],
+    "random_key": "17a56952-fc71-455e-b0a1-3b8735c67c70",
+    "image_url": "https://image.torob.com/base/images/XV/wd/XVwdlnta73LUSlBr.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-17 فری سایز Code 38976099",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "7d8fe051-5b69-4982-aed3-687d768784f5",
+    "image_url": "https://image.torob.com/base/images/tf/MQ/tfMQokORmyV2DIzF.jpg"
+  },
+  {
+    "title": "ساسبند چرمی زنانه مدل Cross کد Hsm-985d6",
+    "group": "زنانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند چرمی زنانه"
+        ]
+      }
+    ],
+    "random_key": "6fb6def0-e636-4e26-98b0-ca4ec2efb7cf",
+    "image_url": "https://image.torob.com/base/images/oh/e5/ohe5V3AdTpReqC5U.jpg"
+  },
+  {
+    "title": "ساسبند کش 2 سانت (آبی)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند کش"
+        ]
+      }
+    ],
+    "random_key": "4ad2dbfb-6533-43fb-bc9f-1f1566f19451",
+    "image_url": "https://image.torob.com/base/images/_3/t5/_3t5MVQg0v-blqAH.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه کش 2 سانت (سیاه و قرمز)",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کش"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه کش"
+        ]
+      }
+    ],
+    "random_key": "2a8e7560-48da-40d9-8d82-4b2cc36eb46d",
+    "image_url": "https://image.torob.com/base/images/Zg/ce/ZgceONokmyWx8Xih.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 27 فری سایز Code 18410249",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پسرانه"
+        ]
+      }
+    ],
+    "random_key": "828a8e2d-a255-45a7-9567-b448b03a486b",
+    "image_url": "https://image.torob.com/base/images/AJ/ub/AJub4aGQY_pUuBIW.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ قهوه ای-عرض کش سه سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "سه سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "208a514f-4843-4d8b-b170-3f4106874b96",
+    "image_url": "https://image.torob.com/base/images/lS/vl/lSvlKBC-qCohPjGA.jpg"
+  },
+  {
+    "title": "تریپل فلکس نیچرمید 200 عدد",
+    "group": "نامشخص",
+    "product": "تریپل فلکس",
+    "entities": [],
+    "random_key": "b85cd137-747b-4dde-acac-f172c1729e32",
+    "image_url": "https://image.torob.com/base/images/dU/o0/dUo0EHxUu8Jb2Zun.jpg"
+  },
+  {
+    "title": "ساسبند سه گیره مردانه",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "سه گیره"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند سه گیره"
+        ]
+      }
+    ],
+    "random_key": "afdd1206-2a40-449a-8a94-5f61e5194cab",
+    "image_url": "https://image.torob.com/base/images/rJ/8b/rJ8bbZ0UVbgFITps.jpg"
+  },
+  {
+    "title": "ساسبندر گلیمی شیراز",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبندر گلیمی"
+        ]
+      }
+    ],
+    "random_key": "a3f0e4f5-83f0-4167-b000-07b98018f8ba",
+    "image_url": "https://image.torob.com/base/images/tz/eY/tzeY0-SYGx-iAR2F.jpg"
+  },
+  {
+    "title": "ست ساس بندو پاپیون بچگانه",
+    "group": "بچگانه",
+    "product": "ست ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساس بندو پاپیون"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      }
+    ],
+    "random_key": "e1ac42b6-daae-4027-ac14-a1b7934464c8",
+    "image_url": "https://image.torob.com/base/images/Lv/cl/LvclNuCQu6Gq9Qgt.jpg"
+  },
+  {
+    "title": "ساسبند - نوار الاستیک+ چرم + قلاب گیره ای عالی و فلزی سبک است / طول 76 تا 125 سانتی متر - عرض آویزها 3.5 سانتی متر است",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نوار الاستیک",
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع گیره",
+        "values": [
+          "قلاب گیره ای",
+          "فلزی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "3.5 سانتی متر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "عالی",
+          "سبک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "67f7e8e4-8f3f-4f62-a101-15a34d4ed1cb",
+    "image_url": "https://image.torob.com/base/images/qh/is/qhisDvwWhvcANw2r.jpg"
+  },
+  {
+    "title": "ساسبند طرح دار",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "7a3d8c31-8e85-4972-98f1-6f68ae2a41c1",
+    "image_url": "https://image.torob.com/base/images/yl/iJ/yliJahAXY_8FmrqQ.jpg"
+  },
+  {
+    "title": "ساس بند و جلیقه با چرم طبیعی گاو",
+    "group": "نامشخص",
+    "product": "ساس بند و جلیقه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی گاو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند و جلیقه"
+        ]
+      }
+    ],
+    "random_key": "a8be69f7-1281-464c-b2da-739b171beadf",
+    "image_url": "https://image.torob.com/base/images/8T/CG/8TCGoqaQP3eqCZgt.jpg"
+  },
+  {
+    "title": "ساسبند زنانه مدل SB-SS-sus30-t1-7",
+    "group": "زنانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند زنانه"
+        ]
+      }
+    ],
+    "random_key": "f9a3dc35-b5f1-4075-938e-8a260d9d44ce",
+    "image_url": "https://image.torob.com/base/images/Za/xK/ZaxK9GIGSbR8P24z.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (قهوه ای براق)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای براق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "96a0ce5d-3ccc-4acd-8f35-bac4364bad7a",
+    "image_url": "https://image.torob.com/base/images/mN/Qv/mNQvCfi820lCM1SK.jpg"
+  },
+  {
+    "title": "ساس بند طرح گل سرخ کد 7320",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل سرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند طرح گل سرخ"
+        ]
+      }
+    ],
+    "random_key": "157b598c-a019-475f-95e2-53d28c0eccc3",
+    "image_url": "https://image.torob.com/base/images/zP/ir/zPirsoKxMxOxR1dz.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (یاسی مات)",
+    "group": "نامشخص",
+    "product": "ساسbند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "یاسی مات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "ed367a3c-60cb-4f75-a716-30ff642576e9",
+    "image_url": "https://image.torob.com/base/images/o3/Qs/o3Qsd6CPShr_eb-S.jpg"
+  },
+  {
+    "title": "ساسبند چهار گیره مردانه",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "چهار گیره"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند چهار گیره"
+        ]
+      }
+    ],
+    "random_key": "198e279d-d69d-42cc-8409-646b86f70b6b",
+    "image_url": "https://image.torob.com/base/images/i4/V_/i4V_lZap3lre_iuu.jpg"
+  },
+  {
+    "title": "ساسبند مردانه مدل SB-SS-sus30-t1-10",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "6e645a5a-ff4e-434f-967f-cf5e5c8a8a4d",
+    "image_url": "https://image.torob.com/base/images/Px/PU/PxPU3hVpnFasGE2X.jpg"
+  },
+  {
+    "title": "ست ساسبند و پاپیون پسرانه کد 2948",
+    "group": "پسرانه",
+    "product": "ست ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ساسبند و پاپیون"
+        ]
+      }
+    ],
+    "random_key": "9ec14804-6519-4b96-810e-affc394a04e2",
+    "image_url": "https://image.torob.com/base/images/h2/rL/h2rLMNjIOJjuK64i.jpg"
+  },
+  {
+    "title": "ساسبند گیره فلزی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "df150824-c388-4870-861d-7fd664101697",
+    "image_url": "https://image.torob.com/base/images/DM/qH/DMqHWvr9lwtWhPCA.jpg"
+  },
+  {
+    "title": "ساس بند (ساسپندر) مردانه POLO سرمه ای خالدار ارسال رایگان",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "POLO"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خالدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "bf2ce9e6-0d97-4193-b7f3-d7edb8976a84",
+    "image_url": "https://image.torob.com/base/images/aH/6z/aH6zJeRoWdJSrVxy.jpg"
+  },
+  {
+    "title": "ساسبند فلزی",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "6d6e23ad-0cb7-48e0-8a02-5727f2c6f7d3",
+    "image_url": "https://image.torob.com/base/images/jb/EG/jbEG0XbxsLojPlE6.jpg"
+  },
+  {
+    "title": "ساس بند و جلیقه چرم گاوی",
+    "group": "نامشخص",
+    "product": "ساس بند و جلیقه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم گاوی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند و جلیقه"
+        ]
+      }
+    ],
+    "random_key": "204c8925-c0c5-44be-94a7-717ba8d505f5",
+    "image_url": "https://image.torob.com/base/images/YO/wi/YOwiy6HATwPqSXuq.jpg"
+  },
+  {
+    "title": "ساسبند و پاپیون mini damla ترکیه",
+    "group": "نامشخص",
+    "product": "ساسبند و پاپیون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "mini damla"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند و پاپیون"
+        ]
+      }
+    ],
+    "random_key": "a1b9e7ed-5647-4e33-849c-c1d6a33394c6",
+    "image_url": "https://image.torob.com/base/images/VE/vI/VEvIO9z0sCPFObAh.jpg"
+  },
+  {
+    "title": "ساسبند طرح دار 2313205 کروم",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "37045f95-6d88-43fa-9ede-57c95f067317",
+    "image_url": "https://image.torob.com/base/images/JQ/tD/JQtD35WwPsIEkXtZ.jpg"
+  },
+  {
+    "title": "ساسبند پهن مردانه",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "عرض",
+        "values": [
+          "پهن"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "03cee6c7-dc33-4a97-9dae-d8d62bb0cd1c",
+    "image_url": "https://image.torob.com/base/images/cV/ln/cVlnG2cRA4kDFhk5.jpg"
+  },
+  {
+    "title": "ساسبند قهوه ای براق Melody",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای براق"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Melody"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "a5f4e7ac-327c-49f3-8ec0-dc487396fb9b",
+    "image_url": "https://image.torob.com/base/images/pV/c2/pVc23Kb040no-IJi.jpg"
+  },
+  {
+    "title": "کش ساسبند ضخیم سرمه ای ( متری )",
+    "group": "نامشخص",
+    "product": "کش ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضخیم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کش ساسبند"
+        ]
+      }
+    ],
+    "random_key": "680832b6-7ba8-414a-8416-1e6b4b9b5b3e",
+    "image_url": "https://image.torob.com/base/images/O1/La/O1LaHxTaJkezpe2t"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (بنفش براق)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش براق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "8e6e3259-55f0-40ae-b1d5-d078338bb65b",
+    "image_url": "https://image.torob.com/base/images/gY/Y8/gYY87t1Nfd7FwJiG.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه ملودی رنگ دودی طرح دار-عرض کش دو سانت",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دودی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند بچگانه"
+        ]
+      }
+    ],
+    "random_key": "7c630324-2204-41bc-b7d9-5777d0c3c0ab",
+    "image_url": "https://image.torob.com/base/images/7g/o6/7go6mrGMNWO0mHSN.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ آبی مات-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی مات"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند مردانه"
+        ]
+      }
+    ],
+    "random_key": "20af6b3b-2534-487e-8073-ef4c591a1995",
+    "image_url": "https://image.torob.com/base/images/uw/bf/uwbf_NmQ0FxsR4SD.jpg"
+  },
+  {
+    "title": "ساس بند (ساسپندر) مردانه POLO کرم نخودی ارسال رایگان",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "POLO"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم نخودی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "9c70b4ff-d744-40b9-b565-8208043643fd",
+    "image_url": "https://image.torob.com/base/images/Jz/m7/Jzm7m5SdTX0BYCiC.jpg"
+  },
+  {
+    "title": "کیت ساس بند مردانه (دکمه‌ای و کلیپس) مدل والنتینو کش خال‌دار بافتی",
+    "group": "مردانه",
+    "product": "کیت ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع گیره",
+        "values": [
+          "دکمه ای",
+          "کلیپس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خال دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیت ساس بند"
+        ]
+      }
+    ],
+    "random_key": "ffd90dcb-15a3-4d9e-a8c9-e3320538c192",
+    "image_url": "https://image.torob.com/base/images/67/kM/67kM6_uMnPzYooX0.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کیفانی دوبند",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "db57cad9-d632-4af1-83f1-6e5de8ad8bc5",
+    "image_url": "https://image.torob.com/base/images/Fr/Sg/FrSgPt3nQb-vkJFq.jpg"
+  },
+  {
+    "title": "ساس بند مردانه اچ اند ام",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "f4fe25b5-0750-4fbc-8bfc-57aa61bec1e4",
+    "image_url": "https://image.torob.com/base/images/3g/gA/3ggA_qDSpAjQHqL3.jpg"
+  },
+  {
+    "title": "ساس بند مردانه CHR مدل فری گامو ۶ گیره",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHR"
+        ]
+      },
+      {
+        "name": "تعداد گیره",
+        "values": [
+          "۶ گیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "12172887-189e-4a16-b7eb-6c563b423050",
+    "image_url": "https://image.torob.com/base/images/wk/88/wk88aWBmhD4sZ4Sz.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-10",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "2c4cd532-4997-40ab-83bc-e9b5397e0837",
+    "image_url": "https://image.torob.com/base/images/_A/fy/_AfysVG-14NaAEhb.jpg"
+  },
+  {
+    "title": "ساسبند طوسی(خاکستری ـ فیلی)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی",
+          "خاکستری",
+          "فیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "ffed7e35-a4aa-4c95-ac6c-82b4f6a67b6f",
+    "image_url": "https://image.torob.com/base/images/Pd/sy/PdsyAvu1FsaAKSoX.jpg"
+  },
+  {
+    "title": "ساسبند بچگانه تک 411",
+    "group": "بچگانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "تک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "ac10a22a-12e2-4070-9cf1-ae7c3bf0ad9d",
+    "image_url": "https://image.torob.com/base/images/Ks/yB/KsyB9frN8sbO0NJ9.jpg"
+  },
+  {
+    "title": "ساسبند زرد مات Melody",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد مات"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Melody"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "074ed63b-9fd5-4858-88e1-fd83a16202f1",
+    "image_url": "https://image.torob.com/base/images/TJ/1v/TJ1v-HTMq_HnfB_s.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ نسکافه ای-عرض کش دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نسکافه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "46508845-c1c4-4490-a9fb-f92b7fe2ff3e",
+    "image_url": "https://image.torob.com/base/images/dZ/HD/dZHDLiQvphhyUEd_.jpg"
+  },
+  {
+    "title": "ساسبند پسرانه کد Ki 06-14 فری سایز Code 38975884",
+    "group": "پسرانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "cfb093bb-f9c8-4d7a-a68d-9ab37cbacc66",
+    "image_url": "https://image.torob.com/base/images/rq/sf/rqsfU_4Xj_oipD9x.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای 2 سانت (بنفش تیره مات)",
+    "group": "نامشخص",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "2 سانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش تیره مات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "3e7f685a-a21c-4ae5-bcaa-0643d3e9c31c",
+    "image_url": "https://image.torob.com/base/images/-o/L2/-oL2D0_dutyVEqoY.jpg"
+  },
+  {
+    "title": "ساسبند پارچه ای مردانه ملودی رنگ آبی براق-عرض دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی براق"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "c9cc744a-a40b-4267-a253-4d4a66a88f11",
+    "image_url": "https://image.torob.com/base/images/y2/DJ/y2DJQx8aQr2atE7F.jpg"
+  },
+  {
+    "title": "کیت ساس بند مردانه(دکمه‌ای و کلیپس) مدل والنتینو کش ساده",
+    "group": "مردانه",
+    "product": "کیت ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "ساخت",
+        "values": [
+          "دکمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیت ساس بند"
+        ]
+      },
+      {
+        "name": "نوع گیره",
+        "values": [
+          "کلیپس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      }
+    ],
+    "random_key": "ce394304-ed0d-4eb2-bd21-cad2d569f172",
+    "image_url": "https://image.torob.com/base/images/ko/H6/koH6nY2tKXKaDcYH.jpg"
+  },
+  {
+    "title": "ساسبند مردانه ملودی رنگ زرشکی-عرض کش دو سانت",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملودی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "دو سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "61298e9e-3271-45d5-8a2c-1fb0458d36d8",
+    "image_url": "https://image.torob.com/base/images/u9/jo/u9joLHICjL2lrSnu.jpg"
+  },
+  {
+    "title": "گیره ساسبند پلاستیکی سفید(بسته 30 تایی)",
+    "group": "نامشخص",
+    "product": "گیره ساسبند",
+    "entities": [
+      {
+        "name": "نوع گیره",
+        "values": [
+          "گیره پلاستیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "تعداد در بسته",
+        "values": [
+          "30 تایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گیره ساسبند"
+        ]
+      }
+    ],
+    "random_key": "a6680479-5bba-4785-885e-4277786e1ec9",
+    "image_url": "https://image.torob.com/base/images/PP/RJ/PPRJMD--OrGhFIYd.jpg"
+  },
+  {
+    "title": "ساس بند مردانه",
+    "group": "مردانه",
+    "product": "ساس بند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساس بند"
+        ]
+      }
+    ],
+    "random_key": "ed546dec-835e-4b18-984f-04027a6e890b",
+    "image_url": "https://image.torob.com/base/images/p4/L5/p4L5ngbyU9Gs661t.jpg"
+  },
+  {
+    "title": "ساسبند مردانه پهن کد 1556301",
+    "group": "مردانه",
+    "product": "ساسبند",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "عرض",
+        "values": [
+          "پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند"
+        ]
+      }
+    ],
+    "random_key": "8c9c3969-0022-4e61-aec3-70f35cdee393",
+    "image_url": "https://image.torob.com/base/images/wJ/o0/wJo0EFRBSDLwN9_k.jpg"
+  }
+]

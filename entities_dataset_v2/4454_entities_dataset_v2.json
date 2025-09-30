@@ -1,0 +1,6693 @@
+[
+  {
+    "title": "قاب عینک مربعی چرمی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مربعی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "e4b79eeb-6ad5-4fdf-a14c-954f6d12e3e6",
+    "image_url": "https://image.torob.com/base/images/CD/43/CD43WOW1IMYNERbi.webp"
+  },
+  {
+    "title": "کیف عینک زنانه برند SIX",
+    "group": "زنانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "87532a6b-63d7-42fe-843f-d6e6f0ea48a9",
+    "image_url": "https://image.torob.com/base/images/ql/bn/qlbneyfQSRmCDcPe.jpg"
+  },
+  {
+    "title": "کیف عینک Tchibo",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tchibo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "422fd2cd-f3ce-4157-bf3e-73692dd38f76",
+    "image_url": "https://image.torob.com/base/images/mB/r1/mBr1tOQNJAK5URUp.jpg"
+  },
+  {
+    "title": "جعبه عینک مستطیلی",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      }
+    ],
+    "random_key": "3b116057-ed82-4df3-9f13-3d000c450024",
+    "image_url": "https://image.torob.com/base/images/jk/0j/jk0jq5qPaaTJLZ2Z.jpg"
+  },
+  {
+    "title": "کیف عینک از جنس مخمل نرم و رنگ سبز مدل 991869",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل نرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "eb7107eb-ba41-44de-bba4-808bd8829f23",
+    "image_url": "https://image.torob.com/base/images/J-/ZJ/J-ZJOLdCHDiHS_cg.jpg"
+  },
+  {
+    "title": "قاب عینک کتابی و مثلثی شکل با رنگ طوسی (تاشو) مدل 992601",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "کتابی",
+          "مثلثی شکل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "f96074b3-4eea-4643-88a5-9e3635ca990e",
+    "image_url": "https://image.torob.com/base/images/KQ/6h/KQ6heZc4m8ZQFOsv.jpg"
+  },
+  {
+    "title": "کیف عینک بچگانه برند DISNEY",
+    "group": "بچگانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "DISNEY"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "7e6db883-7f6a-4cb2-86e0-578dccd38fc8",
+    "image_url": "https://image.torob.com/base/images/e0/qL/e0qL-566W2laolzo.jpg"
+  },
+  {
+    "title": "کیف عینک طبی مستطیلی شکل با رنگ قهوه ای طرح دار مدل 991667",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی شکل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک طبی"
+        ]
+      }
+    ],
+    "random_key": "e85b88ed-4437-4b84-b116-cffff641235e",
+    "image_url": "https://image.torob.com/base/images/hc/Ye/hcYe3Iyxd9830_Rt.jpg"
+  },
+  {
+    "title": "کیف عینک زنانه برند SUN OZON",
+    "group": "زنانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SUN OZON"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "1518a8da-e9d4-47ac-8324-c2d84e3dccb4",
+    "image_url": "https://image.torob.com/base/images/Eg/6_/Eg6_XLruYQNNtF9U.jpg"
+  },
+  {
+    "title": "قاب برای عینک آفتابی و طبی با درب لولای فنری و رنگ فندقی بزرگ مدل 991618",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "لولای فنری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "فندقی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب برای عینک آفتابی",
+          "قاب برای عینک طبی"
+        ]
+      }
+    ],
+    "random_key": "6e1322d2-8527-4191-b084-c8d7ed3ff78d",
+    "image_url": "https://image.torob.com/base/images/Xz/7A/Xz7A4SEqZjwW5uia.jpg"
+  },
+  {
+    "title": "قاب عینک آفتابی برند Chanel",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Chanel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "e0560dd3-37ac-4f49-9b60-03717402f2c3",
+    "image_url": "https://image.torob.com/base/images/0D/ui/0DuiygW5EDKtw3d4.jpg"
+  },
+  {
+    "title": "کیف عینک چرمی گل گلی طوسی با چرم مصنوعی فانتزی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل گلی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک چرمی"
+        ]
+      }
+    ],
+    "random_key": "f1b18cb0-4ed5-4517-885d-a61ab6eae96f",
+    "image_url": "https://image.torob.com/base/images/p6/aU/p6aUTJpX_tPNxHGN.jpg"
+  },
+  {
+    "title": "قاب عینک مدل 0152pm",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "4dc88808-e691-4991-be3f-4bd03d68e937",
+    "image_url": "https://image.torob.com/base/images/aC/-M/aC-M6gv6cITV8baJ.jpg"
+  },
+  {
+    "title": "قاب عینک",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "a07573f1-47ca-42ef-a3b9-d7455ce01c89",
+    "image_url": "https://image.torob.com/base/images/rn/j7/rnj7WuVSPqVjYkvo.jpg"
+  },
+  {
+    "title": "جلد عینک تاشو مدل 1001 رنگ آجری",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آجری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "342818f9-16ad-407d-8605-89837e5c3751",
+    "image_url": "https://image.torob.com/base/images/5n/nO/5nnOP21Jvjbhhe4J.webp"
+  },
+  {
+    "title": "قاب اصلی (پک اورجینال گوچی) عینک آفتابی از برند گوچی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گوچی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "پک اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب اصلی عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "a82e3021-b96b-4b18-a787-f8c5e80b9b8b",
+    "image_url": "https://image.torob.com/base/images/4P/fh/4Pfh445VQoZ7RyCu.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طبیعی دست دوز مدل کلاسیک و سبک",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "کلاسیک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "سبک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "b39f8015-4a95-441e-af95-38e260ab530c",
+    "image_url": "https://image.torob.com/base/images/Sn/V-/SnV-I8WzSxzfmb-2.jpg"
+  },
+  {
+    "title": "کیف عینک دیور Dior مستطیلی، مگنتی و مشکی رنگ مدل 992195",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دیور",
+          "Dior"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "d56e0b90-0413-4e67-a9a7-c0b92d7a5ed4",
+    "image_url": "https://image.torob.com/base/images/Zr/s9/Zrs9eeaH3Lvb-0RQ.jpg"
+  },
+  {
+    "title": "کیف عینک برند SIX",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "72a959cf-a3b9-462c-a2ab-43279702f7b5",
+    "image_url": "https://image.torob.com/base/images/Wt/yY/WtyYOnsmiFTscTto.jpg"
+  },
+  {
+    "title": "کیف عینک اسپرت بی لاین Beeline",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بی لاین",
+          "Beeline"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "fbc8a6e7-afef-443e-9d56-e6493c67013e",
+    "image_url": "https://image.torob.com/base/images/9o/RK/9oRKGgj_419oDmi5.jpg"
+  },
+  {
+    "title": "کاور عینک مگنتی",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      }
+    ],
+    "random_key": "db291f87-fb47-4640-8deb-41cd1be70198",
+    "image_url": "https://image.torob.com/base/images/_v/MN/_vMNW1gnOSIS14u9.jpg"
+  },
+  {
+    "title": "قاب عینک پلنگی دکمه",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "da49d1b5-edeb-4e8b-966a-409507769cbf",
+    "image_url": "https://image.torob.com/base/images/qk/nX/qknX00-sWpKewyN6.jpg"
+  },
+  {
+    "title": "کیف قاب عینک چرم طبیعی گاوی چرمی",
+    "group": "نامشخص",
+    "product": "کیف قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی گاوی",
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "51bed128-7aa2-45a9-9c0a-9e372ad2dd3a",
+    "image_url": "https://image.torob.com/base/images/1l/oW/1loWI-JJwH2q4jEx.jpg"
+  },
+  {
+    "title": "کیف عینک آفتابی بالمین",
+    "group": "نامشخص",
+    "product": "کیف عینک آفتابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بالمین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "d53d7490-f2a3-4bae-a078-9c7e3507fa36",
+    "image_url": "https://image.torob.com/base/images/fr/B9/frB9wbVz3_ZBD_mf.webp"
+  },
+  {
+    "title": "نگهدارنده عینک",
+    "group": "نامشخص",
+    "product": "نگهدارنده عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگهدارنده عینک"
+        ]
+      }
+    ],
+    "random_key": "e3610477-40f5-46a1-bd12-d9fef348c025",
+    "image_url": "https://image.torob.com/base/images/Ey/_3/Ey_3BH59VlNsZp5M.webp"
+  },
+  {
+    "title": "کیف بافتنی مناسب کاور عینک پد لوازم ارایشی",
+    "group": "نامشخص",
+    "product": "کیف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف"
+        ]
+      }
+    ],
+    "random_key": "fe32939a-9ce0-4182-91c1-15d127fe340c",
+    "image_url": "https://image.torob.com/base/images/9I/ry/9IryUTmqyScG9LXr.jpg"
+  },
+  {
+    "title": "جعبه ی عینک اورجینال لیندا فارو",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیندا فارو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه ی عینک"
+        ]
+      }
+    ],
+    "random_key": "35cd2cfa-231d-4ad8-977d-7c3bca5f4196",
+    "image_url": "https://image.torob.com/base/images/-m/6W/-m6W_ldJ-_AgOEZx.jpg"
+  },
+  {
+    "title": "کیف عینک ریبن +دستمال عینک رایگان کد k100",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ری بن"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "دستمال عینک رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "7a8c0f9c-60e2-4406-b249-edf17e46da75",
+    "image_url": "https://image.torob.com/base/images/Ej/zV/EjzVvyfoKE1N3EQz.jpg"
+  },
+  {
+    "title": "جعبه ی عینک جیمی چو مشکی طلاکوب",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جیمی چو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "طلاکوب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه ی عینک"
+        ]
+      }
+    ],
+    "random_key": "4718bd42-4924-424f-a0f5-57e98e6c5878",
+    "image_url": "https://image.torob.com/base/images/Px/W-/PxW-9e3sYNzxG2nh.jpg"
+  },
+  {
+    "title": "جلد عینک اورجینال اُگا آفتابی",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اُگا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "3d05ed5f-9d5f-4401-90e9-7953abb55d8a",
+    "image_url": "https://image.torob.com/base/images/Nj/Ql/NjQlLxC3AluQGHH1.webp"
+  },
+  {
+    "title": "کیف عینک کیف پیاده رویی کیف چرم",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک",
+          "کیف پیاده رویی",
+          "کیف چرم"
+        ]
+      }
+    ],
+    "random_key": "984978b4-1156-4e3e-92b9-4291c50cf718",
+    "image_url": "https://image.torob.com/base/images/L0/AR/L0ARSY7l7j1QhxoN.jpg"
+  },
+  {
+    "title": "جاعینکی چرم طبیعی مهرچرم مدل پادما",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مهرچرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "40d6dd4f-5f32-459b-9143-3af6d4e7ec45",
+    "image_url": "https://image.torob.com/base/images/MF/O3/MFO3yJRmB4PpdqX8.jpg"
+  },
+  {
+    "title": "کیف عینک چرمی چرم حسنا با چرم طبیعی بزی ساده و دستدوز",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی بزی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "چرم حسنا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک چرمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      }
+    ],
+    "random_key": "ae2c06f0-9b22-4398-95ea-226c5dec55b0",
+    "image_url": "https://image.torob.com/base/images/x9/YF/x9YFiAO3-XxsQY4X.jpg"
+  },
+  {
+    "title": "کیف عینک Tchibo چوب پنبه طبیعی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tchibo"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چوب پنبه طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "5de29f8c-cfa4-41cc-9247-d70e1e06abee",
+    "image_url": "https://image.torob.com/base/images/eH/7t/eH7twSsbdp0naHBS.jpg"
+  },
+  {
+    "title": "کیف عینک آفتابی هوگو باس",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هوگو باس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "a5ed7ad8-a144-4a15-b200-6c07ddeabeeb",
+    "image_url": "https://image.torob.com/base/images/UK/dO/UKdOYIwjA1tKYL1L.jpg"
+  },
+  {
+    "title": "کیف عینک زیپ دار با طرح سنتی چند رنگ و از جنس فوم مدل 992048",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سنتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "3420b235-bd68-4e62-8f2f-8423a6f14b59",
+    "image_url": "https://image.torob.com/base/images/la/hz/lahz4s-X85M1u6vE.jpg"
+  },
+  {
+    "title": "جاعینکی فانتزی (پسکرایه هزینه ارسال با مشتری)",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "d2f6b4a0-d455-407e-b7de-fc72703a8ed6",
+    "image_url": "https://image.torob.com/base/images/P6/r5/P6r5ZQcRfn9KrMvd.jpg"
+  },
+  {
+    "title": "قاب عینک با چرم طبیعی وکاملان دست دوز قابل اجرا در رنگ های مختلف",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کاملا دست دوز"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "قابل اجرا در رنگ های مختلف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "bf2de9d4-399a-47ef-b3ae-714414d70d37",
+    "image_url": "https://image.torob.com/base/images/fH/3D/fH3DDUMPSY0w7gEN.jpg"
+  },
+  {
+    "title": "جاعینکی فانتزی(پسکرایه هزینه ارسال با مشتری)",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "cf61c70b-3c46-430b-8a06-7d1b7f4ca17a",
+    "image_url": "https://image.torob.com/base/images/u2/l-/u2l-O02O4cPkRm9L.jpg"
+  },
+  {
+    "title": "جلد آهنربایی فلزی طبی",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آهنربایی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد"
+        ]
+      }
+    ],
+    "random_key": "f8f5651c-86f4-4167-8c48-260130c72603",
+    "image_url": "https://image.torob.com/base/images/md/EA/mdEADmXMUSs9Fj7M.jpg"
+  },
+  {
+    "title": "کیف عینک برند موسکات Moscot مستطیلی، چرم و مشکی مدل 992181",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "موسکات Moscot"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "be45a2a2-700c-4e95-a21b-11aa262efcee",
+    "image_url": "https://image.torob.com/base/images/Zi/Rd/ZiRd6eozwlCwbnNM.jpg"
+  },
+  {
+    "title": "کیف عینک بند دار پارچه ای طرح هلو کیتی گربه بچگانه دخترانه",
+    "group": "بچگانه دخترانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "بند دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هلو کیتی گربه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "3ac2dba7-c9e0-49a7-bdc5-549940e4b0fd",
+    "image_url": "https://image.torob.com/base/images/aR/so/aRsoG-AXZ6PW60p3.jpg"
+  },
+  {
+    "title": "کیف عینک بچه‌گانه زیپ دار با طرح پرنسس ها Princess مدل 992697",
+    "group": "بچه‌گانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پرنسس ها Princess"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "13559ff6-e82a-47f4-9e2b-1d17044ff659",
+    "image_url": "https://image.torob.com/base/images/Ri/YN/RiYN18Ux7tTwqYWE.jpg"
+  },
+  {
+    "title": "کیف عینک نقاشی شده",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نقاشی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "a1e7c31c-502f-4b72-9ffa-604a9475a517",
+    "image_url": "https://image.torob.com/base/images/_I/cI/_IcILNQ3Epfn2AAn.jpg"
+  },
+  {
+    "title": "قاب عینک مگنتی مدل American Optical",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "American Optical"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "2cd2bdc4-6260-421b-8fdb-a8706dd69647",
+    "image_url": "https://image.torob.com/base/images/ad/k1/adk1kbbnUTPFIbur.jpg"
+  },
+  {
+    "title": "کیف عینک برند ACCESSORIES",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ACCESSORIES"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "839e32b4-69fd-4f8d-a311-9f9d67e368ae",
+    "image_url": "https://image.torob.com/base/images/7f/TP/7fTPMqOkApJ4wrl0.jpg"
+  },
+  {
+    "title": "جلد عینک بنفش تیره",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش تیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "c186325c-2440-4c36-97b7-bc634f9f06ee",
+    "image_url": "https://image.torob.com/base/images/A5/6o/A56oix-AqRN4fsqW.jpg"
+  },
+  {
+    "title": "کیف عینک کودک جاعینکی بچگانه دخترانه پسرانه",
+    "group": "کودک دخترانه پسرانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "کودک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک",
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "d530e0f2-dfd0-4c79-9e33-1e9d9245d981",
+    "image_url": "https://image.torob.com/base/images/cf/Pe/cfPe8oWHURl36W2W.jpg"
+  },
+  {
+    "title": "قاب عینک رنگ بندی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "رنگ بندی"
+        ]
+      }
+    ],
+    "random_key": "b982bb8e-3bc2-4e87-b4b8-f70694fb04ac",
+    "image_url": "https://image.torob.com/base/images/kk/Oi/kkOi2GcRDOaanCnw.jpg"
+  },
+  {
+    "title": "قاب عینک جاعینکی بسیار زیبا کیفیت بالا",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "جاعینکی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "بسیار زیبا",
+          "کیفیت بالا"
+        ]
+      }
+    ],
+    "random_key": "71eba543-5f9e-49e9-bb51-009587f08d62",
+    "image_url": "https://image.torob.com/base/images/dj/aI/djaINPm26Wt3CSwq.jpg"
+  },
+  {
+    "title": "کیف عینک زنانه برند SIX",
+    "group": "زنانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SIX"
+        ]
+      }
+    ],
+    "random_key": "8fbe764f-0d87-4654-9a4c-e703af680f7b",
+    "image_url": "https://image.torob.com/base/images/-r/Pm/-rPmaCP2lgOlNo1p.jpg"
+  },
+  {
+    "title": "قاب عینک مگنتی طرح لویی ویتون - مشکی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "لویی ویتون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "2254835a-190e-4ea9-afbd-0a1c6a18115e",
+    "image_url": "https://image.torob.com/base/images/Hx/YF/HxYF75FzF8sNl4go.jpg"
+  },
+  {
+    "title": "جلد عینک",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "b6262c79-e9fe-4fdf-84c6-6564b54f076a",
+    "image_url": "https://image.torob.com/base/images/KX/y5/KXy5HLkUQzDnl6dF.jpg"
+  },
+  {
+    "title": "کاور عینک طرح برگ کد600101",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "برگ"
+        ]
+      }
+    ],
+    "random_key": "13444250-aa9e-4713-bfca-9121c09260bd",
+    "image_url": "https://image.torob.com/base/images/mc/qJ/mcqJTc3NIJW0IORX.jpg"
+  },
+  {
+    "title": "کیف عینک طرح قلب",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      }
+    ],
+    "random_key": "11cdaa10-206b-4964-bd76-084e9b962866",
+    "image_url": "https://image.torob.com/base/images/EH/-Z/EH-ZFLyImSD4Ijwl.jpg"
+  },
+  {
+    "title": "قاب عینک محافظ ضدآب فانتزی کادویی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محافظ",
+          "ضدآب"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "کادویی"
+        ]
+      }
+    ],
+    "random_key": "84c9968e-2e36-42d7-8521-f24cd308f019",
+    "image_url": "https://image.torob.com/base/images/cc/vJ/ccvJxLk2otKbKTLG.jpg"
+  },
+  {
+    "title": "کیف چرم طبیعی دست دوز بانو.چرم گاو.(کیف جا موبایلی و .... به همراه قاب عینک که به بند کیف متصل میشود)",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی",
+          "چرم گاو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک",
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "جا موبایلی",
+          "به بند کیف متصل میشود"
+        ]
+      }
+    ],
+    "random_key": "3ac41a76-0bc1-4872-a6b0-1258bfabf964",
+    "image_url": "https://image.torob.com/base/images/nm/Oy/nmOylnN4gwQER1vO.jpg"
+  },
+  {
+    "title": "قاب عینک گلدار بنفش",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      }
+    ],
+    "random_key": "15c6c26d-6a6b-4f36-bb02-acbc82603fb2",
+    "image_url": "https://image.torob.com/base/images/xy/TZ/xyTZdOWSdjEMUlBf.jpg"
+  },
+  {
+    "title": "قاب عینک بچگانه کد1 خاکستری",
+    "group": "بچگانه",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      }
+    ],
+    "random_key": "91830e58-7c2e-4cbb-927a-4379138e42ad",
+    "image_url": "https://image.torob.com/base/images/XJ/Xn/XJXnP6Qv9R43GPmj.jpg"
+  },
+  {
+    "title": "ست کیف و بند عینک چرمی",
+    "group": "نامشخص",
+    "product": "ست کیف و بند عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف",
+          "بند عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      }
+    ],
+    "random_key": "7a519af9-9eda-4c81-a4a8-7ceb91a2ddbb",
+    "image_url": "https://image.torob.com/base/images/xd/Cj/xdCjlaEDEY_Cc3iv.jpg"
+  },
+  {
+    "title": "جاعینکی و جااکسسوری توتورو بافتنی",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی",
+          "جااکسسوری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توتورو"
+        ]
+      }
+    ],
+    "random_key": "93f7fa5e-8dae-44a9-9744-b183125d1a4a",
+    "image_url": "https://image.torob.com/base/images/af/Cb/afCbZBSHF3QYSgKf.jpg"
+  },
+  {
+    "title": "قاب عینک، جعبه عینک چوبی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "جعبه عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چوبی"
+        ]
+      }
+    ],
+    "random_key": "d66c07e4-7d0a-4a3f-a675-d35e49e52907",
+    "image_url": "https://image.torob.com/base/images/Mk/m0/Mkm0BCBvCRRhrd2a.jpg"
+  },
+  {
+    "title": "جلد عینک اورجینال سلین سفید",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سلین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "b6dab882-5515-45e7-b0f3-7580cdbca362",
+    "image_url": "https://image.torob.com/base/images/K1/Dj/K1DjuOdWEFIWzQoO.webp"
+  },
+  {
+    "title": "باکس و جعبه اعلاء 8 تایی عینک آفتابی با رنگ مشکی و جنس چرم (فایل) مدل 992607",
+    "group": "نامشخص",
+    "product": "باکس نگهدارنده عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باکس",
+          "جعبه اعلاء",
+          "عینک آفتابی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم (فایل)"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "8 تایی"
+        ]
+      }
+    ],
+    "random_key": "e4deef3d-780a-46a3-bef9-f6a658fbc416",
+    "image_url": "https://image.torob.com/base/images/JH/g-/JHg-NPHdUHVT_I_m.jpg"
+  },
+  {
+    "title": "قاب عینک مگنتی طرح وای اس ال - مشکی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "وای اس ال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک مگنتی"
+        ]
+      }
+    ],
+    "random_key": "ddb62775-bb90-4c74-bd30-898560d1625b",
+    "image_url": "https://image.torob.com/base/images/UA/41/UA41Xe4nzFjtFroc.jpg"
+  },
+  {
+    "title": "جلد عینک اورجینال بربری",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بربری"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "cc3d1bc8-d7c1-4032-af91-b508b3d6487c",
+    "image_url": "https://image.torob.com/base/images/5O/l8/5Ol8d_mDfobFxvm8.jpg"
+  },
+  {
+    "title": "قاب عکس طر ح عینک",
+    "group": "نامشخص",
+    "product": "قاب عکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عکس طر ح عینک"
+        ]
+      }
+    ],
+    "random_key": "50e37adb-ce4e-4cda-83e9-bdb302784627",
+    "image_url": "https://image.torob.com/base/images/Z-/Es/Z-EsvdA1-eG5fnii.jpg"
+  },
+  {
+    "title": "جلد عینک زیپی پارچه ای A در رنگ های مختلف",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگ های مختلف"
+        ]
+      }
+    ],
+    "random_key": "602e96c2-e1cc-4e9c-b096-41d837cec15b",
+    "image_url": "https://image.torob.com/base/images/Oi/uI/OiuIipaCyxLnXjkV.webp"
+  },
+  {
+    "title": "کیف عینک ورزشی با رنگ مشکی، زیپ دار و قلاب دار (سایز بزرگ و مناسب عینک چند کاوره) مدل 992786",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "قلاب دار",
+          "سایز بزرگ",
+          "مناسب عینک چند کاوره"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "4434db03-2036-4cea-945b-c3f9fbf26c22",
+    "image_url": "https://image.torob.com/base/images/hI/H5/hIH5PA9HmeNCHGVe.jpg"
+  },
+  {
+    "title": "جاعینکی کد SC26",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "ce44b07c-2d55-46c8-968f-fc92d763d500",
+    "image_url": "https://image.torob.com/base/images/b5/F0/b5F04nbf7x7Ai1kK.jpg"
+  },
+  {
+    "title": "قاب عینک اسپورت مستطیلی هارد مگنتی رگه دار",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "هارد"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "رگه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "0dc83a85-9d6b-4898-902e-610b201beb62",
+    "image_url": "https://image.torob.com/base/images/d5/5t/d55tRcwb9k9QrAA3.jpg"
+  },
+  {
+    "title": "کاور عینک و جامدادی نمدی",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک",
+          "جامدادی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نمدی"
+        ]
+      }
+    ],
+    "random_key": "10282c6d-7a6d-4235-8e36-5378723024be",
+    "image_url": "https://image.torob.com/base/images/Ad/o2/Ado2635Mp9BbdVO4.jpg"
+  },
+  {
+    "title": "جلد عینک کد C1-404",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "c85865c4-afe4-4a16-88ce-538a80dfd7c8",
+    "image_url": "https://image.torob.com/base/images/p_/xL/p_xLesuqOlvfjfzd.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طرح جغد",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جغد"
+        ]
+      }
+    ],
+    "random_key": "a679c1f4-1116-43a4-8a14-fc6f53cae864",
+    "image_url": "https://image.torob.com/base/images/_9/Ov/_9OvXsvgOnITkMWw.jpg"
+  },
+  {
+    "title": "جاعینکی طرح گل یاسی",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل یاسی"
+        ]
+      }
+    ],
+    "random_key": "e765034a-79ef-4419-81ec-30ea03bbcc05",
+    "image_url": "https://image.torob.com/base/images/0U/hf/0UhfHsTpebGZNru_.jpg"
+  },
+  {
+    "title": "کیف چرمی سالم و زیبا عینک",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف چرمی عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "سالم",
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "48917f17-7229-45f9-9897-e6162cd208c4",
+    "image_url": "https://image.torob.com/base/images/UV/to/UVtoZ4xMG6OEQGzU.jpg"
+  },
+  {
+    "title": "کاور و بگ عینک با ابعاد 18 در 9 سانتی‌متر، از جنس پارچه‌ای و رنگ قرمز مدل 992858",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور و بگ عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "ابعاد 18 در 9 سانتی  متر"
+        ]
+      }
+    ],
+    "random_key": "8ee8809e-27b1-4faa-8de1-53bd61b673d8",
+    "image_url": "https://image.torob.com/base/images/uJ/YR/uJYRRPAyD5NrXLiL.jpg"
+  },
+  {
+    "title": "جعبه عینک مدل مستطیلی",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      }
+    ],
+    "random_key": "8ca8100d-200c-4964-9197-486e566acdcf",
+    "image_url": "https://image.torob.com/base/images/-o/xP/-oxP47x34cbboJnr.jpg"
+  },
+  {
+    "title": "کیف عینک جا عینکی پارچه طرح مخمل وچرم",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک جا عینکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه",
+          "مخمل",
+          "چرم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح مخمل"
+        ]
+      }
+    ],
+    "random_key": "3f601fb5-43c2-4e97-9f1f-c779ad6d15e2",
+    "image_url": "https://image.torob.com/base/images/Tu/6e/Tu6e259WsqPwZtGb.jpg"
+  },
+  {
+    "title": "جلد آفتابی زیپی آویزدار",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد آفتابی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "آویزدار"
+        ]
+      }
+    ],
+    "random_key": "d2667549-796d-425d-8fbc-6aa2e6856b3f",
+    "image_url": "https://image.torob.com/base/images/m-/xK/m-xK6TyjmjlXrYcA.jpg"
+  },
+  {
+    "title": "جلد عینک کیسه ای چرمی لویی ویتون",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لویی ویتون"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "کیسه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "080b4b77-c952-4b94-8a69-da98abc9a06d",
+    "image_url": "https://image.torob.com/base/images/tO/nE/tOnErSHGZL3aOhTM.webp"
+  },
+  {
+    "title": "کیف عینکی چرمی دستدوز دوخته شده با چرم طبیعی بزی طرحدار و ساده مناسب برای انواع عینک های طبی و آفتابی",
+    "group": "نامشخص",
+    "product": "کیف عینکی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی بزی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دستدوز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار",
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینکی",
+          "عینک طبی",
+          "عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "f38df3dd-9035-4c3c-82fb-e0829ad6d6cb",
+    "image_url": "https://image.torob.com/base/images/5C/np/5CnpnSauCA5jDe3q.jpg"
+  },
+  {
+    "title": "کیف عینک جا عینکی چرم طبیعی دست دوز پوست ماری",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک",
+          "جا عینکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پوست ماری"
+        ]
+      }
+    ],
+    "random_key": "7ffaccf1-aaec-4f0d-bba6-dc48dd6746db",
+    "image_url": "https://image.torob.com/base/images/gG/yO/gGyOdqrg26sX5mSh.jpg"
+  },
+  {
+    "title": "کاور عینک ضدخش با رنگ قرمز مدل 981545",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضدخش"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "ddc3c442-766a-4b0f-a555-b90f00f5bb22",
+    "image_url": "https://image.torob.com/base/images/WZ/vB/WZvBTNRPiIK2JgTF.jpg"
+  },
+  {
+    "title": "جعبه عینک فرانسوی طبق عکس و توضیح",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فرانسوی"
+        ]
+      }
+    ],
+    "random_key": "8ae04462-6279-4aa0-8a66-10e2d113836d",
+    "image_url": "https://image.torob.com/base/images/Xn/Gt/XnGtJHq6LZmOh87G.jpg"
+  },
+  {
+    "title": "قاب عینک محکم حکاکی شده چرم گاوی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم گاوی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محکم",
+          "حکاکی شده"
+        ]
+      }
+    ],
+    "random_key": "c9f4d0f1-9a10-45d0-81d9-6439ea3a9f12",
+    "image_url": "https://image.torob.com/base/images/F-/Cw/F-Cw_Rb4evG1Fbst.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طبیعی قاب عینک چرم طبیعی دست دوز",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک",
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دست دوز"
+        ]
+      }
+    ],
+    "random_key": "5a2d436c-bb0e-4251-b381-afee92499ff6",
+    "image_url": "https://image.torob.com/base/images/R9/Qg/R9QgKoO47WewN082.jpg"
+  },
+  {
+    "title": "کاور پارچه‌ای عینک یووکس| نانو",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "یووکس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نانو"
+        ]
+      }
+    ],
+    "random_key": "021144b1-dabc-4372-8e0c-6fe0cd741023",
+    "image_url": "https://image.torob.com/base/images/uM/b3/uMb3tPxY145JWacr.webp"
+  },
+  {
+    "title": "کاور عینک ترمه طراحان ایده مدل اسلیمی کد Trm523 به همراه دستمال",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ترمه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "طراحان ایده"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسلیمی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "همراه با دستمال"
+        ]
+      }
+    ],
+    "random_key": "b09fecb1-46af-4aec-8b73-d866502778fb",
+    "image_url": "https://image.torob.com/base/images/Zi/h1/Zih1YTAVyb3OU-zQ.jpg"
+  },
+  {
+    "title": "کیف عینک مستطیلی شکل، از جنس چرمی و آبی رنگ مدل 992567",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "6f87209d-c1e3-4e71-8acd-c661e49942e2",
+    "image_url": "https://image.torob.com/base/images/EY/GK/EYGK9oKmmlabCpIa.jpg"
+  },
+  {
+    "title": "قاب عینک طرح صدفی کد 430",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "صدفی"
+        ]
+      }
+    ],
+    "random_key": "906fcc0f-dbb4-4d91-869d-7d0e3cd1469b",
+    "image_url": "https://image.torob.com/base/images/7p/0W/7p0WKFyCP1p4wPuQ.jpg"
+  },
+  {
+    "title": "ست کیف و کیسه عینک نقاشی شده",
+    "group": "نامشخص",
+    "product": "ست کیف و کیسه عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک",
+          "کیسه عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نقاشی شده"
+        ]
+      }
+    ],
+    "random_key": "68700910-b454-4797-be0d-46158354a8ed",
+    "image_url": "https://image.torob.com/base/images/fd/Ec/fdEcrLjPf_zA6DX7.jpg"
+  },
+  {
+    "title": "کیف عینک زنانه برند SIX",
+    "group": "زنانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SIX"
+        ]
+      }
+    ],
+    "random_key": "7ea5cb9c-adaa-4ed1-bb27-b57f0601d32d",
+    "image_url": "https://image.torob.com/base/images/7r/Q3/7rQ3clBkAEpczNwF.jpg"
+  },
+  {
+    "title": "کیف عینک مدل Ka11",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "2d9b5eaf-f01a-4fdc-b8c0-1db37fa01233",
+    "image_url": "https://image.torob.com/base/images/BA/V7/BAV7BoJPXhM2LXLd.jpg"
+  },
+  {
+    "title": "کیف چرم رها",
+    "group": "نامشخص",
+    "product": "کیف",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      }
+    ],
+    "random_key": "960d2e60-25aa-4537-8a26-3d6900271ec9",
+    "image_url": "https://image.torob.com/base/images/Tu/9d/Tu9dKO7pnkgrNnzG.jpg"
+  },
+  {
+    "title": "پک و کیف اورجینال عینک برند ارمنگیلدو زگنا Ermenegildo Zegna با تمام تجهیزات مدل 992662",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک عینک",
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ارمنگیلدو زگنا",
+          "Ermenegildo Zegna"
+        ]
+      }
+    ],
+    "random_key": "d0b0c260-8ffc-427f-8dbc-80193905b208",
+    "image_url": "https://image.torob.com/base/images/Fd/Yu/FdYuwv-QJSj4usiY.jpg"
+  },
+  {
+    "title": "جاعینکی کیف عینک چرم طبیعی و دست دوز",
+    "group": "نامشخص",
+    "product": "جاعینکی کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی",
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "20531757-933b-4b5c-9a4c-255cecb9259d",
+    "image_url": "https://image.torob.com/base/images/J8/Vy/J8VypgRWAiEmMBAW.jpg"
+  },
+  {
+    "title": "کیف عینک کیسه ای طرح دختر کد KED29",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "کیسه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دختر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "9a4f399b-2047-4951-9be8-3379670b1b66",
+    "image_url": "https://image.torob.com/base/images/hg/e7/hge7iOOU5F9fzScU.jpg"
+  },
+  {
+    "title": "جلد عینک چرم",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "231e26d6-ffd1-4648-881d-adfc5fb564cf",
+    "image_url": "https://image.torob.com/base/images/3C/4h/3C4h9VPD9omAySFK.jpg"
+  },
+  {
+    "title": "قاب عینک جلد عینک کیف عینک چرم طبیعی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "جلد عینک",
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "7556649b-ad99-48ec-8a39-db77b75c98c7",
+    "image_url": "https://image.torob.com/base/images/-b/Hp/-bHp0V4PBItH8m8_.jpg"
+  },
+  {
+    "title": "کیف عینک سیکس Six",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سیکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "cc06daa1-37d6-4a88-9a37-6f4c8fd3aa23",
+    "image_url": "https://image.torob.com/base/images/r1/0e/r10e1SAL2_pplIXs.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طبیعی دست دوز آفرینش",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آفرینش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "c8fcb2cc-a25d-472f-8eaa-5596c52c1aad",
+    "image_url": "https://image.torob.com/base/images/IU/z3/IUz3Ebr4dJuzs_ru.jpeg"
+  },
+  {
+    "title": "جاعینکی های فانتزی چاپی EF13(پسکرایه هزینه ارسال با مشتری توضیحات مهم)",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "چاپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "017f6e73-f5ef-43fb-8ad2-331ab2d31dc5",
+    "image_url": "https://image.torob.com/base/images/n5/OV/n5OVSASOEt1-QMIa.jpg"
+  },
+  {
+    "title": "جلد عینک اورجینال سوارفسکی",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سوارفسکی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "b4e7982d-bb1d-4dc7-8051-977321b2e9cf",
+    "image_url": "https://image.torob.com/base/images/nz/Un/nzUn4NwH0zTqrbdZ.webp"
+  },
+  {
+    "title": "قاب عینک آویزی کیف، طرح دار با رنگ کرمی برند اندی ماری مدل 992323",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "آویزی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اندی ماری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "کیف"
+        ]
+      }
+    ],
+    "random_key": "06d70383-fcfa-4e61-af5c-14ef13e44ec7",
+    "image_url": "https://image.torob.com/base/images/Iz/Bx/IzBxW-OjYJPvqXPP.jpg"
+  },
+  {
+    "title": "جا عینکی چرم طبیعی گاوی که در عین زیبایی و خاص بودن به خوبی از عینک محافظت میکند",
+    "group": "نامشخص",
+    "product": "جا عینکی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی گاوی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جا عینکی"
+        ]
+      }
+    ],
+    "random_key": "b132d7c3-d1b0-4cab-b828-ea55ea9971d4",
+    "image_url": "https://image.torob.com/base/images/rw/kA/rwkAZi0dG6Q7-6mB.jpg"
+  },
+  {
+    "title": "کیف عینک چرمی پلنگی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "46a435fe-ce51-4785-8051-123d11b5dd1d",
+    "image_url": "https://image.torob.com/base/images/e8/9O/e89Ok9K-F0zSFEkw.jpg"
+  },
+  {
+    "title": "قاب عینک آفتابی کد 5 - پارچه ای مخملی /",
+    "group": "نامشخص",
+    "product": "قاب عینک آفتابی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای",
+          "مخملی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "78f4d0e4-76a8-458e-9d54-7ffbd488406a",
+    "image_url": "https://image.torob.com/base/images/-P/o0/-Po0MgOsmklIWoXE.jpg"
+  },
+  {
+    "title": "کیف عینک، قاب عینک چرم طبیعی(مشکی) با دکمه مغناطیسی مخفی، دست دوز ورنی چرم",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی",
+          "چرم ورنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مغناطیسی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک",
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "c7a25e74-e746-4979-8b9e-78e2649fe73b",
+    "image_url": "https://image.torob.com/base/images/Vt/06/Vt06Orr4JO3rCS5f.jpg"
+  },
+  {
+    "title": "کیف عینک جیمی چو JIMMY CHOO مگنتی، مستطیلی و کرمی رنگ مدل 992496",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جیمی چو JIMMY CHOO"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "4009c97b-5a41-4684-b636-f3f15d45beef",
+    "image_url": "https://image.torob.com/base/images/n1/tW/n1tWNpdQ0ewrAcsR.jpg"
+  },
+  {
+    "title": "جلد زیپی عینک طرح دار",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "21856398-7565-48e8-8890-05dd1c71464f",
+    "image_url": "https://image.torob.com/base/images/8q/m6/8qm606UhlfLqRguK.jpg"
+  },
+  {
+    "title": "قاب برای عینک آفتابی و طبی با درب لولای فنری و رنگ قهوه ای بزرگ مدل 991617",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب برای عینک آفتابی",
+          "قاب برای عینک طبی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "درب لولای فنری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "بزرگ"
+        ]
+      }
+    ],
+    "random_key": "509d1a1c-602b-4250-b7f0-f69e31d6d304",
+    "image_url": "https://image.torob.com/base/images/fi/wV/fiwVztgEGcbBby_d.jpg"
+  },
+  {
+    "title": "کیف عینک بچه‌گانه طرح کفش، صورتی رنگ، از جنس فوم، زیپ دار و زیپ صورتی مدل 992646",
+    "group": "بچه‌گانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح کفش"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فوم"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "248436cf-0531-43b9-bfa3-cf82cabfd9fd",
+    "image_url": "https://image.torob.com/base/images/Qe/PJ/QePJCnGKehNzdW9X.jpg"
+  },
+  {
+    "title": "کاور عینک ترمه طراحان ایده مدل کاشی گل و مرغ کد Trm515 به همراه دستمال",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ترمه طراحان ایده"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کاشی",
+          "گل و مرغ"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "همراه با دستمال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      }
+    ],
+    "random_key": "15e5c49a-07bd-4919-9909-da661aae9a07",
+    "image_url": "https://image.torob.com/base/images/ZC/Dn/ZCDn9WRBiLM9Y-7v.jpg"
+  },
+  {
+    "title": "قاب عینک طرح توپ فوتبال",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "توپ فوتبال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "627d55fc-0b8c-47a8-8478-0d450ffb1eb7",
+    "image_url": "https://image.torob.com/base/images/nu/Zl/nuZlnzTfR61A91t1.jpg"
+  },
+  {
+    "title": "کیف عینک چرمی فانتزی بابونه",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بابونه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "047506de-4fd0-4326-b4ff-186d27f5d527",
+    "image_url": "https://image.torob.com/base/images/Af/a1/Afa1F7q2B25bL_oV.jpg"
+  },
+  {
+    "title": "قاب عینک طرح هارد کیس، از جنس مخملی، بیضی شکل، چند رنگ و درب لولا فنری مدل 992877",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "هارد کیس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخملی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "لولا فنری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "12554f87-0971-4979-8597-34fcd64124af",
+    "image_url": "https://image.torob.com/base/images/5M/1_/5M1_DTyzVk_nM8YS.jpg"
+  },
+  {
+    "title": "کیف چرمی عینک آفتابی",
+    "group": "نامشخص",
+    "product": "کیف عینک آفتابی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "f74ad894-85c0-4de7-b22b-12d931834b98",
+    "image_url": "https://image.torob.com/base/images/mI/7g/mI7g0t_O6dhbEzu9.jpg"
+  },
+  {
+    "title": "قاب عینک چرمی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "daa8ac1e-ecae-42b3-9158-f3c449aad706",
+    "image_url": "https://image.torob.com/base/images/0L/p3/0Lp3YA71t9pAToY0.jpg"
+  },
+  {
+    "title": "جلد عینک چرمی",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "dba54d05-4ff5-44bc-94f7-27287396384c",
+    "image_url": "https://image.torob.com/base/images/qJ/UL/qJULEFkUqu3T-Hpq.jpg"
+  },
+  {
+    "title": "کیف عینک بچگانه",
+    "group": "بچگانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "7a235a01-e9f2-46cc-a12e-2cd58228071b",
+    "image_url": "https://image.torob.com/base/images/a6/6p/a66plKoBOqGNK3r0.jpg"
+  },
+  {
+    "title": "کیف عینک مدل Ka 23",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "28460fbf-24d7-4780-868e-03c3e6e183ce",
+    "image_url": "https://image.torob.com/base/images/-s/N9/-sN9vNYyNaEacLDX.jpg"
+  },
+  {
+    "title": "قاب عینک چرمی سهند",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سهند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "5fe9efe0-3cef-40d9-b811-5a060047a7fc",
+    "image_url": "https://image.torob.com/base/images/2X/l3/2Xl3X5sJSpDk9LQN.webp"
+  },
+  {
+    "title": "جاعینکی ساده",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "09486df0-f5ae-4d69-bc92-25f20570a5c2",
+    "image_url": "https://image.torob.com/base/images/hJ/zV/hJzVEsz-blHDovVY.jpg"
+  },
+  {
+    "title": "کیف نگهدارنده جعبه عینک آفتابی LEDO به رنگ مشکی با 6 شکاف برای عینک آفتابی مشکی و گیلاسی - ارسال 20 روز کاری",
+    "group": "نامشخص",
+    "product": "کیف نگهدارنده جعبه عینک آفتابی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "LED"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LEDO"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "گیلاسی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "6 شکاف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف نگهدارنده جعبه عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "35e64a40-9fb7-4a33-99bc-cdf1e847282d",
+    "image_url": "https://image.torob.com/base/images/sJ/XR/sJXRWI_6MytxOVdI.jpg"
+  },
+  {
+    "title": "کیف عینک و موبایل و لوازم آرایش",
+    "group": "نامشخص",
+    "product": "کیف عینک و موبایل و لوازم آرایش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک و موبایل و لوازم آرایش"
+        ]
+      }
+    ],
+    "random_key": "0b558d2d-9c9e-42a0-a4e9-ddfc939749ae",
+    "image_url": "https://image.torob.com/base/images/jB/fn/jBfnSzfwo3EjT5td.jpg"
+  },
+  {
+    "title": "کیف عینک کلاسیک امریکن اپتیکال AO با رنگ مشکی، جنس چرمی و کمری مدل 992789",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "کلاسیک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "امریکن اپتیکال AO"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "کمری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "ed67d53d-a787-4b91-be29-ea826ae6a0f2",
+    "image_url": "https://image.torob.com/base/images/mV/jH/mVjHentc3J16B3dd.jpg"
+  },
+  {
+    "title": "جعبه ساعت و عینک کشودار",
+    "group": "نامشخص",
+    "product": "جعبه ساعت و عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه ساعت و عینک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشو دار"
+        ]
+      }
+    ],
+    "random_key": "e162f583-9c5b-4644-897a-de83a63c82cc",
+    "image_url": "https://image.torob.com/base/images/0a/Nm/0aNmfraR3GdiH04u.jpg"
+  },
+  {
+    "title": "قاب عینک دوچرخه سواری سوییس آی کوچک",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سوییس آی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "کوچک"
+        ]
+      }
+    ],
+    "random_key": "469c1cb8-2bca-4b85-9ffe-49fb4a6d26f0",
+    "image_url": "https://image.torob.com/base/images/9r/S2/9rS2_bWmxQzuE7tP.jpg"
+  },
+  {
+    "title": "جعبه چوبی عینک با درب شیشه ای مدل فانوس",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چوبی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "با درب شیشه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فانوس"
+        ]
+      }
+    ],
+    "random_key": "490d8ec3-aff0-431e-9300-2f6070605273",
+    "image_url": "https://image.torob.com/base/images/mS/cC/mScCnT9fKE9jRI0D.jpg"
+  },
+  {
+    "title": "جلد عینک چرمی متوسط - مدل یک",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "0d26e9d2-3b52-4dca-b431-c0caeb1e3de8",
+    "image_url": "https://image.torob.com/base/images/xq/ef/xqefI77iuL-DbqZU.jpg"
+  },
+  {
+    "title": "قاب عینک طرح پرادا",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پرادا"
+        ]
+      }
+    ],
+    "random_key": "3f52a86d-dd00-442e-b132-ffb40345e0b1",
+    "image_url": "https://image.torob.com/base/images/nS/p5/nSp5EESslUBvR41c.webp"
+  },
+  {
+    "title": "چرم طبیعی دست دوزدیبا قاب عینک(کد267)",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دیبا"
+        ]
+      }
+    ],
+    "random_key": "161f82b6-f0cd-4b4c-8f4a-37677354ed9f",
+    "image_url": "https://image.torob.com/base/images/Hq/95/Hq95oIkoB6b-HyB4.jpg"
+  },
+  {
+    "title": "جاعینکی گلدوزی شده با دست",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "گلدوزی شده با دست"
+        ]
+      }
+    ],
+    "random_key": "3c8fa14e-bdbe-40df-b54c-4b227526e5e0",
+    "image_url": "https://image.torob.com/base/images/KH/Zz/KHZzaSP5lzqlYjBV.jpg"
+  },
+  {
+    "title": "جلد عینک",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "97b2db3e-ec95-45ae-8cb9-4e07348b2ad2",
+    "image_url": "https://image.torob.com/base/images/1f/TZ/1fTZKmRpj71l46yW.jpg"
+  },
+  {
+    "title": "کیف عینک گردنی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "گردنی"
+        ]
+      }
+    ],
+    "random_key": "e728fd83-36fc-4e43-8c3a-9ea5879eab68",
+    "image_url": "https://image.torob.com/base/images/U_/px/U_pxT9L3jWjZOpAN.jpg"
+  },
+  {
+    "title": "کیف عینک مدل Ka 23",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "68bfa287-a821-4d2c-8df5-2da0362fe644",
+    "image_url": "https://image.torob.com/base/images/8W/v9/8Wv92IN8bKwWXOXA.jpg"
+  },
+  {
+    "title": "جعبه عینک مثلی تاشو کد GT903",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مثلثی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "406c54c9-faeb-4c31-ba4a-820ff8138f6a",
+    "image_url": "https://image.torob.com/base/images/8s/JX/8sJXJ-QPVj9XHYlX.jpg"
+  },
+  {
+    "title": "کیف عینک چرم مصنوعی طرح برگ",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "برگ"
+        ]
+      }
+    ],
+    "random_key": "b81ad39e-71c2-4819-a60a-b7bcaa612b20",
+    "image_url": "https://image.torob.com/base/images/ua/GX/uaGXY67KkLUJgz35.jpg"
+  },
+  {
+    "title": "کیف عینک آفتابی مستطیلی شکل مشکی رنگ و ساده از جنس پارچه مدل 991679",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک آفتابی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه"
+        ]
+      }
+    ],
+    "random_key": "fbb073b5-a264-41fa-8379-8746312eba13",
+    "image_url": "https://image.torob.com/base/images/ch/lN/chlNf5VH2eN1ufR5.jpg"
+  },
+  {
+    "title": "کاور عینک مدل کورومی و ملودی کد 04",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کورومی و ملودی"
+        ]
+      }
+    ],
+    "random_key": "11380e82-0b15-45dd-8eb4-fd83e789e913",
+    "image_url": "https://image.torob.com/base/images/UY/Mq/UYMqfzwk90_HqoHU.jpg"
+  },
+  {
+    "title": "کیف عینک برند امریکن اپتیک مگنتی، مستطیلی و مشکی رنگ مدل 991641",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "امریکن اپتیک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "1b6a06ff-1e18-48b7-b692-627b6d873bcd",
+    "image_url": "https://image.torob.com/base/images/2u/D_/2uD_jwmiAyeZNe5u.jpg"
+  },
+  {
+    "title": "کیف و کاور عینک",
+    "group": "نامشخص",
+    "product": "کیف و کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف و کاور عینک"
+        ]
+      }
+    ],
+    "random_key": "4a569301-28d1-496b-b094-c64b8fe17374",
+    "image_url": "https://image.torob.com/base/images/fn/5f/fn5fsKLxGoL5Uuit.jpg"
+  },
+  {
+    "title": "جاعینکی در ابعاد 16در9 جنس مخمل کد JE07",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      }
+    ],
+    "random_key": "2bd5af6f-649b-41dd-a010-fe0e25b9c7ec",
+    "image_url": "https://image.torob.com/base/images/9r/Wf/9rWfGTPIGTNIDaA2.jpg"
+  },
+  {
+    "title": "کیف عینک مک کویین اوریفلیم",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مک کویین",
+          "اوریفلیم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "7d2f4fd3-5ef1-4514-96c6-1875cc9f7bec",
+    "image_url": "https://image.torob.com/base/images/XO/9u/XO9uuQcqZ0HLh37n.jpeg"
+  },
+  {
+    "title": "قاب عینک چرمی کش دار سایز متوسط",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کش دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "fd378d4e-1d73-4b3f-948b-c8e51910dd5a",
+    "image_url": "https://image.torob.com/base/images/U9/DN/U9DNlp_nh9laG7Tf.jpg"
+  },
+  {
+    "title": "کاور عینک رنس مدل X1-10041",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رنس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      }
+    ],
+    "random_key": "330bd166-300a-4f70-8681-7ecaeb1810c3",
+    "image_url": "https://image.torob.com/base/images/ek/_J/ek_JoMLMz3JCZYbD.jpg"
+  },
+  {
+    "title": "قاب عینک هارد طرح بستنی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "بستنی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "هارد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "36951b58-e383-4aeb-8560-3c6bee05307f",
+    "image_url": "https://image.torob.com/base/images/e5/P9/e5P9vckCvmwPM2_x.jpg"
+  },
+  {
+    "title": "جلد عینک مگنتی مشکی در برند های مختلف",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "4f7eb011-3145-46ab-a2df-5f2659475e61",
+    "image_url": "https://image.torob.com/base/images/7E/Fw/7EFwI9hr-GtM2lYu.webp"
+  },
+  {
+    "title": "هاردکیس عینک رنگ سبز",
+    "group": "نامشخص",
+    "product": "هاردکیس عینک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "هاردکیس عینک"
+        ]
+      }
+    ],
+    "random_key": "44e85dc0-5f47-4900-b2fa-1b1294422fbc",
+    "image_url": "https://image.torob.com/base/images/UA/O1/UAO1xe9p86boa8Xn.jpg"
+  },
+  {
+    "title": "کیف عینک گل قابدار صورتی با چرم مصنوعی فانتزی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "85cfa41c-22b8-4539-b0ac-2db68f5f1672",
+    "image_url": "https://image.torob.com/base/images/-z/Qi/-zQiIRg_e9bT_Kda.jpg"
+  },
+  {
+    "title": "قاب عینک چرمی کد 06",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "541c22c9-e180-48e1-b6fa-63369b074c2e",
+    "image_url": "https://image.torob.com/base/images/-c/MM/-cMMHnpw5rfaihul.jpg"
+  },
+  {
+    "title": "قاب عینک (کیف عینک) چرم فانتزی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "4f25ef95-ad9c-49e7-adc5-583a06078144",
+    "image_url": "https://image.torob.com/base/images/9w/5Z/9w5Zpkx3-0ovf0H8.jpg"
+  },
+  {
+    "title": "جاعینکی 1",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "d0156327-0431-435d-9571-7e352e6c1fa7",
+    "image_url": "https://image.torob.com/base/images/H_/g_/H_g__pq5ipMZmyc2.jpg"
+  },
+  {
+    "title": "قاب عینک مدل کلاسیک m-200 کد2244",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "کلاسیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "b642fab5-5b1d-4cc5-9b28-600c9f951405",
+    "image_url": "https://image.torob.com/base/images/Wy/HT/WyHTxZX8sei_h9o_.webp"
+  },
+  {
+    "title": "باکس و جعبه 12 تایی عینک آفتابی با رنگ مشکی، جنس چرم و درب مگنتی (فایل) مدل 992824",
+    "group": "نامشخص",
+    "product": "باکس 12 تایی عینک آفتابی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باکس و جعبه 12 تایی عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "59ee214a-7a20-4d6d-95b3-ef0ee8e88c07",
+    "image_url": "https://image.torob.com/base/images/JC/dj/JCdj7ywzfpxPutoG.jpg"
+  },
+  {
+    "title": "کیف عینک دیوید بکهام David Beckham Glasses Case K01",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دیوید بکهام",
+          "David Beckham"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "4b59eb79-1bb5-4554-ad8a-75b209c6a767",
+    "image_url": "https://image.torob.com/base/images/2z/lC/2zlCADQV51Plya-0.webp"
+  },
+  {
+    "title": "قاب عینک مدل هارد باکس",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "هارد باکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "6470ab3e-35fb-4ea5-bce1-8043160d1056",
+    "image_url": "https://image.torob.com/base/images/V-/up/V-upIvBQf9VIKG6s.jpg"
+  },
+  {
+    "title": "جاعینکی خودرو گیره ای Racing",
+    "group": "نامشخص",
+    "product": "جاعینکی خودرو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی خودرو گیره ای"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "گیره ای"
+        ]
+      }
+    ],
+    "random_key": "2cb85ba0-e812-4820-9a40-8e1c689ec93b",
+    "image_url": "https://image.torob.com/base/images/PZ/Nz/PZNzuDB-FaE1v9tz.jpg"
+  },
+  {
+    "title": "ست کیف عینک و جاکارتی",
+    "group": "نامشخص",
+    "product": "ست کیف عینک و جاکارتی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست کیف عینک و جاکارتی"
+        ]
+      }
+    ],
+    "random_key": "b0af4e00-801e-4470-ad07-71ae64969f66",
+    "image_url": "https://image.torob.com/base/images/Lv/Tb/LvTbPv2bzG5ZR2TE.jpg"
+  },
+  {
+    "title": "قاب عینک زیپی صدفی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "صدفی"
+        ]
+      }
+    ],
+    "random_key": "2e6ad308-9765-4e1b-9403-be3c8d49c714",
+    "image_url": "https://image.torob.com/base/images/Ma/g4/Mag4JH9XvcbDAD_A.jpg"
+  },
+  {
+    "title": "کیف عینک ورساچه Versace مگنتی، مستطیلی و سفید رنگ مدل 992488",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ورساچه",
+          "Versace"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "0e1875e5-6e31-48cf-b2eb-fc38646374cf",
+    "image_url": "https://image.torob.com/base/images/sH/t-/sHt-BfRsqcheNpL8.jpg"
+  },
+  {
+    "title": "کیف عینک مگنتی برند Ray-Ban رنگ قهوه ای تیره مدل 992369",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مغناتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Ray-Ban"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای تیره"
+        ]
+      }
+    ],
+    "random_key": "a1e5c823-64c1-4f8f-b7c5-644da06e4f8b",
+    "image_url": "https://image.torob.com/base/images/wc/t4/wct4pIiqbPpII9B9.jpg"
+  },
+  {
+    "title": "قاب عینک موسکات Moscot مستطیلی شکل، مشکی رنگ و مگنتی مدل 992738",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "موسکات",
+          "Moscot"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      }
+    ],
+    "random_key": "517187dc-568a-46d3-86d5-f07feca7bd1a",
+    "image_url": "https://image.torob.com/base/images/Ct/FV/CtFVrgD_cb-hkEWV.jpg"
+  },
+  {
+    "title": "قاب عینک فانتزی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      }
+    ],
+    "random_key": "1ec734ee-1869-4dc9-bfa6-352fcd3c310b",
+    "image_url": "https://image.torob.com/base/images/G8/fO/G8fO7ysMWwH0VjKD.jpg"
+  },
+  {
+    "title": "کیف سلین",
+    "group": "نامشخص",
+    "product": "کیف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سلین"
+        ]
+      }
+    ],
+    "random_key": "b5dcce08-78f1-4651-9cb9-0e62c41b441d",
+    "image_url": "https://image.torob.com/base/images/da/9i/da9iznKymJfD3jxU.webp"
+  },
+  {
+    "title": "کیف عینک پارچه ای مرال",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مرال"
+        ]
+      }
+    ],
+    "random_key": "71bcd8b5-4680-40a2-8b3e-8adaafa66a86",
+    "image_url": "https://image.torob.com/base/images/7b/h5/7bh5sWIllKktKZzY.jpg"
+  },
+  {
+    "title": "مجسمه جاعینکی کاکاسنگی جا هولدرعینک موآ جای عینک نگهدارنده عینک فروشی",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی",
+          "جا هولدرعینک",
+          "نگهدارنده عینک"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "مجسمه",
+          "کاکاسنگی"
+        ]
+      }
+    ],
+    "random_key": "1101e353-cfe1-471f-8b22-b8634bf78fc8",
+    "image_url": "https://image.torob.com/base/images/1G/dx/1GdxkWvxcx0d6H2I.jpg"
+  },
+  {
+    "title": "سه عدد قاب عینک فلزی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلزی"
+        ]
+      }
+    ],
+    "random_key": "1a94361b-c84c-487c-b431-91d02945a127",
+    "image_url": "https://image.torob.com/base/images/3d/h5/3dh5reSFD3eEOdjK.jpg"
+  },
+  {
+    "title": "قاب عینک آفتابی برند Bulgari",
+    "group": "نامشخص",
+    "product": "قاب عینک آفتابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک آفتابی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Bulgari"
+        ]
+      }
+    ],
+    "random_key": "015eca33-fc54-440e-8060-15b577a2c4b6",
+    "image_url": "https://image.torob.com/base/images/LM/fl/LMflXCLvRai2Cn0_.jpg"
+  },
+  {
+    "title": "قاب عینک طبی مگنتی با رنگ آبی و جنس پارچه ای مدل 991573",
+    "group": "نامشخص",
+    "product": "قاب عینک طبی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک طبی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "b47856d8-abb0-4483-b0d0-7e333f3169d0",
+    "image_url": "https://image.torob.com/base/images/z5/LM/z5LM-vFtw5rMtHry.jpg"
+  },
+  {
+    "title": "جاعینکی چرمی دست دوز کد 6.2",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      }
+    ],
+    "random_key": "37a2b98f-e0d4-41a4-9594-177c0705c001",
+    "image_url": "https://image.torob.com/base/images/AX/R8/AXR8evK7ypa541Yg.jpg"
+  },
+  {
+    "title": "قاب و کیف عینک طرح کتابی، مثلثی و تاشو، با رنگ مشکی و برند POLICE مدل 992968",
+    "group": "نامشخص",
+    "product": "قاب و کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کتابی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مثلثی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "POLICE"
+        ]
+      }
+    ],
+    "random_key": "62f49b3b-e6e3-4780-9a2e-ebf50748a040",
+    "image_url": "https://image.torob.com/base/images/ke/y2/key29ftdRv87fq6p.jpg"
+  },
+  {
+    "title": "جاعینکی طلقی فانتزی - در چند طرح و رنگ موجود می باشد",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "طلقی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      }
+    ],
+    "random_key": "7db5eaff-583d-4cde-8132-46e9d2e1af7b",
+    "image_url": "https://image.torob.com/base/images/bJ/x4/bJx4-FGi5HcdmKFo.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طبیعی (هارد کیس)",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "هارد کیس"
+        ]
+      }
+    ],
+    "random_key": "82678149-bcc4-4a7e-8ebd-352a5d85244a",
+    "image_url": "https://image.torob.com/base/images/Kq/sE/KqsE18ew1CXXLT0S.jpg"
+  },
+  {
+    "title": "کیف عینک پارچه ای آروشا",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آروشا"
+        ]
+      }
+    ],
+    "random_key": "4e015b9a-91c8-4d61-8870-eb3f4ded7b16",
+    "image_url": "https://image.torob.com/base/images/am/5l/am5lrbKW2SXYMZyr.jpg"
+  },
+  {
+    "title": "قاب عینک، جعبه عینک چوبی، طرح وال",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چوبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "وال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "جعبه عینک"
+        ]
+      }
+    ],
+    "random_key": "7d863506-72f1-4e73-b25c-9e1765c74667",
+    "image_url": "https://image.torob.com/base/images/CS/jw/CSjwwXHbAJy8v76F.jpg"
+  },
+  {
+    "title": "کیف عینک چرمی _ کد 450 - کد",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "f2e5961a-0ff5-44b0-af2c-5a134f46dbcc",
+    "image_url": "https://image.torob.com/base/images/aq/CI/aqCIdFizvFe1UEJi.jpg"
+  },
+  {
+    "title": "جعبه هدیه عینک مارک پلیس مناسب کادوی شیک (رنگ مشکی)",
+    "group": "نامشخص",
+    "product": "جعبه هدیه عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پلیس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "مناسب کادو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه هدیه عینک"
+        ]
+      }
+    ],
+    "random_key": "c67b4c47-d67d-4b5a-b1e9-726c1a315cb0",
+    "image_url": "https://image.torob.com/base/images/oQ/u3/oQu3ihGP8_ymIaz5.jpg"
+  },
+  {
+    "title": "قاب یا کیف یا جلد عینک سه عدد ( کد 16 )",
+    "group": "نامشخص",
+    "product": "قاب و کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "کیف عینک",
+          "جلد عینک"
+        ]
+      }
+    ],
+    "random_key": "53fcd29e-e4fa-4d74-827e-30705854df55",
+    "image_url": "https://image.torob.com/base/images/mu/kX/mukXRVrDqOJKRgqC.jpg"
+  },
+  {
+    "title": "مقوای برش خورده قاب عینک",
+    "group": "نامشخص",
+    "product": "مقوا برش خورده",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مقوای برش خورده قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "1bb36a81-64c0-4247-bafe-9474e5e0a013",
+    "image_url": "https://image.torob.com/base/images/A5/HJ/A5HJwi3RffBUJH6p.jpg"
+  },
+  {
+    "title": "جا عینکی گردنی",
+    "group": "نامشخص",
+    "product": "جا عینکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جا عینکی گردنی"
+        ]
+      }
+    ],
+    "random_key": "140cdb5b-d05e-4c64-8ebc-45314ea7fc9f",
+    "image_url": "https://image.torob.com/base/images/Fu/e5/Fue5KCPDfmNubRTs.jpg"
+  },
+  {
+    "title": "قاب عینک تهیه شده از چرم طبیعی کاملا دست دوز با استردوزی",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز",
+          "با استردوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "bd068af1-1886-4324-b5ac-93a585cc88f6",
+    "image_url": "https://image.torob.com/base/images/qz/zQ/qzzQakuErnNOIUOY.jpg"
+  },
+  {
+    "title": "جعبه ی عینک اورجینال سالواتوره فراگامو",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سالواتوره فراگامو"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه ی عینک"
+        ]
+      }
+    ],
+    "random_key": "56230e3b-1a21-4d5b-baba-5a97f74d9521",
+    "image_url": "https://image.torob.com/base/images/BT/PD/BTPDX1LZn5SQ9cO6.jpg"
+  },
+  {
+    "title": "کیس عینک Police Hard",
+    "group": "نامشخص",
+    "product": "کیس عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Police"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "Hard"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیس عینک"
+        ]
+      }
+    ],
+    "random_key": "fb750105-7bdb-4ba4-9953-fb32d30dc801",
+    "image_url": "https://image.torob.com/base/images/pO/hM/pOhMeLIyw2pxuKV1.webp"
+  },
+  {
+    "title": "قاب عینک آفتابی برند Bulgari",
+    "group": "نامشخص",
+    "product": "قاب عینک آفتابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Bulgari"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "22bb45bb-d19b-44cb-9ce9-3fbe5d612520",
+    "image_url": "https://image.torob.com/base/images/zW/wy/zWwy-3zPxkaetrVy.jpg"
+  },
+  {
+    "title": "کیف عینک مدرن - چرم طبیعی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مدرن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "62cfc8eb-71ed-493d-aadd-c9be2b869d1d",
+    "image_url": "https://image.torob.com/base/images/td/Tf/tdTfPVR3f4WLrxhT.jpg"
+  },
+  {
+    "title": "قاب عینک مدل 124",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "113495b0-b46c-4dcd-8383-2b1c9ba49951",
+    "image_url": "https://image.torob.com/base/images/QB/h7/QBh7HCDfOCWoDWV9.jpg"
+  },
+  {
+    "title": "قاب عینک هارد مدل G-0006",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک هارد"
+        ]
+      }
+    ],
+    "random_key": "be60ce33-9687-4414-b924-c82564a3e0de",
+    "image_url": "https://image.torob.com/base/images/iD/2n/iD2nlIWq5oe2PGwx.jpg"
+  },
+  {
+    "title": "جا عینکی ،طرح سنتی",
+    "group": "نامشخص",
+    "product": "جا عینکی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "سنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جا عینکی"
+        ]
+      }
+    ],
+    "random_key": "a137f474-a633-42fd-83f4-0b4f01372a28",
+    "image_url": "https://image.torob.com/base/images/8S/AS/8SAS_7wWmc0G6ZFc.jpg"
+  },
+  {
+    "title": "هارد با روکش چرم ورنی",
+    "group": "نامشخص",
+    "product": "هارد",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم ورنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "هارد با روکش"
+        ]
+      }
+    ],
+    "random_key": "cb9df298-82fa-4287-8b24-44349d074cfd",
+    "image_url": "https://image.torob.com/base/images/FH/hS/FHhSAS0sscSXMDnw.jpg"
+  },
+  {
+    "title": "جاعینکی ترند پینترست تزئینی دکوری فانتزی خاص خمیری مجسمه هنری کاردستی",
+    "group": "نامشخص",
+    "product": "جاعینکی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پینترست",
+          "تزئینی",
+          "دکوری",
+          "فانتزی",
+          "خاص",
+          "خمیری",
+          "مجسمه",
+          "هنری",
+          "کاردستی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینکی"
+        ]
+      }
+    ],
+    "random_key": "0ec45079-4add-412d-9de5-7a6c9d09066a",
+    "image_url": "https://image.torob.com/base/images/Tz/p6/Tzp6eE89EJTlvOAM.jpg"
+  },
+  {
+    "title": "جای عینک طرح اختاپوس بارنگ دلخواه",
+    "group": "نامشخص",
+    "product": "جای عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح اختاپوس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دلخواه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جای عینک"
+        ]
+      }
+    ],
+    "random_key": "86c52bbb-20f3-4dd9-9e71-4f3a6ccd058e",
+    "image_url": "https://image.torob.com/base/images/y6/Cf/y6Cf8ssid5g1S-_d.jpg"
+  },
+  {
+    "title": "قاب عینک قیطان دوزی - نخودی ( نخودی زبرا)",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخودی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک قیطان دوزی"
+        ]
+      }
+    ],
+    "random_key": "161d46e2-7ad2-4d02-8cb8-726594b9ea35",
+    "image_url": "https://image.torob.com/base/images/YX/oR/YXoRVTmYVFd0Tq6M.webp"
+  },
+  {
+    "title": "کیف عینک سه بعدی چرم مصنوعی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "سه بعدی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "3536bb5c-59e8-4f74-87c4-8ddfd1217c9b",
+    "image_url": "https://image.torob.com/base/images/EA/0V/EA0Vx98WXBguATbx.jpg"
+  },
+  {
+    "title": "جعبه عینک مدل مستطیلی مخمل",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      }
+    ],
+    "random_key": "947f51c1-8087-4c35-a2ca-6110fa93a6ef",
+    "image_url": "https://image.torob.com/base/images/FX/pZ/FXpZoyOr6H8E2kvC.jpg"
+  },
+  {
+    "title": "جعبه عینک کد 01 (پس کرایه)",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      }
+    ],
+    "random_key": "d19431db-0880-4caf-afb0-09367aa4a216",
+    "image_url": "https://image.torob.com/base/images/pG/wO/pGwOCNnHs7NnzWnA.jpg"
+  },
+  {
+    "title": "کیف عینک دراگون با چرم مصنوعی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "دراگون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "044e19c4-2078-478c-9f03-487533d3d145",
+    "image_url": "https://image.torob.com/base/images/n8/DL/n8DLR3Pgs7l8ybMi.jpg"
+  },
+  {
+    "title": "جعبه عینک چوبی یا جعبه قلم",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چوبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک",
+          "جعبه قلم"
+        ]
+      }
+    ],
+    "random_key": "7c614e94-a1bf-4de7-b7ff-021ff3210f14",
+    "image_url": "https://image.torob.com/base/images/as/Vg/asVg18cLuIhFhCap.jpg"
+  },
+  {
+    "title": "کیف عینک چرم مصنوعی طرحدار",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "70a1c915-6ab6-45b0-9bc1-0dd4b945a487",
+    "image_url": "https://image.torob.com/base/images/ES/ZG/ESZG-X4UxPGdIAXK.jpg"
+  },
+  {
+    "title": "جاعینک کیف عینک تاشو",
+    "group": "نامشخص",
+    "product": "جاعینک",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جاعینک",
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "119db424-b619-4b54-8ea5-73fbd6d31b2d",
+    "image_url": "https://image.torob.com/base/images/7v/i2/7vi2MV3YAhLqpZxc.jpg"
+  },
+  {
+    "title": "کاور عینک چرم یلسان مدل مدیس کد 116-SHT سرمه ای",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "یلسان"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      }
+    ],
+    "random_key": "f1021a27-baba-48f0-8495-432cef87e246",
+    "image_url": "https://image.torob.com/base/images/6s/6E/6s6EPYtKFMftHrxI.jpg"
+  },
+  {
+    "title": "قاب عینک آویز دار، ساده با رنگ صورتی برند اندی ماری مدل 992334",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اندی ماری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "آویز دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "3823ec0f-e99b-4c3d-b338-22e226280c50",
+    "image_url": "https://image.torob.com/base/images/dW/qh/dWqhFGKG3QspWszW.jpg"
+  },
+  {
+    "title": "كيف عينك-برگ كاج سبز",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "برگ کاج"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "1a3dc237-ab3d-4fca-a851-eaf0b2e7f6ad",
+    "image_url": "https://image.torob.com/base/images/lr/zq/lrzqcPeqxDJ0J8dM.jpg"
+  },
+  {
+    "title": "قاب عینک چرم کیف عینک",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک",
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "68bbac48-1159-4899-bc7c-2b3a9df476d3",
+    "image_url": "https://image.torob.com/base/images/Fk/hT/FkhT-HhGlWXsv5SD.jpg"
+  },
+  {
+    "title": "قاب عینک مشکی رنگ، زیپ دار و بند دار مدل 992065",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "بند دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      }
+    ],
+    "random_key": "891a3677-af3d-408f-a351-4086a653c441",
+    "image_url": "https://image.torob.com/base/images/Iu/g-/Iug-7PdV_5XzMLQK.jpg"
+  },
+  {
+    "title": "کیف عینک بچه‌گانه زیپ دار با طرح انیمیشن شرکت هیولاها Monsters, Inc. مدل 992685",
+    "group": "بچه‌گانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "انیمیشن شرکت هیولاها Monsters, Inc."
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "7d728df9-b2a7-49b7-9c55-38e6ca3fb3fd",
+    "image_url": "https://image.torob.com/base/images/CW/aA/CWaAcZiacePbqq17.jpg"
+  },
+  {
+    "title": "کیف عینک مطالعه",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک مطالعه"
+        ]
+      }
+    ],
+    "random_key": "a829f355-3913-4dd7-9aea-9b73ae03652f",
+    "image_url": "https://image.torob.com/base/images/sm/l5/sml5u0m1JBXN1jt6.jpg"
+  },
+  {
+    "title": "کیف عینک زنانه طرح گل",
+    "group": "زنانه",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل"
+        ]
+      }
+    ],
+    "random_key": "6a04de75-3f64-484e-aab1-2104b8d49ea0",
+    "image_url": "https://image.torob.com/base/images/Ul/Ee/UlEedIF78K8ZedGk.jpg"
+  },
+  {
+    "title": "کیف عینک برند میباخ Maybach مگنتی، مستطیلی و سرمه ای مدل 991803",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میباخ",
+          "Maybach"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "3cd887f2-6bb8-45ef-9318-5ad78b24e7ad",
+    "image_url": "https://image.torob.com/base/images/od/kf/odkfeobnqJUNQQt7.jpg"
+  },
+  {
+    "title": "بگ چارم عینک(آویز کیف عینک)",
+    "group": "نامشخص",
+    "product": "آویز کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "35bce39d-0e50-4c71-8e96-4a5b1b7c835f",
+    "image_url": "https://image.torob.com/base/images/o4/E4/o4E4kKPM-0Wd-1RF.jpg"
+  },
+  {
+    "title": "کیف عینک چرمی روباه و درخت با چرم مصنوعی فانتزی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "روباه و درخت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      }
+    ],
+    "random_key": "7ae182d9-10c8-4b5d-b994-c1025ac6ec10",
+    "image_url": "https://image.torob.com/base/images/C9/Ry/C9RyI1TlTKKJ4IWq.jpg"
+  },
+  {
+    "title": "جعبه ی عینک جیمی چو",
+    "group": "نامشخص",
+    "product": "جعبه عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جیمی چو"
+        ]
+      }
+    ],
+    "random_key": "2ef74f50-9bcf-4c90-a3d4-0044dd8869b9",
+    "image_url": "https://image.torob.com/base/images/_z/Cf/_zCfZmrntwDVXfPj.jpg"
+  },
+  {
+    "title": "جلد عینک اورجینال گوچی قهوه ای",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "گوچی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      }
+    ],
+    "random_key": "cb954431-795e-4b9c-9b93-3c14e50f80d1",
+    "image_url": "https://image.torob.com/base/images/Xw/2D/Xw2DoxbnyMnbS6e3.webp"
+  },
+  {
+    "title": "کاور عینک آفتابی مدل P-BCK202",
+    "group": "نامشخص",
+    "product": "کاور عینک آفتابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "2a9da23c-2fff-4fc0-822a-60b6087fa65d",
+    "image_url": "https://image.torob.com/base/images/t8/gD/t8gDKndMAfWYFHva.jpg"
+  },
+  {
+    "title": "کیف عینک چرم بارثاوا کد 1855t",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بارثاوا"
+        ]
+      }
+    ],
+    "random_key": "2a06f4b4-998f-4f7c-8d36-f44201b5ea42",
+    "image_url": "https://image.torob.com/base/images/3S/Jz/3SJzkWTVxu-2JY7i.jpg"
+  },
+  {
+    "title": "کیف عینک مدل GK007",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      }
+    ],
+    "random_key": "dfde8a89-dbbe-4416-8afd-c3539c47b9f3",
+    "image_url": "https://image.torob.com/base/images/IH/Ji/IHJiBLoUZq_VQJLg.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طبیعی دست دوز (هارد کیس )",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "هارد کیس"
+        ]
+      }
+    ],
+    "random_key": "eb88bbcb-d05e-4a16-a5cb-b3beaa201c3b",
+    "image_url": "https://image.torob.com/base/images/mV/_P/mV_PMAEulF0MY8QA.jpg"
+  },
+  {
+    "title": "جعبه نگهداری ساعت چرم 6 بیتی و 3 عینک آفتابی برند saike",
+    "group": "نامشخص",
+    "product": "جعبه نگهدارنده",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جعبه نگهداری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "saike"
+        ]
+      }
+    ],
+    "random_key": "86641bbc-7d5c-4e87-b5a1-60808d587666",
+    "image_url": "https://image.torob.com/base/images/9b/5C/9b5CzRxC2MEuIp4u.jpg"
+  },
+  {
+    "title": "قاب عینک ریبن Ray-Ban، سایز بزرگ، از جنس چوبی و قهوه ای رنگ مدل 992212",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریبن",
+          "Ray-Ban"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چوبی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      }
+    ],
+    "random_key": "f4973d0b-2d42-4680-8df2-59411e870055",
+    "image_url": "https://image.torob.com/base/images/nI/Y_/nIY_d8HGuwkuJd6F.jpg"
+  },
+  {
+    "title": "جلد عینک اورجینال چرمی تام فورد",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تام فورد"
+        ]
+      }
+    ],
+    "random_key": "ae70b5c4-1730-4211-b1a6-87e70ea2276d",
+    "image_url": "https://image.torob.com/base/images/Zo/ht/ZohtUCatd_CIZ7kp.jpg"
+  },
+  {
+    "title": "جلد عینک اورجینال دولچه گابانا",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دولچه گابانا"
+        ]
+      }
+    ],
+    "random_key": "1d312c10-4f34-4786-95bd-354ec2358fda",
+    "image_url": "https://image.torob.com/base/images/jT/k4/jTk4ELvyCqNiD3G-.jpg"
+  },
+  {
+    "title": "کاور عینک مگنتی",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      }
+    ],
+    "random_key": "55795812-b299-499b-a862-d2d2d78c3b40",
+    "image_url": "https://image.torob.com/base/images/NH/Bv/NHBvwcMLj3wuvHA2.jpg"
+  },
+  {
+    "title": "قاب عینک اسپرت Oakley",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Oakley"
+        ]
+      }
+    ],
+    "random_key": "89b0cc2f-1be8-4f75-a1b7-49bce06435c8",
+    "image_url": "https://image.torob.com/base/images/qP/gr/qPgrDl2gOgAb4mUp.jpg"
+  },
+  {
+    "title": "کیف عینک ذوزنقه ای با رنگ آبی و درب مگنتی مدل 991842",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "ذوزنقه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      }
+    ],
+    "random_key": "7f7637fd-54c6-49f2-b4bd-f799bc3826b5",
+    "image_url": "https://image.torob.com/base/images/yS/6V/yS6VJT7BF0NCAJNX.jpg"
+  },
+  {
+    "title": "قاب عینک طبی کتابی مثلثی با رنگ طوسی مدل 991701",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک طبی"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "کتابی",
+          "مثلثی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "c72de673-5ae0-4330-8034-2d63d4eedd23",
+    "image_url": "https://image.torob.com/base/images/On/zU/OnzU2vg6R7x5NU4O.jpg"
+  },
+  {
+    "title": "کیف صدفی دخترانه",
+    "group": "دخترانه",
+    "product": "کیف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف"
+        ]
+      },
+      {
+        "name": "فرم/شکل",
+        "values": [
+          "صدفی"
+        ]
+      }
+    ],
+    "random_key": "90866ea6-7c71-4eb5-a278-3c968316eb7c",
+    "image_url": "https://image.torob.com/base/images/rY/dp/rYdpcdtujSgYRySY.jpg"
+  },
+  {
+    "title": "جا عینک چرم طبیعی",
+    "group": "نامشخص",
+    "product": "جا عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جا عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      }
+    ],
+    "random_key": "16982fa2-c834-48f4-b465-e64a387350e5",
+    "image_url": "https://image.torob.com/base/images/Zr/ia/ZriazBGtRigEEwik.jpg"
+  },
+  {
+    "title": "کیف عینک فانتزی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      }
+    ],
+    "random_key": "d101c79a-c38b-44fb-9371-97846a2b8ce6",
+    "image_url": "https://image.torob.com/base/images/kl/gY/klgYMMpGJYGlSzWk.jpg"
+  },
+  {
+    "title": "کیف عینک زیپی میکی موس",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "میکی موس"
+        ]
+      }
+    ],
+    "random_key": "d1934b7b-057c-43cb-bd52-a82c899ae190",
+    "image_url": "https://image.torob.com/base/images/nx/3N/nx3N_f7zKcUVp3gl.jpg"
+  },
+  {
+    "title": "کیف عینک زیپی کارتونی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کارتونی"
+        ]
+      }
+    ],
+    "random_key": "bdeaa28c-c18f-48f6-9020-711a53489118",
+    "image_url": "https://image.torob.com/base/images/Rm/Am/RmAmUJei0-bDu0lC.jpg"
+  },
+  {
+    "title": "کیف عینک پاریس با رنگ قرمز، از جنس مخملی و زیپ دار مدل 992804",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاریس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخملی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      }
+    ],
+    "random_key": "5fe9feb8-5720-4c2e-a18f-6df2a6b2de35",
+    "image_url": "https://image.torob.com/base/images/Dx/uN/DxuNKPjFVLDhf7Li.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طبیعی دست دوز",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "دست دوز"
+        ]
+      }
+    ],
+    "random_key": "0647b5db-dfd1-4b4c-9614-aca1bc8d7085",
+    "image_url": "https://image.torob.com/base/images/Fv/UI/FvUIsmZ_W4vWrr2W.jpg"
+  },
+  {
+    "title": "کیف عینک جیر",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "جیر"
+        ]
+      }
+    ],
+    "random_key": "c14259be-4677-418e-8ac4-1ae3ade70211",
+    "image_url": "https://image.torob.com/base/images/HT/rT/HTrTG-PO3ck91KQf.jpg"
+  },
+  {
+    "title": "کیف عینک چرم گاو",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم گاو"
+        ]
+      }
+    ],
+    "random_key": "7cf4003c-8ead-4fce-b7f6-fae99b8b3027",
+    "image_url": "https://image.torob.com/base/images/KN/sv/KNsvW6tFyayYak-i.jpg"
+  },
+  {
+    "title": "کیف عینک چرمی گل رز صورتی خط دار چرم مصنوعی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی",
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل رز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "6fc68ad0-ce1c-4c38-8008-076f625a36dc",
+    "image_url": "https://image.torob.com/base/images/rt/xD/rtxDuAZEJjUF8oMp.jpg"
+  },
+  {
+    "title": "کاور عینک چرم آبی",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "2225bc1d-f74a-448d-8b6b-2e3020f70da5",
+    "image_url": "https://image.torob.com/base/images/dB/Iq/dBIqIRRFtjXACfYT.jpg"
+  },
+  {
+    "title": "کیف مجلسی چرم اصل",
+    "group": "نامشخص",
+    "product": "کیف مجلسی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم اصل"
+        ]
+      }
+    ],
+    "random_key": "2fe47925-c901-4c2a-88b2-eca4406c0eb3",
+    "image_url": "https://image.torob.com/base/images/KQ/ag/KQagwbgdk03_8-P6.jpg"
+  },
+  {
+    "title": "کاور عینک طرح شب از مهتاب میپرسه مدل Ms2281",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شب از مهتاب میپرسه"
+        ]
+      }
+    ],
+    "random_key": "cd60eb97-200c-4577-97ba-481621c50742",
+    "image_url": "https://image.torob.com/base/images/N8/iN/N8iNvoBWHJaHhnjG.jpg"
+  },
+  {
+    "title": "بگ دستی طرح عینک",
+    "group": "نامشخص",
+    "product": "بگ دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بگ دستی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "عینک"
+        ]
+      }
+    ],
+    "random_key": "f79b70f1-80ae-49a2-add5-95dd0ce943b6",
+    "image_url": "https://image.torob.com/base/images/bd/56/bd56hw7cIL1IdETk.webp"
+  },
+  {
+    "title": "کیف عینک زیپ دار مستطیلی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "فرم/شكل",
+        "values": [
+          "مستطیلی"
+        ]
+      }
+    ],
+    "random_key": "a9713380-f1f1-4f4a-9cc9-a5ee413ac86e",
+    "image_url": "https://image.torob.com/base/images/bS/KK/bSKKBjUKiDF_9HQz.jpg"
+  },
+  {
+    "title": "قاب عینک موسکات Moscot مستطیلی شکل، سرمه ای رنگ و مگنتی مدل 992739",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "موسکات",
+          "Moscot"
+        ]
+      },
+      {
+        "name": "فرم/شكل",
+        "values": [
+          "مستطیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      }
+    ],
+    "random_key": "643f191f-19d3-48d1-9973-1888e6662bbb",
+    "image_url": "https://image.torob.com/base/images/Dg/J0/DgJ0qVUysMgJLben.jpg"
+  },
+  {
+    "title": "جلد عینک آفتابی",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک آفتابی"
+        ]
+      }
+    ],
+    "random_key": "5a14996a-5e06-49de-b8d8-c92e401afb04",
+    "image_url": "https://image.torob.com/base/images/93/fR/93fRE4ykDHmW5fuH.jpg"
+  },
+  {
+    "title": "کاور عینک ترمه طراحان ایده مدل شهرنگ کد Trm505 به همراه دستمال",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ترمه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "طراحان ایده"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "همراه با دستمال"
+        ]
+      }
+    ],
+    "random_key": "84f4563d-4451-4780-bc8c-d070179dca36",
+    "image_url": "https://image.torob.com/base/images/5M/bI/5MbIfhxDyAjG7sSJ.jpg"
+  },
+  {
+    "title": "کیف عینک آفتابی پورش دیزاین",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک آفتابی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پورش دیزاین"
+        ]
+      }
+    ],
+    "random_key": "9b63ded6-c8b9-4b60-8e8d-ff8a8bc0807d",
+    "image_url": "https://image.torob.com/base/images/NF/z8/NFz8SmTgEfjex7IV.jpg"
+  },
+  {
+    "title": "کیف عینک نمدی طرح گلدوزی شده مدل H0022 | آبی |",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نمدی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی شده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "ff8cb20f-c710-4af1-a71d-c757b37755a5",
+    "image_url": "https://image.torob.com/base/images/GA/6G/GA6GPiub65a71Pln.jpg"
+  },
+  {
+    "title": "کیف عینک چرم طبیعی اندازه 18در7",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      }
+    ],
+    "random_key": "7269e48c-e2af-415a-8749-3a405acc3407",
+    "image_url": "https://image.torob.com/base/images/Qv/Qy/QvQyP-0u5EVvgwh2.jpg"
+  },
+  {
+    "title": "قاب عینک مگنتی مدل Police",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "مگنتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Police"
+        ]
+      }
+    ],
+    "random_key": "055ec0f1-494f-4221-8a41-b21c34a1f986",
+    "image_url": "https://image.torob.com/base/images/Bs/L6/BsL6E4bQecAcstrj.jpg"
+  },
+  {
+    "title": "کیف عینک کیسه ای طرح گربه کد KED25",
+    "group": "نامشخص",
+    "product": "کیف عینک کیسه ای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "فرم/شكل",
+        "values": [
+          "کیسه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گربه"
+        ]
+      }
+    ],
+    "random_key": "32411199-52f3-4b13-90de-444e73abe982",
+    "image_url": "https://image.torob.com/base/images/EL/J8/ELJ8x99yIGC8U2X1.jpg"
+  },
+  {
+    "title": "ست کیف عینک و سرکلیدی گل گلی زرد با چرم مصنوعی فانتزی",
+    "group": "نامشخص",
+    "product": "ست کیف عینک و سرکلیدی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل گلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      }
+    ],
+    "random_key": "19866aa3-2329-42d8-acf1-9243f7364225",
+    "image_url": "https://image.torob.com/base/images/vb/Xd/vbXdcSr799T8iEMz.jpg"
+  },
+  {
+    "title": "کیف عینک spy خارجی",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "spy"
+        ]
+      }
+    ],
+    "random_key": "6408f55a-27f6-4bd2-bfd9-655df71d9813",
+    "image_url": "https://image.torob.com/base/images/Wz/Cm/WzCmMmHR76ldOO9h.jpg"
+  },
+  {
+    "title": "عینک مردانه پورش ایتالیایی",
+    "group": "مردانه",
+    "product": "عینک مردانه",
+    "entities": [],
+    "random_key": "62adf546-e3d7-43cf-aec5-48b59bfcef10",
+    "image_url": "https://image.torob.com/base/images/AW/3C/AW3CKhG3K-NIRDr8.jpg"
+  },
+  {
+    "title": "قاب عینک با چرم طبیعی قابل اجرا در روگ های مختلف",
+    "group": "نامشخص",
+    "product": "قاب عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "قاب عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      }
+    ],
+    "random_key": "0ed68f75-9eaa-46b4-b56a-cac8b6be7842",
+    "image_url": "https://image.torob.com/base/images/kq/7k/kq7k7p6KzU7ViiTL.jpg"
+  },
+  {
+    "title": "جلد عینک طبی هارد",
+    "group": "نامشخص",
+    "product": "جلد عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلد عینک طبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "هارد"
+        ]
+      }
+    ],
+    "random_key": "b747d1bb-a1c9-4147-896e-a273a5296e8d",
+    "image_url": "https://image.torob.com/base/images/cm/KL/cmKLIRkiebNPlMr3.webp"
+  },
+  {
+    "title": "کاور عینک ترمه طراحان ایده مدل مهر عالم را کد Trm153 به همراه دستمال",
+    "group": "نامشخص",
+    "product": "کاور عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور عینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ترمه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "طراحان ایده"
+        ]
+      },
+      {
+        "name": "سایر ویژگی ها",
+        "values": [
+          "همراه با دستمال"
+        ]
+      }
+    ],
+    "random_key": "55eb094d-f3bb-48b3-b969-941fc3afd810",
+    "image_url": "https://image.torob.com/base/images/iz/hC/izhC_1foTpAW1kCc.jpg"
+  },
+  {
+    "title": "کیف عینک امپریو آرمانی Emporio Armani Glasses Case K01",
+    "group": "نامشخص",
+    "product": "کیف عینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیف عینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "امپریو آرمانی",
+          "Emporio Armani"
+        ]
+      }
+    ],
+    "random_key": "ac47b444-07e0-4eec-b150-a0814c4aee62",
+    "image_url": "https://image.torob.com/base/images/f8/Nb/f8NbJigMVK3RvvsB.jpg"
+  }
+]

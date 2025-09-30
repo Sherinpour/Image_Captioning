@@ -1,0 +1,6828 @@
+[
+  {
+    "title": "بافت دو تکه دخترانه شامل ژاکت کمربند دار یقه دار وشلوار مناسب دوماه تا نه ماه",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت دو تکه",
+          "ژاکت",
+          "شلوار"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمربند دار"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "مناسب دوماه تا نه ماه"
+        ]
+      }
+    ],
+    "random_key": "4f73d331-c650-41f3-96ab-ea7deb91fbe4",
+    "image_url": "https://image.torob.com/base/images/6q/6E/6q6E33o6k_hJcJmY.jpg"
+  },
+  {
+    "title": "بافت گپ دخترانه کد 1760073",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت گپ"
+        ]
+      }
+    ],
+    "random_key": "696574d8-a55f-48a7-a935-df82656bc3b3",
+    "image_url": "https://image.torob.com/base/images/_U/gQ/_UgQ4rgmHKPTTUJ6.jpg"
+  },
+  {
+    "title": "پلیور دخترانه پیپرتس مدل TGP-p2",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پیپرتس"
+        ]
+      }
+    ],
+    "random_key": "530a560d-79c0-42eb-94d7-3974945842e6",
+    "image_url": "https://image.torob.com/base/images/oA/gh/oAghkwFzezkfJIfk.jpg"
+  },
+  {
+    "title": "بافت سرمه ای دخترانه KIABI",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KIABI"
+        ]
+      }
+    ],
+    "random_key": "ee6ce704-6dcb-41e5-a078-e4622475879c",
+    "image_url": "https://image.torob.com/base/images/5y/6I/5y6ImP41iv5u89Ud.jpg"
+  },
+  {
+    "title": "بافت دخترانه برند اچ اند ام",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      }
+    ],
+    "random_key": "8d7062e1-dcee-4b98-b980-9af852334004",
+    "image_url": "https://image.torob.com/base/images/qE/Xl/qEXlvkBhGboFQzd9.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه سفید ال سی وایکیکی W1AB74Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "058d2e03-82ab-46f9-85f0-5895dfa4bd74",
+    "image_url": "https://image.torob.com/base/images/ZS/kb/ZSkbUpT__oZw479P.jpg"
+  },
+  {
+    "title": "پلیور دخترانه بنفش ال سی وایکیکی S1EV33Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "97dbc711-1568-499e-b8e3-61539b0a803b",
+    "image_url": "https://image.torob.com/base/images/9f/x2/9fx2-rdkB2WNsG70.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه رصان سبز السی وایکیکی 9WV242Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "b7b7fac0-2384-4b75-9f98-944c43afaeee",
+    "image_url": "https://image.torob.com/base/images/wW/n6/wWn6B8mZyzk1rHjP.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه دفاکتو اورجینال آبی Defacto C6908A824AU",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "9f563fdb-34af-4807-a9a5-4777d1de8b2d",
+    "image_url": "https://image.torob.com/base/images/Dg/QM/DgQMh4_EAY-UcAD0.jpg"
+  },
+  {
+    "title": "بافت دخترانه ال سی وایکیکی کد W2CL00Z4 | LCW Kids",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "97cf38f7-e32a-4791-9bb1-37a3b7442375",
+    "image_url": "https://image.torob.com/base/images/XK/-P/XK-PXoVgndfXrNO5.jpg"
+  },
+  {
+    "title": "لباس و شلوار دخترانه بافت",
+    "group": "دخترانه",
+    "product": "لباس و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس",
+          "شلوار",
+          "بافت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "449244c7-4d4a-454d-a642-460bd8b74fa7",
+    "image_url": "https://image.torob.com/base/images/zF/G3/zFG389B6n8BCO8zV.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه مرجانی برند Little Star W2KQ66Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مرجانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Little Star"
+        ]
+      }
+    ],
+    "random_key": "426f7703-106a-4da2-9797-f43a78f23235",
+    "image_url": "https://image.torob.com/base/images/Py/FE/PyFEa9IQ_MmvJEyH.jpg"
+  },
+  {
+    "title": "پلیور دخترانه بانی نو Banino کد 109",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بانی نو",
+          "Banino"
+        ]
+      }
+    ],
+    "random_key": "64015021-641b-4cf1-86fa-88418eb0923d",
+    "image_url": "https://image.torob.com/base/images/sj/aR/sjaR4VvmYdEkBIkz.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند مانگو کیدز MANGO Kids اصل 57075988",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مانگو کیدز",
+          "MANGO Kids"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "5660fb5f-0011-4376-aaa9-9f7de95aa650",
+    "image_url": "https://image.torob.com/base/images/0y/3N/0y3NEfGWh5Yy0Hz9.jpg"
+  },
+  {
+    "title": "بافت دخترانه یلدایی کد ناز",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "یلدایی"
+        ]
+      }
+    ],
+    "random_key": "23d865b8-0040-40b8-9541-71ce91a92284",
+    "image_url": "https://image.torob.com/base/images/Zs/hW/ZshWrP3pJ7aXvmeK.jpg"
+  },
+  {
+    "title": "بافت دخترانه شل ال سی وایکیکی S5ME49Z4 - FES | LCW Kids",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "شل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "6aa46d71-74c6-460c-b863-11932f50ccf7",
+    "image_url": "https://image.torob.com/base/images/A8/En/A8EnixYIgs3kMxnz.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه برند سی ویل گیرلز Civil Girls اصل 39330G24924S1",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سی ویل گیرلز"
+        ]
+      }
+    ],
+    "random_key": "f20b6c31-de14-4874-bed4-baccd29d835d",
+    "image_url": "https://image.torob.com/base/images/38/lf/38lfO_PMBtKYGbf2.jpg"
+  },
+  {
+    "title": "پلیور دخترانه بنفش برند Breeze W2JK52Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      }
+    ],
+    "random_key": "5a259859-c2a6-43b3-95d5-5978bcb7f4a3",
+    "image_url": "https://image.torob.com/base/images/8B/8Z/8B8Zo2a1bnMinXXg.jpg"
+  },
+  {
+    "title": "ژاکت راسته دخترانه | مایورال Mayoral may23y.1403",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      }
+    ],
+    "random_key": "581f261d-38ec-42ca-a725-ad919386f224",
+    "image_url": "https://image.torob.com/base/images/fb/Is/fbIsDabNUeCwbYSR.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral MY24K7302",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      }
+    ],
+    "random_key": "f0938c92-7788-4631-a2ff-e058db1a61f7",
+    "image_url": "https://image.torob.com/base/images/nz/IP/nzIPqKvxrFJC38nP.jpg"
+  },
+  {
+    "title": "پولیور بافتنی دخترونه ماهریس یکسال تا6 سال در ترکیب رنگهای زیبا وشاد جدید",
+    "group": "دخترانه",
+    "product": "پلیور بافتنی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۱ تا ۶ سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ترکیب رنگهای زیبا",
+          "شاد"
+        ]
+      }
+    ],
+    "random_key": "eaa4a373-32a1-4a21-838a-eef3f568f08b",
+    "image_url": "https://image.torob.com/base/images/_4/Hy/_4HyEvvEByuPOpzw.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه ریلکس ال سی وایکیکی S4CM17Z4 - FDW | LCW Kids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "ریلکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "a9a4a330-8d40-4d9f-8dd8-0adbcf466e0c",
+    "image_url": "https://image.torob.com/base/images/CH/OL/CHOLR0S1YlENOYg0.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند کوتون Koton اصل 4WKG90045AT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      }
+    ],
+    "random_key": "f84c2c1d-3d04-4a9a-8fd3-9926729e436e",
+    "image_url": "https://image.torob.com/base/images/WC/pt/WCptrwDdbwuLHVXc.jpg"
+  },
+  {
+    "title": "ژاکت راسته دخترانه | سیویل گرلز Civil Girls 39U53613124W1",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیویل گرلز"
+        ]
+      }
+    ],
+    "random_key": "4af15927-b78b-4cf5-9045-a82e71cba4ab",
+    "image_url": "https://image.torob.com/base/images/bG/Mr/bGMrnV-SPw05db2c.jpg"
+  },
+  {
+    "title": "پلیور دخترانه ال سی وایکیکی مدل W2AT",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "01587e0f-6d4a-46ea-ac6c-cf3a75c347b1",
+    "image_url": "https://image.torob.com/base/images/9b/rT/9brTSRk4GTi8ZNpU.jpg"
+  },
+  {
+    "title": "بافت دخترانه سیویل 45U53450924W1 | Civil",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیویل"
+        ]
+      }
+    ],
+    "random_key": "a900ae3b-7af1-4407-bbb5-fdc671e01d3b",
+    "image_url": "https://image.torob.com/base/images/aS/OI/aSOIXKbAqcWWdYTs.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه کوتون اورجینال 4SKG90001AT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      }
+    ],
+    "random_key": "2b51fbf5-c00d-4128-809d-49799c712881",
+    "image_url": "https://image.torob.com/base/images/0h/x2/0hx22YNc1gBgsGv5.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه بیزو کد 39004272323W1 - 7152 | Bizizo",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بیزو"
+        ]
+      }
+    ],
+    "random_key": "387d4400-31ca-4ff1-86e2-5ed7e5bf8ccf",
+    "image_url": "https://image.torob.com/base/images/qR/Co/qRCoF6XZgdQyNkss.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه مانگو کیدز اورجینال 37025904",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مانگو کیدز"
+        ]
+      }
+    ],
+    "random_key": "5137c450-0ccf-48d8-85c1-31ad5f7f7651",
+    "image_url": "https://image.torob.com/base/images/_f/V_/_fV_WZ1NpJOy0jAm.jpg"
+  },
+  {
+    "title": "ژاکت نخ پنبه دخترانه سایز 2-4 سال",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2-4 سال"
+        ]
+      }
+    ],
+    "random_key": "1e493281-5844-4f9a-b3aa-50ba85ab99ac",
+    "image_url": "https://image.torob.com/base/images/2x/BQ/2xBQS7DF3NXnJiDR.jpg"
+  },
+  {
+    "title": "ژاکت آستین معلق راسته دخترانه | مایورال Mayoral M242-4362",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین معلق"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      }
+    ],
+    "random_key": "c2b2d4dc-2b10-4733-a527-c5fca7fbd4b6",
+    "image_url": "https://image.torob.com/base/images/UZ/Aw/UZAwHjVkLJ7N7R4z.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه | مایورال Mayoral 164358_117575",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      }
+    ],
+    "random_key": "ef0e44e3-27b9-4d25-9aa6-d7127b1f5f09",
+    "image_url": "https://image.torob.com/base/images/Sm/ju/SmjurHZALNqu0qi2.jpg"
+  },
+  {
+    "title": "پلیور بافتنی دخترانه سفید / خاکستری زارا 2209/600/096",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "f1f05e25-c929-47af-a782-3a35906e020c",
+    "image_url": "https://image.torob.com/base/images/GM/8w/GM8wEf5AIIu_RVEP.jpg"
+  },
+  {
+    "title": "تیشرت ساپورت طرح یونیکورن",
+    "group": "دخترانه",
+    "product": "تیشرت ساپورت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "یونیکورن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت ساپورت"
+        ]
+      }
+    ],
+    "random_key": "f4b69309-4a54-4db0-af71-bc6366255d06",
+    "image_url": "https://image.torob.com/base/images/UA/BK/UABKR8hXQGiUfxGV.jpg"
+  },
+  {
+    "title": "بافت موهر بنگلادشی دخترانه",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "موهر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "c48d950a-272e-40d7-9507-ad1d50aa8125",
+    "image_url": "https://image.torob.com/base/images/Y_/pa/Y_paS1nmHHoGyObC.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه رصان فیروزه‌ای السی وایکیکی 9WA335Z4",
+    "group": "بچگانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "فیروزه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "d9e2c15a-9860-4b80-a3fc-23671327847c",
+    "image_url": "https://image.torob.com/base/images/Z9/HU/Z9HU1D4RFSZasSXi.jpg"
+  },
+  {
+    "title": "پلیور دخترانه سیاه السی وایکیکی 9WH195Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "0ad7101f-a030-41e4-a9c7-0cef572cfb47",
+    "image_url": "https://image.torob.com/base/images/OZ/VK/OZVKgrhZQaTxmF7C.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه فولامودا اورجینال 24KCCK1756197930",
+    "group": "دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "637272f3-2b6f-466e-98fc-cd9b157f0277",
+    "image_url": "https://image.torob.com/base/images/u2/oK/u2oKjvZcSfgoQmeV.jpg"
+  },
+  {
+    "title": "بافت دخترانه دفاکتو | C8309A524WN Defacto",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "c0beb5d0-abeb-4ecb-9c37-d558b5324b86",
+    "image_url": "https://image.torob.com/base/images/nf/AR/nfARiRKzH3-mGpUS.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral MK23.2303",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "fb5b0788-2464-4833-a3db-1ced539df85b",
+    "image_url": "https://image.torob.com/base/images/Bc/a8/Bca8ZhLwpGCrFFj-.jpg"
+  },
+  {
+    "title": "پلیور دختربچه بژ السی وایکیکی W1KA99Z4",
+    "group": "دختربچه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "4ee51936-668d-472a-806e-04cf5445d077",
+    "image_url": "https://image.torob.com/base/images/cc/dm/ccdm-n8Puzc8d1Sg.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه رصان مرجانی السی وایکیکی S1M326Z4",
+    "group": "بچگانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مرجانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "c439df1f-e097-4033-b146-a97311ea5551",
+    "image_url": "https://image.torob.com/base/images/XQ/no/XQnogI5oBsk0E4Lw.jpg"
+  },
+  {
+    "title": "بافت دخترانه راه راه",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "8c4d3b96-19f9-4633-998d-5205519346b9",
+    "image_url": "https://image.torob.com/base/images/pJ/ak/pJak77ljWOWkuY8F.jpg"
+  },
+  {
+    "title": "بافت دخترانه مارک السی وایکیکی",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "8c8a7627-ccd9-43e0-9ef2-8e86be80c5ab",
+    "image_url": "https://image.torob.com/base/images/YE/uN/YEuNmEl6SAYnZCbY.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه دستباف طرح ببعی",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دستباف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ببعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "244e0154-7ebc-480d-8292-3e44f5916257",
+    "image_url": "https://image.torob.com/base/images/TB/eC/TBeCM12MqNpJQQDD.jpg"
+  },
+  {
+    "title": "ژاکت بچه گانه دخترانه برند پیپرتس کد k2042",
+    "group": "بچگانه دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پیپرتس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "50ff7061-aa3f-4ab8-8b8e-f0ff4f6408ad",
+    "image_url": "https://image.torob.com/base/images/vO/oK/vOoKdSI7PUGmN7GE.jpg"
+  },
+  {
+    "title": "پلیور دخترانه بژ دفکتو",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "160849c6-5d33-41c8-bca7-fac3c3810a91",
+    "image_url": "https://image.torob.com/base/images/Mf/2d/Mf2dkePbekLMsPN4.jpg"
+  },
+  {
+    "title": "بافت ظریف دخترانه طرح گوزن اکلیلی سایز35/45",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ظریف"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوزن اکلیلی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35",
+          "45"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "392f07cf-4422-492b-9b3d-530b178043b6",
+    "image_url": "https://image.torob.com/base/images/33/cL/33cLYCp1mQe9IS0_.jpg"
+  },
+  {
+    "title": "بافت ظریف دخترانه 3 گربه سایز 2 تا 7 سال 40-45-50",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "3 گربه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 تا 7 سال",
+          "40-45-50"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "affe8aa4-e742-4e9e-96c7-376a2777dc77",
+    "image_url": "https://image.torob.com/base/images/s0/Hz/s0HzmvOaTTSqp6wg.jpg"
+  },
+  {
+    "title": "بافت یقه گرد دخترانه طوسی طرح پلیسه جنس ترک",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه گرد"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "8cd0105a-e24d-49dd-be38-2c58fc7ab755",
+    "image_url": "https://image.torob.com/base/images/r9/dq/r9dq0-OsJOBbVkWl.jpg"
+  },
+  {
+    "title": "ژاکت آستین بلند راسته دخترانه | سیویل گرلز Civil Girls 39330F699K31",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیویل گرلز Civil Girls"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "3a0e2a53-c7c3-4695-be7a-2b1f79cc98df",
+    "image_url": "https://image.torob.com/base/images/n0/BF/n0BF2qYxHOJxZTHt.jpg"
+  },
+  {
+    "title": "پلیور بافتنی دخترانه قهوه ای / مایل به قرمز زارا 4216/702/737",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای",
+          "مایل به قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور بافتنی"
+        ]
+      }
+    ],
+    "random_key": "a87b8dc6-bca5-4a41-85e6-84afd572f042",
+    "image_url": "https://image.torob.com/base/images/Ma/ij/Maij5eZq9tm6czSA.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه اورجینال دفاکتو مشکی Defacto B3484A824WN ژاکت کشباف دخترانه یقه وی شکل راه راه دکمه دار ژاکت کش باف پشمی B3484a824wn",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال",
+          "کش باف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "وی شکل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "b5de620b-f463-4b8d-ab51-cde073cbbae9",
+    "image_url": "https://image.torob.com/base/images/hB/sZ/hBsZfA-649GywYIK.jpg"
+  },
+  {
+    "title": "پلیور بافتنی دخترانه اکرو کوتون 5WMG90039AT010",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "اکرو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور بافتنی"
+        ]
+      }
+    ],
+    "random_key": "05f24a81-6615-463b-b55a-511604f0625e",
+    "image_url": "https://image.torob.com/base/images/qI/7w/qI7wU95SnY1FL2mu.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه دفاکتو اورجینال صورتی Defacto D6759A8NS",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "6bb89f10-a59f-457c-b5b8-9a36899373b3",
+    "image_url": "https://image.torob.com/base/images/Bm/yY/BmyYsSZr8UpmMJkD.jpg"
+  },
+  {
+    "title": "ژاکت بافت دخترانه",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت بافت"
+        ]
+      }
+    ],
+    "random_key": "94e36b72-4665-4f98-95fa-964b2708d00b",
+    "image_url": "https://image.torob.com/base/images/x4/E8/x4E8Nl2DKT0ZzM10.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه السی وایکیکی LC Waikiki اورجینال W4DD58Z1 – LRB",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشی",
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "16225c8f-29b6-4a71-824d-5b19de110379",
+    "image_url": "https://image.torob.com/base/images/u9/Ah/u9AhJjn_UAQy80rw.jpg"
+  },
+  {
+    "title": "پلیور بافتنی دخترانه اکرو کوتون 5SMG90011AT010",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "اکرو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور بافتنی"
+        ]
+      }
+    ],
+    "random_key": "3ac52b4b-c02c-4468-b117-de5f5406754c",
+    "image_url": "https://image.torob.com/base/images/52/fF/52fFBDFlLiRAAksP.jpg"
+  },
+  {
+    "title": "ژاکت بافت دخترانه ارزان",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت بافت"
+        ]
+      }
+    ],
+    "random_key": "b2bf6317-08ed-4434-aa0d-a48be2805132",
+    "image_url": "https://image.torob.com/base/images/c4/ww/c4wwYtt-ZC_vCUxd.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه تون توی کیدز 24421 - 20067 | Toontoykids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تون توی کیدز Toontoykids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "e188a324-6f17-40d0-8cfc-adc32e3ed294",
+    "image_url": "https://image.torob.com/base/images/yv/1G/yv1GhT9iM1xaLBov.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند کوتون Koton اصل 3SKG90001AT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون Koton"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "0c641cb5-18e0-4b1d-8622-ff707970bffe",
+    "image_url": "https://image.torob.com/base/images/v8/kH/v8kHaY7guF3K6MPT.jpg"
+  },
+  {
+    "title": "پلیور دختربچه صورتی ال سی وایکیکی W10773Z4",
+    "group": "دختربچه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "230aa243-a50d-4987-b520-c5436155e662",
+    "image_url": "https://image.torob.com/base/images/dl/48/dl48rYSCP9HEFX36.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral MK23.309",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "3ef5c957-bd67-49da-a165-618dc46422d2",
+    "image_url": "https://image.torob.com/base/images/fH/MS/fHMSvAW-a_jDL7Ws.jpg"
+  },
+  {
+    "title": "پلیور دختربچه صورتی ال سی وایکیکی 0WIL91Z4",
+    "group": "دختربچه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "38e3cddb-f2ea-4e96-9afd-3867fd420274",
+    "image_url": "https://image.torob.com/base/images/O4/V6/O4V6KpyWpInz5fbF.jpg"
+  },
+  {
+    "title": "پلیور بافت دخترانه : سایز 8-6 سال - 6 تا 8 سال",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8-6 سال",
+          "6 تا 8 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "3dfd89dd-52f2-4006-a484-84f57bd94f87",
+    "image_url": "https://image.torob.com/base/images/zq/Hz/zqHzOt9Xxcb0LEHA.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه دکسیا کد AG4102 - 37577 | Dexia",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دکسیا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "4bd792bd-dff1-4f38-b497-60e53a6df734",
+    "image_url": "https://image.torob.com/base/images/4d/Zg/4dZgcZE1xPNLBLVH.jpg"
+  },
+  {
+    "title": "ژاکت بافت دخترانه برند لوپیلو کد ۳۸۱۷۸۰۳",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "71b93a1c-57bf-4523-9cab-d68a09377c42",
+    "image_url": "https://image.torob.com/base/images/L_/GL/L_GL5A-SuQsrWVAg.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه تون توی کیدز 16802- - 19351 | Toontoykids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تون توی کیدز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "752f5fe3-50c7-4f5a-8785-6005d968da58",
+    "image_url": "https://image.torob.com/base/images/4s/Ng/4sNgoRyV1fQ_AFpD.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral mk23.7365",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "55bd9685-b74a-4a74-95a5-24effce0ca8b",
+    "image_url": "https://image.torob.com/base/images/Cg/AO/CgAOIdD1psVzQPJ4.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه دفاکتو | B7872A823WN Defacto",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "6cc17733-07cc-4139-aef1-90ce140d0fe2",
+    "image_url": "https://image.torob.com/base/images/cF/Fh/cFFhjOdwBasnz02g.jpg"
+  },
+  {
+    "title": "بافت دورنگ آستین پفکی کد 1730420",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "دورنگ"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین پفکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "557c01a4-c433-4ff7-8163-8a2335c8568a",
+    "image_url": "https://image.torob.com/base/images/TP/am/TPamz0mruMQtVWRw.jpg"
+  },
+  {
+    "title": "بافت دخترانه بوبولی کد 227113-3828 - 23173 | Boboli",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بوبولی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "30d3929f-d0d7-48ac-b00f-e429d6140cd6",
+    "image_url": "https://image.torob.com/base/images/VG/mG/VGmGrsLDdacLj51a.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه اورجینال کوتون بژ Koton 4WKG90004HT ژاکت بافتنی موی یقه بلند آستین بلند با بافت نرم",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی",
+          "موهر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه بلند"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال",
+          "نرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور",
+          "ژاکت بافتنی"
+        ]
+      }
+    ],
+    "random_key": "1c3a0f47-7074-4bc6-9a0e-c5696c3e1918",
+    "image_url": "https://image.torob.com/base/images/PI/mY/PImYt8YuMEiD0XWN.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral 2310",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "cb82e554-75b5-4abf-9677-fc3691cd217f",
+    "image_url": "https://image.torob.com/base/images/cg/i8/cgi881R0HvCLySEX.jpg"
+  },
+  {
+    "title": "پلیور دختربچه سفید السی وایکیکی W2DP15Z4",
+    "group": "دختربچه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "9fc9278a-9420-41d7-b3d2-8e89b304d4b5",
+    "image_url": "https://image.torob.com/base/images/6M/mw/6MmwBbtTGCiL2iDk.jpg"
+  },
+  {
+    "title": "بافت دخترانه | مایورال Mayoral PETALO",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "b227bba2-c3e0-4766-81f8-123f0524790a",
+    "image_url": "https://image.torob.com/base/images/lT/h-/lTh-fhd_YKQe9TyY.jpg"
+  },
+  {
+    "title": "پلیور بافتنی دخترانه آبی روشن زارا 2756/718/406",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی روشن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "a77aad54-0596-48b3-9e88-10093fccd335",
+    "image_url": "https://image.torob.com/base/images/mV/6N/mV6NiqWsPoZuWHny.jpg"
+  },
+  {
+    "title": "پلیور دخترانه بژ ال سی وایکیکی S2GR28Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "674dffe7-aec1-428a-8b14-2248393cbfcf",
+    "image_url": "https://image.torob.com/base/images/xl/Lp/xlLpXRbJNWWgaghB.jpg"
+  },
+  {
+    "title": "بافت دخترانه ال سی وایکیکی کد W3BM34Z4 | LCW Kids",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "1a09835c-c17c-4a28-bc37-6c615197a0b9",
+    "image_url": "https://image.torob.com/base/images/0e/Ag/0eAgSlrNynyVtTk_.jpg"
+  },
+  {
+    "title": "پلیور دخترانه الایو مدل داخل کرک کد 16985520",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "الایو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "داخل کرک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "0fd382cb-b397-4331-9212-eca14bf6606d",
+    "image_url": "https://image.torob.com/base/images/X_/hh/X_hhvv8STkJemwC_.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه جورج کد 856",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جورج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "7d298df9-4d39-4721-b12b-90e98db60464",
+    "image_url": "https://image.torob.com/base/images/Td/_z/Td_za5Q6vkYthWPt.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه دفاکتو ترکیه | U6182A622WN",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "c6d57f08-d13d-425e-bced-cbb88e8a5b20",
+    "image_url": "https://image.torob.com/base/images/rG/6A/rG6AQTv3R0e3qJVI.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه کوتون اورجینال 4SKG90001AT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "62f16ab1-b196-4524-abcc-aa48aaf53dbc",
+    "image_url": "https://image.torob.com/base/images/8S/5m/8S5mO0ReQ9jubBKz.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه رگولار زیپ کیدز 1014666 - 20600 | Zepkids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "رگولار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زیپ کیدز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "173fde84-e861-4ac6-9f20-75220a327f23",
+    "image_url": "https://image.torob.com/base/images/Ua/cY/UacYv_jp-283fqfI.jpg"
+  },
+  {
+    "title": "ژاکت جلو باز آبی زنانه لباس روی مد قورباغه ماهیگیران اورجینال Vosse",
+    "group": "زنانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو باز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Vosse"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "8af8e338-51ff-4b33-a33d-661c4e00d4e6",
+    "image_url": "https://image.torob.com/base/images/Sg/7S/Sg7SogvWEgAk6dQ7.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه یو اس پلو U.S. Polo Assn. اورجینال G084SZ0TK.000.1261331",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "یو اس پلو",
+          "U.S. Polo Assn."
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "a37690e5-cdab-4649-a37b-ed2fa2ac754a",
+    "image_url": "https://image.torob.com/base/images/Gu/Ye/GuYeArjQmBqR3B0y.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه صورتی ال سی وایکیکی W21162Z4",
+    "group": "دخترانه بچه گانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "d27a617e-bb38-49bd-821f-39847dd31c67",
+    "image_url": "https://image.torob.com/base/images/8B/KN/8BKNDaFOWEQsbgpX.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه ریلکس دکسیا AG4110 - 37344 | Dexia",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "ریلکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکسیا",
+          "Dexia"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "393de8a5-0475-4961-af6b-c848af37b495",
+    "image_url": "https://image.torob.com/base/images/Et/dg/EtdgeoHGu70SQFtp.jpg"
+  },
+  {
+    "title": "بافت راه راه دخترانه | شیک بوی çikoby 24KKZK20847",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیک بوی",
+          "çikoby"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "701710a0-4fd6-4a9e-aa1c-23040933ba0c",
+    "image_url": "https://image.torob.com/base/images/h6/jw/h6jwINZ016KOgrO7.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه برند السی وایکیکی LC Waikiki اصل S47624Z4",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "56d8804f-918b-4906-8aa6-05b844125883",
+    "image_url": "https://image.torob.com/base/images/dz/vP/dzvPjg3auYf8c5X2.jpg"
+  },
+  {
+    "title": "ژاکت کشی نوزاد دخترانه اورجینال IB64351",
+    "group": "نوزاد دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "c7d6c24a-7f07-4aea-89f3-f5bc14fecd43",
+    "image_url": "https://image.torob.com/base/images/0V/q3/0Vq3OuTg4zEHSZWn.jpg"
+  },
+  {
+    "title": "ژاکت آستین معلق راسته دخترانه | مایورال Mayoral MY24K4362",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین معلق"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "30616043-37ed-4005-bf2f-3ae0c580d6ff",
+    "image_url": "https://image.torob.com/base/images/gC/b7/gCb7IVKpsBnUbkSe.jpg"
+  },
+  {
+    "title": "بافت بچه گانه دخترانه سفید السی وایکیکی 9W1854Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "dbf82e90-0514-437a-8515-4da697c8cdd4",
+    "image_url": "https://image.torob.com/base/images/Kx/nF/KxnFbgsCcpoeoVin.jpg"
+  },
+  {
+    "title": "بافت طوسی دخترانه پم پم دار",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پم پم دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "d02a1ca1-a736-4f33-a853-afcbbd53fe06",
+    "image_url": "https://image.torob.com/base/images/yJ/DA/yJDAqGd60CAMamxb.jpg"
+  },
+  {
+    "title": "بافت دخترانه وارداتی کد 1743301",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "27861609-f1d7-4187-862d-0bf49ec8496c",
+    "image_url": "https://image.torob.com/base/images/Rh/Mu/RhMuKDOXci4nVHY1.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند کوتون Koton اصل 5WKG90009AT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "b7fd0ae5-58db-4dae-9b9a-625dc91d39ad",
+    "image_url": "https://image.torob.com/base/images/N6/MZ/N6MZuKOWNnGvm2za.jpg"
+  },
+  {
+    "title": "ژاکت آستین بلند راسته دخترانه | مایورال Mayoral MOL2325",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      }
+    ],
+    "random_key": "12e3e837-e72c-4d69-8de3-54ad6853437e",
+    "image_url": "https://image.torob.com/base/images/NP/Nb/NPNbJp2DYYwGFs8S.jpg"
+  },
+  {
+    "title": "بافت گپ ریز دانه گرم پایین طرح قلب دخترانه سایز 60 و 65 سنین 10 تا 12 کد 1420727",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح قلب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ریز دانه",
+          "گرم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "60",
+          "65",
+          "10 تا 12 سال"
+        ]
+      }
+    ],
+    "random_key": "215b3ff0-0d6b-473a-bf26-1d279ed69aaf",
+    "image_url": "https://image.torob.com/base/images/5b/WV/5bWV4F71hy8TQdJY.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه گپ سایز45",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گپ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45"
+        ]
+      }
+    ],
+    "random_key": "8b3620e0-d09a-45f3-8128-19938d512b01",
+    "image_url": "https://image.torob.com/base/images/sS/HK/sSHKmJl_g1hEuKM_.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه | مایورال Mayoral",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      }
+    ],
+    "random_key": "0d8a8f83-272e-4c4b-a5bc-5eac1f508bee",
+    "image_url": "https://image.torob.com/base/images/q0/X4/q0X4Tva1IfUFnmnC.jpg"
+  },
+  {
+    "title": "بافت ظریف دخترانه اچ اند ام مدل یونیکورن رنگ قرمز تیره - 2تا4 سال",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ظریف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "یونیکورن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز تیره"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2تا4 سال"
+        ]
+      }
+    ],
+    "random_key": "84263e6d-2ab9-435d-9983-c1c8e09b0e42",
+    "image_url": "https://image.torob.com/base/images/B_/KP/B_KPzyuMoNzt2OyG.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند کوتون Koton اصل 7KKG97157OT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      }
+    ],
+    "random_key": "1b11a532-2efd-48a9-a606-7ceb0c937f25",
+    "image_url": "https://image.torob.com/base/images/3E/v4/3Ev4DaSxA7Kjb05q.jpg"
+  },
+  {
+    "title": "ژاکت کشی نوزاد دخترانه اورجینال ÇMKTH2023",
+    "group": "نوزاد دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت",
+          "کشی"
+        ]
+      }
+    ],
+    "random_key": "c5864ab6-397e-45c0-a09e-99e3f9bb6b76",
+    "image_url": "https://image.torob.com/base/images/XJ/MU/XJMUsLF91UIuvegj.jpg"
+  },
+  {
+    "title": "ژاکت کشی U.S. Polo Assn. اورجینال دخترانه برند یو اس پلو 1155230 Girl's Water Green Knitwear Cardigan 50297168-VR048",
+    "group": "دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی",
+          "کاردیگان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "یواِس پولو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبزآبی"
+        ]
+      }
+    ],
+    "random_key": "2ec5547e-0b67-46b5-b9a2-a081864009d0",
+    "image_url": "https://image.torob.com/base/images/pV/I2/pVI27eVTWoj9spSv.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه دفاکتو | C7905A524AU Defacto",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      }
+    ],
+    "random_key": "f1870526-b935-4fa1-acac-e0193e181751",
+    "image_url": "https://image.torob.com/base/images/gF/2i/gF2i-x94zmD7U_vL.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه اورجینال السی وایکیکی بژ LC Waikiki S46191Z1 ژاکت زیپ دار نوزاد دخترانه آستین بلند کلاهدار LCW",
+    "group": "نوزاد دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی",
+          "ژاکت زیپ دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      }
+    ],
+    "random_key": "ae0c7edc-8718-4a1d-8853-21425a354240",
+    "image_url": "https://image.torob.com/base/images/tD/10/tD10d1otlpj48Fvx.jpg"
+  },
+  {
+    "title": "بافت طرح قلب دخترانه3000831",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح قلب"
+        ]
+      }
+    ],
+    "random_key": "4d69b392-fd21-45a0-bd90-b7303e6affc6",
+    "image_url": "https://image.torob.com/base/images/9g/iV/9giVt_9GLgOBZ5xQ.jpg"
+  },
+  {
+    "title": "بافت ظریف دخترانه اچ اند ام مدل آبرنگی رنگ شیری",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ظریف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آبرنگی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "شیری"
+        ]
+      }
+    ],
+    "random_key": "eb72fe37-c470-40e7-a664-9e764cbad1d7",
+    "image_url": "https://image.torob.com/base/images/X7/Zv/X7Zv6qeNx2NjX5-f.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه دفاکتو اورجینال صورتی Defacto C9576A824WN",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "097cbe8e-3ddc-4966-8c52-e53e05225841",
+    "image_url": "https://image.torob.com/base/images/mY/Nz/mYNzqaF61bX0tWbE.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه رنگی رنگی",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی رنگی"
+        ]
+      }
+    ],
+    "random_key": "4ab52376-e7c5-4663-b917-f340c62ed5dc",
+    "image_url": "https://image.torob.com/base/images/Rv/pM/RvpMq1ozgC5SVRVp.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه اورجینال السی وایکیکی آبی سرمه ای LC Waikiki TYCE1508213FB4AF00 ژاکت زیپ دار دخترانه آستین بلند پایه بچه گانه LCW",
+    "group": "دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی",
+          "ژاکت زیپ دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بچه گانه"
+        ]
+      }
+    ],
+    "random_key": "3b89a56f-f38f-44f5-8ed3-14eaddaff56f",
+    "image_url": "https://image.torob.com/base/images/h2/nW/h2nWncKMvHhsecRk.jpg"
+  },
+  {
+    "title": "پلیور دخترانه سی اند ای کد 5035",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سی اند ای"
+        ]
+      }
+    ],
+    "random_key": "9b1a7818-13b7-4dfa-80ba-ec10a95ae6de",
+    "image_url": "https://image.torob.com/base/images/LB/w0/LBw0Ys4ztrQ1_XqQ.webp"
+  },
+  {
+    "title": "ژاکت راسته دخترانه | مایورال Mayoral 22K.MYR.04307.088",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "9f597602-06e8-4ae6-b35d-bb7e81a81fe7",
+    "image_url": "https://image.torob.com/base/images/Kw/LU/KwLUzyC7n8eq2y6E.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه صورتی برند Breeze W2JK47Z4",
+    "group": "بچگانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "e2f38314-94f1-4c69-a186-d68ade9ca338",
+    "image_url": "https://image.torob.com/base/images/lN/nI/lNnIyIBCFhfyhuaX.jpg"
+  },
+  {
+    "title": "پلیور بافت دخترانه مناسب 3 تا 6 سال",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 6 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "a2d9a6c2-039e-4f90-8690-3e8f1f652b13",
+    "image_url": "https://image.torob.com/base/images/_v/U1/_vU1Jr7kKH4b2BKH.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه برند کوتون Koton اصل 4SKG90030HT",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "9581eab4-0aca-472b-9faa-abfaf3db9ca6",
+    "image_url": "https://image.torob.com/base/images/pK/qC/pKqC2dDyVZsU2QCu.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه ال سی وایکیکی مدل 0s1933z4",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "3e19fb93-5243-41ed-8b7a-6be290559948",
+    "image_url": "https://image.torob.com/base/images/ft/HC/ftHCASEvcxH8D8Au.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه پنبه دانه Cigit اورجینال دخترانه کد کالا TYC6QJYIJN168625568834835",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پنبه دانه Cigit"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "f1213931-da9a-4edb-baa3-0c3e335700a2",
+    "image_url": "https://image.torob.com/base/images/To/9m/To9mtH5ExAPW6rmN.jpg"
+  },
+  {
+    "title": "پلیور دختربچه طوسی ال سی وایکیکی 0W9435Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "61376947-b0fb-4d64-9d2b-8bb889a47651",
+    "image_url": "https://image.torob.com/base/images/JT/yJ/JTyJKbgmkRCHSn6I.jpg"
+  },
+  {
+    "title": "بافت راه راه دخترانه | مایورال Mayoral 163120_117575",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "d71d5698-a10b-4302-afe1-293f1ec61b91",
+    "image_url": "https://image.torob.com/base/images/AA/br/AAbr1ybJJrSFDD_I.jpg"
+  },
+  {
+    "title": "بافت دخترانه دفاکتو | C6902A824AU Defacto",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "41df0f27-5f12-46fe-bb31-e5a743751945",
+    "image_url": "https://image.torob.com/base/images/g4/Gs/g4GsVTKRodzz8LVJ.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه رنگارنگ ال سی وایکیکی W23147Z4",
+    "group": "بچگانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگارنگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "c648b33b-3576-4467-a729-b54663dcf4e2",
+    "image_url": "https://image.torob.com/base/images/Ho/Zv/HoZvTvQFvXrflV0n.jpg"
+  },
+  {
+    "title": "ژاکت کالج دخترانه شل ال سی وایکیکی S50735Z4 - YQ9 | LCW Kids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "5739c5c5-1e37-41f4-b20f-b4fabad5c291",
+    "image_url": "https://image.torob.com/base/images/F2/2D/F22Dc838xkl01XzL.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه برند دفاکتو Defacto اصل C6933A824AU",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "e16da32f-c9c4-484f-b69a-62abcc370997",
+    "image_url": "https://image.torob.com/base/images/hw/Do/hwDo35zi4VifisPe.jpg"
+  },
+  {
+    "title": "پلیور سبز دخترانه و بچگانه ژاکت صورتی اورجینال Koton",
+    "group": "دخترانه و بچگانه",
+    "product": "پلیور و ژاکت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز",
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Koton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور",
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "6b2aa9ad-88d6-4bc7-bf17-b6fe89bf5d5e",
+    "image_url": "https://image.torob.com/base/images/gZ/71/gZ71mD3MtxNf1quz.jpg"
+  },
+  {
+    "title": "بافت و پلیور U.S. Polo Assn. اورجینال دخترانه برند یو اس پلو G084SZ0TK.000.1261331 Pink Girl's Sweater",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "U.S. Polo Assn."
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "Pink"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "90316d07-7de5-4062-9a84-d328e87420d4",
+    "image_url": "https://image.torob.com/base/images/o2/lz/o2lzBuPln0cF7ZSF.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه برند دفاکتو Defacto اصل B6963A8WT34mc",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "ed89cb3a-58d3-4a43-bf89-41b70322fd8e",
+    "image_url": "https://image.torob.com/base/images/vM/TL/vMTL7LXKG2v8HXid.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه السی وایکیکی LC Waikiki اورجینال W4IR12Z1",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "ج جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "26074d11-9040-496e-ab9d-b7afdf7d033f",
+    "image_url": "https://image.torob.com/base/images/rM/ZG/rMZGONPpzZyX4Za1.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه تون توی کیدز 24611 - 19351 | Toontoykids",
+    "group": "دخترانه",
+    "product": "ژاکت دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تون توی کیدز",
+          "Toontoykids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "24611",
+          "19351"
+        ]
+      }
+    ],
+    "random_key": "7127e92a-f3cd-4351-8eb3-d3260969ab21",
+    "image_url": "https://image.torob.com/base/images/As/6N/As6NtYJhTECVrwDx.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه برند LUPILU",
+    "group": "دخترانه",
+    "product": "ژاکت دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "LUPILU"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "7e1c5515-6682-4bed-b5af-6c41fe5e7c1b",
+    "image_url": "https://image.torob.com/base/images/T7/H8/T7H8fHBB8Ui3Zem0.jpg"
+  },
+  {
+    "title": "بافت دخترانه دکسیا کد AG4112 - 19965 | Dexia",
+    "group": "دخترانه",
+    "product": "بافت دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دکسیا",
+          "Dexia"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "AG4112",
+          "19965"
+        ]
+      }
+    ],
+    "random_key": "98627254-87e6-43b0-ae21-ba9ca198754c",
+    "image_url": "https://image.torob.com/base/images/JV/kS/JVkS74SK_manuyke.jpg"
+  },
+  {
+    "title": "ژاکت بافت دخترانه طرح قلب دو لایه سایز 55 و 60",
+    "group": "دخترانه",
+    "product": "ژاکت بافت دخترانه",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دو لایه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "55",
+          "60"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت بافت"
+        ]
+      }
+    ],
+    "random_key": "9df83347-ea31-4795-92c7-14f2de5170e7",
+    "image_url": "https://image.torob.com/base/images/DB/D5/DBD5uiy3d_lPewje.jpg"
+  },
+  {
+    "title": "گپ بافت دخترانه استیکردار تراکم بالا تضمینی ( 30، 35)",
+    "group": "دخترانه",
+    "product": "گپ بافت دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گپ بافت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "استیکردار",
+          "تراکم بالا",
+          "تضمینی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "30",
+          "35"
+        ]
+      }
+    ],
+    "random_key": "bf7ffed5-cc97-435a-bf0b-76f727e0fdc3",
+    "image_url": "https://image.torob.com/base/images/im/l7/iml70WcX-48Y8K7s.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه السی وایکیکی LC Waikiki اورجینال W4DS62Z1",
+    "group": "دخترانه",
+    "product": "ژاکت کشی دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "W4DS62Z1"
+        ]
+      }
+    ],
+    "random_key": "25b22250-7d8e-4ae7-b823-caa03588d754",
+    "image_url": "https://image.torob.com/base/images/qh/Vo/qhVoTjz70IFvzvzv.jpg"
+  },
+  {
+    "title": "ژاکت راسته دخترانه | سیویل گرلز Civil Girls 39140869423W1",
+    "group": "دخترانه",
+    "product": "ژاکت دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیویل گرلز",
+          "Civil Girls"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "39140869423W1"
+        ]
+      }
+    ],
+    "random_key": "68bcadc6-4819-4e2c-a91f-69850e2262c7",
+    "image_url": "https://image.torob.com/base/images/cE/vC/cEvC45IK6zv3JvLz.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral M242-4356",
+    "group": "دخترانه",
+    "product": "بافت دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M242-4356"
+        ]
+      }
+    ],
+    "random_key": "801f070b-972c-4416-84fe-17f71523d904",
+    "image_url": "https://image.torob.com/base/images/GC/XJ/GCXJrAQGHL2KbI3C.jpg"
+  },
+  {
+    "title": "پلیور دخترانه نارنجی ال سی وایکیکی S3AC66Z4",
+    "group": "دخترانه",
+    "product": "پلیور دخترانه",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S3AC66Z4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "426610ed-0eee-4872-b4f5-8275e9689627",
+    "image_url": "https://image.torob.com/base/images/48/-m/48-mGKDldryp8ucW.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه آبی ال سی وایکیکی S24138Z4",
+    "group": "دخترانه",
+    "product": "پلیور بچه گانه دخترانه",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S24138Z4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "4e3ca404-4265-4039-8463-5d943e1bb03b",
+    "image_url": "https://image.torob.com/base/images/3f/mx/3fmxGs8nFw1uS5BT.jpg"
+  },
+  {
+    "title": "بافت دخترانه یقه اسکی مدل پروانه ای گلبهی سایز 55",
+    "group": "دخترانه",
+    "product": "بافت دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه اسکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گلبهی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "55"
+        ]
+      }
+    ],
+    "random_key": "97610c71-f23a-4c20-8a14-0b129c1fb577",
+    "image_url": "https://image.torob.com/base/images/4a/L1/4aL1Twev1M8Vtc_J.jpg"
+  },
+  {
+    "title": "بافت بلند دخترانه ترک کد 1748974",
+    "group": "دخترانه",
+    "product": "بافت دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1748974"
+        ]
+      }
+    ],
+    "random_key": "694fd07d-42a6-4565-8f7d-27d698de4524",
+    "image_url": "https://image.torob.com/base/images/VP/FE/VPFEM_BlLSAC3_Bo.jpg"
+  },
+  {
+    "title": "پولیور دورس وارداتی دخترانه 3 ماهگی",
+    "group": "دخترانه",
+    "product": "پولیور دورس دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولیور دورس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 ماهگی"
+        ]
+      }
+    ],
+    "random_key": "a1e16ad6-5ce4-4eff-9754-40b3670cb65a",
+    "image_url": "https://image.torob.com/base/images/Vk/pe/Vkpeid465WzQaeOs.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه اورجینال کوتون بژ Koton TYCLIEGFBN169774388472846 ژاکت آستین بلند یقه نیم زیپ بافت نرم",
+    "group": "دخترانه",
+    "product": "بافت و پلیور دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور",
+          "ژاکت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال",
+          "بافت نرم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "TYCLIEGFBN169774388472846"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "07e1119b-aee3-41aa-99a8-565d10f1f506",
+    "image_url": "https://image.torob.com/base/images/cu/VM/cuVMaMMemGbBzFqb.jpg"
+  },
+  {
+    "title": "پلیور دختربچه زرشکی ال سی وایکیکی W1GF51Z4",
+    "group": "دخترانه",
+    "product": "پلیور دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "W1GF51Z4"
+        ]
+      }
+    ],
+    "random_key": "30c95efb-8743-4a2a-8f24-3ab06e2df7c5",
+    "image_url": "https://image.torob.com/base/images/oJ/0X/oJ0X2gb-N37l9Cxz.jpg"
+  },
+  {
+    "title": "بافت دخترانه سوز بلو W2FD15Z4 - SKC | SOUTHBLUE",
+    "group": "دخترانه",
+    "product": "بافت دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سوز بلو",
+          "SOUTHBLUE"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "W2FD15Z4",
+          "SKC"
+        ]
+      }
+    ],
+    "random_key": "41562e16-b6a4-452c-a6c2-88397e507dac",
+    "image_url": "https://image.torob.com/base/images/YQ/lC/YQlC-PlPkK65FwGW.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه بریز 21200 - 19351 | Breeze",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بریز",
+          "Breeze"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "011f40ff-4716-459d-a616-91c989c85f5c",
+    "image_url": "https://image.torob.com/base/images/gh/AO/ghAObeDuOCBgLybd.jpg"
+  },
+  {
+    "title": "پلیور دخترانه ال سی وایکیکی مدل 43",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "52f4d04b-1656-41ff-ba74-2e6b521a0367",
+    "image_url": "https://image.torob.com/base/images/Vp/iV/VpiVF9KncbORkCx1.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه دفاکتو | A4081A5BR476mc Defacto",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "18dca49a-e0fd-446b-bddb-ea700c8019f8",
+    "image_url": "https://image.torob.com/base/images/-h/qG/-hqGJ9vIoVlSbkgz.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه پانچو Panço اورجینال دخترانه کد کالا 2321GB18014",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پانچو Panço"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "3f22349e-ddcc-4d67-8c5d-53bc6d4f91d0",
+    "image_url": "https://image.torob.com/base/images/f1/ZO/f1ZO2WP1-Y5Dfy-D.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه بنتتون اورجینال 223P1094Q0008-901",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بنتتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "aee93da3-f574-4f47-a6dd-b4edb1707d83",
+    "image_url": "https://image.torob.com/base/images/qK/w0/qKw06rHT8NGUrSUq.jpg"
+  },
+  {
+    "title": "بافت دخترانه جلو دکمه",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو دکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "5923882b-2d30-4d33-aa59-0633a08a98db",
+    "image_url": "https://image.torob.com/base/images/c_/0B/c_0B6ug-vOv3q7Xf.jpg"
+  },
+  {
+    "title": "پلیور دخترانه ال سی وایکیکی مدل W24T77Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "36f695b6-12ac-4ca1-8fc2-795d72e2d820",
+    "image_url": "https://image.torob.com/base/images/XV/kM/XVkMxMW2bqlh9LJa.jpg"
+  },
+  {
+    "title": "بافت زاپ دار دخترانه",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زاپ دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "380643da-2343-47a5-a20c-cd967f24c401",
+    "image_url": "https://image.torob.com/base/images/67/XW/67XWtDbJmFuWCNdk.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه السی وایکیکی LC Waikiki اورجینال W49484Z4",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "043e7752-4a1c-4391-b620-9a4214cf41c7",
+    "image_url": "https://image.torob.com/base/images/EL/QW/ELQW1S7Wr7owkWaS.jpg"
+  },
+  {
+    "title": "بافت دخترانه برند تی یو TU",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تی یو",
+          "TU"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "edaabe58-2b40-47cc-8d29-9700d8df593c",
+    "image_url": "https://image.torob.com/base/images/VV/X1/VVX16bF1-uGfZh1-.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه برند دفاکتو Defacto اصل D2758A824AU",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "b0f5a548-4f74-4a4e-bd83-78e459143a4b",
+    "image_url": "https://image.torob.com/base/images/LO/3l/LO3lvnEhnc2hlHZM.jpg"
+  },
+  {
+    "title": "بافت گپ دخترانه طرح قلب سایز 50-55",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح قلب"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "50-55"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت گپ"
+        ]
+      }
+    ],
+    "random_key": "d0f0b4ee-fc9e-4a3f-9c64-0ee61987a51e",
+    "image_url": "https://image.torob.com/base/images/yc/vg/ycvg_kEA8mplWC7g.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه سفید برند Breeze W2JK04Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "4fb4207e-50b5-4e44-b6ff-e82a51495629",
+    "image_url": "https://image.torob.com/base/images/z0/5w/z05wJONaNf2Ap8rZ.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه | مایورال Mayoral TYC00683994612",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "ceebd57b-fade-45c5-9302-5bbecfa09813",
+    "image_url": "https://image.torob.com/base/images/T1/A6/T1A6NMybbZiT103l.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral L23K313",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "5f9c5bab-4a50-4704-a0e7-2167b0331468",
+    "image_url": "https://image.torob.com/base/images/7b/es/7besG_wtZa0TBFSU.jpg"
+  },
+  {
+    "title": "بافت بافت مو دخترانه | مایورال Mayoral 164379_117575",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت بافت مو"
+        ]
+      }
+    ],
+    "random_key": "09e1352b-cb22-4101-ae34-5b2842f1a9c1",
+    "image_url": "https://image.torob.com/base/images/A4/TP/A4TPWK74H_piRm80.jpg"
+  },
+  {
+    "title": "پلیور دختربچه سیاه ال سی وایکیکی",
+    "group": "دختربچه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "75c2f4e5-6f85-4c14-9f5c-d203f7f4c69c",
+    "image_url": "https://image.torob.com/base/images/Xn/4F/Xn4FbqbV0DnGpXaG.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه پانچو Panço اورجینال کد کالا 2321GK18021",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Panço"
+        ]
+      }
+    ],
+    "random_key": "f951a336-a816-4952-aca0-c4b46fbfe31c",
+    "image_url": "https://image.torob.com/base/images/pc/id/pcidT6PRn5tj3f0s.jpg"
+  },
+  {
+    "title": "بلوز ودامن پینترستیددو مدل",
+    "group": "نامشخص",
+    "product": "بلوز و دامن",
+    "entities": [],
+    "random_key": "3b92e70c-51fd-4cee-80ac-c9f3f2ccb5fb",
+    "image_url": "https://image.torob.com/base/images/dJ/cW/dJcWIt8CfAiM_fna.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند بنتتون اصل 223P1094QH004",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بنتتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "8d01e726-bdfd-469c-8df3-3bcbf83bed56",
+    "image_url": "https://image.torob.com/base/images/8N/tW/8NtWkgXp-y7oBBcU.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه السی وایکیکی LC Waikiki اورجینال W4IY61Z4",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "46bc2140-6a76-45b9-b514-1d4703c3867c",
+    "image_url": "https://image.torob.com/base/images/5H/ls/5Hls4SBRO793q0o2.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه | مایورال Mayoral 164021_117575",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "3a62ba49-d4a8-495c-a25c-61207ecef905",
+    "image_url": "https://image.torob.com/base/images/Ac/Ub/AcUbwxOuN0MNBlQn.jpg"
+  },
+  {
+    "title": "ژاکت راسته دخترانه | مایورال Mayoral 19MYRL02304",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "306137ae-e8fd-4d34-9076-81f1a7fd4ae2",
+    "image_url": "https://image.torob.com/base/images/-J/C6/-JC6u5xJanJZkisE.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه برند مانگو کیدز MANGO Kids اصل 37017709",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مانگو کیدز",
+          "MANGO Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "1c54471e-d466-4153-b246-001fe3d0169f",
+    "image_url": "https://image.torob.com/base/images/ru/0X/ru0X5IJgIwhUIDa2.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه آبی ال سی وایکیکی W2CK10Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "59227afa-7ef9-4566-8332-d6e332517cc3",
+    "image_url": "https://image.torob.com/base/images/ot/K3/otK3MPDIpwgIB6kl.jpg"
+  },
+  {
+    "title": "گپ دخترانه گرم بافت دخنرانه",
+    "group": "دخترانه",
+    "product": "گپ",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گپ"
+        ]
+      }
+    ],
+    "random_key": "07b99bc1-ee0e-46de-a656-a0ec2e84dc54",
+    "image_url": "https://image.torob.com/base/images/sX/7m/sX7mEgWjypLKV2j0.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه دفاکتو Defacto اورجینال کد کالا B9685A824SP",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "7e406c8f-6641-4b08-b132-fb3f973d1256",
+    "image_url": "https://image.torob.com/base/images/NM/wQ/NMwQ6kXJXoyNgZHR.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه دفاکتو اورجینال زرشکی Defacto D4269A824WN",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "bce300be-44ed-47f7-ac76-3b372c4a53ef",
+    "image_url": "https://image.torob.com/base/images/SO/CH/SOCHJBgLUjAOfG4R.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه پیپرتس کد 906",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پیپرتس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "1f05fc8c-1d08-4d8a-912d-6d34923c35d5",
+    "image_url": "https://image.torob.com/base/images/-F/Zx/-FZxxmhcpEjXYMX0.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند دفاکتو Defacto اصل 3143229",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "5ae95dd1-e955-4525-a834-b3b16bf5235e",
+    "image_url": "https://image.torob.com/base/images/K7/nc/K7nciTIqNPf9nfpe.jpg"
+  },
+  {
+    "title": "بافت دخترانه زیپ کیدز کد 1016068 - 17878 | Zepkids",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زیپ کیدز",
+          "Zepkids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "4a78a5b0-2482-4d0d-b169-77eaf73a8021",
+    "image_url": "https://image.torob.com/base/images/VX/Xz/VXXzBd3egg9VYJYv.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه برند کوتون Koton اصل 3WKG90023HT",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "14e7d944-51a5-4dff-8ce4-7a462b5cc708",
+    "image_url": "https://image.torob.com/base/images/j4/WX/j4WXAW77uTUopSsB.jpg"
+  },
+  {
+    "title": "بافت دخترانه بنتون 223A116QQ103W - 23173 | United Colors Of Benetton",
+    "group": "دخترانه",
+    "product": "بافت دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بنتون",
+          "United Colors Of Benetton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "64a8fa24-1311-4a5d-80c2-db9ecebae28e",
+    "image_url": "https://image.torob.com/base/images/jk/AX/jkAX_7beVdRM7A0U.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه السی وایکیکی LC Waikiki اورجینال S25314Z4CVL",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "12e7a2af-7e00-4b29-a520-e5090c762055",
+    "image_url": "https://image.torob.com/base/images/Z-/xG/Z-xGoSOZFQj5EffN.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه بنفش ال سی وایکیکی S25570Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "0a706013-6130-4f40-bdf7-f2c63af22292",
+    "image_url": "https://image.torob.com/base/images/wD/V0/wDV0Znrc8HmLRqgj.jpg"
+  },
+  {
+    "title": "بافت دخترانه به همراه شال و کلاه و هدبند",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "به همراه شال و کلاه و هدبند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "73040fa1-b987-4402-b775-fd26ee9e4d9d",
+    "image_url": "https://image.torob.com/base/images/TE/r3/TEr3rkPgOIVzdZ_x.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه السی وایکیکی LC Waikiki اورجینال W32424Z1 - V9H",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "54bdcd4e-ffbf-4e5f-a320-5bba9eaccc84",
+    "image_url": "https://image.torob.com/base/images/q3/Jj/q3JjDVcNqLD5swKP.jpg"
+  },
+  {
+    "title": "پلیور بافتنی دخترانه اکرو / مشکی زارا 2756/622/070",
+    "group": "دخترانه",
+    "product": "پلیور بافتنی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "اکرو",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور بافتنی"
+        ]
+      }
+    ],
+    "random_key": "0c057508-c67b-4d41-8717-d4b7841d4539",
+    "image_url": "https://image.torob.com/base/images/zf/kH/zfkHiXFKRWC4IGlN.jpg"
+  },
+  {
+    "title": "بافت دخترانه طرح قلب",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "5794465c-9998-488c-b3ee-26af76073cb7",
+    "image_url": "https://image.torob.com/base/images/6Y/0o/6Y0oYzWotFfQBGJA.jpg"
+  },
+  {
+    "title": "پلیور دختربچه سفید ال سی وایکیکی W24950Z4",
+    "group": "دختربچه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "986f1322-3a0b-4cd5-a621-ae3f77fe834f",
+    "image_url": "https://image.torob.com/base/images/u3/Ej/u3EjWVlxZx-M9SIV.jpg"
+  },
+  {
+    "title": "پلیور نیم زیپ دخترانه لوپیلو کد EU1719",
+    "group": "دخترانه",
+    "product": "پلیور نیم زیپ",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "6522d36b-ab74-4400-8b83-b6f526866678",
+    "image_url": "https://image.torob.com/base/images/LV/AL/LVALpYHJWgnpVxbf.jpg"
+  },
+  {
+    "title": "ژاکت بافت دخترانه برند LUPILU",
+    "group": "دخترانه",
+    "product": "ژاکت بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LUPILU"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت بافت"
+        ]
+      }
+    ],
+    "random_key": "b1dc63de-6727-49a2-a543-3465826423ae",
+    "image_url": "https://image.torob.com/base/images/xB/gP/xBgP7jwSRQir5kCs.jpg"
+  },
+  {
+    "title": "ژاکت بافتنی دخترانه کت بافتنی دستبافت",
+    "group": "دخترانه",
+    "product": "ژاکت بافتنی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دستبافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت بافتنی",
+          "کت بافتنی"
+        ]
+      }
+    ],
+    "random_key": "e9634c09-cc33-4340-91d4-4f7daeb24e86",
+    "image_url": "https://image.torob.com/base/images/3e/lG/3elGWgzIx4G93KoG.jpg"
+  },
+  {
+    "title": "بافت دخترانه پنگوئن snow",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پنگوئن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "a989bc78-1ddb-403b-84a3-de3a0d851152",
+    "image_url": "https://image.torob.com/base/images/9f/Nq/9fNq0Trf8S15McpR.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند کوتون اصل 4WKG90024AT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "187fcf91-9bc4-456b-9c98-2b7d8b860cd5",
+    "image_url": "https://image.torob.com/base/images/L3/8b/L38bjhbSyQnaQmAS.jpg"
+  },
+  {
+    "title": "بافت کشی دخترانه",
+    "group": "دخترانه",
+    "product": "بافت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت کشی"
+        ]
+      }
+    ],
+    "random_key": "b2a80d40-8b6e-4c77-a93d-dcbb8aaa4aaa",
+    "image_url": "https://image.torob.com/base/images/_w/Kp/_wKpa1jeg3PO8Kkg.jpg"
+  },
+  {
+    "title": "بافت دخترانه دفاکتو | C6902A824AU Defacto",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "cf6bb10c-bf29-4203-b542-a2ddff40a30c",
+    "image_url": "https://image.torob.com/base/images/Zz/HH/ZzHH8ycG0WdW5h-G.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه ال سی وایکیکی کد W20302Z4 - HRC | LCW Kids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LCW Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "6e12460a-3af0-44d6-936e-664a43a31f2f",
+    "image_url": "https://image.torob.com/base/images/Vh/CU/VhCUiqlMxq7y-p79.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه تون توی کیدز 23192 - 20065 | Toontoykids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تون توی کیدز",
+          "Toontoykids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "ac4167a3-05f9-4839-8c1f-0bc7144c0409",
+    "image_url": "https://image.torob.com/base/images/Zf/Zm/ZfZmas4S2fHYVddx.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه اورجینال السی وایکیکی قهوه ای LC Waikiki 4w3264 مانتو تمبر دخترانه Lcwk",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki",
+          "Lcwk"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور",
+          "مانتو تمبر"
+        ]
+      }
+    ],
+    "random_key": "971b84df-c2b9-4685-aac4-d47f45367043",
+    "image_url": "https://image.torob.com/base/images/xm/u2/xmu2xNI_AS5UuxFK.jpg"
+  },
+  {
+    "title": "بافت دخترانه | مایورال Mayoral MILKVIG00100",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "24ba1818-c0f6-49fa-a0d4-f4988e5fb692",
+    "image_url": "https://image.torob.com/base/images/C4/sV/C4sVLDiqGeaUBJGR.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه رصان بنفش برند Myhanne W2KK19Z1",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Myhanne"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "a3303d9c-fec1-49dc-ab1a-e2f73cf0cdd3",
+    "image_url": "https://image.torob.com/base/images/Dx/gQ/DxgQsticDPHoonu0.jpg"
+  },
+  {
+    "title": "پلیور دخترانه صورتی السی وایکیکی W37990Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "376a1a69-d751-4398-b885-5cefcd72683c",
+    "image_url": "https://image.torob.com/base/images/7t/7W/7t7WntyqkyTGZSMI.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه رصان آبی مانگو 47040163",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مانگو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "637abdf9-5572-4f53-92a4-bf81a7da0c3d",
+    "image_url": "https://image.torob.com/base/images/xj/C8/xjC8vOequ9lPFyNt.jpg"
+  },
+  {
+    "title": "پلیور دخترانه لوپیلو مدل SMB106",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "1e5b0e78-c562-49d7-a9f3-ad315b5b92cb",
+    "image_url": "https://image.torob.com/base/images/Eg/dx/EgdxNGtq-8ILZvB0.jpg"
+  },
+  {
+    "title": "بافت گپ رنگی دخترانه",
+    "group": "دخترانه",
+    "product": "بافت گپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت گپ"
+        ]
+      }
+    ],
+    "random_key": "9ae16f0b-b729-4715-89df-35d0a623b163",
+    "image_url": "https://image.torob.com/base/images/Qk/rM/QkrMC5__ITGHfBha.jpg"
+  },
+  {
+    "title": "بافت دخترانه تا 4 سال",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "تا 4 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "22b705c2-c97a-4b21-a83e-f7b6cddf8021",
+    "image_url": "https://image.torob.com/base/images/gH/8-/gH8-LhNHNXBKP1L7.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه سفید ال سی وایکیکی 9W2105Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "5b1901ae-2034-41fd-85f6-a4803c2ae75f",
+    "image_url": "https://image.torob.com/base/images/QL/tt/QLttNwbvghX88-S9.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه اورجینال السی وایکیکی صورتی LC Waikiki W3BR25Z4 Lw - ژاکت بافتنی دخترانه آستین بلند یقه دوزی شده",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki",
+          "Lw"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی",
+          "ژاکت بافتنی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "یقه دوزی شده"
+        ]
+      }
+    ],
+    "random_key": "1ee629bc-457c-4875-ab57-5f007ccf5338",
+    "image_url": "https://image.torob.com/base/images/3-/kL/3-kLZMc8kR4qE7R0.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه رصان آبی السی وایکیکی S24138Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "525ee8c7-0b99-41d5-8bf5-3ab15d835bff",
+    "image_url": "https://image.torob.com/base/images/7h/vs/7hvsH12FLBkBwQuo.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه السی وایکیکی اورجینال صورتی LC Waikiki W4DH94Z1",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "f910fb60-46a8-47ed-98bc-cac228679207",
+    "image_url": "https://image.torob.com/base/images/kT/9D/kT9DdFj3jF8sh7vI.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه مرجانی ال سی وایکیکی S1H403Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مرجانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "f22b2f46-aa36-4a81-abdf-552493ad599c",
+    "image_url": "https://image.torob.com/base/images/wp/bc/wpbcH-uffaOcGrwU.jpg"
+  },
+  {
+    "title": "بافت دخترانه دختر مو خرگوشی",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دختر مو خرگوشی"
+        ]
+      }
+    ],
+    "random_key": "314af008-2a90-4db3-b91e-2effd8d33216",
+    "image_url": "https://image.torob.com/base/images/no/d8/nod8eNUeG37ENb64.jpg"
+  },
+  {
+    "title": "ژاکت بامبر مخملی (کاپشن کوتاه) دو جیب نیوکالکشن اورجینال برند ZARA رنگ مشکی ذغالی.گرم و شیک از6 تا 13 سال",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ZARA"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی ذغالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت بامبر",
+          "کاپشن کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخملی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دو جیب",
+          "گرم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "از 6 تا 13 سال"
+        ]
+      }
+    ],
+    "random_key": "ad5d328f-b9c8-418f-814c-e6403eb8acdf",
+    "image_url": "https://image.torob.com/base/images/-5/HK/-5HKdDcG2MI223Ls.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه دفاکتو اورجینال B8283A824SM",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "346491c8-6c52-4b1e-994a-a0d89bcd6eb8",
+    "image_url": "https://image.torob.com/base/images/NO/tJ/NOtJIo3dLAT4VCXm.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه ال سی وایکیکی کیدز W2FK05Z4 - FDW | LCW Kids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LCW Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "5e16f11f-754a-4e54-93b0-94f615552288",
+    "image_url": "https://image.torob.com/base/images/mD/VH/mDVHd98_HvJZ256Y.jpg"
+  },
+  {
+    "title": "بافت طرح دار دخترانه | مایورال Mayoral MY23K4303",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "1492cd1e-cd01-4320-9ce0-8dc7cb56d353",
+    "image_url": "https://image.torob.com/base/images/GV/OH/GVOH_LFRzp2Ed1S0.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه ال سی وایکیکی کد W43394Z4 | LCW Kids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LCW Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "c661b77a-3300-4cf8-8f88-e3e9feedcfaf",
+    "image_url": "https://image.torob.com/base/images/Qi/ER/QiERqLI70syhTpwc.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند یو اس پلو U.S. Polo Assn. اصل 50224481-VR023",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "یو اس پلو",
+          "U.S. Polo Assn."
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "6020845e-eb1d-44d2-a036-23d4b10e058c",
+    "image_url": "https://image.torob.com/base/images/JN/JJ/JNJJjyFlc4g9oPrs.jpg"
+  },
+  {
+    "title": "پلیور بچه گانه دخترانه سفید برند Little Star W2JO85Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Little Star"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "684c48b9-bbdb-4397-bc40-50f8ca4a2c5c",
+    "image_url": "https://image.torob.com/base/images/dH/7a/dH7a3cGcOfROLVs2.jpg"
+  },
+  {
+    "title": "بافت بچه گانه دخترانه بنفش السی وایکیکی 9W1203Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "44777727-1bf8-4482-8c0f-eedf6783d861",
+    "image_url": "https://image.torob.com/base/images/xe/mH/xemH0s29-Uf8vWAk.jpg"
+  },
+  {
+    "title": "بافت آستین بلند راسته دخترانه | سیویل گرلز Civil Girls 45A68034923W1",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیویل گرلز",
+          "Civil Girls"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "a3272480-6d30-4181-bd31-51983902e8c1",
+    "image_url": "https://image.torob.com/base/images/sR/N-/sRN-ibeyOZAcj9FV.jpg"
+  },
+  {
+    "title": "بافت تک دخترانه بچگانه سایز 35 تا 50",
+    "group": "بچگانه / دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "35 تا 50"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "34499650-4b5b-4fc3-b0dd-f81cd501cd83",
+    "image_url": "https://image.torob.com/base/images/UO/w4/UOw4kkut3u3dajaQ.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه اورجینال کوتون بژ Koton 5WKG90026HT تضاد رنگ دقیق دکمه دامن لباس بافتنی",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "3ef617c0-d2ae-425c-bbba-d85fb00bcf38",
+    "image_url": "https://image.torob.com/base/images/Pf/nh/PfnhiqTKMderH_IJ.jpg"
+  },
+  {
+    "title": "ژاکت کشی نوزاد دخترانه برند DIDuStore اصل 42016",
+    "group": "نوزاد دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "DIDuStore"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "46147ef7-ee5d-495b-948f-9f63b6dda319",
+    "image_url": "https://image.torob.com/base/images/Sm/My/SmMyKZMSO1E4Z5MQ.jpg"
+  },
+  {
+    "title": "بافت آستین معلق راسته دخترانه | مایورال Mayoral MY24K7001",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین معلق"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "250e98a6-07d0-49d8-a099-f5b735911524",
+    "image_url": "https://image.torob.com/base/images/AE/x5/AEx5U0AQFLEhbTN5.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "648c37a3-0825-42ab-9174-7b2a822f9972",
+    "image_url": "https://image.torob.com/base/images/Fv/CK/FvCKmqOie54Q48NX.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه اور سایز دکسیا AG4106 - 19965 | Dexia",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اور سایز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکسیا",
+          "Dexia"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "6d633dc7-2da6-4054-9bbc-e9c41122193f",
+    "image_url": "https://image.torob.com/base/images/Vm/Fw/VmFw2rMmqPjxebW_.jpg"
+  },
+  {
+    "title": "ژاکت آستین بلند دخترانه | مایورال Mayoral 0321-MYRLRED",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "0ad5a9ad-2fd1-4005-9624-61e4971d678b",
+    "image_url": "https://image.torob.com/base/images/ud/95/ud95q-bAHHxZi5mz.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه تون توی کیدز 24426 - 19928 | Toontoykids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تون توی کیدز",
+          "Toontoykids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "1eafe8f1-32ad-41f1-b906-c1221b48f279",
+    "image_url": "https://image.torob.com/base/images/E2/GD/E2GDn9Hzei-JzAKy.jpg"
+  },
+  {
+    "title": "پلیور دختربچه سیاه ال سی وایکیکی W2BJ31Z4",
+    "group": "دختربچه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "1954d54d-a186-4217-82dc-695becdd1456",
+    "image_url": "https://image.torob.com/base/images/YB/5j/YB5jdq4M2ht3CB_A.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه | مایورال Mayoral",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "7949f34b-55c7-4b1a-922e-7aed2dcd7ad5",
+    "image_url": "https://image.torob.com/base/images/s9/80/s980uAVUtJCI8-09.jpg"
+  },
+  {
+    "title": "بافت دخترانه",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "59d1ce4a-700e-4aa9-bc35-cff3ebe32bac",
+    "image_url": "https://image.torob.com/base/images/LT/cg/LTcgfONTOjVYwYSB.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند کوتون Koton اصل 4WKG90007HT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "14318e86-2ada-4a9d-995a-661337dbd035",
+    "image_url": "https://image.torob.com/base/images/ws/d7/wsd76QGjY2EIQPf5.jpg"
+  },
+  {
+    "title": "ژاکت آستین استاندارد سلولی دخترانه | شیک بوی çikoby 20501",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین استاندارد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "7ca4aec9-20ca-4bc4-8099-757baf1d2e5b",
+    "image_url": "https://image.torob.com/base/images/M0/fl/M0flAl62RUGiVRHC.jpg"
+  },
+  {
+    "title": "پلیور دخترانه سی اند ای کد 5085",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "d8452541-6269-4791-9694-ceb2147b6028",
+    "image_url": "https://image.torob.com/base/images/WD/TF/WDTFZr8AVI7Wdu8_.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه برند کوتون Koton اصل 4SMG90008HT",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "2a3673b9-b43d-4f6b-8f85-5e2985f55c0a",
+    "image_url": "https://image.torob.com/base/images/JG/fE/JGfEjVYTI4SYdENi.jpg"
+  },
+  {
+    "title": "لباس بچگانه ژاکت بافت آستین بلند دخترانه زمستانه طرح دختر و آدم برفی",
+    "group": "بچگانه و دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دختر و آدم برفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت بافت"
+        ]
+      }
+    ],
+    "random_key": "586bd9c8-aaaa-42d7-a086-cd2d4681a347",
+    "image_url": "https://image.torob.com/base/images/G6/xz/G6xz4KncTQowPDsJ.jpg"
+  },
+  {
+    "title": "بافت دخترانه دنو کیدز CFF-23S1-003 - 20024 | Denokids",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دنو کیدز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "93a78079-ccb4-4574-8777-fb7f69336e21",
+    "image_url": "https://image.torob.com/base/images/k7/tp/k7tpl50Y0bkmeV3r.jpg"
+  },
+  {
+    "title": "ژاکت آستین معلق راسته دخترانه | مایورال Mayoral MY24K7317",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین معلق"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "ade9d0df-775d-44c0-bb39-e4bca1fed829",
+    "image_url": "https://image.torob.com/base/images/uR/VX/uRVXy2bhPs7auc05.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه مانگو کیدز اورجینال 67003277",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مانگو کیدز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "0eca53f0-cfda-4336-a98b-eb4d048214dd",
+    "image_url": "https://image.torob.com/base/images/m1/nU/m1nUDhnoSBppz6tO.jpg"
+  },
+  {
+    "title": "گپ بافت دخترانه گرم بالا استیکردار دوخت (55 ، 60)",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گرم بالا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "55",
+          "60"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گپ بافت"
+        ]
+      }
+    ],
+    "random_key": "34834bd4-b73f-4455-82b5-5c20710b4a14",
+    "image_url": "https://image.torob.com/base/images/oJ/g3/oJg318u1FZHFWFOu.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه دفاکتو اورجینال آبی سرمه ای Defacto C0575A824SP",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      }
+    ],
+    "random_key": "50b9127e-68de-4714-88ce-25f0512508f8",
+    "image_url": "https://image.torob.com/base/images/ET/Vi/ETViwYimM62hCXvz.jpg"
+  },
+  {
+    "title": "بافت آستین استاندارد راسته دخترانه | مایورال Mayoral MY23Y303",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین استاندارد"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "c0c6ddf2-73fe-4950-b65d-89b14f320132",
+    "image_url": "https://image.torob.com/base/images/XN/m0/XNm00gEfpyM6lGGO.jpg"
+  },
+  {
+    "title": "بافت بچه گانه دخترانه بنفش مانگو 47053650",
+    "group": "بچه گانه و دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مانگو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "63292050-94af-45e8-9a52-d3d89832c23f",
+    "image_url": "https://image.torob.com/base/images/q1/ht/q1htRyGptKyO-O5t.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه پانچو Panço اورجینال دخترانه کد کالا 2321GB18014",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پانچو"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت و پلیور"
+        ]
+      }
+    ],
+    "random_key": "aecc11e6-078d-42ed-b072-27200cc0ac7f",
+    "image_url": "https://image.torob.com/base/images/Ep/KC/EpKCENvKHu7srrmv.jpg"
+  },
+  {
+    "title": "بافت راسته دخترانه | مایورال Mayoral mk23.7368",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "5dae17ef-2e1d-4af1-8ae8-bba568324884",
+    "image_url": "https://image.torob.com/base/images/rN/8h/rN8hcs4aV6oG9wjd.jpg"
+  },
+  {
+    "title": "بافت گپ دخترانه سایز 40",
+    "group": "دخترانه",
+    "product": "بافت گپ",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت گپ"
+        ]
+      }
+    ],
+    "random_key": "0fce0a06-f096-4a5a-8ee9-d8e38d05a61c",
+    "image_url": "https://image.torob.com/base/images/or/la/orlaNrSLBprK_7Xl.jpg"
+  },
+  {
+    "title": "پلیور دخترانه زرد ال سی وایکیکی S2CQ30Z4",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "811344d4-2c85-44ac-b916-4b0e43a56d2c",
+    "image_url": "https://image.torob.com/base/images/iB/5E/iB5Efj0A4rmLeQXb.jpg"
+  },
+  {
+    "title": "بافت دخترانه",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "9de03c2b-c298-4f4a-bfb6-0f4c4fcc4fbe",
+    "image_url": "https://image.torob.com/base/images/jI/r9/jIr91jS9M42qECrq.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه السی وایکیکی LC Waikiki اورجینال W4DH69Z1",
+    "group": "دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "84cd5598-5de1-4206-a278-7055c9b3539e",
+    "image_url": "https://image.torob.com/base/images/YR/CO/YRCOm6DiTiv2ovNy.jpg"
+  },
+  {
+    "title": "پلیور دخترانه جین وست Jeanswest کد 23691502",
+    "group": "دخترانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جین وست",
+          "Jeanswest"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "7cb4f260-13f5-43a1-b388-4ccb38f6d71c",
+    "image_url": "https://image.torob.com/base/images/XL/Dw/XLDwURl_ndNLE5M1.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه دفاکتو اورجینال اکرو Defacto C6909A824AU",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "اکرو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور"
+        ]
+      }
+    ],
+    "random_key": "8b88f73f-b6a2-450a-b36f-7eb462dd7040",
+    "image_url": "https://image.torob.com/base/images/mw/ht/mwhtEXSfL0S7qSyz.jpg"
+  },
+  {
+    "title": "ژاکت بافت دخترانه برند پیپرتس کد ۳۰۵۱۰۹",
+    "group": "دخترانه",
+    "product": "ژاکت بافت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پیپرتس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "6758cf21-c107-411e-97ae-c90387dce23b",
+    "image_url": "https://image.torob.com/base/images/6r/jz/6rjzePe_uUZkwsg6.jpg"
+  },
+  {
+    "title": "ژاکت راسته دخترانه | مایورال Mayoral 29MYRL01303",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال",
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "2dc793da-9a30-47d7-9c4d-3405798d498b",
+    "image_url": "https://image.torob.com/base/images/9H/7N/9H7NyygrHg1mpFvu.jpg"
+  },
+  {
+    "title": "بافت دخترانه ریلکس ال سی وایکیکی W42685Z4 | LCW Kids",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LCW Kids"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "ریلکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "ac59f9b9-769f-4888-8363-2942d391d33c",
+    "image_url": "https://image.torob.com/base/images/HB/pW/HBpWFi68cbdbTnPq.jpg"
+  },
+  {
+    "title": "ژاکت دخترانه تون توی کیدز 24254 - 19951 | Toontoykids",
+    "group": "دخترانه",
+    "product": "ژاکت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تون توی کیدز",
+          "Toontoykids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "815d50b7-6842-4d17-87be-1ae2636ec818",
+    "image_url": "https://image.torob.com/base/images/dT/Vl/dTVl9a0pIoee0mLS.jpg"
+  },
+  {
+    "title": "بافت و پلیور دخترانه Marks & Spencer T77006336C اورجینال مارکس اند اسپنسر بژ ژاکت یقه گرد Disney Frozen™ (سنین ۲ تا ۷ سال)",
+    "group": "دخترانه",
+    "product": "بافت و پلیور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Marks & Spencer",
+          "مارکس اند اسپنسر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه گرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت",
+          "پلیور",
+          "ژاکت"
+        ]
+      }
+    ],
+    "random_key": "2eb67a5a-e301-4472-97b5-34dd451ce9bf",
+    "image_url": "https://image.torob.com/base/images/sC/eT/sCeThca8cq35fU_P.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه برند کوتون Koton اصل 4WKG90049AT",
+    "group": "دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      }
+    ],
+    "random_key": "84088b8a-653a-4a43-8d16-879113470686",
+    "image_url": "https://image.torob.com/base/images/XS/SW/XSSWhjSs8ILpf4b8.jpg"
+  },
+  {
+    "title": "ژاکت کشی دخترانه برند السی وایکیکی LC Waikiki اصل W43066Z1",
+    "group": "دخترانه",
+    "product": "ژاکت کشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت کشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      }
+    ],
+    "random_key": "6ac3f371-4bad-45c7-8d0c-f5966b96d605",
+    "image_url": "https://image.torob.com/base/images/eC/qY/eCqY3QrwP7dxHScN.jpg"
+  },
+  {
+    "title": "بافت زنانه رگولار للا 4616171 | Lela",
+    "group": "زنانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "رگولار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "للا",
+          "Lela"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "406faf0c-022a-412b-91e5-a00559ab0225",
+    "image_url": "https://image.torob.com/base/images/i4/yq/i4yq9I522zQWG79E.jpg"
+  },
+  {
+    "title": "بافت دخترانه سفید ال سی وایکیکی 9WG731Z4",
+    "group": "دخترانه",
+    "product": "بافت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "548614be-41cb-46b5-ae42-82b35a251ec5",
+    "image_url": "https://image.torob.com/base/images/uc/6d/uc6dlPkSI7FG34Ys.jpg"
+  }
+]

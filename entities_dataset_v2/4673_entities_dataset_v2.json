@@ -1,0 +1,7263 @@
+[
+  {
+    "title": "مرجان آبی طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "2ba7cbd8-7027-4fa6-b772-bbfc76e06545",
+    "image_url": "https://image.torob.com/base/images/lE/MJ/lEMJ9WYtYXqGButf.jpg"
+  },
+  {
+    "title": "سنگ مرجان فسیلی اصل کد6",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "7e2a818d-b81b-42a7-b7b8-bd16cfcfb921",
+    "image_url": "https://image.torob.com/base/images/s-/vO/s-vO-jnfdJ7lBkhP.jpg"
+  },
+  {
+    "title": "مهره سنگ مرجان سرخ سایز6 میل مرجان",
+    "group": "نامشخص",
+    "product": "مهره سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6 میل"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "7b3e9179-5747-4d5c-983b-870d8993065a",
+    "image_url": "https://image.torob.com/base/images/QS/kS/QSkSQ2apvQCd3YbQ.jpg"
+  },
+  {
+    "title": "نگین مرجان کد 26877",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "1b8d48b2-22ce-4c03-a65f-ea49232cbc16",
+    "image_url": "https://image.torob.com/base/images/OS/KD/OSKDV7ANRJpJ1Rn-.webp"
+  },
+  {
+    "title": "نگین مرجان فسیلی سیاه اصل کد 4",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "df28df83-0ddd-41d5-aa80-1f926e32005e",
+    "image_url": "https://image.torob.com/base/images/qd/uA/qduAjMVMzHXN4bf8.jpg"
+  },
+  {
+    "title": "مرجان برشی طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان برشی"
+        ]
+      }
+    ],
+    "random_key": "ea80fbfd-961d-482e-938d-2e09c0fb9aca",
+    "image_url": "https://image.torob.com/base/images/5w/Ky/5wKysXReELtL8vBC.jpg"
+  },
+  {
+    "title": "نگین مرجان فسیلی سیاه اصل کد5",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "734a31ad-b102-4d62-b083-69df3c33f7de",
+    "image_url": "https://image.torob.com/base/images/jw/qC/jwqCpO48gljaZ5Bh.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان فسیلی",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "f991ee12-6cfe-4f47-9ce7-a60ad37a4f3b",
+    "image_url": "https://image.torob.com/base/images/fb/ox/fboxWNoqo-FGev_N.webp"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان فسیلی",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "8b801bb1-e7e1-4b88-9e53-7f409daff04f",
+    "image_url": "https://image.torob.com/base/images/dY/FT/dYFTabF2er4th7N9.webp"
+  },
+  {
+    "title": "مرجان استخوانی با شکلی بسیار خاص و زیبا",
+    "group": "نامشخص",
+    "product": "مرجان استخوانی",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "بسیار خاص"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان استخوانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان استخوانی"
+        ]
+      }
+    ],
+    "random_key": "1dc11363-d0da-430d-bd4c-dfbd2911e697",
+    "image_url": "https://image.torob.com/base/images/8g/zi/8gziHaTJ8238BEAV.jpg"
+  },
+  {
+    "title": "سنگ مرجان قرمز رنگ شده ۲۴۰۵۹۹",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "7bba0b14-d5f3-427c-b893-e9809342cebd",
+    "image_url": "https://image.torob.com/base/images/rr/3b/rr3buoj-C7Nw1b_v.jpg"
+  },
+  {
+    "title": "سنگ نگین مرجان سرخ",
+    "group": "نامشخص",
+    "product": "سنگ نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "0d13c96b-2bec-4499-97fe-0acc01b1b0ce",
+    "image_url": "https://image.torob.com/base/images/L8/qR/L8qRfOsTmcB5YknV.jpg"
+  },
+  {
+    "title": "مرجان دریایی کاملا طبیعی فوق کلکسیونی بسیار خاص و منحصربفرد و زیبا کد 17",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "کاملا طبیعی",
+          "فوق کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار خاص",
+          "منحصربفرد",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "de329c08-602e-4415-a250-dfb8297611dd",
+    "image_url": "https://image.torob.com/base/images/yv/r7/yvr7e3NlUTGF56kY.jpg"
+  },
+  {
+    "title": "مرجان خیلی قدیمی اصل اصل به شرط",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خیلی قدیمی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "c77a3542-6b3c-4589-a48d-4167804be6ab",
+    "image_url": "https://image.torob.com/base/images/T-/5V/T-5Vc5NTHPF12UDI.jpg"
+  },
+  {
+    "title": "سنگ های مرجان دریایی بسیار خاص",
+    "group": "نامشخص",
+    "product": "سنگ مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "d9f4c9a6-b178-4a27-b4bf-53a8de497b69",
+    "image_url": "https://image.torob.com/base/images/7N/pZ/7NpZUJSZlT_kQ_Dh.jpg"
+  },
+  {
+    "title": "مرجان مرجان",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "65879242-cf0f-4ebe-aaf4-04787721abf7",
+    "image_url": "https://image.torob.com/base/images/Vr/OW/VrOWAtqJEu60ziQQ.jpg"
+  },
+  {
+    "title": "سنگ مرجان فسیلی اصل کد 15",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "05dd7157-de9f-4ba1-bfd7-7647a3b33e6f",
+    "image_url": "https://image.torob.com/base/images/Ct/vV/CtvV0i0Sq2e52TxG.jpg"
+  },
+  {
+    "title": "نگین فسیل مرجان بیضی",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیل"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین فسیل مرجان"
+        ]
+      }
+    ],
+    "random_key": "032dfb14-31d5-40c4-8acc-8eeb0f2b669b",
+    "image_url": "https://image.torob.com/base/images/8d/i2/8di2EV31jcIzuyYG.jpg"
+  },
+  {
+    "title": "نگین مرجان گلی طبیعی معدنی یه سنگ خاص و زیبا و بخصوص با فاکتور تضمین اصالت سنگ",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "زیبا",
+          "بخصوص",
+          "با فاکتور تضمین اصالت سنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ"
+        ]
+      }
+    ],
+    "random_key": "1550a4ce-99af-4e18-a4bc-7a478ccb8b04",
+    "image_url": "https://image.torob.com/base/images/iB/UY/iBUYRTArOaIUlhen.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "0dbd4c6e-0f0c-40ca-98ca-c153adc39777",
+    "image_url": "https://image.torob.com/base/images/1O/iB/1OiBvlj0VoSS7IYT.webp"
+  },
+  {
+    "title": "سنگ مرجان طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "a81b151e-e74b-4c67-a6c3-cfbd087de3ad",
+    "image_url": "https://image.torob.com/base/images/Rk/nL/RknL5ieWNZzZQ1MX.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "2b87b821-aa99-4e08-8eae-e635e1baddd0",
+    "image_url": "https://image.torob.com/base/images/Oa/B6/OaB6OusyjK6hbW4f.jpg"
+  },
+  {
+    "title": "مرجان خاص و طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "aaab0beb-c67f-4c92-a300-15a9a52919a2",
+    "image_url": "https://image.torob.com/base/images/m_/Ll/m_LlzUb-PWYLa8XM.jpg"
+  },
+  {
+    "title": "پک ۵ عدد مرجان اندونزی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "۵ عدد"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "اندونزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک مرجان"
+        ]
+      }
+    ],
+    "random_key": "36686f58-768a-4ec9-aac4-c2558137fbea",
+    "image_url": "https://image.torob.com/base/images/nu/E4/nuE42fhPx1FncOyO.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "cd12fb2a-dd8e-4f09-b826-5052fef6d7c0",
+    "image_url": "https://image.torob.com/base/images/jS/3o/jS3ojKIO5fgsJrbD.webp"
+  },
+  {
+    "title": "مرجان دریایی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "f78e1f52-5d35-41d5-85d2-434b9426e747",
+    "image_url": "https://image.torob.com/base/images/_E/MW/_EMWZItI8c7opdc9.jpg"
+  },
+  {
+    "title": "مرجان توتیای دریای بزرگ بنفش رنگ خاص و نادر",
+    "group": "نامشخص",
+    "product": "مرجان توتیا",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "توتیای دریای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "نادر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان توتیا"
+        ]
+      }
+    ],
+    "random_key": "dcc2f74a-c195-41ef-aa45-a850c2aa956f",
+    "image_url": "https://image.torob.com/base/images/7Q/lo/7QlopwPGE5ekOZo6.jpg"
+  },
+  {
+    "title": "سنگ مرجان بهسازی شده قرمزرنگ ۷۹۱۹",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمزرنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "1efabd75-7558-4aa5-af02-d97cae1e64b7",
+    "image_url": "https://image.torob.com/base/images/pA/jN/pAjN4J4jcYAPKI3y.jpg"
+  },
+  {
+    "title": "نگین مرجان فسیلی اصل کد10",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "46892346-4136-4b0a-9a5a-ab73803d2ac9",
+    "image_url": "https://image.torob.com/base/images/V7/af/V7afYdfulWyGrvM_.jpg"
+  },
+  {
+    "title": "مرجان بسیار شکیل و زیبا",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شکیل",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "efdc2553-c5cf-40dc-b023-1f46c77d43dd",
+    "image_url": "https://image.torob.com/base/images/SE/6b/SE6bCxthWuImtQAU.jpg"
+  },
+  {
+    "title": "مهره سنگ مرجان طبیعی دفرمه مرجان سرخ",
+    "group": "نامشخص",
+    "product": "مهره سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "دفرمه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "a44001a1-ee7e-44b8-a280-d753e89d748a",
+    "image_url": "https://image.torob.com/base/images/8B/nc/8BncaHGRMrbCTiqH.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز کد3",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "deef517c-8d7e-4af8-94d1-a8c8ee052def",
+    "image_url": "https://image.torob.com/base/images/lE/dt/lEdtfCM3SkkD7Bfe.jpg"
+  },
+  {
+    "title": "مرجان دریایی کد 01 وزن 100 گرم",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "100 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "68d43373-68b6-4202-80d0-8004ca8aa62c",
+    "image_url": "https://image.torob.com/base/images/0_/3k/0_3kSL7pXiYawSZI.jpg"
+  },
+  {
+    "title": "نگین مرجان فسیلی طبیعی",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "435de9ce-0bf4-467a-97f2-c011fc8b3b39",
+    "image_url": "https://image.torob.com/base/images/-t/Rg/-tRg16rl0WEBC3nj.jpg"
+  },
+  {
+    "title": "دو عدد مرجان استخوانی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان استخوانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "fd5c9885-9307-459d-a0e4-3d054c66a35a",
+    "image_url": "https://image.torob.com/base/images/zh/Uj/zhUj4YMRgtQ5qigJ.jpg"
+  },
+  {
+    "title": "سنگ مرجان فسیلی اصل کد 11",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "5281eb5d-a823-4e82-bd88-b25c69f2aa98",
+    "image_url": "https://image.torob.com/base/images/MA/z1/MAz1dQ90PRcBUrfY.jpg"
+  },
+  {
+    "title": "دو قطعه مهره مرجان سوراخ شده مصنوعی یا سنتتیک",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "مصنوعی",
+          "سنتتیک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "ccc6be56-c250-47af-b6ba-269435e4a1e5",
+    "image_url": "https://image.torob.com/base/images/s0/LI/s0LIZrdCDkQGtaul.jpg"
+  },
+  {
+    "title": "نگین مرجان لامپی رطوبتی با نور زیاد",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان لامپی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رطوبتی",
+          "با نور زیاد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "872b158f-0089-4473-accd-2eade2fd426a",
+    "image_url": "https://image.torob.com/base/images/61/3f/613fEwN7bVv-OCuY.jpg"
+  },
+  {
+    "title": "110 گرم مرجان سرخ",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "110 گرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "cf732e63-83df-4485-b12c-1764c1883708",
+    "image_url": "https://image.torob.com/base/images/d_/O7/d_O7OUE-6YuzTIXa.jpg"
+  },
+  {
+    "title": "نگین انگشتر مرجان درشت با خواص عجیب _کد:۱۹۳۸۵",
+    "group": "نامشخص",
+    "product": "نگین انگشتر مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین انگشتر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درشت",
+          "با خواص عجیب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین انگشتر مرجان"
+        ]
+      }
+    ],
+    "random_key": "e10785bf-72c7-4c91-b8e7-5cd5e68db583",
+    "image_url": "https://image.torob.com/base/images/nd/M5/ndM5a69_3jEE08Oe.jpg"
+  },
+  {
+    "title": "سنگ بیضی مرجان سرخ بهسازی شده ۲۴۰۵۸۲",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "9708bd11-a384-42cb-bce0-51bdb55445e4",
+    "image_url": "https://image.torob.com/base/images/Gb/Pc/GbPcaD5N1iCxaASo.jpg"
+  },
+  {
+    "title": "سنگ مرجان قرمز(100گرمی )",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "100 گرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "dc5e3469-804f-40ab-bcad-1a30fe019f38",
+    "image_url": "https://image.torob.com/base/images/Y2/uG/Y2uGw06MVFO0T5kn.jpg"
+  },
+  {
+    "title": "ریسه سنگ مرجان اصلی سایز 6 - سایز",
+    "group": "نامشخص",
+    "product": "ریسه سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "ریسه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصلی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "021065fc-962e-43f8-8498-bb24ea1c7102",
+    "image_url": "https://image.torob.com/base/images/ZA/e1/ZAe1uTPs9KIP2YMy.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "2bd59aa0-6348-4826-bf9c-f624a7e9c8ae",
+    "image_url": "https://image.torob.com/base/images/0L/RW/0LRWzJZZIyOi_JsI.webp"
+  },
+  {
+    "title": "نگین مرجان طبیعی",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "2f44af10-fa15-48e6-b144-39474e10fca9",
+    "image_url": "https://image.torob.com/base/images/po/73/po732ToKE6ZcEUZn.jpg"
+  },
+  {
+    "title": "مرجان قرمز",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "15b4280f-188d-4706-b424-0144cb4c811b",
+    "image_url": "https://image.torob.com/base/images/lv/O1/lvO1K0ppXoE85V3l.jpg"
+  },
+  {
+    "title": "سنگ مرجان قرمز اصل بهسازی شده 241326",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "6bd5ccac-6c57-4890-91f3-47edf047f2f1",
+    "image_url": "https://image.torob.com/base/images/Ff/Mr/FfMrP3yWTIUOqJQ-.webp"
+  },
+  {
+    "title": "مرجان استخوانی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان استخوانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "954afc1f-dbbf-468c-8a0e-a832887c4299",
+    "image_url": "https://image.torob.com/base/images/7a/2m/7a2mVR6q_UYIIf46.jpg"
+  },
+  {
+    "title": "مرجان آبی طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "e35c8e73-9cd2-44ce-8dca-1cdac925227c",
+    "image_url": "https://image.torob.com/base/images/Vh/NT/VhNTRo7law10jKSF.jpg"
+  },
+  {
+    "title": "مرجان توتیای دریای بزرگ بنفش خاص و نادر",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "توتیای دریایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "نادر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "f40202cb-216f-4058-b30e-b437a02142ff",
+    "image_url": "https://image.torob.com/base/images/vO/0s/vO0sPeXZ9NWbsZ0w.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "58bcb379-957c-4413-914f-9833515b1da8",
+    "image_url": "https://image.torob.com/base/images/xo/qf/xoqfiThV0-X6psex.webp"
+  },
+  {
+    "title": "مرجان قرمز",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "5b66f2a7-2954-47fe-aa05-94b8922220be",
+    "image_url": "https://image.torob.com/base/images/6J/a7/6Ja7Z04PC3EOAeVf.webp"
+  },
+  {
+    "title": "سنگ مرجان شنی جمجمه انسان (پس کرایه)",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "جمجمه انسان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان شنی"
+        ]
+      }
+    ],
+    "random_key": "3e3eb444-2746-4f9b-a092-4c49dc9d74ef",
+    "image_url": "https://image.torob.com/base/images/Wo/8d/Wo8dZg1SCljP7LZy.jpg"
+  },
+  {
+    "title": "35 عدد نگین مرجان",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "cc3e52c1-890a-48e1-9f9b-26538d9eafd0",
+    "image_url": "https://image.torob.com/base/images/-m/EI/-mEIwq2gRYG5wMpn.jpg"
+  },
+  {
+    "title": "سنگ ناب و خوشرنگ مرجان1023 گرم MYM11",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "1023 گرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ناب",
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "22042a0f-5dd7-4144-a9c9-54b219617a23",
+    "image_url": "https://image.torob.com/base/images/ag/-M/ag-M_Q-wWAgevD5h.jpg"
+  },
+  {
+    "title": "مرجان های سنگ شده بکر و طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "سنگ شده",
+          "بکر",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "917b1a94-afb5-4501-b804-d4a70ecc2b64",
+    "image_url": "https://image.torob.com/base/images/66/X2/66X2YPDiLVEjSu_S.jpg"
+  },
+  {
+    "title": "مرجان آبی طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "6403a57c-eaaf-48ea-94b8-c1144257d846",
+    "image_url": "https://image.torob.com/base/images/ye/S6/yeS6u3s7byAEgw7x.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "702f7a9b-6d0a-4046-a1e2-f0bebc15b7db",
+    "image_url": "https://image.torob.com/base/images/t8/yD/t8yD6gt3ri3yZ4pM.webp"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "951bd370-1259-4629-ac34-cdca8f0d7f25",
+    "image_url": "https://image.torob.com/base/images/wL/_I/wL_IZKMfLS7Lupj-.jpg"
+  },
+  {
+    "title": "سنگ راف مرجان شاخه ای گلبهی بسیار خوشرنگ صددرصد طبیعی دکوری- سنگ درمانی وزن حدود 11 گرم",
+    "group": "نامشخص",
+    "product": "سنگ راف مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "شاخه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گلبهی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار خوشرنگ",
+          "صددرصد طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف مرجان",
+          "دکوری",
+          "سنگ درمانی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "حدود 11 گرم"
+        ]
+      }
+    ],
+    "random_key": "40dc6be5-9685-43dc-ad36-5227dae18b9d",
+    "image_url": "https://image.torob.com/base/images/Wq/t8/Wqt8fNv5GThqM-8w.webp"
+  },
+  {
+    "title": "مهره سنگ مرجان سایز 4سوراخ دار سنگ اصل طببعی درجه یک معدنی",
+    "group": "نامشخص",
+    "product": "مهره سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 سوراخ دار"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "اصل",
+          "طبیعی",
+          "درجه یک",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "b3d6139b-b714-4a36-8fa6-a69972f4ec7b",
+    "image_url": "https://image.torob.com/base/images/FC/NO/FCNOaLFMqmHxYk-o.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "4e7e70c8-7277-4951-8893-9dead714e549",
+    "image_url": "https://image.torob.com/base/images/wn/b_/wnb_FKld0ANErv5-.webp"
+  },
+  {
+    "title": "نگین زیبای مرجان سرخ طبیعی با خواص درمانی",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "خواص درمانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "880f2c1b-9f35-4b22-bbf3-db5cf7297ca1",
+    "image_url": "https://image.torob.com/base/images/7N/do/7Ndo-z1mXJJ5JJQ7.jpg"
+  },
+  {
+    "title": "نگین مرجان نارنجی اصل براق خوشرنگ کد N_1813",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل",
+          "براق",
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "dda07c9f-0429-4686-b047-0598a8524dc1",
+    "image_url": "https://image.torob.com/base/images/3M/tD/3MtDFLs7kvh6hmfv.jpg"
+  },
+  {
+    "title": "مهره مرجان قرمز درجه یک مهره مرجان سرخ اصل وارداتی وارداتی سایز 6 میل",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "سرخ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6 میل"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "b5547334-9be0-49e5-93b0-276cd6f02066",
+    "image_url": "https://image.torob.com/base/images/tY/KN/tYKNZm6XLJFtZzxo.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "ac443cf9-5014-4cbd-bebf-50f8ef362d31",
+    "image_url": "https://image.torob.com/base/images/Gx/f4/Gxf47AoxQlxdJuwK.webp"
+  },
+  {
+    "title": "نگین مرجان خوشرنگ رنگ تقویت شده کد 139374",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تقویت شده"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "69c9a1d6-533e-41e7-b3e2-81f4d61621bc",
+    "image_url": "https://image.torob.com/base/images/Ji/M6/JiM6ildZ0qpR99GO.jpg"
+  },
+  {
+    "title": "مرجان دانکن استرالیا",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دانکن"
+        ]
+      }
+    ],
+    "random_key": "1ac82ed8-a7c4-49d4-b0c4-40c6786314f8",
+    "image_url": "https://image.torob.com/base/images/em/nu/emnuStpWZky35ktf.webp"
+  },
+  {
+    "title": "مرجان طبیعی زیبا متوسط",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "3597ce17-da69-4c97-b88c-3683a3399677",
+    "image_url": "https://image.torob.com/base/images/Wq/Uu/WqUuumtJE_NhFBNq.jpg"
+  },
+  {
+    "title": "نگین ریز مرجان سرخ طببعی دریایی مناسب رکاب",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "ریز"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "97734e70-75a0-47d8-ba1d-8449244d76b2",
+    "image_url": "https://image.torob.com/base/images/Qi/Ev/QiEvJaFmnC7binrf.jpg"
+  },
+  {
+    "title": "سنگ مرجان شناسنامه دار",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "6b5e7e0f-9fe5-4fb2-990e-6949d6029ada",
+    "image_url": "https://image.torob.com/base/images/5K/KM/5KKM9lIUlrour82-.jpg"
+  },
+  {
+    "title": "مرجان سیاه",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "cf6da607-0d01-49a3-9b2e-46a74e5aa87c",
+    "image_url": "https://image.torob.com/base/images/DP/Ht/DPHtf9RiGzhrxOL3.jpg"
+  },
+  {
+    "title": "مرجان طبیعی دریایی غول پیکر",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "غول پیکر"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "7e9456ee-69ad-43d5-b019-1eba3b48360c",
+    "image_url": "https://image.torob.com/base/images/QM/nl/QMnl7zZgQFk9wRuf.jpg"
+  },
+  {
+    "title": "نگین مرجان اصل براق خوشرنگ کد N_1905",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "براق"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "8a6f74f0-fe21-4359-8f9e-a8aadc4dc80f",
+    "image_url": "https://image.torob.com/base/images/3Q/pa/3Qpaxxe3nljFl3hz.jpg"
+  },
+  {
+    "title": "سنگ مرجان اصل (پس کرایه)",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "15463ab0-4a71-405d-a7f8-5b27e5ffd7e7",
+    "image_url": "https://image.torob.com/base/images/on/0j/on0jknS2xG2QDlC5.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "775e44e8-0f55-440f-84ea-bd7a1dcd544e",
+    "image_url": "https://image.torob.com/base/images/5q/rZ/5qrZjMiBUV7pGqWb.jpg"
+  },
+  {
+    "title": "سنگ مرجان سرخ 240795",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "a2d1fed5-e1ec-4102-a6db-eee35ea00d95",
+    "image_url": "https://image.torob.com/base/images/Fm/If/FmIfzh-Fz33epQDT.webp"
+  },
+  {
+    "title": "مرجان دریایی زیبا",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "e207cfc8-3eb7-45f2-a20c-8911ba7db37c",
+    "image_url": "https://image.torob.com/base/images/T1/9P/T19PX_T6PNsZBSlG.jpg"
+  },
+  {
+    "title": "مرجان دریایی کلکسیونی کاملا طبیعی کد 12",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی کلکسیونی"
+        ]
+      }
+    ],
+    "random_key": "e23c90cf-1084-4ed6-8602-ff17ed6463ad",
+    "image_url": "https://image.torob.com/base/images/dy/ow/dyowewpnOBaOoN-H.jpg"
+  },
+  {
+    "title": "اسلایس مینیاتوری مرجان قرمز طبیعی دریای مدیترانه",
+    "group": "نامشخص",
+    "product": "اسلایس مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مینیاتوری"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریای مدیترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسلایس مرجان"
+        ]
+      }
+    ],
+    "random_key": "431cf9f0-d5b6-446d-9051-670dcc407f6a",
+    "image_url": "https://image.torob.com/base/images/IV/6L/IV6L3sLHF6qMb6SG.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "b3329c66-ce86-4655-b2e9-84db5ca5de0a",
+    "image_url": "https://image.torob.com/base/images/2A/XI/2AXIMnWb3VVpL01_.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز تراش دایره ای کد N_1509",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "دایره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "a7d59135-fda5-4b89-b634-d8e8dc71345b",
+    "image_url": "https://image.torob.com/base/images/R9/FT/R9FTpMNO4HlviIku.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "f1510914-f8ca-49d8-893f-4759cd0e5bfe",
+    "image_url": "https://image.torob.com/base/images/wB/DB/wBDBRsCHQ2X7e4w9.webp"
+  },
+  {
+    "title": "مرجان سرخ طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "2feb362f-b584-41ca-814a-d54b8cd085f7",
+    "image_url": "https://image.torob.com/base/images/r5/7b/r57bvoPjQYYS86o8.jpg"
+  },
+  {
+    "title": "نگین مرجان دریایی بسیار زیبا با نقوش گل طبیعی منظم",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار زیبا",
+          "نقوش گل طبیعی منظم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "78809408-0972-4c62-929b-ac20a95c03fa",
+    "image_url": "https://image.torob.com/base/images/oE/O1/oEO1YZvgIdbRoKI9.jpg"
+  },
+  {
+    "title": "سنگ مرجان فسیلی اصل کد13",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "c6f4f3f2-d409-4839-b65e-271a32af0996",
+    "image_url": "https://image.torob.com/base/images/A_/rd/A_rdQXJzF25_BHG8.jpg"
+  },
+  {
+    "title": "مرجان طبیعی وخاص",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبیعی",
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "f9f5d1f0-0fc6-4ba7-a9bf-619059b13693",
+    "image_url": "https://image.torob.com/base/images/Sl/sZ/SlsZBcVt9-_P0hz0.jpg"
+  },
+  {
+    "title": "مرجان طبیعی غول پیکر بزرگ ارسال رایگان",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبیعی",
+          "غول پیکر",
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "6a2f0a2e-96a7-409a-a784-a1e8da61d9b5",
+    "image_url": "https://image.torob.com/base/images/di/5N/di5N3BVM1ziYPugr.jpg"
+  },
+  {
+    "title": "نگین سنگ مرجان فسیلی (مرجان آهکی) معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "نگین سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان آهکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "0c645cd3-b97b-4b29-af40-bae5ebc21262",
+    "image_url": "https://image.torob.com/base/images/f8/70/f870ly1CBmcbDwrz.jpg"
+  },
+  {
+    "title": "مرجان سرخ طبیعی شاخه مرجان T 126",
+    "group": "نامشخص",
+    "product": "شاخه مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "شاخه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شاخه مرجان"
+        ]
+      }
+    ],
+    "random_key": "31dadb10-2d0b-418d-9d8a-f98070c7af71",
+    "image_url": "https://image.torob.com/base/images/MS/9n/MS9n1BpvykO52quW.jpg"
+  },
+  {
+    "title": "مرجان کد 5346",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "0d04060e-80ea-4019-a0a1-51e881bcc5ca",
+    "image_url": "https://image.torob.com/base/images/A4/-T/A4-TRSXd41eEN3NJ.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز طبیعی",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "ddc23d04-5abc-458d-9f36-b9974a6418fe",
+    "image_url": "https://image.torob.com/base/images/tX/Yi/tXYi0Q7hKZ4yNr3C.jpg"
+  },
+  {
+    "title": "مهره سنگ مرجان طبیعی چیپسی سایز متوسط دفرمه راف تراش نخورده قیمت برای یک گرم",
+    "group": "نامشخص",
+    "product": "مهره سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "متوسط دفرمه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبیعی",
+          "چیپسی",
+          "راف",
+          "تراش نخورده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "8265aba2-a15f-495f-aded-be6ab94131ec",
+    "image_url": "https://image.torob.com/base/images/Iv/3e/Iv3eD4bbhwjBuAtu.jpg"
+  },
+  {
+    "title": "مهره مرجان قرمز هندی اصل 8میلی گوی سنگ مرجان اصل فروشگاه سنگ قیمتی کرج سلما گالری مهره چوب مرجان طبیعی مهره سنگ دستبندی",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "هندی",
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8 میل"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "گوی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "0b057a39-8a5e-471b-b11b-8743e91840f8",
+    "image_url": "https://image.torob.com/base/images/OB/9X/OB9X7AngMTicR11c.jpg"
+  },
+  {
+    "title": "مهره سنگ مرجان سرخ سایز8میل سنگ طبیعی (Red-Coral)",
+    "group": "نامشخص",
+    "product": "مهره سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "s",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8 میل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "1ce227c8-26e5-4dcf-a200-36361d80c093",
+    "image_url": "https://image.torob.com/base/images/lp/T7/lpT7KU84uuS33R0N.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز کد1",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "3a7ec71e-b189-4d6a-87ae-9422755623cb",
+    "image_url": "https://image.torob.com/base/images/tH/sH/tHsH2NVwV-YcYBW_.jpg"
+  },
+  {
+    "title": "مرجان دریایی با طرح و رنگ خاص و کیفیت تراش و جلایی بی نظیر",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "جلای بینظیر"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "تراش و جلایی بی نظیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "e2ea431a-90e1-40a7-b6a2-a4e6ddd1a991",
+    "image_url": "https://image.torob.com/base/images/5T/EX/5TEXq265h0oDGH5V.jpg"
+  },
+  {
+    "title": "مرجان دریایی معدنی خوش تراش و خاص",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوش تراش",
+          "خاص"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "d0036b95-ddff-4274-8678-eaff0240d83e",
+    "image_url": "https://image.torob.com/base/images/gM/s8/gMs8ZYnBjhSvpbrb.jpg"
+  },
+  {
+    "title": "نگشتر فسیلی مرجان دراگون اقیانوسی هزارساله بینظیر",
+    "group": "نامشخص",
+    "product": "نگشتر",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "هزارساله"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دراگون اقیانوسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بینظیر"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگشتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "55822ad7-8bd5-4759-8bde-5d479c7a0e17",
+    "image_url": "https://image.torob.com/base/images/ia/FU/iaFUO9lWf5Qm6gn3.jpg"
+  },
+  {
+    "title": "نگین مرجان اصل خوشرنگ براق کد N_2092",
+    "group": "نامشخص",
+    "product": "نگین",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل",
+          "خوشرنگ",
+          "براق"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "b067cc84-f924-4fe3-b680-e188250356a0",
+    "image_url": "https://image.torob.com/base/images/bo/1Y/bo1YU1H_yKilRu-5.jpg"
+  },
+  {
+    "title": "مهره سنگ مرجان طبیعی سکه ای سایز8 مرجان",
+    "group": "نامشخص",
+    "product": "مهره",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "سکه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "d1211075-ee1e-4156-bc99-6a8272af57d0",
+    "image_url": "https://image.torob.com/base/images/rO/aZ/rOaZzFPO-P-z3epJ.jpg"
+  },
+  {
+    "title": "مرجان سیاه",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "9c47d5a2-80d7-4996-acdc-0b1346f88199",
+    "image_url": "https://image.torob.com/base/images/Yo/XR/YoXRTyX7HC33okS9.jpg"
+  },
+  {
+    "title": "مرجان سیاه",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "92a269bb-c4da-4463-a941-08d7ae178dad",
+    "image_url": "https://image.torob.com/base/images/EB/xG/EBxGHJDxa9B4AMf7.jpg"
+  },
+  {
+    "title": "مرجان انتنس زنانه",
+    "group": "زنانه",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "453ba41b-ffb6-4042-8ac5-3cf9326ed7ed",
+    "image_url": "https://image.torob.com/base/images/uE/dS/uEdSJxS88xOAhdJ_"
+  },
+  {
+    "title": "مرجان کلکسیونی خاص",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "ccce8a0b-dcbd-48c6-8489-10bc86dce835",
+    "image_url": "https://image.torob.com/base/images/99/C0/99C0pWr7qjm_19M2.jpg"
+  },
+  {
+    "title": "مرجان ویژه",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "e1c7a0fe-95c5-48df-b08f-93c0715021a0",
+    "image_url": "https://image.torob.com/base/images/ov/ND/ovNDHh0GvywI8A6G.jpg"
+  },
+  {
+    "title": "سنگ مرجان دریایی زیبا و خاص",
+    "group": "نامشخص",
+    "product": "سنگ مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "576f54ad-2253-4d56-84ea-18b07b7b8242",
+    "image_url": "https://image.torob.com/base/images/1P/Az/1PAzlhES-hsor4qu.jpg"
+  },
+  {
+    "title": "مرجان قدیمی کمیاب",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قدیمی",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "1be34349-2c66-42f5-84dc-b16b89aec83a",
+    "image_url": "https://image.torob.com/base/images/cc/Rq/ccRqladBdE17EPfl.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "551be246-5c31-4acf-9dff-743bb93b1524",
+    "image_url": "https://image.torob.com/base/images/Pl/pZ/PlpZ3LBUw-XTMjse.webp"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "a05ad037-abf0-4a2f-b6aa-ba26c3cb3616",
+    "image_url": "https://image.torob.com/base/images/8Q/50/8Q507tRp5zZrnK-E.jpg"
+  },
+  {
+    "title": "مرجان دریایی طبیعی و خوش رنگ با طرح جذاب و تراش عالی",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "عالی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خوش رنگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "7af19736-9345-44bc-9c00-3c89bb3b581c",
+    "image_url": "https://image.torob.com/base/images/7E/nR/7EnRstgNmbQSbvGw.jpg"
+  },
+  {
+    "title": "سنگ مرجان قرمز بهسازی شده ۲۴۰۵۸۴",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "84c20bd2-a4f9-4cae-b884-994040c7aa97",
+    "image_url": "https://image.torob.com/base/images/ye/kS/yekSTqZV_ct9rB5f.jpg"
+  },
+  {
+    "title": "سنگ مرجان تراشدار مهره دستبند سنگ مرجان قرمز",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "تراش",
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره",
+          "دستبند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "f46743c1-1200-4e2a-9f1b-d76cef8df9c8",
+    "image_url": "https://image.torob.com/base/images/NW/ar/NWar0SUN2SetGSzQ.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز رنگ شده ۲۴۰۵۸۹",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "792c0067-d564-4839-a442-abc74322159a",
+    "image_url": "https://image.torob.com/base/images/HN/5K/HN5KPLAksGZtXDz1.jpg"
+  },
+  {
+    "title": "مرجان دریایی معدنی و با رنگ خاص و تراش زیبا",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاص"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "b3168577-f160-44b3-9870-c3879a87ba9d",
+    "image_url": "https://image.torob.com/base/images/CM/Jy/CMJyYzAmGF8G79nK.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26249",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار",
+          "مناسب گردنبند"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "4b0b79f6-cf2d-4470-b031-c865ad17831a",
+    "image_url": "https://image.torob.com/base/images/8B/DX/8BDXSbuSpAxRZeCu.jpg"
+  },
+  {
+    "title": "سنگ مرجان قرمز 240794",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "8811e7f3-db2b-49ed-9671-2e49afbb87e6",
+    "image_url": "https://image.torob.com/base/images/pD/wM/pDwMdDTPcaZL4Ww7.webp"
+  },
+  {
+    "title": "مرجان دریایی ویکتوریا نارنجی بسیار خوش رنگ همراه با هشت پا تاکسیدرمی شده نمونه ای کمیاب و بی نظیر کد 25359",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی",
+          "خوش رنگ"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی",
+          "ویکتوریا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب",
+          "بی نظیر",
+          "همراه با هشت پا تاکسیدرمی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "4b981e5e-ae5f-4be1-a0d7-f6d575a25c6a",
+    "image_url": "https://image.torob.com/base/images/cd/iD/cdiDoYv4Llcj9dMM.jpg"
+  },
+  {
+    "title": "مرجان سیاه",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "a7fa976e-d24b-4487-91f0-02fcb98d1e64",
+    "image_url": "https://image.torob.com/base/images/ru/MB/ruMB6QfsoZluOPVp.jpg"
+  },
+  {
+    "title": "درخت زندگی مدل سنگ مرجان سرخ همراه بندهدیه",
+    "group": "نامشخص",
+    "product": "درخت زندگی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان",
+          "درخت زندگی"
+        ]
+      }
+    ],
+    "random_key": "d738c2da-fdbd-4af2-b5de-460f221f379f",
+    "image_url": "https://image.torob.com/base/images/Ey/vt/Eyvt4teOG6vG3pI_.jpg"
+  },
+  {
+    "title": "مهره مرجان سرخ یا قرمز طبیعی اصل سایز 6 دوطرف سوراخ دار",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دو طرف سوراخ دار"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "814adc74-cb1b-4ee5-920b-e178bb2a95ba",
+    "image_url": "https://image.torob.com/base/images/an/HO/anHOZNbS5avGmrJ2.jpg"
+  },
+  {
+    "title": "نگین بیضی مرجان رنگ شده ۲۴۰۵۹۵",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "447d6fd3-d3a6-4c71-9fd5-f8374ba9ff71",
+    "image_url": "https://image.torob.com/base/images/Vl/ry/Vlrya1joZCE6-xjn.jpg"
+  },
+  {
+    "title": "مرجان قرمز طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "c7ee32cb-44ce-42ee-b578-0ec4b9bc5b69",
+    "image_url": "https://image.torob.com/base/images/rG/SL/rGSLHHDIlx8s_NDM.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز آویز مرجان سرخ گردنبند مرجان سرخ پلاک مرجان سرخ کد 25051",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز",
+          "گردنبند",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "2dbfd1ec-1a77-4e12-bd9e-f309732a58c5",
+    "image_url": "https://image.torob.com/base/images/bq/3m/bq3mj3-iGrRLClYA.jpg"
+  },
+  {
+    "title": "مهره سنگ مرجان سرخ سایز8 مرجان سرخ",
+    "group": "نامشخص",
+    "product": "مهره سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "1491af8c-1518-4268-9252-e0a4f066c3d9",
+    "image_url": "https://image.torob.com/base/images/TQ/G9/TQG99FZKXmEUb8Rb.jpg"
+  },
+  {
+    "title": "مرجان قرمز",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "a40b8dfd-8b7b-4b50-a50a-19196e49a175",
+    "image_url": "https://image.torob.com/base/images/S3/i0/S3i0FnevIbmSKfqP.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26313",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار",
+          "مناسب گردنبند"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "4974e718-8c86-42c0-9c11-13690217dfdd",
+    "image_url": "https://image.torob.com/base/images/FZ/l0/FZl0q928iuDBLxrd.jpg"
+  },
+  {
+    "title": "پک ده عددی راف مرجان سرخ اصیل کلکسیونی",
+    "group": "نامشخص",
+    "product": "راف مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "اصیل"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "پک",
+          "راف",
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "cec1c7bf-63b3-414b-b62d-61a63f08052e",
+    "image_url": "https://image.torob.com/base/images/A8/LS/A8LSJ1RW4c6DSiS9.jpg"
+  },
+  {
+    "title": "سنگ قیمتی مرجان سرخ بهسازی شده 241328",
+    "group": "نامشخص",
+    "product": "سنگ قیمتی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ قیمتی"
+        ]
+      }
+    ],
+    "random_key": "84b88b6b-a576-40c3-87ea-b12cb810eabd",
+    "image_url": "https://image.torob.com/base/images/xz/Jk/xzJkwcu1rMJr53WV.webp"
+  },
+  {
+    "title": "سنگ مرجان بیضی رنگ شده قرمز ۷۹۱۴",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      }
+    ],
+    "random_key": "880c4ade-bdb9-4315-a7ad-bf66e7ec5a54",
+    "image_url": "https://image.torob.com/base/images/U5/OG/U5OGKSY-PaLO6RUO.jpeg"
+  },
+  {
+    "title": "نگین انگشتر مرجان درشت کلکسیونی _کد:۱۹۱۲۷",
+    "group": "نامشخص",
+    "product": "نگین انگشتر",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درشت",
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین انگشتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین انگشتر مرجان"
+        ]
+      }
+    ],
+    "random_key": "a36699a9-1d92-43bc-97d9-0ad24e07d108",
+    "image_url": "https://image.torob.com/base/images/60/YS/60YSwUKa3QbiM4iN.jpg"
+  },
+  {
+    "title": "مرجان دریایی زیبا",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "fdadb84b-6eb1-4128-9998-9e87a21396e3",
+    "image_url": "https://image.torob.com/base/images/wT/xo/wTxoLRcx8YKGXxew.jpg"
+  },
+  {
+    "title": "سنگ مرجان طبیعی چوب دریا فسیل چوبی اویز مرجان قرمز مرجان دریا قرمز سنگ ریشه سنگ ماه تولد سنگ قرمز قیمتی چوب مرجان اصل",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی",
+          "چوب دریا",
+          "مرجان دریا",
+          "چوب مرجان"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "اویز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فسیل چوبی",
+          "ریشه",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ریشه",
+          "سنگ ماه تولد",
+          "سنگ قرمز قیمتی"
+        ]
+      }
+    ],
+    "random_key": "cb015ad2-4164-4b4c-9948-f7d94e2f128b",
+    "image_url": "https://image.torob.com/base/images/48/rJ/48rJtTjpr7yZn7CO.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز رنگ شده ۲۴۰۵۸۱",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "b175a76f-bdda-415c-8219-f23171c6649b",
+    "image_url": "https://image.torob.com/base/images/ZI/yD/ZIyDLl2HBwPItKq4.jpg"
+  },
+  {
+    "title": "مرجان و صدف",
+    "group": "نامشخص",
+    "product": "مرجان و صدف",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان و صدف"
+        ]
+      }
+    ],
+    "random_key": "06c26137-63d6-409a-8f93-6946befc4c8f",
+    "image_url": "https://image.torob.com/base/images/f8/pM/f8pMW1UuYyMvtAJq.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز بهسازی شده ۲۴۰580",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "74ee2856-d529-4e38-ace1-7e1a84cecbc7",
+    "image_url": "https://image.torob.com/base/images/qi/8R/qi8R5tRWCbf4o-DC.jpg"
+  },
+  {
+    "title": "نگین مرجان خوشرنگ رنگ تقویت شده ظریف کد 139383",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوشرنگ",
+          "ظریف"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ تقویت شده"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "22c26912-e8ba-4ec5-9530-a4254bb7ac58",
+    "image_url": "https://image.torob.com/base/images/TH/F9/THF9sTdMZwR2-dIH.jpg"
+  },
+  {
+    "title": "مرجان هاوصدفهاوسنگهای اقیانوسی",
+    "group": "نامشخص",
+    "product": "مرجان و صدف و سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان ها و صدف ها و سنگ های اقیانوسی"
+        ]
+      }
+    ],
+    "random_key": "e72aaba8-f539-4e81-ab96-1449f01c251b",
+    "image_url": "https://image.torob.com/base/images/D5/eO/D5eOA8tPVnKh6U5O.jpg"
+  },
+  {
+    "title": "سنگ مرجان کاملأ طبیعی اقیانوسی درجه یک",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "کاملا طبیعی",
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "اقیانوسی"
+        ]
+      }
+    ],
+    "random_key": "10e504bc-efd7-4e04-936e-69951b3c7cb4",
+    "image_url": "https://image.torob.com/base/images/e8/ZS/e8ZSMhH_PwOc9zrd.jpg"
+  },
+  {
+    "title": "سنگ مرجان تامبلر شده قرمز 50 گرمی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "تامبلر شده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "50 گرمی"
+        ]
+      }
+    ],
+    "random_key": "f1f659cd-c223-4a72-908c-019ab2c33f5f",
+    "image_url": "https://image.torob.com/base/images/bo/8z/bo8zSx4QmJnIxGb1.jpg"
+  },
+  {
+    "title": "مرجان دریایی کلکسیونی کاملا طبیعی کد 11",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "کاملا طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی"
+        ]
+      }
+    ],
+    "random_key": "c5f3428b-f473-4de2-90d9-261dca74f5b2",
+    "image_url": "https://image.torob.com/base/images/_c/Q7/_cQ7kDYXswU2XXWH.jpg"
+  },
+  {
+    "title": "مرجان دریایی کاملا طبیعی فوق کلکسیونی و بسیار خاص کد 2",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "کاملا طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فوق کلکسیونی",
+          "بسیار خاص"
+        ]
+      }
+    ],
+    "random_key": "9fac85f3-70a4-4fcd-956c-a9772d7fef9d",
+    "image_url": "https://image.torob.com/base/images/3m/dJ/3mdJUCvQpGQYBhOm.jpg"
+  },
+  {
+    "title": "سنگ مرجان سرخ بهسازی شده درجه یک 241321",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده",
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "96a9e46b-ac2a-4a29-b1ce-4401f46c1d6c",
+    "image_url": "https://image.torob.com/base/images/vy/XV/vyXVfPSU0q736l7A.webp"
+  },
+  {
+    "title": "نگین مرجان",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "144818d7-4a3d-4f0c-8780-d334fecc3313",
+    "image_url": "https://image.torob.com/base/images/W7/zy/W7zyI_C3dHAHoH5S.jpg"
+  },
+  {
+    "title": "نگین سنگ مرجان فسیلی (مرجان آهکی) معدنی و طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان فسیلی",
+          "مرجان آهکی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "eadf4e76-d256-4ac3-ba10-5f8805583698",
+    "image_url": "https://image.torob.com/base/images/pC/6o/pC6oUh5KbYreGvWO.jpg"
+  },
+  {
+    "title": "مرجان دریایی کلکسیونی کاملا طبیعی کد 9",
+    "group": "نامشخص",
+    "product": "مرجان دریایی کلکسیونی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "کاملا طبیعی"
+        ]
+      }
+    ],
+    "random_key": "12849256-9d8e-4f48-b1ba-3028976f42e3",
+    "image_url": "https://image.torob.com/base/images/17/Ne/17Ne0rGwkCEUityc.jpg"
+  },
+  {
+    "title": "دو عدد مرجان استخوانی طبیعی و بکر",
+    "group": "نامشخص",
+    "product": "مرجان استخوانی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان استخوانی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "بکر"
+        ]
+      }
+    ],
+    "random_key": "5e11479d-92bd-4c4f-b380-783226ba3973",
+    "image_url": "https://image.torob.com/base/images/FB/sZ/FBsZHYu_yn237jdU.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز دریایی تراش بیضی تخت مناسب انگشتر و جواهرات",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "تراش بیضی",
+          "تخت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "انگشتر و جواهرات"
+        ]
+      }
+    ],
+    "random_key": "c7ebdfb6-b5ae-4532-8eb9-a3179d614f63",
+    "image_url": "https://image.torob.com/base/images/N0/tV/N0tVRwrUCeti_Ah_.jpg"
+  },
+  {
+    "title": "مرجان سرخ طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان سرخ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "df64c047-c669-48be-8392-25cbc285c732",
+    "image_url": "https://image.torob.com/base/images/5F/i8/5Fi8BqRDWRz7_jd0.jpg"
+  },
+  {
+    "title": "مرجان دریایی محشر دیدنی کاملا طبیعی مناسب جهت دکور و تزیین بسیار دیدنی کد 10141",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "محشر",
+          "دیدنی",
+          "کاملا طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دکور و تزیین"
+        ]
+      }
+    ],
+    "random_key": "8affb7ad-eb96-486f-bc76-88c9877de735",
+    "image_url": "https://image.torob.com/base/images/8O/wn/8OwnuGnW-a46GtUp.jpg"
+  },
+  {
+    "title": "مرجان سرخ مهره مرجان سرخ یا قرمز طبیعی دو طرف سوراخ سایز هشت تا ده میل",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "هشت تا ده میل"
+        ]
+      }
+    ],
+    "random_key": "75e251da-f45c-44e2-9b9f-630f6150eafa",
+    "image_url": "https://image.torob.com/base/images/DI/sw/DIswfUyJbCsKWBwv.jpg"
+  },
+  {
+    "title": "نگین مرجان بهسازی شده بیضی ۷۹۲۳",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      }
+    ],
+    "random_key": "13b87a12-151a-4d52-a904-747970771369",
+    "image_url": "https://image.torob.com/base/images/zq/4s/zq4sOFEq6P-CElPJ.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز آویز مرجان سرخ گردنبند مرجان سرخ پلاک مرجان سرخ کد 25052",
+    "group": "نامشخص",
+    "product": "مرجان سرخ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز",
+          "گردنبند",
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "63bdd0fd-49c4-4d67-981d-71b12ae1ef7d",
+    "image_url": "https://image.torob.com/base/images/AS/F5/ASF5gwPMkhlqLoWH.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز درجه یک 240797",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "63572bee-5597-49d9-951b-413c08097c74",
+    "image_url": "https://image.torob.com/base/images/QB/iO/QBiOaUPNr_-uip7M.webp"
+  },
+  {
+    "title": "نگین مرجان بهسازی شده بیضی قرمز ۷۹۳۲",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "26384608-0f70-4802-a122-270bfda79b0d",
+    "image_url": "https://image.torob.com/base/images/Lp/1k/Lp1kT-XKRw6gxXRA.jpg"
+  },
+  {
+    "title": "مرجان پرورشی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "پرورشی"
+        ]
+      }
+    ],
+    "random_key": "1dd2c148-674f-4460-9487-28ea8fc37277",
+    "image_url": "https://image.torob.com/base/images/UP/j_/UPj_5EY_iwHTFYTy.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "296c7f98-5aae-4b1a-a859-d6d95d8ff2cc",
+    "image_url": "https://image.torob.com/base/images/Ox/4a/Ox4arNMHqYYZKKZ7.webp"
+  },
+  {
+    "title": "نگین مرجان خوشرنگ کد 140574",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوشرنگ"
+        ]
+      }
+    ],
+    "random_key": "6f91b0bd-46e4-4c63-aba7-470c00a283b3",
+    "image_url": "https://image.torob.com/base/images/A9/gG/A9gG_qNnrxMvIsre.jpg"
+  },
+  {
+    "title": "نگین مرجان طبیعی و معدنی چهارگوش اصل اندونزی با پولیپ های واضح و طبیعی",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "چهارگوش"
+        ]
+      }
+    ],
+    "random_key": "52391989-0468-4705-995e-df28645405a6",
+    "image_url": "https://image.torob.com/base/images/26/ni/26niKycE9eMuCj1d.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26242",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند",
+          "آویز",
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "091d2de8-9ae8-4aba-a294-dedcbb5088a3",
+    "image_url": "https://image.torob.com/base/images/io/S_/ioS_6i_N4NYhgN-c.jpg"
+  },
+  {
+    "title": "مرجان دریایی ویکتوریا نارنجی بسیار خوش رنگ همراه با هشت پا تاکسیدرمی شده نمونه ای کمیاب و بی نظیر کد 25353",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوش رنگ",
+          "کمیاب",
+          "بی نظیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "c5285aa4-b742-47cd-b5de-641c9f6b59ea",
+    "image_url": "https://image.torob.com/base/images/Cw/CG/CwCG1Ao__BM9fecG.jpg"
+  },
+  {
+    "title": "نگین مرجان سرخ رنگ شده ۲۴۰۵۷۹",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "457ab515-bf04-432f-b89d-2b29e8205119",
+    "image_url": "https://image.torob.com/base/images/zv/Qg/zvQgK7IKKUwFl4am.jpg"
+  },
+  {
+    "title": "سنگ اصل مرجان بهسازی شده درجه یک 241323",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده",
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "8dac44cf-b0cf-4277-8580-2958bfb1a256",
+    "image_url": "https://image.torob.com/base/images/kT/El/kTElmJlS10FdUSgU.webp"
+  },
+  {
+    "title": "مرجان شاخه ای قدیمی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "شاخه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان شاخه ای"
+        ]
+      }
+    ],
+    "random_key": "3ece5e84-0702-4847-8cd3-cf867778c774",
+    "image_url": "https://image.torob.com/base/images/c5/De/c5DedtBEZfGYjACN.jpg"
+  },
+  {
+    "title": "مرجان های فسیلی کمیاب",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "74e0d077-58c2-441d-9134-2d5afc7cc121",
+    "image_url": "https://image.torob.com/base/images/up/QH/upQHkHp_9WNqa_1H.jpg"
+  },
+  {
+    "title": "مرجان دریایی طبیعی کد 1",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "cd08cb6c-6822-406a-97e7-3af6ed5318a6",
+    "image_url": "https://image.torob.com/base/images/Xg/MX/XgMX56Vt0Dl35gE-.jpg"
+  },
+  {
+    "title": "مرجان دریایی خوش رنگ و جذاب",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوش رنگ",
+          "جذاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "aa1c5618-a673-4341-af50-cb75ffb9b8d5",
+    "image_url": "https://image.torob.com/base/images/zR/zw/zRzw0dJyIuWEVbnS.jpg"
+  },
+  {
+    "title": "مرجان کد 5311",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "90cbb9ba-88f1-4663-ad5d-3b81514f6b41",
+    "image_url": "https://image.torob.com/base/images/aL/XB/aLXBA_vO_yxUDiHV.jpg"
+  },
+  {
+    "title": "مرجان ماشروم ریکوردیا فلوریدا سبز",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان ماشروم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان ماشروم"
+        ]
+      }
+    ],
+    "random_key": "e1e62015-0d30-4930-bac1-7f75ec8ec791",
+    "image_url": "https://image.torob.com/base/images/zc/BN/zcBNDF7oKbENQuT_.jpg"
+  },
+  {
+    "title": "مرجان دریایی معدنی کاملا طبیعی و باکیفیت",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "معدنی",
+          "کاملا طبیعی",
+          "باکیفیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "3fb65e5d-8bb5-4796-8967-52581ded6f92",
+    "image_url": "https://image.torob.com/base/images/eF/gU/eFgU7ahG9WJvZeeT.jpg"
+  },
+  {
+    "title": "مرجان سیاه طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "4c5549be-8c3d-4a22-b5a3-2016be225a2e",
+    "image_url": "https://image.torob.com/base/images/z2/hL/z2hLEb_5uUhZpQqJ.jpg"
+  },
+  {
+    "title": "مرجان قرمز بهسازی شده ۲۴۰۵۹۸",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "db189e98-0633-41d9-a591-6f732eaa7c6b",
+    "image_url": "https://image.torob.com/base/images/dy/Em/dyEm3vVCpJViHMx-.jpg"
+  },
+  {
+    "title": "گردنی مرجان اصل",
+    "group": "نامشخص",
+    "product": "گردنی مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنی مرجان"
+        ]
+      }
+    ],
+    "random_key": "cb065813-51b9-40f8-a3d0-ae5cb96e52b4",
+    "image_url": "https://image.torob.com/base/images/RN/-a/RN-alPFkZPx9kVWQ.jpg"
+  },
+  {
+    "title": "مرجان آبی طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "9937b825-bc28-4b3d-b818-ddd10b4bb3c7",
+    "image_url": "https://image.torob.com/base/images/Jt/7r/Jt7rqo8eOFBhmUGs.jpg"
+  },
+  {
+    "title": "سنگ مرجان قرمز طبیعی 240792",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "8e43bedb-07f5-4272-b3fe-6e411e02fbb3",
+    "image_url": "https://image.torob.com/base/images/_Y/jm/_YjmbRstdJSOrSHz.webp"
+  },
+  {
+    "title": "نگین مرجان قرمز بهسازی شده بیضی ۲۴۰۵۸۶",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "1eb8fd10-d11a-4709-bc76-37af0f8114f9",
+    "image_url": "https://image.torob.com/base/images/jD/v1/jDv1tiGPQ6eYRsf_.jpg"
+  },
+  {
+    "title": "مرجان سرخ دستبند مرجان قرمز زنانه و مردانه",
+    "group": "زنانه و مردانه",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبند"
+        ]
+      }
+    ],
+    "random_key": "dc2d37c8-bb7f-4840-bdf9-6e970a319eec",
+    "image_url": "https://image.torob.com/base/images/N-/TZ/N-TZb0Yzj_eyijNq.jpg"
+  },
+  {
+    "title": "نگین مرجان فسیلی اصل کد9",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "bad5dbf8-ef20-439e-8422-3990f564b569",
+    "image_url": "https://image.torob.com/base/images/YI/J_/YIJ_8VQAhYx4ELkh.jpg"
+  },
+  {
+    "title": "مرجان دریایی طبیعی و معدنی",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "ddb0d48f-a8fc-4002-8948-422e5ed3c7d2",
+    "image_url": "https://image.torob.com/base/images/xz/dw/xzdwAFPO6MhztQZX.jpg"
+  },
+  {
+    "title": "نگین مرجان لامپی",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان لامپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان لامپی"
+        ]
+      }
+    ],
+    "random_key": "20aa2893-54f3-4fa9-84f9-9b111fd1e708",
+    "image_url": "https://image.torob.com/base/images/8N/Nw/8NNwujqOo2vvP5F2.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26251",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند",
+          "آویز",
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "eaeb4c67-8036-416d-82f9-49b0289481bb",
+    "image_url": "https://image.torob.com/base/images/1N/4C/1N4CcWED2q2qDisk.jpg"
+  },
+  {
+    "title": "مرجان بسیار زیبا طبق عکس",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "3cd67b2b-a07d-40f5-b220-f9fc6ee2c33c",
+    "image_url": "https://image.torob.com/base/images/3j/JR/3jJRG0wMwxXNObbn.jpg"
+  },
+  {
+    "title": "سنگ قیمتی مرجان سرخ بهسازی شده 241330",
+    "group": "نامشخص",
+    "product": "سنگ قیمتی مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ قیمتی"
+        ]
+      }
+    ],
+    "random_key": "323269cf-da13-4316-8824-6fda66dcc610",
+    "image_url": "https://image.torob.com/base/images/Mb/Q_/MbQ_rtJArLZBoegQ.webp"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26312",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند",
+          "آویز",
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "195e4305-5586-4be9-8ae6-d21a84d00292",
+    "image_url": "https://image.torob.com/base/images/Vx/LO/VxLOXLwkyLcyiBWx.jpg"
+  },
+  {
+    "title": "نگین مرجان کد 26877",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "72823464-9de0-4fe8-a648-be9e0a9d7f9d",
+    "image_url": "https://image.torob.com/base/images/4A/qo/4AqoFPyEdYJF-wiX.webp"
+  },
+  {
+    "title": "مرجان دریایی ویکتوریا نارنجی بسیار خوش رنگ همراه با هشت پا تاکسیدرمی شده نمونه ای کمیاب و بی نظیر کد 25357",
+    "group": "نامشخص",
+    "product": "مرجان دریایی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار خوش رنگ",
+          "کمیاب",
+          "بی نظیر"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "cb7f303d-f271-4f8c-b280-133a1b5a52ac",
+    "image_url": "https://image.torob.com/base/images/bc/p9/bcp906xoRu4ooZvW.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26310",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنبند",
+          "آویز",
+          "پلاک"
+        ]
+      }
+    ],
+    "random_key": "0d13708d-23d4-4c06-86b8-646b57526a69",
+    "image_url": "https://image.torob.com/base/images/Ia/Ww/IaWwsKzRg3yfeBQt.jpg"
+  },
+  {
+    "title": "مهره های مرجان قدیمی",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قدیمی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "457e0705-855e-4929-aa81-3b0b80f165e0",
+    "image_url": "https://image.torob.com/base/images/Am/mh/AmmhCbRq53N_Rwbt.jpg"
+  },
+  {
+    "title": "نگین گردن آویز هفت سنگ درجه یک",
+    "group": "نامشخص",
+    "product": "نگین گردن آویز",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین گردن آویز"
+        ]
+      }
+    ],
+    "random_key": "c6d78d69-d7e4-4a9b-b19b-0107de2316d8",
+    "image_url": "https://image.torob.com/base/images/kF/Sq/kFSqdYKaZZ9RE4kT.jpg"
+  },
+  {
+    "title": "پک ده 10عددی راف مرجان سرخ اصیل طبیعی",
+    "group": "نامشخص",
+    "product": "راف مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "اصیل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف مرجان"
+        ]
+      }
+    ],
+    "random_key": "9472b4cb-9fdc-4f68-a6b4-d278e5bcbac8",
+    "image_url": "https://image.torob.com/base/images/SV/zQ/SVzQgJtuw1JkTCv_.jpg"
+  },
+  {
+    "title": "نگین مرجان فسیلی طبیعی",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "e8b0b6f7-7a23-4d2f-aab4-f7e2631c57bb",
+    "image_url": "https://image.torob.com/base/images/lw/Rt/lwRt9D1AOBymQKt7.jpg"
+  },
+  {
+    "title": "سنگ مرجان دریایی اصلی نور دار",
+    "group": "نامشخص",
+    "product": "سنگ مرجان دریایی",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "اصلی",
+          "نور دار"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "3345fe4a-12a9-4fe1-8874-7c41cb502fa6",
+    "image_url": "https://image.torob.com/base/images/gv/eZ/gveZ6sh-TYWuv1-B.jpg"
+  },
+  {
+    "title": "مرجان طبیعی زیبا",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "5f8d3456-4abc-4b0a-a233-33dba305721d",
+    "image_url": "https://image.torob.com/base/images/9Q/xX/9QxXsQg6u7_PxpQZ.jpg"
+  },
+  {
+    "title": "مرجان سرخ اصیل کلکسیونی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصیل",
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کلکسیونی"
+        ]
+      }
+    ],
+    "random_key": "fceb84d3-7c21-4302-9ef2-3636dc634a5d",
+    "image_url": "https://image.torob.com/base/images/-U/wG/-UwGSLGXIpPYlGQ2.jpg"
+  },
+  {
+    "title": "سنگ مرجان سرخ طبیعی مدیترانه 7874",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مدیترانه"
+        ]
+      }
+    ],
+    "random_key": "618ac0ff-0c7e-496b-b936-1bd83874d53b",
+    "image_url": "https://image.torob.com/base/images/aH/ui/aHuih-pJ4_ymVQ3w.jpeg"
+  },
+  {
+    "title": "نگین مرجان طبیعی زیبا درشت قواره",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "درشت قواره"
+        ]
+      }
+    ],
+    "random_key": "b40c1d67-250e-481e-819d-08970cb11192",
+    "image_url": "https://image.torob.com/base/images/TI/uF/TIuFPBvB39d3N8FK.jpg"
+  },
+  {
+    "title": "سنگ راف مرجان شاخه ای گلبهی بسیار خوشرنگ صددرصد طبیعی دکوری- سنگ درمانی وزن حدود 35 گرم",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "رااف"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "شاخه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گلبهی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار خوشرنگ",
+          "صددرصد طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دکوری",
+          "سنگ درمانی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "حدود 35 گرم"
+        ]
+      }
+    ],
+    "random_key": "e24d658b-448e-4453-88b5-0d525a6a7040",
+    "image_url": "https://image.torob.com/base/images/e6/Sv/e6Sv6SRE63QqleMy.webp"
+  },
+  {
+    "title": "مرجان درجه یک سرخ بهسازی شده 241327",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک",
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      }
+    ],
+    "random_key": "efae6b65-caa0-403f-acf5-96da70446ccf",
+    "image_url": "https://image.torob.com/base/images/wM/35/wM35CKnaJaKNroVT.webp"
+  },
+  {
+    "title": "سنگ مرجان قرمز اصلی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصلی"
+        ]
+      }
+    ],
+    "random_key": "783b50c9-b0e3-4988-8e99-c8857d1a3ebd",
+    "image_url": "https://image.torob.com/base/images/p6/O0/p6O0kYoa8gSGZIj7.webp"
+  },
+  {
+    "title": "سنگ مرجان طبیعی دونه ای",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "دونه ای"
+        ]
+      }
+    ],
+    "random_key": "e0a3ad99-5233-4ff8-99f5-6db9be283ccf",
+    "image_url": "https://image.torob.com/base/images/NM/vE/NMvEpqMtF7m7I05o.jpg"
+  },
+  {
+    "title": "مرجان دریایی محشر دیدنی کاملا طبیعی مناسب جهت دکور و تزیین دیدنی کد 10124",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محشر دیدنی",
+          "کاملا طبیعی",
+          "دکور",
+          "تزیین",
+          "دیدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دکور",
+          "تزیین"
+        ]
+      }
+    ],
+    "random_key": "b057affc-d7a3-4259-8f47-6d1960a2606b",
+    "image_url": "https://image.torob.com/base/images/dB/pP/dBpPc3kQaIf99Qiv.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      }
+    ],
+    "random_key": "d485248a-32bd-490e-8ced-f953649e159e",
+    "image_url": "https://image.torob.com/base/images/d0/He/d0He90KbDebt-GzX.webp"
+  },
+  {
+    "title": "مرجان سرخ رنگ شده بهسازی شده 241318",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده",
+          "بهسازی شده"
+        ]
+      }
+    ],
+    "random_key": "63107041-4627-4a0e-9070-cc03a38e43b2",
+    "image_url": "https://image.torob.com/base/images/EO/_5/EO_5YGKKFZDwtxia.webp"
+  },
+  {
+    "title": "نگین مرجان سرخ طبیعی دریایی مناسب رکاب",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "ki کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مناسب رکاب"
+        ]
+      }
+    ],
+    "random_key": "060418e8-e885-4240-9a6e-9bce5de7e584",
+    "image_url": "https://image.torob.com/base/images/_B/2l/_B2lpYShBPlhVkPo.jpg"
+  },
+  {
+    "title": "مرجان دریایی کلکسیونی کاملا طبیعی کد 6",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلکسیونی",
+          "کاملا طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کلکسیونی"
+        ]
+      }
+    ],
+    "random_key": "02087fc1-fcdc-4123-b7da-117bef6180ff",
+    "image_url": "https://image.torob.com/base/images/so/L5/soL5rz3qAAyg7XXt.jpg"
+  },
+  {
+    "title": "مرجان دریایی سخت و درشت محشر دیدنی کاملا طبیعی مناسب جهت دکور و تزیین دیدنی کد 10143",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سخت",
+          "محشر دیدنی",
+          "کاملا طبیعی",
+          "دکور",
+          "تزیین",
+          "دیدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دکور",
+          "تزیین"
+        ]
+      }
+    ],
+    "random_key": "a927d60a-1f9f-48ab-8740-2846b00e01c1",
+    "image_url": "https://image.torob.com/base/images/Jt/lt/JtltBnMvRvb_J2SC.jpg"
+  },
+  {
+    "title": "نگین مرجان سرخ طبیعی دریایی مناسب رکاب احیاشده",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "احیاشده"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مناسب رکاب"
+        ]
+      }
+    ],
+    "random_key": "90830e3d-28f4-40e5-a2d1-7538cad1c8a3",
+    "image_url": "https://image.torob.com/base/images/Lw/kV/LwkVmsBkHDZFVfSL.jpg"
+  },
+  {
+    "title": "مرجان قرمز اصلی و کاملا طبیعی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصلی",
+          "کاملا طبیعی"
+        ]
+      }
+    ],
+    "random_key": "84891e32-53ba-4333-a192-d87ed8d5d989",
+    "image_url": "https://image.torob.com/base/images/9h/71/9h71eOExldvERBZx.jpg"
+  },
+  {
+    "title": "نگین مرجان سرخ بسیار زیبا",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "46522d30-a1dc-4c82-9bf0-804e81fe698c",
+    "image_url": "https://image.torob.com/base/images/5x/jw/5xjwMZRSPMNgfY8W.jpeg"
+  },
+  {
+    "title": "مهره مرجان طبیعی",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "565a8184-5293-42b8-b4ff-84a22f152e00",
+    "image_url": "https://image.torob.com/base/images/ZV/jr/ZVjr6rR58Dz5PHkQ.jpeg"
+  },
+  {
+    "title": "نگین مرجان دریایی با نقوش گل طبیعی منظم",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با نقوش گل طبیعی منظم"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "1bdb2795-ac92-4236-aea2-51553442e56d",
+    "image_url": "https://image.torob.com/base/images/yV/Ru/yVRuNPTP9WNWqrCk.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "44e7f6ee-a9a8-4eba-bbd6-d3e2d09d859f",
+    "image_url": "https://image.torob.com/base/images/DH/h-/DHh-sqkWLEsqj8Hu.webp"
+  },
+  {
+    "title": "سنگ طبیعی مرجان سرخ بهسازی شده 241322",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "4bc68aae-c7aa-4f25-a432-0ec4a4101007",
+    "image_url": "https://image.torob.com/base/images/hS/sm/hSsm5mRjEblC9q3W.webp"
+  },
+  {
+    "title": "سنگ مرجان قرمز",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "02280276-d906-496e-abde-dddc395bdb13",
+    "image_url": "https://image.torob.com/base/images/ZD/0k/ZD0koYEqHfYzGhj4.webp"
+  },
+  {
+    "title": "مرجان دریایی معدنی قواره دار و با کیفیت عالی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "معدنی",
+          "قواره دار",
+          "عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "0747e3ff-3c29-4a42-8358-e74c521b085e",
+    "image_url": "https://image.torob.com/base/images/sB/fl/sBflUjnKhuchPKDa.jpg"
+  },
+  {
+    "title": "مرجان دریایی فوق کلکسیونی و غول پیکر و بسیااار خاص و کاملا طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فوق کلکسیونی",
+          "غول پیکر",
+          "بسیار خاص",
+          "کاملا طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "2d0edc69-d67a-4dcb-9caf-9ed932b850b9",
+    "image_url": "https://image.torob.com/base/images/oY/nQ/oYnQYpi2RWFP9si2.jpg"
+  },
+  {
+    "title": "سنگ مرجان چیپسی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان چیپسی"
+        ]
+      }
+    ],
+    "random_key": "441aa2da-2c11-4ca0-b0ae-0ad7ddb06f0a",
+    "image_url": "https://image.torob.com/base/images/mP/th/mPthI0EqQAljJL11.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "c93a93b9-8eb1-4cd9-a58f-db53bd0f7701",
+    "image_url": "https://image.torob.com/base/images/-i/fP/-ifP2WW38Kv0dymo.jpg"
+  },
+  {
+    "title": "نگین مرجان فسیلی اصل کد10",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "a40b622f-d32a-4c35-8de2-30c24a32600e",
+    "image_url": "https://image.torob.com/base/images/UL/pa/ULpaAvyYLvcdYHQk.jpg"
+  },
+  {
+    "title": "نگین مرجان قرمز اصلی 240798",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصلی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "916d3a31-2f49-4757-b861-36374c8dcf2f",
+    "image_url": "https://image.torob.com/base/images/rS/qb/rSqbYASnm3eJYzD8.webp"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "14381572-979a-479e-bf8f-14e34d4a2ade",
+    "image_url": "https://image.torob.com/base/images/jb/0E/jb0Ex78gP_7qC2UR.jpg"
+  },
+  {
+    "title": "مهره مرجان طبیعی سایز 8 اصل طبیعی مرجان سرخ سوراخ دار گوی",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "8"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان سرخ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار",
+          "گوی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "31d01c30-e956-4f9c-83ac-e8930d2f3445",
+    "image_url": "https://image.torob.com/base/images/In/EO/InEO5M-xMin-5STY.jpg"
+  },
+  {
+    "title": "سنگ راف مرجان شاخه ای گلبهی بسیار خوشرنگ صددرصد طبیعی دکوری- سنگ درمانی وزن حدود 30 گرم",
+    "group": "نامشخص",
+    "product": "سنگ راف مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "گلبهی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "شاخه ای"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خوشرنگ",
+          "دکوری"
+        ]
+      },
+      {
+        "name": "نوع حصول",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "30 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف مرجان",
+          "سنگ درمانی"
+        ]
+      }
+    ],
+    "random_key": "e6676678-2eaf-4ada-94bc-8ac2ce0a8283",
+    "image_url": "https://image.torob.com/base/images/V7/yP/V7yPUYtop1sHdt9n.webp"
+  },
+  {
+    "title": "سنگ مرجان فسیلی سیاه اصل کد 4",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "fdff39ba-1615-4812-8412-0435787b17f7",
+    "image_url": "https://image.torob.com/base/images/si/H3/siH3HbZoiDluDBcY.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "f7f8b644-89b3-467c-867d-2943bd166de4",
+    "image_url": "https://image.torob.com/base/images/we/ZX/weZXUe4pyZJQLq_S.webp"
+  },
+  {
+    "title": "نگین مرجان قرمز اصل براق خوشرنگ",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل",
+          "براق",
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "b13fb806-ee35-424d-879c-5fe1abf9984d",
+    "image_url": "https://image.torob.com/base/images/c2/in/c2inhRWPJOD2inat.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "7f490c85-48ec-4282-b8db-bc8b21afac67",
+    "image_url": "https://image.torob.com/base/images/1l/dL/1ldLe1UA5MS-_nnt.webp"
+  },
+  {
+    "title": "هر یک تکه درشت سنگ مرجان دریایی سرخ فسیل اصل طبیعی مناسب ساخت آویز گردنبند",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فسیل",
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز گردنبند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تکه سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "411eb6ba-6430-42f6-bd77-799502b6b7db",
+    "image_url": "https://image.torob.com/base/images/qC/7_/qC7_vY12MwirZzPC.jpg"
+  },
+  {
+    "title": "سنگ مرجان قرمز مثلثی 240793",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "مثلثی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "611e0fb7-bcf5-4742-9a76-a3c5c4750269",
+    "image_url": "https://image.torob.com/base/images/DS/jP/DSjPIstScY8rwKtq.webp"
+  },
+  {
+    "title": "آویزسنگ مرجان طبیعی کد2245",
+    "group": "نامشخص",
+    "product": "آویز سنگ",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "6ef85c5f-a688-418d-81cf-719c39b3ffef",
+    "image_url": "https://image.torob.com/base/images/Ur/dU/UrdUPs4cLnylfHvL.jpg"
+  },
+  {
+    "title": "مرجان سرخ طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "89342f25-93a1-444a-bef2-8df043377649",
+    "image_url": "https://image.torob.com/base/images/FX/NT/FXNTN-zvezqGYgnB.jpg"
+  },
+  {
+    "title": "سنگ مرجان سرخ بهسازی شده 241324",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "4fff0faa-bc0a-4e1b-bd01-f3caf69b006e",
+    "image_url": "https://image.torob.com/base/images/kk/lw/kklwKY7iGfXt3inl.webp"
+  },
+  {
+    "title": "سنگ مرجان بهسازی شده قرمز بیضی ۷۹۲۸",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی شده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "fb6e9d2c-f910-48fe-b207-7452289e83ff",
+    "image_url": "https://image.torob.com/base/images/D2/f4/D2f4YqQKWLBHmkZ2.jpg"
+  },
+  {
+    "title": "مهره مرجان سرخ دفرمه اصل 10میلی گوی مرجام قرمز اصل فروشگاه سنگ قیمتی کرج سلما گالری مهره مرجان دفرمه مهره سنگ دستبندی",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "دفرمه",
+          "گوی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "10میلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "c722da08-99c0-4f63-b46a-e6231fbad7ba",
+    "image_url": "https://image.torob.com/base/images/_4/Jq/_4JqI5pCgarN33E9.jpg"
+  },
+  {
+    "title": "نگین مرجان لامپی خاص و زیبا کد 4031",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان لامپی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "c0cf6910-e08c-4716-b42f-f58ea76c0d89",
+    "image_url": "https://image.torob.com/base/images/zs/n9/zsn96239sD2FlmUn.jpg"
+  },
+  {
+    "title": "مهره مرجان سرخ اصل دفرمه سنگ مرجان اقیانوسی معدنی",
+    "group": "نامشخص",
+    "product": "مهره مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "مهره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "دفرمه"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان اقیانوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره مرجان"
+        ]
+      }
+    ],
+    "random_key": "7762d66a-52cd-4536-be6a-c57d906e19e8",
+    "image_url": "https://image.torob.com/base/images/Op/yo/OpyotrqqRk5h0QTW.jpg"
+  },
+  {
+    "title": "سنگ بیضی مرجان رنگ شده قرمز ۲۴۰۵۹۳",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "e2e1f545-8ba4-4be8-9165-550da6a8d4b3",
+    "image_url": "https://image.torob.com/base/images/fO/a_/fOa_WK4U_lIOZd6n.jpg"
+  },
+  {
+    "title": "مرجان، و صدف های بسیار زیبا",
+    "group": "نامشخص",
+    "product": "مرجان و صدف",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان",
+          "صدف"
+        ]
+      }
+    ],
+    "random_key": "a8b2b62b-ed2a-4cb0-8cca-10ea4e856141",
+    "image_url": "https://image.torob.com/base/images/gj/ok/gjok7sLeGaMInVtL.jpg"
+  },
+  {
+    "title": "مرجان سفید دریایی کد 1",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "f156d444-971a-4f13-9aca-a044df533211",
+    "image_url": "https://image.torob.com/base/images/ae/iK/aeiKv-s67BhUcnQB.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26245",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار",
+          "مناسب گردنبند آویز پلاک"
+        ]
+      },
+      {
+        "name": "نوع محصول",
+        "values": [
+          "گردنبند",
+          "آویز",
+          "پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "81bec993-5861-4452-971d-b6588b3b317b",
+    "image_url": "https://image.torob.com/base/images/kt/Sw/ktSwQxmrIao9rBF9.jpg"
+  },
+  {
+    "title": "اسلایس مینیاتوری مرجان قرمز طبیعی دریای مدیترانه",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسلایس مینیاتوری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریای مدیترانه"
+        ]
+      }
+    ],
+    "random_key": "c981ea98-7c65-4c41-bfc3-a6ff0f84df3b",
+    "image_url": "https://image.torob.com/base/images/q3/Lj/q3Ljd9v_EtR0HSGk.jpg"
+  },
+  {
+    "title": "نگین بینظیر مرجان دریایی ۱۰۰% طبیعی درشت اشکی (۰۳)",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بینظیر",
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "100% طبیعی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "8d225128-3342-4808-9c67-b8f2e55388d6",
+    "image_url": "https://image.torob.com/base/images/d0/Me/d0MeIMhyD54SS-1o.jpg"
+  },
+  {
+    "title": "نگین مرجان لامپی شگفت انگیز و جالب",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان لامپی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شگفت انگیز",
+          "جالب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "e652448c-e9c4-4dc1-b62a-51b3afc6d663",
+    "image_url": "https://image.torob.com/base/images/lW/Bj/lWBjUpBfggmklayf.jpg"
+  },
+  {
+    "title": "نگین دایره ای مرجان رنگ شده قرمز ۲۴۰۵۹۱",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "دایره ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "ea3932b3-50d2-4d47-a639-c6fb19b81a8d",
+    "image_url": "https://image.torob.com/base/images/5W/Gs/5WGsTgCu9wxlW-pD.jpg"
+  },
+  {
+    "title": "سنگ مرجان فسیلی اصل کد15",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "26345631-b823-4161-b0a7-fb580162ea43",
+    "image_url": "https://image.torob.com/base/images/ML/5x/ML5x9mJrdR63I0dv.jpg"
+  },
+  {
+    "title": "سنگ راف مرجان",
+    "group": "نامشخص",
+    "product": "سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف مرجان"
+        ]
+      }
+    ],
+    "random_key": "7995f82f-6c30-43f4-8732-2d6b9b7f1ea0",
+    "image_url": "https://image.torob.com/base/images/Dk/Tk/DkTkPVehN77TWyPf.jpg"
+  },
+  {
+    "title": "مرجان سرخ مرجان قرمز سوراخ دار مناسب گردنبند آویز پلاک کد 26254",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوراخ دار",
+          "مناسب گردنبند",
+          "مناسب آویز",
+          "مناسب پلاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "55ed1b41-3fd9-41e4-9476-0164bd8c9e0b",
+    "image_url": "https://image.torob.com/base/images/ks/6U/ks6UN92H1-0HDOxb.jpg"
+  },
+  {
+    "title": "مرجان پک 10 عددی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان پک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "10 عددی"
+        ]
+      }
+    ],
+    "random_key": "e7747aa5-db79-4c8b-b6bd-1972db1176f9",
+    "image_url": "https://image.torob.com/base/images/Dj/_B/Dj_BnsBHXjUbyjly.jpg"
+  },
+  {
+    "title": "مرجان طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان"
+        ]
+      }
+    ],
+    "random_key": "64c8daf8-78a3-49a7-8468-4a343b0ed3bf",
+    "image_url": "https://image.torob.com/base/images/O0/VB/O0VB_Y8zm_mF9dLn.jpg"
+  },
+  {
+    "title": "نگین مرجان فسیلی سیاه اصل کد14",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "6530ea28-6a61-4b67-b54f-bf955124534e",
+    "image_url": "https://image.torob.com/base/images/cW/E1/cWE1GSBPEETQVbOv.jpg"
+  },
+  {
+    "title": "مرجان ماشروم ریکوردیا فلوریدا سبز بنفش",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان ماشروم ریکوردیا فلوریدا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز",
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان ماشروم"
+        ]
+      }
+    ],
+    "random_key": "7816c5eb-6792-4dd1-a81e-6c854cdae2ba",
+    "image_url": "https://image.torob.com/base/images/tR/jR/tRjRAk0PIsQ8XjeJ.jpg"
+  },
+  {
+    "title": "مرجان فسیلی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان فسیلی"
+        ]
+      }
+    ],
+    "random_key": "176b842d-cd1a-4d40-9fc3-0b4cabe5841b",
+    "image_url": "https://image.torob.com/base/images/wW/fQ/wWfQtwca3FHgUNNy.webp"
+  },
+  {
+    "title": "مرجان دریایی طبیعی",
+    "group": "نامشخص",
+    "product": "مرجان",
+    "entities": [
+      {
+        "name": "نوع مرجان",
+        "values": [
+          "مرجان دریایی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مرجان دریایی"
+        ]
+      }
+    ],
+    "random_key": "85cff720-3dc3-46ed-bfb1-b6c31b6c6c13",
+    "image_url": "https://image.torob.com/base/images/Ny/Oa/NyOar9mU5oF2qoUB.jpg"
+  },
+  {
+    "title": "نگین بیضی مرجان بهسازی قرمزرنگ ۷۹۳۰",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بهسازی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمزرنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "2252de37-bf93-4478-9eb4-f15de29cb274",
+    "image_url": "https://image.torob.com/base/images/nN/Tz/nNTzbdZ0IZblmF7f.jpg"
+  },
+  {
+    "title": "نگین مرجان سرخ رنگ شده ۳ قیراتی ۲۴۰۵۸۵",
+    "group": "نامشخص",
+    "product": "نگین مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "رنگ شده"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۳ قیراتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین مرجان"
+        ]
+      }
+    ],
+    "random_key": "ad79723d-2b69-4ff2-b05d-9eb4ce51b6da",
+    "image_url": "https://image.torob.com/base/images/nv/jO/nvjOzdbp0NQ-QtRa.jpg"
+  },
+  {
+    "title": "نگین درشت سنگ طبیعی مرجان سیاه معدنی 34682",
+    "group": "نامشخص",
+    "product": "نگین سنگ مرجان",
+    "entities": [
+      {
+        "name": "نوع محصول",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ مرجان"
+        ]
+      }
+    ],
+    "random_key": "41d33c75-2be9-4013-84fb-f47b4fae994b",
+    "image_url": "https://image.torob.com/base/images/Fr/J5/FrJ5n4Bnf3D9_UO7.jpg"
+  }
+]

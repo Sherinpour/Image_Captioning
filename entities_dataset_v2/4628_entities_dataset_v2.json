@@ -1,0 +1,5788 @@
+[
+  {
+    "title": "نگین لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "87332503-d213-4c9d-b146-e68c499c2838",
+    "image_url": "https://image.torob.com/base/images/0s/9t/0s9tjTFXXCXqVkbu.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت اصل تراش قلب N3093",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "قلب"
+        ]
+      }
+    ],
+    "random_key": "51ad2a44-55a3-4ad0-8ff2-fad74f8e168e",
+    "image_url": "https://image.torob.com/base/images/vr/qP/vrqPUYcSDmmZMDxn.jpg"
+  },
+  {
+    "title": "لابرادوریت آویز",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "e494ee2b-07eb-4824-9d48-ebda423862ae",
+    "image_url": "https://image.torob.com/base/images/Sh/yc/ShycHpD0hrPX_CYR.jpg"
+  },
+  {
+    "title": "بارخانه سنگ لابرادوریت+67",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "45318992-d960-4284-b06b-12f377645e51",
+    "image_url": "https://image.torob.com/base/images/c6/Ot/c6OtGcHxKtg4DfBW.jpg"
+  },
+  {
+    "title": "یک جفت سنگ ماه (مون استون،لابرادوریت سفید) معدنی",
+    "group": "نامشخص",
+    "product": "سنگ ماه",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "00fe6638-16d9-412b-a824-d53fe0f1e3a2",
+    "image_url": "https://image.torob.com/base/images/ls/vp/lsvpDedEMOPBGp1t.jpg"
+  },
+  {
+    "title": "پک اقتصادی نگین سنگ طبیعی لابرادوریت معدنی کد 33658",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "f55b7ed0-4763-4eca-9134-3160104fd225",
+    "image_url": "https://image.torob.com/base/images/ms/n8/msn82vKNueKnLOXG.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت معدنی طبیعی تراش بیضی خاص و زیبا",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      }
+    ],
+    "random_key": "54cc79a2-3ba8-4ec7-9e13-b16b44319d68",
+    "image_url": "https://image.torob.com/base/images/F4/kw/F4kwnYrZTYisPNAt.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت طبیعی رنگین کمانی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "رنگین کمانی"
+        ]
+      }
+    ],
+    "random_key": "79b56a82-24cc-48df-98b2-5f428f3452c4",
+    "image_url": "https://image.torob.com/base/images/1V/eR/1VeRseJTfJlcZiMm.jpg"
+  },
+  {
+    "title": "سنگ ماه رنگین کمانی(لابرادوریت سفید)",
+    "group": "نامشخص",
+    "product": "سنگ ماه",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "رنگین کمانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "96ecc0d5-6435-44ea-ba0e-5a7d9a2d7322",
+    "image_url": "https://image.torob.com/base/images/J6/4G/J64G_DzU3jUXoFNu.webp"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 223",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "1cebe12b-7d10-4ebe-bbe9-51776ddf53e1",
+    "image_url": "https://image.torob.com/base/images/gD/e_/gDe_W7GyzCwdnMEM.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "2f4a2689-6e04-434f-a6a3-e4669d45a7e0",
+    "image_url": "https://image.torob.com/base/images/ah/tx/ahtxnEWXzmaNhCHC.webp"
+  },
+  {
+    "title": "سنگ تخم مرغی لابرادوریت طبیعی هفت سین کد4",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ تخم مرغی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "023485f2-24b1-46c1-abbd-a1f8d310ab8d",
+    "image_url": "https://image.torob.com/base/images/xV/bN/xVbNhjyuFx2mC-UL.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت در جه یک کد (25) سنگ متولدین فروردین مرداد شهریور مهر آبان آذر دی ماه",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "712477ed-c7ba-4ec3-a2c9-e39bcc752898",
+    "image_url": "https://image.torob.com/base/images/vj/pF/vjpFHH7TVJxL8f5Y.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت معدنی ماداگاسکار (تلألو آبی رنگ)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو آبی رنگ"
+        ]
+      }
+    ],
+    "random_key": "d77819bd-67d9-4b8d-8b55-8c6bfd9e6d62",
+    "image_url": "https://image.torob.com/base/images/ba/iD/baiDW8BJNC8asTYf.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "f0c0dd65-25d0-4d45-ac88-c544614de1c4",
+    "image_url": "https://image.torob.com/base/images/X7/AW/X7AWpVWuwbKmxTdI.jpg"
+  },
+  {
+    "title": "سنگ قلبی لابرادوریت زیبآذین Zibazin کد LA-1010",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ قلبی"
+        ]
+      }
+    ],
+    "random_key": "2e0e5519-948e-4a7f-b083-434189fd455a",
+    "image_url": "https://image.torob.com/base/images/Z4/Kh/Z4Kh0luM_GWlU4aV.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "758e6c7a-8752-4c1c-840c-9a32524a7acb",
+    "image_url": "https://image.torob.com/base/images/e9/oG/e9oGA_jnXmBRmyPY.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "d6e6c9e5-1d97-48ce-80ee-fe52bc85bacd",
+    "image_url": "https://image.torob.com/base/images/8_/57/8_57tl_U38L7G1nl.jpg"
+  },
+  {
+    "title": "لابرادوریت3",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "9f1a3150-541b-4bcd-b8ad-1a0ef5e80759",
+    "image_url": "https://image.torob.com/base/images/7R/MF/7RMFFVUPqiqrntaX.jpg"
+  },
+  {
+    "title": "سنگ نگین لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "028e8cb7-43b7-47a5-88a7-5fb7e2c25aab",
+    "image_url": "https://image.torob.com/base/images/Bh/ZF/BhZFT5Hd-3NHjdCp.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی با تراش فست و وزن وزن 7قیراط کد 28103",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش فست"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "7قیراط"
+        ]
+      }
+    ],
+    "random_key": "41863ef7-bb16-41b4-adde-dd5713b2ad11",
+    "image_url": "https://image.torob.com/base/images/hg/dw/hgdw9SHLIl7jD1U-.jpg"
+  },
+  {
+    "title": "ریسه سنگ لابرادوریت سایز 2 میلیمتر تراش کد 29715",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "2 میلیمتر"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "beb59938-739b-4034-b503-2efc42717e8b",
+    "image_url": "https://image.torob.com/base/images/-L/9T/-L9TWjKTjpTY51HE.webp"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "90cdc033-6f83-4da6-8397-d873e6c23b29",
+    "image_url": "https://image.torob.com/base/images/iK/Pu/iKPuTreEXI9QgbUA.jpg"
+  },
+  {
+    "title": "سنگ ماه رنگین کمانی(لابرادوریت سفید)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "ea7677fb-39ad-452a-8486-782c56bace97",
+    "image_url": "https://image.torob.com/base/images/Pa/xE/PaxE6_rAPXe-qBTx.webp"
+  },
+  {
+    "title": "نگین درشت سنگ لابرادوریت معدنی تراش فانتزی 71 قیراط کد10030",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش فانتزی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "71 قیراط"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      }
+    ],
+    "random_key": "f9acfd46-10c4-4642-ae9c-06384ae8f4f1",
+    "image_url": "https://image.torob.com/base/images/nj/Rr/njRrp6luuhnjRAQW.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت | خرید سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "374dd3e6-28e4-41a4-a377-36faffe01de5",
+    "image_url": "https://image.torob.com/base/images/AZ/gG/AZgG17VEaBZsNsii.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت اصل ماداگاسکارتامبل شده",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تامبل شده"
+        ]
+      }
+    ],
+    "random_key": "9198e68b-2164-4165-aaf9-b2bbe0f58599",
+    "image_url": "https://image.torob.com/base/images/l2/AT/l2ATZSdIr_0TFq3q.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت کد12",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "833b8125-b885-4ad7-ad20-cafc3a1c0522",
+    "image_url": "https://image.torob.com/base/images/az/_p/az_pWGdnAGOJHcN8.jpg"
+  },
+  {
+    "title": "لابرادوریت طبیعی 3.8 گرم",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "3.8 گرم"
+        ]
+      }
+    ],
+    "random_key": "dbe97a03-84c1-4e1b-9a1d-44dd656fca5a",
+    "image_url": "https://image.torob.com/base/images/vG/kr/vGkrYX0xHGYDUI2G.jpg"
+  },
+  {
+    "title": "لابرادوریت پرطاووسی ماداگاسکار نیمه دستساز غول",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پرطاووسی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نیمه دستساز",
+          "غول"
+        ]
+      }
+    ],
+    "random_key": "a831a9b0-b3fe-4fb4-8063-f1345800d311",
+    "image_url": "https://image.torob.com/base/images/4v/XB/4vXB9JZuyKfzHSj7.jpg"
+  },
+  {
+    "title": "آویز لابرادوریت همراه با دیزاین استیل رنگ ثابت و سنگ آمتیست و اپال",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "جنس رکاب/قاب",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "رنگ ثابت"
+        ]
+      }
+    ],
+    "random_key": "1233eb55-f276-4333-8774-6b73b9111a1d",
+    "image_url": "https://image.torob.com/base/images/t-/81/t-81qDXYbAjRGLQs.webp"
+  },
+  {
+    "title": "نگین لابرادوریت آبی خوش تلالو کد 98652",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "خوش تلالو"
+        ]
+      }
+    ],
+    "random_key": "23bb40f1-ae0c-40bf-8bb0-0a186325a170",
+    "image_url": "https://image.torob.com/base/images/fx/N3/fxN3LxtrVzuGTkmu.jpg"
+  },
+  {
+    "title": "نگین درشت طبیعی لابرادوریت معدنی 31747",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      }
+    ],
+    "random_key": "e839ffa5-50c2-44a8-9099-86d125ac402f",
+    "image_url": "https://image.torob.com/base/images/hL/eM/hLeMkezvJKk-p1tZ.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "a7fe1fb6-6328-4075-9968-efb96ef98e87",
+    "image_url": "https://image.torob.com/base/images/QA/xu/QAxufSVBpdSm_Apc.webp"
+  },
+  {
+    "title": "ریسه سنگ لابرادوریت سایز 2 میلیمتر تراش کد13069",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "2 میلیمتر"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "04fa36ee-c8d4-4c61-b4b9-d1ec3927144c",
+    "image_url": "https://image.torob.com/base/images/qf/ON/qfONxqS37uKX9LE7.webp"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "5460168b-7365-425d-a592-677bda600428",
+    "image_url": "https://image.torob.com/base/images/Xf/iu/XfiuhkF9PDeX3Qbt.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت معدنی و طبیعی 2",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "2308d970-0e3f-4a3f-a880-bdfe6877e840",
+    "image_url": "https://image.torob.com/base/images/Pq/1X/Pq1XC41lpxPHiYOR.jpg"
+  },
+  {
+    "title": "(پک سنگ لابرادوریت قلبی)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "قلبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک"
+        ]
+      }
+    ],
+    "random_key": "dfdeb533-8069-49f0-8e94-5fa2204c17d5",
+    "image_url": "https://image.torob.com/base/images/6B/vx/6BvxuRws6TmX54K1.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "0094902b-c4b4-46cd-9a3d-90ac3e0b661c",
+    "image_url": "https://image.torob.com/base/images/EP/Fg/EPFgl5NMtxl9HhEC.jpg"
+  },
+  {
+    "title": "سنگ راف لابرادوریت آبی ماداگاسکار معدنی (با لابرادورسنسی آبی کمیاب) (11)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "لابرادورسنسی آبی کمیاب"
+        ]
+      }
+    ],
+    "random_key": "b318067a-11f6-4b97-b484-6c095ed907fc",
+    "image_url": "https://image.torob.com/base/images/AC/zW/ACzW48ZEzhpNDyKM.jpg"
+  },
+  {
+    "title": "لابرادوریت اصل ماداگاسکار تلالو نور عالی کد h44",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالو نور عالی"
+        ]
+      }
+    ],
+    "random_key": "5eb6b5e8-6826-463c-8a07-1d4bfc187ee8",
+    "image_url": "https://image.torob.com/base/images/tH/h4/tHh4CF5Ju6MSRIh2.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "e5c7a57b-8663-4d33-a688-1da2ae1e6394",
+    "image_url": "https://image.torob.com/base/images/mG/BW/mGBW-2P4qoJRvxOZ.jpg"
+  },
+  {
+    "title": "سنگ راف مدل گوی لابرادوریت کد 146",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ راف",
+          "گوی"
+        ]
+      }
+    ],
+    "random_key": "482ad0f5-e66a-42d4-b082-28576b4184f8",
+    "image_url": "https://image.torob.com/base/images/oj/15/oj15V2IL8THxDHPE.jpg"
+  },
+  {
+    "title": "سنگ ماه رنگین کمانی(لابرادوریت سفید)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگین کمانی",
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "5ddd61ff-41c2-4861-ba40-d4e6ba957f4d",
+    "image_url": "https://image.torob.com/base/images/0P/Cu/0PCuUKX8bLnVUC5Q.webp"
+  },
+  {
+    "title": "پک لابرادوریت قلبی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پک"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "قلبی"
+        ]
+      }
+    ],
+    "random_key": "05be7bfc-edee-4ce9-95c9-4a511bb66c98",
+    "image_url": "https://image.torob.com/base/images/ZW/66/ZW669kXUJFzHQxwW.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت قیمتی اشکی خاص 250092",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "قیمتی",
+          "خاص"
+        ]
+      }
+    ],
+    "random_key": "0f70785d-1d60-45f3-92ac-de0b757d048d",
+    "image_url": "https://image.torob.com/base/images/p3/GL/p3GLo6UBSITqbbHF.webp"
+  },
+  {
+    "title": "لابرادوریت طبیعی ارزشمند 11 گرمی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "ارزشمند"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "11 گرمی"
+        ]
+      }
+    ],
+    "random_key": "d12efdb1-2294-4ede-ae9a-e683c00cf792",
+    "image_url": "https://image.torob.com/base/images/tZ/3p/tZ3pU3YVBJm6tUSC.jpg"
+  },
+  {
+    "title": "راف لابرادوریت چیپسی اصل سنگ لابرادوریت اصل",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف",
+          "چیپسی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "02fa0ef4-be5b-40c5-8082-0c5f34f41ddb",
+    "image_url": "https://image.torob.com/base/images/T-/2I/T-2ISraGwiGHvTF0.jpg"
+  },
+  {
+    "title": "لابرادوریت مهره لابرادوریت تامبلر درشت قیمت برای یک گرم مهره درج شده حداقل خرید دو گرم می باشد",
+    "group": "نامشخص",
+    "product": "مهره لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره لابرادوریت تامبلر"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      }
+    ],
+    "random_key": "ded08e0d-d05b-4afc-87f5-f92bd8ab5d0e",
+    "image_url": "https://image.torob.com/base/images/Mh/yO/MhyOqG06Q9-RmNns.jpg"
+  },
+  {
+    "title": "پک اقتصادی هفت سنگ متشکل از مهره های چیپسی آمیتیس آمتیس فیروزه لاجورد رزکوارتز سیترین چشم ببر لابرادوریت",
+    "group": "نامشخص",
+    "product": "پک هفت سنگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مهره های چیپسی"
+        ]
+      }
+    ],
+    "random_key": "b62b3827-605a-4ed5-9fe0-5ea0d201f464",
+    "image_url": "https://image.torob.com/base/images/Fz/wt/FzwtybHdkzrAWE77.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت کد 14",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "1ae814b1-6218-4d2d-a401-151ffe2c81c8",
+    "image_url": "https://image.torob.com/base/images/6-/ak/6-akC3hRkIbK99hW.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت آبی گرد 3.1 گرم",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "3.1 گرم"
+        ]
+      }
+    ],
+    "random_key": "64d85778-ed8e-4c68-92d2-7700857b2e8f",
+    "image_url": "https://image.torob.com/base/images/7_/rU/7_rUD7uPL7CxIiv7.jpg"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 208",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "7df40fdb-fdf8-4ce4-b070-a7226063d763",
+    "image_url": "https://image.torob.com/base/images/qq/HS/qqHSO5IIiW0wVkba.jpg"
+  },
+  {
+    "title": "دکوری سنگ لابرادوریت 51",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت دکوری",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "دکوری"
+        ]
+      }
+    ],
+    "random_key": "8ca1378d-ba7e-44db-859f-a273753bfed0",
+    "image_url": "https://image.torob.com/base/images/Cm/zI/CmzI2P8MdpEzbG2d.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت خوش تلالو کد 125426",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "خوش تلالو"
+        ]
+      }
+    ],
+    "random_key": "34abb472-35ef-4b09-b9d6-af51dd57015f",
+    "image_url": "https://image.torob.com/base/images/TG/b7/TGb7WkhSPTEt1g4w.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت ماداگاسکار اصل معدنی کد 7542",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "2130a133-e180-4a66-8d1d-28a150ccd34b",
+    "image_url": "https://image.torob.com/base/images/dt/nG/dtnGfte8RLemsnsD.jpg"
+  },
+  {
+    "title": "لابرادوریت مربع خاص",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "مربع"
+        ]
+      }
+    ],
+    "random_key": "65cffc01-e7d4-4635-a012-f42503d171b3",
+    "image_url": "https://image.torob.com/base/images/Jn/za/JnzaszvN_A76jnTO.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت آبی کم نظیر کد 131066",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کم نظیر"
+        ]
+      }
+    ],
+    "random_key": "2b5dd6e4-9d11-40af-90ab-d4f77994f6b6",
+    "image_url": "https://image.torob.com/base/images/uk/Ia/ukIagaidZillACTo.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت تامبل شده",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تامبل شده"
+        ]
+      }
+    ],
+    "random_key": "50d3d973-989c-466d-9e3c-613097b835ae",
+    "image_url": "https://image.torob.com/base/images/p7/5d/p75dQXVoBGwtXJhU.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت اصل طرح اشکی کد N_2123",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      }
+    ],
+    "random_key": "a182ea82-758a-4679-8344-d0a668d1fc89",
+    "image_url": "https://image.torob.com/base/images/wU/C-/wUC-QBmuc6Up9_Vu.jpg"
+  },
+  {
+    "title": "لابرادوریت حکاکی شده",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حکاکی شده"
+        ]
+      }
+    ],
+    "random_key": "1322ae7d-b89e-4688-a5c5-350c64352e6c",
+    "image_url": "https://image.torob.com/base/images/Ec/0n/Ec0nns_7pMINfRnc.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی لابرادوریت معدنی کد 32128",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ طبیعی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "16a24a11-4821-45b6-adfd-b2a9c2f49459",
+    "image_url": "https://image.torob.com/base/images/i7/xL/i7xLSVmn5WQR4naH.jpg"
+  },
+  {
+    "title": "ریسه سنگ لابرادوریت درجه یک سایز ۸ کد10212",
+    "group": "نامشخص",
+    "product": "ریسه سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 8"
+        ]
+      }
+    ],
+    "random_key": "2ccd8493-fcf4-4f3c-b48a-7b5e5b763ec2",
+    "image_url": "https://image.torob.com/base/images/Ln/YU/LnYUwMZnlaa5bNC5.webp"
+  },
+  {
+    "title": "نگین سنگ طبیعی لابرادوریت گرد طبیعی خاص و بسیارزیبا L30",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خاص",
+          "بسیارزیبا"
+        ]
+      }
+    ],
+    "random_key": "f90aa6f4-253d-45ee-ac84-9dd9ff6ac4f7",
+    "image_url": "https://image.torob.com/base/images/fw/5u/fw5uHnbEogpG7txT.jpg"
+  },
+  {
+    "title": "تامبل لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تامبل"
+        ]
+      }
+    ],
+    "random_key": "167affda-bea1-4171-ba81-a3248a351423",
+    "image_url": "https://image.torob.com/base/images/xM/Ng/xMNgrX_gPrD8WG2-.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پرطاووسی اصل وارداتی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پرطاووسی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "1224cf60-03e1-4e3f-8c86-b74dbac7eb24",
+    "image_url": "https://image.torob.com/base/images/G2/sO/G2sOBcbi6sODZh_m.jpg"
+  },
+  {
+    "title": "لابرادوریت کاروینگ",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع تراش",
+        "values": [
+          "کاروینگ"
+        ]
+      }
+    ],
+    "random_key": "2b4bd889-be49-4440-a55a-7aa0a8408d85",
+    "image_url": "https://image.torob.com/base/images/Zf/88/Zf8840qrzBqyqfDn.webp"
+  },
+  {
+    "title": "لابرادوریت طبیعی رنگی باتلالو",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "باتلالو"
+        ]
+      }
+    ],
+    "random_key": "6056afd1-815c-4503-847a-c69ee379eb45",
+    "image_url": "https://image.torob.com/base/images/mO/9V/mO9VskJ727nAYBX-.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت معدنی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "4cf0f774-ba56-4c03-95e0-906cf306cc3d",
+    "image_url": "https://image.torob.com/base/images/Bi/BQ/BiBQAQMUbbZvGopI.jpg"
+  },
+  {
+    "title": "لابرادوریت بیضی آبی 250079",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "efc24905-1471-4221-b120-bf61cb03cb5b",
+    "image_url": "https://image.torob.com/base/images/cV/tw/cVtwtUNUoqy3dy5L.webp"
+  },
+  {
+    "title": "لابرادوریت قیمتی با طرح زیبا 250081",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "قیمتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طرح زیبا"
+        ]
+      }
+    ],
+    "random_key": "727bfe79-fc95-49e0-9a3b-dbcb47f3fcf2",
+    "image_url": "https://image.torob.com/base/images/I0/rR/I0rREDUrs8wymObe.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت پارلا گوهر کد 5143",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "637b37c6-b2cf-4f62-baf0-8751f82c4863",
+    "image_url": "https://image.torob.com/base/images/NQ/lD/NQlDjkIlylNP6bnm.webp"
+  },
+  {
+    "title": "نگین لابرادوریت معدنی و طبیعی کد 4010",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "16bf8b63-f626-4954-abc3-c85ef96c5230",
+    "image_url": "https://image.torob.com/base/images/ne/N0/neN0n8sPFK9xyNzj.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت طبیعی تراش فانتزی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "فانتزی"
+        ]
+      }
+    ],
+    "random_key": "cf6341df-62ea-4b6a-bf5a-57f5c7b5980e",
+    "image_url": "https://image.torob.com/base/images/0w/MN/0wMNsBrc2tnca6C5.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "5922ecc8-46a3-4b4b-8928-6657a6ad9850",
+    "image_url": "https://image.torob.com/base/images/6T/YS/6TYScnkQnHz0hUry.webp"
+  },
+  {
+    "title": "نگین لابرادوریت وارداتی از کشور لابرادور کانادا با تلالوئی بی نظیر و چشم نواز کد 10111",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "کانادا"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالوئی بی نظیر و چشم نواز"
+        ]
+      }
+    ],
+    "random_key": "80d14c4c-21f3-4727-80ee-fa99bbaeaafe",
+    "image_url": "https://image.torob.com/base/images/dj/ZW/djZWyxh948hAjJFu.jpg"
+  },
+  {
+    "title": "لابرادوریت درشت طبیعی با پدیده لابرادورسنسی عالی به وزن 16.20 گرم",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "لابرادورسنسی عالی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "16.20 گرم"
+        ]
+      }
+    ],
+    "random_key": "e4f8fbe3-838f-4378-a6e4-bf519a3c0fd1",
+    "image_url": "https://image.torob.com/base/images/fT/2T/fT2TDrGC-wNrGsVy.jpg"
+  },
+  {
+    "title": "بارخانه سنگ لابرادوریت تراشدار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراشدار"
+        ]
+      }
+    ],
+    "random_key": "f920f941-acbd-4095-9b60-12235b98f4b3",
+    "image_url": "https://image.torob.com/base/images/lf/a9/lfa9I_f7tAKVQZP8.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت با تلالوئی بی نظیر تراش اشک وارداتی از لابرادور کانادا کد 26082",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالوئی بی نظیر"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "کانادا"
+        ]
+      }
+    ],
+    "random_key": "f487e27c-3cff-40bc-be8b-78e39140c8f8",
+    "image_url": "https://image.torob.com/base/images/k1/Dy/k1Dy150M-LHMBqu5.jpg"
+  },
+  {
+    "title": "لابرادوریت تراش دایره خاص",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع تراش",
+        "values": [
+          "دایره"
+        ]
+      }
+    ],
+    "random_key": "b6078c6e-2887-4242-a191-716e621ff2f2",
+    "image_url": "https://image.torob.com/base/images/5T/F4/5TF4-5ap2ktvzPpU.jpg"
+  },
+  {
+    "title": "لابرادوریت زیبا و معدنی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "ad5719d5-8f3d-4fc1-94c9-74ef1abd3128",
+    "image_url": "https://image.torob.com/base/images/t3/t4/t3t4TgduIjCigXPa.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت اصل معدنی ماداگاسکار کد 1062",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "3b8e3bf4-1651-4a81-bc57-fe449b159353",
+    "image_url": "https://image.torob.com/base/images/ks/4U/ks4Ugorjrm3Ct23y.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "66feeea6-b211-4495-b060-c0ef721512b1",
+    "image_url": "https://image.torob.com/base/images/aN/ED/aNEDtz5PKKEd-tdu.jpg"
+  },
+  {
+    "title": "لابرادوریت L29",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "941bb50d-310d-42cb-97c0-c587398cd217",
+    "image_url": "https://image.torob.com/base/images/jF/H8/jFH8A1c3n9Ib1Cdp.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت پرطاووسی تراش اشک",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پرطاووسی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "اشک"
+        ]
+      }
+    ],
+    "random_key": "fe24c983-cced-4f3d-976c-fc93b2df2b0e",
+    "image_url": "https://image.torob.com/base/images/PA/S2/PAS2B1VZnvDJQesi.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "b7d6573d-4bbc-4a2e-af0f-7b149e746a76",
+    "image_url": "https://image.torob.com/base/images/37/X3/37X39hMOF42xdHUC.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت در جه یک کد (27) سنگ متولدین فروردین مرداد شهریور مهر آبان آذر دی ماه",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "سنگ متولدین فروردین مرداد شهریور مهر آبان آذر دی ماه"
+        ]
+      }
+    ],
+    "random_key": "a8b4b9f0-81db-43de-ba54-947c52da7076",
+    "image_url": "https://image.torob.com/base/images/fC/P_/fCP_FFsPUDlInoIa.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت اصل معدنی ماداگاسکار کد 1061",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "07049d75-54a0-402d-8733-9ed401a2c0cd",
+    "image_url": "https://image.torob.com/base/images/Yt/Mu/YtMus_w5pIsTI4u6.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت طرح طبیعت کم نظیر کد 131075",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طرح طبیعت کم نظیر"
+        ]
+      }
+    ],
+    "random_key": "c8f527d6-5296-4bfa-8e8c-6ac308b66942",
+    "image_url": "https://image.torob.com/base/images/jK/vu/jKvuxTzxKHnTL6JB.jpg"
+  },
+  {
+    "title": "راف سنگ لابرادوریت آبی (کد392)",
+    "group": "نامشخص",
+    "product": "راف سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "892d05ab-d0ad-44de-9149-b0913a651f87",
+    "image_url": "https://image.torob.com/base/images/5U/Em/5UEmIJ4gfKxoYWUP.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت آبی اصل معدنی درجه یک",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "234eb1b7-5fd0-4255-82f8-902692659f18",
+    "image_url": "https://image.torob.com/base/images/cp/FZ/cpFZegZuzb3uoz_S.jpg"
+  },
+  {
+    "title": "سنگ ماه رنگین کمانی(لابرادوریت سفید)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگین کمانی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ",
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "42e9be29-3c45-4af0-a8be-a1b7121027bc",
+    "image_url": "https://image.torob.com/base/images/np/Dj/npDjg2SWuQ2bxtcn.webp"
+  },
+  {
+    "title": "لابرادوریت طبیعی و معدنی کد 1",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "b27b0612-0b0d-44a3-a218-bf2cd2d1127b",
+    "image_url": "https://image.torob.com/base/images/_G/36/_G36R3bgWenqx_up.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "6cbb8a3f-a760-4590-81d8-ac9eb47f1e8b",
+    "image_url": "https://image.torob.com/base/images/ir/Sa/irSaBKB_RtY_9sBP.jpg"
+  },
+  {
+    "title": "لابرادوریت اصل ماداگاسکار تلألو نور عالی کدh38سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت",
+          "سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو نور عالی"
+        ]
+      }
+    ],
+    "random_key": "b5d88d7f-aedf-4878-93fc-aea740dace09",
+    "image_url": "https://image.torob.com/base/images/hr/v_/hrv_WJ9bDIWkqYkU.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی لابرادوریت معدنی کد10165",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "ab120ef0-7815-4585-9247-f7d417c95dff",
+    "image_url": "https://image.torob.com/base/images/WT/kk/WTkkh6bZ1YKC2d8J.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت خارق العاده و زیبا نمونه کشور کانادا S1545",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خارق العاده",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "کانادا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "f8b2598a-a8e9-4057-82ca-bd342802822f",
+    "image_url": "https://image.torob.com/base/images/5Z/Sl/5ZSlw75x2iaBVtWL.jpg"
+  },
+  {
+    "title": "خوشه سنگ آمیتیست اروگوئه",
+    "group": "نامشخص",
+    "product": "خوشه سنگ",
+    "entities": [
+      {
+        "name": "منشا",
+        "values": [
+          "اروگوئه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خوشه سنگ"
+        ]
+      }
+    ],
+    "random_key": "40b512f3-a68c-403f-897e-0846b520bbf2",
+    "image_url": "https://image.torob.com/base/images/eg/GO/egGOUQ7UpqKKLxXB.jpg"
+  },
+  {
+    "title": "منشور سنگ لابرادوریت جذاب",
+    "group": "نامشخص",
+    "product": "منشور سنگ",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "منشور سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "b6977127-949f-4f5e-9a9d-6a6bd9dab31c",
+    "image_url": "https://image.torob.com/base/images/WK/kS/WKkSdq9IYZjPb06w.jpg"
+  },
+  {
+    "title": "لابرادوریت اصل ماداگاسکار تلألو نور عالی کدh59سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو نور عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "4d036d1e-79a1-4b2f-9e8d-a0c9b1d20323",
+    "image_url": "https://image.torob.com/base/images/aX/4o/aX4oA8Vb9-H2LNwu.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "f2b858f0-e092-497a-a4e5-bd10a4182990",
+    "image_url": "https://image.torob.com/base/images/G6/p4/G6p4kbgEbPZGUE1R.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پارلا گوهر کد 5146",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "e4eaffc1-e2da-4967-af7c-4449584642a0",
+    "image_url": "https://image.torob.com/base/images/RZ/gA/RZgACmLT_HHgDc2o.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت طبیعی تلالو آبی باکیفیت ۲۴۰۶۸۲",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالو آبی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "باکیفیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "a9c7da97-407b-467e-9611-9e4bd1bfce50",
+    "image_url": "https://image.torob.com/base/images/hu/Fh/huFhNp6QVsZitxd_.jpg"
+  },
+  {
+    "title": "آویز لابرادوریت اصل کدLB27 تلألو سبزآبی کمیاب طبیعی",
+    "group": "نامشخص",
+    "product": "آویز لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو سبزآبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "f6a8c07e-9c83-4704-9f38-ac45b1f5f980",
+    "image_url": "https://image.torob.com/base/images/8U/N8/8UN8_v7sTbLN0BMA.jpg"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 2013",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "f70917f9-606b-44cf-a074-5dac33f03b3a",
+    "image_url": "https://image.torob.com/base/images/yM/Qw/yMQwXS4LwGwSWI52.jpg"
+  },
+  {
+    "title": "نگین درشت کلکسیونی سنگ لابرادوریت معدنی 34323",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "کلکسیونی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "3a62609d-9b1c-428c-baa2-70f14e74fcc3",
+    "image_url": "https://image.torob.com/base/images/at/0X/at0XDH98djkXgoCL.jpg"
+  },
+  {
+    "title": "یک عدد گوهر سنگ لابرادوریت قلبی ابعاد بزرگ",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "قلبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "2eb7878a-5137-4aab-ada3-e66b019e5675",
+    "image_url": "https://image.torob.com/base/images/gx/IO/gxIOFuBTKhdMjSS9.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت طبیعی و معدنی حکاکی شده تراش اشکی",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "7a4c57bb-49eb-4098-9987-93557fd978b1",
+    "image_url": "https://image.torob.com/base/images/Gy/Sx/GySxyRPWM165IB9o.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت اصل سایز 23*28",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "23*28"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "24ffa1d5-2832-4271-8f0a-b230a370a9e2",
+    "image_url": "https://image.torob.com/base/images/FP/Z8/FPZ8thuhacdLRgFt.jpg"
+  },
+  {
+    "title": "لابرادوریت اصل ماداگاسکار تلألو نور عالی کدh67سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو نور عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "363de904-e006-4951-8067-cd8c1d7346eb",
+    "image_url": "https://image.torob.com/base/images/0f/Hx/0fHxH2qCnbJRUt-z.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "81dbf913-88d0-4ded-9622-c4af84ef4efd",
+    "image_url": "https://image.torob.com/base/images/1s/yB/1syBuJIa_lnff2nG.webp"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "d75c0430-8aa5-41c8-9f24-774c985bc01f",
+    "image_url": "https://image.torob.com/base/images/s7/FZ/s7FZsQOMRycXUgSv.webp"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "7bf89703-6b62-48cb-8fa6-fbe1c81f3ad3",
+    "image_url": "https://image.torob.com/base/images/bV/J9/bVJ9j3wV5pL06Xwr.jpg"
+  },
+  {
+    "title": "لابرادوریت L28",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "6821ca02-49bd-4b8f-811d-7690f7e0c271",
+    "image_url": "https://image.torob.com/base/images/Wh/JQ/WhJQzJfBdlhIJHm3.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "9222abc6-8184-40bb-9f0d-2c7535004b33",
+    "image_url": "https://image.torob.com/base/images/w7/UO/w7UOLAdFRvxUd9md.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت اصل معدنی",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "c773cda7-3e55-4f9a-a42a-6281e66512cc",
+    "image_url": "https://image.torob.com/base/images/Zm/D9/ZmD98OhcBs4ywlgS.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت طلایی خوش تلالو زیبا کد 131055",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "خوش تلالو"
+        ]
+      }
+    ],
+    "random_key": "c659b466-c4e3-4e74-8122-2e58ed0844fa",
+    "image_url": "https://image.torob.com/base/images/46/l2/46l2Al8XZACyr_rU.jpg"
+  },
+  {
+    "title": "لابرادوریت نگین لابرادوریت وارداتی از کشور لابرادور کانادا با تلالوئ بسیار بی نظیر و کمیاب کد 11451",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "کمیاب"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "کانادا"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالوئ بسیار بی نظیر"
+        ]
+      }
+    ],
+    "random_key": "0a6678b5-b4a7-4d61-ae4b-b942b65ceefb",
+    "image_url": "https://image.torob.com/base/images/Y6/6q/Y66qU-t9qwn-MZgh.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی ماداگاسکار (سایز کوچک)",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز کوچک"
+        ]
+      }
+    ],
+    "random_key": "dc5f9609-c3c0-404b-9b52-dd8d095275b7",
+    "image_url": "https://image.torob.com/base/images/co/jE/cojE6y7smAgSIa4h.jpg"
+  },
+  {
+    "title": "لابرادوریت گرد طبیعی 2.1 گرم",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "2.1 گرم"
+        ]
+      }
+    ],
+    "random_key": "78f6d17f-9ba6-467f-9dc6-8dd6ec09e699",
+    "image_url": "https://image.torob.com/base/images/rU/dG/rUdG_79D-jqYtBwX.jpg"
+  },
+  {
+    "title": "دستبندوانگشتردستساز سنگ لابرادوریت با روکش آبطلا",
+    "group": "نامشخص",
+    "product": "دستبند و انگشتر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستبند و انگشتر دستساز"
+        ]
+      },
+      {
+        "name": "جنس رکاب/قاب",
+        "values": [
+          "روکش آبطلا"
+        ]
+      }
+    ],
+    "random_key": "546e4e94-5c35-4efc-83eb-be7858f74b1c",
+    "image_url": "https://image.torob.com/base/images/n6/mb/n6mbwpqmoW3orKKs.jpg"
+  },
+  {
+    "title": "مینی لابرادوریت",
+    "group": "نامشخص",
+    "product": "مینی لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینی لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "e88b2be6-51f8-4dd0-9684-28022d6ef582",
+    "image_url": "https://image.torob.com/base/images/8g/Hg/8gHgD03N4goulDwW.jpg"
+  },
+  {
+    "title": "گردنی ارزنده و پر انرژی سنگ لابرادوریت طبیعی و اصل معدنی",
+    "group": "نامشخص",
+    "product": "گردنی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گردنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پر انرژی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "4099b543-e822-4311-983d-fbccb5559c90",
+    "image_url": "https://image.torob.com/base/images/ir/T4/irT4o606bvt2hFb9.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت معدنی و طبیعی کشور ماداگاسکار",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "101321be-c69c-4c4b-a5bf-9cfcaf4aa21d",
+    "image_url": "https://image.torob.com/base/images/iJ/Dt/iJDtoa6q_7DUbQfJ.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت آبی خوش تلالو کد 90024",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "خوش تلالو"
+        ]
+      }
+    ],
+    "random_key": "101ec726-5683-4f0d-918d-b938caceb864",
+    "image_url": "https://image.torob.com/base/images/zg/al/zgalRywpI3MxSpXi.jpg"
+  },
+  {
+    "title": "نگین طبیعی لابرادوریت کد 14",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "ebd85f62-7055-4be4-b13e-02b4d207c07f",
+    "image_url": "https://image.torob.com/base/images/c7/QT/c7QTB8EGkBM8TH5P.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی لابرادوریت معدنی ماداگاسکار 34446",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "8fc24a5b-acbf-483c-94db-e4f27bf58299",
+    "image_url": "https://image.torob.com/base/images/W7/Dv/W7Dvs9bIygNqY-B5.jpg"
+  },
+  {
+    "title": "آویز لابرادوریت اصل کدLB17 تلألو بنفش کمیاب طبیعی",
+    "group": "نامشخص",
+    "product": "آویز لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز لابرادوریت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو بنفش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "03b72b2a-0050-42c4-8eff-6113b808c5de",
+    "image_url": "https://image.torob.com/base/images/Vz/w0/Vzw0izXDZl4mf2bB.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "d2c2f80d-a983-42c2-9271-75a2e86d3f14",
+    "image_url": "https://image.torob.com/base/images/LE/RK/LERK5DQErQ3PrSQB.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [],
+    "random_key": "b14428d6-f444-4371-b482-3bedbbc14f82",
+    "image_url": "https://image.torob.com/base/images/4l/1m/4l1mFQxrWSn5qmya.webp"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت اصل معدنی ماداگاسکار کد 1063",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "cdd078cd-00f2-4936-84be-41aadca97157",
+    "image_url": "https://image.torob.com/base/images/-d/3q/-d3q8dOxYrkrQ4il.jpg"
+  },
+  {
+    "title": "آویز لابرادوریت طرح قلب کد 325 E به همراه ارسال رایگان",
+    "group": "نامشخص",
+    "product": "آویز لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آویز"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "آویز"
+        ]
+      }
+    ],
+    "random_key": "43ebc1e1-a89e-4b7c-866c-d213061afa62",
+    "image_url": "https://image.torob.com/base/images/sK/c_/sKc_Yg9MUV-Frz8Y.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت تراش بیضی با لابرادورنسی لیزری هفت رنگ باکیفیت",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "لابرادورنسی لیزری هفت رنگ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "باکیفیت"
+        ]
+      }
+    ],
+    "random_key": "46645a2d-e1f2-4cd4-b1b7-a476307f8898",
+    "image_url": "https://image.torob.com/base/images/E4/wZ/E4wZ4MWYTwStNy0-.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت آبی اصل وارداتی اشکی درجه یک",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "2386d71e-c25b-4b6d-bea9-e8efc5f20bc5",
+    "image_url": "https://image.torob.com/base/images/gN/UM/gNUMyqWwHfYxaMB2.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت هفت رنگ جذاب کد 98655",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "هفت رنگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذاب"
+        ]
+      }
+    ],
+    "random_key": "0468c910-2f92-48dc-bf5a-f6f556843449",
+    "image_url": "https://image.torob.com/base/images/lv/Lv/lvLvakM5Quxk0qIs.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت آبی طرح شفق قطبی چشم نواز کد 131057",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چشم نواز"
+        ]
+      }
+    ],
+    "random_key": "94ae8a72-1b8d-436f-837f-a9513477dc2e",
+    "image_url": "https://image.torob.com/base/images/ab/WZ/abWZQhkZYnuGcSUV.jpg"
+  },
+  {
+    "title": "سنگ طبیعی لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "17df213b-a127-41cb-968e-76fe48817a84",
+    "image_url": "https://image.torob.com/base/images/5A/T0/5AT0sCHeO60LjG3b.jpg"
+  },
+  {
+    "title": "“لابرادوریت تراش قلبی”",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "قلبی"
+        ]
+      }
+    ],
+    "random_key": "adb4db5f-54b8-4a19-92b8-4ea4cb3964d4",
+    "image_url": "https://image.torob.com/base/images/7G/Ri/7GRiEEr1BYPKR4jy.jpg"
+  },
+  {
+    "title": "لابرادوریت L59",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [],
+    "random_key": "0a0c8b3f-d5c2-402e-b0c9-f5e96b4a964f",
+    "image_url": "https://image.torob.com/base/images/5Z/go/5ZgoBBMIkrxY_KCk.jpg"
+  },
+  {
+    "title": "(پک سنگ لابرادوریت مارکیز)",
+    "group": "نامشخص",
+    "product": "پک سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "مارکیز"
+        ]
+      }
+    ],
+    "random_key": "6ff0f48c-68eb-49c3-bcbf-a2a6f35950c4",
+    "image_url": "https://image.torob.com/base/images/0k/ew/0kewVrBAX_T4YpVu.jpg"
+  },
+  {
+    "title": "لابرادوریت گرد زیبا",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "شکل",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "bb63d75c-3c7e-4c72-96ce-365b7d021d29",
+    "image_url": "https://image.torob.com/base/images/EV/IH/EVIHzHHHMyRN222z.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت اصل تراش اشکی کد N_1965",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      }
+    ],
+    "random_key": "b61f1a3e-ca33-4d93-a1e9-8109224ea056",
+    "image_url": "https://image.torob.com/base/images/C0/D_/C0D_aksVn0vax1L9.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت راف رنگین کمان 106 گرمی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "106 گرمی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "رنگین کمان"
+        ]
+      }
+    ],
+    "random_key": "8e06c579-f9bf-4975-9b6c-e2a13e0b21c9",
+    "image_url": "https://image.torob.com/base/images/Up/zd/Upzd8b1zYTH9O4WH.jpg"
+  },
+  {
+    "title": "سنگ خام لابرادوریت ۷رنگ۵۶ گرمی خواص سنگ لابرادوریت Labradorite",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خام"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "۷رنگ"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "۵۶ گرمی"
+        ]
+      }
+    ],
+    "random_key": "1f32996e-c0ae-4710-ba17-c15385eb3d64",
+    "image_url": "https://image.torob.com/base/images/g7/MX/g7MXGO5Rg0yRju5-.jpg"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 17",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "cde26f78-bd36-4983-a1e5-e3dd748c2511",
+    "image_url": "https://image.torob.com/base/images/kL/g5/kLg5NqwTHi481hyi.jpg"
+  },
+  {
+    "title": "لابرادوریت اشکی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      }
+    ],
+    "random_key": "42872f0b-68ac-41d8-ae18-3856507ba226",
+    "image_url": "https://image.torob.com/base/images/4b/4N/4b4NoRX9Fbh5AhvN.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت طبیعی درشت بیضی ۲۳۵۱۷۹",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      }
+    ],
+    "random_key": "ce3627c0-625b-4046-9b81-02520a3255a8",
+    "image_url": "https://image.torob.com/base/images/s3/Im/s3ImCADZfekWXLci.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت تراش نخورده معدنی کیفیت بالا بازی نور و رنگ زیبا تخصصی سنگ درمانی",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش نخورده"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "بالا"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "بازی نور و رنگ زیبا"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "سنگ درمانی"
+        ]
+      }
+    ],
+    "random_key": "dc8438e4-4196-4dba-98b2-6ce44ad33985",
+    "image_url": "https://image.torob.com/base/images/Vw/cx/VwcxFCs9spDrhcpn.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت کد 7",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "d629fb14-dcb4-49da-a54c-174ea9515c8a",
+    "image_url": "https://image.torob.com/base/images/3f/jV/3fjVr8kcZwVJENdU.jpg"
+  },
+  {
+    "title": "تامبل لابرادوریت کد 20",
+    "group": "نامشخص",
+    "product": "تامبل لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تامبل"
+        ]
+      }
+    ],
+    "random_key": "2eb5c004-af10-4b65-82ef-c2ca6442f1d8",
+    "image_url": "https://image.torob.com/base/images/CC/cn/CCcncejOdR7gz3GT.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت اصل مدل قلب H3043",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "قلب"
+        ]
+      }
+    ],
+    "random_key": "0ddab744-a4d9-491c-b5ba-bf61ab3709b2",
+    "image_url": "https://image.torob.com/base/images/tQ/Me/tQMeez4h_afqXKaA.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت طبیعی با لابرادورنسی هفت رنگ",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "لابرادورنسی هفت رنگ"
+        ]
+      }
+    ],
+    "random_key": "3be9e718-d672-4c42-b26d-e53ce487ff6e",
+    "image_url": "https://image.torob.com/base/images/s8/iF/s8iFQaeMsPUu0WEZ.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت اصل معدنی ماداگاسکار کد 1031",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "a46267e3-95ad-48d2-8bab-a87773fdf8f0",
+    "image_url": "https://image.torob.com/base/images/4H/YN/4HYN_hXV8mMUuDNs.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "066dcbe2-814e-4f96-960e-cac836ba839d",
+    "image_url": "https://image.torob.com/base/images/CJ/MP/CJMPBgsWmwC8-pkW.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پرطاووسی ماداگاسکار طبیعی L6",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پرطاووسی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "4a945520-2be1-4a6f-b923-3926e9a2c27a",
+    "image_url": "https://image.torob.com/base/images/Vs/TO/VsTOP5YoWJ6i__6z.jpg"
+  },
+  {
+    "title": "سنگ راف لابرادوریت برزیلی پولیش شده",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "برزیلی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "پولیش شده"
+        ]
+      }
+    ],
+    "random_key": "ad320d5e-2dff-4ad8-878d-26a699de4219",
+    "image_url": "https://image.torob.com/base/images/Hu/tn/HutnereDzEvhZFgR.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "f2b54a95-adf8-48ca-98a0-cb0203b6e53a",
+    "image_url": "https://image.torob.com/base/images/uX/-h/uX-hlmEk-xrYr2WD.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "ea0efff6-9d0e-4b10-bd71-0642b7dc847a",
+    "image_url": "https://image.torob.com/base/images/U6/r2/U6r2MItEJs0S7If1.webp"
+  },
+  {
+    "title": "نگین لابرادوریت تراش اشکی با لابرادورنسی هفت رنگ درجه یک",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "لابرادورنسی هفت رنگ"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "3ab1aa7e-31f6-45dc-aa1e-c17b5a058238",
+    "image_url": "https://image.torob.com/base/images/ME/1o/ME1omX2AmZTl9RhY.jpg"
+  },
+  {
+    "title": "لابرادوریت تراش",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "e4dfa1cc-79b1-4814-a7ae-4164a493e099",
+    "image_url": "https://image.torob.com/base/images/3n/b5/3nb5z8GQjU8Vu8M7.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "500523a3-124e-4ba6-a94f-6f3ee02e72c2",
+    "image_url": "https://image.torob.com/base/images/bh/cK/bhcK2_0RZb5kz7fp.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "02e92239-18bf-423a-9a67-7ce7e70c479d",
+    "image_url": "https://image.torob.com/base/images/3E/ND/3ENDpgYrYNb3xxok.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "8103ba7f-a953-44cc-ad37-9607f09fe6c2",
+    "image_url": "https://image.torob.com/base/images/23/xH/23xHKdGQT7Ms5i5d.webp"
+  },
+  {
+    "title": "لابرادوریت آبی خوشرنگ طبیعی و اصل ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "خوشرنگ"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "f39002d1-14d0-4acf-b93d-dd3cbee99186",
+    "image_url": "https://image.torob.com/base/images/s-/Mu/s-MuQrTpE-vyTQJ-.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت تراش اشکی طلایی رنگ",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      }
+    ],
+    "random_key": "c227c84a-961a-43d2-b2ca-4975b3051d47",
+    "image_url": "https://image.torob.com/base/images/9m/V-/9mV-73J-ADcG_j4t.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت کد 6",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "e69befc5-e91a-4a8f-a9a6-ecaacf624fae",
+    "image_url": "https://image.torob.com/base/images/1-/oI/1-oI7P6RjK-UM_v3.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پارلا گوهر کد 5009",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "289dc641-8f2c-4fd3-82e5-980b541f2886",
+    "image_url": "https://image.torob.com/base/images/el/0p/el0pKFp9YKTjSxfI.webp"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "3743c11e-bc84-45da-8684-d08c000dad7d",
+    "image_url": "https://image.torob.com/base/images/fc/5V/fc5VpdAsdVbODX35.jpg"
+  },
+  {
+    "title": "نگین درشت سنگ طبیعی لابرادوریت معدنی کد : 33499",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "37556c2f-9486-4b08-9a65-371b8755ea60",
+    "image_url": "https://image.torob.com/base/images/Ow/0B/Ow0BCzsWizy8TCst.jpg"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 214",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "7737ca15-4b67-4cfb-9722-006001c5ecbe",
+    "image_url": "https://image.torob.com/base/images/yy/fo/yyfoRg1jGIJf2m-n.jpg"
+  },
+  {
+    "title": "لابرادوریت اصل ماداگاسکار تلألو نور عالی کدh46سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو نور عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "3717df80-dc81-432f-b24a-2ba4ea5d5af4",
+    "image_url": "https://image.torob.com/base/images/sC/j0/sCj0lcNht3L-xU9D.jpg"
+  },
+  {
+    "title": "لابرادوریت ابی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "fdcc1e80-d432-4906-8a27-490eba58310e",
+    "image_url": "https://image.torob.com/base/images/K3/9V/K39VNV03PGMpXLLQ.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت آبی اصل",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "32bf2351-4660-4239-9e99-0d5467d97c67",
+    "image_url": "https://image.torob.com/base/images/DP/Ok/DPOkvK9V_lU5fkGG.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت تامبل شده استثنایی و زیبا از ماداگاسکار رویایی S1165",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت تامبل شده"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "استثنایی",
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "348fc495-31ea-46ff-828d-d62b948eb13e",
+    "image_url": "https://image.torob.com/base/images/2y/C1/2yC1ghpcdvvSsogc.jpg"
+  },
+  {
+    "title": "لابرادوریت اشکی وارداتی درخشش خطی اوریب بسیار خاص کد GALA425",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت اشکی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "خاص"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "درخشش خطی اوریب"
+        ]
+      }
+    ],
+    "random_key": "7c51ab16-d953-4f8c-bb80-2fb63a874929",
+    "image_url": "https://image.torob.com/base/images/8M/b8/8Mb8RFYHiVdjnqP-.jpg"
+  },
+  {
+    "title": "نگین درشت سنگ طبیعی لابرادوریت معدنی کد 60414",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "bd0b3f87-5cdd-4ebb-8ac6-76535f4c9e42",
+    "image_url": "https://image.torob.com/base/images/pz/G_/pzG_jBgrYzDgAqym.jpg"
+  },
+  {
+    "title": "مهره سنگ لابرادوریت چیپسی سوراخ دار دفرمه راف تراش نخورده با تلالوئی بی نظیر قیمت برای یک گرم",
+    "group": "نامشخص",
+    "product": "مهره سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چیپسی سوراخ دار دفرمه راف"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش نخورده"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالوئی بی نظیر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قیمت برای یک گرم"
+        ]
+      }
+    ],
+    "random_key": "eb535ced-0ebc-451e-ad3f-137e5a57063f",
+    "image_url": "https://image.torob.com/base/images/9H/i7/9Hi7rdR2rzRypG8Z.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "5392e92e-0326-4df8-9992-031dd3cfc790",
+    "image_url": "https://image.torob.com/base/images/WR/Xw/WRXwv8n0ruUHsWQc.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت کد 12",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      }
+    ],
+    "random_key": "1f4ccf40-826f-43e4-bad3-19b271f77020",
+    "image_url": "https://image.torob.com/base/images/3B/TB/3BTBbin3U7ySZOIE.jpg"
+  },
+  {
+    "title": "ریسه سنگ لابرادوریت سایز8 کد 8162",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز8"
+        ]
+      }
+    ],
+    "random_key": "da48c7e9-b6c6-414e-934f-45ec596c684f",
+    "image_url": "https://image.torob.com/base/images/Am/5o/Am5oa-Y6l6G7GEgZ.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت معدنی تلألو دار زیبا",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "43e59ba2-cf4f-4b6f-b191-b408f24b174b",
+    "image_url": "https://image.torob.com/base/images/iX/Lc/iXLcpDA3gZBR8VvV.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پرطاووسی ماداگاسکار فوق العاده زیبا و چشم نواز",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پرطاووسی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "فوق العاده"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "چشم نواز"
+        ]
+      }
+    ],
+    "random_key": "3791e642-271f-46bd-b2a8-4ab3ab5b5744",
+    "image_url": "https://image.torob.com/base/images/BT/Ok/BTOk-j1-2UE7iG0d.jpg"
+  },
+  {
+    "title": "لابرادوریت بنفش",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      }
+    ],
+    "random_key": "f950b73c-39c1-4b09-a3af-121ae0e53e86",
+    "image_url": "https://image.torob.com/base/images/C2/gp/C2gpX_TOL6vKqRoh.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی و طبیعی کشور ماداگاسکار",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "daec136c-356b-416f-ad79-c62f6c172e4a",
+    "image_url": "https://image.torob.com/base/images/19/QQ/19QQhx7SYEgLIZu-.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [],
+    "random_key": "1ef302bc-8bf3-4c9c-a90c-b4c857f4b588",
+    "image_url": "https://image.torob.com/base/images/2X/Fn/2XFnJmj2cNmyg5Fz.webp"
+  },
+  {
+    "title": "نگین درشت سنگ طبیعی لابرادوریت معدنی کد 60414",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "2426371e-958a-4793-becc-b6f3c5fafd5d",
+    "image_url": "https://image.torob.com/base/images/5n/5S/5n5SNT7m9_AxEWS_.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "61129fa6-39e7-4d7f-855c-bf391b715592",
+    "image_url": "https://image.torob.com/base/images/Tz/SI/TzSI8zSlRCWJXNfR.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی لابرادوریت معدنی کد 34822",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "d7de7819-12da-4d98-9f3b-1918b0363a19",
+    "image_url": "https://image.torob.com/base/images/Zg/Yh/ZgYhpu1zjEFTsfal.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت طبیعی",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "206396b4-7a27-4029-9433-a6225e91473d",
+    "image_url": "https://image.torob.com/base/images/K_/Jc/K_Jcpmy0v0BwjDFP.jpg"
+  },
+  {
+    "title": "راف لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      }
+    ],
+    "random_key": "7b476414-2135-46e4-9c42-e24cecf71c3e",
+    "image_url": "https://image.torob.com/base/images/5D/42/5D42WGCnOTH11VfH.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [],
+    "random_key": "fb1df56c-1a65-4fcf-b0a9-15e1b28bf614",
+    "image_url": "https://image.torob.com/base/images/Iy/h0/Iyh0dQXANsV27n6t.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پارلا گوهر کد 5094",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "34f0bad1-3998-4adb-983c-6bf59af31df6",
+    "image_url": "https://image.torob.com/base/images/Vt/bH/VtbHHWPZvBeDj38q.webp"
+  },
+  {
+    "title": "لابرادوریت آبی طبیعی 1.5 گرم",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "1.5 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "4ab92c80-f7bf-4ca0-b402-181817479171",
+    "image_url": "https://image.torob.com/base/images/sY/j1/sYj1yI5zChpT3A4E.jpg"
+  },
+  {
+    "title": "لابرادوریت L53",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "4349da4f-42f5-4a6e-aff2-a2f2fb962e6c",
+    "image_url": "https://image.torob.com/base/images/sb/Ma/sbMaet_V8GSzKVa9.jpg"
+  },
+  {
+    "title": "سنگ ماه یا مون استون یا لابرادوریت سفید معدنی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت",
+          "سنگ ماه",
+          "مون استون"
+        ]
+      }
+    ],
+    "random_key": "a9524c2c-21ec-4c16-ad9d-bb4c59359a2b",
+    "image_url": "https://image.torob.com/base/images/7p/ee/7peexOMwtACQ59RB.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت کد 19",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "ff1176fb-160b-48c4-88f9-44ccb5913703",
+    "image_url": "https://image.torob.com/base/images/05/pw/05pw7uBoSqrYE3GT.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت خوش تلالو کد 138210",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "dc6345d7-72b7-4d0f-a2f2-388fefa54c79",
+    "image_url": "https://image.torob.com/base/images/ch/pB/chpB-jBzWwr9hXLJ.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "459b4bb2-571f-4591-bbe2-3faacf311294",
+    "image_url": "https://image.torob.com/base/images/6b/N6/6bN68pEWFtesWXO8.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی و طبیعی کشور ماداگاسکار",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "ba8647ef-0554-4443-817f-3d63415c24f4",
+    "image_url": "https://image.torob.com/base/images/7N/pt/7Npt7zEvqHmVY4xD.jpg"
+  },
+  {
+    "title": "سنگ ماه رنگین کمانی(لابرادوریت سفید)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "رنگین کمانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ ماه",
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "1f7bcd47-7f04-4829-86af-7b550e232632",
+    "image_url": "https://image.torob.com/base/images/jU/6k/jU6k7rMvQmTTzzPX.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت پرطاووسی طبیعی باتلألو چند رنگ بسیارزیبا",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پرطاووسی",
+          "تلألو چند رنگ"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "کیفیت",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "38046f85-8ea1-4aa6-982a-f84eabecbff1",
+    "image_url": "https://image.torob.com/base/images/Jt/Ou/JtOurftycqJkW0iK.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت کانادایی طبیعی اصل کد 999143",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "منشا",
+        "values": [
+          "کانادایی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "7eb529b3-23f9-4b5b-a78b-33d92943736e",
+    "image_url": "https://image.torob.com/base/images/FP/Jo/FPJosYLdiQinu8lO.jpg"
+  },
+  {
+    "title": "لابرادوریت اصل ماداگاسکار تلألو نور عالی کدh7سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو نور عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "2ac48ff2-3fc5-438d-a819-951b3f476984",
+    "image_url": "https://image.torob.com/base/images/JI/47/JI47PQLYHJEQXkHF.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پارلا گوهر کد 5148",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "3705a29b-3eea-4c96-8697-a306153b5540",
+    "image_url": "https://image.torob.com/base/images/U8/86/U886EiQn3Wn8zu-2.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت پارلا گوهر کد 5127",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "260ddf8b-e719-40c0-841a-88fec190f4f0",
+    "image_url": "https://image.torob.com/base/images/hF/wv/hFwvTt9SDmmRbkey.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت درشت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "9fbcbd0c-a669-4cdc-9372-91c53c035c6f",
+    "image_url": "https://image.torob.com/base/images/O2/hu/O2hu7JSJ6v_klTvE.jpg"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 218",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "7b2e5c7b-bc7f-4ac0-9c75-708863d49e22",
+    "image_url": "https://image.torob.com/base/images/em/WG/emWGMDnlTcGI3lsK.jpg"
+  },
+  {
+    "title": "ریسه سنگ لابرادوریت سایز ۴ تراش کد13298",
+    "group": "نامشخص",
+    "product": "ریسه سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ریسه سنگ لابرادوریت"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز ۴"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش"
+        ]
+      }
+    ],
+    "random_key": "e01d4211-dd27-4a3d-b8ca-63e0d66e3a51",
+    "image_url": "https://image.torob.com/base/images/F5/80/F580NWi6SiqGZNXA.webp"
+  },
+  {
+    "title": "رشته لابرادوریت سایز 6",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رشته"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز 6"
+        ]
+      }
+    ],
+    "random_key": "e1e59bb6-3c6b-4c0e-8107-757e406d805e",
+    "image_url": "https://image.torob.com/base/images/FE/h8/FEh8QyVL0WvhfFAl.webp"
+  },
+  {
+    "title": "نگین درشت سنگ طبیعی لابرادوریت معدنی کد 34693",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "354e79fb-282b-4d84-a574-53091a5f4240",
+    "image_url": "https://image.torob.com/base/images/FQ/Ue/FQUewJjGAvG3ImN6.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت پارلا گوهر کد 5162",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "a63caa34-f699-4eb8-b266-44210e3f5cd3",
+    "image_url": "https://image.torob.com/base/images/57/pL/57pLxJe9KOKsdDB6.webp"
+  },
+  {
+    "title": "نگین لابرادوریت ماداگاسکار معدنی (با لابرادورسنسی آبی) (7)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "لابرادورسنسی آبی"
+        ]
+      }
+    ],
+    "random_key": "486cb2ac-fe84-4b6b-a8ac-68e800c2241c",
+    "image_url": "https://image.torob.com/base/images/Rc/t3/Rct3-mF6YSgdyzTm.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت ماداگاسکار اصل معدنی کد 7459",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "61044d5a-de70-44cf-84dc-4cba85b49387",
+    "image_url": "https://image.torob.com/base/images/TG/f2/TGf2386Jp9duP13F.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت معدنی زیبا بسیار چشم نواز",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "بسیار چشم نواز"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "37a4feba-8148-41fa-af63-cb9386778117",
+    "image_url": "https://image.torob.com/base/images/_H/NH/_HNHBAYAC1wXRYuK.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت پر تلالو کد 98661",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پر تلالو"
+        ]
+      }
+    ],
+    "random_key": "92a06a17-5983-4c68-8106-0d517b3e55ef",
+    "image_url": "https://image.torob.com/base/images/EL/Yc/ELYc2zUTzUW0LOKg.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "a4c3196d-c9fe-4cfd-a240-d6c5311fb3e6",
+    "image_url": "https://image.torob.com/base/images/n_/fC/n_fC0ROIW_hMzOk9.jpg"
+  },
+  {
+    "title": "نگین گردنی سنگ لابرادوریت زیبا",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین گردنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا"
+        ]
+      }
+    ],
+    "random_key": "d9964c12-12af-48cf-b44f-54d4798c5120",
+    "image_url": "https://image.torob.com/base/images/LF/ms/LFmsaVZzmbhCoWgC.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت معدنی ماداگاسکار- کد 152",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "ef8aecf1-bb98-41fd-8d6a-d48c87b85b4d",
+    "image_url": "https://image.torob.com/base/images/r8/Ra/r8Ra9ymveUW5cWpM.jpg"
+  },
+  {
+    "title": "لابرادوریت بنفش کد Y 8732",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      }
+    ],
+    "random_key": "e930adad-243a-458f-aae8-e50b35b0b0f7",
+    "image_url": "https://image.torob.com/base/images/sc/Wg/scWgPEWKY9dNxWls.jpg"
+  },
+  {
+    "title": "سنگ راف و تامبل لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف",
+          "تامبل"
+        ]
+      }
+    ],
+    "random_key": "971bdc56-0ef2-489c-ad3e-b65ee7836022",
+    "image_url": "https://image.torob.com/base/images/hl/ut/hlutA4YK3rnmxPOK.jpg"
+  },
+  {
+    "title": "نگین سنگ طبیعی لابرادوریت معدنی کد10165",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "51b745d5-c5ee-4ad2-b573-a62ab326d63c",
+    "image_url": "https://image.torob.com/base/images/5k/Th/5kThsM7nCgslvvp1.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت اصل سبز و طوسی",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز",
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "ffa33982-beda-431a-97b2-b611f39b12d0",
+    "image_url": "https://image.torob.com/base/images/VK/e0/VKe0dXHVJLZ67RSZ.jpg"
+  },
+  {
+    "title": "سنگ زیبای لابرادوریت ماداگاسکار اصل معدنی با تلالو و درخشندگی بسیار زیبا ابعاد38-25میلیمتر",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیبا",
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "پdده نوری",
+        "values": [
+          "درخشندگی",
+          "تلالو"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "38-25میلیمتر"
+        ]
+      }
+    ],
+    "random_key": "340d3ab4-3ae4-428f-95ab-f761d1bd6276",
+    "image_url": "https://image.torob.com/base/images/ck/Hf/ckHfyGtpkSRxp0qR.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "beceec4e-38de-4503-8691-3cd6a65a7b78",
+    "image_url": "https://image.torob.com/base/images/Gt/Y2/GtY2eYdIdNZzgPqp.webp"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 220",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "f1a52938-35c6-4d6b-b25c-5627e77059c5",
+    "image_url": "https://image.torob.com/base/images/Zl/is/Zlisy-MkpBCdYF-p.jpg"
+  },
+  {
+    "title": "سنگ راف لابرادوریت آبی ماداگاسکار معدنی (با لابرادورسنسی آبی کمیاب) (12)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راف"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "لابرادورسنسی آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمیاب"
+        ]
+      }
+    ],
+    "random_key": "3065d35e-adba-4d5d-af2d-f3ae4e22dcf5",
+    "image_url": "https://image.torob.com/base/images/2u/8s/2u8s60L522xcz5sP.jpg"
+  },
+  {
+    "title": "لابرادوریت معدنی کد 251",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      }
+    ],
+    "random_key": "16a65510-5afc-4964-83f0-92061d8bf490",
+    "image_url": "https://image.torob.com/base/images/t2/a3/t2a39Qdf-nHsElvL.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "b4c1db8f-aa80-449f-a531-e09dac606cd8",
+    "image_url": "https://image.torob.com/base/images/Hz/zj/HzzjUjn7Gjh0zXq4.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی ماداگاسکار (سایز کوچک)",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "سایز کوچک"
+        ]
+      }
+    ],
+    "random_key": "104bc519-4cd7-4e96-bf67-49320675a9e1",
+    "image_url": "https://image.torob.com/base/images/hg/uD/hguDcgADxE1Y9WRr.jpg"
+  },
+  {
+    "title": "سنگ ماه رنگین کمانی(لابرادوریت سفید)",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگین کمانی",
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "d1075a89-e96f-4e06-8bba-388c78cfd125",
+    "image_url": "https://image.torob.com/base/images/v_/f0/v_f0V7lU3MfGI2f1.webp"
+  },
+  {
+    "title": "سنگ لابرادوریت تامبل",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تامبل"
+        ]
+      }
+    ],
+    "random_key": "9ffbd34c-33b6-445e-8d51-b69343e4501b",
+    "image_url": "https://image.torob.com/base/images/1c/hn/1chnI2AW9mziDCSc.jpg"
+  },
+  {
+    "title": "لابرادوریت طبیعی 13 گرمی",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "13 گرمی"
+        ]
+      }
+    ],
+    "random_key": "6c70a916-77cf-4b27-9cb7-ac663dea6b8e",
+    "image_url": "https://image.torob.com/base/images/ek/hQ/ekhQbwxD9gp6oSmr.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [],
+    "random_key": "c7a3c392-b2dc-46a5-936e-6c001bc6cbf5",
+    "image_url": "https://image.torob.com/base/images/Ir/Sl/IrSloneORvpxiwX7.webp"
+  },
+  {
+    "title": "لابرادوریت معدنی با تللع رنگ عالی",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تللع رنگ عالی"
+        ]
+      }
+    ],
+    "random_key": "1af928ae-647f-4ca7-aeac-d586366f271b",
+    "image_url": "https://image.torob.com/base/images/ek/u2/eku2Dfs-4TcQTsvM.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت رنگی طبیعی باتلالو",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      }
+    ],
+    "random_key": "c0df373b-8aac-426f-8945-6a8ee7b15dbf",
+    "image_url": "https://image.torob.com/base/images/OK/7U/OK7UrITz7rFEn18U.jpg"
+  },
+  {
+    "title": "نیم ست نگین سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "نیم ست نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم ست نگین"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      }
+    ],
+    "random_key": "6f00d425-9830-446c-9e6d-9840fb0dcaa8",
+    "image_url": "https://image.torob.com/base/images/5b/R2/5bR2_EP0rRzXRY_x.jpg"
+  },
+  {
+    "title": "کد15نگین لابرادوریت پرطاووسی ماداگاسکار معدنی بیضی",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "پرطاووسی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "بیضی"
+        ]
+      }
+    ],
+    "random_key": "60b460fd-7cc4-487b-ac44-ec69f94ac6b5",
+    "image_url": "https://image.torob.com/base/images/zq/t6/zqt6vngF5G8Axnj_.jpg"
+  },
+  {
+    "title": "نگین درشت سنگ لابرادوریت معدنی تراش فانتزی 71 قیراط کد10030",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع تراش",
+        "values": [
+          "تراش فانتزی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "71 قیراط"
+        ]
+      }
+    ],
+    "random_key": "36e903fc-8974-4c8c-abdd-99bd43c904a0",
+    "image_url": "https://image.torob.com/base/images/1y/1e/1y1eoRTfkIBCz0vE.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت کد13",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [],
+    "random_key": "0b800f3c-3ac1-459d-b268-d9e9526319b5",
+    "image_url": "https://image.torob.com/base/images/sc/4X/sc4XNcREzd1Ph-nN.jpg"
+  },
+  {
+    "title": "لابرادوریت درجه یک دانه ای",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "کیفیت",
+        "values": [
+          "درجه یک"
+        ]
+      }
+    ],
+    "random_key": "e2398907-ba65-4db3-9ddd-8d6d62c68983",
+    "image_url": "https://image.torob.com/base/images/pj/2E/pj2EDuqiLMU9ge_c.jpg"
+  },
+  {
+    "title": "سنگ لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "bf4598f7-d1d7-41f4-a0f3-ec43ba1a3782",
+    "image_url": "https://image.torob.com/base/images/C4/-O/C4-OhS2abBkQ5wrz.jpg"
+  },
+  {
+    "title": "لابرادوریت آبی رنگ طبیعی 4.6 گرم",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "4.6 گرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "98fad8a9-6d5e-45bb-b365-bcb1a942b941",
+    "image_url": "https://image.torob.com/base/images/gL/RM/gLRMV6IGIk-K9i3Q.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت 1",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "b64bbe23-4426-4f86-bd22-931fd054c69e",
+    "image_url": "https://image.torob.com/base/images/zZ/qw/zZqwVviI9vKPzaWd.jpg"
+  },
+  {
+    "title": "لابرادوریت درشت دایره شکل طبیعی 750 گرمی",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "دایره"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "750 گرمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "220b9f52-b37e-441c-840e-8cac8df6a072",
+    "image_url": "https://image.torob.com/base/images/rM/is/rMiskIk6WGGeCKhl.jpg"
+  },
+  {
+    "title": "لابرادوریت L20",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "d88b3865-31d3-4668-a14b-42b12905f1a5",
+    "image_url": "https://image.torob.com/base/images/gL/WE/gLWEeegIOchfUlB8.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "b3a6ec95-5b49-44b9-9a41-dadcc6de0777",
+    "image_url": "https://image.torob.com/base/images/6Z/2x/6Z2xwFDKSrgWttAu.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت معدنی و طبیعی کشور ماداگاسکار (تراش اشک)",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "شکل",
+        "values": [
+          "اشک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "2e0087bb-374f-49c4-b226-7e6b146e801f",
+    "image_url": "https://image.torob.com/base/images/x9/jq/x9jqTZ0MyeLGuKSH.jpg"
+  },
+  {
+    "title": "نگین سنگ لابرادوریت آبی (کد412)",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "3021cd65-01fa-4d61-84db-60e44681adeb",
+    "image_url": "https://image.torob.com/base/images/zF/1f/zF1fPx7ZsN5G38Ci.jpg"
+  },
+  {
+    "title": "لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "4e6a1f22-6640-4ddc-a964-a4779cd556c7",
+    "image_url": "https://image.torob.com/base/images/af/jM/afjMOVxAti6AEAT8.jpg"
+  },
+  {
+    "title": "سنگ از جنس لابرادوریت معدنی ماداگاسکار",
+    "group": "نامشخص",
+    "product": "سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "4002380a-6e08-4b6b-9692-bef48ca8a21b",
+    "image_url": "https://image.torob.com/base/images/l5/4Q/l54QBSgt8Ilz-YK1.jpg"
+  },
+  {
+    "title": "لابرادوریت اصل ماداگاسکار تلألو نور عالی کدh53سنگ لابرادوریت",
+    "group": "نامشخص",
+    "product": "لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "منشا",
+        "values": [
+          "ماداگاسکار"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلألو نور عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "758cd4e1-67d7-4de4-9f7c-07299d82420e",
+    "image_url": "https://image.torob.com/base/images/Tr/AL/TrALEJRZgnvvqpBd.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت (Labradorite)",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "12eab889-06aa-4223-a2ff-1ad87177c1c9",
+    "image_url": "https://image.torob.com/base/images/86/RI/86RIOLyYath7wLNm.jpg"
+  },
+  {
+    "title": "نگین درشت سنگ طبیعی لابرادوریت معدنی کد 31747",
+    "group": "نامشخص",
+    "product": "نگین سنگ لابرادوریت",
+    "entities": [
+      {
+        "name": "ابعاد",
+        "values": [
+          "درشت"
+        ]
+      },
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "طبیعی",
+          "معدنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین سنگ لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "cec1b5f2-98aa-453b-b8cf-705f3da45b9d",
+    "image_url": "https://image.torob.com/base/images/a5/5x/a55xCmwuqiFjk_Fi.jpg"
+  },
+  {
+    "title": "اویز لابرادوریت اصل تلالو بنفش مناسب هدیه کدLB9",
+    "group": "نامشخص",
+    "product": "اویز لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "تلالو بنفش"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "هدیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اویز لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "a2c87790-a2c8-47f1-b8e6-430277c87fe6",
+    "image_url": "https://image.torob.com/base/images/G6/0G/G60GpQZnLuvM8dOu.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت درخشان کد 125429",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "پدیده نوری",
+        "values": [
+          "درخشان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "397681a5-4ea6-4394-a9c9-2e84860bd153",
+    "image_url": "https://image.torob.com/base/images/_G/i5/_Gi5KA1xCJ2Nycwn.jpg"
+  },
+  {
+    "title": "نگین لابرادوریت معدنی و طبیعی کد 4013",
+    "group": "نامشخص",
+    "product": "نگین لابرادوریت",
+    "entities": [
+      {
+        "name": "اصالت سنگ",
+        "values": [
+          "معدنی",
+          "طبیعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگین لابرادوریت"
+        ]
+      }
+    ],
+    "random_key": "bb2bfbb7-5031-45b9-a032-827043f7b4b4",
+    "image_url": "https://image.torob.com/base/images/_8/K1/_8K1oLq_fBWqKHQP.jpg"
+  }
+]

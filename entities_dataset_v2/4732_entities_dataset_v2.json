@@ -1,0 +1,5451 @@
+[
+  {
+    "title": "سارافون یلدایی هندوانه",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هندوانه"
+        ]
+      }
+    ],
+    "random_key": "c5581b5b-3889-4412-b5bc-0c1612a54f09",
+    "image_url": "https://image.torob.com/base/images/zC/yE/zCyEU5Co97rFsclV.jpg"
+  },
+  {
+    "title": "شکت پشمی چهارخونه ( 1045 )",
+    "group": "نامشخص",
+    "product": "شکت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      }
+    ],
+    "random_key": "f4dc492f-7db6-40a9-a358-774c3fd94645",
+    "image_url": "https://image.torob.com/base/images/Z8/nm/Z8nmH8ZqijSaahal.jpg"
+  },
+  {
+    "title": "سارافون دخترانه مشکی - سیسمونی نی نی مون",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "ca836014-5e32-4ca5-b782-ef33bb58030a",
+    "image_url": "https://image.torob.com/base/images/Ww/RG/WwRGOkZZP6AKjhj3.jpg"
+  },
+  {
+    "title": "سارافن زیبای دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "2c78ec70-21fc-4801-9a9b-513b416206b5",
+    "image_url": "https://image.torob.com/base/images/bE/9g/bE9g9FLijCTWXse7.jpg"
+  },
+  {
+    "title": "سارافون دخترانه یو اس پلو کیدز US Polo Kids کد 6013B5",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "یو اس پلو کیدز"
+        ]
+      }
+    ],
+    "random_key": "44a1fea2-bde1-4589-82bf-be0dc2806d05",
+    "image_url": "https://image.torob.com/base/images/ne/vd/nevdBUQcGWrYSlEC.jpg"
+  },
+  {
+    "title": "سارافون کتان نخ",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان نخ"
+        ]
+      }
+    ],
+    "random_key": "d855f31b-0aeb-4ea4-89ba-2df8e4872528",
+    "image_url": "https://image.torob.com/base/images/nh/TB/nhTB3xbVkAcuxVLy.jpg"
+  },
+  {
+    "title": "سارافون ساحلی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون ساحلی"
+        ]
+      }
+    ],
+    "random_key": "4f881f45-35da-4ec0-88d6-e2d9610004c2",
+    "image_url": "https://image.torob.com/base/images/Dg/Mv/DgMv9G11wqB0SBw3.jpg"
+  },
+  {
+    "title": "سارافون کشمیر یقه ب ب (205222) - سایز",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشمیر"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "ب ب"
+        ]
+      }
+    ],
+    "random_key": "88d280e8-3674-4ecf-9aa6-082fdc1c5d6a",
+    "image_url": "https://image.torob.com/base/images/wC/lR/wClRs1-VpR7hYD9L.jpg"
+  },
+  {
+    "title": "سارافون محرمی دخترانه کتان تور",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "محرمی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان تور"
+        ]
+      }
+    ],
+    "random_key": "a29dabbf-fa91-479c-bd48-3d09dae5c1ed",
+    "image_url": "https://image.torob.com/base/images/Lx/vx/LxvxWYAESw3y060Q.jpg"
+  },
+  {
+    "title": "سارافون بچگانه کد 869",
+    "group": "بچگانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "ddb1b748-0d8e-4b8e-8b4a-9fec0c0df376",
+    "image_url": "https://image.torob.com/base/images/0i/hK/0ihK9v2MEDKVqNvr.jpg"
+  },
+  {
+    "title": "سارافون بچگانه",
+    "group": "بچگانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "64db5d06-0b4d-45bd-ae37-ce2dffbc7319",
+    "image_url": "https://image.torob.com/base/images/zt/Kd/ztKd30ltCOPk_2Lu.jpg"
+  },
+  {
+    "title": "سارافون پشمی زنانه و دخترانه فری سایز تا 46",
+    "group": "زنانه و دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز تا 46"
+        ]
+      }
+    ],
+    "random_key": "acf439d5-7de8-4c9f-801c-50be684357a5",
+    "image_url": "https://image.torob.com/base/images/mL/dY/mLdYFmj-Y-w8y9cy.jpg"
+  },
+  {
+    "title": "سارافون صورتی پولک نقره ای بچگانه",
+    "group": "بچگانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پولک نقره ای"
+        ]
+      }
+    ],
+    "random_key": "41d41066-f43f-4794-b1de-fb261f4641fb",
+    "image_url": "https://image.torob.com/base/images/zl/MT/zlMTnapu_sQBhRsl.jpg"
+  },
+  {
+    "title": "سارافون نخ پنبه دخترانه طرح توت فرنگی برند پریمارک",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توت فرنگی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پریمارک"
+        ]
+      }
+    ],
+    "random_key": "50ed2bcc-9b15-49c6-8906-df07ca3d7506",
+    "image_url": "https://image.torob.com/base/images/hi/SR/hiSROdewVb1lheAw.jpg"
+  },
+  {
+    "title": "سارافون عروسکی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون عروسکی"
+        ]
+      }
+    ],
+    "random_key": "f95ce938-7802-4a30-9949-18620489d11a",
+    "image_url": "https://image.torob.com/base/images/uf/Sr/ufSrkkIoGNy9tVon.jpg"
+  },
+  {
+    "title": "سارافون دخترانه ( 4تا 5 سال )",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 5 سال"
+        ]
+      }
+    ],
+    "random_key": "c7339e48-bd67-4717-8676-94ab149b9ade",
+    "image_url": "https://image.torob.com/base/images/el/ZV/elZVf6wFUSVP0yPm.jpg"
+  },
+  {
+    "title": "کت و سارافون عیدانه",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت و سارافون"
+        ]
+      }
+    ],
+    "random_key": "096f331b-a349-4a6c-80ca-6447d5e1a501",
+    "image_url": "https://image.torob.com/base/images/nE/8W/nE8WTiCyKa0ccKyq.jpg"
+  },
+  {
+    "title": "سارافون بچه گانه",
+    "group": "بچگانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "31bb8400-d352-4515-918a-320f30549931",
+    "image_url": "https://image.torob.com/base/images/wE/f2/wEf2Q12KGIahxdLM.jpg"
+  },
+  {
+    "title": "سارافون دخترانه جین sevda",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "sevda"
+        ]
+      }
+    ],
+    "random_key": "2efee0eb-a515-4cb9-a346-a0e9bd6c758c",
+    "image_url": "https://image.torob.com/base/images/Vt/ac/Vtace7Ox1RgA7lV3.jpg"
+  },
+  {
+    "title": "سارافون دخترانه نخی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "de2e44a5-d869-4e91-9a50-115de4c833be",
+    "image_url": "https://image.torob.com/base/images/RG/_l/RG_lP4DGcY10jPkh.jpg"
+  },
+  {
+    "title": "سارافن دلارام جنس الیاف طبیعی پنبه گلدوزی شده دارای کمربند",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "الیاف طبیعی پنبه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده",
+          "دارای کمربند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافن دلارام"
+        ]
+      }
+    ],
+    "random_key": "0bad4700-ded3-4072-adbf-c919a69e5928",
+    "image_url": "https://image.torob.com/base/images/uS/Yy/uSYy7qRVSgCzVMgV.jpg"
+  },
+  {
+    "title": "سارافون دخترانه گربه صورتی 3تا5 سال جنس ملانژ برندdelsaدرpikmode",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گربه صورتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3تا5 سال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ملانژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "delsa"
+        ]
+      }
+    ],
+    "random_key": "ca6ce97d-9da9-4b49-8fcb-3276f40f95e2",
+    "image_url": "https://image.torob.com/base/images/a7/39/a7394V1o7jLaUSQS.jpg"
+  },
+  {
+    "title": "سارافون دخترانه السا آنا کدPO030042",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "السا آنا"
+        ]
+      }
+    ],
+    "random_key": "9117d956-6c87-4adb-8e73-a8618b2d0539",
+    "image_url": "https://image.torob.com/base/images/bC/qE/bCqEqz1DROcntUrK.webp"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "1fcdb4cf-b49f-4a33-a30f-b9089c2b2aae",
+    "image_url": "https://image.torob.com/base/images/JV/pu/JVpukbnixuhVQqhn.jpg"
+  },
+  {
+    "title": "سارافون لول پرطرفدار",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون لول"
+        ]
+      }
+    ],
+    "random_key": "80cdd958-41ab-4338-81d1-a7e952a32692",
+    "image_url": "https://image.torob.com/base/images/gY/_I/gY_I8Z1QK3sw82Hb.jpeg"
+  },
+  {
+    "title": "سارافون دخترانه وارداتی صفر تا دوسال",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "صفر تا دوسال"
+        ]
+      }
+    ],
+    "random_key": "8e699cb3-0662-4f9a-89b7-ddc94e3bae63",
+    "image_url": "https://image.torob.com/base/images/ZO/EX/ZOEXPeyqDQ3aqLSE.jpg"
+  },
+  {
+    "title": "سارافون کوتاه طبقاتی (بند سوتینی)",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون کوتاه طبقاتی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "بند سوتینی"
+        ]
+      }
+    ],
+    "random_key": "2cd1cb06-6abd-4fe6-ab5f-e18dda64a7c8",
+    "image_url": "https://image.torob.com/base/images/er/Q1/erQ1YxOujqY3GgsS.jpg"
+  },
+  {
+    "title": "زیر سارافون بافت 00945",
+    "group": "نامشخص",
+    "product": "زیر سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زیر سارافون بافت"
+        ]
+      }
+    ],
+    "random_key": "ae47ccef-1072-404c-840e-9823fd2f87ec",
+    "image_url": "https://image.torob.com/base/images/6h/KS/6hKSaL-dSer47pfO.jpg"
+  },
+  {
+    "title": "سارافون دخترانه همراه با کیف وارداتی کیفیت عالی شیک و جذاب مناسب حدود سنی 10 ماه تا 4سال در 3 رنگ زیبا و خوشگل",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "همراه با کیف",
+          "وارداتی",
+          "کیفیت عالی",
+          "شیک",
+          "جذاب"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "10 ماه تا 4سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "3 رنگ"
+        ]
+      }
+    ],
+    "random_key": "ff99f1cb-14d7-4ce0-8e97-b959fe38dbac",
+    "image_url": "https://image.torob.com/base/images/Kf/OY/KfOYoIOoWWlsUNWy.jpg"
+  },
+  {
+    "title": "سارافون لی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      }
+    ],
+    "random_key": "a25ad9c1-fde3-42c2-9ca8-9aea8b086ce6",
+    "image_url": "https://image.torob.com/base/images/Mp/Yy/MpYyTn5deIxat-wU.jpg"
+  },
+  {
+    "title": "سارافون سفید پاپیون",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      }
+    ],
+    "random_key": "3049a1a8-39f2-40ed-a20e-fe85f299acb0",
+    "image_url": "https://image.torob.com/base/images/QV/au/QVauDep0469glpRQ.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "31cffd88-f2d6-409f-b8d9-8fac2a4c3676",
+    "image_url": "https://image.torob.com/base/images/vs/h5/vsh5KhjY7pDbMQug.jpg"
+  },
+  {
+    "title": "سارافون راحتی بندی یقه توری رنگ طوسی راه راه طرح دار سایز XXL",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "راحتی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه",
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "XXL"
+        ]
+      }
+    ],
+    "random_key": "1ea5459c-2472-441b-86d6-3a102c316759",
+    "image_url": "https://image.torob.com/base/images/nV/Oe/nVOeddYMjy5h97QJ.webp"
+  },
+  {
+    "title": "سارافون و رویه آتوسا",
+    "group": "دخترانه",
+    "product": "سارافون و رویه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون و رویه"
+        ]
+      }
+    ],
+    "random_key": "1d0e402d-4cea-42fc-8692-05f78e598b78",
+    "image_url": "https://image.torob.com/base/images/rq/GC/rqGCFEIjznCsfO8f.jpg"
+  },
+  {
+    "title": "سارافون یلدایی همراه هد بند مناسب 4 تا 8 سال مدل هندوانه",
+    "group": "دخترانه 4 تا 8 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "همراه هد بند"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 8 سال"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هندوانه"
+        ]
+      }
+    ],
+    "random_key": "eba523df-c7c5-4d14-9ca7-9f879c7536e1",
+    "image_url": "https://image.torob.com/base/images/2N/Ft/2NFt-LCO-PNIfwTe.jpg"
+  },
+  {
+    "title": "سارافون دخترانه یو اس پولو کیدز US Polo Kids کد 6013B4",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "یو اس پولو کیدز",
+          "US Polo Kids"
+        ]
+      }
+    ],
+    "random_key": "b01bb7fc-768a-409e-85f7-d3dbe45ed16b",
+    "image_url": "https://image.torob.com/base/images/g-/h7/g-h7I9PAap_EF-8A.jpg"
+  },
+  {
+    "title": "بیلر دامنی بچگانه سارافون دخترانه",
+    "group": "بچگانه و دخترانه",
+    "product": "بیلر دامنی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیلر دامنی"
+        ]
+      }
+    ],
+    "random_key": "a0b3304b-bf73-4ff5-afe8-32e22b8adc54",
+    "image_url": "https://image.torob.com/base/images/1k/lL/1klLLhfN1jj9tuBC.jpg"
+  },
+  {
+    "title": "سارافون پشمی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      }
+    ],
+    "random_key": "5dd6aadc-38c4-4e20-b9a6-43319cdeb61c",
+    "image_url": "https://image.torob.com/base/images/9r/Yj/9rYjDlBeC7HQRour.jpg"
+  },
+  {
+    "title": "سارافون گل میخکی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل میخکی"
+        ]
+      }
+    ],
+    "random_key": "7631eb7d-2348-44e3-9940-a2f3291424fe",
+    "image_url": "https://image.torob.com/base/images/J_/k6/J_k6jld0wuvvceCg.jpg"
+  },
+  {
+    "title": "ست سارافون و ژیله دخترانه شیک و خوشگل کیفیت عالی",
+    "group": "دخترانه",
+    "product": "ست سارافون و ژیله",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون و ژیله"
+        ]
+      }
+    ],
+    "random_key": "74eaa2b9-9b7c-4c38-b577-f8c332a2d34c",
+    "image_url": "https://image.torob.com/base/images/WR/yR/WRyRdBjxA93owwM2.jpg"
+  },
+  {
+    "title": "سارافون دخترانه خرسی1",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خرسی"
+        ]
+      }
+    ],
+    "random_key": "48e8964e-38bd-4270-82be-585f78fb6b81",
+    "image_url": "https://image.torob.com/base/images/Ai/Bp/AiBpxK8jQEeOELy8.jpg"
+  },
+  {
+    "title": "سارافون پشمی شنل دار دخترانه کد 1805661",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شنل دار"
+        ]
+      }
+    ],
+    "random_key": "a4ef5050-0773-40f1-bf39-3e3af19e2a1e",
+    "image_url": "https://image.torob.com/base/images/Uo/BR/UoBRiR47CyGH1MXV.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "fa17f2ff-1519-40c4-8409-df9cda01e608",
+    "image_url": "https://image.torob.com/base/images/qO/Hg/qOHgAiaCEXWLR77V.jpg"
+  },
+  {
+    "title": "سارافون دخترانه محرمی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "محرمی"
+        ]
+      }
+    ],
+    "random_key": "dd4f75e7-9afd-40b9-8489-54ac4ac7e4c1",
+    "image_url": "https://image.torob.com/base/images/cw/KA/cwKA7K3gtsV5954f.jpg"
+  },
+  {
+    "title": "سارافون دخترانه نازگل",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "71f4fad7-e1d5-449e-a380-455397a2617e",
+    "image_url": "https://image.torob.com/base/images/qK/gh/qKghR75_B-ziWVHZ.jpg"
+  },
+  {
+    "title": "سارافون مخمل مینی موس . 6 ماه تا 3 سال .",
+    "group": "دخترانه 6 ماه تا 3 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مینی موس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6 ماه تا 3 سال"
+        ]
+      }
+    ],
+    "random_key": "04c3b3b1-79c4-44b1-8e78-6cd2bca33819",
+    "image_url": "https://image.torob.com/base/images/rZ/wB/rZwBFARhgcXwsOjN.jpg"
+  },
+  {
+    "title": "لباس سارافون دخترانه و بچگانه",
+    "group": "دخترانه و بچگانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "ffe705c9-9c0c-4606-bb88-9835b705bf2d",
+    "image_url": "https://image.torob.com/base/images/Jp/4G/Jp4GlLyukR-mqKCK.jpg"
+  },
+  {
+    "title": "سارافون جین گلدار دخترانه سایز نقلی برند n&t",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "نقلی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "n&t"
+        ]
+      }
+    ],
+    "random_key": "6741d3dd-b538-4a62-b89d-45e8cf5f3758",
+    "image_url": "https://image.torob.com/base/images/4j/yo/4jyovEWJq42J2BOb.jpg"
+  },
+  {
+    "title": "سارافون نخی دخترانه مناسب نه ماه الی چهار سال",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "نه ماه الی چهار سال"
+        ]
+      }
+    ],
+    "random_key": "414e89ee-a316-4325-8e29-ac9660dce262",
+    "image_url": "https://image.torob.com/base/images/bI/KG/bIKG2TONDgmVLTES.jpg"
+  },
+  {
+    "title": "کتو سارافون شیک دخترونه سایز ۳۸ تا ۴۴",
+    "group": "دخترانه",
+    "product": "کت و سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "۳۸ تا ۴۴"
+        ]
+      }
+    ],
+    "random_key": "d8019dbd-4706-4ffd-8d52-113fb6932fc5",
+    "image_url": "https://image.torob.com/base/images/qV/3s/qV3s-16pycKZ_W-V.jpg"
+  },
+  {
+    "title": "سارافون و زیرسادافون یاس سایز 5 تا 9 سال",
+    "group": "دخترانه",
+    "product": "سارافون و زیرسارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "5 تا 9 سال"
+        ]
+      }
+    ],
+    "random_key": "15da3f25-926a-4f21-a476-d5f1897640d0",
+    "image_url": "https://image.torob.com/base/images/NP/5y/NP5yst8_QfMDUt7K.jpg"
+  },
+  {
+    "title": "سارافون آستین دار لی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      }
+    ],
+    "random_key": "2e2b1e50-e0d7-420b-b805-27c2b0afdb6c",
+    "image_url": "https://image.torob.com/base/images/sK/zi/sKziq65rwQdEWRBh.jpg"
+  },
+  {
+    "title": "سارافون نخی چهارخانه سایز 1 تا 4 کد 2496",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 4"
+        ]
+      }
+    ],
+    "random_key": "39b0822a-889b-439e-9240-1dff2b48f84d",
+    "image_url": "https://image.torob.com/base/images/1d/TE/1dTERG61YxD8ZxYN.webp"
+  },
+  {
+    "title": "تونیک سارافن کبریتی پایین کشمیر",
+    "group": "نامشخص",
+    "product": "تونیک سارافن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک سارافن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی",
+          "کشمیر"
+        ]
+      }
+    ],
+    "random_key": "157c00ba-fb05-4d79-9690-979f0c657096",
+    "image_url": "https://image.torob.com/base/images/oY/bL/oYbLJm4pDBhto8Vr.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک دخترانه تکشاخ",
+    "group": "دخترانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تکشاخ"
+        ]
+      }
+    ],
+    "random_key": "6a4d3bee-364c-4140-a451-75589c24ef2a",
+    "image_url": "https://image.torob.com/base/images/WC/qK/WCqKJwy-A5R3Ra9R.jpg"
+  },
+  {
+    "title": "سارافون دخترانه - 1",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "4ef7ff23-95a1-4d97-92c0-acc5f6afd6c1",
+    "image_url": "https://image.torob.com/base/images/2t/Y3/2tY3lOv9sLUGsmzo.jpg"
+  },
+  {
+    "title": "سارافون راه راه وارداتی 5 سال 9 سال",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "5 سال",
+          "9 سال"
+        ]
+      }
+    ],
+    "random_key": "23598ce7-0b92-4466-8375-8a493f1abdcd",
+    "image_url": "https://image.torob.com/base/images/az/Mw/azMwyKd1kKXUpQHN.jpg"
+  },
+  {
+    "title": "سارافون دخترانه رابیت| مجلسی عید",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "مجلسی",
+          "عید"
+        ]
+      }
+    ],
+    "random_key": "cfe309f6-5e05-4818-8b78-bdb6bf12a3d5",
+    "image_url": "https://image.torob.com/base/images/nu/OF/nuOFUkKYmkmO4rPm.jpg"
+  },
+  {
+    "title": "سارافون چهارخونه پشمی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      }
+    ],
+    "random_key": "bd1f2b39-b89e-4b72-9238-9a5c33d7c4e2",
+    "image_url": "https://image.torob.com/base/images/9U/wU/9UwU3OiVuF_faCYE.jpg"
+  },
+  {
+    "title": "سارافون یقه کراواتی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "یقه",
+        "values": [
+          "کراواتی"
+        ]
+      }
+    ],
+    "random_key": "722b9c6b-3e78-471b-ae1f-78331f19b5c6",
+    "image_url": "https://image.torob.com/base/images/SX/j8/SXj8g1WhoXwa0FVe.jpg"
+  },
+  {
+    "title": "سارافون دخترانه.گل برجسته.چاپ دار",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گل برجسته",
+          "چاپ دار"
+        ]
+      }
+    ],
+    "random_key": "fe908eca-cdb2-4e82-b302-243375d8e070",
+    "image_url": "https://image.torob.com/base/images/lj/Vw/ljVwGYZ3FLDw5mil.jpg"
+  },
+  {
+    "title": "سارافون دخترانه نخی و خنک سایز 35تا45 جنس پنبه کالباسی و صورتی کم رنگ سفید طوسی کرم",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی",
+          "پنبه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خنک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35تا45"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کالباسی",
+          "صورتی کم رنگ",
+          "سفید",
+          "طوسی",
+          "کرم"
+        ]
+      }
+    ],
+    "random_key": "b73fa8bd-016a-4c49-9787-7f17402b3b01",
+    "image_url": "https://image.torob.com/base/images/2s/xi/2sxiyQtf03TN2a-f.jpg"
+  },
+  {
+    "title": "سارافون دخترانه جنس پارچه نخ",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ"
+        ]
+      }
+    ],
+    "random_key": "ef9b1728-8158-416d-beb1-11e6baee08d5",
+    "image_url": "https://image.torob.com/base/images/Zn/Gt/ZnGtwLeWgxaGHjpG.jpg"
+  },
+  {
+    "title": "سارافن بچه گلدوزی لمه",
+    "group": "بچگانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لمه"
+        ]
+      }
+    ],
+    "random_key": "3ecbf8d3-0ca1-4a00-a522-8763840cf928",
+    "image_url": "https://image.torob.com/base/images/PS/J_/PSJ_Kpbzunf4sHds.jpg"
+  },
+  {
+    "title": "سارافون دخترانه پارچه کتان بنگال سایز 40 تا 55",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان بنگال"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "55"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "2f350732-780e-49ed-8413-48c2bae6a204",
+    "image_url": "https://image.torob.com/base/images/5s/Tv/5sTvmqC8YbRX0j9D.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "bb4ab500-518b-4c72-9757-78410184d3fe",
+    "image_url": "https://image.torob.com/base/images/_V/18/_V18XoitneF9jkTK.jpg"
+  },
+  {
+    "title": "سارافون شنل دار دخترونه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون شنل دار"
+        ]
+      }
+    ],
+    "random_key": "35a5543d-64f7-4f91-a300-7fad2bf6bc08",
+    "image_url": "https://image.torob.com/base/images/6t/WJ/6tWJFjILtegaC9FY.jpg"
+  },
+  {
+    "title": "سارافون دخترانه پیشی",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پیشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "be28ae0d-001c-4f00-a183-4ac22fc7ca6e",
+    "image_url": "https://image.torob.com/base/images/M5/JN/M5JNhieb1NX752w7.jpg"
+  },
+  {
+    "title": "شومیز و سارافن",
+    "group": "نامشخص",
+    "product": "شومیز و سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      }
+    ],
+    "random_key": "c1fff7de-71f6-498d-a3d2-456888075c66",
+    "image_url": "https://image.torob.com/base/images/jE/29/jE29Fqe5O_1ZqUkG.jpg"
+  },
+  {
+    "title": "سارافون دستبافت ترک",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دستبافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "7ac72a01-d01c-4125-9dbc-2ecc5c146f8a",
+    "image_url": "https://image.torob.com/base/images/qm/zj/qmzjtKmfbqOUshTk.jpg"
+  },
+  {
+    "title": "سارافون 3 خط فشن",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "3 خط فشن"
+        ]
+      }
+    ],
+    "random_key": "19655d7d-709d-4a10-84be-3956d88331c5",
+    "image_url": "https://image.torob.com/base/images/ki/pN/kipNw9l_MGRbcgEU.jpg"
+  },
+  {
+    "title": "سارافون مشکی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "edad8eb6-48db-43ea-a153-d857bc85ad06",
+    "image_url": "https://image.torob.com/base/images/2S/Q8/2SQ8LPQMfP-E4d74.jpg"
+  },
+  {
+    "title": "سارافون دلبری پارچه کار لطیف تنخور حرفه ای",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنخور حرفه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کار لطیف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "e642d715-f164-432a-b698-38dae038e3e4",
+    "image_url": "https://image.torob.com/base/images/cy/pd/cypd3KVg1XKDe0cH.jpg"
+  },
+  {
+    "title": "سارافن السا پرنسسی برای4تا10سال",
+    "group": "دخترانه 4 تا 10 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پرنسسی السا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 10 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "bb6bc132-782b-42d4-ba7b-cacabadc1bfa",
+    "image_url": "https://image.torob.com/base/images/uP/m3/uPm3YpF0a_RgiKIX.jpg"
+  },
+  {
+    "title": "سارافون بسیار شیک مناسب خانمهای جوان وشیک، رنگ آبی آسمانی با هر شومیز وزیر سارافون ست میشه",
+    "group": "زنانه جوان",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی آسمانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "ee3b38ea-71ed-4a63-afb5-a32f400aae4a",
+    "image_url": "https://image.torob.com/base/images/u7/fI/u7fIXPiY0bYAx0kU.jpg"
+  },
+  {
+    "title": "سارافون دخترانه چهارخونه درنا | لباس دخترانه مجلسی",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "b36dc8f1-94be-4631-ba63-294d5806d9a1",
+    "image_url": "https://image.torob.com/base/images/Dl/8k/Dl8kU2Yl9rrITUrj.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "f770d36e-fc1e-4ea1-a949-ef9b2db807a0",
+    "image_url": "https://image.torob.com/base/images/ri/Vo/riVot-1qu_xCJFOz.jpg"
+  },
+  {
+    "title": "سارافون دخترونه تمام پنبه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تمام پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "5bba2dd5-65c4-4907-b1d7-be502159800f",
+    "image_url": "https://image.torob.com/base/images/U8/mB/U8mBzd-KFgmhFThb.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "482658fc-45e5-4a37-be0b-f53895e706be",
+    "image_url": "https://image.torob.com/base/images/nP/CL/nPCLc5fA_42LNAQB.jpg"
+  },
+  {
+    "title": "سارافون دخترانه Simple TS",
+    "group": "دخترانه",
+    "product": "سارافون دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Simple TS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "d0538d38-cc7d-4d51-92d0-029ddd6e1b85",
+    "image_url": "https://image.torob.com/base/images/t_/11/t_11TnQ1dOgqlBFV.webp"
+  },
+  {
+    "title": "سارافون و رویه نخی باکیفیت جنس رویه نخی سارافون لنین رنگبندی مطابق ژورنال فری سایزاز40تا48",
+    "group": "نامشخص",
+    "product": "سارافون و رویه",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی",
+          "لنین"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز از 40 تا 48"
+        ]
+      }
+    ],
+    "random_key": "e6995263-09fa-44e0-87f6-3e29b3400290",
+    "image_url": "https://image.torob.com/base/images/hX/yK/hXyKezyVhKwtnAPx.jpg"
+  },
+  {
+    "title": "سارافون دخترانه دورسی اهو برند H&M",
+    "group": "دخترانه",
+    "product": "سارافون دورسی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "آهو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "H&M"
+        ]
+      }
+    ],
+    "random_key": "a5f97fd8-a8a9-405d-a733-66c0a6894fce",
+    "image_url": "https://image.torob.com/base/images/qD/OF/qDOFBz3Z3E-EamiC.jpg"
+  },
+  {
+    "title": "سارافون نخی عروسکی دخترانه طرح کیتی در سه رنگ",
+    "group": "دخترانه",
+    "product": "سارافون عروسکی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون عروسکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کیتی"
+        ]
+      }
+    ],
+    "random_key": "ef5753b3-9bdd-47ef-82fa-08aeaa00ad2d",
+    "image_url": "https://image.torob.com/base/images/_H/rl/_HrlVy6CVMpFN8HC.jpg"
+  },
+  {
+    "title": "سارافون پنبه قلبی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلبی"
+        ]
+      }
+    ],
+    "random_key": "ad504731-c369-4f31-b333-5c70c26c840b",
+    "image_url": "https://image.torob.com/base/images/2S/Ju/2SJu1tUqUntqb0wd.jpg"
+  },
+  {
+    "title": "سارافن زیبا دخترانه مدل آبرنگی با کمربند مناسب سایز 34 الی 38وارداتی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "آبرنگی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با کمربند",
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "34 تا 38"
+        ]
+      }
+    ],
+    "random_key": "d54774b8-bbbb-4b64-8223-d3cf2443fe0b",
+    "image_url": "https://image.torob.com/base/images/l2/fI/l2fIjIlr33QOv8hD.jpg"
+  },
+  {
+    "title": "ست سارافون و ژیله مراکشی مخمل با رویه بافت دخترانه",
+    "group": "دخترانه",
+    "product": "ست سارافون و ژیله",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل",
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مراکشی"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست"
+        ]
+      }
+    ],
+    "random_key": "a5ea22e9-c469-4439-a2b0-80b00c246129",
+    "image_url": "https://image.torob.com/base/images/wi/Jo/wiJoBqWqdGlGtFkC.jpg"
+  },
+  {
+    "title": "سارافون دخترانه تودوک TwoDook کد 5959",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تودوک TwoDook"
+        ]
+      }
+    ],
+    "random_key": "dcf954c8-c11f-49ab-a3cf-8e6845ac3878",
+    "image_url": "https://image.torob.com/base/images/0U/rf/0UrfxXe2l-xv3UOh.jpg"
+  },
+  {
+    "title": "زیر سارافون جنس کبریتی بچگانه دخترانه رنگبندی دار",
+    "group": "بچگانه دخترانه",
+    "product": "زیر سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      }
+    ],
+    "random_key": "f8cdf8fc-5347-4c20-bc71-866084ccba79",
+    "image_url": "https://image.torob.com/base/images/wa/5a/wa5agKIt6V_daD-N.jpg"
+  },
+  {
+    "title": "سارافون طرح خرس و خرگوش راه راه رنگ صورتی – خاکی ایندیگو Indigo",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خرس و خرگوش راه راه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی",
+          "خاکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ایندیگو Indigo"
+        ]
+      }
+    ],
+    "random_key": "ef626710-4d5b-492b-8c11-9f29366061d4",
+    "image_url": "https://image.torob.com/base/images/O9/n9/O9n98P5HRasji5gV.jpg"
+  },
+  {
+    "title": "سارافون نخپنبه قو دخترانه 40 تا 55",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40 تا 55"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قو"
+        ]
+      }
+    ],
+    "random_key": "89ec76cd-7127-43f3-a73a-8d480e3b8c16",
+    "image_url": "https://image.torob.com/base/images/Kg/wm/KgwmPEZaMpjWVFP1.jpg"
+  },
+  {
+    "title": "مدل سارافون دخترانه یلدا",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی"
+        ]
+      }
+    ],
+    "random_key": "2ab51fd2-faca-4931-80bc-bba673413c04",
+    "image_url": "https://image.torob.com/base/images/U3/rh/U3rhRVjFvJTXX3eh.jpg"
+  },
+  {
+    "title": "سارافن چرم دخترانه یلدایی مجلسی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی",
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "eb619a3c-c666-404c-9171-6fcad50fc313",
+    "image_url": "https://image.torob.com/base/images/lN/tb/lNtbxqYLp56Sn4hs.jpg"
+  },
+  {
+    "title": "سارافون دخترانه لنین 45.50.55",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45",
+          "50",
+          "55"
+        ]
+      }
+    ],
+    "random_key": "81ba9123-989e-41c4-bf8a-431ef6a85e77",
+    "image_url": "https://image.torob.com/base/images/zd/iv/zdivBcd4A7Jd5cME.jpg"
+  },
+  {
+    "title": "سارافون اسکاچی یلدایی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "اسکاچی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی"
+        ]
+      }
+    ],
+    "random_key": "857468a0-8014-4a2b-b855-eb64390e58fd",
+    "image_url": "https://image.torob.com/base/images/ZB/PK/ZBPKN3PySEwD1oU7.jpg"
+  },
+  {
+    "title": "سارافون کیف دار",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیف دار"
+        ]
+      }
+    ],
+    "random_key": "8d417be1-4d73-42a6-b3f5-4428ffdff58f",
+    "image_url": "https://image.torob.com/base/images/vb/nw/vbnws8FfiEHTX3ti.jpg"
+  },
+  {
+    "title": "سارافون دخترانه چین دار یقه دار دخترانه 3تا 8 سال",
+    "group": "دخترانه 3 تا 8 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 8 سال"
+        ]
+      }
+    ],
+    "random_key": "6fc1395d-45b8-44e6-a85a-af153becbf06",
+    "image_url": "https://image.torob.com/base/images/qQ/v8/qQv8mhGwhafGaUNi.jpg"
+  },
+  {
+    "title": "سارافون ساحلی طرحدار",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون ساحلی"
+        ]
+      }
+    ],
+    "random_key": "12023d2b-ade8-4850-b7de-3252dc479bff",
+    "image_url": "https://image.torob.com/base/images/yo/P4/yoP4jWfKl304oTHC.jpg"
+  },
+  {
+    "title": "سارافن نخ پنبه خنک تابستانی اچ اند ام",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خنک"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافن"
+        ]
+      }
+    ],
+    "random_key": "530fb569-54b0-490e-9c6b-c289f3a4df39",
+    "image_url": "https://image.torob.com/base/images/YA/aF/YAaFDtiAYTwyG0xc.jpg"
+  },
+  {
+    "title": "سارafون ریما پاپیون",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریما"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "eca4d060-24ae-45a6-94d4-1a7f2ffd1c1a",
+    "image_url": "https://image.torob.com/base/images/uE/Bp/uEBpLZ_z10gXOHCX.jpg"
+  },
+  {
+    "title": "سارافون صورتی آلبالویی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی",
+          "آلبالویی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "ce6c959c-ac39-4ec0-b568-f15bf5dfd04f",
+    "image_url": "https://image.torob.com/base/images/Zt/T3/ZtT3HH2CyxTzDn_D.jpg"
+  },
+  {
+    "title": "سارافون آبی گل‌دار",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "1daa7b04-7897-4d82-9dcf-2a5b60afdf6a",
+    "image_url": "https://image.torob.com/base/images/9-/Sl/9-Sl0P76VpKxJd1n.jpg"
+  },
+  {
+    "title": "سارافون نخی بچگانه طرح گربه عینکی",
+    "group": "بچگانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گربه عینکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "3d078ea4-0bfa-4165-b17b-85d6f52280ac",
+    "image_url": "https://image.torob.com/base/images/ac/ue/acuehPq7LJtq5wY4.jpg"
+  },
+  {
+    "title": "سارافون جذاب دخترانه چهارخونه جنس چهارخونه کشمیر سپاهان درجه یک",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کشمیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "283a00b9-30a5-42f3-b59d-dead5e6130c0",
+    "image_url": "https://image.torob.com/base/images/XI/hn/XIhn8_IBvHQ7EQr0.jpg"
+  },
+  {
+    "title": "سارافون دخترانه کتان لاو",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "c3ca5df1-e33d-476e-95bf-ef4eb93c90bd",
+    "image_url": "https://image.torob.com/base/images/xz/xd/xzxdwi5Bm7TQWd3_.jpg"
+  },
+  {
+    "title": "سارافون طرح متنوع کرومی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "متنوع"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کرومی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "9409bdff-34d3-43b0-a5dd-331e4e608eae",
+    "image_url": "https://image.torob.com/base/images/uJ/6x/uJ6xxamnyNCaTwW1.jpg"
+  },
+  {
+    "title": "سارافون دخترانه خالدار",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خالدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "50a13a96-2def-4401-aa07-cdba520e6f2f",
+    "image_url": "https://image.torob.com/base/images/ja/Lu/jaLuxaIq8jKvx5Rh.jpg"
+  },
+  {
+    "title": "سارافون شاخدار دخترانه سایز 40 تا 60",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "شاخدار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40 تا 60"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "a2608409-1379-40fa-bf49-55aebe669a46",
+    "image_url": "https://image.torob.com/base/images/Ux/Zb/UxZbsIQcCr2EDqre.jpg"
+  },
+  {
+    "title": "سارافون و بلوز دخترانه جنس پیراهن مخمل کبریتی درشت پارچه درجه یک در 2رنگ",
+    "group": "دخترانه",
+    "product": "سارافون و بلوز",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "4e5de87d-dfa8-42ac-a601-7ff1729d9db3",
+    "image_url": "https://image.torob.com/base/images/FY/yt/FYytwhP-WGn65Wmd.jpg"
+  },
+  {
+    "title": "سارافن خنک تابستونی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خنک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافن"
+        ]
+      }
+    ],
+    "random_key": "a7a8f2e7-97e9-410f-a194-49f0d8838794",
+    "image_url": "https://image.torob.com/base/images/eV/AE/eVAECtAUFFH5WHQb.jpg"
+  },
+  {
+    "title": "تولیدی ساحلی سارافون دخترانه طرح تاج",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تاج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون ساحلی"
+        ]
+      }
+    ],
+    "random_key": "0404138e-cafe-4ff9-98b3-2a573ece4536",
+    "image_url": "https://image.torob.com/base/images/LF/L7/LFL7WC4KJxarICMh.jpg"
+  },
+  {
+    "title": "سارافن نخی پارچه هاوایی توپی خرگوشی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توپی",
+          "خرگوشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافن"
+        ]
+      }
+    ],
+    "random_key": "060b5175-835e-44af-8341-3b9f3c8ffa8d",
+    "image_url": "https://image.torob.com/base/images/KJ/io/KJio8Zz1W1qwSitR.jpg"
+  },
+  {
+    "title": "سارافون دخترانه مجلسی گلدار",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "f8d1b262-d8bc-474f-bf6d-edf4a9cc404a",
+    "image_url": "https://image.torob.com/base/images/jt/7v/jt7vXSd0MvLUtJkl.jpg"
+  },
+  {
+    "title": "سارافون مخمل کبریتی دخترانه گلدوزی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مخمل کبریتی"
+        ]
+      }
+    ],
+    "random_key": "cd77fc67-63b0-4a4a-8c94-731cdc1d567f",
+    "image_url": "https://image.torob.com/base/images/IT/r9/ITr92Jn5IdeLpQhx.jpg"
+  },
+  {
+    "title": "سارافون دخترانه بغل دکمه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بغل دکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بغل دکمه"
+        ]
+      }
+    ],
+    "random_key": "aab02eba-3767-44c9-9f03-d5ac7048e61a",
+    "image_url": "https://image.torob.com/base/images/pA/xE/pAxEtYB76vfiylv8.jpg"
+  },
+  {
+    "title": "سارافن سرهمی یلدایی",
+    "group": "نامشخص",
+    "product": "سارافون سرهمی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون سرهمی"
+        ]
+      }
+    ],
+    "random_key": "c968a51b-047b-45fb-bb94-4b2696d1bf8a",
+    "image_url": "https://image.torob.com/base/images/yZ/Wr/yZWrx3iO9cBZgr3f.jpg"
+  },
+  {
+    "title": "سارافون طرح دار",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون طرح دار"
+        ]
+      }
+    ],
+    "random_key": "2e01a5b4-2238-4a9b-bdb4-eea9b7ef0fd8",
+    "image_url": "https://image.torob.com/base/images/Q_/61/Q_61YSI7uaexFon9.jpg"
+  },
+  {
+    "title": "سارافون لنگی تیسا 1386",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تیسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون لنگی"
+        ]
+      }
+    ],
+    "random_key": "21a3386c-3a74-4343-87e9-ec31eff0df39",
+    "image_url": "https://image.torob.com/base/images/zY/r3/zYr32J4bd1_rsZRe.jpg"
+  },
+  {
+    "title": "سارافون دخترانه تور دار طرح گل",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تور دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون توردار"
+        ]
+      }
+    ],
+    "random_key": "e46df52d-6c4a-4dae-b04e-fad597107e8e",
+    "image_url": "https://image.torob.com/base/images/0l/Tm/0lTmZIaexPNIgFRA.jpg"
+  },
+  {
+    "title": "سارافون مای میو ترکیه 39999",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مای میو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "0431e229-354b-47b0-8e58-dc76c123739d",
+    "image_url": "https://image.torob.com/base/images/89/6B/896BeXFHVM1Be5Ua.jpg"
+  },
+  {
+    "title": "سارافون دوتیکه بهاران 100369",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون دوتیکه"
+        ]
+      }
+    ],
+    "random_key": "446161b8-a145-4bc6-9bb0-32bf5ac9d90c",
+    "image_url": "https://image.torob.com/base/images/Bg/b0/Bgb0ZDKvrDyCjxAd.jpg"
+  },
+  {
+    "title": "سارافون بلند السانا حریر سایز 4 همراه با آستر و بالاتنه لایه کوبی شده مناسب 50 و 52",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "4",
+          "50",
+          "52"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستردار",
+          "بالاتنه لایه کوبی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بلند"
+        ]
+      }
+    ],
+    "random_key": "9d73dfed-9b38-476f-82f6-b627448e8e0d",
+    "image_url": "https://image.torob.com/base/images/U3/03/U303mKPVudgLvZQ3.jpg"
+  },
+  {
+    "title": "سارافون دخترانه مناسب 5 تا 12 سال",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "5 تا 12 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "6cc63444-0f37-43da-98b7-9a657900b918",
+    "image_url": "https://image.torob.com/base/images/dG/gh/dGghDmOGSNmOPReo.jpg"
+  },
+  {
+    "title": "سارافان دخترانه 5تا8 ساله",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "5 تا 8 ساله"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "e949a740-7388-4e03-83d9-6f4cf1861a53",
+    "image_url": "https://image.torob.com/base/images/Vw/LT/VwLTrxlVgbpjKsz_.jpg"
+  },
+  {
+    "title": "سارافون چهارخونه متقال",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "متقال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون چهارخونه"
+        ]
+      }
+    ],
+    "random_key": "e93bd3fb-5b25-4dbf-b2ae-1445409862b7",
+    "image_url": "https://image.torob.com/base/images/P6/nT/P6nTDzqwlSExtWRB.jpg"
+  },
+  {
+    "title": "سارafون کاملا دست بافت ..جلو باز و دکمه دار .",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کاملا دستبافت",
+          "جلو باز",
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون دست بافت"
+        ]
+      }
+    ],
+    "random_key": "0fab3167-0121-4faa-ab79-a408afe76df3",
+    "image_url": "https://image.torob.com/base/images/vK/Hb/vKHbAe7kCB_hG9FQ.jpg"
+  },
+  {
+    "title": "سارافون شلوار گلدوزی پروانه",
+    "group": "نامشخص",
+    "product": "سارافون و شلوار",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون شلوار"
+        ]
+      }
+    ],
+    "random_key": "bff6fbbe-6e4d-4008-ba1a-0ea786b70546",
+    "image_url": "https://image.torob.com/base/images/lk/xI/lkxI2xVwbCUvMf5E.jpg"
+  },
+  {
+    "title": "سارافون دخترانه با هدبند طرح راه راه بی بیبی Bi Baby",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بیبی"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست با هدبند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون با هدبند"
+        ]
+      }
+    ],
+    "random_key": "c34a9e1b-50a1-45e4-83b5-12f1c0fb0a51",
+    "image_url": "https://image.torob.com/base/images/FG/VY/FGVY2OJgZgLQwVyv.jpg"
+  },
+  {
+    "title": "سارافون دخترانه برند HMسوئدسایزقد110تا116یا2تا3ساله نخ وپنبه باطرح پروانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "110 تا 116",
+          "2 تا 3 ساله"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ و پنبه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "f437fc9d-57db-4c68-bb3b-d5d6f04cbc3e",
+    "image_url": "https://image.torob.com/base/images/PP/8S/PP8SFwcC7c4LsdXS.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "9db18b1a-78e3-4171-941c-18b6aabb23c2",
+    "image_url": "https://image.torob.com/base/images/q0/ur/q0urApfcQeH_dt40.jpg"
+  },
+  {
+    "title": "ست سارافون،هد بند و پاپوش",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست با هدبند",
+          "ست با پاپوش"
+        ]
+      }
+    ],
+    "random_key": "4ddfe822-c191-4a1a-a923-012b21ebf88d",
+    "image_url": "https://image.torob.com/base/images/jM/Mg/jMMg9xpLOxy7gkLP.jpg"
+  },
+  {
+    "title": "سارافن خنک دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خنک"
+        ]
+      }
+    ],
+    "random_key": "744ca62b-62a2-49b7-b9d0-aac9c959199e",
+    "image_url": "https://image.torob.com/base/images/mx/Na/mxNaWdj_IaPrryse.jpg"
+  },
+  {
+    "title": "سارافن نخی دخترانه صورتی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "3c738a35-0500-4175-acd7-d98468cff1b4",
+    "image_url": "https://image.torob.com/base/images/fj/yM/fjyMZhS14ZxdkjLw.jpg"
+  },
+  {
+    "title": "سارافون مینی موس صورتی کد 4208",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "مینی موس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "bc97afeb-44a0-4a76-9963-9f96b2a1ca53",
+    "image_url": "https://image.torob.com/base/images/jb/3X/jb3XfaPAwfjiGUET.jpg"
+  },
+  {
+    "title": "سارافن دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "f16b7efb-c246-4fab-9856-9b567e9f583a",
+    "image_url": "https://image.torob.com/base/images/Jm/wm/Jmwm6pf8NhfcilzQ.jpg"
+  },
+  {
+    "title": "سارافون گربه ای دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گربه ای"
+        ]
+      }
+    ],
+    "random_key": "c6186548-f9bb-4519-8f46-c4f4276fa12a",
+    "image_url": "https://image.torob.com/base/images/mg/sx/mgsxI_ozKyOlAVt9.jpg"
+  },
+  {
+    "title": "سارافون دخترانه سه تکه،لباس دخترانه،ست کلاه دار،ست دخترانه،لباس مهمانی،پیچازی،پیراهن",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "مهمانی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پیچازی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      }
+    ],
+    "random_key": "cedfc44b-6fdd-45f2-844f-dda6c8f95969",
+    "image_url": "https://image.torob.com/base/images/VX/Ss/VXSs8x4GB8iQW8ZC.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "b0dba68d-dd16-4545-af93-f838414a1320",
+    "image_url": "https://image.torob.com/base/images/dR/-o/dR-oiUHgdk2rYjKF.jpg"
+  },
+  {
+    "title": "سارافون زیبای طرح یونیکرن کیوت",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "یونیکرن کیوت"
+        ]
+      }
+    ],
+    "random_key": "eb5b81a4-a568-467c-9774-91429d7f9717",
+    "image_url": "https://image.torob.com/base/images/tI/qm/tIqmAaJmE8SL20K-.jpg"
+  },
+  {
+    "title": "سارافون و جلیقه ویولت",
+    "group": "نامشخص",
+    "product": "سارافون و جلیقه",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست با جلیقه"
+        ]
+      }
+    ],
+    "random_key": "5c9ea273-d6b6-45e7-8a0f-5333be2a6a77",
+    "image_url": "https://image.torob.com/base/images/jC/Mf/jCMfNTtWze6guJkT.jpg"
+  },
+  {
+    "title": "سارافون سرهمی فانریپ کارتیر کد کالا 8918",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون سرهمی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فانریپ کارتیر"
+        ]
+      }
+    ],
+    "random_key": "25a2ecf4-3754-4b4b-84e9-f54b1c7c98e7",
+    "image_url": "https://image.torob.com/base/images/5Q/wg/5Qwg6tjURRe94zMt.jpg"
+  },
+  {
+    "title": "سارافون دخترانه طرح اسب تک شاخ مناسب سن 1تا8سال جنس کرپ اسکاجی بادوخت و پارچه با کیفیت",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسب تک شاخ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 8 سال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ اسکاجی"
+        ]
+      }
+    ],
+    "random_key": "64136eb9-c534-49ce-908a-2935549efa39",
+    "image_url": "https://image.torob.com/base/images/7G/eV/7GeVEXUOfebwH84v.jpg"
+  },
+  {
+    "title": "سارافون و ژیله دخترانه لاکچری گلناز موجودی سایز 4",
+    "group": "دخترانه",
+    "product": "سارافون و ژیله",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست با ژیله"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4"
+        ]
+      }
+    ],
+    "random_key": "36b217c8-2513-4662-87c3-8993690c0cf9",
+    "image_url": "https://image.torob.com/base/images/JD/84/JD84zgjn_muhCBeB.jpg"
+  },
+  {
+    "title": "سارافون دخترانه (7 تا 14 سال) کد 28000894",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "7 تا 14 سال"
+        ]
+      }
+    ],
+    "random_key": "083345cb-9a6e-434a-820c-021bd616a2e4",
+    "image_url": "https://image.torob.com/base/images/pw/X3/pwX3Hb9T4Ot5gvqI.webp"
+  },
+  {
+    "title": "سارافون یلدایی ۳",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی"
+        ]
+      }
+    ],
+    "random_key": "b415cd47-471d-4a27-a675-6e04d75d097a",
+    "image_url": "https://image.torob.com/base/images/Dq/SG/DqSGvUHpsIwUDcwo.jpg"
+  },
+  {
+    "title": "سارافون و رویه السانا مدل نوژین کد 191421",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون و رویه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السانا"
+        ]
+      }
+    ],
+    "random_key": "c503ebbd-f5ab-4c78-80bf-457cf91cc01a",
+    "image_url": "https://image.torob.com/base/images/f7/EV/f7EVfuXZv10B5f4b.jpg"
+  },
+  {
+    "title": "سارافن لی اعلاء بچه گانه (تضمینی)",
+    "group": "بچه گانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی اعلاء"
+        ]
+      }
+    ],
+    "random_key": "4055c5ea-0dc3-4bdf-96c1-16ce6f66e90c",
+    "image_url": "https://image.torob.com/base/images/4t/H3/4tH30-a90Lw0PEg-.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "01e5d04c-8183-44a1-9681-92d349acafde",
+    "image_url": "https://image.torob.com/base/images/C5/Vw/C5VwHmfvrPvBQQpT.jpg"
+  },
+  {
+    "title": "سارافون دانتل بچگانه",
+    "group": "بچگانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دانتل"
+        ]
+      }
+    ],
+    "random_key": "dd0770f4-a905-464c-b802-f3124e689f56",
+    "image_url": "https://image.torob.com/base/images/t0/1n/t01naETanGt88L4-.jpg"
+  },
+  {
+    "title": "سارافون مخمل زمستانه",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      }
+    ],
+    "random_key": "6781ce1a-249f-451c-a998-0cfdf22ac2c6",
+    "image_url": "https://image.torob.com/base/images/bS/Jt/bSJtptVj8oHwPaug.jpg"
+  },
+  {
+    "title": "سارافون دخترانه گیلاس ایندیگو Indigo 421162",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گیلاس ایندیگو Indigo"
+        ]
+      }
+    ],
+    "random_key": "37c8ddb7-8287-413c-b87f-714ce391be92",
+    "image_url": "https://image.torob.com/base/images/qe/O7/qeO7uqiVtw99XBl3.webp"
+  },
+  {
+    "title": "سارافون صورتی محصول ترکیه",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ترکیه"
+        ]
+      }
+    ],
+    "random_key": "11335b2d-781a-4608-a666-07c847036341",
+    "image_url": "https://image.torob.com/base/images/n_/49/n_49mV6KC3OiuAdI.jpg"
+  },
+  {
+    "title": "سارافن لی. سارافن جین چین دار دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی",
+          "جین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      }
+    ],
+    "random_key": "2e2bbc1d-e011-4764-8462-64548eced0e9",
+    "image_url": "https://image.torob.com/base/images/Nu/Zh/NuZhJKpheb55igXU.jpg"
+  },
+  {
+    "title": "سارافون دخترانه تریکو سبز (خیاطی سه کوک)",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تریکو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "c178e5a0-d23f-4b7f-b39e-469d6c585aec",
+    "image_url": "https://image.torob.com/base/images/xW/Tr/xWTr8kNC6Di1IQcy.jpg"
+  },
+  {
+    "title": "سارافون آستین دار جلو دکمه خور سایز 3تا 9 سال m s L XL xxl رنگ کرم و کالباسی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جلو دکمه خور"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3تا 9 سال",
+          "m",
+          "s",
+          "L",
+          "XL",
+          "xxl"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "کالباسی"
+        ]
+      }
+    ],
+    "random_key": "85376cde-4e2f-498c-bb81-9e9c58897ea7",
+    "image_url": "https://image.torob.com/base/images/mZ/G2/mZG2M4kmPwaYl2AG.jpg"
+  },
+  {
+    "title": "دو تکه سارافون و گیره سر دخترانه پونی | تابستانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گیره سر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      }
+    ],
+    "random_key": "35c779fd-173a-4ec7-861c-44c8ab051cb8",
+    "image_url": "https://image.torob.com/base/images/ls/MB/lsMBqiKb36fu6zA8.jpg"
+  },
+  {
+    "title": "سارافون بند بابونه ای",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بند بابونه ای"
+        ]
+      }
+    ],
+    "random_key": "e0ea95f5-f0ca-435d-8e2c-728d1b53ea0f",
+    "image_url": "https://image.torob.com/base/images/UO/Us/UOUsVQeY5QHotUlh.jpg"
+  },
+  {
+    "title": "سارافون گربه صورتی",
+    "group": "نامشخص",
+    "product": "سارafون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گربه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "b9e885b0-47d6-4b24-ad75-c99fa6202fe0",
+    "image_url": "https://image.torob.com/base/images/l-/BH/l-BHTFIrsF0NPo6k.jpg"
+  },
+  {
+    "title": "سارافون چرم کدc37",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      }
+    ],
+    "random_key": "b6c7615e-32fd-41da-b7ee-b58350e75ac8",
+    "image_url": "https://image.torob.com/base/images/H4/sV/H4sVJ6wiuPU8rUW7.jpg"
+  },
+  {
+    "title": "سارافون طرح دار کد 377",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      }
+    ],
+    "random_key": "83cbfc2a-72a5-4e3d-b789-3ee46658f75e",
+    "image_url": "https://image.torob.com/base/images/rB/09/rB09Bd_Opty_9KtS.jpg"
+  },
+  {
+    "title": "سارافون گلچین",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "b0462c5f-c8b9-4b8c-a081-ea20f12343ef",
+    "image_url": "https://image.torob.com/base/images/z_/fi/z_fig72VVQYTqtOS.jpg"
+  },
+  {
+    "title": "سارافون زیبا ارسال رایگان",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      }
+    ],
+    "random_key": "5c2b47bd-7ea3-40bc-a613-d6f35981d5b6",
+    "image_url": "https://image.torob.com/base/images/Bc/Ei/BcEix52uKIarl9tN.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "3a456eca-5c61-4ccd-847d-c794ec0b53db",
+    "image_url": "https://image.torob.com/base/images/GQ/vp/GQvpUPvONvbV93td.jpg"
+  },
+  {
+    "title": "سارافن طرح تدی،مناسب 4 تا 12 سال",
+    "group": "دخترانه 4 تا 12 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تدی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 12 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "bf80be5d-e96b-4485-b2be-2b1c36e2b984",
+    "image_url": "https://image.torob.com/base/images/ai/Qo/aiQo5sc7QZ-KRlQF.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "7bec4af5-0f99-43a8-9e78-9bba19ad87a9",
+    "image_url": "https://image.torob.com/base/images/Ni/A2/NiA2XXV3-oNi2IC1.jpg"
+  },
+  {
+    "title": "سارافون مخمل",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "79fee70e-5a24-44b3-b3f9-3ff8b1e7cd4b",
+    "image_url": "https://image.torob.com/base/images/H-/xq/H-xqYwu-MhwsqvI0.jpg"
+  },
+  {
+    "title": "بارونی جلو زیپ",
+    "group": "نامشخص",
+    "product": "بارونی",
+    "entities": [],
+    "random_key": "b0aacad1-c2d4-44a7-a03d-0ae8dc12afa5",
+    "image_url": "https://image.torob.com/base/images/8l/aw/8lawhOE59HTMlyKJ.jpg"
+  },
+  {
+    "title": "سارافون مخمل کبریتی کد 1310",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "df3885c8-7683-46bf-bc0f-89b9596585f7",
+    "image_url": "https://image.torob.com/base/images/tj/Q3/tjQ3nJkne184P8Oe.jpeg"
+  },
+  {
+    "title": "سارافون بافتنی شیک دخترانه ماهریس بافت مناسب سه تانه ماه تنخور عالی کیفیت کاموا بدون پرز وباز شدن",
+    "group": "دخترانه",
+    "product": "سارافون بافتنی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ماهریس بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بافتنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "طراحی عالی",
+          "کیفیت کاموا",
+          "بدون پرز",
+          "بدون باز شدن"
+        ]
+      }
+    ],
+    "random_key": "75b1608e-1c51-4499-8f64-a8840538afa2",
+    "image_url": "https://image.torob.com/base/images/eo/g5/eog5DOi6ZdNtNdI9.jpg"
+  },
+  {
+    "title": "سارافون لی کاغذی (پس کرایه)",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی کاغذی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "a74c61b7-632d-4e9a-8d2a-c80184fba51e",
+    "image_url": "https://image.torob.com/base/images/Y4/yA/Y4yAILzeSY7uqe3Y.jpg"
+  },
+  {
+    "title": "سارافون بچه گانه برند اچ اند ام H M",
+    "group": "بچه گانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام H M"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "f1ff1b2f-ae9a-42a4-b497-0bb8c313ffa9",
+    "image_url": "https://image.torob.com/base/images/Xd/X8/XdX8LQSruGxvL2Uu.jpg"
+  },
+  {
+    "title": "سارافون حریر",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "8c066485-2739-4f36-a403-818f0cd3b597",
+    "image_url": "https://image.torob.com/base/images/21/oT/21oTGL2a1mOPjBPZ.jpg"
+  },
+  {
+    "title": "سارافون دخترانه بچگانه",
+    "group": "دخترانه بچگانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "43b8b3bd-34f0-4b82-9565-6413b6317f25",
+    "image_url": "https://image.torob.com/base/images/tn/Gg/tnGgwzxjbWI96Vbu.jpg"
+  },
+  {
+    "title": "دوتیکه شومیز سارافون فری سایز آیتک",
+    "group": "نامشخص",
+    "product": "شومیز سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شومیز",
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "93e24ad8-8ce2-46f0-85d6-98db99311727",
+    "image_url": "https://image.torob.com/base/images/WE/c-/WEc-oKQ3ainzJ1bm.jpg"
+  },
+  {
+    "title": "سارافون فانریپ سه اشک یقه زنجیر | کد:1213",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه زنجیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "1a780971-b580-4981-abaf-c661e0cbeb48",
+    "image_url": "https://image.torob.com/base/images/52/Lh/52Lh61WacVxcSLch.jpg"
+  },
+  {
+    "title": "ست سارافون و هدبند دخترانه مدل گلریز کد EB14022",
+    "group": "دخترانه",
+    "product": "ست سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست با هدبند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلریز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "b5653278-b624-457d-93b5-79ce4dc33bb3",
+    "image_url": "https://image.torob.com/base/images/RF/T5/RFT5RGUs5iE-ViFz.jpg"
+  },
+  {
+    "title": "سارافون گلدوزی دخترانه (18 ماه تا 7 سال) کد 029385",
+    "group": "دخترانه 18 ماه تا 7 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "18 ماه تا 7 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "e520e83f-e22e-4af2-904b-f9192d453b73",
+    "image_url": "https://image.torob.com/base/images/-W/o6/-Wo6-DpRf29vhcyB.webp"
+  },
+  {
+    "title": "سارافون وزیر سارافونی شیک دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون و سارافونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "8beb69f1-fab1-4ec7-bd4b-31fc2a525e08",
+    "image_url": "https://image.torob.com/base/images/Cv/DO/CvDOqzf2f8owpFlR.jpg"
+  },
+  {
+    "title": "سارافون دخترانه قلب آبی کد 6046",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "3036fef9-438f-4086-bb51-9ed67dcb7a5f",
+    "image_url": "https://image.torob.com/base/images/DB/_T/DB_T4iSbNs5m98gJ.jpg"
+  },
+  {
+    "title": "سارافون مشکی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "07ff95d8-6289-48da-b74a-2f7d100dfb0a",
+    "image_url": "https://image.torob.com/base/images/YA/VF/YAVFaO3cMi2cW-zg.jpg"
+  },
+  {
+    "title": "سارافون کمان",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون کمان"
+        ]
+      }
+    ],
+    "random_key": "938bbcff-839a-45c1-988a-212fcdf812ad",
+    "image_url": "https://image.torob.com/base/images/f7/dG/f7dGw-gMbOBcJNRA.jpg"
+  },
+  {
+    "title": "سارافون دخترانه W4242/2در3سایز",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "3سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "ffe16c70-3316-45e8-b25d-265d9399e712",
+    "image_url": "https://image.torob.com/base/images/qi/lI/qilIFwkmvoho4kdU.jpg"
+  },
+  {
+    "title": "سارافون دخترانه عیدانه کتان",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "d89261db-1482-4a22-9113-a01037c770c0",
+    "image_url": "https://image.torob.com/base/images/Dd/r1/Ddr1YHAb7T_LCTK6.jpg"
+  },
+  {
+    "title": "سارافون و شومیز مدل بنفشه با پارچه ابروبادی ماه شو مزون",
+    "group": "نامشخص",
+    "product": "سارافون و شومیز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابروبادی"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سارافون و شومیز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "d903e3f0-139c-4fcf-9495-275e448cc051",
+    "image_url": "https://image.torob.com/base/images/Bq/5i/Bq5inrvN7i7fFqgy.jpg"
+  },
+  {
+    "title": "سارافون لینن دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "0bdf5a5f-6f77-48f5-9726-bd6703deafbb",
+    "image_url": "https://image.torob.com/base/images/Hk/37/Hk37mZ1eoY1JLigf.jpg"
+  },
+  {
+    "title": "سارافون گلبهار",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون گلبهار"
+        ]
+      }
+    ],
+    "random_key": "bfa99c63-c559-4d8c-bb44-077e2bfa3e05",
+    "image_url": "https://image.torob.com/base/images/xD/ra/xDra3S3yzjIi9oqY.jpg"
+  },
+  {
+    "title": "لباس بچگانه سارافون دخترانه ترک ( 9 ماه تا 5سال)",
+    "group": "بچگانه دخترانه 9 ماه تا 5سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "9 ماه تا 5سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "350e732d-2f47-4c49-8858-f076376f19e3",
+    "image_url": "https://image.torob.com/base/images/F0/m_/F0m_9lkNqUu2yZx_.jpg"
+  },
+  {
+    "title": "سارافون یونیکورن",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "یونیکورن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "ca1ba2a9-c043-48da-82fc-7a677b29c3cd",
+    "image_url": "https://image.torob.com/base/images/c5/aP/c5aPBIDmF_BPjHaS.jpg"
+  },
+  {
+    "title": "سارافون دخترانه زرد و سفید مناسب برای 6 تا 18 ماه",
+    "group": "دخترانه 6 تا 18 ماه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد",
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6 تا 18 ماه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "1ed00667-84ae-489d-b7a2-96139d23d6bd",
+    "image_url": "https://image.torob.com/base/images/MI/Dd/MIDdmexpTpsfPSXZ.jpg"
+  },
+  {
+    "title": "سارافون دخترونه خرس قلبی",
+    "group": "دخترونه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خرس قلبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "d507dc62-b511-488d-b79c-4d1565ce865a",
+    "image_url": "https://image.torob.com/base/images/Il/jV/IljV9hcaS10NYt_9.jpg"
+  },
+  {
+    "title": "سارافون نخی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "f778e23a-1f95-4b56-a6c1-d01ada78098d",
+    "image_url": "https://image.torob.com/base/images/ix/kb/ixkbMWSgh-6pDXh2.jpg"
+  },
+  {
+    "title": "سارافون کبریتی و شومیز توت فرنگی صورتی",
+    "group": "نامشخص",
+    "product": "سارافون و شومیز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توت فرنگی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سارافون و شومیز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "b6f75786-c7ca-4b14-bddd-56e33071672a",
+    "image_url": "https://image.torob.com/base/images/Yq/YC/YqYCUtVKItpjje5_.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "25b788d0-30ed-4a56-8496-fbcd0f732df0",
+    "image_url": "https://image.torob.com/base/images/nY/vB/nYvBmwGOyvdLxIBQ.jpg"
+  },
+  {
+    "title": "لباس کودک (سارافون دخترانه جین)",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون جین"
+        ]
+      }
+    ],
+    "random_key": "0b7ec2a5-e698-44a5-b1ee-8cc8aba0ca6c",
+    "image_url": "https://image.torob.com/base/images/GR/36/GR36HpvxZ-Rf1s8S.jpg"
+  },
+  {
+    "title": "سارافون دخترانه قلبی آستین گیپور",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلبی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون قلبی آستین گیپور"
+        ]
+      }
+    ],
+    "random_key": "5f6cb038-1ca1-4347-a6b2-36f536cd1dc3",
+    "image_url": "https://image.torob.com/base/images/EY/Le/EYLePS_SUm1R9Axv.jpg"
+  },
+  {
+    "title": "سارافون دخترانه وارداتی گل گلی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل گلی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون گل گلی"
+        ]
+      }
+    ],
+    "random_key": "cb821c8a-5cc0-4d42-aa76-a12084724a2e",
+    "image_url": "https://image.torob.com/base/images/ya/hn/yahnyT5wZCaN0-er.jpg"
+  },
+  {
+    "title": "سارافون دخترانه 40 تا 60",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "60"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "27bfdee1-721b-4552-a9f2-23bf7961778e",
+    "image_url": "https://image.torob.com/base/images/gF/er/gFer_Jr04lJoOhVe.jpg"
+  },
+  {
+    "title": "سارافون خالداریقه ب ب",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خالدار"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "ب.ب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون خالدار یقه ب.ب"
+        ]
+      }
+    ],
+    "random_key": "ec560f0b-a0a5-4c8c-9933-4245ab479a11",
+    "image_url": "https://image.torob.com/base/images/GZ/4f/GZ4fwULDOV1xAtx7.webp"
+  },
+  {
+    "title": "سارافون بافت ساده TETIS",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "TETIS"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بافت"
+        ]
+      }
+    ],
+    "random_key": "2518ac66-abbe-4077-b4b3-e93c67fc9e5d",
+    "image_url": "https://image.torob.com/base/images/Tf/3E/Tf3E8NT6OMgqjA1O.jpg"
+  },
+  {
+    "title": "زیر سارافن بافت ریلی رنگی پک 12 عدد",
+    "group": "نامشخص",
+    "product": "زیر سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "12 عدد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بافت رنگی"
+        ]
+      }
+    ],
+    "random_key": "4b530bd4-a9c4-4477-b276-79bcda132a9a",
+    "image_url": "https://image.torob.com/base/images/_R/Ka/_RKakGXMjaylfBGU.jpg"
+  },
+  {
+    "title": "سارافون دخترانه love",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "Love"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون طرح Love"
+        ]
+      }
+    ],
+    "random_key": "30992d48-7c21-43b6-a4ef-1c776d3bf010",
+    "image_url": "https://image.torob.com/base/images/q9/iu/q9iuoZa-nvjG8uBM.jpg"
+  },
+  {
+    "title": "سارافون پیراهن پشمی کشمیر چهارخانه پوم پوم دار شیک و خاص با تنخور عالی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی",
+          "کشمیر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پوم پوم دار",
+          "شیک",
+          "خاص",
+          "تنخور عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون پشمی کشمیر"
+        ]
+      }
+    ],
+    "random_key": "9e500d27-cb40-4515-a3db-de62265adb58",
+    "image_url": "https://image.torob.com/base/images/nb/zq/nbzqQRS6isbk_GET.jpg"
+  },
+  {
+    "title": "سارافون چاپی دخترانه وندزدی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چاپی",
+          "ونزدی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون چاپی وندزدی"
+        ]
+      }
+    ],
+    "random_key": "a844d019-1f73-4ca8-bc8e-0658c7a2e578",
+    "image_url": "https://image.torob.com/base/images/9l/S-/9lS-4zxk_q4Yt88B.jpg"
+  },
+  {
+    "title": "شومیز سارافون یلدایی بچه گانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز سارافون"
+        ]
+      }
+    ],
+    "random_key": "47199b1b-a07b-4031-a5e9-4ca0a08de298",
+    "image_url": "https://image.torob.com/base/images/YL/72/YL72jhl-FyK7XirV.jpg"
+  },
+  {
+    "title": "سارافون نخی طرح دار کد1002429",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون نخی"
+        ]
+      }
+    ],
+    "random_key": "8c73332c-be39-49c1-84ea-79a07fefaa02",
+    "image_url": "https://image.torob.com/base/images/No/fx/NofxhA__j6-TiuVC.webp"
+  },
+  {
+    "title": "سارافون دخترانه سحر عیدانه شیک همراه کیف پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "همراه کیف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "223937d6-0097-4404-9974-c553b728d0ab",
+    "image_url": "https://image.torob.com/base/images/hC/ul/hCulc_2OkuZ_X5oF.jpg"
+  },
+  {
+    "title": "سارافون استین بلند",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون آستین بلند"
+        ]
+      }
+    ],
+    "random_key": "1549331d-13d3-4a91-bcc7-040d9049ada9",
+    "image_url": "https://image.torob.com/base/images/f9/oF/f9oFrQ0PxcWKeiRV.jpg"
+  },
+  {
+    "title": "ست 2 تکه شومیز و سارافون، شیک",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست شومیز و سارافون"
+        ]
+      }
+    ],
+    "random_key": "c1fade8f-bf9e-45b9-a2d6-c5dd4386cf29",
+    "image_url": "https://image.torob.com/base/images/Tr/8R/Tr8RQUPu8w77ZgPk.jpg"
+  },
+  {
+    "title": "سارافون زیر و رو ویسکوز اعلا",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ویسکوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست سارافون زیر و رو"
+        ]
+      }
+    ],
+    "random_key": "05b10957-a4fc-40ba-a2a0-618784d4ec51",
+    "image_url": "https://image.torob.com/base/images/SH/JN/SHJNT9YrvjmjeUmT.jpg"
+  },
+  {
+    "title": "سارافون دوش پرک (AKU)",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "AKU"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دوش پرک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون دوش پرک"
+        ]
+      }
+    ],
+    "random_key": "cf24128e-a2f5-4eda-b771-96cf09495460",
+    "image_url": "https://image.torob.com/base/images/Zm/df/Zmdf6BB2YAc47qHE.jpg"
+  },
+  {
+    "title": "بلوز دورس دو یقه سایز 45 تا 60",
+    "group": "نامشخص",
+    "product": "بلوز دورس",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "45 تا 60"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      }
+    ],
+    "random_key": "00ecff73-1640-4bd9-a3d2-992f61e6e4bd",
+    "image_url": "https://image.torob.com/base/images/2q/BM/2qBMwBi_3KGOgPNB.jpg"
+  },
+  {
+    "title": "سارافون میکی موس",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "میکی موس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون میکی موس"
+        ]
+      }
+    ],
+    "random_key": "9fa7c413-bce9-4467-825b-1dca74fbfade",
+    "image_url": "https://image.torob.com/base/images/L9/M0/L9M0VEm2pyo1Y2xA.webp"
+  },
+  {
+    "title": "سارافون طرحدار لینن",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون طرحدار"
+        ]
+      }
+    ],
+    "random_key": "771f3e06-a67b-4e47-8b20-5619d67a6370",
+    "image_url": "https://image.torob.com/base/images/B3/HF/B3HFWp6xd27nXEg0.jpg"
+  },
+  {
+    "title": "سارافون دخترانه سارافون بچگانه",
+    "group": "دخترانه و بچگانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون دخترانه",
+          "سارافون بچگانه"
+        ]
+      }
+    ],
+    "random_key": "b3a3a2e8-56e2-4648-acd0-5e221398ae5e",
+    "image_url": "https://image.torob.com/base/images/W6/MV/W6MVjHtmDaDkmGv3.jpg"
+  },
+  {
+    "title": "سارافون و شنل",
+    "group": "دخترانه",
+    "product": "سارافون و شنل",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون و شنل"
+        ]
+      }
+    ],
+    "random_key": "dcbb8ad4-c480-49a5-a23c-ff6f92e5cab1",
+    "image_url": "https://image.torob.com/base/images/BS/J6/BSJ67ffWi1qXLN94.jpg"
+  },
+  {
+    "title": "15855 سارافون آریانا(کودک)",
+    "group": "کودک",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون آریانا"
+        ]
+      }
+    ],
+    "random_key": "3b236d23-864b-4a1b-9e99-5da584661a90",
+    "image_url": "https://image.torob.com/base/images/4x/n8/4xn8gY7msTgr0b6l.jpg"
+  },
+  {
+    "title": "سارافون سرمه ای H&M",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "H&M"
+        ]
+      }
+    ],
+    "random_key": "075c5a36-b2bc-47e0-834d-27f4b7819cb7",
+    "image_url": "https://image.torob.com/base/images/E5/cV/E5cVJ24chARHITPD.jpg"
+  },
+  {
+    "title": "سارافون گل",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون گل"
+        ]
+      }
+    ],
+    "random_key": "343b3ffb-cfb3-46ec-bb93-c98f76122708",
+    "image_url": "https://image.torob.com/base/images/_W/B2/_WB2U0vn7rYps_Cc.jpg"
+  },
+  {
+    "title": "سارافون دخترانه طرح جغه کد 5660",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "جغه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون طرح جغه"
+        ]
+      }
+    ],
+    "random_key": "331de26b-4b8d-4b70-94d4-2a650418c674",
+    "image_url": "https://image.torob.com/base/images/7B/fG/7BfG1kwY4HkZgZfd.jpg"
+  },
+  {
+    "title": "سارافون لی عروسکی بهار . سایز 3 ماه تـــــــــا 12 ماه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون عروسکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 ماه تـــــــــا 12 ماه"
+        ]
+      }
+    ],
+    "random_key": "ae188f57-1252-4240-8f6d-48602029ea10",
+    "image_url": "https://image.torob.com/base/images/xS/uO/xSuOf1fhmIKyL0Ty.jpg"
+  },
+  {
+    "title": "سارافون رکابی تمام چاپ ام بی بی مدل 413 (بسته 6 عددی)",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "رکابی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تمام چاپ"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "بسته 6 عددی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ام بی بی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون رکابی"
+        ]
+      }
+    ],
+    "random_key": "41f41e4e-ccc6-478d-a850-7c3b2fcbd32d",
+    "image_url": "https://image.torob.com/base/images/nn/8s/nn8sILNYNcDhVYrk.jpg"
+  },
+  {
+    "title": "سارافون گلدوزی دخترانه بابونه و زنبور",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بابونه و زنبور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون گلدوزی"
+        ]
+      }
+    ],
+    "random_key": "8c7eef93-2111-4c8e-bf16-6a1f9658338c",
+    "image_url": "https://image.torob.com/base/images/C9/bv/C9bvd9VmWU_8kZhi.jpg"
+  },
+  {
+    "title": "سارافون دخترانه قلب",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون قلب"
+        ]
+      }
+    ],
+    "random_key": "3436fc4d-5e50-4b56-8132-0360fcb87aac",
+    "image_url": "https://image.torob.com/base/images/MY/hI/MYhIkUl8s0UHbXw2.jpg"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [],
+    "random_key": "f4b5c716-9cc5-4e67-a041-17b9469ee9c1",
+    "image_url": "https://image.torob.com/base/images/5q/PG/5qPGRGw0BuzDHC--.jpg"
+  },
+  {
+    "title": "سارافون جلو دکمه دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جلو دکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون جلو دکمه"
+        ]
+      }
+    ],
+    "random_key": "91b1a5ce-69a6-426e-a251-f8581c9d8f9a",
+    "image_url": "https://image.torob.com/base/images/KV/OZ/KVOZB4wjPyzjYDb_.jpg"
+  },
+  {
+    "title": "سارافن دخترانه مهدخت",
+    "group": "دخترانه",
+    "product": "سارافن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافن مهدخت"
+        ]
+      }
+    ],
+    "random_key": "2f2938d4-bd58-4d87-8605-6e3086f25f2f",
+    "image_url": "https://image.torob.com/base/images/d7/XK/d7XKzEMUNp37Wf9R.jpg"
+  },
+  {
+    "title": "سارافون چاپی آستین بلند کرومی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون چاپی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرومی"
+        ]
+      }
+    ],
+    "random_key": "bb656957-87eb-4a03-880f-3152e9b83f08",
+    "image_url": "https://image.torob.com/base/images/EF/my/EFmyK6BuhABQ6toh.jpg"
+  },
+  {
+    "title": "سارافون بهم چسبیده دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بهم چسبیده"
+        ]
+      }
+    ],
+    "random_key": "aa1fd57d-878c-4eca-abdd-b07062ffaef2",
+    "image_url": "https://image.torob.com/base/images/-l/mj/-lmj1kpg9jh4PtAM.jpg"
+  },
+  {
+    "title": "سارافون دخترونه وارداتی از تایلند",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی از تایلند"
+        ]
+      }
+    ],
+    "random_key": "7e5ac94b-7e1e-4c20-91ed-c413bd52d919",
+    "image_url": "https://image.torob.com/base/images/ma/WJ/maWJEK4cmdiHgkAM.jpg"
+  },
+  {
+    "title": "سارافون خامه دوزی فریسایز36تا44 قد120 چهاررنگ",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون خامه دوزی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فریسایز 36 تا 44"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قد 120"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چهار رنگ"
+        ]
+      }
+    ],
+    "random_key": "7704f11d-99e8-464c-a0a0-bf34a7f3437d",
+    "image_url": "https://image.torob.com/base/images/ip/aT/ipaTZNhTkHJn-v4t.jpg"
+  },
+  {
+    "title": "سارافون اهورا",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون اهورا"
+        ]
+      }
+    ],
+    "random_key": "d9531856-362d-41b0-9a19-33d5c184bf1b",
+    "image_url": "https://image.torob.com/base/images/qh/6u/qh6uCeRKfm1yMGAP.jpg"
+  },
+  {
+    "title": "سارافون دخترانه طرح دختر دوچرخه سوار. جنس نخ پنبه. محصول ترکیه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "دختر دوچرخه سوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محصول ترکیه"
+        ]
+      }
+    ],
+    "random_key": "7d265c18-b97d-4878-aefd-d70c83cb2970",
+    "image_url": "https://image.torob.com/base/images/Rl/jN/RljN07Pc9ST-2pDd.jpg"
+  },
+  {
+    "title": "سارafون نخی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "2a6365d5-0a5e-456e-8e60-1fce850e39f4",
+    "image_url": "https://image.torob.com/base/images/fE/O4/fEO4duj9XNCaQc-f.jpg"
+  },
+  {
+    "title": "سارافون کشمیر مناسب برای دو تا دوازده سال",
+    "group": "دخترانه 2 تا 12 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کشمیر"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مناسب برای دو تا دوازده سال"
+        ]
+      }
+    ],
+    "random_key": "85a00d7c-e404-428c-b37a-32a8fea109c2",
+    "image_url": "https://image.torob.com/base/images/ay/kr/aykrAVBeD83ZN4KV.jpg"
+  },
+  {
+    "title": "سارافون دخترانه فانتزی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون فانتزی"
+        ]
+      }
+    ],
+    "random_key": "2bf41c64-bff7-4ace-965e-f5fb238a7643",
+    "image_url": "https://image.torob.com/base/images/NI/HK/NIHK9Fs41hzTNj71.jpg"
+  },
+  {
+    "title": "سارافون دخترانه جنس بوگاتی مناسب3سال تا11سال سارافون بوگانه",
+    "group": "دخترانه 3 تا 11 سال",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بوگاتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مناسب 3 سال تا 11 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بوگانه"
+        ]
+      }
+    ],
+    "random_key": "1d758513-52d5-4012-9379-ee488bba2efe",
+    "image_url": "https://image.torob.com/base/images/8i/JF/8iJFb7pGTApgAsrc.jpg"
+  },
+  {
+    "title": "سارافون دخترانه کرپ اسکاچی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ اسکاچی"
+        ]
+      }
+    ],
+    "random_key": "f03cd7a0-5781-44da-9068-f568df29b7d3",
+    "image_url": "https://image.torob.com/base/images/kn/8b/kn8bioigQOU1ADWE.jpg"
+  },
+  {
+    "title": "سارافون دخترانه جین گلدار کد 4567",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کد 4567"
+        ]
+      }
+    ],
+    "random_key": "f01b0a66-ef58-4974-8c30-7fb78f3c9cfb",
+    "image_url": "https://image.torob.com/base/images/pi/0z/pi0zbT7gnD0tiCRN.jpg"
+  },
+  {
+    "title": "سارافون دخترانه ، سارافون بچگانه نخی درجه یک",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی درجه یک"
+        ]
+      }
+    ],
+    "random_key": "74374d81-ccf3-480c-8657-723877ee0bbf",
+    "image_url": "https://image.torob.com/base/images/nw/l1/nwl1-MzoEp2quEyW.jpg"
+  },
+  {
+    "title": "سارافون کبریتی سایز50.55.60رنگ خردلی قرمزسبزآبی",
+    "group": "نامشخص",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "50",
+          "55",
+          "60"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خردلی",
+          "قرمز",
+          "سبز",
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "3039d1d7-4327-4ea4-83da-3b4807e33aba",
+    "image_url": "https://image.torob.com/base/images/WH/3T/WH3TvAvv4JU-MGsI.jpg"
+  },
+  {
+    "title": "سارافون بستنی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون بستنی"
+        ]
+      }
+    ],
+    "random_key": "722c9209-63ca-4f71-9571-bad7dda20b5f",
+    "image_url": "https://image.torob.com/base/images/Tg/U8/TgU8Lf-5ZNHOHf-y.jpg"
+  },
+  {
+    "title": "سارافون موهر دخترانه وارداتی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "موهر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "d5a80ce9-74a8-417d-b4e5-0d3f89c93931",
+    "image_url": "https://image.torob.com/base/images/nj/Oe/njOey0WZNabVZrh9.webp"
+  },
+  {
+    "title": "سارافان 3 تکه دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "6ef8947c-11e8-43b8-8778-48e5cafb8494",
+    "image_url": "https://image.torob.com/base/images/Fe/R5/FeR5n9u4uOKnbV-Y.jpg"
+  },
+  {
+    "title": "سارافون توری آستر دار دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستردار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "5019c9d1-38f2-45e1-8219-485386440ce3",
+    "image_url": "https://image.torob.com/base/images/p1/Vj/p1VjMdIRBgHh14Ue.jpg"
+  },
+  {
+    "title": "سارافون گل خندان",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل خندان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "fd82102b-a783-4627-8bf2-c51de1b75233",
+    "image_url": "https://image.torob.com/base/images/r7/Di/r7DiiTNxJaOVNp6t.webp"
+  },
+  {
+    "title": "سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "dca27ef0-66ab-4703-bd0c-b9e2d0d3ad7a",
+    "image_url": "https://image.torob.com/base/images/Pw/uP/PwuPNI58QawPUJVD.jpg"
+  },
+  {
+    "title": "سارافون دخترانه خرگوشی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خرگوشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "991ea3e4-6915-4ee6-bdc0-5daaba01ef1a",
+    "image_url": "https://image.torob.com/base/images/_3/V_/_3V_VcrhecPOCohQ.jpg"
+  },
+  {
+    "title": "سارافون دخترانه-سارافون حلقه آستین بچه گانه-ساتن یقه گیپور",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "حلقه آستین"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "1ffe9444-5a44-444e-a330-dea734c03d2e",
+    "image_url": "https://image.torob.com/base/images/He/Md/HeMdZ30Y7V_oogQK.jpg"
+  },
+  {
+    "title": "سارافون پشمی",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "2800d698-fd9e-42c6-abf4-7be5c0586c30",
+    "image_url": "https://image.torob.com/base/images/jQ/RM/jQRMDWS0KZ0otw_1.jpg"
+  },
+  {
+    "title": "سارافون شانتون دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "شانتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "09ad9e56-74d2-42a1-9960-a39da16bc05c",
+    "image_url": "https://image.torob.com/base/images/9f/Ab/9fAb3Awb6Mw6bRVK.jpg"
+  },
+  {
+    "title": "سارافون دخترانه دانتل مدل مریم",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دانتل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون مدل مریم"
+        ]
+      }
+    ],
+    "random_key": "f163637c-fcc6-4578-94c0-a783590ca5e7",
+    "image_url": "https://image.torob.com/base/images/A2/eh/A2ehanouBiHU9Nq1.jpg"
+  },
+  {
+    "title": "سارافون دخترانه پاییزه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "adfc2ad9-bd98-4c25-be5c-16a14f27e63b",
+    "image_url": "https://image.torob.com/base/images/Ik/Lj/IkLjsm1a2v4mAURf.jpg"
+  },
+  {
+    "title": "سارافون F5",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "ea200be3-31f3-4c08-99c4-27a8ca73a1e7",
+    "image_url": "https://image.torob.com/base/images/V9/pD/V9pDvvX_ytbMyf_K.jpg"
+  },
+  {
+    "title": "سارافون دخترانه رسا",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "6d8b540e-13ad-4faf-adc9-521865754192",
+    "image_url": "https://image.torob.com/base/images/Rm/b5/Rmb5EM3m7yjmGAY_.jpg"
+  },
+  {
+    "title": "سارافون لی کاغذی اورجینال",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی کاغذی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "e9c7f282-7e58-4cb9-8ba6-22fd1ab937ae",
+    "image_url": "https://image.torob.com/base/images/Jj/F9/JjF9RlkWxgpEb9As.jpg"
+  },
+  {
+    "title": "سارافون گلدوزی کتان اسلپ دخترانه کمربند چرمی ارسال رایگان",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده",
+          "کمربند چرمی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان اسلپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "1e61cfc2-0cd7-4093-b10e-e9cbfe3e7038",
+    "image_url": "https://image.torob.com/base/images/Ti/fy/TifyhaSPoi4IkYsW.jpg"
+  },
+  {
+    "title": "سارافن لی دخترانه",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "4fa3b2b1-46e0-4162-b889-33a515bc7ec0",
+    "image_url": "https://image.torob.com/base/images/Zv/5m/Zv5msirgKmZvP69H.jpg"
+  }
+]

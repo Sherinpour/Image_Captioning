@@ -1,0 +1,6229 @@
+[
+  {
+    "title": "ست شورت و رشگارد MMA برند GREEN HILL",
+    "group": "نامشخص",
+    "product": "ست شورت و رشگارد",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "GREEN HILL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست شورت و رشگارد MMA"
+        ]
+      }
+    ],
+    "random_key": "35be35d6-e402-4523-bb86-9770cec20586",
+    "image_url": "https://image.torob.com/base/images/EN/EI/ENEI5lADf0R79UbB.jpg"
+  },
+  {
+    "title": "لباس ورزشی کیک بوکس",
+    "group": "نامشخص",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "ea8e4252-9be1-4f5b-bda3-65e9204eaaa0",
+    "image_url": "https://image.torob.com/base/images/BN/gG/BNgG6lzsj59MeXlg.jpg"
+  },
+  {
+    "title": "شورت مویتایی بوکس 2Xl",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "2Xl"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت مویتایی بوکس"
+        ]
+      }
+    ],
+    "random_key": "d430c053-a7c2-44a6-8ea5-1e6452180724",
+    "image_url": "https://image.torob.com/base/images/iW/nP/iWnPA8dZwEhxdPFE.jpg"
+  },
+  {
+    "title": "شورت موی تای تایلندی ARM مدل Fight",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ARM"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای تایلندی"
+        ]
+      }
+    ],
+    "random_key": "8c394ac2-2494-4c0f-bf17-9c53d1d13e47",
+    "image_url": "https://image.torob.com/base/images/OQ/wV/OQwVm54cufcYb0wS.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس rd b",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "rd b"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک مردانه بوکس"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "769c69dc-282d-4b8e-ac2a-e9ff5b82e565",
+    "image_url": "https://image.torob.com/base/images/10/_X/10_XEGMqJNPd7HnX.jpg"
+  },
+  {
+    "title": "رکابی شورت کیک بوکس",
+    "group": "نامشخص",
+    "product": "رکابی شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "dbc2af63-6cda-45ec-9226-b313e1f3169f",
+    "image_url": "https://image.torob.com/base/images/u8/Gs/u8GsqsZBjsdVJ1h2.jpg"
+  },
+  {
+    "title": "ست تاپ و شلوارک ورزشی مردانه مدل ADI.BLA.BOXING.2022",
+    "group": "مردانه",
+    "product": "ست تاپ و شلوارک ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ADI.BLA.BOXING.2022"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تاپ و شلوارک ورزشی مردانه"
+        ]
+      }
+    ],
+    "random_key": "56099a1f-061c-4e35-a527-32fbb587eae8",
+    "image_url": "https://image.torob.com/base/images/kU/fj/kUfjMavj93kMkZAQ.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم VENUM",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "VENUM"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی ونوم"
+        ]
+      }
+    ],
+    "random_key": "918fb430-28ba-4a44-b6d7-8c489155f3a0",
+    "image_url": "https://image.torob.com/base/images/q3/sD/q3sDMpaF2ydRVR3o.jpg"
+  },
+  {
+    "title": "ست تاپ و شلوارک ورزشی مدل کیک بوکسینگ",
+    "group": "نامشخص",
+    "product": "ست تاپ و شلوارک ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تاپ و شلوارک ورزشی مدل کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "d7a4d7bf-69fa-43a1-8f04-f550db42cee5",
+    "image_url": "https://image.torob.com/base/images/Mf/O4/MfO438G3y037qhYI.jpg"
+  },
+  {
+    "title": "شورت بوکس ROAR MMA هنر رزمی ترکیبی موی تای BJJ گراپلینگ شورت مبارزه ای",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ROAR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "MMA",
+          "موی تای",
+          "BJJ",
+          "شورت مبارزه ای"
+        ]
+      }
+    ],
+    "random_key": "7ebba77d-44a5-4796-bf42-f096d2de7eb4",
+    "image_url": "https://image.torob.com/base/images/BU/hX/BUhXXScxaLZdbeWc.jpg"
+  },
+  {
+    "title": "شورت موی تای Top king",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Top king"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "3efcdbfd-4dd6-41a1-b3f4-d30b1253b71c",
+    "image_url": "https://image.torob.com/base/images/bb/S1/bbS1697TVtbzZTaA.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس مارک PRIMO",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "PRIMO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "21eb68a9-50af-4c6b-9b69-e2cc5d55ff21",
+    "image_url": "https://image.torob.com/base/images/ig/oM/igoMmSq45p_phaU6.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم Venum",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Venum"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی ونوم"
+        ]
+      }
+    ],
+    "random_key": "22a1de85-608a-4121-97f0-7b42025467be",
+    "image_url": "https://image.torob.com/base/images/R1/vf/R1vfssS7VY3kHhz1.webp"
+  },
+  {
+    "title": "شورت رزمی حرفه ای موی تای MUAYTHAI سفید کد VM394",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی حرفه ای موی تای MUAYTHAI"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "83723527-3b3b-45ea-a5b8-d222fdaa08cd",
+    "image_url": "https://image.torob.com/base/images/ZQ/0K/ZQ0KIcVm7KaFTBM0.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای فرتکس",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "فرتکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس/موی تای"
+        ]
+      }
+    ],
+    "random_key": "fd7e79f9-1169-4b80-928e-ff9d67c14418",
+    "image_url": "https://image.torob.com/base/images/Y8/Mh/Y8MhUAePYJAW0GrW.jpg"
+  },
+  {
+    "title": "ست ورزشی بوکس آدیداس",
+    "group": "نامشخص",
+    "product": "ست ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ورزشی بوکس"
+        ]
+      }
+    ],
+    "random_key": "01bea9c9-4bfe-47bc-af7f-68ac49aaa108",
+    "image_url": "https://image.torob.com/base/images/Jx/U_/JxU_WUuVWeHqc9xH.jpg"
+  },
+  {
+    "title": "شورت موی تای ELEPHANT مدل RED",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ELEPHANT"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "RED"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "72e8a8f8-8f46-4cf9-9063-e26506ba8d64",
+    "image_url": "https://image.torob.com/base/images/Jc/4k/Jc4ktJn3L4hg00_q.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس ونوم short boxing venum one",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "d95aae3f-a58c-40d3-bfd3-606e64e73cfa",
+    "image_url": "https://image.torob.com/base/images/Ao/Vh/AoVhYCekvZm7bZQq.jpg"
+  },
+  {
+    "title": "شورت و رکابی بوکس RDX (پس کرایه)",
+    "group": "نامشخص",
+    "product": "شورت و رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت و رکابی بوکس"
+        ]
+      }
+    ],
+    "random_key": "3bb5e959-389d-4e3f-a7af-5f9197f0ff50",
+    "image_url": "https://image.torob.com/base/images/qg/69/qg6936om7NZo_0QF.jpg"
+  },
+  {
+    "title": "شورت موی تای SIAMKICK یکپارچهسازی با سیستمعامل مردانه زنان بوکس کیک بوکسینگ کلاس بالا MMA آموزش لباس رزم تنه تمرین - ارسال 20 روز کاری",
+    "group": "مردانه زنان",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIAMKICK"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تمرین"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "یکپارچهسازی با سیستمعامل"
+        ]
+      }
+    ],
+    "random_key": "df380a02-7594-4035-a4ab-bdce1f147f5c",
+    "image_url": "https://image.torob.com/base/images/aK/5p/aK5phxabWTKoZn-v.jpg"
+  },
+  {
+    "title": "رکابی شورت کیک بوکس بسته ۵عددی Kickboxing shorts set 5 pieces",
+    "group": "نامشخص",
+    "product": "رکابی شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "bc185adc-f5eb-4c04-b1a1-2a528aa9cec5",
+    "image_url": "https://image.torob.com/base/images/i0/ez/i0ezcAP7CK5XatSO.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/ موی تای",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "موی تای"
+        ]
+      }
+    ],
+    "random_key": "68c9abc2-1bd8-4fb1-9f52-0029085bdbcd",
+    "image_url": "https://image.torob.com/base/images/xx/Iz/xxIzax-ooxexJNcf.jpg"
+  },
+  {
+    "title": "شورت MMA مبارزه Tigon",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tigon"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "ec1ff16a-0f1d-44ad-bcef-86e3a4bcba4a",
+    "image_url": "https://image.torob.com/base/images/er/81/er8134s6ObMf2Nma.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس آتشی Green Hill BYT",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Green Hill"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "e2b826f3-5d28-4325-8451-f13a42b733ef",
+    "image_url": "https://image.torob.com/base/images/lb/4P/lb4P0PhoP3c3Ia-V.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس RD",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RD"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک بوکس"
+        ]
+      }
+    ],
+    "random_key": "77ca057d-979c-4d7c-a97d-c61fe7a4aa58",
+    "image_url": "https://image.torob.com/base/images/md/VE/mdVEXbmokdIc0t5g.jpg"
+  },
+  {
+    "title": "ست بوکس سفید شرت کیک باکس T اورجینال REMEGE",
+    "group": "نامشخص",
+    "product": "ست بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست بوکس",
+          "شرت کیک باکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "19b0121f-b533-4a81-98d4-9ced9fd66125",
+    "image_url": "https://image.torob.com/base/images/x4/Cp/x4CpujtcVhJxdSwm.jpg"
+  },
+  {
+    "title": "شورت رزمی KICK کد VM1278",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KICK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      }
+    ],
+    "random_key": "45da94df-0bd3-48d6-beb1-276e75a5cb5c",
+    "image_url": "https://image.torob.com/base/images/mH/BJ/mHBJYXxgHNdLpeNh.jpg"
+  },
+  {
+    "title": "شورت موی تای طرح گلادیاتور",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلادیاتور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "1d771441-fee3-4c07-8afd-9952b89a6171",
+    "image_url": "https://image.torob.com/base/images/nz/gv/nzgvAxV2jTL6mwtR.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس مارک PRIMO",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "PRIMO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "672fcd1a-3286-49e4-a700-f990d7bbf801",
+    "image_url": "https://image.torob.com/base/images/7D/4D/7D4DZm_mJM8gAOWu.jpg"
+  },
+  {
+    "title": "شورت بوکس با چاپ اسم روی آن",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با چاپ اسم روی آن"
+        ]
+      }
+    ],
+    "random_key": "bac0b678-4600-4ee4-85ea-ab93baca7b74",
+    "image_url": "https://image.torob.com/base/images/ps/l8/psl8wuI3WVHIM9UA.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک بوکس"
+        ]
+      }
+    ],
+    "random_key": "04b8f42e-87f8-4ad8-9c43-5445f03670e9",
+    "image_url": "https://image.torob.com/base/images/E7/uz/E7uzQ-6PU15l7jAB.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس فرتکس fairtexصورتی",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "fairtex"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "90417886-833d-4beb-bf74-f98e7d31d261",
+    "image_url": "https://image.torob.com/base/images/bk/zT/bkzTodbDi06twzLX.jpg"
+  },
+  {
+    "title": "رکابی شلوارک VENUM",
+    "group": "نامشخص",
+    "product": "رکابی شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "VENUM"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی شلوارک"
+        ]
+      }
+    ],
+    "random_key": "52be7cf5-77be-491e-ae37-ffd12fdcaa75",
+    "image_url": "https://image.torob.com/base/images/cq/hb/cqhbDURCwaVu7u-7.jpg"
+  },
+  {
+    "title": "شلوار تک رزمی مشکی",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار تک رزمی"
+        ]
+      }
+    ],
+    "random_key": "5bb1f6cc-67f8-4f18-9d4f-9cbbeafbc2c5",
+    "image_url": "https://image.torob.com/base/images/a6/YH/a6YHiTnT9LejPpoc.jpg"
+  },
+  {
+    "title": "شورت رزمی چشمی",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چشمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      }
+    ],
+    "random_key": "d393d695-2f68-4728-b96e-5f497fddf3ab",
+    "image_url": "https://image.torob.com/base/images/Pu/5S/Pu5SPN-5e9BbXdjS.jpg"
+  },
+  {
+    "title": "شورت بوکس سفید مردانه و زنانه KICK T اورجینال Remege Spor Malzemeleri",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KICK T",
+          "Remege Spor Malzemeleri"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "39af38b4-70c3-45e9-b83c-a8f30651577f",
+    "image_url": "https://image.torob.com/base/images/WM/Nf/WMNftXgE8wy8lQ6G.jpg"
+  },
+  {
+    "title": "شورت بوکس بلند رنگبندی و سایزبندی دارد لطفا گفتگو کنید جنس پارچه ساتن امریکایی",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن امریکایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "بلند"
+        ]
+      }
+    ],
+    "random_key": "fc1960bc-6f13-445d-9d1b-141641310f99",
+    "image_url": "https://image.torob.com/base/images/ve/S2/veS2VZoq2kR1bxF6.jpg"
+  },
+  {
+    "title": "شورت بوکس قرمز مردانه و زنانه تنظیمات کوتاه سیلیکون کیک بوکسینگ مجموعه سه گانه 3.5 متر REMEGE",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "REMEGE"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سیلیکون",
+          "تنظیمات"
+        ]
+      }
+    ],
+    "random_key": "05c69540-fc9b-4218-83c6-ad11b9246b6f",
+    "image_url": "https://image.torob.com/base/images/OU/dc/OUdcpylLUsleElpF.jpg"
+  },
+  {
+    "title": "شورت رزمی Venum مدل Training Camp",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Venum"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "Training Camp"
+        ]
+      }
+    ],
+    "random_key": "ddd477de-db64-4130-80a3-eea084be821f",
+    "image_url": "https://image.torob.com/base/images/2h/bR/2hbRaYsykmQPfsye.jpg"
+  },
+  {
+    "title": "شورت رزمی ووشو",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی ووشو"
+        ]
+      }
+    ],
+    "random_key": "7fae2f3b-e674-42ed-bdb9-d312e8bed8f8",
+    "image_url": "https://image.torob.com/base/images/Cg/vZ/CgvZDM4rh_p-zrsf.jpg"
+  },
+  {
+    "title": "شورت MMA استرج طرح VENUM",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استرج"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "VENUM"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "4e564de6-aea5-4033-9081-928392404f95",
+    "image_url": "https://image.torob.com/base/images/99/k1/99k1FUGNMFQ7qC5J.jpg"
+  },
+  {
+    "title": "شورت کیگ بوکس",
+    "group": "نامشخص",
+    "product": "شورت کیگ بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیگ بوکس"
+        ]
+      }
+    ],
+    "random_key": "dbd7e5d2-f6fb-4766-b908-7bf8482e5154",
+    "image_url": "https://image.torob.com/base/images/yH/lE/yHlEgoBEsfvTsXjB.jpg"
+  },
+  {
+    "title": "شورت بوکس",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "8333204c-da62-43aa-8852-088dafad428f",
+    "image_url": "https://image.torob.com/base/images/Wc/14/Wc14Hv1Q3dZE1cWM.jpg"
+  },
+  {
+    "title": "شورت موی تای LUMPINEE",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "LUMPINEE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "eb68bd72-bcea-4e36-adb1-8c916297c610",
+    "image_url": "https://image.torob.com/base/images/Dn/f-/Dnf--1IoI0BDSGuD.jpg"
+  },
+  {
+    "title": "شورت MMA مبارزه VENUM(ونوم)",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "VENUM",
+          "ونوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مبارزه"
+        ]
+      }
+    ],
+    "random_key": "265a42a6-d6d4-4720-a9cb-925732989902",
+    "image_url": "https://image.torob.com/base/images/VI/g9/VIg9F5OkVsGD8iFY.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس مارک primo",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "primo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "5829ec05-68fd-4bc2-8c44-c0d41ce79e47",
+    "image_url": "https://image.torob.com/base/images/5V/H6/5VH60OUcx4nGBmf0.jpg"
+  },
+  {
+    "title": "شورت MMA مبارزه RDX مدل X5",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "X5"
+        ]
+      }
+    ],
+    "random_key": "12c27fe9-50d7-4cea-be04-b2524a983f99",
+    "image_url": "https://image.torob.com/base/images/0N/WP/0NWPUPmKAMi9FjPI.jpg"
+  },
+  {
+    "title": "شورت MMA استرج RDX",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استرج"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "a1ce2ac2-98f0-44c0-a2d3-480f1f7c19c4",
+    "image_url": "https://image.torob.com/base/images/YP/vR/YPvRq_dhNKYn_E-C.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس ونوم venum",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم",
+          "venum"
+        ]
+      }
+    ],
+    "random_key": "cfaf9955-41e3-49a1-9b87-8eef5597beea",
+    "image_url": "https://image.torob.com/base/images/5T/qB/5TqBwJSMD4HiICPY.jpg"
+  },
+  {
+    "title": "توف اسپورت شورت موی تای شورت بوکس سبک های سنتی شورت تمرینی MMA لباس کیک بوکسینگ - ارسال 20 روز کاری",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "توف اسپورت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای",
+          "شورت بوکس",
+          "شورت تمرینی MMA",
+          "لباس کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تمرینی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "سنتی"
+        ]
+      }
+    ],
+    "random_key": "e6409bf1-2e79-4f60-979f-6914fd71cfd6",
+    "image_url": "https://image.torob.com/base/images/XG/Gt/XGGtb7GdUNO1NNFV.jpg"
+  },
+  {
+    "title": "شورت موی تای Elephant مدل Orange",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Elephant"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "Orange"
+        ]
+      }
+    ],
+    "random_key": "520b0e47-f8b0-4b30-a675-098bf59891cf",
+    "image_url": "https://image.torob.com/base/images/Gj/TV/GjTVjdtJBl6QVSkF.jpg"
+  },
+  {
+    "title": "شنل و شورت بوکس",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شنل و شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "d64044ac-114e-47c1-b868-8d7c9bf39a8b",
+    "image_url": "https://image.torob.com/base/images/dT/SL/dTSLZ652434TT37g.jpg"
+  },
+  {
+    "title": "شورت ونوم مشکی قرمز 2",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "9df1817c-02b0-4fe7-be21-777d57071b18",
+    "image_url": "https://image.torob.com/base/images/nZ/XI/nZXIVbYd9wmPRx1O.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس نارنجی شورت های نئونی کوتاه MT3036 Muay Thai Dragondo",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت های نئونی",
+          "Muay Thai Dragondo"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "5bc447a5-6c80-456c-b46e-3643bb092c2f",
+    "image_url": "https://image.torob.com/base/images/9-/Oh/9-Oh3ztisr-mGpnE.jpg"
+  },
+  {
+    "title": "شورت رزمی fairtex (فرتکس) وارداتی اعلا در رنگ بندی مختلف",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "fairtex",
+          "فرتکس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "اعلا"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "در رنگ بندی مختلف"
+        ]
+      }
+    ],
+    "random_key": "e84ee0b7-c90e-4df3-aa1f-a04b969f63da",
+    "image_url": "https://image.torob.com/base/images/vp/_V/vp_V1bF8C72oBWNq.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس طرح تایلندی",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح تایلندی"
+        ]
+      }
+    ],
+    "random_key": "fae1fb5e-9dc5-4b85-82c9-96ad4b5fd87a",
+    "image_url": "https://image.torob.com/base/images/-M/Q1/-MQ11fGVIiMAPc9d.jpg"
+  },
+  {
+    "title": "شورت MMA سیم DRAGON",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA",
+          "سیم DRAGON"
+        ]
+      }
+    ],
+    "random_key": "38199788-7bf0-45ee-9b19-a8bb5c5f3d8f",
+    "image_url": "https://image.torob.com/base/images/5F/iN/5FiNfl3oeDWkrxRO.jpg"
+  },
+  {
+    "title": "شورت رزمی CRUSH",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CRUSH"
+        ]
+      }
+    ],
+    "random_key": "3b31eb31-045a-4f1c-9935-66ccd15f0f1e",
+    "image_url": "https://image.torob.com/base/images/cj/Vq/cjVqb3PIc7zcudp9.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس تویینز boxing short twins candy",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تویینز",
+          "twins"
+        ]
+      }
+    ],
+    "random_key": "7b8cbef9-c5b2-488c-a5d6-d93be9c5460d",
+    "image_url": "https://image.torob.com/base/images/Fp/X-/FpX-4FuZFFPUW6IV.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه های یکپارچهسازی با سیستمعامل DRAGON MUAYTHAI لباس تنگ ورزشکار سفید MUAY THAI 2 مجموعه Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "لباس تنگ ورزشکار",
+          "MUAY THAI"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "DRAGON MUAYTHAI",
+          "Dragondo"
+        ]
+      }
+    ],
+    "random_key": "59e8d9eb-c287-4ebf-b653-30738cb0db69",
+    "image_url": "https://image.torob.com/base/images/sg/El/sgElKNeGq0p9D8Mk.jpg"
+  },
+  {
+    "title": "شورت موی تای ایرانی",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ایرانی"
+        ]
+      }
+    ],
+    "random_key": "cc75c671-15c1-42ae-98cf-c8aef4a4e881",
+    "image_url": "https://image.torob.com/base/images/Yk/W2/YkW23axIF2qwalVC.jpg"
+  },
+  {
+    "title": "شورت بوکس ونوم (پس کرایه)",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      }
+    ],
+    "random_key": "2b1df21b-4535-472d-b0b2-551c9061de73",
+    "image_url": "https://image.torob.com/base/images/TL/f5/TLf52IIw3DEdSiED.jpg"
+  },
+  {
+    "title": "ست مردانه بوکس",
+    "group": "مردانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست مردانه بوکس"
+        ]
+      }
+    ],
+    "random_key": "a38ccada-26f3-4d95-8c95-fe4aed24afcc",
+    "image_url": "https://image.torob.com/base/images/pR/CC/pRCCDSqgT0xBSzVa.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه MT3029 KICK BOXING MUAYTHAI SHORT SHORTS Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "KICK BOXING MUAYTHAI SHORT SHORTS"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Dragondo"
+        ]
+      }
+    ],
+    "random_key": "396c1310-9686-45e8-8723-194c4a236191",
+    "image_url": "https://image.torob.com/base/images/Ec/bB/EcbBxNCm6QTj-KoS.jpg"
+  },
+  {
+    "title": "شورت بوکس VENUM | مشکی نارنجی",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "VENUM"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "474e2d75-4505-4649-8835-236ab9a9223d",
+    "image_url": "https://image.torob.com/base/images/_Y/vw/_YvwZUYf-jAhELnR.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس آبی شورت های ورزشکار whiteface",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "whiteface"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشکار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "51b9ec2b-6dcd-486a-bb46-b0e5ab056c1a",
+    "image_url": "https://image.torob.com/base/images/Iy/PA/IyPAAidxLy9rBSc9.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "66cf1ac1-0638-4fe0-94bd-574355eaec26",
+    "image_url": "https://image.torob.com/base/images/cn/ba/cnbagHoENYhAMXuY.jpg"
+  },
+  {
+    "title": "شورت و رکابی موی تایRDX",
+    "group": "نامشخص",
+    "product": "شورت و رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت و رکابی موی تای"
+        ]
+      }
+    ],
+    "random_key": "90ef51c5-2f5f-4655-9e7a-dd084ae208a3",
+    "image_url": "https://image.torob.com/base/images/ig/5t/ig5tkVhyqZcXuNs2.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای فرتکس",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "فرتکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "10563e5f-f6b0-46d2-a620-027d7519d15d",
+    "image_url": "https://image.torob.com/base/images/S1/Ea/S1EasIuOUGwUI04-.jpg"
+  },
+  {
+    "title": "شورت بوکس ایتاما جنس در حد اورجینال درخصوص سایز گفتگو کنید",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ایتاما"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "2733d09f-da84-4494-9908-767db09df14d",
+    "image_url": "https://image.torob.com/base/images/YS/2L/YS2LStLPupvKe-wE.jpg"
+  },
+  {
+    "title": "شورت آدیداس مردانه و زنانه بوکس و سایر رشته های رزمی های کپی پاکستان",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "های کپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "7346fbec-222c-4d65-a7bf-089467938a3f",
+    "image_url": "https://image.torob.com/base/images/in/qV/inqVFFzuh0y9qcjy.jpg"
+  },
+  {
+    "title": "شورت کوتاه MMA برای تمرین و کیک بوکسینگ THE WHITE SHOP BOXING FURY - شورت رزمی BJJ، بوکس، گریپلینگ و رزمی برای هنرهای رزمی، کیج فایت، موی تای - ارسال 20 روز کاری",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کوتاه MMA",
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تمرین"
+        ]
+      }
+    ],
+    "random_key": "98abca26-f541-4764-bed9-06f1c9927160",
+    "image_url": "https://image.torob.com/base/images/--/aK/--aKWCUIN2h9JRR3.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه یکپارچهسازی با سیستمعامل MUAY THAI SHORT MT 3075 Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Dragondo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "b58b495f-fbc8-4138-b3d8-75121174d5aa",
+    "image_url": "https://image.torob.com/base/images/EL/4m/EL4mxAGcUs23N8bi.jpg"
+  },
+  {
+    "title": "شورت موی تای Tiger",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tiger"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "c8597b9a-7b74-4d8a-a502-de095f2134c8",
+    "image_url": "https://image.torob.com/base/images/vV/fu/vVfuydFkg3TG-b6l.jpg"
+  },
+  {
+    "title": "لباس کیک بوکس ستاره دار",
+    "group": "نامشخص",
+    "product": "لباس کیک بوکس",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "7d089977-fd31-49b8-a13b-ed8b4f608522",
+    "image_url": "https://image.torob.com/base/images/iG/di/iGdirpCCj3gMVssw.jpg"
+  },
+  {
+    "title": "شورت رزمی YOKKAO مدل GANGESTER| سبز",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "YOKKAO"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      }
+    ],
+    "random_key": "785d1b18-071d-42a3-ac6f-f1fad75951f9",
+    "image_url": "https://image.torob.com/base/images/A5/Pz/A5PzwpIM-s5h8W9B.jpg"
+  },
+  {
+    "title": "شورت بوکس سفید مردانه و زنانه تنظیمات کوتاه سیلیکون کیک بوکسینگ مجموعه سه گانه 3.5 متر REMEGE",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنظیمات کوتاه سیلیکون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "7a877038-a305-423d-a947-0853850f50a5",
+    "image_url": "https://image.torob.com/base/images/OK/gH/OKgHOA6ZkyKcxjC1.jpg"
+  },
+  {
+    "title": "ست ورزشی مردانه TB013 طرح بوکس",
+    "group": "مردانه",
+    "product": "ست ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح بوکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست ورزشی"
+        ]
+      }
+    ],
+    "random_key": "1c6ecd86-be77-49e5-b96a-3cec31ba1775",
+    "image_url": "https://image.torob.com/base/images/0J/ax/0Jax6b8sn5bnaWns.jpg"
+  },
+  {
+    "title": "رکابی بوکس آر دی ایکس RDX کد VM789",
+    "group": "نامشخص",
+    "product": "رکابی بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بوکس"
+        ]
+      }
+    ],
+    "random_key": "dbc43556-8402-4c46-a367-e49b02a2898f",
+    "image_url": "https://image.torob.com/base/images/mz/N6/mzN6B8pg2KNs2nNe.jpg"
+  },
+  {
+    "title": "BANKTM شورت بوکس ساتن مردانه هنرهای رزمی کیک بوکسینگ MMA Fighting - ارسال 20 روز کاری",
+    "group": "مردانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "BANKTM"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "کیک بوکسینگ MMA Fighting"
+        ]
+      }
+    ],
+    "random_key": "f945efd9-d76a-45e5-b128-ed4a037981b4",
+    "image_url": "https://image.torob.com/base/images/wM/4r/wM4rvr-cNhgEcUl_.jpg"
+  },
+  {
+    "title": "شورت MMA مبارزه RDX",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مبارزه"
+        ]
+      }
+    ],
+    "random_key": "46cbfd4e-0a65-4722-b333-fa1fd83425fb",
+    "image_url": "https://image.torob.com/base/images/fp/sl/fpsldfJKRQZwJk8v.jpg"
+  },
+  {
+    "title": "توف اسپورت شورت موی تای شورت بوکس سبک های سنتی شورت تمرینی MMA لباس کیک بوکسینگ - ارسال 20 روز کاری",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "توف اسپورت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای",
+          "شورت بوکس",
+          "شورت تمرینی MMA",
+          "لباس کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "سنتی"
+        ]
+      }
+    ],
+    "random_key": "88c2a803-8a05-4a56-8da3-a10d7769b60d",
+    "image_url": "https://image.torob.com/base/images/II/9z/II9zsqTb3DKY9x0e.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس مارک TWINS PAYAK",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "TWINS PAYAK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "7603f059-69ab-4c6b-ad8e-6d3a31ab4539",
+    "image_url": "https://image.torob.com/base/images/H0/WY/H0WYHX6zt2o_mxLp.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس سفید NameBTT02 ورزشکار اورجینال adidas",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "759d790c-932b-47a4-b6b2-d0d59501c5b6",
+    "image_url": "https://image.torob.com/base/images/oK/2f/oK2fdRYyywh3ZFcI.jpg"
+  },
+  {
+    "title": "شورت موی تای RAJA | طرح هاوایی",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RAJA"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هاوایی"
+        ]
+      }
+    ],
+    "random_key": "2e8bc8a3-b117-47aa-911e-d18832e54667",
+    "image_url": "https://image.torob.com/base/images/ll/tP/lltP3d-NnJZFlCcX.jpg"
+  },
+  {
+    "title": "ست لباس و شورت رزمی بوکس اعلا",
+    "group": "نامشخص",
+    "product": "ست لباس رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست لباس و شورت رزمی بوکس"
+        ]
+      }
+    ],
+    "random_key": "8f1b506f-1fb6-4e1e-9d30-67be1d75e9b9",
+    "image_url": "https://image.torob.com/base/images/7d/bX/7dbXgZbunIp_8zfi.jpg"
+  },
+  {
+    "title": "شنل MMA لباس مخصوص ام ام ای ورودی مسابقات انواع شنل بوکس سفارشی لطفا گفتگو کنید",
+    "group": "نامشخص",
+    "product": "شنل",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شنل MMA",
+          "شنل بوکس"
+        ]
+      }
+    ],
+    "random_key": "1cf40ab7-692b-4fd5-9946-7fb40f670d6d",
+    "image_url": "https://image.torob.com/base/images/B1/Bu/B1BuhiOSXiAqa25I.jpg"
+  },
+  {
+    "title": "شورت رزمی Lumpinee",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Lumpinee"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      }
+    ],
+    "random_key": "35c5bd09-1099-4abf-8649-69c84b031588",
+    "image_url": "https://image.torob.com/base/images/bU/4Z/bU4ZMQ16LBn-s8f5.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس RDX - قرمز / 4XL",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک بوکس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4XL"
+        ]
+      }
+    ],
+    "random_key": "8ba50bad-4277-4b77-8fc2-15efb654e31c",
+    "image_url": "https://image.torob.com/base/images/tF/r2/tFr2Dj06PtxgzZ13.jpg"
+  },
+  {
+    "title": "سامورایی MMA شورت مردانه مبارزه با شورت برای مبارزه با BJJ موی تای بوکس با بند کشی",
+    "group": "مردانه",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سامورایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA",
+          "شورت بوکس",
+          "شورت BJJ",
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مبارزه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با بند کشی"
+        ]
+      }
+    ],
+    "random_key": "50489482-4a26-49c5-ab27-57721206d6d7",
+    "image_url": "https://image.torob.com/base/images/cj/Si/cjSi_-SPMbb6lGOO.jpg"
+  },
+  {
+    "title": "ست تاپ و شلوارک نایک",
+    "group": "نامشخص",
+    "product": "ست تاپ و شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تاپ و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "c37fe3d8-3d4f-44ae-89e3-bff9feb3f257",
+    "image_url": "https://image.torob.com/base/images/QU/Dn/QUDnSQYwdWv0trYm.jpg"
+  },
+  {
+    "title": "شورت MMA مبارزه DRAGON",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "DRAGON"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مبارزه"
+        ]
+      }
+    ],
+    "random_key": "e372cec8-57e2-4f3a-b809-066e2489e001",
+    "image_url": "https://image.torob.com/base/images/8C/Eo/8CEoeHhZC53V8x24.jpg"
+  },
+  {
+    "title": "شورت MMA ونوم طرح اسپایدر",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسپایدر"
+        ]
+      }
+    ],
+    "random_key": "05a6020d-2cc7-4b92-b86a-ac3b63b6e5b9",
+    "image_url": "https://image.torob.com/base/images/vI/_A/vI_AbHl6l2PyxGiG.jpg"
+  },
+  {
+    "title": "Dragondo شورت های زنانه و یکپارچهسازی با سیستمعامل Muay Thai Shorts MT3075 M اندازه",
+    "group": "زنانه",
+    "product": "شورت Muay Thai",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Dragondo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت Muay Thai"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      }
+    ],
+    "random_key": "c3833eaf-ebe4-4484-9300-fe324e372977",
+    "image_url": "https://image.torob.com/base/images/gb/9r/gb9rorpe3M8yRvHf.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک بوکس"
+        ]
+      }
+    ],
+    "random_key": "e6546dc8-f69f-42ba-aef2-60c4161f7f9b",
+    "image_url": "https://image.torob.com/base/images/CA/HC/CAHChfKJHYEcmXmV.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه DRAGON MT3012 MUAY THAI SHORTS AND T SHIRT 2 مجموعه MUAYTHAI Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "DRAGON",
+          "Dragondo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "شورت موی تای",
+          "تی شرت موی تای"
+        ]
+      }
+    ],
+    "random_key": "f8d58386-13ff-4f99-af9f-aac938061ab2",
+    "image_url": "https://image.torob.com/base/images/3c/uf/3cufS78pQ1h-5SOm.jpg"
+  },
+  {
+    "title": "شورت بوکس قرمز مردانه و زنانه تنظیمات کوتاه سیلیکون کیک بوکسینگ مجموعه سه گانه 3.5 متر REMEGE",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "تنظیمات سیلیکون"
+        ]
+      }
+    ],
+    "random_key": "1145831c-4328-4b8d-aaf2-4d3491a7b6d4",
+    "image_url": "https://image.torob.com/base/images/9H/wD/9HwDCl2fdkfyMhy-.jpg"
+  },
+  {
+    "title": "شورت و رکابی بوکس RDX",
+    "group": "نامشخص",
+    "product": "شورت و رکابی بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت و رکابی بوکس"
+        ]
+      }
+    ],
+    "random_key": "2e77f6de-7640-4423-b1ad-59719a2f38cc",
+    "image_url": "https://image.torob.com/base/images/Je/4l/Je4lTe16aIBKq9Ei.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس ونوم",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "00cae2ce-08d7-48e1-b43c-04fa89e3d984",
+    "image_url": "https://image.torob.com/base/images/m4/8F/m48FJIjIILtWVYAc.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای (طرح سامورایی)",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح سامورایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "39d9dec8-64de-4e47-a792-a3b71201c46c",
+    "image_url": "https://image.torob.com/base/images/Su/ED/SuEDTSpFes5F5Dlr.jpg"
+  },
+  {
+    "title": "شورت مردانه بوکس adidas - قرمز / XL",
+    "group": "مردانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "XL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "31daf2e2-5b46-4fdd-833c-827232e5cac9",
+    "image_url": "https://image.torob.com/base/images/RE/mb/REmbPRgZhzf0ruLF.jpg"
+  },
+  {
+    "title": "شورت رزمی مویتای TWINS",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "TWINS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت مویتای"
+        ]
+      }
+    ],
+    "random_key": "f2374dbe-7c59-47e2-b8aa-30f1c7144370",
+    "image_url": "https://image.torob.com/base/images/VK/Xz/VKXzA3FHMygJbWk1.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس قرمز شورت Light Adikbl1 اورجینال adidas",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "Light"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "248c1ba4-06c8-4df2-90f6-547519225e83",
+    "image_url": "https://image.torob.com/base/images/Xc/Ej/XcEjkV7S8-JAqjmT.jpg"
+  },
+  {
+    "title": "شورت بوکس خیلی بلند",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "قد شورت",
+        "values": [
+          "خیلی بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "18752d33-733c-4672-8009-6f055dcb1873",
+    "image_url": "https://image.torob.com/base/images/6F/cY/6FcYJYPZg2yUrWUG.jpg"
+  },
+  {
+    "title": "ست تاپ و شلوارک ورزشی مردانه آر دی ایکس مدل بوکس BOX RE RD - آبی / M",
+    "group": "مردانه",
+    "product": "ست تاپ و شلوارک ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تاپ و شلوارک ورزشی بوکس"
+        ]
+      }
+    ],
+    "random_key": "aa39e217-08ed-4edc-a54c-7c8dbfc54bfb",
+    "image_url": "https://image.torob.com/base/images/KQ/ql/KQqlVY3HPCIC2ayV.jpg"
+  },
+  {
+    "title": "شورت رزمی MMA | مشکی سبز",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "f7b81238-d930-45a3-8522-5fae7156eb2e",
+    "image_url": "https://image.torob.com/base/images/Nc/hH/NchHJDNDNqYJTJTQ.jpg"
+  },
+  {
+    "title": "شورت بوکس ایرانی",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ایرانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "31261d1a-2531-4b99-a617-98dd3651221a",
+    "image_url": "https://image.torob.com/base/images/I1/xU/I1xUWL4-afo_3Kby.jpg"
+  },
+  {
+    "title": "شورت رزمی توکیو اژدها دو رنگ (جلو قرمز، پشت آبی)",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توکیو اژدها"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      }
+    ],
+    "random_key": "30de1311-e53d-4d65-9f9e-6e332fc85036",
+    "image_url": "https://image.torob.com/base/images/0M/ZT/0MZTOLsOAjfG6YsV.jpg"
+  },
+  {
+    "title": "شورت بوکس دورو قرمز آبی",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دو رو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "fec131c3-c5ca-416a-b50d-5ca3025bf17a",
+    "image_url": "https://image.torob.com/base/images/lZ/a6/lZa6Wz3UDevhq0ri.jpg"
+  },
+  {
+    "title": "شورت بوکس رایس ، شورت مویتای رایس، شورت کیک بوکسینگ رایس، پارچه ساتن آمریکایی برای سایز گفتگو کنید",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رایس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن آمریکایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "شورت مویتای",
+          "شورت کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "14efc7ab-8dc0-4087-be58-73af366af64d",
+    "image_url": "https://image.torob.com/base/images/UM/TP/UMTPUM6Wcej1fG77.jpg"
+  },
+  {
+    "title": "شورت بوکس مویتایی پاکستانی",
+    "group": "نامشخص",
+    "product": "شورت بوکس مویتایی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "پاکستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس مویتایی"
+        ]
+      }
+    ],
+    "random_key": "bb1429bb-918c-407e-a9be-322a3d9dda96",
+    "image_url": "https://image.torob.com/base/images/jF/BL/jFBLIurdvcz6F0tT.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس RDX - مشکی / 3XL",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3XL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک بوکس"
+        ]
+      }
+    ],
+    "random_key": "4b9db1e7-8d97-4f1c-978b-0bb2af082c3c",
+    "image_url": "https://image.torob.com/base/images/UI/5T/UI5TNhaDHnInbYKQ.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس آبی Namewakost1 Wako تأیید کرد که ورزشکار آدیداس adidas",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Namewakost1",
+          "Wako",
+          "adidas"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "تأیید شد"
+        ]
+      }
+    ],
+    "random_key": "2d8cbff2-bcf2-403b-bd58-6ffbcfaa132e",
+    "image_url": "https://image.torob.com/base/images/DG/zr/DGzrqrRrFaVxdf9t.jpg"
+  },
+  {
+    "title": "شورت رزمی Venum مدل Bangkok",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Venum"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "Bangkok"
+        ]
+      }
+    ],
+    "random_key": "908a0cd2-6e23-4d48-97fe-42c66daa4405",
+    "image_url": "https://image.torob.com/base/images/le/Rt/leRt4gG0CR502PrL.jpg"
+  },
+  {
+    "title": "شورت بوکس،قابل اجرا در هر طرح و رنگی، شورت کیک بوکسینگ، شورت موی تای",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "شورت کیک بوکسینگ",
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قابل اجرا در هر طرح و رنگی"
+        ]
+      }
+    ],
+    "random_key": "0fcf52f6-d442-4280-b4db-aac83beaf1f8",
+    "image_url": "https://image.torob.com/base/images/TP/jN/TPjNNWlDxDEGjVq2.jpg"
+  },
+  {
+    "title": "شورت رزمی اورجینال خارجی MMA مارک RDX با جای کاپ",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با جای کاپ"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال",
+          "خارجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی MMA"
+        ]
+      }
+    ],
+    "random_key": "4a5e243b-ab01-4752-8f37-ada71aa27c5a",
+    "image_url": "https://image.torob.com/base/images/ef/3M/ef3MY8_4CxTeRbh0.jpg"
+  },
+  {
+    "title": "شورت بوکس VENUM | مشکی نقره ای",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "VENUM"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "9f98180e-40f5-4ee3-be9c-9aaec041f16f",
+    "image_url": "https://image.torob.com/base/images/hz/X9/hzX9Sr9xK1ZhhI8u.jpg"
+  },
+  {
+    "title": "شورت موی تای FBT",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "FBT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "7ae95e24-ca8b-44c0-9ab2-086c342e5b64",
+    "image_url": "https://image.torob.com/base/images/9b/XC/9bXC-J7n1YLCttJH.jpg"
+  },
+  {
+    "title": "رکابی شورت کیک بوکسینگ",
+    "group": "نامشخص",
+    "product": "رکابی شورت کیک بوکسینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی شورت کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "2c20f711-fca6-4174-bbfa-b00ea338f0d4",
+    "image_url": "https://image.torob.com/base/images/X4/QX/X4QXaplfVQTQ1fcT.webp"
+  },
+  {
+    "title": "لباس کیک بوکسینگ قرمز ستاره دار",
+    "group": "نامشخص",
+    "product": "لباس کیک بوکسینگ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "7c9edf0c-0633-4b8d-a310-d88bff3e3f89",
+    "image_url": "https://image.torob.com/base/images/Gy/P9/GyP9AL0YP5kp1_EX.jpg"
+  },
+  {
+    "title": "شورت MMA شطرنجی RDX",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شطرنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "2dba9a24-7648-43d1-aa15-445cca26a845",
+    "image_url": "https://image.torob.com/base/images/gP/nY/gPnY7tXslkqO2QQj.jpg"
+  },
+  {
+    "title": "شورت MMA طرح مار کبری Venum",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Venum"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مار کبری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "86d23160-6274-46cc-9d9a-0e1bf8e2c278",
+    "image_url": "https://image.torob.com/base/images/Vu/Vm/VuVmNNmZvqVgLbwR.jpg"
+  },
+  {
+    "title": "شورت MMA استرج طرح X5",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "استرج"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "X5"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "c3bbc8d5-d23e-4f76-ba9b-27ffc90a0967",
+    "image_url": "https://image.torob.com/base/images/oj/nM/ojnMP2KfPD0oZv5J.jpg"
+  },
+  {
+    "title": "شورت موی تای ELEPHANT مدل ORANGE",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ELEPHANT"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ORANGE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "ORANGE"
+        ]
+      }
+    ],
+    "random_key": "1688591d-6312-45a3-8898-02a130550ff4",
+    "image_url": "https://image.torob.com/base/images/VC/xS/VCxSP5iMvjgw0BMN.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس قرمز 1701 شوت دوزی شده Pars",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Pars"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شوت دوزی شده"
+        ]
+      }
+    ],
+    "random_key": "d3cdafd9-2d3f-488f-bd0d-5ba83bf3979c",
+    "image_url": "https://image.torob.com/base/images/p-/K6/p-K6YGnk4wlZZvkn.jpg"
+  },
+  {
+    "title": "شورت رزمی Venum مدل Bangkok",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Venum"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "Bangkok"
+        ]
+      }
+    ],
+    "random_key": "24e34a82-2dc6-4c63-bd37-96a0d0711739",
+    "image_url": "https://image.torob.com/base/images/GV/4z/GV4zMt_MhRV3Ot1o.jpg"
+  },
+  {
+    "title": "شورت موی تای SIAMKICK یکپارچهسازی با سیستمعامل مردانه زنان بوکس کیک بوکسینگ کلاس بالا MMA آموزش لباس رزم تنه تمرین - ارسال 20 روز کاری",
+    "group": "مردانه, زنان",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنان"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "یکپارچهسازی با سیستمعامل",
+          "کلاس بالا"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "آموزش",
+          "تمرین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای",
+          "تنه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SIAMKICK"
+        ]
+      }
+    ],
+    "random_key": "3c853205-2500-4ae5-a959-ce3060e96e67",
+    "image_url": "https://image.torob.com/base/images/sJ/9Y/sJ9Y8gZItQ71J1L7.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس قزاقی",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "cc48c5e8-831d-4fd0-8673-5974501ddf15",
+    "image_url": "https://image.torob.com/base/images/cw/e-/cwe-9-VPwxnndnBl.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک کیک بوکسینگ مشکی",
+    "group": "نامشخص",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "f5ffcf72-af3b-4e7e-8fb9-48742c56ca1e",
+    "image_url": "https://image.torob.com/base/images/0W/BU/0WBUILdojZ5D-sPv.jpg"
+  },
+  {
+    "title": "شورت بوکس VERTEX",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "VERTEX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "d53f9704-5f72-47ff-a19b-15970ebc2da3",
+    "image_url": "https://image.torob.com/base/images/X4/X6/X4X6E2V2q6m7_nll.jpg"
+  },
+  {
+    "title": "شورت بوکس سفید مردانه و زنانه KICK T اورجینال Remege Spor Malzemeleri",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KICK T",
+          "Remege Spor Malzemeleri"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "62c8144b-1a52-4533-a119-2237eea780cf",
+    "image_url": "https://image.torob.com/base/images/9l/0W/9l0W9mJV2dH2O86V.jpg"
+  },
+  {
+    "title": "ست تاپ و شلوارک ورزشی مردانه مدل KIK L 1403",
+    "group": "مردانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تاپ و شلوارک ورزشی"
+        ]
+      }
+    ],
+    "random_key": "56675033-2e3e-41d8-914d-03fba2cd9147",
+    "image_url": "https://image.torob.com/base/images/Cr/6v/Cr6vIo588J3aMwiS.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس RDX",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک مردانه بوکس"
+        ]
+      }
+    ],
+    "random_key": "47d523d7-361d-4a3d-88fb-ddb992710079",
+    "image_url": "https://image.torob.com/base/images/Re/6Y/Re6Y_q5c4HTl855n.jpg"
+  },
+  {
+    "title": "شورت موی تای تایلندی ARM",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای تایلندی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ARM"
+        ]
+      }
+    ],
+    "random_key": "741b0507-ad05-481d-8b36-6bce14a45f0c",
+    "image_url": "https://image.torob.com/base/images/qS/Ua/qSUadlhzxGbQ4AeL.jpg"
+  },
+  {
+    "title": "شورت MMA مبارزه RDX مدل R11",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA مبارزه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      }
+    ],
+    "random_key": "4b991f7e-fa75-489f-843a-5c0682eb90f3",
+    "image_url": "https://image.torob.com/base/images/M7/yp/M7ypOn6viB4WLUYQ.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه KB245 KICK BOXING TRAINING کوتاه دیجیتال طرح دار Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "KICK BOXING TRAINING"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دیجیتال",
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Dragondo"
+        ]
+      }
+    ],
+    "random_key": "98967db8-a8ee-4a08-9cb2-abec35da0343",
+    "image_url": "https://image.torob.com/base/images/DC/jX/DCjX5zFFvOF2m2H2.jpg"
+  },
+  {
+    "title": "شرت بوکس و کیک بوکسینگ طرح جذاب ، امکان تغییر رنگ و مارکهای وجود دارد برای سایز و هماهنگی مشخصات حتما گفتگو کنید",
+    "group": "نامشخص",
+    "product": "شرت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس و کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح جذاب"
+        ]
+      }
+    ],
+    "random_key": "242b22ec-77c0-4326-9a1d-c2dc481a0548",
+    "image_url": "https://image.torob.com/base/images/OX/jH/OXjHXgV-9X8qvJH5.jpg"
+  },
+  {
+    "title": "شورت رزمی Venum مدل Camo",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Venum"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Camo"
+        ]
+      }
+    ],
+    "random_key": "f4ef857c-03e7-4af7-aa69-6a838fc7c000",
+    "image_url": "https://image.torob.com/base/images/i8/SE/i8SEHu9aA6ItiJdg.jpg"
+  },
+  {
+    "title": "شورت رزمی",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      }
+    ],
+    "random_key": "06e5415f-d6dd-4611-907e-a1d2a75ec218",
+    "image_url": "https://image.torob.com/base/images/JI/It/JIItrlOPjqKYRo_R.jpg"
+  },
+  {
+    "title": "شورت موی تای RISE",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "RISE"
+        ]
+      }
+    ],
+    "random_key": "0eeea08d-6e3a-410e-a09e-71d02c2d3b21",
+    "image_url": "https://image.torob.com/base/images/-g/9o/-g9ov5roHEctGI7A.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای تایگر",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس/موی تای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تایگر"
+        ]
+      }
+    ],
+    "random_key": "6a20d4f9-ee3d-490f-8d1a-3217333cc918",
+    "image_url": "https://image.torob.com/base/images/Um/vq/UmvqjmgdFWdqoaQX.jpg"
+  },
+  {
+    "title": "شورت بوکس رایس ، شورت مویتای رایس، شورت کیک بوکسینگ رایس، رنگ مشکی پارچه ساتن آمریکایی برای سایز گفتگو کنید",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رایس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "شورت مویتای",
+          "شورت کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن آمریکایی"
+        ]
+      }
+    ],
+    "random_key": "bc1a8767-57d7-46b3-87ce-76a90129d4c8",
+    "image_url": "https://image.torob.com/base/images/eW/gR/eWgR4_EzAsxyXLKU.jpg"
+  },
+  {
+    "title": "شورت موی تای VENUM",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "VENUM"
+        ]
+      }
+    ],
+    "random_key": "faeaf6ec-3f5a-4b59-a8f6-50944fbd7669",
+    "image_url": "https://image.torob.com/base/images/M-/1F/M-1FnU2AoylQeDlr.jpg"
+  },
+  {
+    "title": "شورت بوکس سفارش چاپ اسم روی کمر شورت بوکس",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "55b12001-3782-4b5c-bb5c-b8fb0b960cfb",
+    "image_url": "https://image.torob.com/base/images/0I/zn/0Izn0VZNTX128DVy.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک کیک بوکسینگ قرمز",
+    "group": "نامشخص",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "faeb8231-03cf-49d1-855f-c508d23e7d81",
+    "image_url": "https://image.torob.com/base/images/59/Sv/59SvFkB8wPh1WdeJ.jpg"
+  },
+  {
+    "title": "آموزش موی تای شورت کیک بوکسینگ ساتن طلای مشکی کوتاه ببر دوزی",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلای",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ببر دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "99bb4f6b-502e-4c1d-80fd-d95a61e3de7b",
+    "image_url": "https://image.torob.com/base/images/cR/9q/cR9qhfVRudfouFtk.jpg"
+  },
+  {
+    "title": "ست مردانه تاپ قهرمانی و شلوارک BOXING کد 51024 تکی",
+    "group": "مردانه",
+    "product": "ست تاپ و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست مردانه تاپ قهرمانی و شلوارک BOXING"
+        ]
+      }
+    ],
+    "random_key": "bbcd3375-d64a-4a6e-bfd8-9b27ed18eb3a",
+    "image_url": "https://image.torob.com/base/images/vN/sE/vNsECAPRNrUVmysz.jpg"
+  },
+  {
+    "title": "رکابی شورت بوکس:مشکی S",
+    "group": "نامشخص",
+    "product": "رکابی شورت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "f744f666-686f-4fde-997f-4ce26f9c7008",
+    "image_url": "https://image.torob.com/base/images/l9/KH/l9KHlS_Hk6AQdBKh.jpg"
+  },
+  {
+    "title": "رکابی شورت کیک بوکس (بوکس تمرینات مسابقات)",
+    "group": "نامشخص",
+    "product": "رکابی شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی شورت کیک بوکس (بوکس تمرینات مسابقات)"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تمرینات",
+          "مسابقات"
+        ]
+      }
+    ],
+    "random_key": "d81b28d2-bfbc-4551-8402-a7176f85f3bc",
+    "image_url": "https://image.torob.com/base/images/yO/qk/yOqkEoLLFm4yG-u1.jpg"
+  },
+  {
+    "title": "شورت و رکابی بوکس طرح RDX",
+    "group": "نامشخص",
+    "product": "شورت و رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت و رکابی بوکس"
+        ]
+      }
+    ],
+    "random_key": "88ff6245-5002-462c-b20b-5c43c60fb80c",
+    "image_url": "https://image.torob.com/base/images/d_/6J/d_6J72__VXy-mSnd.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس اورجینال fairtex",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "fairtex"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "a60a1840-bba8-4ecd-a168-b44fa6fb686a",
+    "image_url": "https://image.torob.com/base/images/zg/Zy/zgZyejcxTlRSIw9O.jpg"
+  },
+  {
+    "title": "شورت ورزشی مردانه بوکس adidas - مشکی / L",
+    "group": "مردانه",
+    "product": "شورت ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت ورزشی مردانه بوکس"
+        ]
+      }
+    ],
+    "random_key": "a3afd663-4f7e-4ab2-b35c-0e5ca0c6d779",
+    "image_url": "https://image.torob.com/base/images/bX/QS/bXQSBEtKjZqszsjO.jpg"
+  },
+  {
+    "title": "شورت باکسینگ حرفه‌ای Ringside Pro-Style برای مردان و زنان، مناسب باکس، MMA، موای تای، کیک‌باکسینگ، رقابت، تمرین و ورزش، تجهیزات باکسینگ، رنگ سیاه، سایز بزرگ",
+    "group": "مردان و زنان",
+    "product": "شورت باکسینگ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردان",
+          "زنان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت باکسینگ حرفه ای Ringside Pro-Style"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "رقابت",
+          "تمرین",
+          "ورزش"
+        ]
+      }
+    ],
+    "random_key": "fd4b491c-5d99-45de-8d73-c5a34466eb8a",
+    "image_url": "https://image.torob.com/base/images/a4/PZ/a4PZ-aTEjIybggv8.jpg"
+  },
+  {
+    "title": "شورت موی تای twins GRAM",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "twins"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "a632573e-62ec-4353-b2a3-5dacdb96eced",
+    "image_url": "https://image.torob.com/base/images/nr/WF/nrWFjoqLXLrhoRxC.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      }
+    ],
+    "random_key": "0c08e025-edca-4587-b5e1-3a1149f73bc4",
+    "image_url": "https://image.torob.com/base/images/F6/IH/F6IHzInBRGo_TKwT.jpg"
+  },
+  {
+    "title": "ست رکابی شورت کیک بوکسینگ",
+    "group": "نامشخص",
+    "product": "ست رکابی شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی شورت کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "3b99b6c0-d2ea-4f65-8e8b-f5c7382e7601",
+    "image_url": "https://image.torob.com/base/images/dD/Fx/dDFxLtaBN1c8l2qV.jpg"
+  },
+  {
+    "title": "شورت MMA ونوم طرح Light 3",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "e4b24099-ef00-456d-b99c-b9d3e1367702",
+    "image_url": "https://image.torob.com/base/images/5A/d4/5Ad43-gQlMS3vLPS.jpg"
+  },
+  {
+    "title": "تیشرت موی تای طرح Golden Mitt",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت موی تای"
+        ]
+      }
+    ],
+    "random_key": "129cfdf9-6a58-4dd7-b9c2-71fb4b9d2a67",
+    "image_url": "https://image.torob.com/base/images/V3/-T/V3-Ti9vSKq4KuOdO.jpg"
+  },
+  {
+    "title": "ست رکابی شورت کیک بوکس",
+    "group": "نامشخص",
+    "product": "ست رکابی شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "9b7abe67-850d-4ecb-833d-d72ccb3349f8",
+    "image_url": "https://image.torob.com/base/images/gN/qf/gNqfBfu7DOxccoHW.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه TR502 شلوار دو قسمت Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس مردانه و زنانه TR502 شلوار دو قسمت Dragondo"
+        ]
+      }
+    ],
+    "random_key": "b10043f1-3181-4c52-a561-84da5638cb9c",
+    "image_url": "https://image.torob.com/base/images/vI/0h/vI0hWwE1z-AS-UlA.jpg"
+  },
+  {
+    "title": "شورت رزمی Venum مدل Bangkok",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Venum"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "Bangkok"
+        ]
+      }
+    ],
+    "random_key": "a8d3fabc-2a60-4a35-ba91-08a95eba2ca0",
+    "image_url": "https://image.torob.com/base/images/hR/um/hRumMMh9Fk6s_zRT.webp"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس - قرمز / L",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "a8c71c81-7f1b-4c78-80b8-0c319a312f85",
+    "image_url": "https://image.torob.com/base/images/D_/uf/D_uf10jT64U2FQhR.jpg"
+  },
+  {
+    "title": "تیشرت موی تای طرح Thaitattoo",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت موی تای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Thaitattoo"
+        ]
+      }
+    ],
+    "random_key": "8f1567c0-f686-4bfc-8177-ecf9746dfdaf",
+    "image_url": "https://image.torob.com/base/images/gm/1Z/gm1ZjA-x9p-gNHcJ.jpg"
+  },
+  {
+    "title": "شورت بوکس کد 15",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "abf63580-fc19-4893-a6cb-bdc68f9313f8",
+    "image_url": "https://image.torob.com/base/images/dd/8E/dd8ELZ-t5KVAgC5w.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس مارک TWINS PAYAK",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TWINS PAYAK"
+        ]
+      }
+    ],
+    "random_key": "9b7c0d08-74e2-49b7-8d4c-06752cb612e3",
+    "image_url": "https://image.torob.com/base/images/Mb/pv/MbpvKFYtVXp6q-lC.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس ونوم venum",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم",
+          "venum"
+        ]
+      }
+    ],
+    "random_key": "23a2b042-2973-4ff8-a280-bd26395535a6",
+    "image_url": "https://image.torob.com/base/images/eK/oR/eKoRUek7AQnoRq_C.jpg"
+  },
+  {
+    "title": "شورت رزمی YOKKAO مدل FLAME",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "YOKKAO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "FLAME"
+        ]
+      }
+    ],
+    "random_key": "f182ecd8-dd37-4168-a93c-1c0eec338244",
+    "image_url": "https://image.torob.com/base/images/AV/u0/AVu0xpT5MgF0-BGN.jpg"
+  },
+  {
+    "title": "شورت کیک‌ بوکس تایلندی ARM",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس تایلندی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ARM"
+        ]
+      }
+    ],
+    "random_key": "dc3c2e33-0fe3-4357-921f-94d39e74fffc",
+    "image_url": "https://image.torob.com/base/images/r_/XM/r_XMLDSe56LoSQga.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه اژدها MT3011 MUAYTHAI SHORT KICKBOX کوتاه چاپ دیجیتال MUAY THAI Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "MT3011 MUAYTHAI SHORT KICKBOX"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اژدها",
+          "چاپ دیجیتال"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "MUAY THAI Dragondo"
+        ]
+      }
+    ],
+    "random_key": "7558e111-2b5a-4aa5-8fbb-1135c9fb297a",
+    "image_url": "https://image.torob.com/base/images/DF/L6/DFL6NoPLUyNOES2N.jpg"
+  },
+  {
+    "title": "شورت موی تای SIAMKICK یکپارچهسازی با سیستمعامل مردانه زنان بوکس کیک بوکسینگ کلاس بالا MMA آموزش لباس رزم تنه تمرین - ارسال 20 روز کاری",
+    "group": "مردانه زنان",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIAMKICK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای",
+          "کیک بوکسینگ کلاس بالا MMA"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "آموزش لباس رزم تنه تمرین"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "یکپارچهسازی با سیستمعامل"
+        ]
+      }
+    ],
+    "random_key": "314ce808-0302-42a3-867e-9cf9dadc6b60",
+    "image_url": "https://image.torob.com/base/images/Mu/TQ/MuTQkSNREVxUNEHk.jpg"
+  },
+  {
+    "title": "شورت اژدها گراپلینگ شورت مردانه MMA برای لباس های آموزشی موی تای BJJ No Gi",
+    "group": "مردانه",
+    "product": "شورت گراپلینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت اژدها گراپلینگ شورت مردانه MMA"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "لباس های آموزشی موی تای BJJ No Gi"
+        ]
+      }
+    ],
+    "random_key": "e8664d9c-f50f-4505-946d-8ef0e867906d",
+    "image_url": "https://image.torob.com/base/images/Ap/H_/ApH_QSclbmXpAHHb.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس قرمز Adiadas Adibts02 کوتاه آدیداس adidas",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تجهیزات بوکس",
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "Adiadas Adibts02",
+          "adidas"
+        ]
+      }
+    ],
+    "random_key": "18fc1b95-aa1c-4524-bac5-2fae1695232a",
+    "image_url": "https://image.torob.com/base/images/MS/g7/MSg7UTnvFPiG8lSQ.jpg"
+  },
+  {
+    "title": "شورت موی تای SIAMKICK یکپارچهسازی با سیستمعامل مردانه زنان بوکس کیک بوکسینگ کلاس بالا MMA آموزش لباس رزم تنه تمرین - ارسال 20 روز کاری",
+    "group": "مردانه زنان",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIAMKICK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای",
+          "کیک بوکسینگ کلاس بالا MMA"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "آموزش لباس رزم تنه تمرین"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "یکپارچهسازی با سیستمعامل"
+        ]
+      }
+    ],
+    "random_key": "e28970fb-7901-484c-a50c-15a1f9b19312",
+    "image_url": "https://image.torob.com/base/images/B6/py/B6pyT7bIndgSJadl.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس و موی تای TWINS MAZE",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس و موی تای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس و موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TWINS"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "MAZE"
+        ]
+      }
+    ],
+    "random_key": "088539d3-580e-41cf-84ef-719385c4df8a",
+    "image_url": "https://image.torob.com/base/images/sZ/au/sZauOIA7goXTYAJ0.jpg"
+  },
+  {
+    "title": "شورت کیک بوکسینگ",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکسینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "7cea0394-d7fb-4525-8213-0f4832769f68",
+    "image_url": "https://image.torob.com/base/images/Pd/QT/PdQTU5GGfr2Pbt0d.jpg"
+  },
+  {
+    "title": "شورت رزمی HAYABUSA",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "HAYABUSA"
+        ]
+      }
+    ],
+    "random_key": "854a39f9-63ac-49dc-b98b-f857b2bef714",
+    "image_url": "https://image.torob.com/base/images/Vq/dc/VqdcSGa_YkaZ9lPO.jpg"
+  },
+  {
+    "title": "شورت بوکس ونوم دارای رنگ بندی و سایز بندی",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "دارای رنگ بندی و سایز بندی"
+        ]
+      }
+    ],
+    "random_key": "78514765-bd75-4acf-a5a1-401da0e2cf35",
+    "image_url": "https://image.torob.com/base/images/rv/Lm/rvLmVM2hPDYofU77.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "شورت موی تای"
+        ]
+      }
+    ],
+    "random_key": "195a6a3f-188f-4a7a-8e3e-0d2056f3da74",
+    "image_url": "https://image.torob.com/base/images/Aa/89/Aa89ENQ2XNqzqMVG.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس تویینز boxing short twins candy",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تویینز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "63971faf-2d44-4eb4-a368-11cccf1a2930",
+    "image_url": "https://image.torob.com/base/images/5k/w7/5kw7DVF1aA5XAh3y.jpg"
+  },
+  {
+    "title": "شورت بوکس مشکی مردانه و زنانه KICK T اورجینال Remege Spor Malzemeleri",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "f222a2a8-2152-4c00-bae1-5f5d00019687",
+    "image_url": "https://image.torob.com/base/images/3p/0U/3p0UN9GJ_SxzZMfK.jpg"
+  },
+  {
+    "title": "شورت MMA ONE CHAMPION",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ONE CHAMPION"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "99e6c392-528c-49ee-88a1-6c1f313fec98",
+    "image_url": "https://image.torob.com/base/images/QK/3l/QK3l-cKzy_qqG5s_.jpg"
+  },
+  {
+    "title": "ست تاپ و شلوارک ورزشی مردانه مدل ADI.BU.2025 - آبی / S",
+    "group": "مردانه",
+    "product": "ست تاپ و شلوارک ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تاپ و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "ef96043b-eaea-4ea1-84e6-abf37e3cc52e",
+    "image_url": "https://image.torob.com/base/images/ab/rn/abrn4DqoQ__3giL4.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس اورجینال fairtex",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "fairtex"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "61083ec3-ccbd-47ca-bb01-f93ebea240af",
+    "image_url": "https://image.torob.com/base/images/tH/Qj/tHQjOn18LD0tGz2x.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس گرین هیل GREEN HILL مشکی کد VM1074",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گرین هیل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "ccc97319-0b7c-4f2d-b679-b272529bb9d8",
+    "image_url": "https://image.torob.com/base/images/Gz/tA/GztAH6Htfq00rTu4.jpg"
+  },
+  {
+    "title": "شورت MMA ونوم طرح Viking",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "وایکینگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "77c23a98-bd13-472b-91db-da44e23601de",
+    "image_url": "https://image.torob.com/base/images/TT/zw/TTzwsBOy6ypj1Xbh.jpg"
+  },
+  {
+    "title": "شورت موی تای SIAMKICK یکپارچهسازی با سیستمعامل مردانه زنان بوکس کیک بوکسینگ کلاس بالا MMA آموزش لباس رزم تنه تمرین - ارسال 20 روز کاری",
+    "group": "مردانه و زنانه",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIAMKICK"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تمرین"
+        ]
+      }
+    ],
+    "random_key": "ac2fd159-75d5-450f-946b-a2d44d08c040",
+    "image_url": "https://image.torob.com/base/images/k1/s2/k1s2lKYeEvsXSIWC.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس مشکی adikbun100s لگد لباس بالا ، t shirt پیراهن adidas",
+    "group": "نامشخص",
+    "product": "لگد لباس بالا",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "93d265c0-55f7-4f8b-9b37-fd816a68a9bc",
+    "image_url": "https://image.torob.com/base/images/5z/AV/5zAVvOxJgI5eNUTr.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس (آدیداس) - M",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک مردانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "7742cb9b-49a5-4729-8c6c-647f40a10a15",
+    "image_url": "https://image.torob.com/base/images/if/yl/ifylpkTVeO3IXSIz.jpg"
+  },
+  {
+    "title": "رکابی شورت کیک بوکس بسته ۵عددی",
+    "group": "نامشخص",
+    "product": "رکابی شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی شورت کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "c6b14c3a-44af-4827-8105-242a1627e29e",
+    "image_url": "https://image.torob.com/base/images/1_/yJ/1_yJRTevyLLqykKV.jpg"
+  },
+  {
+    "title": "ست بوکس آر دی ایکس RDX قرمز کد VM987",
+    "group": "نامشخص",
+    "product": "ست بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آر دی ایکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست بوکس"
+        ]
+      }
+    ],
+    "random_key": "50675c2e-e719-418f-bd31-bbacbb3d6af6",
+    "image_url": "https://image.torob.com/base/images/i_/GH/i_GHA-KK4jhuzGlz.jpg"
+  },
+  {
+    "title": "شورت MMA ونوم طرح گلادیاتور Venum",
+    "group": "نامشخص",
+    "product": "شورت MMA",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلادیاتور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MMA"
+        ]
+      }
+    ],
+    "random_key": "58d49e82-d4d8-4383-9bdc-e6084d21eb0e",
+    "image_url": "https://image.torob.com/base/images/aX/-b/aX-bFY9EhBC6LAx-.jpg"
+  },
+  {
+    "title": "شورت فرتکس قرمز آبی",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "فرتکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت"
+        ]
+      }
+    ],
+    "random_key": "224bce6b-7912-4e52-a7cc-64e62fc9633c",
+    "image_url": "https://image.torob.com/base/images/wP/Kk/wPKkW55v82lA0AG_.jpg"
+  },
+  {
+    "title": "ست لباس بوکس قزاقی",
+    "group": "نامشخص",
+    "product": "ست لباس بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست لباس بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "قزاقی"
+        ]
+      }
+    ],
+    "random_key": "da5fe653-9a0c-4bad-82bd-7d211612db81",
+    "image_url": "https://image.torob.com/base/images/JO/z7/JOz7DY8FefJgPWDI.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه کیک بوکسینگ",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کیک بوکسینگ"
+        ]
+      }
+    ],
+    "random_key": "c88f5abb-be95-4fe6-a6b2-90a41744b790",
+    "image_url": "https://image.torob.com/base/images/jx/a6/jxa66yaFyp8fy1WJ.jpg"
+  },
+  {
+    "title": "لباس مربی گری کیک بوکس",
+    "group": "نامشخص",
+    "product": "لباس مربی گری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس مربی گری"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "کیک بوکس"
+        ]
+      }
+    ],
+    "random_key": "7816ccf1-ad5c-416e-818d-deb8f242d805",
+    "image_url": "https://image.torob.com/base/images/o8/qU/o8qU2soNiHRePwA7.jpg"
+  },
+  {
+    "title": "ست شنل و شورت بوکس، ست تاپ کلاه دار و شورت بوکس ، شت سویشرت و شورت بوکس، شنل بوکس سفارشی،لطفا برای سایز گفتگو کنید.",
+    "group": "نامشخص",
+    "product": "ست و شنل بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست شنل و شورت بوکس",
+          "ست تاپ کلاه دار و شورت بوکس",
+          "شت سویشرت و شورت بوکس",
+          "شنل بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "سفارشی"
+        ]
+      }
+    ],
+    "random_key": "1f03af7e-858a-44df-b397-4c4e68e83eb1",
+    "image_url": "https://image.torob.com/base/images/rx/iA/rxiAVQ21MyfmcpE0.jpg"
+  },
+  {
+    "title": "ست رکابی و شورت بوکس قزاقی",
+    "group": "نامشخص",
+    "product": "ست رکابی و شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شورت بوکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "قزاقی"
+        ]
+      }
+    ],
+    "random_key": "8dacaa1b-f364-48d4-a51c-95cab5359c3e",
+    "image_url": "https://image.torob.com/base/images/vt/1N/vt1NOCWNT-JPzsDc.jpg"
+  },
+  {
+    "title": "شورت موی تای تایلندی ARM مدل Fight",
+    "group": "نامشخص",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "تایلندی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ARM"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Fight"
+        ]
+      }
+    ],
+    "random_key": "7610bc4d-484a-49b8-bb1c-67c5c804b83c",
+    "image_url": "https://image.torob.com/base/images/cH/XJ/cHXJTQLWx804Gvkk.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای تویینز (طرح آبرنگی)",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس/موی تای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تویینز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آبرنگی"
+        ]
+      }
+    ],
+    "random_key": "0b35b54a-c6fd-4e37-ab02-b442023cbcb2",
+    "image_url": "https://image.torob.com/base/images/_R/QL/_RQLL3osOQ5BJ5po.jpg"
+  },
+  {
+    "title": "شورت رزمی YOKKAO مدل GANGESTER| صورتی",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "YOKKAO"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "GANGESTER"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "576313f1-0f86-43d5-87c9-5a3805266c62",
+    "image_url": "https://image.torob.com/base/images/ya/Qq/yaQqExjol0NUuMhC.jpg"
+  },
+  {
+    "title": "شورت بوکس دوک اسپرت طرح آدیداس Adidas کد VM421",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دوک اسپرت",
+          "آدیداس Adidas"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آدیداس"
+        ]
+      }
+    ],
+    "random_key": "a0861f4c-92ec-4d6d-9186-f230346e9b8d",
+    "image_url": "https://image.torob.com/base/images/cP/1R/cP1RYH8XJgufWymu.jpg"
+  },
+  {
+    "title": "شورت کیک‌ بوکسینگ Takrazm",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکسینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک  بوکسینگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Takrazm"
+        ]
+      }
+    ],
+    "random_key": "70ec8c60-34f6-476e-870d-dcf4a9f233bc",
+    "image_url": "https://image.torob.com/base/images/Z8/N4/Z8N4tgBnSD8kkU1r.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس صورتی شورت های و یکپارچهسازی با سیستمعامل Muay Thai MT3075 Dragondo",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت",
+          "یکپارچهسازی با سیستمعامل Muay Thai"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Dragondo"
+        ]
+      }
+    ],
+    "random_key": "1f1f6d7e-ebae-4e21-8f42-822a06b8e567",
+    "image_url": "https://image.torob.com/base/images/WM/vD/WMvDrNg0H4UoAYAG.jpg"
+  },
+  {
+    "title": "شورت و رکابی موی تای",
+    "group": "نامشخص",
+    "product": "شورت و رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت و رکابی موی تای"
+        ]
+      }
+    ],
+    "random_key": "5706a540-99b9-4aeb-8b62-d3bdeb699dd2",
+    "image_url": "https://image.torob.com/base/images/iy/Uy/iyUyHK8FQG41rXVV.webp"
+  },
+  {
+    "title": "شورت بوکس مردانه یکپارچهسازی با سیستمعامل MUAY THAI SHORT MT 3075 Dragondo",
+    "group": "مردانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "یکپارچهسازی با سیستمعامل MUAY THAI SHORT"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Dragondo"
+        ]
+      }
+    ],
+    "random_key": "7b69d996-9f64-462f-ac51-e0a36b65d886",
+    "image_url": "https://image.torob.com/base/images/f4/co/f4comYQqv91lavj-.jpg"
+  },
+  {
+    "title": "تیشرت بوکس طرح پرچم ایران",
+    "group": "نامشخص",
+    "product": "تیشرت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت بوکس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پرچم ایران"
+        ]
+      }
+    ],
+    "random_key": "32d9c2bd-02b2-452d-a374-d50304e85a42",
+    "image_url": "https://image.torob.com/base/images/eL/ze/eLzeLYwBn5c5_Y_x.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس گرین هیل",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "گرین هیل"
+        ]
+      }
+    ],
+    "random_key": "f05fa06b-4713-4070-ac63-3ec526fcf8e7",
+    "image_url": "https://image.torob.com/base/images/xE/JW/xEJWB-skZ6KAN7Eq.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس مشکی Kickboxing ، Boxing Thai Glinden T Shirt شورت 3.5 متر مجموعه باند By Leon 1982",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "Kickboxing",
+          "Boxing"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "T Shirt",
+          "شورت",
+          "باند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Leon"
+        ]
+      }
+    ],
+    "random_key": "f89fc15f-ce82-4aac-b5ad-33399ee71f40",
+    "image_url": "https://image.torob.com/base/images/li/W4/liW4UoqgzBRtXlct.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای اسکلتی",
+    "group": "نامشخص",
+    "product": "شورت ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "موی تای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسکلتی"
+        ]
+      }
+    ],
+    "random_key": "98cc6224-739b-418e-8ea0-d5575cf63db2",
+    "image_url": "https://image.torob.com/base/images/pz/OS/pzOSJMxt-FUp7RXQ.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم VENUM",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم",
+          "VENUM"
+        ]
+      }
+    ],
+    "random_key": "6b8a8ff5-5f6f-41c5-9fd5-276ee0b2154c",
+    "image_url": "https://image.torob.com/base/images/aS/wN/aSwN0DWjZkocx5z7.jpg"
+  },
+  {
+    "title": "شورت بوکس ROAR MMA هنر رزمی ترکیبی موی تای BJJ گراپلینگ شورت مبارزه ای",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس ROAR MMA",
+          "شورت مبارزه ای"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "هنر رزمی ترکیبی موی تای BJJ گراپلینگ"
+        ]
+      }
+    ],
+    "random_key": "24bc86e4-85d2-4b76-a3f1-4b0807302609",
+    "image_url": "https://image.torob.com/base/images/YH/IR/YHIRsM00tDkYUJD1.jpg"
+  },
+  {
+    "title": "شلوارک رزمی کیک بوکس ونوم",
+    "group": "نامشخص",
+    "product": "شلوارک رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوارک رزمی کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      }
+    ],
+    "random_key": "f6b57214-fa5f-45fb-a6af-f70661f2687f",
+    "image_url": "https://image.torob.com/base/images/Kt/71/Kt71aGuNeF3Es2zY.jpg"
+  },
+  {
+    "title": "شورت UFC",
+    "group": "نامشخص",
+    "product": "شورت ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت UFC"
+        ]
+      }
+    ],
+    "random_key": "e942bbcc-5108-45eb-91ba-aaa0ba013490",
+    "image_url": "https://image.torob.com/base/images/v_/Nm/v_Nm3W2YZhuLJTPl.jpg"
+  },
+  {
+    "title": "رکابی بوکس نخی سوزنی",
+    "group": "نامشخص",
+    "product": "رکابی بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بوکس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی سوزنی"
+        ]
+      }
+    ],
+    "random_key": "8d4ff987-845c-48ca-915c-3e93c4c114b6",
+    "image_url": "https://image.torob.com/base/images/Gi/Zg/GiZg4j73_0rq1az8.jpg"
+  },
+  {
+    "title": "شورت موی تای، سایزبندی دارد ، شورت بوکس، شورت کیک بوکسینگ ، مارک ونوم برای سایز لطفا گفتگو کنید",
+    "group": "نامشخص",
+    "product": "شورت ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای",
+          "شورت بوکس",
+          "شورت کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سایزبندی دارد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      }
+    ],
+    "random_key": "585a51f0-0f2e-4f2e-afbe-435bfeaf64d4",
+    "image_url": "https://image.torob.com/base/images/Jb/L1/JbL1ZyRloX45tDaC.jpg"
+  },
+  {
+    "title": "شورت بوکس ونوم سایز",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز"
+        ]
+      }
+    ],
+    "random_key": "8ccc892e-9d83-4df7-991b-daabdfd5455a",
+    "image_url": "https://image.torob.com/base/images/1i/76/1i76umvu3l9902Xa.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم VENUM کد VM1360",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم",
+          "VENUM"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "کد VM1360"
+        ]
+      }
+    ],
+    "random_key": "2b92e6da-c075-4047-8976-e11e3d8b4695",
+    "image_url": "https://image.torob.com/base/images/Cx/s7/Cxs7RwInTEjalvli.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس Adidas - آبی / S",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Adidas"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      }
+    ],
+    "random_key": "636773cb-5bad-4e0c-b0c6-93ab6a5ef584",
+    "image_url": "https://image.torob.com/base/images/F3/7l/F37lMP_6XBrLXo43.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای فرتکس",
+    "group": "نامشخص",
+    "product": "شورت ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فرتکس"
+        ]
+      }
+    ],
+    "random_key": "cc655312-e0d8-47c8-8fb9-c366ae57a5dc",
+    "image_url": "https://image.torob.com/base/images/h9/fy/h9fyOV3rh4nFFsz1.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه MT3011 MUAYTHAI KICK BOXING SHORT DIGITAL SHORTS کوتاه Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت MT3011 MUAYTHAI KICK BOXING SHORT DIGITAL SHORTS"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Dragondo"
+        ]
+      }
+    ],
+    "random_key": "f26e3da6-7394-4bca-941c-e49891f233c7",
+    "image_url": "https://image.torob.com/base/images/4r/cg/4rcgw8I3dCS5HR7I.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم VENUM",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم",
+          "VENUM"
+        ]
+      }
+    ],
+    "random_key": "91874ead-6363-44d3-b8e8-86ec319bbd47",
+    "image_url": "https://image.torob.com/base/images/1H/qO/1HqOIwqUqo1HZm5r.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس RDX - مشکی / XXL",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "XXL"
+        ]
+      }
+    ],
+    "random_key": "554da6b8-f484-4f42-87be-d654415b8e39",
+    "image_url": "https://image.torob.com/base/images/fF/Id/fFId6zQSfDxQeKDw.jpg"
+  },
+  {
+    "title": "شورت موی تای SIAMKICK یکپارچهسازی با سیستمعامل مردانه زنان بوکس کیک بوکسینگ کلاس بالا MMA آموزش لباس رزم تنه تمرین - ارسال 20 روز کاری",
+    "group": "مردانه و زنان",
+    "product": "شورت موی تای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای SIAMKICK",
+          "تنه تمرین"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "یکپارچهسازی با سیستمعامل",
+          "کلاس بالا MMA",
+          "آموزش لباس رزم"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنان"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تمرین"
+        ]
+      }
+    ],
+    "random_key": "cdf399f8-5955-4fe8-a9a3-1c3b6c51ef43",
+    "image_url": "https://image.torob.com/base/images/Mu/TQ/MuTQkSNREVxUNEHk.jpg"
+  },
+  {
+    "title": "شورت بوکس و شورت کیک بوکسینگ و شورت مویتای عمده و تکی لطفا در مورد رنگ و سایز و خریدهای عمده گفتگو بفرمایید",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "کاره",
+        "values": [
+          "عمده",
+          "تکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "شورت کیک بوکسینگ",
+          "شورت مویتای"
+        ]
+      }
+    ],
+    "random_key": "b16cfdd1-9fc3-4c99-9bc0-99bb1b76a919",
+    "image_url": "https://image.torob.com/base/images/5i/_F/5i_FYx8scUQuJWvg.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس آبی NameBTT02 ورزشکار اورجینال adidas",
+    "group": "ورزشکار",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      }
+    ],
+    "random_key": "dd0edf55-96a7-4f18-a3cd-93063ff4826d",
+    "image_url": "https://image.torob.com/base/images/aB/_r/aB_raekJEBYiACmC.jpg"
+  },
+  {
+    "title": "ست بوکس تمام چاپ طرح RDX",
+    "group": "نامشخص",
+    "product": "ست بوکس",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تمام چاپ طرح RDX"
+        ]
+      }
+    ],
+    "random_key": "cfdd08d0-8005-4dd5-b5f8-407a798fc7b0",
+    "image_url": "https://image.torob.com/base/images/5i/P1/5iP1K5lYVa_Kx9rz.jpg"
+  },
+  {
+    "title": "شورت بوکس",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      }
+    ],
+    "random_key": "90be6f4f-3067-49f6-a39f-3933c4412d4a",
+    "image_url": "https://image.torob.com/base/images/XT/tv/XTtvzLMKRTHmljFb.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس ونوم short boxing venum one",
+    "group": "نامشخص",
+    "product": "شورت کیک بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم",
+          "venum"
+        ]
+      }
+    ],
+    "random_key": "9e55a609-eec1-4c14-b1e0-fe92bbfbdc50",
+    "image_url": "https://image.torob.com/base/images/LI/KA/LIKAKuPna6UUymAe.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس زرد شورت های شرت تایلندی Kickboxing Set shirt Thai T 3.5 متر مجموعه By Leon 1982",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "کشور",
+        "values": [
+          "تایلندی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت Kickboxing",
+          "شرت Thai"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "By Leon"
+        ]
+      }
+    ],
+    "random_key": "43d13533-1ce6-46d9-955f-54fc3ee87b2c",
+    "image_url": "https://image.torob.com/base/images/ex/LK/exLKY3VlsHP7Zmnt.jpg"
+  },
+  {
+    "title": "تاپ ورزشی بوکس طرح KELEY",
+    "group": "نامشخص",
+    "product": "تاپ ورزشی بوکس",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "KELEY"
+        ]
+      }
+    ],
+    "random_key": "2e777c59-131b-49eb-a8d3-dfb78d9b2baf",
+    "image_url": "https://image.torob.com/base/images/nE/Z1/nEZ1NG4Xm6BfcMD4.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [],
+    "random_key": "7c5a414a-fe6e-4dbd-a752-e94006a56a30",
+    "image_url": "https://image.torob.com/base/images/mr/VO/mrVO62y_-YzWlxYR.jpg"
+  },
+  {
+    "title": "لباس بوکس قزاقی{ست بوکس قزاقی}",
+    "group": "نامشخص",
+    "product": "لباس بوکس",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "قزاقی"
+        ]
+      }
+    ],
+    "random_key": "6a6f9ec1-b313-4217-a170-5153b2fc453c",
+    "image_url": "https://image.torob.com/base/images/7V/CS/7VCSTtAbwbU5VUUP.jpg"
+  },
+  {
+    "title": "لباس بوکس آدیداس",
+    "group": "نامشخص",
+    "product": "لباس بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      }
+    ],
+    "random_key": "9b231d17-77b0-490e-8a0d-e24fd091f563",
+    "image_url": "https://image.torob.com/base/images/35/vX/35vXUXfYpZm1QeKP.jpg"
+  },
+  {
+    "title": "شورت بوکس مردانه و زنانه KB240 KICK BOXING کوتاه دیجیتال چاپ آموزش Dragondo",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "KB240 KICK BOXING"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دیجیتال چاپ"
+        ]
+      }
+    ],
+    "random_key": "97ce9da2-6a98-4a57-bf1d-d70af009644f",
+    "image_url": "https://image.torob.com/base/images/1r/Il/1rIlrFxG5BvVod4o.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس RDX آبی - آبی / L",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      }
+    ],
+    "random_key": "3d3c2d89-07a1-4dfe-932a-2fefff1289f5",
+    "image_url": "https://image.torob.com/base/images/9i/QI/9iQI6ilcTfBKZOMs.jpg"
+  },
+  {
+    "title": "شورت رزمی",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [],
+    "random_key": "90894d4d-b2bf-470a-a8a3-dc7f8e1114f1",
+    "image_url": "https://image.torob.com/base/images/Vn/9k/Vn9kswXRk2sKjrI-.jpg"
+  },
+  {
+    "title": "رکابی شورت کیک بوکس",
+    "group": "نامشخص",
+    "product": "رکابی شورت کیک بوکس",
+    "entities": [],
+    "random_key": "fe2dda08-36c6-4d4c-99cb-05e77f482c66",
+    "image_url": "https://image.torob.com/base/images/f-/EW/f-EWUj1tpwDpbOLA.jpg"
+  },
+  {
+    "title": "لباس بوکس",
+    "group": "نامشخص",
+    "product": "لباس بوکس",
+    "entities": [],
+    "random_key": "28d2b916-babe-438f-bf34-c359bae341eb",
+    "image_url": "https://image.torob.com/base/images/oS/oZ/oSoZ6QmvbKht1RvM.jpg"
+  },
+  {
+    "title": "شورت بوکس VENUM | مشکی زرد",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "VENUM"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "زرد"
+        ]
+      }
+    ],
+    "random_key": "56d7d584-258a-4200-99ae-347a06501202",
+    "image_url": "https://image.torob.com/base/images/dV/h3/dVh3jjyFDOOU0KzW.jpg"
+  },
+  {
+    "title": "شورت بوکس موی تای ممتاز مردانه و زنانه تای بوکسینگ شلوار کیک بوکسینگ MMA تنه آموزشی دست ساز تایلند",
+    "group": "مردانه و زنانه",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس موی تای",
+          "شلوار کیک بوکسینگ",
+          "تنه آموزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ممتاز",
+          "دست ساز"
+        ]
+      },
+      {
+        "name": "کشور",
+        "values": [
+          "تایلند"
+        ]
+      }
+    ],
+    "random_key": "7de4fff4-1d56-443b-af8a-b1becc63651b",
+    "image_url": "https://image.torob.com/base/images/DS/dN/DSdNv7qHsEacfwv7.jpg"
+  },
+  {
+    "title": "لباس بوکس",
+    "group": "نامشخص",
+    "product": "لباس بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس بوکس"
+        ]
+      }
+    ],
+    "random_key": "77cd8942-b9cf-43a4-962c-cb4fe4669ab1",
+    "image_url": "https://image.torob.com/base/images/5x/Sl/5xSldiLYinA75JKi.jpg"
+  },
+  {
+    "title": "شورت چاپدار کیک بوکسینگ",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکسینگ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپدار"
+        ]
+      }
+    ],
+    "random_key": "4b44d151-bc33-4709-9db4-549c47493bb3",
+    "image_url": "https://image.torob.com/base/images/8o/3Q/8o3Q23AB-CqfVdO3.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس مارک twins PAYAK",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "twins PAYAK"
+        ]
+      }
+    ],
+    "random_key": "e4b4e664-6679-4369-a397-e7361671438b",
+    "image_url": "https://image.torob.com/base/images/0B/PH/0BPHfkcLxCB3MoXM.jpg"
+  },
+  {
+    "title": "شورت بوکس ونوم طرح دار 2xl",
+    "group": "نامشخص",
+    "product": "شورت بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2xl"
+        ]
+      }
+    ],
+    "random_key": "dcc03120-5dfd-4210-9dc4-55b1337c20eb",
+    "image_url": "https://image.torob.com/base/images/r2/mM/r2mMdNw3rHsUOCQq.jpg"
+  },
+  {
+    "title": "ست رکابی و شلوارک مردانه بوکس آیبا",
+    "group": "مردانه",
+    "product": "ست رکابی و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست رکابی و شلوارک بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آیبا"
+        ]
+      }
+    ],
+    "random_key": "2b83ee7a-f950-47e0-bb4c-84deb857bd95",
+    "image_url": "https://image.torob.com/base/images/37/VI/37VI4Phl_CRydU-5.jpg"
+  },
+  {
+    "title": "شورت کیک بوکس/موی تای ونوم",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت کیک بوکس",
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      }
+    ],
+    "random_key": "c97d67c3-d064-4773-a42f-c2a4aeb91dc3",
+    "image_url": "https://image.torob.com/base/images/l2/3V/l23Vb_jx--54BMWP.jpg"
+  },
+  {
+    "title": "شورت و رکابی بوکس RDX",
+    "group": "نامشخص",
+    "product": "ست شورت و رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت و رکابی بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      }
+    ],
+    "random_key": "9c206f8c-9c1a-4b40-8e08-5f261f507c0b",
+    "image_url": "https://image.torob.com/base/images/_Q/Vz/_QVzg7Cpvz8yitSF.jpg"
+  },
+  {
+    "title": "شورت موی تای Elephant مدل Red",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت موی تای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Elephant"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "Red"
+        ]
+      }
+    ],
+    "random_key": "fd2b46f6-62cd-4e90-b9b5-6b76f86de392",
+    "image_url": "https://image.torob.com/base/images/9A/kn/9AknD0FsUANnQAn0.jpg"
+  },
+  {
+    "title": "تجهیزات بوکس سفید فدراسیون شورت های تایلندی Muay Thai Match کوتاه MT2019 را تأیید کرد Dragondo",
+    "group": "نامشخص",
+    "product": "تجهیزات بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت های تایلندی Muay Thai Match"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Dragondo"
+        ]
+      },
+      {
+        "name": "قد شورت",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "388ca850-b4f6-4737-ae43-74852a54450a",
+    "image_url": "https://image.torob.com/base/images/aH/9j/aH9j4mHZFBFeV0fE.jpg"
+  },
+  {
+    "title": "شورت و رکابی بوکس",
+    "group": "نامشخص",
+    "product": "ست شورت و رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت و رکابی بوکس"
+        ]
+      }
+    ],
+    "random_key": "c8f98f57-da17-4608-ab7a-7ac5f5b1ae8e",
+    "image_url": "https://image.torob.com/base/images/YJ/XE/YJXEhTQn2jUHBqHd.jpg"
+  },
+  {
+    "title": "لباس بوکس آدیداس (آبی)",
+    "group": "نامشخص",
+    "product": "لباس بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس بوکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "9f6a77bd-3016-4461-b819-915afaf232f3",
+    "image_url": "https://image.torob.com/base/images/v2/AA/v2AAUQ_BGlGV8wkP.jpg"
+  },
+  {
+    "title": "لباس فرم ستاره دار کیک بوکس",
+    "group": "نامشخص",
+    "product": "لباس فرم",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس فرم کیک بوکس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره دار"
+        ]
+      }
+    ],
+    "random_key": "abbf6568-412e-47f3-aaa3-2111369c5df2",
+    "image_url": "https://image.torob.com/base/images/mA/Sd/mASdAiLfzus_IifS.jpg"
+  },
+  {
+    "title": "شورت بوکس و مویتای سفارشی جنس پارچه ساتن اعلا دوخت درجه یک",
+    "group": "نامشخص",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت بوکس",
+          "مویتای"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "سفارشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن اعلا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دوخت درجه یک"
+        ]
+      }
+    ],
+    "random_key": "7fa84d70-81e3-4c1d-b78d-08718d751bd2",
+    "image_url": "https://image.torob.com/base/images/vB/jd/vBjdbY6_KIBWZJ5x.jpg"
+  },
+  {
+    "title": "شورت های تایلندی موئی | شورت های چنگال بوکس برای کیک بوکسینگ MMA Muay Thai BJJ برای مردان و زنان - ارسال 20 روز کاری",
+    "group": "مردانه و زنانه",
+    "product": "شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت های تایلندی موئی",
+          "شورت های چنگال بوکس برای کیک بوکسینگ MMA Muay Thai BJJ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردان و زنان"
+        ]
+      }
+    ],
+    "random_key": "f3eac93d-cd41-4389-b03d-2d31f04bde6b",
+    "image_url": "https://image.torob.com/base/images/AE/Us/AEUsEFD1eTXBM16R.jpg"
+  },
+  {
+    "title": "لباس بوکس ابی و قرمز سایز بندی مدیوم تا ۲ ایکس لارج",
+    "group": "نامشخص",
+    "product": "لباس بوکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس بوکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ابی",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مدیوم تا ۲ ایکس لارج"
+        ]
+      }
+    ],
+    "random_key": "6e48be7d-e81a-4e16-af43-a8776f10917e",
+    "image_url": "https://image.torob.com/base/images/nk/NG/nkNGpOXqh2W8K_LF.jpg"
+  },
+  {
+    "title": "شورت رزمی ونوم VENUM پارچه ساتن رویه چرم کد VM1308",
+    "group": "نامشخص",
+    "product": "شورت رزمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت رزمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم VENUM"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن رویه چرم"
+        ]
+      }
+    ],
+    "random_key": "5d150dd6-bf7e-468a-9c87-7da637ac383b",
+    "image_url": "https://image.torob.com/base/images/9U/lP/9UlPkrYMWVpycMaq.jpg"
+  }
+]

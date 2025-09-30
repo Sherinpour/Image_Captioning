@@ -1,0 +1,7171 @@
+[
+  {
+    "title": "بابت پسرانه – دخترانه برند ان یو بی بی اصل 020 2334-FK",
+    "group": "پسرانه – دخترانه",
+    "product": "بابت",
+    "entities": [],
+    "random_key": "a43b78a3-636b-4114-82f4-f6ff89b8c827",
+    "image_url": "https://image.torob.com/base/images/0n/lL/0nlLJraLA-fkEhmD.jpg"
+  },
+  {
+    "title": "بابت پسرانه – دخترانه برند ان یو بی بی اصل 020 2385-PK",
+    "group": "پسرانه – دخترانه",
+    "product": "بابت",
+    "entities": [],
+    "random_key": "68818be3-8583-4283-a571-ff6c87a169c7",
+    "image_url": "https://image.torob.com/base/images/6A/Wy/6AWy_fDdRfy3wyuT.jpg"
+  },
+  {
+    "title": "کفش مجلسی کالج بچگانه پسرانه طبی و راحت و استاندارد چرمی مشکی sport",
+    "group": "بچگانه پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی",
+          "راحت",
+          "استاندارد"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "813e7b2b-bcb2-48dc-8516-cffcd8e375d5",
+    "image_url": "https://image.torob.com/base/images/yX/Mb/yXMb7BC4IuomhG6_.jpg"
+  },
+  {
+    "title": "بابت دخترانه sermoda اورجینال C2-S0023-00013 Kırık Beyaz",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "sermoda"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "Kırık Beyaz"
+        ]
+      }
+    ],
+    "random_key": "860cda32-c74d-4d1e-9390-d39bee45c011",
+    "image_url": "https://image.torob.com/base/images/G3/HX/G3HXgcczYhg1MTKZ.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه بژ السی وایکیکی S1G019Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      }
+    ],
+    "random_key": "36020f66-ed7d-4056-a2f7-fe48eea1a880",
+    "image_url": "https://image.torob.com/base/images/tJ/bz/tJbzDk4QskJ7X1ky.jpg"
+  },
+  {
+    "title": "کالج عروسکی دخترانه",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج عروسکی"
+        ]
+      }
+    ],
+    "random_key": "ecadcd95-5293-47ef-8ccf-7c634a35b06a",
+    "image_url": "https://image.torob.com/base/images/0_/W6/0_W68zpMbD-XJFin.jpg"
+  },
+  {
+    "title": "کالج عروسکی کایلی",
+    "group": "نامشخص",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج عروسکی"
+        ]
+      }
+    ],
+    "random_key": "e026572c-68e9-458f-929c-9c8d7154fa6d",
+    "image_url": "https://image.torob.com/base/images/PL/rf/PLrfxqSCgNal88Y4.jpg"
+  },
+  {
+    "title": "کالج بهاره دخترانه جدید ترند سال",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ترند سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج بهاره"
+        ]
+      }
+    ],
+    "random_key": "44ab29d6-a656-46d3-8022-f2600335531e",
+    "image_url": "https://image.torob.com/base/images/0d/iA/0diAU7EmN1f69AOI.jpg"
+  },
+  {
+    "title": "کالج بچگانه frozen",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "frozen"
+        ]
+      }
+    ],
+    "random_key": "cebcedb2-dfd7-4501-a9fa-6ea3c91a5e4d",
+    "image_url": "https://image.torob.com/base/images/vC/ki/vCki4TFYC0NE1D1B.jpg"
+  },
+  {
+    "title": "کالج بچگانه کفش بچگانه مجلسی",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "b482d972-023a-4530-ac9b-cb9358dbd525",
+    "image_url": "https://image.torob.com/base/images/If/7T/If7T7UlXToZoAThT.jpg"
+  },
+  {
+    "title": "کالج دخترونه سگگ زنجیری تک بند",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "سگگ زنجیری",
+          "تک بند"
+        ]
+      }
+    ],
+    "random_key": "0656bf4c-47ba-433f-b87d-c62176d5223c",
+    "image_url": "https://image.torob.com/base/images/_Y/_J/_Y_J2d6TowAdqQNz.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه آبی السی وایکیکی S2ET80Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "13b83462-1dab-4368-ad32-9df0591cc3d3",
+    "image_url": "https://image.torob.com/base/images/YP/MY/YPMYmbqw55IztOCB.jpg"
+  },
+  {
+    "title": "بابت دخترانه موز Banamio اورجینال SHUU10000",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Banamio"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "موز"
+        ]
+      }
+    ],
+    "random_key": "01be17be-ad3f-44be-9f8a-82f8bc2395cc",
+    "image_url": "https://image.torob.com/base/images/O7/eX/O7eXVzEg8OoCKdEI.jpg"
+  },
+  {
+    "title": "بابت دخترانه راکرپلاس Rakerplus اورجینال TX5D09CB582497",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "راکرپلاس",
+          "Rakerplus"
+        ]
+      }
+    ],
+    "random_key": "11932563-cd71-4b05-95e2-b1799d3708a6",
+    "image_url": "https://image.torob.com/base/images/h9/Ss/h9SsecIMfTdmm2Ps.jpg"
+  },
+  {
+    "title": "کالج بچگانه۴سایز طرح شکلک حیوانات رنگ تیره ۲تا۱۰سال ایده آل (۱۲جفت)",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "۴سایز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شکلک حیوانات"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "تیره"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "۲تا۱۰سال"
+        ]
+      }
+    ],
+    "random_key": "cf076c59-1076-47ae-8d88-9ea24cd33efa",
+    "image_url": "https://image.torob.com/base/images/4X/8T/4X8TES8OtBe_uLXw.jpg"
+  },
+  {
+    "title": "بابت دخترانه السی وایکیکی LC Waikiki اورجینال W3BQ34Z4LTSPRK",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      }
+    ],
+    "random_key": "50355cfe-5a90-4e24-95f7-494623b0d0bc",
+    "image_url": "https://image.torob.com/base/images/NR/5r/NR5r8LEFnSEX4fh7.jpg"
+  },
+  {
+    "title": "بابت دخترانه Polaris برند پلاریس اصل 624007.B3FX",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Polaris",
+          "پلاریس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "07cf59e4-47d6-4da5-9123-7a04aebea063",
+    "image_url": "https://image.torob.com/base/images/wO/p8/wOp8kxxuMYzVfEnH.jpg"
+  },
+  {
+    "title": "کالج بچگانه لیزری پشت ژله کبریتی ساده 2تا 5سال خارجی اصلی (10جفتی)",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "لیزری",
+          "ساده"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "2تا 5سال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خارجی",
+          "اصلی"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "پشت ژله کبریتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f0a6ec06-511d-4262-b441-88a51e43f719",
+    "image_url": "https://image.torob.com/base/images/kC/r4/kCr4dzIkv73YNZAP.jpg"
+  },
+  {
+    "title": "بابت دخترانه welissa اورجینال W0036.P.BABET",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "welissa"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "113b84c7-e15a-4287-9e3c-f728254f521f",
+    "image_url": "https://image.torob.com/base/images/uF/MU/uFMUIRsNgmZkSdw5.jpg"
+  },
+  {
+    "title": "بابت دخترانه پلاریس 512439.F Polaris اورجینال",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Polaris",
+          "پلاریس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "3de6d3e4-0ff7-4599-8d7d-d09845a1d288",
+    "image_url": "https://image.torob.com/base/images/96/3I/963Ic6U5GiSc5iFK.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه قرمز السی وایکیکی 9S0280Z4",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "552cd021-df20-4d82-9fbc-063ff65a178b",
+    "image_url": "https://image.torob.com/base/images/oT/Kg/oTKgFWObeeB2Og2E.jpg"
+  },
+  {
+    "title": "تخفیف باورنکردنی کفش کتونی مردانه و پسرانه مدل ونس لگو رنگ سفید سبز مناسب برای افراد خاص پسند رنگ سفید سبز باراسال رایگان",
+    "group": "مردانه و پسرانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید سبز"
+        ]
+      }
+    ],
+    "random_key": "51b89976-2cdc-45a1-bed6-f001b725901f",
+    "image_url": "https://image.torob.com/base/images/1N/T5/1NT5Uj0Jd7wMUPzM.jpg"
+  },
+  {
+    "title": "بابت دخترانه برند ان یو بی بی اصل 020 334-FK",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ان یو بی بی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "34bd55c1-507f-4819-a315-363ae700ca3b",
+    "image_url": "https://image.torob.com/base/images/Kf/bO/KfbOc_57zVB2ZCFI.jpg"
+  },
+  {
+    "title": "کالج ونس بچگانه سفید",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج ونس"
+        ]
+      }
+    ],
+    "random_key": "f22d5236-8e67-4250-aa13-cde824c30dca",
+    "image_url": "https://image.torob.com/base/images/M-/zA/M-zAMEU1f8pQM7E1.jpg"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 172 472",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "0bf3287e-391f-428b-8a45-a99a1452b5e1",
+    "image_url": "https://image.torob.com/base/images/Pa/Em/PaEm_5ZNKrxLFKW8.jpg"
+  },
+  {
+    "title": "کفش کالج بچگانه برند star wars",
+    "group": "بچگانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "star wars"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "476fac1f-e64d-4ca1-a22e-a57dc75b6b46",
+    "image_url": "https://image.torob.com/base/images/-h/28/-h28A8e_rN2xtEbH.jpg"
+  },
+  {
+    "title": "کالج دخترانه جدید زیره پیو سایز 37 تا 42",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 42"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "fbe55879-334e-4150-bf1d-fcb876cad9e5",
+    "image_url": "https://image.torob.com/base/images/jJ/YF/jJYF4S_6tPN4SrJv.jpg"
+  },
+  {
+    "title": "کالج بچگانه kiko-kids",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "kiko-kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "072f5d34-801f-4a16-99f0-563c367ee397",
+    "image_url": "https://image.torob.com/base/images/LZ/gS/LZgSDGpTHS8sVeRY.jpg"
+  },
+  {
+    "title": "کفش کالج پسرانه",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "9cd0a536-94d8-4c76-83d2-9392b2a7bd66",
+    "image_url": "https://image.torob.com/base/images/mJ/hh/mJhhRcb-p9H9Kyuo.jpg"
+  },
+  {
+    "title": "بابت بچگانه gala",
+    "group": "بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "gala"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "8e1f435f-6f6c-41c0-93a5-c5a672257867",
+    "image_url": "https://image.torob.com/base/images/lE/Ot/lEOtiH8cR865Qtv3.jpg"
+  },
+  {
+    "title": "بابت دخترانه Polaris برند پلاریس اصل 152922_117575",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Polaris",
+          "پلاریس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "94109f30-1772-400a-91e4-f89fd04a66b8",
+    "image_url": "https://image.torob.com/base/images/pU/HB/pUHBGEJ0C_MR4sC5.jpg"
+  },
+  {
+    "title": "کالج شیک32تا35 پسرانه دخترانه",
+    "group": "پسرانه دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "32تا35"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "8949771b-8eab-4535-8cec-bf669e4ddbea",
+    "image_url": "https://image.torob.com/base/images/sH/WA/sHWAH2hrfbDjBviA.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه زرد برند First Step F-4001",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "First Step F-4001"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "e36bcc13-4544-4e96-90c3-9d5d41b6479c",
+    "image_url": "https://image.torob.com/base/images/iI/ui/iIuiY_tkXlL34mvM.jpg"
+  },
+  {
+    "title": "کفش کالج کودک / نوجوان پابلوسکی",
+    "group": "کودک / نوجوان",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "کودک",
+          "نوجوان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پابلوسکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "0de1d21d-0f82-4e42-a0f1-555d3a490946",
+    "image_url": "https://image.torob.com/base/images/tt/mL/ttmLzLDUpj0rhZPA.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه بژ السی وایکیکی S2BK02Z4",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "73c4c9fc-a137-4bc2-a913-2130e5fa348e",
+    "image_url": "https://image.torob.com/base/images/a9/ng/a9ngIG8T_q336S2_.jpg"
+  },
+  {
+    "title": "کالج پسرانه مجلسی",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "e14af68c-dd78-4848-b54a-ae05c5d44994",
+    "image_url": "https://image.torob.com/base/images/RF/sa/RFsa4zfNmX-PKODa.jpg"
+  },
+  {
+    "title": "بابت دخترانه موز Banamio اورجینال EZRA10000",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Banamio"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "موز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "69a882bf-f141-4b82-be3b-b228fb1342d7",
+    "image_url": "https://image.torob.com/base/images/nW/xe/nWxehww4AO0HGIqd.jpg"
+  },
+  {
+    "title": "کفش پسرانه مدل کالج WH.3557مدل 1",
+    "group": "پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "7c2535f6-f283-4e8b-9202-8cf74f9db7d6",
+    "image_url": "https://image.torob.com/base/images/Zc/So/ZcSoIWzdfOhIyHHH.jpg"
+  },
+  {
+    "title": "کالج دخترانه میو MIU",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میو MIU"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "3c360532-8726-425a-89c1-408aa5049d9b",
+    "image_url": "https://image.torob.com/base/images/dJ/IJ/dJIJ6P_9NmhvROXM.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "1b59a777-a08d-4f64-b911-8adea75ec9dd",
+    "image_url": "https://image.torob.com/base/images/u2/kh/u2khMdPFLSe9dRJj.jpg"
+  },
+  {
+    "title": "کالج دخترانه مدل ترانه دو رنگ فاخر و زیبا",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دو رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "b61fb6eb-2cbb-4ae0-b521-b230a6e2a211",
+    "image_url": "https://image.torob.com/base/images/Zj/cX/ZjcXEUj6hlLamPPJ.jpg"
+  },
+  {
+    "title": "کالج دخترونه لژدار بند گره ای",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "لژدار",
+          "بند گره ای"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "a359fecb-b5bb-4802-956f-a6f3f99df5a5",
+    "image_url": "https://image.torob.com/base/images/LC/El/LCElaSxxBdByXYvL.jpg"
+  },
+  {
+    "title": "کفش بچگانه مدل تدی",
+    "group": "بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "525c802e-6b1d-4c3a-95a4-d47dc775745e",
+    "image_url": "https://image.torob.com/base/images/mK/Wu/mKWuc1Od-mMONMR5.jpg"
+  },
+  {
+    "title": "ونس گندمی بچگانه",
+    "group": "بچگانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      }
+    ],
+    "random_key": "2b4bcd10-2c27-4ae8-8c39-d4a4169ca4e1",
+    "image_url": "https://image.torob.com/base/images/Bi/GE/BiGErNFxkmKkjiit.jpg"
+  },
+  {
+    "title": "کالج بچگانه patik-bebe",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "patik-bebe"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "7fd2f3f4-6611-4ffb-af50-f0c931d7a56b",
+    "image_url": "https://image.torob.com/base/images/8T/si/8TsiAk_V9Kg81wdE.jpg"
+  },
+  {
+    "title": "کالج پسرونه آریا",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرونه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آریا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "e8c4bb92-b4be-45b7-9b86-10c4b96434dc",
+    "image_url": "https://image.torob.com/base/images/lD/YZ/lDYZpwXTnDG1FK7O.jpg"
+  },
+  {
+    "title": "کالج پسرانه پارچه ای 3 رنگ بت Baat",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "3 رنگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Baat"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "e2e04b3a-a8a2-4aed-8b62-7d07a3f50c7d",
+    "image_url": "https://image.torob.com/base/images/ZJ/Gt/ZJGtds8ZeDQMxYv9.jpg"
+  },
+  {
+    "title": "کفش پسرانه مجلسی پسرانه سایز 25 تا 35",
+    "group": "پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25 تا 35"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "ec4a492d-6c1f-4496-8da4-ec9904ff00b7",
+    "image_url": "https://image.torob.com/base/images/UY/-s/UY-sOecOfEthK_aV.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کی کو",
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      }
+    ],
+    "random_key": "275280ee-bd58-4328-af10-58fdfe845840",
+    "image_url": "https://image.torob.com/base/images/7_/6K/7_6KzkCyP97tyNjT.jpg"
+  },
+  {
+    "title": "کالج دخترانه پاشنه 3سانت زیره پیو سایز 37 تا 40",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پاشنه 3سانت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "1496ab7d-3aa1-46f9-b641-08133825d7f5",
+    "image_url": "https://image.torob.com/base/images/B2/Od/B2Od-G5DfNxMoVHb.jpg"
+  },
+  {
+    "title": "کفش کالج کودک / نوجوان لاین آو پورچز",
+    "group": "کودک / نوجوان",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "کودک",
+          "نوجوان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لاین آو پورچز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "1e380af5-7e1e-412d-8c63-f534f49bd5ce",
+    "image_url": "https://image.torob.com/base/images/IW/EX/IWEXfCkLm95GM-M8.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه نگین حلقه ای",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "نگین حلقه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "fbe0136a-a9c6-4b13-aa69-a4aea825a112",
+    "image_url": "https://image.torob.com/base/images/kJ/DK/kJDK_9bhd63H_tMR.jpg"
+  },
+  {
+    "title": "بابت دخترانه آیاک مد کد OTM-20250180B - 19966 | Ayakmod",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آیاک مد",
+          "Ayakmod"
+        ]
+      }
+    ],
+    "random_key": "3a3eaacc-4b99-4d1a-980d-a911a6b1eaa7",
+    "image_url": "https://image.torob.com/base/images/uw/nS/uwnS8t6xkMBsDxoq.jpg"
+  },
+  {
+    "title": "کالج دخترانه طبی مشکی",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f678c50c-43b1-4286-a515-06d9ab923423",
+    "image_url": "https://image.torob.com/base/images/UF/Ue/UFUeoC9CPVW9H-2C.jpg"
+  },
+  {
+    "title": "بابت پسرانه – دخترانه SIRRI اورجینال unisex-bebek-kahverengi-patik",
+    "group": "پسرانه – دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه",
+          "کودک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SIRRI"
+        ]
+      }
+    ],
+    "random_key": "68c9c524-c0e0-4c76-b998-52bbbc7ecfd9",
+    "image_url": "https://image.torob.com/base/images/-k/7V/-k7VHr5DgP4clg8v.jpg"
+  },
+  {
+    "title": "کالج قایقی بچه گانه",
+    "group": "بچه گانه",
+    "product": "کالج قایقی",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج قایقی"
+        ]
+      }
+    ],
+    "random_key": "2d3f32de-ab12-4a57-a3ce-884f02f96334",
+    "image_url": "https://image.torob.com/base/images/gH/zO/gHzOddU8uTIqlD0R.jpg"
+  },
+  {
+    "title": "کفش کالج بچه گانه ال سی وایکیکی محصول ترکیه",
+    "group": "بچه گانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محصول ترکیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "d03aaa99-4da6-46e6-9ba9-5ed53bb8da50",
+    "image_url": "https://image.torob.com/base/images/cu/l4/cul4PmrZcWI8kiUh.jpg"
+  },
+  {
+    "title": "کالج دخترانه وزنانه زنجیری",
+    "group": "دخترانه و زنانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "زنجیری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "196f78c9-17ca-4a92-8643-1bd9e065ccba",
+    "image_url": "https://image.torob.com/base/images/mr/zM/mrzMsE6BbyoHmy_0.jpg"
+  },
+  {
+    "title": "بابت دخترانه لباس بچه گانه سریس Sare Çocuk Giyim اورجینال 2lo141211",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سریس Sare Çocuk Giyim"
+        ]
+      }
+    ],
+    "random_key": "0ff3ae93-8fbd-414e-a006-b58547c8c237",
+    "image_url": "https://image.torob.com/base/images/7i/li/7iliTD8wcPwVMebL.jpg"
+  },
+  {
+    "title": "کفش کالج بچهگانه. رویه چرمی. سایز 18 تــــا 31 .",
+    "group": "بچه گانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "18 تــــا 31"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "b358210b-043a-4648-8371-0d22b9dced26",
+    "image_url": "https://image.torob.com/base/images/mg/j0/mgj0IE8VWWAdU_9y.jpg"
+  },
+  {
+    "title": "کالج پسرانه استیکر",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "استیکر"
+        ]
+      }
+    ],
+    "random_key": "887e31f3-a733-4261-b3fc-ea44bad902f8",
+    "image_url": "https://image.torob.com/base/images/lS/RN/lSRNs8Y-4wS0hKa0.jpg"
+  },
+  {
+    "title": "کتونی زنانه کتونه دخترانه زیره pu کیفیت اصلی سایز 37 تا 40",
+    "group": "زنانه و دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "pu"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت اصلی"
+        ]
+      }
+    ],
+    "random_key": "219a8468-5142-4a9c-bea2-5f469169cb31",
+    "image_url": "https://image.torob.com/base/images/Bz/2O/Bz2OD9ydDlZ3F7jF.jpg"
+  },
+  {
+    "title": "کالج دخترانه خرگوشی 6 ماه تا 1 سال",
+    "group": "دخترانه 6 ماه تا 1 سال",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "6 ماه تا 1 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرگوشی"
+        ]
+      }
+    ],
+    "random_key": "6b0abfee-952a-4ceb-9eb6-224800f77a5e",
+    "image_url": "https://image.torob.com/base/images/oD/TV/oDTV8X-pZq4s2tVF.jpg"
+  },
+  {
+    "title": "کفش کالج بچگانه مجلسی مدل سادات ( سایز 21 تا 24 )",
+    "group": "بچگانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "21 تا 24"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "0c014ba7-c0de-43da-8a6a-ffbc475c0c45",
+    "image_url": "https://image.torob.com/base/images/Xr/lu/XrlutAcy2sXFNXbX.jpg"
+  },
+  {
+    "title": "بابت بچگانه ridvan-celik",
+    "group": "بچگانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ridvan-celik"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "3fe23d02-3b24-4888-bde6-e5b25c756d58",
+    "image_url": "https://image.torob.com/base/images/ge/oT/geoTpH-0lSZgQWBM.jpg"
+  },
+  {
+    "title": "بابت دخترانه لباس بچه گانه سریس Sare Çocuk Giyim اورجینال gydr5666",
+    "group": "دخترانه بچه گانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سریش Sare Çocuk Giyim",
+          "gymr5666"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "39830680-0804-4fa1-8cd5-f53ff9a2384e",
+    "image_url": "https://image.torob.com/base/images/4x/W7/4xW7xMvhCERlCLVq.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه طوسی برند First Step F-454",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "First Step F-454"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "90eaeec8-899c-4972-a54e-bee3f9d13004",
+    "image_url": "https://image.torob.com/base/images/AM/jJ/AMjJbgdlNGDa4WLP.jpg"
+  },
+  {
+    "title": "کفش کفش کالج دخترانه مدل فراگامو (کد 168)",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "a6f97fd7-e9f7-43f5-b30b-0f9425ba1af2",
+    "image_url": "https://image.torob.com/base/images/O7/W5/O7W5Vt13Cv6Blsok.jpg"
+  },
+  {
+    "title": "کالج بچگانه konyali",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "konyali"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f75f0969-59ed-499c-b2f3-b3ee3a024ddd",
+    "image_url": "https://image.torob.com/base/images/oC/AB/oCABuxH_XCFoMsvC.jpg"
+  },
+  {
+    "title": "کفش کالج ecco",
+    "group": "نامشخص",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ecco"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "bc531db6-64f2-4b5f-9800-02cf612f2ece",
+    "image_url": "https://image.torob.com/base/images/j7/lX/j7lXU4YrJgSyZyJP.png"
+  },
+  {
+    "title": "کالج بچه گانه دخترانه مجلسی سایز 30 تا 36 نگین دار با جنس چرم صنعتی",
+    "group": "بچه گانه دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "30 تا 36"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "نگین دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم صنعتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "980d46cc-592a-4db2-9819-6f72ae6c72ca",
+    "image_url": "https://image.torob.com/base/images/HO/Yg/HOYgqK_kUWLHMZ0H.jpg"
+  },
+  {
+    "title": "حراج ویژه این هفته کفش کالج دخترانه مدل پاپیونی فوق العاده ناز و دلبر مشکی شیک",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f099b580-59f3-4fe9-979b-b8e937406ea4",
+    "image_url": "https://image.torob.com/base/images/7I/yd/7IydgGA7p2XWBY1v.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل کد 5657 | Le Mabelle",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میبل",
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "ae81fbe5-6974-497a-af9c-4a5cffab8d43",
+    "image_url": "https://image.torob.com/base/images/QM/Sw/QMSwgxYhclhnueK7.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل کد | Le Mabelle",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میبل",
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "40fc8b23-2a64-4374-92d2-8dd5de00f624",
+    "image_url": "https://image.torob.com/base/images/El/ZL/ElZLQrnJ4wig9pPY.jpg"
+  },
+  {
+    "title": "کفش کالج ستاره پسرانه",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f3b2e94b-a302-4f80-96a3-52a1f47ead58",
+    "image_url": "https://image.torob.com/base/images/db/hO/dbhO-4bZM_IbN6eE.jpg"
+  },
+  {
+    "title": "کالج دخترانه چرم کاکتوس (Charm Cactus) مدل WS1009 رنگ مشکی-کروکودیل سفید مشکی",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاکتوس (Charm Cactus)"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "1c868112-7f06-4ab7-a606-3a79fb3e1a13",
+    "image_url": "https://image.torob.com/base/images/ry/ta/rytalmFh1AjHiD_P.jpg"
+  },
+  {
+    "title": "کالج چرم بچگانه",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "056a9bb0-e9ee-4337-a82d-6059070dbb4b",
+    "image_url": "https://image.torob.com/base/images/51/aH/51aHI_nPfqLE2f--.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "mحدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کیکو",
+          "KİKO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "614d77e0-a377-4b76-8a9e-f7f2212d2fba",
+    "image_url": "https://image.torob.com/base/images/x_/Vc/x_Vcs8EEq9lvLMhM.jpg"
+  },
+  {
+    "title": "کفش کالج پسرانه",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "652bc165-95f3-42f8-a36c-03aa047c1c4f",
+    "image_url": "https://image.torob.com/base/images/V9/KX/V9KXZGAAl2S5SmKF.jpg"
+  },
+  {
+    "title": "کالج پسرونه ،",
+    "group": "پسرونه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرونه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "cb546108-2a7a-4c82-9ba9-a02b79aec351",
+    "image_url": "https://image.torob.com/base/images/KB/t8/KBt8iO-qlIgA7NTh.jpg"
+  },
+  {
+    "title": "کالج بچگانه mnpc",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "mnpc"
+        ]
+      }
+    ],
+    "random_key": "b792eb75-5b8b-4af0-b7d2-65bf9eedc4fa",
+    "image_url": "https://image.torob.com/base/images/W4/1C/W41C8Qecu0kvsJmt.jpg"
+  },
+  {
+    "title": "بابت دخترانه السی وایکیکی LC Waikiki اورجینال S4",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "71eac1d3-d7e2-4f7a-8294-6f72f06e9ac3",
+    "image_url": "https://image.torob.com/base/images/so/6d/so6dWGfoZNi9zkfJ.jpg"
+  },
+  {
+    "title": "کالج دخترانه طبی مدل ضربدری بسیار راحت و خوشپا و شیک",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی",
+          "بسیار راحت",
+          "خوشپا",
+          "شیک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مدل ضربدری"
+        ]
+      }
+    ],
+    "random_key": "b3ffd04c-f0af-44a9-9171-1ddd2cbf5b0a",
+    "image_url": "https://image.torob.com/base/images/lu/4f/lu4f2QCpbCIiZ8jm.jpg"
+  },
+  {
+    "title": "کالج دخترانه",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      }
+    ],
+    "random_key": "875827a2-8a3c-48a7-b44b-4eb5cc66703a",
+    "image_url": "https://image.torob.com/base/images/u4/YK/u4YKViZIYUdbFrIa.jpg"
+  },
+  {
+    "title": "بابت دخترانه ال سی وایکیکی S5L726Z4 - HUC | LCW STEPS",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "3d1ecbcf-663d-40a4-b7e6-56fb6017bfb3",
+    "image_url": "https://image.torob.com/base/images/iw/ox/iwox0k3OgNJ5jq3B.jpg"
+  },
+  {
+    "title": "کالج پسرانه سایز 22 تا 37 رنگ مشگی",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "22 تا 37"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "4ab16d4a-ea68-46c9-bc10-a73e29dee508",
+    "image_url": "https://image.torob.com/base/images/EW/md/EWmdpJiK5fvOBtHz.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه صورتی السی وایکیکی S2N389Z4",
+    "group": "بچگانه و دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "d00d3261-b70f-4948-a724-0ee87abdd955",
+    "image_url": "https://image.torob.com/base/images/Tu/-V/Tu-VW6vVUlIsqudA.jpg"
+  },
+  {
+    "title": "جوراب بابت دخترانه ال سی وایکیکی کد S53516Z4 - FEW | LCW Kids",
+    "group": "دخترانه",
+    "product": "جوراب بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جوراب بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "67f57eb2-6ee4-41de-8755-71868487cf87",
+    "image_url": "https://image.torob.com/base/images/2a/jB/2ajBZY14BITZeXBm.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه نقره ای السی وایکیکی S1FY98Z4",
+    "group": "بچگانه و دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "a8f8b958-2a33-4a61-976c-e9171403d616",
+    "image_url": "https://image.torob.com/base/images/hK/gE/hKgE-wMrt8Y6Ip9J.jpg"
+  },
+  {
+    "title": "کالج لژدار دخترانه سبک و راحت کد 781",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج لژدار"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک",
+          "راحت"
+        ]
+      }
+    ],
+    "random_key": "b5d8d246-0f48-41bc-a1db-5eeac311d7cd",
+    "image_url": "https://image.torob.com/base/images/wN/Ki/wNKiDnjorDWhpu7C.jpg"
+  },
+  {
+    "title": "بابت دخترانه جئوکس Geox اورجینال J4555D00085C8172",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جئوکس"
+        ]
+      }
+    ],
+    "random_key": "4f750a31-1bcb-463a-b0f4-2498881f17cb",
+    "image_url": "https://image.torob.com/base/images/un/3Y/un3YII-Rg1GPz62w.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه سیاه السی وایکیکی S15975Z4",
+    "group": "بچگانه و دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "00085768-341e-4f83-ba1a-c0d5e4e30825",
+    "image_url": "https://image.torob.com/base/images/kI/9h/kI9hYDvCMvUJjT44.jpg"
+  },
+  {
+    "title": "بابت دخترانه برند ان یو بی بی اصل 020 3021-BK",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ان یو بی بی"
+        ]
+      }
+    ],
+    "random_key": "0c13d7d0-9aee-42dd-9b2e-284c06553bdf",
+    "image_url": "https://image.torob.com/base/images/32/aH/32aH6P-he4Fs25Nt.jpg"
+  },
+  {
+    "title": "بابت بچگانه gala",
+    "group": "بچگانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "gala"
+        ]
+      }
+    ],
+    "random_key": "0d5e5ffc-43c9-4ee7-a4b2-48876d552e07",
+    "image_url": "https://image.torob.com/base/images/sE/g7/sEg7E4v9U4wIh_-R.jpg"
+  },
+  {
+    "title": "کفش کالج لوفر وارداتی دخترانه2تا6سال(ارسال رایگان)",
+    "group": "دخترانه 2تا 6 سال",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج لوفر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 تا 6 سال"
+        ]
+      }
+    ],
+    "random_key": "e5eb10f4-ccdf-40de-b6d0-d4cb945650d4",
+    "image_url": "https://image.torob.com/base/images/YH/Mj/YHMj6vG_VB9ITAsJ.jpg"
+  },
+  {
+    "title": "کفش کالج اسپرت دخترانه چسبی سفید سایز37تا40",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      },
+      {
+        "name": "محدوده سنی/ج جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چسبی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      }
+    ],
+    "random_key": "923a9d88-d701-41ad-9171-2cc0278c0eb2",
+    "image_url": "https://image.torob.com/base/images/4G/X_/4GX_OLJZzhli-fOD.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "302da54c-9f33-42d8-92d1-157c6eb933c6",
+    "image_url": "https://image.torob.com/base/images/6O/v-/6Ov-d9X2AJer8Plj.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "164c5042-a312-4493-b974-32923b23aed3",
+    "image_url": "https://image.torob.com/base/images/lF/pF/lFpF_uH-hm96xifK.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه مجلسی در تهران کرج",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "4e34d1c9-21b7-49a1-abdd-4e2623081c5e",
+    "image_url": "https://image.torob.com/base/images/KB/V2/KBV2HIoe-LAlWTA7.jpg"
+  },
+  {
+    "title": "کالج دخترونه بغل کنفی CHANEL",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کنفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "fb5ec201-eda8-464b-bcdc-1e54125b932b",
+    "image_url": "https://image.torob.com/base/images/SN/Lf/SNLfVeJBhoCC98DY.jpg"
+  },
+  {
+    "title": "کالج دخترانه مشکی طرح پتینه + ارسال رایگان",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پتینه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "fbd82a9e-9e07-4966-943a-e5bc11d9fbcb",
+    "image_url": "https://image.torob.com/base/images/Hl/a2/Hla2vn8pZVHSZXpF.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "8ad5a69d-78e2-4d93-8cd7-d07c09cf2822",
+    "image_url": "https://image.torob.com/base/images/iF/UQ/iFUQcrNJOsB3Em64.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه مدل پاپیونی کد 102",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "aa8ae949-b1ba-4bc3-9622-dc3b5a6a7a0b",
+    "image_url": "https://image.torob.com/base/images/QX/vB/QXvB6ndWdr5Ed0fY.webp"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه صورتی برند Kiko Kids 21YBABKIK000006",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kiko Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "4cbc9899-ec1d-4016-9916-7a3525f3e413",
+    "image_url": "https://image.torob.com/base/images/ht/sj/htsjCOBFGF9XpW01.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه زرد برند KİKO 23YBABKIK000006",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "7e84b923-df1d-4de0-a5e6-c5f08fc54155",
+    "image_url": "https://image.torob.com/base/images/F4/aK/F4aKr0kWuMcR7aF5.jpg"
+  },
+  {
+    "title": "کالج پسرانه بچگانه طبی مجلسی کیفیت عالی ارسال رایگان",
+    "group": "بچگانه پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "طبی"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "c6784336-0f61-43b3-acf2-ade3e728b8bd",
+    "image_url": "https://image.torob.com/base/images/YD/cJ/YDcJ7FzJiRw8T01e.jpg"
+  },
+  {
+    "title": "کالج دخترانه طرح توت فرنگی",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "توت فرنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "04959a7d-4dd5-4277-a10e-d3bf757b4797",
+    "image_url": "https://image.torob.com/base/images/Ph/ik/PhikzD7VACpHThJ9.jpg"
+  },
+  {
+    "title": "کفش مجلسی بچه گانه کالج",
+    "group": "بچه گانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "8947d8a1-cb0c-426b-a6db-9cfe4191b197",
+    "image_url": "https://image.torob.com/base/images/qR/Yp/qRYpLMrJZriK1fuC.jpg"
+  },
+  {
+    "title": "کالج کد 1141 رویه ورنی سایز 37 تا 40",
+    "group": "نامشخص",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ورنی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "abb15170-6fe4-4f62-a7e0-a7bcb9b3faff",
+    "image_url": "https://image.torob.com/base/images/7A/B0/7AB0-zThb05dtxOW.jpg"
+  },
+  {
+    "title": "کالج دخترانه پاحور و کیفیت عالی",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "688ad45b-6c11-44f5-9268-2421e1516c20",
+    "image_url": "https://image.torob.com/base/images/rT/3I/rT3IbM0d2xrJF2xr.jpg"
+  },
+  {
+    "title": "کالج جدید زیره پیو سبک و خیلی راحت سایز 37 تا 42",
+    "group": "نامشخص",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پی یو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک",
+          "خیلی راحت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 42"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "d0e5c071-4b65-4a2b-b95f-95086cf28bea",
+    "image_url": "https://image.torob.com/base/images/4y/qD/4yqDYaPAX3kbMSKu.jpg"
+  },
+  {
+    "title": "بابت دخترانه موز Banamio اورجینال PAPILLON10000",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Banamio"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "20bbe10c-239e-47e0-a063-71c3646b0c84",
+    "image_url": "https://image.torob.com/base/images/Em/lB/EmlBWjOWTEQ30MEP.jpg"
+  },
+  {
+    "title": "کفش عروسکی دخترانه شیک",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش عروسکی"
+        ]
+      }
+    ],
+    "random_key": "8bfd7cad-e2a6-422a-bee4-890a2a87634a",
+    "image_url": "https://image.torob.com/base/images/nF/hV/nFhV5TqhVYEux4M-.jpg"
+  },
+  {
+    "title": "کفش کالج مجلسی پسرانه سایز 25 تا 36",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25 تا 36"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "674d2fa2-3ae0-4b4f-9759-3762dd191abc",
+    "image_url": "https://image.torob.com/base/images/1a/yE/1ayEhv2Kea0zyaLM.jpg"
+  },
+  {
+    "title": "کالج پسرانه ورنی مجلسی سایز27تا30مناسب عید",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ورنی"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی",
+          "عید"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "27 تا 30"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج ورنی"
+        ]
+      }
+    ],
+    "random_key": "4f78b5a4-0afa-4662-beed-7ad3e28307e2",
+    "image_url": "https://image.torob.com/base/images/ES/YL/ESYL-ZyafHmgavOa.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه سفید السی وایکیکی S3IL46Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "78397445-a6bc-42c7-8062-219a16aec520",
+    "image_url": "https://image.torob.com/base/images/id/uf/idufyrhNHY_RpTYX.jpg"
+  },
+  {
+    "title": "کفش کالج بچه گانه پسرانه در کرج کفش آرجی",
+    "group": "بچه گانه پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "651e8b4b-23da-4f38-ae5d-c7d64e605b10",
+    "image_url": "https://image.torob.com/base/images/nU/TQ/nUTQLP4gRWItubjl.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کفش بابت بچه گانه دخترانه سیاه برند KİKO KİDS 23YBABKIK000016",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KİKO KİDS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "b2a49ce6-1494-4294-bd0d-26a8bf192ef1",
+    "image_url": "https://image.torob.com/base/images/JO/oj/JOojTFy1pepohnGh.jpg"
+  },
+  {
+    "title": "بابت پسرانه SIRRI اورجینال FS-201222",
+    "group": "پسرانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SIRRI"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "3909a55e-c885-4ad9-9406-554b8a05488a",
+    "image_url": "https://image.torob.com/base/images/qo/QV/qoQVDez10_GbOAeC.jpg"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 131 81",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "559c751d-3bb6-4389-bf5b-a71d49f9cf17",
+    "image_url": "https://image.torob.com/base/images/V_/xl/V_xlJOMaNP9TUteK.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "40369e6f-91e4-4509-a213-cd6d217f02e0",
+    "image_url": "https://image.torob.com/base/images/tH/4r/tH4rS5nLfBdC82vh.jpg"
+  },
+  {
+    "title": "بابت مجلسی شیک پاشنه کوتاه دخترانه زناته پاپوش ونس کالج کفش نگینی نگین دار نگیندار توری طبی رو فرشی روفرشی راحتی دویسنود",
+    "group": "دخترانه زنانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی",
+          "روفرشی"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "پاشنه کوتاه",
+          "نگینی",
+          "نگین دار",
+          "نگیندار",
+          "توری"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "طبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "راحتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "591cb46c-f6df-48be-9826-e9674c9fffdd",
+    "image_url": "https://image.torob.com/base/images/Jb/F9/JbF9hzoDH61XncNY.jpg"
+  },
+  {
+    "title": "بابت دخترانه لو مابل Le Mabelle اورجینال LM1335",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لو مابل Le Mabelle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "61bce048-8f99-47b2-8939-c878ffcc8664",
+    "image_url": "https://image.torob.com/base/images/Uo/_F/Uo_F8LSZ-ITDRPEp.jpg"
+  },
+  {
+    "title": "کفش کالج کفش پسرانه کفش بچگانه کالج پسرانه",
+    "group": "پسرانه بچگانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "9af3d6e8-ce11-4e17-aff2-0f8dd28593ca",
+    "image_url": "https://image.torob.com/base/images/7e/le/7ele-J9xpL1JFDMD.jpg"
+  },
+  {
+    "title": "کالج دخترانه کد 411 رنگ بندی طبق تصویر از سایز37تا40ارسال رایگان",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f8a7c722-6dd6-40dd-8db7-d501ae49fcc2",
+    "image_url": "https://image.torob.com/base/images/6d/xN/6dxNAi3kXn4mNTzl.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه قرمز السی وایکیکی 0S2333Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "47f4f9cc-3674-47f2-8282-7392ba2d545f",
+    "image_url": "https://image.torob.com/base/images/gQ/by/gQbym_okCYZRqKw4.jpg"
+  },
+  {
+    "title": "کالج پسرانه بچگانه",
+    "group": "پسرانه بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "8648c0f6-5578-44eb-a1ee-5ff59758e091",
+    "image_url": "https://image.torob.com/base/images/xm/cE/xmcEH1Vz4ptIjYgH.jpg"
+  },
+  {
+    "title": "کالج دخترانه مشکی کد 25541",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "8ba788eb-bbda-470c-bf3a-e6361879409f",
+    "image_url": "https://image.torob.com/base/images/s-/RY/s-RYas0sJvyrO32n.webp"
+  },
+  {
+    "title": "کالج دخترونه پاپوشیا کد 98195 (پس کرایه)",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترونه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "1dc87549-2fb7-4ef5-b444-eac4bf3bb2ab",
+    "image_url": "https://image.torob.com/base/images/N3/Hx/N3Hx46ry1UWHyC6O.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه مرجانی السی وایکیکی 9SH187Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مرجانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "091a13e5-6215-496b-a9b5-c6327ba174bd",
+    "image_url": "https://image.torob.com/base/images/ms/3o/ms3ocWQEq-ZpEzjv.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل کد | Le Mabelle",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میبل",
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "4614f465-fa94-4106-bcc2-9d840b318017",
+    "image_url": "https://image.torob.com/base/images/pi/IS/piISO55GIWCXazhJ.jpg"
+  },
+  {
+    "title": "بابت دخترانه کازابونی CS-24Y-072 - 20045 | Casabony",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کازابونی",
+          "Casabony"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "19f0c75a-a3c3-442c-82f5-1f0b4ef86438",
+    "image_url": "https://image.torob.com/base/images/UZ/Xh/UZXhmZ1Hmhkhw7gP.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه کرم",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "b7a98f6f-651d-4770-8bb4-ea18d485efd2",
+    "image_url": "https://image.torob.com/base/images/-8/Hi/-8HiLskOLvGwK7zJ.jpg"
+  },
+  {
+    "title": "کفش کالج پسرانه",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "c7d72b27-c107-418b-a439-388c2bd3721f",
+    "image_url": "https://image.torob.com/base/images/dR/ic/dRicTOULxQztZwic.jpg"
+  },
+  {
+    "title": "بابت دخترانه سیویل A4392511P25S1 - 20055 | Civil",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سیویل",
+          "Civil"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "6e2d32be-2d87-41b0-ac99-fcf13ecc3ee7",
+    "image_url": "https://image.torob.com/base/images/0e/WE/0eWEHeIqHplazxbU.jpg"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 192 101",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "06f2ac12-5873-44f9-a34f-62af107883bd",
+    "image_url": "https://image.torob.com/base/images/9B/a9/9Ba9w-T6OLUt0LiN.jpg"
+  },
+  {
+    "title": "کالج دخترانه",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "32a5fa62-4d29-42cc-9d1e-4a18a0a17e60",
+    "image_url": "https://image.torob.com/base/images/pW/c0/pWc05QKL1UCs83J_.jpg"
+  },
+  {
+    "title": "بابت دخترانه لو مابل Le Mabelle اورجینال LM1334",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لو مابل",
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "30c7cfc3-7156-4e75-b58a-b5b2284b6374",
+    "image_url": "https://image.torob.com/base/images/sA/7m/sA7m-wRqWIlKXspB.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو",
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "a82f9000-c7ee-4d6e-aa82-a4eb0d8a9677",
+    "image_url": "https://image.torob.com/base/images/py/QU/pyQUAOB-B2hQKr4U.jpg"
+  },
+  {
+    "title": "بابت دخترانه SIRRI اورجینال B-106-LOLA",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIRRI"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "ad168474-1efe-4e6d-985c-cb7c80e7cdb7",
+    "image_url": "https://image.torob.com/base/images/UA/mR/UAmRFk3k6IUxznA7.jpg"
+  },
+  {
+    "title": "کالج پسرانه لویزویتون سایز25تا36مناسب عید",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لویزویتون"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25 تا 36"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "عید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "ebb381f1-4e44-4b99-a1f4-be07b60fc9b1",
+    "image_url": "https://image.torob.com/base/images/dX/pC/dXpCKCK4AhbfUnB2.jpg"
+  },
+  {
+    "title": "بابت دخترانه Merli&Rose اورجینال 2445",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Merli&Rose"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "02284a08-b798-4db9-99bb-eba4017c333e",
+    "image_url": "https://image.torob.com/base/images/u5/_k/u5_kYlmp40OzpTWP.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو",
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "4b7fbb40-34f3-4b53-a531-560000a64669",
+    "image_url": "https://image.torob.com/base/images/DI/FC/DIFCR0B_HbtBeUlb.jpg"
+  },
+  {
+    "title": "کفش کالج مجلسی،پسرانه،درسه رنگ،سرمه ای،قرمز،بژ",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای",
+          "قرمز",
+          "بژ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "d5a5491c-3ff9-4f5d-a759-9b0446a1c3f1",
+    "image_url": "https://image.torob.com/base/images/Ff/4k/Ff4kMArxrrT1V4JX.jpg"
+  },
+  {
+    "title": "بابت دخترانه برند دفاکتو Defacto اصل Z8325A6NS",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "266df728-914d-46ed-9064-d8708982bde0",
+    "image_url": "https://image.torob.com/base/images/aH/gf/aHgfYUW6F_siNAxJ.jpg"
+  },
+  {
+    "title": "کالج دخترونه گیپوری بند کشی",
+    "group": "دخترونه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترونه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گیپوری"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بند کشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "da5e735f-b322-46d0-8e53-8d99e51eef78",
+    "image_url": "https://image.torob.com/base/images/iG/Wf/iGWfb2djtCEUEbha.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل کد | Le Mabelle",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میبل"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "31d49aa4-fa35-46b5-910e-094a254c5b79",
+    "image_url": "https://image.torob.com/base/images/nC/0m/nC0mUxtnI0s2VRRX.jpg"
+  },
+  {
+    "title": "کالج دخترونه گیپوریGATTO",
+    "group": "نامشخص",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپوری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "GATTO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "4d57f778-ed9f-4d8c-9aa0-b4efc0275a3f",
+    "image_url": "https://image.torob.com/base/images/9Y/Fu/9YFuZmE790jNM2X2.jpg"
+  },
+  {
+    "title": "کالج نقلی پسرانه سایز18تا30",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "18 تا 30"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج نقلی"
+        ]
+      }
+    ],
+    "random_key": "d2ec566b-fea6-42ef-9cac-bf5067e4c8e8",
+    "image_url": "https://image.torob.com/base/images/qu/G0/quG0_uFyeuAKIidb.jpg"
+  },
+  {
+    "title": "بابت دخترانه SIRRI اورجینال piriltili-metalik-kiz-cocuk-babetleri—",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIRRI"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "6120fe51-8c2c-4530-a05f-2953a2f4e1b0",
+    "image_url": "https://image.torob.com/base/images/xR/Re/xRRe3oKloSx0ZiWP.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه مشکی INC",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "INC"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "88fa0c6b-fc4f-4438-9141-5d7475d8308b",
+    "image_url": "https://image.torob.com/base/images/MP/NJ/MPNJtCmWbsnykH9w.jpg"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 096 1811-1",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "4e0006cd-de04-4411-b63d-bbc69e411870",
+    "image_url": "https://image.torob.com/base/images/Vv/Vb/VvVbDw4VXrOvSnl-.jpg"
+  },
+  {
+    "title": "بابت دخترانه لباس بچه گانه سریس Sare Çocuk Giyim اورجینال vrkt55523",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لباس بچه گانه سریس",
+          "Sare Çocuk Giyim"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "2d6d6682-a9f2-4912-8464-cdc15d2046d7",
+    "image_url": "https://image.torob.com/base/images/44/Ng/44Ngv5oK4yJaPErw.jpg"
+  },
+  {
+    "title": "کالج بچگانه kiko-kids",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "kiko-kids"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "556fe0b2-7fdc-4e43-a717-ee69fd59010d",
+    "image_url": "https://image.torob.com/base/images/jS/lV/jSlVKEF9uwUYermM.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه پاییزی طبی راحتی کودکانه زیره پیو سبک خارجی نرم سلیز25تا30",
+    "group": "دخترانه کودکانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "کودکانه"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "طبی",
+          "راحتی"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک",
+          "نرم",
+          "خارجی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25 تا 30"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "2782d2ea-3d3a-490c-ab84-7dfb692ece99",
+    "image_url": "https://image.torob.com/base/images/S_/JR/S_JRV4_tzUhzlLZb.jpg"
+  },
+  {
+    "title": "بابت راسته دخترانه | سیویل گرلز Civil Girls A44280193K11",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سیویل گرلز",
+          "Civil Girls"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت راسته"
+        ]
+      }
+    ],
+    "random_key": "3b99b8f8-c5ab-4288-8e29-779d9d2a5ad4",
+    "image_url": "https://image.torob.com/base/images/uS/NF/uSNFawKwtUoIqSee.jpg"
+  },
+  {
+    "title": "کالج پسرانه سپهرسایز32تا37",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "32 تا 37"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "1a5bc127-65d9-472f-bbf7-0e4d907e64c7",
+    "image_url": "https://image.torob.com/base/images/aV/Ox/aVOx-ahbZzYeNkPD.jpg"
+  },
+  {
+    "title": "بابت دخترانه پلاریس اورجینال بژ Polaris BUTY.P4FX",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Polaris",
+          "پلاریس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "3604b441-883a-4403-841b-7075a122ffb4",
+    "image_url": "https://image.torob.com/base/images/8c/sJ/8csJ9dwCoSowVm7O.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو",
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "61c8e452-1db7-417b-bc19-53f2c917e217",
+    "image_url": "https://image.torob.com/base/images/DH/9r/DH9r2sdgRY91OveA.jpg"
+  },
+  {
+    "title": "کفش کالج مدل سنگی چرم صنعتی قالب استاندارد اگر پنجه خیلی پهن میباشد یک سایز بزرگتر سایز 37 تا 40 ارسال رایگان",
+    "group": "نامشخص",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم صنعتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "2881ed6a-ba91-40db-925a-629e657196f1",
+    "image_url": "https://image.torob.com/base/images/p4/EA/p4EAw5Jh_9ozrao2.jpg"
+  },
+  {
+    "title": "کفش کالج پاپیونی miu",
+    "group": "نامشخص",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "9f2f4204-b049-496a-9a0e-4a037d8dde53",
+    "image_url": "https://image.torob.com/base/images/ZF/Zs/ZFZsX9AfNqM5T0Go.jpg"
+  },
+  {
+    "title": "بابت دخترانه لباس بچه گانه سریس Sare Çocuk Giyim اورجینال vrbt12",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Sare Çocuk Giyim"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "c1de48f9-b3dc-4667-9512-2fb04446dc1c",
+    "image_url": "https://image.torob.com/base/images/QM/BR/QMBR-Z62VbfnffPh.jpg"
+  },
+  {
+    "title": "بابت دخترانه Mnk اورجینال MNK0061",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mnk"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "50e28979-99f2-418e-b432-c34184e16039",
+    "image_url": "https://image.torob.com/base/images/V2/x-/V2x-GaskGOqQW6ZH.jpg"
+  },
+  {
+    "title": "بابت مجلسی جدید (37تا41)- کالج مجلسی- بابت مجلسی - کفش مجلسی- بابت دخترانه- بابت جدید - بابت لاکچری- کالج",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37تا41"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج مجلسی",
+          "بابت مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جدید",
+          "لاکچری"
+        ]
+      }
+    ],
+    "random_key": "1f9cb35f-a607-458f-aaa8-43536140a8be",
+    "image_url": "https://image.torob.com/base/images/xV/Gp/xVGpIlgglaE18rMR.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه صورتی برند KİKO 23YBABKIK000001",
+    "group": "بچگانه. دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "8f994e74-84b0-4671-99bc-6710e1f86259",
+    "image_url": "https://image.torob.com/base/images/cC/gB/cCgBObIlI7s1JIni.jpg"
+  },
+  {
+    "title": "کفش کودک کالج سایز 31 تا 36 دو رنگ مشکی و سفید",
+    "group": "کودک",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 36"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "b9f86785-0653-4f74-ac27-ac584e077643",
+    "image_url": "https://image.torob.com/base/images/8t/9l/8t9lxN5o5DbYZXaY.jpg"
+  },
+  {
+    "title": "کالج دخترونه کنفی سگگ عینکی",
+    "group": "دخترونه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کنفی"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "سگگ عینکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "77fb24bb-2872-4bc5-b448-e4a91401c893",
+    "image_url": "https://image.torob.com/base/images/en/f_/enf_of9r3w9FKqbn.jpg"
+  },
+  {
+    "title": "بابت دخترانه SIRRI اورجینال B-106-LOLA",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIRRI"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "4149eb4a-ea9b-4a78-99a5-433af97dc97e",
+    "image_url": "https://image.torob.com/base/images/0p/0Q/0p0QvGD45_bhxDK9.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل | Le Mabelle",
+    "group": "دخترانه",
+    "product": "میبل",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "cce272be-2d1b-4f12-8f7a-e47361e87ff5",
+    "image_url": "https://image.torob.com/base/images/Sx/vh/SxvhTWSMOnt0so03.jpg"
+  },
+  {
+    "title": "کالج پسرانه چرم",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "fe3f381b-d6eb-4ee5-9c9c-61c757e630f0",
+    "image_url": "https://image.torob.com/base/images/k5/3S/k53SNPkBXmTS8FV_.jpg"
+  },
+  {
+    "title": "کالج بچگانه gala",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "gala"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "bca137ef-cce5-4746-8828-d30cc2f5c5fb",
+    "image_url": "https://image.torob.com/base/images/Qw/zt/Qwzt5CDt_vUoZvFF.jpg"
+  },
+  {
+    "title": "بابت دخترانه KAPTAN JUNIOR اورجینال BRYDK 300",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KAPTAN JUNIOR"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "04aa974b-b229-41dc-88b8-6b742a9f8813",
+    "image_url": "https://image.torob.com/base/images/Im/BN/ImBNwS6ROEUzAVl5.jpg"
+  },
+  {
+    "title": "کالج جذاب وشیک در 4رنگ سبک راحت",
+    "group": "نامشخص",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "4رنگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذاب و شیک",
+          "سبک",
+          "راحت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "dcb4538b-ab73-44c7-98e0-74250e7bee0a",
+    "image_url": "https://image.torob.com/base/images/nT/u4/nTu4_QFlVQTxGUde.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "4b08e7c1-d667-418b-be3d-2e95c57b6172",
+    "image_url": "https://image.torob.com/base/images/bc/5K/bc5KlbcNP7XlfJfk.jpg"
+  },
+  {
+    "title": "کالج عروسکی دخترانه مدل جدید",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج عروسکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مدل جدید"
+        ]
+      }
+    ],
+    "random_key": "46cb8317-e45c-49bc-b421-958a298adf79",
+    "image_url": "https://image.torob.com/base/images/To/Iu/ToIur6_IybTNJkqO.jpg"
+  },
+  {
+    "title": "کالج پسرانه مشکی سایز 25تا35",
+    "group": "پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25تا35"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "91d6b6cc-9fb2-4a8a-b844-db6ae4191d44",
+    "image_url": "https://image.torob.com/base/images/mx/Np/mxNpr4zUXrfK8UJr.jpg"
+  },
+  {
+    "title": "بابت دخترانه ال سی وایکیکی کد S4BB53Z4 | LCW STEPS",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "646f6fab-d5c2-469b-83df-ee710dfea04e",
+    "image_url": "https://image.torob.com/base/images/9O/Zc/9OZc9Zp5cOJVBMi8.jpg"
+  },
+  {
+    "title": "کالج بچگانه pabrik",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "5b6ffc61-9f4e-45c6-8698-08fdfd92be6a",
+    "image_url": "https://image.torob.com/base/images/qa/hP/qahPRqIMOCT-J7sa.jpg"
+  },
+  {
+    "title": "بابت دخترانه پاندالینا Pandalina اورجینال babetçigeldi",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پاندالینا"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "905dbdc4-44c0-4e72-9135-0f60d83bf514",
+    "image_url": "https://image.torob.com/base/images/-D/KB/-DKBjLBmg9CLT3Qh.jpg"
+  },
+  {
+    "title": "کالج بچگانه",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "58e7ba72-ef56-4eec-bfd6-f30a69840354",
+    "image_url": "https://image.torob.com/base/images/T3/HI/T3HIIy6zry02dCZo.jpg"
+  },
+  {
+    "title": "بابت دخترانه welissa اورجینال W0011.P.BABET",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "welissa"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "6e31c261-2cd8-4292-9251-8556debd4f39",
+    "image_url": "https://image.torob.com/base/images/1b/Lm/1bLmg0dZv8_Ckt3g.jpg"
+  },
+  {
+    "title": "بابت پسرانه KAPTAN JUNIOR اورجینال İMSE 500",
+    "group": "پسرانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KAPTAN JUNIOR"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "0a56b22e-31be-4fd0-838b-6666c9bb387f",
+    "image_url": "https://image.torob.com/base/images/Mu/et/MuetUrkXmiGYNV9A.jpg"
+  },
+  {
+    "title": "بابت دخترانه لباس بچه گانه سریس Sare Çocuk Giyim اورجینال vrbpt11cv",
+    "group": "دخترانه بچه گانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سریس"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "89bba890-c580-4d6b-9dc7-0bc3eb31621a",
+    "image_url": "https://image.torob.com/base/images/EN/z5/ENz5Fw-QDtWxg1-P.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "ccb52bfe-228a-43f3-8dfe-6647c8d39505",
+    "image_url": "https://image.torob.com/base/images/h4/AS/h4ASvuExNq0JUfYt.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "0dafa3f1-6228-4b21-bdf2-675fd9c60439",
+    "image_url": "https://image.torob.com/base/images/_s/vY/_svYLJNM21g03xx0.jpg"
+  },
+  {
+    "title": "بابت دخترانه لباس بچه گانه سریس Sare Çocuk Giyim اورجینال vrkt5",
+    "group": "دخترانه بچه گانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سریس"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "2b710f05-3c7c-44e4-b147-b39e5d7f65c9",
+    "image_url": "https://image.torob.com/base/images/XR/Av/XRAv9ALnhVhEBfLW.jpg"
+  },
+  {
+    "title": "کالج دخترانه",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "22987936-1dac-4631-bb37-5728c639d628",
+    "image_url": "https://image.torob.com/base/images/8F/Y6/8FY68sNY61cclgbR.jpg"
+  },
+  {
+    "title": "کالج بچگانه",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "4d58fb85-ad84-49ca-b759-f424e19273a5",
+    "image_url": "https://image.torob.com/base/images/jh/XW/jhXWxDscT0LmPI-b.jpg"
+  },
+  {
+    "title": "بابت بچگانه frozen",
+    "group": "بچگانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "frozen"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "b7c3eeb6-394d-4587-84b1-f6d9faf45093",
+    "image_url": "https://image.torob.com/base/images/lb/P2/lbP2rM25iVz1xFZk.jpg"
+  },
+  {
+    "title": "بابت پسرانه SIRRI اورجینال FS-711202",
+    "group": "پسرانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SIRRI"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "fbfe8654-1464-4301-a419-e88bebf66b5a",
+    "image_url": "https://image.torob.com/base/images/P5/hW/P5hWdvb-DW1hT3vd.jpg"
+  },
+  {
+    "title": "کفش کالج پسرانه",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "bf6c8151-c730-4454-8115-71552f851e12",
+    "image_url": "https://image.torob.com/base/images/UP/E6/UPE656GCcsOqJtve.jpg"
+  },
+  {
+    "title": "بابت بچگانه jomoti",
+    "group": "بچگانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "jomoti"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "815638a8-4931-450b-a2eb-875b4150e71a",
+    "image_url": "https://image.torob.com/base/images/cK/qx/cKqxtLnnbqNKvXcb.jpg"
+  },
+  {
+    "title": "بابت بچگانه astra-market",
+    "group": "بچگانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "astra-market"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "73364c97-a49c-4842-9f29-cb25de5a31c3",
+    "image_url": "https://image.torob.com/base/images/yZ/2y/yZ2yrojsq5glrw20.jpg"
+  },
+  {
+    "title": "کفش دخترانه کالج پاپیونی صورتی",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "32002dac-dcfd-463c-9264-71554f3f5eff",
+    "image_url": "https://image.torob.com/base/images/-d/s7/-ds7jfVbcpvZpWz9.jpg"
+  },
+  {
+    "title": "کفش کالج بچگانه",
+    "group": "بچگانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "2bb21651-99db-49e0-9266-f5ee6e658170",
+    "image_url": "https://image.torob.com/base/images/DV/TO/DVTOPCWJgMSFZ8my.jpg"
+  },
+  {
+    "title": "بابت دخترانه AYS SHOES اورجینال BABET TAŞLİ",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "AYS SHOES"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت TAŞLİ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "01df9101-2683-4e9f-a828-de6901ec4e5e",
+    "image_url": "https://image.torob.com/base/images/iy/M4/iyM4ZQ13ZnKadc0w.jpg"
+  },
+  {
+    "title": "کالج مشکی دور سفید",
+    "group": "نامشخص",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "e6efb0a6-db49-4030-959d-96f3acf1270c",
+    "image_url": "https://image.torob.com/base/images/ii/rT/iirTBDELYeWYwAin.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل کد | Le Mabelle",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "08e77746-f4c4-4a41-9e22-65f02a72e2da",
+    "image_url": "https://image.torob.com/base/images/bE/I_/bEI_fIUJK2VQVxJy.jpg"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 087 1947 B",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "3d09f4e2-d641-46d8-aafa-08c3095d3aa0",
+    "image_url": "https://image.torob.com/base/images/Eb/4C/Eb4CavMom4H64iYF.jpg"
+  },
+  {
+    "title": "بابت دخترانه موز Banamio اورجینال SHUU10000",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Banamio"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "47516bb9-43ea-4995-a8ab-b93ddbc85d5b",
+    "image_url": "https://image.torob.com/base/images/XT/xE/XTxESzGNjgalk9UE.jpg"
+  },
+  {
+    "title": "حراج ویژه کفش کتونی اسپرت مردانه و پسرانه مدل ونس لگو رنگ مشکی سفید جدید ترین و مدرن با ارسال رایگان",
+    "group": "مردانه و پسرانه",
+    "product": "کفش کتونی اسپرت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "مردانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت",
+          "ونس"
+        ]
+      }
+    ],
+    "random_key": "b3b19bb8-d6a8-496a-a2bd-d1b8ec8a4574",
+    "image_url": "https://image.torob.com/base/images/xq/q0/xqq0rWE-Zj0-VS4o.jpg"
+  },
+  {
+    "title": "کفش عروسکی دخترانه کالج دخترانه شیک",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "80fdb399-7359-48c5-a364-cd215c4d0ea2",
+    "image_url": "https://image.torob.com/base/images/4e/LH/4eLHE8p-8482JYBt.jpg"
+  },
+  {
+    "title": "کفش کالج پسرانه",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "6eb04205-ddfc-4d37-8caa-abc684b145b0",
+    "image_url": "https://image.torob.com/base/images/er/iD/eriD2eepy0-7-AHA.jpg"
+  },
+  {
+    "title": "کفش کالج پسرانه سفید Mothercare",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mothercare"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "1b40f0e5-ae5c-4f8b-88e8-3598b5c54597",
+    "image_url": "https://image.torob.com/base/images/-Y/fw/-YfwKELhAcunD8AS.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "40626f8e-f33c-4c10-9c9c-dbd9a7ac6199",
+    "image_url": "https://image.torob.com/base/images/sv/Tt/svTtnIJQKIu8l1bd.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه جنس چرم ارسال رایگان - تک رنگ مشکی /",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "d194d187-23e9-4d1c-9c7f-81fb0b67177f",
+    "image_url": "https://image.torob.com/base/images/83/85/8385daHpqb21xEjx.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "13f79cee-51e9-4901-b71a-a5f817189b7f",
+    "image_url": "https://image.torob.com/base/images/Tp/O-/TpO-7U9317NGIE4y.jpg"
+  },
+  {
+    "title": "کالج دخترونه بغل گره ای SHARGH",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترونه"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "گره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "d929d231-6574-45a8-8c60-77376010010f",
+    "image_url": "https://image.torob.com/base/images/IX/uK/IXuK23pqEgF_ui5w.jpg"
+  },
+  {
+    "title": "بابت دخترانه اورجینال السی وایکیکی آبی سرمه ای LC Waikiki S4AK04Z1 - VB5 بالرین دختر بچه با جزئیات کمان LCW STEPS",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "کمان"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "دختر بچه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بالرین"
+        ]
+      }
+    ],
+    "random_key": "6d0ea0f6-5438-464f-9404-2657cac49482",
+    "image_url": "https://image.torob.com/base/images/sL/Rz/sLRzcb3rZbDQ1fM0.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کفش بابت بچه گانه دخترانه سیاه برند KİKO KİDS 23YBABKIK000012",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KİKO KİDS"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "89f309ae-aec9-4d01-83d0-770a98cfa782",
+    "image_url": "https://image.torob.com/base/images/a5/Zh/a5ZhBDobHcf2uh1Z.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "5536f1a0-b297-409c-9a45-d122dec30f7e",
+    "image_url": "https://image.torob.com/base/images/dl/iS/dliSxW3cvvUwZW-W.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل کد 4851 | Le Mabelle",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میبل",
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "038582a5-700d-4f56-a71c-97753f0a4aa3",
+    "image_url": "https://image.torob.com/base/images/RK/Fo/RKFoEns2CBNx0Kpr.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "1425d892-0d60-4f7f-8f61-61b54aea15b7",
+    "image_url": "https://image.torob.com/base/images/rW/99/rW99ehbfDRA5e48F.jpg"
+  },
+  {
+    "title": "بابت دخترانه لو مابل Le Mabelle اورجینال LM1335",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لو مابل",
+          "Le Mabelle"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "055bf43e-c4ff-454d-a00d-2cf67b5f5415",
+    "image_url": "https://image.torob.com/base/images/bk/gq/bkgqK5UeAI4wffZf.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه بنفش السی وایکیکی W2BY69Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "4db1a835-b194-435e-84f4-066cf6aa36cb",
+    "image_url": "https://image.torob.com/base/images/Ed/2t/Ed2tT3SmmBxQnPYF.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه صورتی برند Kiko Kids 21YBABKIK000001",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Kiko Kids"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "e67f3b61-baaf-4e63-ad7b-c7f2b0120539",
+    "image_url": "https://image.torob.com/base/images/iN/l6/iNl6tDUYLi8ZkjMt.jpg"
+  },
+  {
+    "title": "کالج دخترانه تمام چرم با ارسال رایگان",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تمام چرم"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "fc2b4ba6-08ed-47d0-8c5f-12f222d8cd23",
+    "image_url": "https://image.torob.com/base/images/wU/Tz/wUTzDnCIgnYaE0jh.jpg"
+  },
+  {
+    "title": "کالج حیوانات کف چرمی ترمز دار . وارداتی.",
+    "group": "نامشخص",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنس زیره",
+        "values": [
+          "کف چرمی ترمز دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج حیوانات"
+        ]
+      }
+    ],
+    "random_key": "fbfcfcdd-c965-4d4d-9c9c-3e9ed7e7a3cd",
+    "image_url": "https://image.torob.com/base/images/PS/H6/PSH6m_d7e42CxFU9.jpg"
+  },
+  {
+    "title": "بابت پسرانه – دخترانه برند ان یو بی بی اصل 021 514-BK",
+    "group": "پسرانه - دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ان یو بی بی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "13846097-c111-4bd0-a3b4-a0e7dc0aacda",
+    "image_url": "https://image.torob.com/base/images/BD/fh/BDfh4rObKUlp3K7K.jpg"
+  },
+  {
+    "title": "کفش کالج حراجی دخترانه کارتیل دار رنگ صورتی",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج حراجی"
+        ]
+      }
+    ],
+    "random_key": "a6bb80bd-c968-4a13-8cf8-e243d9e001e2",
+    "image_url": "https://image.torob.com/base/images/pj/__/pj__p571aRBJB_3b.jpg"
+  },
+  {
+    "title": "کالج دخترانه ترک پاخور بسیار راحت و شیک از سایز 37تا40",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37تا40"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ترک",
+          "پاخور بسیار راحت",
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f9b28ed5-e04f-43ad-b508-8615bb4a2581",
+    "image_url": "https://image.torob.com/base/images/QD/TQ/QDTQNagL2MG09p-D.jpg"
+  },
+  {
+    "title": "بابت دخترانه فرست استپ | First Step",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "فرست استپ",
+          "First Step"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "597c0f3c-613b-47d2-b988-b9a118cff7df",
+    "image_url": "https://image.torob.com/base/images/IE/Ce/IECe9CyerFrPnnkQ.jpg"
+  },
+  {
+    "title": "کالج بچگانه fiko",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "fiko"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "5336a69a-066c-49af-a7be-b9ca8f445513",
+    "image_url": "https://image.torob.com/base/images/q_/EH/q_EHMbVb5E8Vb32n.jpg"
+  },
+  {
+    "title": "فروش کالج دخترانه در کرج کفش آرجی",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کفش آرجی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "1fae0263-7629-4ee2-8aa1-bddf02b26dd8",
+    "image_url": "https://image.torob.com/base/images/9e/Wu/9eWuqTmu_DTwm4OM.jpg"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 003 2510",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "14ca2bbb-d23e-400c-9193-c02e235fdd45",
+    "image_url": "https://image.torob.com/base/images/-6/WR/-6WR6T6t0EP8MptH.jpg"
+  },
+  {
+    "title": "کالج بچگانه kiko-kids",
+    "group": "بچگانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "kiko-kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f6099796-7342-4613-a5b2-ad2d875b739c",
+    "image_url": "https://image.torob.com/base/images/A_/6I/A_6IcxJdEQmYjn-l.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه صورتی برند KİKO 23YBABKIK000005",
+    "group": "بچگانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KİKO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "96c4de81-3c1a-49d3-8307-2c0c60bf4228",
+    "image_url": "https://image.torob.com/base/images/rp/ip/rpipqVWsCB5fEstB.jpg"
+  },
+  {
+    "title": "کالج دخترانه آندیا",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندیا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "f1c8f6e1-7a9f-4796-9a43-459bf45eb229",
+    "image_url": "https://image.torob.com/base/images/C5/d6/C5d6rfZG4-Smq7Kn.jpg"
+  },
+  {
+    "title": "حراج ویژه این هفته کفش کالج دخترانه مدل پاپیونی فوق العاده ناز و دلبر صورتی جذاب",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ناز",
+          "دلبر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "e42b7750-178d-430e-b0bb-d87a207ea948",
+    "image_url": "https://image.torob.com/base/images/B7/cx/B7cxBRiobPU2Rc8U.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو | KİKO",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "a4d62549-96f9-4bc8-8db7-ed5de5ca6912",
+    "image_url": "https://image.torob.com/base/images/gp/km/gpkmEkaYAHyCRbIt.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو | KİKO",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کیکو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "862c9d83-d315-4902-8e95-284cb46d0915",
+    "image_url": "https://image.torob.com/base/images/XX/6T/XX6T-7YfOu8-AyEx.jpg"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 469-1",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "323d13f3-e7d7-4892-999b-eaf787295ee1",
+    "image_url": "https://image.torob.com/base/images/ur/kf/urkfYwIoeerkg-m2.jpg"
+  },
+  {
+    "title": "بابت دخترانه برند السی وایکیکی LC Waikiki اصل S4AK00Z1 - J5E",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "fac3ceda-0f63-437d-b674-6d5c2bc62aaa",
+    "image_url": "https://image.torob.com/base/images/XH/ue/XHueVH_bVcnVa6et.jpg"
+  },
+  {
+    "title": "کالج عروسکی دخترانه",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج عروسکی"
+        ]
+      }
+    ],
+    "random_key": "1b6899d8-1997-488d-9938-2a696dfae78c",
+    "image_url": "https://image.torob.com/base/images/a5/Lg/a5LgdU3CkRDAK_0Q.webp"
+  },
+  {
+    "title": "بابت دخترانه Tuğba Ortopedi اورجینال 131 2117 B",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "2b42a9c8-8cad-44bb-8602-ca21086f8680",
+    "image_url": "https://image.torob.com/base/images/NS/ih/NSihI8-l9er6KR1c.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه سفید برند MİNİPİCCO 23Y3B9616",
+    "group": "بچگانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MİNİPİCCO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "d9946f40-bb87-4d1f-bcb2-8c92bbe210e8",
+    "image_url": "https://image.torob.com/base/images/-8/T1/-8T1E68qVrHm0FL6.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه نایک رکابدار نگینی",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "رکابدار",
+          "نگینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "30278d87-c81e-42ce-b4d9-2342bb10c510",
+    "image_url": "https://image.torob.com/base/images/rn/vq/rnvqBk85FJ9O_VKJ.jpg"
+  },
+  {
+    "title": "کفش کالج دخترانه مشکی 1155",
+    "group": "دخترانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کالج"
+        ]
+      }
+    ],
+    "random_key": "11eb3ecf-224e-4a4a-8c85-9d194f5aeae3",
+    "image_url": "https://image.torob.com/base/images/pI/Uy/pIUyMeyFAyzAQUbV.jpg"
+  },
+  {
+    "title": "بابت دخترانه میبل 3877 | Le Mabelle",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میبل | Le Mabelle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "402ca890-9a93-4374-9f9f-6ac6d4275792",
+    "image_url": "https://image.torob.com/base/images/Q5/yW/Q5yW6Zz329EgWctH.jpg"
+  },
+  {
+    "title": "بابت دخترانه السی وایکیکی LC Waikiki اورجینال S4AI21Z4 –",
+    "group": "دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش بابت"
+        ]
+      }
+    ],
+    "random_key": "354e0695-732d-4b02-8970-f6277a5c35eb",
+    "image_url": "https://image.torob.com/base/images/Z7/nH/Z7nHErU3Jq0mRl5W.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو کد | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو",
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "7595a958-bf2b-4801-bb1b-2a7b500aa01e",
+    "image_url": "https://image.torob.com/base/images/cH/2l/cH2lOSBfL6W5hhuj.jpg"
+  },
+  {
+    "title": "کفش کالج پسرانه مجلسی چرم پاشنه کوتاه مناسب کت و شلوار و اداری و اسپرت محکم و بادوام رنگ مشکی طرح مازراتی 220271",
+    "group": "پسرانه",
+    "product": "کفش کالج",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی",
+          "اداری",
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محکم",
+          "بادوام"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج پاشنه کوتاه"
+        ]
+      }
+    ],
+    "random_key": "c40af5e8-1600-45f8-a973-bb2b15fe24d2",
+    "image_url": "https://image.torob.com/base/images/-z/ol/-zolwUQXRs6XFp-V.jpg"
+  },
+  {
+    "title": "کالج دخترانه کد 979ازسایز 37تا40",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "5c360dac-13bf-4142-8d76-20fb87465e83",
+    "image_url": "https://image.torob.com/base/images/se/v4/sev4Fpyt483E4cT_.jpg"
+  },
+  {
+    "title": "کالج مجلسی بچه گانه در کرج کفش آرجی",
+    "group": "بچه گانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "60fa1e6b-d334-46fc-8057-0263c97b84bc",
+    "image_url": "https://image.torob.com/base/images/qG/0Y/qG0Y5JT-hwJbGuhS.jpg"
+  },
+  {
+    "title": "کالج دخترونه نگین ضربدری",
+    "group": "دخترانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جزئیات ظاهری",
+        "values": [
+          "نگین ضربدری"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "c7c12c9e-0fc4-4f2c-961a-c350d1023f57",
+    "image_url": "https://image.torob.com/base/images/uB/AT/uBATDwfqS7CasX7K.jpg"
+  },
+  {
+    "title": "بابت بچگانه jomoti",
+    "group": "بچگانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "jomoti"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "331f6dc9-1764-41b1-a00d-8b268540e3e0",
+    "image_url": "https://image.torob.com/base/images/mr/JA/mrJA6P4812zd3A3E.jpg"
+  },
+  {
+    "title": "کالج پسرانه .بچه گانه",
+    "group": "پسرانه، بچه گانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "پسرانه",
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "8170cacd-816b-4ae7-a8ba-f1f299ee198a",
+    "image_url": "https://image.torob.com/base/images/CW/2M/CW2M5yuBAFpgqwTH.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کالج بچه گانه پسرانه بژ برند Civil S000200354",
+    "group": "بچه گانه پسرانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Civil"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "8f45dc55-1e93-447b-90c0-e7e33d3647fc",
+    "image_url": "https://image.torob.com/base/images/vf/7Z/vf7ZO2JImbBulowp.jpg"
+  },
+  {
+    "title": "بابت دخترانه کیکو | KİKO",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کیکو",
+          "KİKO"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "1132e8a9-3ed8-4df0-8fe3-d1fad7fd02c6",
+    "image_url": "https://image.torob.com/base/images/tT/Rc/tTRcMVSivQq2cpyd.jpg"
+  },
+  {
+    "title": "بابت دخترانه welissa اورجینال W0013.P.BABET",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "welissa"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "1d4cd3ab-024b-4b51-a327-d48d4ef4a108",
+    "image_url": "https://image.torob.com/base/images/f9/gl/f9glO6KGCtWk53eT.jpg"
+  },
+  {
+    "title": "کالج بچگانه casabony",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "casabony"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "5261efed-e573-4754-95c9-5d613e433a30",
+    "image_url": "https://image.torob.com/base/images/9t/1X/9t1XIWD65HOAMXGU.jpg"
+  },
+  {
+    "title": "بابت دخترانه لباس بچه گانه سریس Sare Çocuk Giyim اورجینال vr",
+    "group": "دخترانه بچه گانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Sare Çocuk Giyim"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه",
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "fe2f9f8f-70f7-45f9-b0c8-e3a3a55879f7",
+    "image_url": "https://image.torob.com/base/images/l_/0U/l_0UoPRr2QWAcZEl.jpg"
+  },
+  {
+    "title": "کفش بابت بچه گانه دخترانه سیاه السی وایکیکی S2BT94Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "کفش بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچه گانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "3311f068-7d15-45d5-8fa2-0e7c2fc47526",
+    "image_url": "https://image.torob.com/base/images/0q/2-/0q2-v0sU_ow2gNux.jpg"
+  },
+  {
+    "title": "کالج بچگانه gala",
+    "group": "بچگانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "gala"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "d8b0b6b8-88ad-4d81-910f-ab30420d2c16",
+    "image_url": "https://image.torob.com/base/images/el/_d/el_dIjDjYTW1AezN.jpg"
+  },
+  {
+    "title": "بابت دخترانه پانچو Panço اورجینال 2312GK10004",
+    "group": "دخترانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پانچو",
+          "Panço"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "726725bb-3c02-4cbe-aa2b-90100cd20f4a",
+    "image_url": "https://image.torob.com/base/images/Q2/Qf/Q2Qf4Pc-w0Bc0Rch.jpg"
+  },
+  {
+    "title": "بابت بچگانه mango-kids",
+    "group": "بچگانه",
+    "product": "بابت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "mango-kids"
+        ]
+      },
+      {
+        "name": "محدوده سنی/جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بابت"
+        ]
+      }
+    ],
+    "random_key": "50179cf7-9f22-4522-81e0-e0744916497d",
+    "image_url": "https://image.torob.com/base/images/LE/UZ/LEUZj3-1o7jNZ-XN.jpg"
+  }
+]

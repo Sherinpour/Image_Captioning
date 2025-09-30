@@ -1,0 +1,6784 @@
+[
+  {
+    "title": "رکابی ورزشی مردانه مدل قهرمانی کد 30408",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی مردانه مدل قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "9aed69f8-895b-4e62-840e-3e062a58c76c",
+    "image_url": "https://image.torob.com/base/images/JZ/iw/JZiws_mvTh_yera6.webp"
+  },
+  {
+    "title": "تاپ ورزشی مردانه سوزنی مدل یوونتوس",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "یوونتوس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "7a2e6351-3250-4fa7-9a95-bfdd9514d031",
+    "image_url": "https://image.torob.com/base/images/FE/pt/FEptyRYSQchNHEfm.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مدل تنفسی - شناسه 833",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنفسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "681a0404-5078-446f-be5c-a02996af4d84",
+    "image_url": "https://image.torob.com/base/images/h8/-O/h8-OlccGwpsXIZr_.jpg"
+  },
+  {
+    "title": "استین حلقه ای ورزشی مردانه",
+    "group": "مردانه",
+    "product": "استین حلقه ای ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استین حلقه ای ورزشی"
+        ]
+      }
+    ],
+    "random_key": "93549e4d-22da-497f-83cd-8d79c2f45108",
+    "image_url": "https://image.torob.com/base/images/Ok/zc/OkzcMI-B9dxOWs9F.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی حرفه ای مدل ANABOLIC PHASE دورنگ",
+    "group": "نامشخص",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی حرفه ای"
+        ]
+      }
+    ],
+    "random_key": "342df025-099c-440f-93d1-cee6f921d201",
+    "image_url": "https://image.torob.com/base/images/xP/O1/xPO1_H-LjbpmIet3.jpg"
+  },
+  {
+    "title": "تاپ مردانه طرح دست کد SM151",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "دست"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "46596a7a-2958-4881-99db-31be35ed640d",
+    "image_url": "https://image.torob.com/base/images/80/lo/80loBsor8_pewnAN.jpg"
+  },
+  {
+    "title": "تاپ قهرمانی مدیوم",
+    "group": "نامشخص",
+    "product": "تاپ قهرمانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ قهرمانی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مدیوم"
+        ]
+      }
+    ],
+    "random_key": "ecffe3df-0c4d-4012-9ebb-7f450bfc4a22",
+    "image_url": "https://image.torob.com/base/images/QB/92/QB92KMDtokddIZRk.jpg"
+  },
+  {
+    "title": "تاپ مردانه بند نازک VIKING",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ بند نازک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "VIKING"
+        ]
+      }
+    ],
+    "random_key": "294438b4-974a-40c5-a4b8-678e3a0cd23f",
+    "image_url": "https://image.torob.com/base/images/pY/IX/pYIXOShvikXRpAji.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه برند BROOKS",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "BROOKS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b88bd81e-e530-48e9-b34c-feb30af249f1",
+    "image_url": "https://image.torob.com/base/images/O_/eR/O_eRPwDexUc6-jJy.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه ایوژن مدل PY-STAR 91210 سفید",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ایوژن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "1dce47f9-87db-471f-ac86-0c501c6faf1d",
+    "image_url": "https://image.torob.com/base/images/VB/vq/VBvqCIFIwxxj9jLj.jpg"
+  },
+  {
+    "title": "رکابی حراجی- L",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "b6adf19d-34d6-4423-a350-0cf1fb42202c",
+    "image_url": "https://image.torob.com/base/images/d_/yT/d_yT0zjkHjVNeUi0.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه کد 1001000 – مدل پشت قهرمانی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت قهرمانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی مردانه"
+        ]
+      }
+    ],
+    "random_key": "c038735e-fa28-4546-bd2f-40bc47099f38",
+    "image_url": "https://image.torob.com/base/images/mh/tX/mhtXKUkUbJkg2EA9"
+  },
+  {
+    "title": "تاپ مردانه مدل قهرمانی جوردن",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "قهرمانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جوردن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "204f75e3-9606-4622-8007-09e087b346f2",
+    "image_url": "https://image.torob.com/base/images/pr/Nf/prNfXj7sc4MrBLo2.jpg"
+  },
+  {
+    "title": "تاپ اسپورت (پس کرایه)",
+    "group": "نامشخص",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "88e80294-9864-4a27-98d6-61428dd97563",
+    "image_url": "https://image.torob.com/base/images/a7/zf/a7zfAzl4svCxSObq.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه آندر آرمور مدل GMS-Heat Gear-3G1297 قرمز",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آندر آرمور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "629664c3-5860-477c-a4a4-cff279d9d32a",
+    "image_url": "https://image.torob.com/base/images/QZ/t5/QZt5dfUdN46MO_ND.jpg"
+  },
+  {
+    "title": "تاپ بدنسازی بسکتبالی",
+    "group": "نامشخص",
+    "product": "تاپ بدنسازی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ بدنسازی بسکتبالی"
+        ]
+      }
+    ],
+    "random_key": "4e085a82-6698-451f-aee8-b59baa5f17f0",
+    "image_url": "https://image.torob.com/base/images/CS/sN/CSsNbIeFy7SCRRGI.jpg"
+  },
+  {
+    "title": "آستین حلقه‌ای پارچه کامپیوتری طرح نایک",
+    "group": "نامشخص",
+    "product": "آستین حلقه ای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستین حلقه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه کامپیوتری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "53e3e9d0-9863-4fb4-b1a1-effe77343981",
+    "image_url": "https://image.torob.com/base/images/KC/Ii/KCIimO1B-q6y778Y.webp"
+  },
+  {
+    "title": "تاپ کلاه دار مردانه مدل FTS-5201",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاه دار"
+        ]
+      }
+    ],
+    "random_key": "1f11f188-6096-42ab-b249-ab255ef6057d",
+    "image_url": "https://image.torob.com/base/images/2N/ye/2NyeZuJEB5cRrfIf.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی ونوم با۵ رنگ",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "۵ رنگ"
+        ]
+      }
+    ],
+    "random_key": "ed0115dc-a52d-49e3-829e-c157933f7c00",
+    "image_url": "https://image.torob.com/base/images/pC/3D/pC3D_aw54LrxnHET.jpg"
+  },
+  {
+    "title": "تاپ رکابی باشگاهی کد a4۶",
+    "group": "نامشخص",
+    "product": "تاپ رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "باشگاهی"
+        ]
+      }
+    ],
+    "random_key": "2abaf96b-6afd-48f8-a193-53452a8cd6dc",
+    "image_url": "https://image.torob.com/base/images/4R/cq/4RcqwvrtoomKpQdM.jpg"
+  },
+  {
+    "title": "رکابی سوزنی مشکی تکی",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "6a93ef42-6a30-4f82-8e01-0243afa7753b",
+    "image_url": "https://image.torob.com/base/images/w5/Wd/w5Wdt4x0fQujgZJY.jpg"
+  },
+  {
+    "title": "تاپ حلقه ای ورزشی چاپ ریباک Reebok",
+    "group": "نامشخص",
+    "product": "تاپ حلقه ای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریباک Reebok"
+        ]
+      }
+    ],
+    "random_key": "af0ccf22-3de6-4a2c-a2ab-26c3debc4a3f",
+    "image_url": "https://image.torob.com/base/images/j7/ql/j7ql38FW8AGd0jr-.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه آندر آرمور مدل GMS-3D617 طوسی تیره",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندر آرمور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی تیره"
+        ]
+      }
+    ],
+    "random_key": "8dc8f1c2-b4ea-40d8-9dc6-834d993d5633",
+    "image_url": "https://image.torob.com/base/images/4m/nM/4mnM3Dl-AdZ4lZAq.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل F185",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "5cd16ef7-433c-49d9-9392-096ac2f59e8c",
+    "image_url": "https://image.torob.com/base/images/XL/2C/XL2C9vnUYCz9MWLB.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی مردانه شیکاگو بولز مدل PY-BULLS 0303 سفید",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیکاگو بولز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "1c2df509-3e47-4402-85c2-84b148fe36b8",
+    "image_url": "https://image.torob.com/base/images/Mz/3E/Mz3Ez7v7eshq3FGd.jpg"
+  },
+  {
+    "title": "تاپ مردانه طرح موتور کد SM144",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "طرح موتور"
+        ]
+      }
+    ],
+    "random_key": "9bd99651-f086-4f0a-aa0d-8513e60daa69",
+    "image_url": "https://image.torob.com/base/images/MG/5A/MG5A_AMD_r3D2W33.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه آدیداس مدل AOP ANIMAL VEST کد H06725",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      }
+    ],
+    "random_key": "5ed6b62e-ea3d-4bb7-987b-9f35a24d48e5",
+    "image_url": "https://image.torob.com/base/images/TI/Gw/TIGwBYBYqipGj03n.jpg"
+  },
+  {
+    "title": "تاب مردانه گرنجو مدل ملوان زبل",
+    "group": "مردانه",
+    "product": "تاب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاب"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "مدل ملوان زبل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "گرنجو"
+        ]
+      }
+    ],
+    "random_key": "42386bb6-186f-4b47-987d-c51c01630eab",
+    "image_url": "https://image.torob.com/base/images/nP/B1/nPB11OJeNuJ45-KV.jpg"
+  },
+  {
+    "title": "تاب ورزشی مردانه مدل جغد",
+    "group": "مردانه",
+    "product": "تاب ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاب ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جغد"
+        ]
+      }
+    ],
+    "random_key": "42f4b9be-05b7-4b56-a505-6718b928a437",
+    "image_url": "https://image.torob.com/base/images/rS/h1/rSh1Bc4UfajtrX30.jpg"
+  },
+  {
+    "title": "رکابی قهرمانی تنفسی نایک تایلندی",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنفسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک تایلندی"
+        ]
+      }
+    ],
+    "random_key": "651656b5-6dc6-43ba-bd02-6057571f227b",
+    "image_url": "https://image.torob.com/base/images/Pv/nS/PvnSiU6fX4tM_IuM.jpg"
+  },
+  {
+    "title": "رکابی مردانه",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "775770d0-280c-4625-bd21-880df23aab66",
+    "image_url": "https://image.torob.com/base/images/UG/Cg/UGCgaIwJKEQRAKVs.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل tp17 طرح پروانه",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      }
+    ],
+    "random_key": "9734bbb8-a340-4af5-bbe7-a376f8049f06",
+    "image_url": "https://image.torob.com/base/images/mF/Gu/mFGuzHxoT4AsJle2.jpg"
+  },
+  {
+    "title": "رکابی پشت کشدارسوزنی",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت کشدار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "75945ed5-ba76-4d0e-adb4-a1a41ba179e4",
+    "image_url": "https://image.torob.com/base/images/Vi/7_/Vi7_ld3tG-exwYiH.jpg"
+  },
+  {
+    "title": "تاپ مردانه با کفیت 4 رنگ مختلف بسیارتک خاص وخفن خوش دوخت مناسب در منزل شما",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "4 رنگ"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "خوش دوخت",
+          "خانگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "e9f6bb13-27d3-49f4-ac92-b946426207d9",
+    "image_url": "https://image.torob.com/base/images/bl/rT/blrTABzNsbO7VcjB.jpg"
+  },
+  {
+    "title": "رکابی کلاه دار ورزشی و بدنسازی پسرانه اعلا زرد",
+    "group": "پسرانه",
+    "product": "رکابی ورزشی بدنسازی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاه دار ورزشی",
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      }
+    ],
+    "random_key": "c70ba0e2-c3be-4bd8-bf6c-2855fe982d19",
+    "image_url": "https://image.torob.com/base/images/0X/0I/0X0ID1O9mUUqR-Ou.jpg"
+  },
+  {
+    "title": "رکابی پشت هشتی UNDER",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت هشتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "UNDER"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "5f57fa9e-4e3e-4abf-9dd0-1714e84276fb",
+    "image_url": "https://image.torob.com/base/images/sp/5k/sp5kPfOWHoc0EjMr.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نخی ساده نایک",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ea0a9caa-1dec-4f00-8859-552fe865cf94",
+    "image_url": "https://image.torob.com/base/images/Ng/xh/NgxhJ9x5fygXo3rl.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار ورزشی مردانه شیکاگو بولز مدل PY-Bulls 1408 سفید",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شیکاگو بولز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "af34510c-5117-4b25-8cee-63a6b6f03c76",
+    "image_url": "https://image.torob.com/base/images/Pp/0F/Pp0FFWTbvnbDwinl.jpg"
+  },
+  {
+    "title": "تاپ مردانه موها فیتنس مدل VIBE - TO",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "موها فیتنس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "c3d15585-81b0-4320-8e01-5b03384b7d77",
+    "image_url": "https://image.torob.com/base/images/Me/0O/Me0OXhjRgEQOFoXQ.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل TAP24 طرح وزنه بردار",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "وزنه بردار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "25c00b5b-b3f0-4f98-bcf5-04547b2421b4",
+    "image_url": "https://image.torob.com/base/images/9H/yN/9HyNtOaf52_kGuyF.jpg"
+  },
+  {
+    "title": "رکابی مردانه Gymshark | طراحی سبک و تنفس‌پذیر برای تمرینات ورزشی",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Gymshark"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک",
+          "تنفس پذیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "2a28519e-f1ea-491a-af87-0371f32e562a",
+    "image_url": "https://image.torob.com/base/images/32/No/32NoekSdunM5EZWI.webp"
+  },
+  {
+    "title": "تاپ کلاه دار مردانه اولسون طرح the sport",
+    "group": "مردانه",
+    "product": "تاپ کلاه دار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاه دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "the sport"
+        ]
+      }
+    ],
+    "random_key": "75ee786b-49e7-47db-ac47-e319ce3b4907",
+    "image_url": "https://image.torob.com/base/images/i9/Te/i9TeuGM6NRExqlqO.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نایک مدل Mub-112 مشکی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "5cb124c3-8708-470f-b319-95274ffbc089",
+    "image_url": "https://image.torob.com/base/images/ie/mp/iempMCIE8GxEct1R.jpg"
+  },
+  {
+    "title": "حلقه ای ورزشی مردانه نایک کد AH109",
+    "group": "مردانه",
+    "product": "حلقه ای ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "حلقه ای ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "739208e1-43d3-4a7d-a966-1b14d111fe12",
+    "image_url": "https://image.torob.com/base/images/qD/Qf/qDQfQDCuHvZUU-Cg.jpg"
+  },
+  {
+    "title": "رکابی ورزشی قهرمانی",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "2265457c-bc21-43b8-97bc-0bfe0565c5e4",
+    "image_url": "https://image.torob.com/base/images/Y2/Y0/Y2Y0rwRRxIo0XtNY.jpg"
+  },
+  {
+    "title": "تاپ کلاه دار مردانه مدل FTS-5208",
+    "group": "مردانه",
+    "product": "تاپ کلاه دار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاه دار"
+        ]
+      }
+    ],
+    "random_key": "3edc0968-dfcc-4691-8ef2-ee782404e58b",
+    "image_url": "https://image.torob.com/base/images/_c/4o/_c4ob440uoRGn2NC.jpg"
+  },
+  {
+    "title": "رکابی مردانه نایک تنفسی ۶۹۷۵ قرمز",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنفسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "f55a661f-1637-42e0-a3ab-3c85c6c74ebf",
+    "image_url": "https://image.torob.com/base/images/UT/VV/UTVVAoqlNKtUeBJ-.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نایک مدل Mub-271 مشکی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "cc99eda1-a8ef-49e8-8941-ce5e406db857",
+    "image_url": "https://image.torob.com/base/images/ow/qs/owqsHnjEuQLUXOJA.jpg"
+  },
+  {
+    "title": "آستین حلقه‌ای پارچه کندویی طرح نایک 2",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه کندویی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستین حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "73a21a31-a09c-4d5a-a6ef-c0096d5cd053",
+    "image_url": "https://image.torob.com/base/images/Wn/fB/WnfBonAskavXHQYk.webp"
+  },
+  {
+    "title": "تاپ حلقه ایی اسپرت",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ایی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "134ec38f-9ba1-4701-93b0-6d04bcb7b2e7",
+    "image_url": "https://image.torob.com/base/images/ZZ/l5/ZZl5EOd8T1LvH90y.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه زارا TANK TRAINING T-SHIRT",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      }
+    ],
+    "random_key": "ab715ced-7800-4b6e-b4e7-5f323e576b9b",
+    "image_url": "https://image.torob.com/base/images/I4/eo/I4eoe8-Whxe8ioHM.jpg"
+  },
+  {
+    "title": "رکابی اندرارمور تابستانه",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اندرارمور"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "773d78c2-fd26-4150-97d9-6e2f47dff540",
+    "image_url": "https://image.torob.com/base/images/H8/08/H8080nijuOd2_N-U.jpeg"
+  },
+  {
+    "title": "حلقه ای مردانه",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "fd8fadfe-9cd6-49e5-b62f-24d147c44f15",
+    "image_url": "https://image.torob.com/base/images/Nr/MH/NrMH1YwVuS0VbNi2.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نایکی Darina M",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "d6d27ff2-49c6-4523-8788-3ae9c7758bd2",
+    "image_url": "https://image.torob.com/base/images/4G/EG/4GEG07UxJm43etgV.webp"
+  },
+  {
+    "title": "تاپ مردانه طرح مارشمالو کد F71",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "مارشمالو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "0518e3eb-37e8-4c98-8fc9-7065a6ac2953",
+    "image_url": "https://image.torob.com/base/images/1i/CS/1iCSh4n2QoiXN0Ts.jpg"
+  },
+  {
+    "title": "رکابی بسکتبالی NBA Bereshka",
+    "group": "مردانه",
+    "product": "رکابی بسکتبالی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "NBA",
+          "Bereshka"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بسکتبالی"
+        ]
+      }
+    ],
+    "random_key": "ff799ba5-5241-43ef-82da-230d05093c0c",
+    "image_url": "https://image.torob.com/base/images/Kz/V3/KzV3I9Vb2Sd3HH0d.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی کلاه دار نایک-با جنسی فوق العاده عالی-در رنگهای متفاوت",
+    "group": "مردانه",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "daec32e2-e71f-4992-a116-dc31e4203a37",
+    "image_url": "https://image.torob.com/base/images/xw/uv/xwuvfiJDfbQUmUTA.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مشکی مردانه DRI FIT ADV 010 اورجینال Nike",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "DRI FIT ADV"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "2ae93cd9-b08a-4f94-b643-2893706e9fa0",
+    "image_url": "https://image.torob.com/base/images/3m/VQ/3mVQ3FsLukZZkipx.jpg"
+  },
+  {
+    "title": "تاپ اسپرت مردانه آلفامد کد b004",
+    "group": "مردانه",
+    "product": "تاپ اسپرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آلفامد"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "441224ca-eed5-4466-a1df-a86d8425dcd6",
+    "image_url": "https://image.torob.com/base/images/vE/Mv/vEMviE1Lnr3KaTfN.jpg"
+  },
+  {
+    "title": "تاپ حلقه ای سوزنی سایز بزرگ",
+    "group": "مردانه",
+    "product": "تاپ حلقه ای",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "8d343e12-b816-4e49-970e-faccf0946963",
+    "image_url": "https://image.torob.com/base/images/SN/fO/SNfOGCw5AUwqQVJD.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه ایوژن مدل PY-STAR 91210 قرمز",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ایوژن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "145dbaa1-1059-430e-a6ee-cb4eb3c4ce50",
+    "image_url": "https://image.torob.com/base/images/gH/e-/gHe-L6JrhGQnAe4d.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه بروکس Brooks Distance Tank طوسی خاکستری",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی خاکستری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "6328ace9-1c04-419f-b115-0de5aff55d1a",
+    "image_url": "https://image.torob.com/base/images/Wa/71/Wa71fkxJSxcyVQbW.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل خرگوش F182",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خرگوش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "1437dcb6-3258-4223-842f-1595ef8b5652",
+    "image_url": "https://image.torob.com/base/images/xS/uI/xSuId1kMbvvaGkqA.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مدل بندی برند CRIVIT",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "CRIVIT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی مدل بندی"
+        ]
+      }
+    ],
+    "random_key": "722c7c68-e82b-4ff1-a9e5-4910bee21373",
+    "image_url": "https://image.torob.com/base/images/MX/Cv/MXCvOgiisJm1WHp4.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه 1991 مدل TS1977-B",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "58bf8970-d3f2-4396-9a6f-cba16cf5bda5",
+    "image_url": "https://image.torob.com/base/images/ij/AI/ijAIDJba95wCSqkp.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه کد 304041",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "461dfa61-4cb3-479a-9f0a-bbee4b3168cb",
+    "image_url": "https://image.torob.com/base/images/qY/6w/qY6wmib11g84CZn4.jpg"
+  },
+  {
+    "title": "تاپ مردانه هکتاتون مدل Hectality3 M Tank Top مشکی S",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هکتاتون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "40364317-472b-483a-92ff-965521b43aaf",
+    "image_url": "https://image.torob.com/base/images/bd/Fq/bdFqpOettoY5362X.jpg"
+  },
+  {
+    "title": "رکابی حلقه ای بدنسازی جنس پنبه لاکرا سوزنی تنفسی اعلا قواره دار سایز XL و 2XL",
+    "group": "نامشخص",
+    "product": "رکابی حلقه ای",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه لاکرا",
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنفسی",
+          "قواره دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "XL",
+          "2XL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی حلقه ای بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "a4ed09ca-133a-434e-b342-703ae4130405",
+    "image_url": "https://image.torob.com/base/images/FP/aV/FPaV1T4asnhefN9y.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مدل GS-M-Mub-187876",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "5c3e7b33-8469-4e61-9c96-4a2bed918da9",
+    "image_url": "https://image.torob.com/base/images/dT/73/dT73vYKM16WSfMg7.jpg"
+  },
+  {
+    "title": "تاپ مردانه سون پون مدل m251 رنگ بادمجانی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سون پون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بادمجانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "8860ed01-4d11-4331-af95-1f950698520e",
+    "image_url": "https://image.torob.com/base/images/nF/Yy/nFYyT8FtktaUYtvL.jpg"
+  },
+  {
+    "title": "تاپ مردانه طرح EXO کد SM98",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "EXO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "6e406b09-3f98-4f6a-86e8-24503e8eae2d",
+    "image_url": "https://image.torob.com/base/images/uc/3_/uc3_ZuzLbHCOEqRp.jpg"
+  },
+  {
+    "title": "رکابی ورزشی سوزنی در ۲ رنگ - ۲ ایکس لارج / ۲ ایکس لارج / ایکس لارج",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "۲ رنگ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۲ ایکس لارج",
+          "ایکس لارج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "d9d2817a-0259-4628-8a04-04468e8f59b7",
+    "image_url": "https://image.torob.com/base/images/4-/Pz/4-PzgvKuc47Zt1rx.jpg"
+  },
+  {
+    "title": "تاپ کلاه دار ورزشی مردانه پانیل مدل 4022GY",
+    "group": "مردانه",
+    "product": "تاپ کلاه دار ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پانیل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاه دار ورزشی"
+        ]
+      }
+    ],
+    "random_key": "7b974d61-182f-42a8-bf47-17173d3fb8e9",
+    "image_url": "https://image.torob.com/base/images/u0/Sy/u0Sy_1qJWoFWN5H3.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مشکی آدیداس اورجینال | IC6945",
+    "group": "نامشخص",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b5501c3b-9b13-4172-9a9b-65def7175b82",
+    "image_url": "https://image.torob.com/base/images/kc/GC/kcGCUW5_UYOLei1p.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل EASY587666",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "2c83191f-19cb-4d78-90ed-6ebd801cb2a3",
+    "image_url": "https://image.torob.com/base/images/hB/Aw/hBAwU4chyvjkCuHy.jpg"
+  },
+  {
+    "title": "تاپ مردانه حلقه ای فلامنت توری ریبوک کد 11051 تکی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت توری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریبوک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "22f32edf-4ab5-492a-9505-8fca8c0fe85b",
+    "image_url": "https://image.torob.com/base/images/Bo/Em/BoEmrS0XcsdNkwp3.jpg"
+  },
+  {
+    "title": "تاپ مردانه مل اند موژ Mel & Moj کد M08559-001",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مل اند موژ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "7a50eeeb-119a-4f95-9eb2-7918effeb8ed",
+    "image_url": "https://image.torob.com/base/images/Iq/PA/IqPAFSQaSUApYHva.jpg"
+  },
+  {
+    "title": "تاپ مردانه حلقه ای لاکرا سوزنی راک برجسته کد 11008 تکی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لاکرا سوزنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "b09e3612-2bf9-4aaa-9358-65d70348d21d",
+    "image_url": "https://image.torob.com/base/images/iC/1v/iC1vYzsXQEcyCxTH.jpg"
+  },
+  {
+    "title": "تاپ مردانه کد nkrm108",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "3e749f80-7f13-46a6-9255-6ebfcc6c9e30",
+    "image_url": "https://image.torob.com/base/images/-d/19/-d192xwn-lheekWR.jpg"
+  },
+  {
+    "title": "رکابی تک لایه مدل 2070",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی تک لایه"
+        ]
+      }
+    ],
+    "random_key": "de6b3d6c-34d1-4174-ac0a-b854ba786c7c",
+    "image_url": "https://image.torob.com/base/images/38/V6/38V6itB_LU5WASqk.jpg"
+  },
+  {
+    "title": "تاپ مردانه قهرمانی سوزنی نایک متنی دو رنگ کد 11033 تکی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "قهرمانی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "متنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دو رنگ"
+        ]
+      }
+    ],
+    "random_key": "94eb75ab-c32e-4e5c-b736-ece48bd3e96e",
+    "image_url": "https://image.torob.com/base/images/Sx/JO/SxJOSytASq7ZYJl5.jpg"
+  },
+  {
+    "title": "تاپ مردانه طرح Forious کد F16",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "Forious"
+        ]
+      }
+    ],
+    "random_key": "6407b81f-8c01-4a51-9d78-c3ea0857a512",
+    "image_url": "https://image.torob.com/base/images/TK/G_/TKG_8K5dmh_zLj_D.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی فری سایز نایک رنگ مشکی",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "2c190938-9da9-40fd-b0f6-309066c63e3d",
+    "image_url": "https://image.torob.com/base/images/r4/5h/r45hfBFXdchLOCAo.webp"
+  },
+  {
+    "title": "تاپ لیون مردانه ورزشی",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [],
+    "random_key": "816d5c96-9bef-43ae-9a6c-9ae9d66896c2",
+    "image_url": "https://image.torob.com/base/images/-G/Vj/-GVjdrrJDAMFBxSh.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه کریویت آلمانی CRIVIT 409658",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کریویت آلمانی",
+          "CRIVIT"
+        ]
+      }
+    ],
+    "random_key": "f8599671-972c-43fe-bf80-6ff05b6e7b62",
+    "image_url": "https://image.torob.com/base/images/6H/bC/6HbCnO3iuebRqPGj.jpg"
+  },
+  {
+    "title": "حلقه ای مردانه ورزشی چاکدار جردن لاکراکش سوزنی کد 5027",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لاکراکش",
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جردن"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی",
+          "چاکدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "826691cf-b1f4-443e-8495-02884c357bd0",
+    "image_url": "https://image.torob.com/base/images/aG/e6/aGe6bLodhlvDiWat.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه کلاهدار",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاهدار ورزشی"
+        ]
+      }
+    ],
+    "random_key": "67ca3c24-921a-4ca3-961c-67e1654e5a4a",
+    "image_url": "https://image.torob.com/base/images/ur/o4/uro48g6dGkCG0SWM.jpg"
+  },
+  {
+    "title": "زیر پیراهنی ورزشی مردانه رگولار گینس استور 2DRIFIT-SIFIRKOL | GENIUS STORE",
+    "group": "مردانه",
+    "product": "زیر پیراهنی",
+    "entities": [
+      {
+        "name": "نوع فیت",
+        "values": [
+          "رگولار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "گینس استور",
+          "GENIUS STORE"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زیر پیراهنی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "977f7d0b-9bcf-4eb2-84d7-38aa12e71fde",
+    "image_url": "https://image.torob.com/base/images/SX/aK/SXaKfwBUEj1Ze9fP.jpg"
+  },
+  {
+    "title": "رکابی تنک تاپ تک ساده کوپ قهرمانی آیسان اسلامی آدیداس",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی تنک تاپ",
+          "قهرمانی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "آیسان اسلامی"
+        ]
+      }
+    ],
+    "random_key": "b8879e86-a7b9-47d3-8819-0cba98dd795a",
+    "image_url": "https://image.torob.com/base/images/dd/Ej/ddEj_KDFLXpjB9C1.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه کریویت آلمانی 368354 CRIVIT",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کریویت آلمانی",
+          "CRIVIT"
+        ]
+      }
+    ],
+    "random_key": "061a830f-62ec-48c7-b8cf-d5feda82e863",
+    "image_url": "https://image.torob.com/base/images/Qv/V2/QvV2CNUt5OPgxksx.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه کلاهدار قرمز",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاهدار ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "02c44d3c-46bc-49cc-bc34-8adea323a891",
+    "image_url": "https://image.torob.com/base/images/ca/5N/ca5NUkkhs5WQNfHb.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه طرح جردن مدل AH122",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "جردن"
+        ]
+      }
+    ],
+    "random_key": "313239c2-bb33-4254-b51f-6bdbdf6ba678",
+    "image_url": "https://image.torob.com/base/images/Zr/9R/Zr9RjaQ4jf8NWoTf.jpg"
+  },
+  {
+    "title": "تاپ وارداتی اسپورت کالکشن - حنایی / مدیوم",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "وارداتی",
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "حنایی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مدیوم"
+        ]
+      }
+    ],
+    "random_key": "b900a89e-b9e9-4e44-ab23-4105a7f30f07",
+    "image_url": "https://image.torob.com/base/images/r5/7i/r57i0yn7RrD6tm8E.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه بروکس Brooks Atmosphere Singlet",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بروکس",
+          "Brooks"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی",
+          "Singlet"
+        ]
+      }
+    ],
+    "random_key": "156c8836-6bcd-454c-8060-2beb36f6c8ce",
+    "image_url": "https://image.torob.com/base/images/zE/Mi/zEMi4Meq_14cYI_j.jpg"
+  },
+  {
+    "title": "رکابی قهرمانی بدنسازی بوفالو سفید",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی بدنسازی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بوفالو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "74b5c637-1a6b-408a-a69c-5ce42e5458be",
+    "image_url": "https://image.torob.com/base/images/zG/s6/zGs6cIZ7qH6meTmm.jpg"
+  },
+  {
+    "title": "تاپ حلقه ای اسپرت مردانه 6 عددی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "3eda89b1-3c68-4091-a3ea-3c6a3f8ef1e6",
+    "image_url": "https://image.torob.com/base/images/Nj/zb/NjzbnSjd_6rWEsFV.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی-با جنسی فوق العاده عالی-در رنگهای متفاوت",
+    "group": "مردانه",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با جنسی فوق العاده عالی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "متفاوت"
+        ]
+      }
+    ],
+    "random_key": "e04ca62b-98dd-44c6-935b-10f73d0dd3a3",
+    "image_url": "https://image.torob.com/base/images/u7/5v/u75vgNZ7d5FB_l1y.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مشکی مردانه لباس RAIS اورجینال Slazenger",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Slazenger"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "cb764d43-90f6-49a5-a03f-809ef4f679e4",
+    "image_url": "https://image.torob.com/base/images/9W/1B/9W1Ba8gHWhod9MVw.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی پشت قهرمانی-برند نایک-در سه رنگ‌مختلف",
+    "group": "مردانه",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت قهرمانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سه رنگ مختلف"
+        ]
+      }
+    ],
+    "random_key": "3b8d4922-5f3b-4a74-b8a3-82e8b819ae39",
+    "image_url": "https://image.torob.com/base/images/qs/03/qs03tO_bTHHVAAwz.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه حلقه ای فوتبالی فلامنت سوزنی سابلی برزیل",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی حلقه ای فوتبالی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت سوزنی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سابلی برزیل"
+        ]
+      }
+    ],
+    "random_key": "0ffe6f8f-5399-48fa-92b3-0d8e3ec024b6",
+    "image_url": "https://image.torob.com/base/images/rj/9h/rj9hQws_dmFHf2VR.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل UNDER1-B",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "4da84842-b163-4054-bbe2-85b581656b0d",
+    "image_url": "https://image.torob.com/base/images/2C/Ud/2CUdghkcrci5YytX.jpg"
+  },
+  {
+    "title": "تاپ حلقه ای ملانژ مردانه سایز L",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ملانژ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      }
+    ],
+    "random_key": "d9b42b89-4f17-4a3c-82ce-33675670a4e6",
+    "image_url": "https://image.torob.com/base/images/Yu/XL/YuXLAJLYXJGqYfz5.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه اسپرت کد 84",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "8dfa646e-c596-4340-bd1a-c5741334abd6",
+    "image_url": "https://image.torob.com/base/images/NQ/AI/NQAIIDxPt7AFUh-e.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار ورزشی مردانه ایوژن مدل PY-Star 1408 آبی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی کلاهدار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ایوژن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "257763fa-6de4-4062-a5b1-c8943f90e95d",
+    "image_url": "https://image.torob.com/base/images/By/zg/ByzgnqjeuDBk49x1.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه سفید آدیداس اورجینال |IN0084",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "53258caf-a816-4cb5-bdfd-856714a887be",
+    "image_url": "https://image.torob.com/base/images/__/S5/__S5a4v2DHcGrV6I.jpg"
+  },
+  {
+    "title": "تاپ آستین حلقه ای ورزشی مردانه کریویت کد va697",
+    "group": "مردانه",
+    "product": "تاپ آستین حلقه ای ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ آستین حلقه ای ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "5f88ab37-a9c5-4d51-b20f-16ec04d10ba2",
+    "image_url": "https://image.torob.com/base/images/Jq/hQ/JqhQuKvDyt8vHuUF.jpg"
+  },
+  {
+    "title": "تاپ مردانه کوتون Koton کد 5WAM30008NK",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون Koton"
+        ]
+      }
+    ],
+    "random_key": "85e4fb94-2278-473b-891d-10290f8ec552",
+    "image_url": "https://image.torob.com/base/images/i6/Kp/i6Kp6sxFzm3SBIp0.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مل اند موژ Mel & Moj کد M08489",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مل اند موژ Mel & Moj"
+        ]
+      }
+    ],
+    "random_key": "75ed6203-0a7c-4b59-a5df-fd81284f7ade",
+    "image_url": "https://image.torob.com/base/images/YU/aA/YUaAz_BD3_c7xvCF.jpg"
+  },
+  {
+    "title": "تاپ مردانه طرح off کد F25",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "off"
+        ]
+      }
+    ],
+    "random_key": "bb36cd6d-a7b7-49b3-a95b-bd7d2bbc5624",
+    "image_url": "https://image.torob.com/base/images/fj/G4/fjG4jHcnNDoRc7PH.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل F144 FREE",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "521836db-ff4f-42a1-b621-e8fbc1d795d6",
+    "image_url": "https://image.torob.com/base/images/pp/8z/pp8zcsjpz_aNK4-v.jpg"
+  },
+  {
+    "title": "تاپ آستین حلقه ای لاغری کوپر COOPER",
+    "group": "نامشخص",
+    "product": "تاپ آستین حلقه ای لاغری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ آستین حلقه ای لاغری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوپر COOPER"
+        ]
+      }
+    ],
+    "random_key": "a1128818-5679-463e-8502-89a297ac839c",
+    "image_url": "https://image.torob.com/base/images/q-/0e/q-0eR2eziKQEy4lN.jpg"
+  },
+  {
+    "title": "تاپ مردانه ورزشی کلاه دار مدل TS1934 B مشکی 1991 اس دبلیو",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی کلاه دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "d92549ed-bde4-4e8e-9642-710c524cb87b",
+    "image_url": "https://image.torob.com/base/images/Yv/tv/Yvtv1_tdNcCKBxzE.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نایکی Tuloma M",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      }
+    ],
+    "random_key": "84313c22-33c5-46fc-bce1-6554c2c106f0",
+    "image_url": "https://image.torob.com/base/images/GN/D9/GND9oxDigxalcb2n.webp"
+  },
+  {
+    "title": "تاپ مردانه قهرمانی سوزنی آندر آمور راک",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ قهرمانی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندر آمور"
+        ]
+      }
+    ],
+    "random_key": "60271147-87b6-44d1-ba93-5cd734713a11",
+    "image_url": "https://image.torob.com/base/images/Mf/Kr/MfKrMUdB-ZqHb9Fx.jpg"
+  },
+  {
+    "title": "تاپ مردانه طرح گوزن کد SM146",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوزن"
+        ]
+      }
+    ],
+    "random_key": "6aeab495-98c2-4df1-b9d3-c719e27acd97",
+    "image_url": "https://image.torob.com/base/images/1V/Lc/1VLc-eXCtYnJgFdo.jpg"
+  },
+  {
+    "title": "آستین حلقه ای طرح میکی ماوس",
+    "group": "نامشخص",
+    "product": "آستین حلقه ای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستین حلقه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "میکی ماوس"
+        ]
+      }
+    ],
+    "random_key": "9ed3c9a3-30df-4c03-9962-107dbcb81528",
+    "image_url": "https://image.torob.com/base/images/Ol/Kv/OlKvxrbdI3h23MwQ.webp"
+  },
+  {
+    "title": "رکابی بدنسازی مردانه آبی مدل راک کد 44887",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "9e1d411e-713d-4e28-8c74-597920d07ce4",
+    "image_url": "https://image.torob.com/base/images/ly/DT/lyDTqcDF5beKx62b.jpg"
+  },
+  {
+    "title": "رکابی تنک تاپ ساده کوپ آیسان اسلامی سبز آرمی",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی تنک تاپ"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز آرمی"
+        ]
+      }
+    ],
+    "random_key": "06d5251d-d048-418b-95a3-6ab7fc425c14",
+    "image_url": "https://image.torob.com/base/images/8X/nf/8XnfN5cxFKr3zqfZ.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "86f67935-f2fa-4476-addf-88d966a2a0f6",
+    "image_url": "https://image.torob.com/base/images/zN/o8/zNo83vXQJq5Xg6yg.jpg"
+  },
+  {
+    "title": "رکابی ورزشی تیم یوونتوس",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تیم یوونتوس"
+        ]
+      }
+    ],
+    "random_key": "e79cd8c3-2b9a-43d0-8c81-09338652d645",
+    "image_url": "https://image.torob.com/base/images/fC/gP/fCgPaISKX1JnrWUa.jpg"
+  },
+  {
+    "title": "رکابی ساده کوپ آیسان اسلامی طوسی روشن",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "رگ",
+        "values": [
+          "طوسی روشن"
+        ]
+      }
+    ],
+    "random_key": "2e96dcd3-87ba-4bda-8583-faac56f69404",
+    "image_url": "https://image.torob.com/base/images/vS/B3/vSB37S7wQocHjUwb.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه ولف اند فرندز Wolf+Friends کد BFB022-1",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ولف اند فرندز"
+        ]
+      }
+    ],
+    "random_key": "b39976bf-ced7-40b8-be61-b4f151016243",
+    "image_url": "https://image.torob.com/base/images/sG/qP/sGqPElRilj1E8W4p.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل TAP19 زنگ سفید",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "075a80e5-3eba-4d76-acde-87e209660978",
+    "image_url": "https://image.torob.com/base/images/VJ/Qs/VJQs_QU2wAFrjUgC.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نایک مدل Srn-2B2061 طوسی",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "4aceff51-1495-4bb4-a5ba-d51c1d48bd17",
+    "image_url": "https://image.torob.com/base/images/ks/iu/ksiuXcfIlxbuXwDB.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مشکی با چاپ ریبوک جنس فلامنت چیریکی سایز m مناسب 36-38",
+    "group": "نامشخص",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپ ریبوک",
+          "چریکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      }
+    ],
+    "random_key": "d9459dbf-e492-4986-bfcc-72e5ed2cc029",
+    "image_url": "https://image.torob.com/base/images/mi/TW/miTWAMvO4vbYHfG7.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مدل GS-KRS-Dri Fit-2A0876",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "3d28742d-4fa5-4f91-a8e2-6c07ef0fa58b",
+    "image_url": "https://image.torob.com/base/images/Al/bt/AlbtMoONrlCiNceK.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه آندر آرمور مدل Heatgear-1525 طوسی روشن",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندر آرمور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی روشن"
+        ]
+      }
+    ],
+    "random_key": "2d2520c6-c97f-4d75-9ddf-8a5477d50dc4",
+    "image_url": "https://image.torob.com/base/images/dy/Nk/dyNklhrivoeN9d-3.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل TAP27 طرح پدرخوانده",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پدرخوانده"
+        ]
+      }
+    ],
+    "random_key": "f4b44aeb-bc27-4efb-80a8-ca9029f9836b",
+    "image_url": "https://image.torob.com/base/images/LP/43/LP437JVq9LwOrULz.jpg"
+  },
+  {
+    "title": "تاپ کلاه دار ورزشی مردانه پانیل مدل 4022NA",
+    "group": "مردانه",
+    "product": "تاپ ورزشی مردانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاه دار ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پانیل"
+        ]
+      }
+    ],
+    "random_key": "1abb9b79-75bf-4621-b343-396ad8a419eb",
+    "image_url": "https://image.torob.com/base/images/o7/sE/o7sEcmO0JfV-kDoY.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه ولف اند فرندز Wolf+Friends کد FB461",
+    "group": "مردانه",
+    "product": "تاپ ورزشی مردانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ولف اند فرندز"
+        ]
+      }
+    ],
+    "random_key": "32bb534d-706f-4b92-8959-2826583976f1",
+    "image_url": "https://image.torob.com/base/images/Pb/Ze/PbZeLSRuNSzGxs-2.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مل اند موژ Mel & Moj کد M08529",
+    "group": "مردانه",
+    "product": "تاپ ورزشی مردانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مل اند موژ"
+        ]
+      }
+    ],
+    "random_key": "ec7ad2a6-4db1-4735-aa5d-b01a98131de5",
+    "image_url": "https://image.torob.com/base/images/4v/2M/4v2Mprk0dx6CM2y4.jpg"
+  },
+  {
+    "title": "تاپ مردانه کلاهدار سوزنی جردن کد 11009 تکی",
+    "group": "مردانه",
+    "product": "تاپ مردانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مردانه کلاهدار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      }
+    ],
+    "random_key": "eb71a950-e890-4f15-b8f7-2c18a8755b39",
+    "image_url": "https://image.torob.com/base/images/Hb/NZ/HbNZsdKLL-327Ymf.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه مدل قهرمانی کد 304084",
+    "group": "مردانه",
+    "product": "رکابی ورزشی مردانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "97b0ec15-5f8e-4f5f-8a57-564c8d2db8b4",
+    "image_url": "https://image.torob.com/base/images/3C/2z/3C2zSH5Xi_qQnWts.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار ON جنس سوزنی رنگ قرمز",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "fdf48707-045d-4031-8586-82dc5dd3d92b",
+    "image_url": "https://image.torob.com/base/images/DF/iV/DFiVoMozygXlqXVb.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی طرح آرنولد با ۵ رنگ خفن",
+    "group": "نامشخص",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آرنولد"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خفن"
+        ]
+      }
+    ],
+    "random_key": "8d67f78a-a2fd-4ce7-98ed-fe797efb4c36",
+    "image_url": "https://image.torob.com/base/images/Aj/KK/AjKKQn4vMwjYy32s.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه ufc رنگ آبی قهرمانی",
+    "group": "مردانه",
+    "product": "تاپ ورزشی مردانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ufc"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "c220eb85-44fa-44fb-9ce2-6d497afc5372",
+    "image_url": "https://image.torob.com/base/images/cu/js/cujsHhHPaHpHA2c1.jpg"
+  },
+  {
+    "title": "رکابی مردانه پلیس مدل ۱۹۸۳ مشکی",
+    "group": "مردانه",
+    "product": "رکابی مردانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پلیس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "dbecddd1-a6fb-4d83-85d2-4e26b1ab3350",
+    "image_url": "https://image.torob.com/base/images/e-/Ou/e-OuY5KHLp8Ny_Ym.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نایک PY-3H1412 سفید",
+    "group": "مردانه",
+    "product": "رکابی ورزشی مردانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "71d8556a-0ed3-4a85-b2a9-5b144611c7ee",
+    "image_url": "https://image.torob.com/base/images/Mp/Jd/MpJd0MLvA5u9nNjk.jpg"
+  },
+  {
+    "title": "تاپ مردانه کلاهدار جردن",
+    "group": "مردانه",
+    "product": "تاپ مردانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مردانه کلاهدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      }
+    ],
+    "random_key": "14ed0a3f-9844-417a-a254-a0783b797d60",
+    "image_url": "https://image.torob.com/base/images/NW/R8/NWR8L6oFWPPIkpSK.jpg"
+  },
+  {
+    "title": "رکابی ورزشی کراش کد 2021",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کراش"
+        ]
+      }
+    ],
+    "random_key": "d161a975-b8a4-450d-a4e7-b38ef923b209",
+    "image_url": "https://image.torob.com/base/images/jC/8E/jC8EFe_m6uzUVaYm.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل مشت",
+    "group": "مردانه",
+    "product": "تاپ مردانه",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "مشت"
+        ]
+      }
+    ],
+    "random_key": "8d6d1f4c-b5af-4c5f-bb46-9ca39907e85d",
+    "image_url": "https://image.torob.com/base/images/66/c4/66c4DAULPdegttl8.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه نوزده نود و یک 1991 کد TS1976",
+    "group": "مردانه",
+    "product": "تاپ ورزشی مردانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نوزده نود و یک"
+        ]
+      }
+    ],
+    "random_key": "5f37879f-f26b-49b7-8f40-fc5ce9e48b0c",
+    "image_url": "https://image.torob.com/base/images/7k/Fw/7kFwKBW0EHh8b4Dv.jpg"
+  },
+  {
+    "title": "رکابی سبز BOAT برند C-SIDE | سی ساید",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "C-SIDE",
+          "سی ساید"
+        ]
+      }
+    ],
+    "random_key": "8586e600-bac5-4e71-9b0b-a1c3ae4cf0a7",
+    "image_url": "https://image.torob.com/base/images/G3/4H/G34HMo_3te6_-wRp.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار نیم زیپ بدنسازی بوفالو آبی",
+    "group": "نامشخص",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار",
+          "نیم زیپ بدنسازی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بوفالو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "de332b36-ffb0-46ad-96c0-0ee8b623f9c2",
+    "image_url": "https://image.torob.com/base/images/dw/EI/dwEImp7ozjX2VBjx.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه اسپورتلند Marina M",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسپورتلند"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "5ed080ab-73fb-47b3-b1d6-c604304f280c",
+    "image_url": "https://image.torob.com/base/images/DG/1o/DG1o_nHwOenc9u7Y.webp"
+  },
+  {
+    "title": "رکابی قهرمانی بوفالو",
+    "group": "نامشخص",
+    "product": "رکابی قهرمانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بوفالو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "f6537bf2-5d32-4cc8-91ca-bb4fb40ed90f",
+    "image_url": "https://image.torob.com/base/images/xh/oz/xhozULwjSaA7sJc6.jpg"
+  },
+  {
+    "title": "رکابی قهرمانی طرح Nike بدنسازی طوسی",
+    "group": "نامشخص",
+    "product": "رکابی قهرمانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "304cc913-481b-4679-98ee-9a694e8fe151",
+    "image_url": "https://image.torob.com/base/images/fz/8r/fz8rSBBmw7-U6UyQ.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار ورزشی مردانه شیکاگو بولز مدل PY-Bulls 1408 قرمز",
+    "group": "مردانه",
+    "product": "رکابی کلاهدار ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "شیکاگو بولز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار ورزشی"
+        ]
+      }
+    ],
+    "random_key": "8a4498b8-b716-48d7-a2c2-9cb369028aff",
+    "image_url": "https://image.torob.com/base/images/5Z/qU/5ZqUOXHnUakyLStC.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل F202",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "64866660-462e-402a-b164-4d5637aae880",
+    "image_url": "https://image.torob.com/base/images/fC/Ex/fCExFLeYk-l0N6yV.jpg"
+  },
+  {
+    "title": "رکابی آیسان 2206",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آیسان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "9487923e-3454-48f1-b673-65abce031f08",
+    "image_url": "https://image.torob.com/base/images/bS/B-/bSB-krnM5RHtePlC.webp"
+  },
+  {
+    "title": "تاپ رکابی باشگاهی کد a34",
+    "group": "نامشخص",
+    "product": "تاپ رکابی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "باشگاهی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ رکابی"
+        ]
+      }
+    ],
+    "random_key": "13fa9903-b6bd-456d-8dfa-b32a3203bd9d",
+    "image_url": "https://image.torob.com/base/images/yN/sA/yNsAtuOE6sNBT8MJ.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مدل جوردن",
+    "group": "نامشخص",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جوردن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "08b5a4ce-09e4-4f68-9cce-7a5fae01c0f8",
+    "image_url": "https://image.torob.com/base/images/_Q/UZ/_QUZB2Bz3rNoLP4e.jpg"
+  },
+  {
+    "title": "‫رکابی بدنسازی مردانه مانستر مدل PY-MG مشکی",
+    "group": "مردانه",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مانستر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "46340622-72b2-4971-9b21-7d99687b02da",
+    "image_url": "https://image.torob.com/base/images/cM/29/cM29xOVWqUfm4nC_.jpg"
+  },
+  {
+    "title": "تاپ مردانه اسکیتی ورزشی",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسکیتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "24511c2d-db28-4d6e-9320-bb05efeda95e",
+    "image_url": "https://image.torob.com/base/images/Lw/Rf/LwRfuad9OaNqATkz.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل SB-SS-021198",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "37902627-56f3-485c-bb52-d9f2b6ffd16a",
+    "image_url": "https://image.torob.com/base/images/DN/uP/DNuPJb6tWo1v3mTE.jpg"
+  },
+  {
+    "title": "رکابی قهرمانی نایکی با ۸ رنگ",
+    "group": "نامشخص",
+    "product": "رکابی قهرمانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "23c73264-205d-44ad-9576-f3ae49398aec",
+    "image_url": "https://image.torob.com/base/images/TJ/eJ/TJeJ-CdKC0SfXZKS.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل TAPN14 طرح نوشته",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نوشته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "ce8f514a-58a0-4acb-8513-6d4a68b918de",
+    "image_url": "https://image.torob.com/base/images/cz/WT/czWTu5mqk5W1rsyS.jpg"
+  },
+  {
+    "title": "رکابی قواره آزاد JUST DO IT",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع فیت",
+        "values": [
+          "قواره آزاد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "JUST DO IT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "8deaa58e-20d4-4ba8-addd-4d2ae4e9bebb",
+    "image_url": "https://image.torob.com/base/images/US/Ro/USRoZh_1eeh2j5ZS.jpg"
+  },
+  {
+    "title": "تاپ مردانه Nike مدل Cool",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "5de4c709-08d6-428b-a30d-b6883d62ac94",
+    "image_url": "https://image.torob.com/base/images/3T/c9/3Tc9HJVOOE91iji2.jpg"
+  },
+  {
+    "title": "تاپ مردانه کلاهدار تمام زیپ سوزنی ونوم",
+    "group": "مردانه",
+    "product": "تاپ کلاهدار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاهدار تمام زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      }
+    ],
+    "random_key": "67e9fd7f-5537-413e-a5b7-9054d82b6c0c",
+    "image_url": "https://image.torob.com/base/images/4z/Jo/4zJokhfD6t6q4-CO.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مشکی مردانه لباس Ua در هر مکانی ورزشکار 1386619 001 رانینگ می شود آندرامور Under Armour",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندر آرمور",
+          "Under Armour"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "93895580-7504-4e03-8da4-a4acadf2d56a",
+    "image_url": "https://image.torob.com/base/images/Sw/93/Sw93nppXUco9gqol.jpg"
+  },
+  {
+    "title": "رکابی ورزشی کد 1714",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "02b24a1b-7304-48fc-86c5-836623f4ae62",
+    "image_url": "https://image.torob.com/base/images/WH/Bl/WHBlgo1VV1Tae2Li.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی طرح نایکی با ۴ رنگ",
+    "group": "نامشخص",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "cf9b68d0-dbd7-4d40-a844-e24b1376b977",
+    "image_url": "https://image.torob.com/base/images/bB/xN/bBxNAnGf17YgfE4o.jpg"
+  },
+  {
+    "title": "رکابی قهرمانی بدنسازی جردن آبی",
+    "group": "نامشخص",
+    "product": "رکابی قهرمانی بدنسازی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "f0f51b22-5b11-4f67-8fee-688838b8a311",
+    "image_url": "https://image.torob.com/base/images/5F/v4/5Fv42uJkkHmPEpFI.jpg"
+  },
+  {
+    "title": "تاپ مردانه کلاهدار تمام زیپ سوزنی جردن کد 11026 عمده",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "کلاهدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاهدار"
+        ]
+      }
+    ],
+    "random_key": "242cf06f-157c-4391-83fc-4e4ac34b3777",
+    "image_url": "https://image.torob.com/base/images/A-/k-/A-k-YasQD0VjDI-m.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی مردانه GODS GYM مدل لانگ زرد",
+    "group": "مردانه",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع فیت",
+        "values": [
+          "لانگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "98fb58f0-5157-4500-85f6-601df3f0c490",
+    "image_url": "https://image.torob.com/base/images/CI/9f/CI9f2udrc8LwWj8V.jpg"
+  },
+  {
+    "title": "تاپ مردانه حلقه ای ریون فلامنت نایک برجسته تکی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ریون",
+          "فلامنت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "cdbcff42-cac7-4a75-a345-91678dcc342f",
+    "image_url": "https://image.torob.com/base/images/JL/gY/JLgYAnog5kTZ793g.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی پشت کش دار JUST DO",
+    "group": "نامشخص",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت کش دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "cbc896ca-b51b-4c1e-91f9-af3df3d7af99",
+    "image_url": "https://image.torob.com/base/images/xf/Zv/xfZvr4Q8uKO71GVa.webp"
+  },
+  {
+    "title": "رکابی بدنسازی RDX",
+    "group": "نامشخص",
+    "product": "رکابی بدنسازی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "RDX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "d84a3521-51dc-4139-bcc4-062f8f41e57a",
+    "image_url": "https://image.torob.com/base/images/Wb/ei/WbeiYRshF4sDmaxS.jpg"
+  },
+  {
+    "title": "رکابی ورزشی بنفش مردانه لباس پروژه Ua در Rock Mesh Boh Athletes 1386888 505 آندرامور Under Armour",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندر آرمور",
+          "Under Armour"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "7e5d67d9-37dc-49ab-86da-bd63c7474f6e",
+    "image_url": "https://image.torob.com/base/images/JI/jv/JIjvHOQTNmAwVsLX.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه طرح نایک کد 1305 رنگ نارنجی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b626665c-6721-4e5a-bc6f-cb1377f297ea",
+    "image_url": "https://image.torob.com/base/images/2Q/hl/2Qhl-ANzc9eNtIvL.jpg"
+  },
+  {
+    "title": "تاپ ورزشی حرفه ای-DAMEN FUNKTIONS UNTERHEMDEN",
+    "group": "نامشخص",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی",
+          "حرفه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "42eacf24-7b9b-4a6f-b976-dbe12fdc362d",
+    "image_url": "https://image.torob.com/base/images/HI/B3/HIB31_t58iv_N9vq.jpg"
+  },
+  {
+    "title": "رکابی ورزشی کد 1148",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "1aa0567b-2816-40f2-88a3-4868bb428877",
+    "image_url": "https://image.torob.com/base/images/Hj/qT/HjqTv2kasIABe2ZN.jpg"
+  },
+  {
+    "title": "رکابی ورزشی طرح گنگستر کد 1068",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گنگستر"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "43f8bdb6-8fa7-4b22-8bc4-7c11f44e60c4",
+    "image_url": "https://image.torob.com/base/images/Bp/bc/BpbcO6dSVvOUe4X5.jpg"
+  },
+  {
+    "title": "رکابی حلقه ای بدنسازی بوفالو رنگ بندی",
+    "group": "نامشخص",
+    "product": "رکابی حلقه ای بدنسازی",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بوفالو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی حلقه ای بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "ef1dd5a5-c8f7-4d31-b7b6-eb05fb79e32d",
+    "image_url": "https://image.torob.com/base/images/6C/fJ/6CfJGDIVVnDNKxP4.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل TAP13 طرح ستاره",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ستاره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "474fb5d0-89cf-494e-a268-722ed826ef95",
+    "image_url": "https://image.torob.com/base/images/MP/lA/MPlANmySdfJCEqPy.jpg"
+  },
+  {
+    "title": "رکابی سوزنی NIKE",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "98274875-daee-46bd-8c1c-dcd91eb6ab92",
+    "image_url": "https://image.torob.com/base/images/0f/HQ/0fHQ4Qsr_JzXT8mH.jpg"
+  },
+  {
+    "title": "تاپ ورزشی تاپ کشی تاپ تنسی تاپ بدنسازی ست بدنسازی شلوارک بدنسازی رکابی ورزشی رکابی کشی",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "بدنسازی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی",
+          "تاپ کشی",
+          "تاپ تنسی",
+          "تاپ بدنسازی",
+          "رکابی ورزشی",
+          "رکابی کشی"
+        ]
+      }
+    ],
+    "random_key": "20019dd6-c9d3-4c97-9654-79c7c9d15cd8",
+    "image_url": "https://image.torob.com/base/images/PP/sC/PPsCrG3UAWTQUyOv.jpg"
+  },
+  {
+    "title": "رکابی دو رنگ پشت هشتی NIKE",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "دو رنگ"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت هشتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "d3ee6c35-422d-46a0-8a8d-d97dad48027c",
+    "image_url": "https://image.torob.com/base/images/CR/f3/CRf3mRG5LhRCpsrZ.jpg"
+  },
+  {
+    "title": "‫رکابی بدنسازی مردانه G WEAR مدل L-WG چریکی مشکی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "بدنسازی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "G WEAR"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "چریکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "a15861ee-b299-4f2e-8944-a5703d72af9d",
+    "image_url": "https://image.torob.com/base/images/Q-/fN/Q-fNuVxC8eU_nrPc.jpg"
+  },
+  {
+    "title": "تاپ مردانه رویین پوش مدل 21141",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رویین تن پوش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "46ed9897-564d-4a9c-b229-554429e7bf71",
+    "image_url": "https://image.torob.com/base/images/qf/iz/qfizC8nF0gYzBdHP.jpg"
+  },
+  {
+    "title": "رکابی کلاه دار ورزشی مردانه الیمپ مدل GB-1990 نارنجی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاه دار ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الیمپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      }
+    ],
+    "random_key": "925108a3-8da6-4732-afc7-550c0bb9a77c",
+    "image_url": "https://image.torob.com/base/images/Lh/pN/LhpNsLvx3KVkcFn8.jpg"
+  },
+  {
+    "title": "رکابی مردانه مشکی ورزشی مدل ASO جنس پنبه",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "97b03d6d-5cce-4326-ba6e-a244e5a37e22",
+    "image_url": "https://image.torob.com/base/images/AX/20/AX2036BeoP7RStHz.jpg"
+  },
+  {
+    "title": "تاپ تک بالنسیگا",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بالنسیگا"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "تک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "7a031113-36aa-4d7e-ae59-9cc9b514e5f1",
+    "image_url": "https://image.torob.com/base/images/X4/TT/X4TTmTYkPd9fvK-K.jpg"
+  },
+  {
+    "title": "رکابی قهرمانی بدنسازی نایک آبی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی بدنسازی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "08cb557b-b692-4af7-924c-c2ec9e5216fc",
+    "image_url": "https://image.torob.com/base/images/2j/AK/2jAKt6leAQg72z9u.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه کد 1412 رنگ اناری",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "اناری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b2c428d2-e47e-4b96-8530-689c48fe2450",
+    "image_url": "https://image.torob.com/base/images/kR/Qa/kRQaVuXzJh7l7Tw3.jpg"
+  },
+  {
+    "title": "تاپ مردانه ایر جونز کد T15ER-88395 - 21164 | AIR JONES",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ایر جونز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "25432036-179e-4e46-904e-a13a12f67c5b",
+    "image_url": "https://image.torob.com/base/images/9U/iR/9UiRMxmiS75LdreJ.jpg"
+  },
+  {
+    "title": "رکابی حلقه ای ورزشی ریباک تنفس دار لیزری کد 1599",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی حلقه ای ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریباک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنفس دار",
+          "لیزری"
+        ]
+      }
+    ],
+    "random_key": "f40f6bee-95aa-4d9d-97dd-fec78d06f91b",
+    "image_url": "https://image.torob.com/base/images/cd/Dm/cdDmJ-cGkRcP79F_.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی مردانه نایک مدل VHD-DRI FIT-3C302 مشکی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "بدنسازی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "71f5c69a-736e-4f95-b3f9-e256ac3ef7ff",
+    "image_url": "https://image.torob.com/base/images/7F/7Z/7F7ZnlBZT_f01Tms.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه کد SMSP رنگ سبز پسته ای",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز پسته ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "43a14dc7-4f5c-4379-a4a7-f9baf88bbd88",
+    "image_url": "https://image.torob.com/base/images/SN/aR/SNaRiM0ZfdFk9seN.jpg"
+  },
+  {
+    "title": "تاپ حلقه اي ورزشی مردانه جردن JORDAN مشکی کد VM959",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن",
+          "JORDAN"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "fb754646-0966-4311-b331-8836a7e31094",
+    "image_url": "https://image.torob.com/base/images/fP/ac/fPacHgYFWTHknt2E.jpg"
+  },
+  {
+    "title": "تاپ مردانه اولسون مدل بدنساز",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "بدنساز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اولسون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "2a6ba1fe-60b6-4e6d-b331-bb6d11b65afa",
+    "image_url": "https://image.torob.com/base/images/en/T7/enT7zX0J-job--O2.jpg"
+  },
+  {
+    "title": "تاپ مردانه پشت کشدار جردن کد 168 تکی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت کشدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "9d84f70d-be3a-4b21-a570-2da8dc3de1ee",
+    "image_url": "https://image.torob.com/base/images/hb/33/hb33D3gSMz6vDo2Q.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مدل ODY01",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "34e95c67-fcd7-424d-8b67-ef49e7434a9a",
+    "image_url": "https://image.torob.com/base/images/vX/ve/vXve-LM_Oqsvgum0.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه قهرمانی بند نازک طرح نایک قرمز",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی قهرمانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "30f8f18f-c0e4-4b4d-9b07-8e558958693b",
+    "image_url": "https://image.torob.com/base/images/Ce/f3/Cef3VoqZDJiAeA-i.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار ورزشی مردانه ونوم مدل PY-1G120 زیپ دار سفید",
+    "group": "مردانه",
+    "product": "رکابی کلاهدار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونوم"
+        ]
+      }
+    ],
+    "random_key": "b8627095-a3b9-43ec-9c86-9a4f31d29ff1",
+    "image_url": "https://image.torob.com/base/images/Tv/QQ/TvQQpNZG144Puzuf.jpg"
+  },
+  {
+    "title": "تاپ قهرمانی و شورت ورزشی مردانه انگیزشی never give up",
+    "group": "مردانه",
+    "product": "تاپ و شورت ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ قهرمانی",
+          "شورت ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "انگیزشی"
+        ]
+      }
+    ],
+    "random_key": "9f101f22-e609-4438-95cd-55f1849643e5",
+    "image_url": "https://image.torob.com/base/images/hi/ks/hikskpr0M1bAB_NW.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار زیپ‌خور حراجی- L",
+    "group": "نامشخص",
+    "product": "رکابی کلاهدار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیپ خور"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "حراجی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      }
+    ],
+    "random_key": "e95a623b-0d4d-4649-965e-cbf2e6b89c5a",
+    "image_url": "https://image.torob.com/base/images/u4/po/u4pooY1BhQgUhtqJ.jpg"
+  },
+  {
+    "title": "رکابی ورزشی اسپرت Top X O Gran Camiño مردانه مشکی زارا",
+    "group": "مردانه",
+    "product": "رکابی ورزشی اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی اسپرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      }
+    ],
+    "random_key": "b75fa1a2-5a60-4381-a070-2f5173f28380",
+    "image_url": "https://image.torob.com/base/images/g7/H9/g7H9DeRL4jnFLG2z.jpg"
+  },
+  {
+    "title": "تاپ اسپرت سایز بزرگ مردانه 4xl",
+    "group": "مردانه",
+    "product": "تاپ اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ اسپرت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4XL"
+        ]
+      }
+    ],
+    "random_key": "31d9675e-ed60-486f-a714-b9ad41bf97bc",
+    "image_url": "https://image.torob.com/base/images/HS/1e/HS1eukkJsiSdrLHF.jpg"
+  },
+  {
+    "title": "حلقه ای سوزنی مردانه نایک",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوزنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "e570531c-b715-4072-ac7f-5320d04aa611",
+    "image_url": "https://image.torob.com/base/images/tk/d_/tkd_ElSAcnRn7aga.jpg"
+  },
+  {
+    "title": "تاپ چاپی توپاک شکور کد 401",
+    "group": "نامشخص",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چاپی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ چاپی"
+        ]
+      }
+    ],
+    "random_key": "c0df9a6d-11e6-4010-ab01-f10fa6e78552",
+    "image_url": "https://image.torob.com/base/images/nP/CK/nPCKUYrmfxqjjLk-.jpg"
+  },
+  {
+    "title": "تاپ حلقه ای مردانه تارادیس",
+    "group": "مردانه",
+    "product": "تاپ حلقه ای",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تارادیس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "3947d0ef-b280-44ca-85ae-480856d508a1",
+    "image_url": "https://image.torob.com/base/images/Jj/vp/Jjvp-BLc5JwBtB9R.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار ورزشی مردانه نایک مدل PY-JDI زیپ دار سبز",
+    "group": "مردانه",
+    "product": "رکابی کلاهدار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "f6a8a569-5ef3-454e-9b74-0cd0726d278a",
+    "image_url": "https://image.torob.com/base/images/Kz/PZ/KzPZ2W0M3UV4yuNJ.jpg"
+  },
+  {
+    "title": "رکابی مردانه رکابی باشگاهی تاپ بدنسازی ورزشی،رکابی ufc اورجینال مردانه رکابی بدنسازی مردانه",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی باشگاهی",
+          "تاپ بدنسازی ورزشی",
+          "رکابی UFC اورجینال",
+          "رکابی بدنسازی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "باشگاهی",
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "0ddf8573-bdbf-4717-a2e6-b87cb9456740",
+    "image_url": "https://image.torob.com/base/images/ys/3d/ys3dfOdBvK88R0X4.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مشکی مردانه بدون آستین ™ اورجینال H M H&amp;M",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی بدون آستین"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "H&M"
+        ]
+      }
+    ],
+    "random_key": "cc326b05-411f-40d3-8cd8-6bbee6d52c14",
+    "image_url": "https://image.torob.com/base/images/bJ/Gt/bJGt73ovElDnEA_c.jpg"
+  },
+  {
+    "title": "رکابی حلقه ای نایک رنگ سبز (پس کرایه)",
+    "group": "نامشخص",
+    "product": "رکابی حلقه ای",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "6af0b7c8-8765-4af1-a963-d87bdb7a34f5",
+    "image_url": "https://image.torob.com/base/images/Bt/yp/BtypdwoLCO_WAX3c.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل خرس عینکی F123",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرس عینکی"
+        ]
+      }
+    ],
+    "random_key": "136f713b-0ed6-49ae-9492-84bb868a6168",
+    "image_url": "https://image.torob.com/base/images/ym/-o/ym-oCl5_Gv79Lmye.jpg"
+  },
+  {
+    "title": "تاپ مردانه اسپورت لند Sportland مدل 116155",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسپورت لند"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مردانه اسپورت"
+        ]
+      }
+    ],
+    "random_key": "c816c612-4016-42f7-830f-f80667ad6765",
+    "image_url": "https://image.torob.com/base/images/b3/xj/b3xjgzynmkitkc9d.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی مردانه پشت توری در 4 طرح مختلف پارچه سابلی",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت توری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سابلی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "4 طرح مختلف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی"
+        ]
+      }
+    ],
+    "random_key": "a9327a19-1abd-46d0-b8ea-032e3b2162b0",
+    "image_url": "https://image.torob.com/base/images/40/jr/40jreujFAa-ogyx-.jpg"
+  },
+  {
+    "title": "تاپ پشت اشکی نایک",
+    "group": "نامشخص",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت اشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ پشت اشکی"
+        ]
+      }
+    ],
+    "random_key": "dd35e8b7-f59a-4a3f-9e90-4a9fa9ae0b80",
+    "image_url": "https://image.torob.com/base/images/yY/Md/yYMdGpgLFz5epwEn.jpg"
+  },
+  {
+    "title": "رکابی مردانه آندر 51006 طوسي تيره",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آندر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسي تيره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "2aead722-b3d4-4900-b100-96c6549231d7",
+    "image_url": "https://image.torob.com/base/images/KW/ro/KWroSKriAjzEu7oo.webp"
+  },
+  {
+    "title": "رکابی ورزشی تیم بارسلونا",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تیم بارسلونا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "1150f52d-8bd0-4a17-9cff-d08d6c3c903e",
+    "image_url": "https://image.torob.com/base/images/E7/gS/E7gSZQ0d1FZDvS9C.jpg"
+  },
+  {
+    "title": "تاپ اچ اندام (کد 1338)",
+    "group": "نامشخص",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اچ اندام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "014e2ae4-c987-4a4c-b880-061628ed2076",
+    "image_url": "https://image.torob.com/base/images/CK/j2/CKj2HJuUHdurzMYl.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه بروکس مدل Brooks Men's Distance Tank",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "18ad952b-11fe-44f5-8567-0c4478b85634",
+    "image_url": "https://image.torob.com/base/images/rf/lf/rflfty03Z8cY5z5v.jpg"
+  },
+  {
+    "title": "حلقه ای کلاه دار طرح Chicago bulls ( مشکی و قرمز )",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاه دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Chicago bulls"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "fd49f73b-f172-482b-996b-e1e7470b23c1",
+    "image_url": "https://image.torob.com/base/images/bS/Ai/bSAiBm0z-06IYWx5.jpg"
+  },
+  {
+    "title": "تاپ مردانه الوج Eloj کد TLZ-600M001-1",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "الوج Eloj"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "f5ce6301-723e-4860-8c33-5f5b584ac405",
+    "image_url": "https://image.torob.com/base/images/Ji/wO/JiwO4ixp60kXFltA.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی اسپرت مدل کلاهدار رنگ قرمز",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی اسپرت مدل کلاهدار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "a0b31b56-ffd4-485b-88fe-c1ab0c57829a",
+    "image_url": "https://image.torob.com/base/images/Hw/6M/Hw6MfyXD_djw20Ws.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مدل قهرمانی | رنگ آبی فیروزه‌ای",
+    "group": "نامشخص",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی مدل قهرمانی"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "قهرمانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی فیروزه ای"
+        ]
+      }
+    ],
+    "random_key": "b8b5c865-707b-4a1f-8170-a8fc891c3915",
+    "image_url": "https://image.torob.com/base/images/GF/5f/GF5fEVfsRVLrBCa7.jpg"
+  },
+  {
+    "title": "تاپ کلاه دار مردانه تکنیک+07 مدل TS-156-ME-SE",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ کلاه دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تکنیک"
+        ]
+      }
+    ],
+    "random_key": "be68314d-6e6a-4436-9bc0-2977fe55058f",
+    "image_url": "https://image.torob.com/base/images/p_/8U/p_8UkgTegmfCyC_A.jpg"
+  },
+  {
+    "title": "تاپ مردانه حلقه ای فلامنت توری آدیداس عمده",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت",
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "عمده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مردانه حلقه ای فلامنت"
+        ]
+      }
+    ],
+    "random_key": "cfab926c-e310-496e-9dd4-152c53266194",
+    "image_url": "https://image.torob.com/base/images/br/pD/brpDnIyO-4A4KTLj.jpg"
+  },
+  {
+    "title": "رکابی بدنسازی مردانه حرفه ای مدل ARNOLD CLASSIC رنگ سبز ارتشی پارچه تنفسی ضد تعریق",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه تنفسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد تعریق"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز ارتشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی بدنسازی حرفه ای"
+        ]
+      }
+    ],
+    "random_key": "89bd1dc7-a5a2-4d0d-8538-d7f2ff90f433",
+    "image_url": "https://image.torob.com/base/images/3G/Pk/3GPke9jc5I52qhuC.jpg"
+  },
+  {
+    "title": "رکابی usn مدل ابی",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "usn"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      }
+    ],
+    "random_key": "d38c6b1e-c13f-487a-bc85-959c8ae0ad61",
+    "image_url": "https://image.torob.com/base/images/sZ/KL/sZKLFBn-rt_zpKb0.jpg"
+  },
+  {
+    "title": "رکابی قهرمانی بدنسازی بوفالو زرد",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی قهرمانی بدنسازی"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": [
+          "قهرمانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بوفالو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      }
+    ],
+    "random_key": "8afc7dfd-1714-4a54-8052-4f9a07c5f8cd",
+    "image_url": "https://image.torob.com/base/images/4T/o3/4To3S1L9PN4NfMCM.jpg"
+  },
+  {
+    "title": "تاپ مردانه هکتاتون Hectaton کد 11470451001",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هکتاتون Hectaton"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "cd9fb1f8-720f-44bc-aa64-24db15803790",
+    "image_url": "https://image.torob.com/base/images/v7/CS/v7CSgwgo_1tGeoDN.jpg"
+  },
+  {
+    "title": "تاپ حلقه ای طرح دار فری سایز",
+    "group": "نامشخص",
+    "product": "تاپ حلقه ای",
+    "entities": [
+      {
+        "name": "برند",
+        "values": []
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ حلقه ای"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "2d29935e-0ea8-45e5-be62-76cf479bfc26",
+    "image_url": "https://image.torob.com/base/images/qI/1K/qI1K8n3soUUZJcbp.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه مشکی آدیداس | HOOPS MID 3.0 K اورجینال",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "ff0df0da-8aef-47ec-ac33-23d86afd1735",
+    "image_url": "https://image.torob.com/base/images/ko/G0/koG0GzUr2SvZD64R.jpg"
+  },
+  {
+    "title": "رکابی ورزشی نایک کلاه دار مردانه (",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی کلاه دار"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "dfafb158-264a-41e8-9d59-67dc933cfa71",
+    "image_url": "https://image.torob.com/base/images/6V/yI/6VyI1smF3PZUtGKr.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه نایکی مدل Nike Sportwear club BQ1260-010",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی Nike"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "10a9a6ec-4c0a-4879-bf43-51111b13817f",
+    "image_url": "https://image.torob.com/base/images/zl/o_/zlo_xPeScrwQ0JVP.webp"
+  },
+  {
+    "title": "رکابی مردانه ورزشی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": []
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "d8152d88-28c6-4bef-952d-7c48308f8e2e",
+    "image_url": "https://image.torob.com/base/images/wg/p-/wgp-pA03hwY6_9_C.jpg"
+  },
+  {
+    "title": "رکابی طرح نایکی با ۶ رنگ خفن",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "6 رنگ"
+        ]
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "d4f3c90c-1f5f-4f85-bc61-5ebc38cde99d",
+    "image_url": "https://image.torob.com/base/images/Ns/X0/NsX0beiOYQcZ3EA6.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه دوکزیگ Dokzig کد 1013",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دوکزیگ Dokzig"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "ef653c29-29ba-4a35-a09d-49450ebefeb6",
+    "image_url": "https://image.torob.com/base/images/Nw/cE/NwcESeG2FDSdz-Kf.jpg"
+  },
+  {
+    "title": "حلقه ای ورزشی کد 304054",
+    "group": "نامشخص",
+    "product": "حلقه ای ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": []
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "حلقه ای ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ed1e6781-4296-4e91-bd8c-f727478e25b7",
+    "image_url": "https://image.torob.com/base/images/9b/YE/9bYEX40dP4nkIkEh.jpg"
+  },
+  {
+    "title": "رکابی حلقه‌ ای ورزشی مردانه اتم",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اتم"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "حلقه ای"
+        ]
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی حلقه ای ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "75a2ace0-9b43-4910-ac2e-dad6c346b851",
+    "image_url": "https://image.torob.com/base/images/eZ/CZ/eZCZmN2D1NVkb1qi.jpg"
+  },
+  {
+    "title": "تاپ مردانه مدل EASY-00597777-D0 رنگ سرمه ای",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": []
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "38f3219e-db03-4fcc-b3f3-1afc8ca9bab6",
+    "image_url": "https://image.torob.com/base/images/9B/eb/9Beb_ccZI4T8asDx.jpg"
+  },
+  {
+    "title": "مٰاسک مو ساشه ای ضد ریزش و حٰجم دهنده رزماری سٰادٰور",
+    "group": "نامشخص",
+    "product": "ماسک مو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ساشه سادور"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد ریزش",
+          "حجم دهنده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ماسک مو"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "f296eb26-2831-46a2-89bb-4614a4f37cdb",
+    "image_url": "https://image.torob.com/base/images/-1/3f/-13fjICix2KhFwq2.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مدل UNDB002",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": []
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "dcafd853-a796-4d9e-8f77-447d909ca34c",
+    "image_url": "https://image.torob.com/base/images/U7/Dr/U7DroXr7lfV8FI7H.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه 1309 مشکی سبز",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": []
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "4323eea7-ca48-44c7-9772-7ea9b28c883b",
+    "image_url": "https://image.torob.com/base/images/l6/L8/l6L8Vajl-o8NhXyi.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه ادیداس",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادیداس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": []
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "b81b2804-d18e-4801-ba1d-61e02b88924a",
+    "image_url": "https://image.torob.com/base/images/74/XY/74XY8pD1iXH7XWmp.jpg"
+  },
+  {
+    "title": "رکابی ورزشی کلاه دار مردانه شیکاگو بولز مشکی",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "شیکاگو بولز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      },
+      {
+        "name": "طرح",
+        "values": []
+      },
+      {
+        "name": "سایز",
+        "values": []
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع فیت",
+        "values": []
+      },
+      {
+        "name": "نوع یقه",
+        "values": []
+      },
+      {
+        "name": "مدل پشت",
+        "values": []
+      },
+      {
+        "name": "فصل",
+        "values": []
+      },
+      {
+        "name": "ویژگی ها",
+        "values": []
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی کلاه دار"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": []
+      }
+    ],
+    "random_key": "0a46518f-de45-4314-9736-b96b6e9ef2fd",
+    "image_url": "https://image.torob.com/base/images/OB/y6/OBy6azyRFQia18Pl.jpg"
+  },
+  {
+    "title": "آستین حلقه ای نقره ای مدل ESSENTIAL | اسی کلاب",
+    "group": "مردانه",
+    "product": "آستین حلقه ای",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نقره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستین حلقه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسی کلاب"
+        ]
+      }
+    ],
+    "random_key": "768d1044-aa82-45ff-9471-ff04b65bf3c7",
+    "image_url": "https://image.torob.com/base/images/9I/5C/9I5C_t_fVaCbT2YA.jpg"
+  },
+  {
+    "title": "تاپ مردانه پشت کشدار ریون فلامنت آدیداس تکی",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "مدل پشت",
+        "values": [
+          "پشت کشدار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون فلامنت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مردانه"
+        ]
+      }
+    ],
+    "random_key": "591bbb01-7ab2-4815-b33b-0b90016f7a1b",
+    "image_url": "https://image.torob.com/base/images/Hr/QI/HrQI9UOO6m1oK5ji.jpg"
+  },
+  {
+    "title": "رکابی مردانه نایک نانو تنفسی v803 طوسي تيره",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنفسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسي تيره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی مردانه"
+        ]
+      }
+    ],
+    "random_key": "01cac70b-25d4-433a-811e-1c7d90365cc9",
+    "image_url": "https://image.torob.com/base/images/tw/5B/tw5BaIvOedTe9Uy5.webp"
+  },
+  {
+    "title": "رکابی ورزشی مایک تایسون کد 1708",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "نام",
+        "values": [
+          "مایک تایسون"
+        ]
+      }
+    ],
+    "random_key": "777c0c38-e490-4101-8c9d-36b402791dc4",
+    "image_url": "https://image.torob.com/base/images/uZ/Iz/uZIzI-w3JWtK9A3H.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه مدل جغد",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جغد"
+        ]
+      }
+    ],
+    "random_key": "5306d7ef-95cc-469f-ab93-91f9e4bf7216",
+    "image_url": "https://image.torob.com/base/images/sr/KL/srKLrSxS0RLYq6jc.jpg"
+  },
+  {
+    "title": "رکابی ورزشی اسپرت تن تاب",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "107ded30-87db-4d0a-9df5-875b4eecb344",
+    "image_url": "https://image.torob.com/base/images/B9/ta/B9taGZ3QH4AJI8H1.jpg"
+  },
+  {
+    "title": "تاپ ورزشی مردانه نایکی نوک مدادی",
+    "group": "مردانه",
+    "product": "تاپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ ورزشی مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نوک مدادی"
+        ]
+      }
+    ],
+    "random_key": "46a80663-8b8c-45ba-a722-d3633f5ad7c0",
+    "image_url": "https://image.torob.com/base/images/xd/io/xdiouSnZBXYQ_aag.jpg"
+  },
+  {
+    "title": "رکابی کلاه دار بدنسازی مردانه NEVER GIVE UP آبی",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاه دار بدنسازی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "9ad73287-a1ea-42df-a8e2-bae63312d955",
+    "image_url": "https://image.torob.com/base/images/G2/eA/G2eAQnyLFLKqp0ny.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه مشکی نایکی | TYBDH2987-001080510662 اورجینال",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "bb678d9c-7267-4321-bfdd-2394cddf4193",
+    "image_url": "https://image.torob.com/base/images/mt/ec/mtecIkW0XYGbekF6.jpg"
+  },
+  {
+    "title": "رکابی مردانه نایک",
+    "group": "مردانه",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی مردانه"
+        ]
+      }
+    ],
+    "random_key": "c3adb78f-91fa-4014-9470-2935f11d0731",
+    "image_url": "https://image.torob.com/base/images/Ta/NZ/TaNZxROk6lg7d84d.jpg"
+  },
+  {
+    "title": "رکابی حلقه ایی جردن",
+    "group": "نامشخص",
+    "product": "رکابی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی حلقه ایی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      }
+    ],
+    "random_key": "a5c62c2d-e2a5-495d-a02e-859a84f22cea",
+    "image_url": "https://image.torob.com/base/images/I4/5K/I45KBNrYXbkQq7Bb.jpg"
+  },
+  {
+    "title": "رکابی ورزشی مردانه نایک مدل PY-2Tik-3D512 سفید",
+    "group": "مردانه",
+    "product": "رکابی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی ورزشی مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "5e08f32b-287a-4acf-8d1d-47b66925e996",
+    "image_url": "https://image.torob.com/base/images/CZ/4F/CZ4FKy1QJXTiAmJd.jpg"
+  },
+  {
+    "title": "رکابی کلاهدار بدنسازی مردانه NORK HARD",
+    "group": "مردانه",
+    "product": "رکابی کلاهدار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "رکابی کلاهدار بدنسازی مردانه"
+        ]
+      }
+    ],
+    "random_key": "8f69d333-16cc-4bf1-a6df-ba4d1ccdd992",
+    "image_url": "https://image.torob.com/base/images/H2/Q7/H2Q7W-aggewUhLCX.jpg"
+  },
+  {
+    "title": "تاپ مردانه کد SM175",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مردانه"
+        ]
+      }
+    ],
+    "random_key": "43fb5904-c9c6-483a-a113-cb1f4df88c1e",
+    "image_url": "https://image.torob.com/base/images/RH/gu/RHguyOwZgYsPvNHV.jpg"
+  },
+  {
+    "title": "تاپ مردانه سون پون مدل M316 رنگ زرد",
+    "group": "مردانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سون پون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ مردانه"
+        ]
+      }
+    ],
+    "random_key": "35f9e968-3a36-4885-bfe9-8f35fa5f7911",
+    "image_url": "https://image.torob.com/base/images/_O/sF/_OsFtQQzVvrWmslV.jpg"
+  },
+  {
+    "title": "آستین حلقه‌ای پارچه ریون نیم‌ زیپ",
+    "group": "نامشخص",
+    "product": "آستین حلقه ای",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستین حلقه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نیم  زیپ"
+        ]
+      }
+    ],
+    "random_key": "c492cfee-1843-4375-b20d-9d42eb5209a8",
+    "image_url": "https://image.torob.com/base/images/mN/EG/mNEGjdF2JhmxWCtW.webp"
+  }
+]

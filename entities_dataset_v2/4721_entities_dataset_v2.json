@@ -1,0 +1,5980 @@
+[
+  {
+    "title": "پیراهن پرنسسی دخترانه مدل آرمیتا برند شیکسون - قرمز / ۱",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیکسون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "0d4800e4-c18a-4c77-bb2c-5fb5f7189c6c",
+    "image_url": "https://image.torob.com/base/images/w_/f2/w_f2KYfPYzFKGQsK.jpg"
+  },
+  {
+    "title": "لباس دخترانه برند پامینا اصل 33023PR",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پامینا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "52fd5ef4-b552-4146-8749-73aa4f635f48",
+    "image_url": "https://image.torob.com/base/images/H7/Bg/H7BgEXcGyKuc8Y8_.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه بچه گانه ترک برند ELSIMA 3108",
+    "group": "بچگانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ELSIMA"
+        ]
+      }
+    ],
+    "random_key": "787b15cb-9d4b-492a-bea4-f23dd909a7b7",
+    "image_url": "https://image.torob.com/base/images/y4/lp/y4lp79SoTzG5lRrR.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه دفاکتو اورجینال سفید Defacto C7483A824AU",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "5d87d326-520c-4804-8751-5750827d4f00",
+    "image_url": "https://image.torob.com/base/images/lW/AG/lWAGGZPi50tGja7l.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [],
+    "random_key": "f5f9181e-89e2-49df-9c6d-76d725941f05",
+    "image_url": "https://image.torob.com/base/images/CX/Ja/CXJaAnV-ofhe5JbM.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه تیتیش Teeteesh کد 11385",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تیتیش Teeteesh"
+        ]
+      }
+    ],
+    "random_key": "6d2bd2d2-cece-4979-9562-39f9b1a1760f",
+    "image_url": "https://image.torob.com/base/images/3a/jO/3ajO-1WCgLAFp8fA.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه لوپیلو آلمان اورجینال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "آلمان"
+        ]
+      }
+    ],
+    "random_key": "98876676-10d0-40b2-9561-9e9f20d02916",
+    "image_url": "https://image.torob.com/base/images/Sk/EM/SkEMSgecfV0C_iF-.jpg"
+  },
+  {
+    "title": "Mayoral لباس ژاکارد دخترانه آبی",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "ژاکارد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "7b1e2f57-12ba-40b1-9599-cd5a6b8d50dd",
+    "image_url": "https://image.torob.com/base/images/mk/Fl/mkFl9oB9yLrAXWln.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل ملکه - سایز",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ملکه"
+        ]
+      }
+    ],
+    "random_key": "6a067604-788c-481a-a3b8-183a22112caa",
+    "image_url": "https://image.torob.com/base/images/F8/Za/F8Za9HN2Vm_0lWc_.jpg"
+  },
+  {
+    "title": "پیراهن کوتاه دخترانه برند لوپیلو کد ۳۶۲۳۲۶",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      }
+    ],
+    "random_key": "f1c74594-0ea3-45c1-bd4b-c416808d5a1b",
+    "image_url": "https://image.torob.com/base/images/xS/AA/xSAAFbyV73Hvf8g_.jpg"
+  },
+  {
+    "title": "پیراهن دخترونه مدل summer برند ترک ترکیه راحتی مناسب فصل تابستون",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن summer"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "ترکیه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "راحتی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستان"
+        ]
+      }
+    ],
+    "random_key": "456a4c48-4060-4577-b2e7-2bada695a904",
+    "image_url": "https://image.torob.com/base/images/Fe/pj/FepjT4ZpedyatpLR.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه تابستونی سایز 1 تا 8 ، 9 سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 8 ، 9 سال"
+        ]
+      }
+    ],
+    "random_key": "1bb1586f-48f2-4f83-9dd7-ad916a22bf49",
+    "image_url": "https://image.torob.com/base/images/HS/DR/HSDRN4z6dwYuTHZC.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه جی بی بی بی اورجینال 22PFWBG2613",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جی بی بی بی"
+        ]
+      }
+    ],
+    "random_key": "0ede0d85-b56b-4a27-8793-e9c9a65135fa",
+    "image_url": "https://image.torob.com/base/images/5g/D7/5gD7-cNLz3ZcK_f9.jpg"
+  },
+  {
+    "title": "پیراهن شیک دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "82da80da-abf2-46c1-b0e0-ac200f1c5fde",
+    "image_url": "https://image.torob.com/base/images/pj/hv/pjhvp2Db1U13N2rB.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [],
+    "random_key": "bbae2232-0e37-4868-9029-16d35643799f",
+    "image_url": "https://image.torob.com/base/images/-T/yr/-TyraazNLvSZY0xx.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [],
+    "random_key": "aa95ff71-4860-49c4-9736-92483c1b0bf0",
+    "image_url": "https://image.torob.com/base/images/Xk/nA/XknAOWmrH4uc7VMC.jpg"
+  },
+  {
+    "title": "لباس دخترانه پنبه دانه Cigit اورجینال کد کالا 70957",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Cigit"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "پنبه"
+        ]
+      }
+    ],
+    "random_key": "54f1e79c-7138-48b6-915f-507556dbc516",
+    "image_url": "https://image.torob.com/base/images/BJ/hK/BJhK5RKL7J4aMElW.jpg"
+  },
+  {
+    "title": "پیش‌نویس ۵۰۴",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "0db6bea2-47ca-43d6-9798-9cb511813ac0",
+    "image_url": "https://image.torob.com/base/images/Hc/Dh/HcDhyUCQqnoF4Scn.jpg"
+  },
+  {
+    "title": "Breeze لباس آستین بلند دخترانه پولک دار با چاپ گل 3 تا 8 سال، رز خشک",
+    "group": "دخترانه 3 تا 8 سال",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پولک دار",
+          "چاپ گل"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 8 سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رز خشک"
+        ]
+      }
+    ],
+    "random_key": "3bd4d788-1930-4cb8-970b-9514f3392b2d",
+    "image_url": "https://image.torob.com/base/images/gO/vc/gOvcPhfoEoUN23d5.jpg"
+  },
+  {
+    "title": "پیراهن نخی دخترانه مناسب دو سال تا هشت سال در دو طرح جذاب",
+    "group": "دخترانه دو سال تا هشت سال",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "دو سال تا هشت سال"
+        ]
+      }
+    ],
+    "random_key": "217ababa-61bb-48f3-8fa3-8e3b70385812",
+    "image_url": "https://image.torob.com/base/images/u7/Re/u7ReFBmgLS00J7-H.jpg"
+  },
+  {
+    "title": "وارد حساب کاربری خود شوید",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "293a40a2-631c-442d-9931-4fed3f4597ea",
+    "image_url": "https://image.torob.com/base/images/B-/s3/B-s3-Hq-zuXMaXon.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ی بهار",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "بهار"
+        ]
+      }
+    ],
+    "random_key": "db6e7966-5be7-4b33-b090-2f62c1ef331d",
+    "image_url": "https://image.torob.com/base/images/8l/nL/8lnLBX3De699Hu3E.jpg"
+  },
+  {
+    "title": "عبا دخترانه هیژا Hija کد 121",
+    "group": "دخترانه",
+    "product": "عبا",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هیژا Hija"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "عبا"
+        ]
+      }
+    ],
+    "random_key": "99a39545-8ec2-4aeb-a577-e89ed6d0d604",
+    "image_url": "https://image.torob.com/base/images/7F/5b/7F5bhwvuuJNBiGQY.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه طرح عروسک",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "عروسک"
+        ]
+      }
+    ],
+    "random_key": "e382f75b-7cfd-42a4-823e-d2c40eacbccf",
+    "image_url": "https://image.torob.com/base/images/8-/L2/8-L2Dg2m_WxW_86w.jpg"
+  },
+  {
+    "title": "پیراهن دخترونه کبریتی مناسب6ماه تا6سال",
+    "group": "دخترانه 6ماه تا 6سال",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "6ماه تا 6سال"
+        ]
+      }
+    ],
+    "random_key": "bb101db5-885c-42fd-b108-1eff710402bb",
+    "image_url": "https://image.torob.com/base/images/KW/Bj/KWBjH8Y2is5GDV-k.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه صورتی اچ اند ام 1211800004",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      }
+    ],
+    "random_key": "54d22b73-37df-4eff-a044-acd3f5fdcac4",
+    "image_url": "https://image.torob.com/base/images/SO/gb/SOgbV56_k3tbNBmK.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه آدمک Adamak کد 1272001",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Adamak"
+        ]
+      }
+    ],
+    "random_key": "c37f0aeb-fb83-491e-a379-07f651d95093",
+    "image_url": "https://image.torob.com/base/images/X4/89/X489-t_vZA95x3aP.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه سی ویل گیرلز اورجینال 40130408024S1",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سی ویل گیرلز"
+        ]
+      }
+    ],
+    "random_key": "04877448-6e27-4616-ab8e-001d11dde930",
+    "image_url": "https://image.torob.com/base/images/6I/J6/6IJ67V3p9qfzR96y.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه زیبا جنس کبریتی نسبتاگرم بااسترکشی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با استرکشی"
+        ]
+      }
+    ],
+    "random_key": "8e87a5a2-2c62-4672-b35d-5c796cc4e30a",
+    "image_url": "https://image.torob.com/base/images/8r/or/8rorm-0utEKv_k5R.jpg"
+  },
+  {
+    "title": "Mayoral لباس آستین بلند با جزئیات دخترانه شلوار شانه، پودر سبک L24K4927",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "پودر سبک"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "شلوار شانه"
+        ]
+      }
+    ],
+    "random_key": "324c6272-d5c5-4385-a970-62161ef5dbc0",
+    "image_url": "https://image.torob.com/base/images/Jx/JX/JxJXxDmFaAHsqsSS.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مخمل کبریتی مدل 3",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      }
+    ],
+    "random_key": "77310e1b-8356-4c21-814d-0ebe040cfd03",
+    "image_url": "https://image.torob.com/base/images/vd/a3/vda3lq8S6ZKVh39S.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه طرح پاپیون 1642",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "پاپیون"
+        ]
+      }
+    ],
+    "random_key": "86cabb28-922a-4670-a59f-fa62f66890b4",
+    "image_url": "https://image.torob.com/base/images/0k/Dh/0kDh_DJzhwmNs-dI.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه تترون ،طرح جلو باز دکمه خور،به همراه تل ست از جنس لباس،با گلدوزی طرح گل در 3 رنگ کرم،آبی، یاسی در 4 سایز",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "تترون"
+        ]
+      },
+      {
+        "name": "نحوه بسته شدن",
+        "values": [
+          "دکمه خور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "آبی",
+          "یاسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 سایز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی طرح گل"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "تل ست از جنس لباس"
+        ]
+      }
+    ],
+    "random_key": "db2732b5-5eee-4291-8c9d-d461d11e36fb",
+    "image_url": "https://image.torob.com/base/images/5e/26/5e26mAOA0ygm0VeG.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ترک",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "ترک"
+        ]
+      }
+    ],
+    "random_key": "cc3dbe01-60b0-4e07-b98e-a5323986ae77",
+    "image_url": "https://image.torob.com/base/images/BO/gw/BOgwH4O1G8808hO_.jpg"
+  },
+  {
+    "title": "پیراهن خنک دخترانه پاپیونی 3 تا 9 سال",
+    "group": "دخترانه 3 تا 9 سال",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 9 سال"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پاپیونی"
+        ]
+      }
+    ],
+    "random_key": "185f0d6a-9e6f-4944-9cde-d9426779e9f0",
+    "image_url": "https://image.torob.com/base/images/Wh/Ce/WhCeRDn_fQ4gJMUt.jpg"
+  },
+  {
+    "title": "پیراهن موسیلین عیدانه",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "موسیلین"
+        ]
+      }
+    ],
+    "random_key": "3637cce8-4cc9-4b65-8745-eb2e971f6c04",
+    "image_url": "https://image.torob.com/base/images/43/BY/43BYZ6ENtLLcOnAc.jpg"
+  },
+  {
+    "title": "پیراهن پشمی دخترانه آرشین 1427 کد 1315616",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آرشین"
+        ]
+      }
+    ],
+    "random_key": "5081cafe-6285-4f38-9e56-6649dc762fe5",
+    "image_url": "https://image.torob.com/base/images/qK/93/qK93XSDEq5zhYevn.jpg"
+  },
+  {
+    "title": "پیراهن عروسکی دخترانه پیراهن پرنسسی دخترانه چیندار",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروسکی",
+          "پیراهن پرنسسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چیندار"
+        ]
+      }
+    ],
+    "random_key": "cdb250d3-7268-4c97-94a0-8e62ab88fd80",
+    "image_url": "https://image.torob.com/base/images/jK/qw/jKqwT9bV7KWdJ_np.jpg"
+  },
+  {
+    "title": "لباس دخترانه دنو کیدز کد CFF-22S1-073 | Denokids",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دنو کیدز",
+          "Denokids"
+        ]
+      }
+    ],
+    "random_key": "130c5b7b-194b-480a-a79e-d9eee0a73f6d",
+    "image_url": "https://image.torob.com/base/images/4x/m-/4xm-9seSKiRyIOgm.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه شیک همراه با کلاه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "همراه با کلاه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "2fd02e19-22c0-4e19-8248-b9e8a45165fe",
+    "image_url": "https://image.torob.com/base/images/TH/PA/THPAXf6u-AwGM8Pp.jpg"
+  },
+  {
+    "title": "پیراهن عبایی مرداب",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عبایی"
+        ]
+      }
+    ],
+    "random_key": "d09dbcff-b754-402d-91ed-1534f0da3438",
+    "image_url": "https://image.torob.com/base/images/Pl/RE/PlREeSeUhqttwMHt.jpg"
+  },
+  {
+    "title": "کد ۱۷۳۲ پیراهن طرح عشق",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "طرح عشق"
+        ]
+      }
+    ],
+    "random_key": "efd53774-1656-45a5-9d53-2dec7e262236",
+    "image_url": "https://image.torob.com/base/images/lK/p-/lKp-EIKvO1ddVM5f.jpg"
+  },
+  {
+    "title": "پیراهن چیندار دخترانه کد 322",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چیندار"
+        ]
+      }
+    ],
+    "random_key": "74000416-3612-4fdd-9a8c-7b644ebb5318",
+    "image_url": "https://image.torob.com/base/images/UT/2O/UT2OjjO0V6-J09Qy.jpg"
+  },
+  {
+    "title": "لباس دخترانه میهن W3JC48Z4 - FRJ | Myhanne",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میهن",
+          "Myhanne"
+        ]
+      }
+    ],
+    "random_key": "8025a563-b85f-4437-85be-50cdd1813cca",
+    "image_url": "https://image.torob.com/base/images/KU/Oj/KUOjcdPnXHxJri55.jpg"
+  },
+  {
+    "title": "پیراهن تابستانی - سیسمونی نی نی مون",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      }
+    ],
+    "random_key": "4ad9e422-e746-4ed0-8c31-643d7dc48e16",
+    "image_url": "https://image.torob.com/base/images/jg/c-/jgc-Fo4vbIYUq9Uv.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل اسپانیایی فوق العاده شیک",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مدل اسپانیایی"
+        ]
+      }
+    ],
+    "random_key": "e4d65a1d-c8b1-4a2b-a557-cc1e861f3860",
+    "image_url": "https://image.torob.com/base/images/Gp/bn/GpbnLaZr6pNc26It.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مرینو Merino کد 1394",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مرینو",
+          "Merino"
+        ]
+      }
+    ],
+    "random_key": "969c7bbf-3d42-40b0-907b-dd52572c52c5",
+    "image_url": "https://image.torob.com/base/images/ri/A7/riA7R9HRB9QHf-Rc.jpg"
+  },
+  {
+    "title": "LC Waikiki لباس پوشیدن",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "LC Waikiki"
+        ]
+      }
+    ],
+    "random_key": "5e49b324-08a2-4b83-a516-5811c32a37ab",
+    "image_url": "https://image.torob.com/base/images/YY/Dm/YYDmtAzvuSfzrJK7.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه و لباس عروس بچگانه استین دار(مزون دوز آستر دوزی) سایز 1 تا 12 سال کد 004",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "آستر دوزی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 12 سال"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "استین دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مزون دوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروس بچگانه"
+        ]
+      }
+    ],
+    "random_key": "971da40a-b7be-4919-be38-533b7199c1fc",
+    "image_url": "https://image.torob.com/base/images/eA/FV/eAFVZBaVSBETMbst.jpg"
+  },
+  {
+    "title": "پیراهن مشکی مدل نسترن دخترانه سارافون مشکی",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدل نسترن",
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "c52932d2-35cf-4b79-8f86-f9815d20cf0e",
+    "image_url": "https://image.torob.com/base/images/FD/UX/FDUXQAjVs00iKtE7.jpg"
+  },
+  {
+    "title": "پیراهن شیک و خاص دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "خاص"
+        ]
+      }
+    ],
+    "random_key": "774711b8-447d-455a-a9f3-0fa6946b47da",
+    "image_url": "https://image.torob.com/base/images/e3/IB/e3IBE_y8z8I-CGmG.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه وارداتی",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "وارداتی"
+        ]
+      }
+    ],
+    "random_key": "23b4435f-2470-4ac8-b282-dc789f0ddfae",
+    "image_url": "https://image.torob.com/base/images/Ke/Si/KeSiKzlU2mUcazDH.jpg"
+  },
+  {
+    "title": "پیراهن بلند دخترانه تا15سال کرپ مراکشی",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "تا15سال"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کرپ مراکشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن بلند"
+        ]
+      }
+    ],
+    "random_key": "bfb4ca6a-e1ef-4c2f-b790-6929c2113794",
+    "image_url": "https://image.torob.com/base/images/sP/aY/sPaYSLBYaN24T9N5.jpg"
+  },
+  {
+    "title": "پیراهن سارافون همراه با کت دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن سارافون",
+          "کت"
+        ]
+      }
+    ],
+    "random_key": "50ef9425-95cc-4dc1-8201-c25e9c8b4b10",
+    "image_url": "https://image.torob.com/base/images/5a/38/5a385qSvCR0uKDmU.jpg"
+  },
+  {
+    "title": "پیراهن کوتاه دخترانه و زنانه فری سایز 36 تا 44",
+    "group": "دخترانه و زنانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز 36 تا 44"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن کوتاه"
+        ]
+      }
+    ],
+    "random_key": "eb01b014-0a21-4599-aba1-05b402525d88",
+    "image_url": "https://image.torob.com/base/images/69/cA/69cA_swruH_dntjj.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه چین دار گلدار 1 تا 3 ساله",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 3 ساله"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      }
+    ],
+    "random_key": "614d25e7-5958-4267-8b2c-afa0b553d99f",
+    "image_url": "https://image.torob.com/base/images/f4/va/f4vab3n05XLIsFb3.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه السی وایکیکی اورجینال آبی LC Waikiki W2DU75Z4LLC",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "4ebb109a-a248-4a28-a7b4-c1cb32c6d5c7",
+    "image_url": "https://image.torob.com/base/images/mz/Ji/mzJiZ2k9Yb5JU7s0.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ستایش",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ستایش"
+        ]
+      }
+    ],
+    "random_key": "5e0c28a4-bec0-4b40-8914-6f0600bd8df3",
+    "image_url": "https://image.torob.com/base/images/cS/Dl/cSDlnTtiXAObcgPa.jpg"
+  },
+  {
+    "title": "پیراهن پرنسسی دخترانه مخمل پولکی",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی",
+          "پولکی"
+        ]
+      }
+    ],
+    "random_key": "27a678f6-d949-4825-b9db-04543d3128bd",
+    "image_url": "https://image.torob.com/base/images/vW/fx/vWfxB1_4k1CEWv0w.jpg"
+  },
+  {
+    "title": "پیراهن / بلوز دکمه دار زنانه لباس ECOL ECRU CUPPER دقیق اورجینال Vosse",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نحوه بسته شدن",
+        "values": [
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ECOL ECRU CUPPER"
+        ]
+      }
+    ],
+    "random_key": "218411ba-d13d-4fbe-bdd4-2b3469cd78cd",
+    "image_url": "https://image.torob.com/base/images/kP/GC/kPGCdGQy70TIgcW_.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [],
+    "random_key": "a5a9d97a-9d53-4cd6-9192-96f3339cf6ef",
+    "image_url": "https://image.torob.com/base/images/CN/NZ/CNNZmvaFOu_Id5nq.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه پوپلین طرح خرگوش",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "طرح خرگوش"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "پوپلین"
+        ]
+      }
+    ],
+    "random_key": "625c1034-02e3-4a8d-95e0-581781ab9f7d",
+    "image_url": "https://image.torob.com/base/images/7K/Ab/7KAbLBjYQvo1nm-m.jpg"
+  },
+  {
+    "title": "پیراهن زمستانه دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      }
+    ],
+    "random_key": "0c0ee7df-f9d7-4dd3-ae7c-4fe2ba3e371e",
+    "image_url": "https://image.torob.com/base/images/62/4w/624wK1UZanw1Km95.jpg"
+  },
+  {
+    "title": "پیراهن آستین کوتاه دخترانه کد 1887490",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      }
+    ],
+    "random_key": "7952aa77-703a-45fa-9dfd-8082416af3d9",
+    "image_url": "https://image.torob.com/base/images/MM/4j/MM4jGLsVBY3rGuDc.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ال سی وایکیکی کد S50492Z4 - Q6K | LCW Kids",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LCW Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "34171e0a-4527-429e-a14b-0d058f405279",
+    "image_url": "https://image.torob.com/base/images/kZ/2b/kZ2bF403A4GrApJS.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه نخی مشکی یکسال تا 6 سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "یکسال تا 6 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "bca8cb9a-0946-4a20-b00f-dc2c9415f6a1",
+    "image_url": "https://image.torob.com/base/images/hi/gG/higGaZPPMjTwdQwB.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه استوک",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "207f9011-2d9a-45ad-9fed-657c05870ba1",
+    "image_url": "https://image.torob.com/base/images/xg/Cz/xgCzgPFbvQ6SZxKV.jpg"
+  },
+  {
+    "title": "پيراهن دخترانه پروانه سبز آبی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "پروانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "53155bcb-857e-4daf-9724-4ff6f821dcee",
+    "image_url": "https://image.torob.com/base/images/Uy/Nb/UyNbdm8QQnFpTQrh.jpg"
+  },
+  {
+    "title": "پیراهن عروسکی دخترانه کد 4393",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروسکی"
+        ]
+      }
+    ],
+    "random_key": "14ff322e-96d1-4599-b0c7-1a4677d2d9c6",
+    "image_url": "https://image.torob.com/base/images/qn/JI/qnJIE654LG2hdzTu.jpg"
+  },
+  {
+    "title": "پیراهن بلند زنانه و دخترانه مدل نیلوفر",
+    "group": "زنانه و دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن بلند"
+        ]
+      }
+    ],
+    "random_key": "271d3525-797a-4646-bb6e-daf39da31996",
+    "image_url": "https://image.torob.com/base/images/8G/jG/8GjGsyVWFcamFmG0.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه سیویل کد 40D57C57",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سیویل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0b0ffcdd-9e70-4a29-903b-c04fcc2b31d0",
+    "image_url": "https://image.torob.com/base/images/h5/0U/h50UyNhHqDfhYi62.jpg"
+  },
+  {
+    "title": "پیراهن آستین استاندارد راسته دخترانه | شیک بوی çikoby 9799",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین استاندارد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیک بوی",
+          "çikoby"
+        ]
+      }
+    ],
+    "random_key": "994eebe2-610d-470c-a8a4-76377cdf3b36",
+    "image_url": "https://image.torob.com/base/images/hG/ol/hGol7fyvwjFbj2wR.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل 143-GR180",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "7db4142c-90dc-4749-84f0-122238828f4d",
+    "image_url": "https://image.torob.com/base/images/ne/ji/nejiTkgpnY29HuNQ.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه چین دار پاپیون",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "007d5450-e909-4ba2-b6a9-68472b9ec6b5",
+    "image_url": "https://image.torob.com/base/images/-T/Tc/-TTcjpjm06eBJcSo.jpg"
+  },
+  {
+    "title": "پیراهن خرگوشی دخترانه 021 - سایز",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "خرگوشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "4efa2bbe-42ed-415e-9d80-524558c380fc",
+    "image_url": "https://image.torob.com/base/images/Xq/Zw/XqZwYH1VyBhLaScK.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه یقه گل دار 1 تا 4 سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه گل دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 4 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "fc458601-7bfc-4d34-aa57-44a8c7e2ce91",
+    "image_url": "https://image.torob.com/base/images/5C/bM/5CbMSci-_3m_VFvC.jpg"
+  },
+  {
+    "title": "پیراهن ساتن ابی دانتل دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ابی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "دانتل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8485a9e2-01fc-4b6d-bc8d-24f66a8f2cc1",
+    "image_url": "https://image.torob.com/base/images/nl/6G/nl6GpKvmr6uVh5-p.jpg"
+  },
+  {
+    "title": "Breeze مدل لباس دخترانه متن طرح دار چاپ شده 3 7 سال مرجانی",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "طرح دار چاپ شده"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 7 سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مرجانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "bbbfa2c7-4e45-4af7-b035-eb62a3723f3a",
+    "image_url": "https://image.torob.com/base/images/dF/r4/dFr4AN1V8ucDk8_z.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه کوتاه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن کوتاه"
+        ]
+      }
+    ],
+    "random_key": "4d85e0f9-d7e4-4588-abdb-b24319c3ce49",
+    "image_url": "https://image.torob.com/base/images/38/dM/38dMaYzwaYwopkqQ.jpg"
+  },
+  {
+    "title": "لباس دخترانه برند جی بی بی بی اصل 23PSSBG2901",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جی بی بی بی اصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "48fda95b-d9f1-4156-a82c-c4a47a6be46d",
+    "image_url": "https://image.torob.com/base/images/yl/km/ylkmVWNuo-yCHHwG.jpg"
+  },
+  {
+    "title": "پیراهن روزمره بچه گانه دخترانه صورتی ال سی وایکیکی W24352Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "1a0fc12b-8479-4cab-9a05-9c1738095974",
+    "image_url": "https://image.torob.com/base/images/u-/-K/u--KslEdHtd8-tTN.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه نخی پنبه مناسب 2 تا 8 سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 تا 8 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "6d2ae098-a920-4cfe-bddc-0a494dc9ee9e",
+    "image_url": "https://image.torob.com/base/images/2Q/X6/2QX62Rsg042tNZ-S.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه آبی آسمانی اف تی ام کیدز FTM Kids مدل پری دریایی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی آسمانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اف تی ام کیدز",
+          "FTM Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پری دریایی"
+        ]
+      }
+    ],
+    "random_key": "7d46fa85-3de3-406a-80af-8deece7db026",
+    "image_url": "https://image.torob.com/base/images/am/q0/amq0w1gZkuIJkagR.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه،پیراهن پائیزی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پائیزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "5061539c-9d0a-490c-a6a4-cef576f2e35d",
+    "image_url": "https://image.torob.com/base/images/k7/AI/k7AInRqRzfdlXuX0.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه موسلین چین دارs00343",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "موسلین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "1326d6c6-3445-49c2-abb6-a2dfc36f8b6d",
+    "image_url": "https://image.torob.com/base/images/E1/Dq/E1Dq1E-G6RICS66V.jpg"
+  },
+  {
+    "title": "پیراهن بچگانه دخترانه آستین کلوش جنس خامه‌دوزی",
+    "group": "بچگانه دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین کلوش"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "خامه دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "fccd8240-0e51-4b18-87c1-aa1ea0315e56",
+    "image_url": "https://image.torob.com/base/images/SN/NZ/SNNZvRAIB985zYvw.jpg"
+  },
+  {
+    "title": "پیراهن آستبن بلند گلدار دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0ec0f15e-a186-474f-8ce4-a29785d28cd7",
+    "image_url": "https://image.torob.com/base/images/Mv/uP/MvuPxatUQWc9d-w3.jpg"
+  },
+  {
+    "title": "لباس دخترانه برند کوتون اصل 3SKG80003AW",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      }
+    ],
+    "random_key": "b1d1d221-a6d0-4c77-b94b-e46d534eedfe",
+    "image_url": "https://image.torob.com/base/images/BQ/Wx/BQWx4iDkbbo4ZJhM.jpg"
+  },
+  {
+    "title": "پیراهن تور دخترونه چین دار",
+    "group": "دخترونه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "327b8556-6c69-4771-9201-6cdd2f37af97",
+    "image_url": "https://image.torob.com/base/images/Ex/LQ/ExLQtQ59sV90-Pb-.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه رونا",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رونا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "64742164-479b-440f-823e-b378396ca68a",
+    "image_url": "https://image.torob.com/base/images/-g/Hs/-gHs8XsJjLp6Dm6F.jpg"
+  },
+  {
+    "title": "پیراهن سارافون دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "a5794286-2b57-483f-85b6-10a1bf8268f2",
+    "image_url": "https://image.torob.com/base/images/9n/nS/9nnSOfF2mK88f-UP.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه با دامن توری پاپ فشن pop fashion",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پاپ فشن",
+          "pop fashion"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن با دامن توری"
+        ]
+      }
+    ],
+    "random_key": "c130c5fc-d460-4220-8e01-f3d8e00c4f64",
+    "image_url": "https://image.torob.com/base/images/zI/YD/zIYDHR6umvhhV17y.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه خارجی کیفیت کاملا تضمینی مناسب 1 تا 6 سال ارسال رایگان (زیر قیمت خرید)",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "خارجی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 6 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "2adb647a-8da7-4093-a8fd-56295b98e25a",
+    "image_url": "https://image.torob.com/base/images/vW/i_/vWi_ji3Ee1WP901y.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل بلوبری",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "660f01b0-66a5-4090-8621-e571317303ec",
+    "image_url": "https://image.torob.com/base/images/CK/dz/CKdzp0ZwP4Vezw9X.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "5fdfe6e0-1125-48be-a352-93a21ed387d0",
+    "image_url": "https://image.torob.com/base/images/Wp/-n/Wp-nFxPsrHvjgJpZ.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ارگانزا",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "ارگانزا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "9767004e-7006-4c2e-aad8-f81af94ad211",
+    "image_url": "https://image.torob.com/base/images/9j/od/9jodHL5YJVaOiqAM.jpg"
+  },
+  {
+    "title": "Mayoral لباس پلنگی شیفون دخترانه 7919",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "شیفون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "83b6d65b-3357-4493-b118-fd3adbad77bb",
+    "image_url": "https://image.torob.com/base/images/LM/5S/LM5SM37Z-r3dACI4.jpg"
+  },
+  {
+    "title": "پیراهن نخی دخترانه 809",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "97d4c2a6-6de4-4eac-9bd4-9ee32e09d918",
+    "image_url": "https://image.torob.com/base/images/ky/d9/kyd9alH9OajH8VEY.webp"
+  },
+  {
+    "title": "پیراهن مشکی طوسی دخترانه آستین تور",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "طوسی"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین تور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "04abaab2-3672-4e56-b6e9-4ce2490c70c8",
+    "image_url": "https://image.torob.com/base/images/4N/5S/4N5SqBdZxx7FnuY8.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه بهاری",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "بهاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8b750152-5930-418f-94e0-ab96d16039f1",
+    "image_url": "https://image.torob.com/base/images/2A/PJ/2APJzKb7cqt6FIOy.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "b8c01cf6-ea49-41be-903b-90973bda5772",
+    "image_url": "https://image.torob.com/base/images/fC/nw/fCnwU6ia5f3UDTYd.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه نو و آکبند خارجی با تگ",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "a73458b4-2213-4f66-8540-fca0f0bfb79d",
+    "image_url": "https://image.torob.com/base/images/jX/Za/jXZa29YIHRSaC2dL.jpg"
+  },
+  {
+    "title": "پیراهن چند رنگ زنانه لباس کوتاه WICK شتر اورجینال InStyle",
+    "group": "زنانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "WICK"
+        ]
+      }
+    ],
+    "random_key": "da709c91-2bce-4073-aa1a-4d5767aaa545",
+    "image_url": "https://image.torob.com/base/images/G3/tM/G3tMHCShHFo9QEjy.jpg"
+  },
+  {
+    "title": "پیراهن عروسکی آستین کوتاه طرح قلب پفک",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروسکی"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "طرح قلب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پفک"
+        ]
+      }
+    ],
+    "random_key": "40595b12-0f4f-4ce4-9186-f2deeb6a42bb",
+    "image_url": "https://image.torob.com/base/images/qG/60/qG600tKsXmWOAt6t.jpg"
+  },
+  {
+    "title": "پیراهن لی دخترانه همراه با کت زیبا",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "e3162dbf-ebb8-4004-9dfc-5c6fffce66eb",
+    "image_url": "https://image.torob.com/base/images/pe/T3/peT3ABpFvxf6Z9cD.jpg"
+  },
+  {
+    "title": "پیراهن نخی کتان دخترانه دور سینه چین دار",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی کتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "چین دار"
+        ]
+      }
+    ],
+    "random_key": "a1a94f35-93d7-46c0-9af8-acb54d9371c3",
+    "image_url": "https://image.torob.com/base/images/Eb/pT/EbpTKH71VJBQPo1R.jpg"
+  },
+  {
+    "title": "پیراهن روزمره دختربچه سرمه‌ای برند LUGGI BABY S2O833Z4",
+    "group": "دختربچه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LUGGI BABY"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "25488518-4644-4c18-bfe9-7ac8693c3f6e",
+    "image_url": "https://image.torob.com/base/images/_C/C3/_CC3FD9wQlRbtEJZ.jpg"
+  },
+  {
+    "title": "ٍّّپیراهن دخترانه سلوا صورتی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سلوا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "3db8d04f-ca67-4989-a25d-5b3c8f7529a6",
+    "image_url": "https://image.torob.com/base/images/5Y/5o/5Y5o9Tx3Qxpb3zwm.jpg"
+  },
+  {
+    "title": "پیراهن پرنسسی دخترانه کشمیر مدل مهیا برند شیکسون - ۱",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کشمیر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیکسون"
+        ]
+      }
+    ],
+    "random_key": "623d29ac-c2ee-4cee-b988-e5c3e31cefc3",
+    "image_url": "https://image.torob.com/base/images/zm/RT/zmRTBPrQMi-Fbl6B.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه گلی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "b0fbad89-7f5c-48ba-a180-2b1ed0a2cca0",
+    "image_url": "https://image.torob.com/base/images/XM/K7/XMK7BGW6uhsELWYf.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه با تل طرح شیمان کد 23148",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "طرح شیمان"
+        ]
+      }
+    ],
+    "random_key": "2212a058-6255-4a90-8e46-e387f6d708e5",
+    "image_url": "https://image.torob.com/base/images/Xq/hu/XqhuEOzboRK7rAzg.webp"
+  },
+  {
+    "title": "پیراهن لینن با شورت پیراهن نخی بچگانه پیراهن دخترانه سارافون دخترانه",
+    "group": "بچگانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "لینن",
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن",
+          "سارافون"
+        ]
+      }
+    ],
+    "random_key": "02d22c09-5a89-4ca7-ba9b-bd0e8ea7ddb0",
+    "image_url": "https://image.torob.com/base/images/gH/23/gH23_TG3D4_sV5rr.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه دفاکتو Defacto اورجینال کد کالا C3758A524SM",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "128f21e3-8705-4b74-926c-37f60122f2eb",
+    "image_url": "https://image.torob.com/base/images/MT/SQ/MTSQ5GBV8n6f_NT9.jpg"
+  },
+  {
+    "title": "Koton لباس یقه پهن کودک آستین بادکنکی کوتاه الاستیک نخی",
+    "group": "کودک",
+    "product": "لباس کودک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Koton"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه پهن"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین بادکنکی کوتاه"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "fcc03558-ab8b-4846-ace5-a8efa4fd2753",
+    "image_url": "https://image.torob.com/base/images/OC/Cf/OCCfCEUl-Iawf0G5.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه پاییزه",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "5d72189a-0cbc-4f24-8fcd-65bc85b893d7",
+    "image_url": "https://image.torob.com/base/images/uB/2D/uB2DpUxE8_spgZJm.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل رز کد ۴۰۰",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "781e2b2e-a89a-429e-a891-d5cd1d46b860",
+    "image_url": "https://image.torob.com/base/images/9f/cs/9fcs56cluDaiL8cP.jpg"
+  },
+  {
+    "title": "پیراهن لباسخواب توری مخصوص عروس خانمای خوشتیپ",
+    "group": "عروس خانم",
+    "product": "پیراهن لباسخواب",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن لباسخواب"
+        ]
+      }
+    ],
+    "random_key": "c1a83101-665a-40a2-93cf-c7e339aa7fc0",
+    "image_url": "https://image.torob.com/base/images/nO/LT/nOLT8zB6aIRP42cI.jpg"
+  },
+  {
+    "title": "پیراهن ساحلی دخترانه کد 26015",
+    "group": "دخترانه",
+    "product": "پیراهن ساحلی دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ساحلی"
+        ]
+      }
+    ],
+    "random_key": "46c7881c-b17a-41c0-98fa-147a804a3fc8",
+    "image_url": "https://image.torob.com/base/images/0Z/Ii/0ZIi83P6sVvOC2tn.webp"
+  },
+  {
+    "title": "پیراهن دخترانه السی وایکیکی LC Waikiki اورجینال W4KF33Z4 – FRC",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "a25cec44-19b9-4a7c-8f4a-a6e624686f65",
+    "image_url": "https://image.torob.com/base/images/yn/Wd/ynWdsK7naud7FTLi.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه نوجوان مدل هانیل",
+    "group": "نوجوان",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "07ea2331-7986-403c-b899-06fe43d8b8b0",
+    "image_url": "https://image.torob.com/base/images/l6/D3/l6D3RtLJM_nm-oSS.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه کرپ کش",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کرپ کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "968d46ef-1362-4f66-8ec9-0885b6d2042b",
+    "image_url": "https://image.torob.com/base/images/gx/ZN/gxZNYAe61C33gG_T.jpg"
+  },
+  {
+    "title": "لباس دخترانه برند پامینا اصل 33199PR",
+    "group": "دخترانه",
+    "product": "لباس دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پامینا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "9ea4f950-d5be-439d-81cb-7a040a221fb7",
+    "image_url": "https://image.torob.com/base/images/Wt/oz/WtozI1vuCeb2vEEJ.jpg"
+  },
+  {
+    "title": "پیراهن خالخالی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "خالخالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "4e83db48-79a4-4bc8-ab27-0042f2600f8b",
+    "image_url": "https://image.torob.com/base/images/vI/yg/vIygKa7ILRJyqTgh.jpg"
+  },
+  {
+    "title": "پیراهن کرومی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن کرومی دخترانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن کرومی"
+        ]
+      }
+    ],
+    "random_key": "be0889f3-ddcc-468f-a99d-fbefba6c9e8c",
+    "image_url": "https://image.torob.com/base/images/nv/nk/nvnkA8UfUDxq_Q8s.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه برند السی وایکیکی LC Waikiki اصل S48780Z4 -",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0ace01c0-5ab5-49f6-aa01-2d58f028af21",
+    "image_url": "https://image.torob.com/base/images/H-/5T/H-5TRr9Uw_wE_JlK.jpg"
+  },
+  {
+    "title": "Koton پیراهن میدی بدون آستین یقه دکمه دار",
+    "group": "نامشخص",
+    "product": "پیراهن میدی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Koton"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "بدون آستین"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دکمه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن میدی"
+        ]
+      }
+    ],
+    "random_key": "28e59789-c597-4b14-9d61-cfa39f01fe17",
+    "image_url": "https://image.torob.com/base/images/qK/YU/qKYU7xVasNz3etft.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه گلدار کش دوزی صورتی ملورینا Melorina",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملورینا",
+          "Melorina"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کش دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "d052dd30-9d58-4cf0-b50c-48e2e7f630f7",
+    "image_url": "https://image.torob.com/base/images/vv/-0/vv-0wIQ-fYE-938T.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه اورجینال کوتون سبز Koton 3SKG60160AW کراپ پیراهن جلوی کراوات با آستین کوتاه پارچه مدال",
+    "group": "دخترانه",
+    "product": "پیراهن دخترانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "پارچه مدال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن کراپ",
+          "پیراهن جلوی کراوات"
+        ]
+      }
+    ],
+    "random_key": "9c48b660-8fc2-4217-84c6-9372aef29943",
+    "image_url": "https://image.torob.com/base/images/Yz/O4/YzO4lCDv2lwFnNVb.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "ccd538d3-3bab-4059-9f3a-87bbf647f80b",
+    "image_url": "https://image.torob.com/base/images/Ro/ed/RoedOJZ_W-cMpe8e.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "d36aa370-6c80-4114-9540-e743c37f1f79",
+    "image_url": "https://image.torob.com/base/images/Z1/mS/Z1mS_3MDmUKMe-4n.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه کتایون",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "3ef3a57a-fb89-4ab6-9d1f-60995b76529a",
+    "image_url": "https://image.torob.com/base/images/-W/6l/-W6lKLUQk9sdZBDj.jpg"
+  },
+  {
+    "title": "پیراهن عروسکی سارا",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروسکی"
+        ]
+      }
+    ],
+    "random_key": "da0866b0-ec8c-4ed7-af34-555184e201db",
+    "image_url": "https://image.torob.com/base/images/h7/HD/h7HDxQ-4glfKYUmk.jpg"
+  },
+  {
+    "title": "پیراهن یلدایی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن یلدایی"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "یلدایی"
+        ]
+      }
+    ],
+    "random_key": "050e230f-81ac-483c-8237-04a79476a48b",
+    "image_url": "https://image.torob.com/base/images/hu/mh/humhTWXgA1GHL41w.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8031f844-1d96-49ca-8af4-e8bcb842d188",
+    "image_url": "https://image.torob.com/base/images/yC/os/yCosIjZV_S9neGgc.jpg"
+  },
+  {
+    "title": "لباس دخترانه سی ویل گیرلز Civil Girls اورجینال کد کالا 26813408824S1",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سی ویل گیرلز Civil Girls"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "63ade1fd-e116-40f5-ad32-4a45bc924ab6",
+    "image_url": "https://image.torob.com/base/images/5-/TX/5-TXwqoftVCRlksy.jpg"
+  },
+  {
+    "title": "پیراهن سرو صورتی 9 ساله",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "9 ساله"
+        ]
+      }
+    ],
+    "random_key": "924686f4-dd33-4641-9138-7f441d0086a9",
+    "image_url": "https://image.torob.com/base/images/B-/Sc/B-Scs0Wk88kyLW7c.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه اچ اند ام مدل 0870530114",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "58e37407-d44e-49b3-816c-a574242a71c7",
+    "image_url": "https://image.torob.com/base/images/7i/eO/7ieOOlIUaRsD4xfv.jpg"
+  },
+  {
+    "title": "لباس دخترانه پیراهن عروسکی دخترانه جنس کشمیر تا 2 سال",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کشمیر"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "تا 2 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس",
+          "پیراهن عروسکی"
+        ]
+      }
+    ],
+    "random_key": "9334b3dd-fc4c-44a0-a55c-c96b57da1bef",
+    "image_url": "https://image.torob.com/base/images/fe/pV/fepVD5WHeFi38nIO.jpg"
+  },
+  {
+    "title": "پیراهن ترند دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ترند"
+        ]
+      }
+    ],
+    "random_key": "bc7c38ec-aeba-4d54-b9e5-dc1a04b97ca0",
+    "image_url": "https://image.torob.com/base/images/iD/FZ/iDFZzo1U_y2LHMsV.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه پپرتس طرح گل های بهاری",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پپرتس"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گل های بهاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "bb0c8ada-7e91-4613-a121-e4bad9475da0",
+    "image_url": "https://image.torob.com/base/images/F-/v4/F-v4ujg8y0bo31wj.jpg"
+  },
+  {
+    "title": "پیراهن چهارخانه نخی ربان دار یقه ب ب سایز بزرگ دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "چهار خانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه ب ب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "ربان دار"
+        ]
+      }
+    ],
+    "random_key": "23b18ce0-de12-4a63-83b8-17fe394ecb05",
+    "image_url": "https://image.torob.com/base/images/6C/M3/6CM3FF7O8h1RdquE.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه عیدانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      }
+    ],
+    "random_key": "11ff2f15-2379-48e8-8ead-dea79f857b2e",
+    "image_url": "https://image.torob.com/base/images/0d/gm/0dgmPHycAiuVQ1du.jpg"
+  },
+  {
+    "title": "پیراهن مجلسی گل گلی",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گل گلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "09f94681-874a-4f30-a749-eb9d151fc203",
+    "image_url": "https://image.torob.com/base/images/Y1/5F/Y15FPOjQUlW7m_Nv.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه پریناز",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0cd13f19-c933-4e40-87eb-41501354a0ec",
+    "image_url": "https://image.torob.com/base/images/wQ/pC/wQpCeOEe64oocVj_.jpg"
+  },
+  {
+    "title": "پیراهن یقه گیپور|کد 1132",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه گیپور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "6030a8c7-4b8b-453b-9952-55b919363ca6",
+    "image_url": "https://image.torob.com/base/images/e5/Pr/e5PrJYDmjS3Oj09R.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "90be9f47-353a-4482-8d7c-eb75cac74221",
+    "image_url": "https://image.torob.com/base/images/Lz/Ef/LzEfpQGklVD_fSjU.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه حریر اروپایی برند original سایز چهار تا شش سالگی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "چهار تا شش سالگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "اروپایی"
+        ]
+      }
+    ],
+    "random_key": "52b9f975-d583-4ef2-bf77-155806863cdd",
+    "image_url": "https://image.torob.com/base/images/kJ/q4/kJq4wfMpkMZeo2jB.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مناسب 2تا8سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "2تا8سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "111a25c3-37af-4c9d-aea0-e1451ed4a446",
+    "image_url": "https://image.torob.com/base/images/EY/ux/EYuxWxxpEfA1QRi5.jpg"
+  },
+  {
+    "title": "پیراهن پوشیده سبز زنانه لباس فتیله ای نامتقارن اورجینال ZÜLAYS",
+    "group": "زنانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ZÜLAYS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پوشیده",
+          "لباس فتیله ای نامتقارن"
+        ]
+      }
+    ],
+    "random_key": "f11d4771-1de6-46ae-9efb-0cdaeb1c7040",
+    "image_url": "https://image.torob.com/base/images/Q6/CT/Q6CTIFU1jAZmtvbC.jpg"
+  },
+  {
+    "title": "شومیز آستین بلند دخترانه با یقه بزرگ از جنس کتان برند Defacto",
+    "group": "دخترانه",
+    "product": "شومیز",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه بزرگ"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز"
+        ]
+      }
+    ],
+    "random_key": "0fa537f0-1ac0-4c0c-8f08-bdf46ea1d185",
+    "image_url": "https://image.torob.com/base/images/mB/_v/mB_v3oXL0oQQOCqa.jpg"
+  },
+  {
+    "title": "پیراهن ساحلی دخترانه16432",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ساحلی"
+        ]
+      }
+    ],
+    "random_key": "e6a449e2-55f3-45fa-941f-7cb914545bdc",
+    "image_url": "https://image.torob.com/base/images/Sd/l_/Sdl_5BPDkPnWb6KB.jpg"
+  },
+  {
+    "title": "پیراهن دخترونه نخی در ۵ رنگ",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "5 رنگ"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "4298c2be-7778-4a67-8b28-4a0c7ec0917f",
+    "image_url": "https://image.torob.com/base/images/Q8/pZ/Q8pZFkpgo9ywi4uH.jpg"
+  },
+  {
+    "title": "پیراهن نخی کشدوزی شده دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کشدوزی شده"
+        ]
+      }
+    ],
+    "random_key": "5adf09b1-0890-45c3-824e-872571de317b",
+    "image_url": "https://image.torob.com/base/images/Yn/iD/YniDfap6-akprqG-.jpg"
+  },
+  {
+    "title": "پیراهن عروس دخترانه مدل پروانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروس",
+          "مدل پروانه"
+        ]
+      }
+    ],
+    "random_key": "e6815fb4-7d58-49cc-b818-673c44199e44",
+    "image_url": "https://image.torob.com/base/images/2A/sx/2AsxO6tJvZW2amQ-.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه کبریتی 8 تا 9 سال آلمانی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8 تا 9 سال"
+        ]
+      },
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "آلمانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "7a8e0f34-84eb-409e-8388-4de0ff3ef0e5",
+    "image_url": "https://image.torob.com/base/images/Bk/CQ/BkCQPf4Tcz3ek0Gr.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه پرنسسی کار شده باتور",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کار شده با تور"
+        ]
+      }
+    ],
+    "random_key": "753a5da4-f709-4930-83a3-cfdebbaa8671",
+    "image_url": "https://image.torob.com/base/images/ir/r5/irr5b7y3O4VQscam.jpg"
+  },
+  {
+    "title": "پیراهن نخی دخترانه سایزیک سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "یک سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8baedac8-1e3f-48b4-b429-fd9d47090803",
+    "image_url": "https://image.torob.com/base/images/kX/QS/kXQSfiUZeG3N2nxA.jpg"
+  },
+  {
+    "title": "پیراهن شیک دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "b45203ca-79ed-4213-8335-10fb1f393dac",
+    "image_url": "https://image.torob.com/base/images/cv/ub/cvubujlnwgjI6YJK.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه کد 4519",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8762fe1a-bf80-4c89-a635-8f3db13b54ad",
+    "image_url": "https://image.torob.com/base/images/uD/PR/uDPRA5eHOc4zIVK1.webp"
+  },
+  {
+    "title": "پیراهن موسلین خامه دوزی",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "موسلین"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "خامه دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "5173c139-5cee-4274-aede-b39cddbde982",
+    "image_url": "https://image.torob.com/base/images/H-/R7/H-R7oTQp48YyWBnM.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه سارافون دخترانه 1 تا 5 سال",
+    "group": "دخترانه 1 تا 5 سال",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دخترانه سارافون دخترانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 5 سال"
+        ]
+      }
+    ],
+    "random_key": "bc92cd86-4078-4594-a288-d4df9779e9c1",
+    "image_url": "https://image.torob.com/base/images/GI/Sk/GISkak2HVyPLz2B8.jpg"
+  },
+  {
+    "title": "پیراهن زیبای دخترانه مخمل با یقه قلاب بافی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه قلاب بافی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "f1da630f-b177-4e53-ac93-5e1a7b175cfa",
+    "image_url": "https://image.torob.com/base/images/Bm/_0/Bm_0VNg_y1YESZa5.jpg"
+  },
+  {
+    "title": "لباس دخترانه ADABEBEK اورجینال کد کالا ADA8726",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ADABEBEK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دخترانه"
+        ]
+      }
+    ],
+    "random_key": "ec294afb-08f5-4cdb-8b40-47911e9e86c1",
+    "image_url": "https://image.torob.com/base/images/Pj/41/Pj41G7qgVYvCMDR8.jpg"
+  },
+  {
+    "title": "پیراهن آبی جزئیات قطعه شانه JILE SAKS LOCCO",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "JILE SAKS LOCCO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "bc8c943b-44b7-4e7d-9d77-af0fca06ac81",
+    "image_url": "https://image.torob.com/base/images/Ky/Yv/KyYvhVLk8Hzg5G_k.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه نخی اچ اند ام",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دخترانه"
+        ]
+      }
+    ],
+    "random_key": "05d84f47-e192-448f-a0fb-5422919a596a",
+    "image_url": "https://image.torob.com/base/images/Ql/Ph/QlPh1wDhvTCw6yj_.jpg"
+  },
+  {
+    "title": "پیراهن پاپیون دار دخترانه (6 تا 7 سال) کد 026452",
+    "group": "دخترانه 6 تا 7 سال",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "6 تا 7 سال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پاپیون دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "bc2fa06f-a2e3-45cd-a5e5-5cb85eb18ccc",
+    "image_url": "https://image.torob.com/base/images/Kk/Cu/KkCups3zl9YKBnsd.jpg"
+  },
+  {
+    "title": "کد ۱۳۳۰ پیراهن سوزندوزی سرمه ای طرح سانلی",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوزندوزی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن طرح سانلی"
+        ]
+      }
+    ],
+    "random_key": "90a1beb0-783a-4f0b-a935-ff181c5cc18a",
+    "image_url": "https://image.torob.com/base/images/YI/qU/YIqUrpwK_qwhrnj3.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دخترانه"
+        ]
+      }
+    ],
+    "random_key": "a477303a-01ed-469d-82dd-23120be1e3f0",
+    "image_url": "https://image.torob.com/base/images/zN/q1/zNq1zcFTVUj7yIJv.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه سفید صورتی ملورینا Melorina",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملورینا",
+          "Melorina"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دخترانه"
+        ]
+      }
+    ],
+    "random_key": "c3752f65-190e-4913-a778-8b082578365c",
+    "image_url": "https://image.torob.com/base/images/Qj/t9/Qjt9lwBUgr8byVAJ.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه 6تا7سال کد 4519 کد 1838354",
+    "group": "دخترانه 6تا7سال",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "6تا7سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دخترانه"
+        ]
+      }
+    ],
+    "random_key": "80473db6-eac8-40de-ad55-0aeb07e07b57",
+    "image_url": "https://image.torob.com/base/images/8w/9S/8w9SNWdQjfXQ5Ogm.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه فیت اند فلر پونتو تیپ - ویسکوز، مشکی برند calvin klein jeans",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "calvin klein jeans"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "ویسکوز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پونتو تیپ"
+        ]
+      }
+    ],
+    "random_key": "cea701ff-0464-4c93-b92b-1d220530da2a",
+    "image_url": "https://image.torob.com/base/images/CM/Tj/CMTjFblH37RjM3JI.jpg"
+  },
+  {
+    "title": "پیراهن آستین پفی دامن دوطبقه صورتی 122",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین پفی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "دامن دوطبقه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "924b6e9f-750d-4aa0-9057-6341fd36bbe8",
+    "image_url": "https://image.torob.com/base/images/2G/v4/2Gv4OehQY0WRPnNY.jpg"
+  },
+  {
+    "title": "کد ۱۳۰۸ پیراهن اشکی ابروبادی",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن اشکی ابروبادی"
+        ]
+      }
+    ],
+    "random_key": "e54c2ed9-871d-4f43-a4de-e3210e7427fa",
+    "image_url": "https://image.torob.com/base/images/Rg/ey/Rgey-b5X0HRGuIma.jpg"
+  },
+  {
+    "title": "ست پیراهن و کراپ دخترانه (5رنگ) s00341",
+    "group": "دخترانه",
+    "product": "ست پیراهن و کراپ",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "5رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست پیراهن و کراپ"
+        ]
+      }
+    ],
+    "random_key": "e096ded8-966c-42fb-b151-20a2d53633c2",
+    "image_url": "https://image.torob.com/base/images/-N/mR/-NmRCtQiVL8y1H9j.jpg"
+  },
+  {
+    "title": "پیراهن دخترونه قرمزطلایی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمزطلایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "bf479c15-4392-419a-8292-54d9d74611c9",
+    "image_url": "https://image.torob.com/base/images/_J/kS/_JkSSsYq4ev3X5Wf.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه بلند",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دخترانه بلند"
+        ]
+      }
+    ],
+    "random_key": "d6823577-a315-433a-904c-e2a0059c0a93",
+    "image_url": "https://image.torob.com/base/images/Zp/s7/Zps7qsaCZyEfd2Ru.jpg"
+  },
+  {
+    "title": "لباس آستین بلند کوتون اورجینال | 4WKG80043AW | Koton نی نی سایت",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "09ece546-ea8e-462a-978c-52083fd455e5",
+    "image_url": "https://image.torob.com/base/images/kb/Zy/kbZyVyT1ZDEpKrMN.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه میکرو نوار دوزی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن میکرو"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "نوار دوزی"
+        ]
+      }
+    ],
+    "random_key": "3f887649-40c5-4e44-bdc3-7d57ea1665f3",
+    "image_url": "https://image.torob.com/base/images/30/C2/30C2XGCyPo1EyDrj.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه کد 1146",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "פיراهن"
+        ]
+      }
+    ],
+    "random_key": "4bbdef51-d48b-4450-b070-9d3eddbd5630",
+    "image_url": "https://image.torob.com/base/images/Al/BD/AlBDQC1-M4liXY_Z.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه بالاتنه طرح دار مدل ملیکا",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بالاتنه طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "db7317cb-14cb-48cd-a113-ad6b15ebc12b",
+    "image_url": "https://image.torob.com/base/images/6P/lu/6Plulpu3SICsHDb2.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه خرگوشی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن خرگوشی"
+        ]
+      }
+    ],
+    "random_key": "d8061ec5-804c-4471-b436-f2e337f6fc9b",
+    "image_url": "https://image.torob.com/base/images/w-/84/w-84zktcIO7Tur8B.jpg"
+  },
+  {
+    "title": "پیراهن یلدایی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "یلدا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن یلدایی"
+        ]
+      }
+    ],
+    "random_key": "2707d150-20b7-448f-86bf-0fd605dc9722",
+    "image_url": "https://image.torob.com/base/images/Lw/lt/LwltbWK2-WhHSZX2.jpg"
+  },
+  {
+    "title": "پیراهن روزمره دختربچه سیاه ال سی وایکیکی W28804Z4",
+    "group": "دختربچه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "17141571-5d04-4c1c-819a-26e54ad17ade",
+    "image_url": "https://image.torob.com/base/images/x_/Bw/x_BwRGTN_h-B1AIb.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه بچگانه برند لوپیلو کد kids746",
+    "group": "بچگانه و دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "ad85bb22-f459-4474-ae93-9e5b247853b4",
+    "image_url": "https://image.torob.com/base/images/53/Rg/53Rg1sHj62O9G4En.jpg"
+  },
+  {
+    "title": "پیراهن دخترونه محرم کد 22",
+    "group": "دخترونه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "محرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "e0a2f29a-8306-48d7-82a5-3dd25a14a680",
+    "image_url": "https://image.torob.com/base/images/ex/84/ex84twbSoSHD3qYw.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه رنگ زرشکی سورمه ای سبز قرمز زرد مشکی یشمی خردلی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی",
+          "سورمه ای",
+          "سبز",
+          "قرمز",
+          "زرد",
+          "مشکی",
+          "یشمی",
+          "خردلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "796b937d-92e0-4fe8-b6a7-4f1f7502c31d",
+    "image_url": "https://image.torob.com/base/images/vL/si/vLsi6qJ8D8BgWX5S.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ایندیگو با تل طرح آتوسا کد 23175",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "با تل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ایندیگو"
+        ]
+      }
+    ],
+    "random_key": "55e4a6c1-ad67-49f8-a656-79a1fe7aa3bf",
+    "image_url": "https://image.torob.com/base/images/MG/El/MGElx3wAIZzYH87B.webp"
+  },
+  {
+    "title": "پیراهن دخترانه لینن زرد نیروان Nirvan مدل 101307 -4",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نیروان Nirvan"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "969d2da4-fb29-47fc-8ffd-9aff7f21568c",
+    "image_url": "https://image.torob.com/base/images/2x/sL/2xsLgAN2tYvLT1Tq.jpg"
+  },
+  {
+    "title": "پیراهن روزمره بچه گانه دخترانه سیاه ال سی وایکیکی W24203Z4",
+    "group": "بچه گانه دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "1c5356e5-f6dc-4e7b-9c69-326a0f3982a8",
+    "image_url": "https://image.torob.com/base/images/7c/eB/7ceBCp2W5X8bjI55.jpg"
+  },
+  {
+    "title": "Koton لباس دختر بچه طرح گلدار طوسی دار",
+    "group": "دختر بچه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Koton"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "54fa638a-4146-4744-b48f-71a03ee083a0",
+    "image_url": "https://image.torob.com/base/images/PN/YR/PNYRABTWrmd1Exsm.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه یلدایی طرح هندوانه مزون دوز با پارچه با کیفیت",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "هندوانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مزون دوز",
+          "پارچه با کیفیت"
+        ]
+      }
+    ],
+    "random_key": "47aede0a-bb11-422d-9370-3dd2cd1e37db",
+    "image_url": "https://image.torob.com/base/images/ad/Tg/adTgQt8s-GdpxtQ6.jpg"
+  },
+  {
+    "title": "پیراهن نخی ساحلی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ساحلی"
+        ]
+      }
+    ],
+    "random_key": "034c238d-8048-4aec-8c8e-081537e1be86",
+    "image_url": "https://image.torob.com/base/images/SD/sv/SDsvFLJU3RtjC2F3.png"
+  },
+  {
+    "title": "پیراهن دخترانه کد 950",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "03c90eb6-036d-4f4e-9831-583e048dac8a",
+    "image_url": "https://image.torob.com/base/images/km/ns/kmnsQS6-AhYICZNO.webp"
+  },
+  {
+    "title": "پیراهن دخترانه پروانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پروانه"
+        ]
+      }
+    ],
+    "random_key": "06e669e7-2aff-439e-9275-9f00784311f9",
+    "image_url": "https://image.torob.com/base/images/9O/Y1/9OY1fP0_OlaIP97a.jpg"
+  },
+  {
+    "title": "پیراهن بچگانه دخترانه جنس لینن مناسب 2 سال ونیم تا 7 سال در دو رنگ",
+    "group": "بچگانه دخترانه",
+    "product": "پیراهن بچگانه",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 سال ونیم تا 7 سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دو رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "16d6fbdb-8ce6-4ea7-9afd-3ea411c25dfc",
+    "image_url": "https://image.torob.com/base/images/QD/ic/QDicihRoXuqN2yhg.jpg"
+  },
+  {
+    "title": "لباس بچگانه پیراهن دخترانه برند peperts المان",
+    "group": "دخترانه",
+    "product": "لباس بچگانه",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "peperts"
+        ]
+      },
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "المان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "4d58185c-d289-4c18-b82e-326b2b071e56",
+    "image_url": "https://image.torob.com/base/images/v-/kB/v-kBzmnWGCjznMSr.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه سوفیا .",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن سوفیا"
+        ]
+      }
+    ],
+    "random_key": "c247dad5-c037-40d0-8a79-78a5f7fad1d0",
+    "image_url": "https://image.torob.com/base/images/ts/xp/tsxpizbfbp5c78p-.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه سفید فیورلا Fiorella مدل 45002",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فیورلا",
+          "Fiorella"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0c4fbd39-c499-4987-98cc-6917563eef62",
+    "image_url": "https://image.torob.com/base/images/C-/J-/C-J-G1HXYxi08Fza.jpg"
+  },
+  {
+    "title": "Koton یقه خدمه لباس بدون آستین با جزئیات جیبی",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Koton"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه خدمه"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "بدون آستین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با جزئیات جیبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "fd929878-f938-46ce-afa5-a80c84837012",
+    "image_url": "https://image.torob.com/base/images/LP/Tv/LPTvrwgeDcqb9KTh.jpg"
+  },
+  {
+    "title": "پیراهن آستین استاندارد راسته دخترانه | شیک بوی çikoby 9656",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین استاندارد"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیک بوی",
+          "çikoby"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "a5f77016-61c0-412b-b46e-11141d2be3fc",
+    "image_url": "https://image.torob.com/base/images/F6/HD/F6HDo1dUGE7-6CHq.jpg"
+  },
+  {
+    "title": "پیراهن پرنسسی دخترانه تور",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "تور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "256ce492-ed76-480a-b550-4fcdffa42e06",
+    "image_url": "https://image.torob.com/base/images/Qm/i0/Qmi0QSFZ-KpU2HYJ.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل SB-SS-1568",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "b2d59831-a0d6-49ea-8cf8-8f108a878ae6",
+    "image_url": "https://image.torob.com/base/images/UN/K3/UNK32ytWHC_hre4X.jpg"
+  },
+  {
+    "title": "لباس دخترانه کد S1J110Z4 |",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "985cb353-e1ec-4c8e-9bac-e321f5ba2733",
+    "image_url": "https://image.torob.com/base/images/H8/uv/H8uvSlbq05DLMydc.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه تور پلنگی جنس بالاتنه کبریتی تریکو",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "تریکو"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن تور"
+        ]
+      }
+    ],
+    "random_key": "3d6c3319-f208-46fe-ae60-990e4ee58602",
+    "image_url": "https://image.torob.com/base/images/QY/_y/QY_yMlogNsssnFXf.jpg"
+  },
+  {
+    "title": "لباس باله کد241",
+    "group": "نامشخص",
+    "product": "لباس باله",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس باله"
+        ]
+      }
+    ],
+    "random_key": "51e157e5-9618-4d74-bc69-3b3a3f1a6b7f",
+    "image_url": "https://image.torob.com/base/images/kQ/SS/kQSSmuH3CvFbtf2O.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه تابستانی رنگی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "3de2e5b1-b313-406e-a686-23339f231416",
+    "image_url": "https://image.torob.com/base/images/te/OR/teOR7oQ3f3D5uYDO.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه دو تا پنج ساله طرح الاله1",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "دو تا پنج ساله"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "3c6a6d71-7177-4b25-9f3a-fe411826f208",
+    "image_url": "https://image.torob.com/base/images/gu/MO/guMOx4Qk_lYVByz5.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل کت دار سه دکمه .................................................. 18275",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نحوه بسته شدن",
+        "values": [
+          "سه دکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "6da83a8d-b250-4b68-adb3-291852b3af93",
+    "image_url": "https://image.torob.com/base/images/wF/Go/wFGog-nUQqkrR_xt.jpg"
+  },
+  {
+    "title": "LC Waikiki لباس دخترانه پایه یقه مربعی LCW ECO",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "LC Waikiki",
+          "LCW ECO"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه مربعی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "dded44e2-2f9e-414d-9b9d-d045a0972239",
+    "image_url": "https://image.torob.com/base/images/Cv/_O/Cv_Oz8PjG19NpPHv.jpg"
+  },
+  {
+    "title": "کلاه و شال R",
+    "group": "نامشخص",
+    "product": "کلاه و شال",
+    "entities": [],
+    "random_key": "c9936b12-1ed1-449c-8c51-1df4aa9cf9a6",
+    "image_url": "https://image.torob.com/base/images/N3/Nk/N3Nk_F4iZCLcT_mS.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ترک برند السی وایکی کی اورجینال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکی کی"
+        ]
+      },
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "1bfdce62-fb8e-4e92-90ac-afd2e7a5cced",
+    "image_url": "https://image.torob.com/base/images/7q/Gb/7qGbF9ROx6Gws7Mo.jpg"
+  },
+  {
+    "title": "پیراهن سفید دخترانه پرنسسی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "d267f785-4e5b-45a9-a53d-cb042f7f3729",
+    "image_url": "https://image.torob.com/base/images/yx/PS/yxPSGrjfiJsYhL-I.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل عروسکی رنگ آبی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروسکی"
+        ]
+      }
+    ],
+    "random_key": "dcaf4110-cf74-40b3-aca5-ccdef5d72abc",
+    "image_url": "https://image.torob.com/base/images/M4/N2/M4N2rRtstwQDtuiN.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه برند کوتون Koton اصل 4SKG60089AW",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "5e04ed28-7eee-45f7-84fa-902f406ef224",
+    "image_url": "https://image.torob.com/base/images/7s/dU/7sdUWh2UkVkz5Of8.jpg"
+  },
+  {
+    "title": "لباس دخترانه دفاکتو | C4021A824SM Defacto",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "58905d1a-8176-4ab0-b4bb-36f86b4131b0",
+    "image_url": "https://image.torob.com/base/images/PU/Ig/PUIgPyzjRMJq6zsC.jpg"
+  },
+  {
+    "title": "پیراهن بلند 2098",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن بلند"
+        ]
+      }
+    ],
+    "random_key": "1e58e8e4-c471-4d88-8ee4-6527f474b627",
+    "image_url": "https://image.torob.com/base/images/HX/iA/HXiAEhJWEx65Zorw.jpg"
+  },
+  {
+    "title": "پیراهن پلنگی دخترانه جنس کبریتی تریکو تور پلنگی مناسب 2تا9سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "پلنگی",
+          "تور پلنگی"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کبریتی",
+          "تریکو"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2تا9سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "692f11cf-2608-4fe7-baa6-1217502da422",
+    "image_url": "https://image.torob.com/base/images/KQ/6r/KQ6r4ezo9gRy8PwM.jpg"
+  },
+  {
+    "title": "Koton آستین های بادکنکی گلدوزی شده گوش ماهی با آستر نخی",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Koton"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین های بادکنکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده",
+          "گوش ماهی",
+          "آستر نخی"
+        ]
+      }
+    ],
+    "random_key": "62ac1746-f64f-4b04-b4e7-3efc9f8a8d29",
+    "image_url": "https://image.torob.com/base/images/MH/QF/MHQFLr_jOPC-QigA.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه خرسی 001 - s / خردلی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "خرسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "s"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خردلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "f5c62c2a-9e4b-4215-9aab-a197e56f21a3",
+    "image_url": "https://image.torob.com/base/images/ni/b-/nib-aodcQvXIxdYA.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه یقه گلدوزی",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه گلدوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "471989f3-79db-474f-92c1-f18fab347198",
+    "image_url": "https://image.torob.com/base/images/P3/Qe/P3QenPga8N941lDw.webp"
+  },
+  {
+    "title": "پیراهن دخترانه پاییزه مخمل کبریتی ریز 4",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "مخمل کبریتی ریز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "fbbc6883-2aac-4bed-9276-f5463f613727",
+    "image_url": "https://image.torob.com/base/images/or/AF/orAFr16Y0sxfSQbo.jpg"
+  },
+  {
+    "title": "پیراهن روزمره دختربچه صورتی ال سی وایکیکی 9WH198Z4",
+    "group": "دختربچه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "25f16a28-3d71-46b1-9150-d9e7211cb5e9",
+    "image_url": "https://image.torob.com/base/images/Oh/P5/OhP5dPY6fBQ0OZBJ.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه ساتن مدل ساغر سرخابی اف تی ام کیدز FTM Kids",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخابی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اف تی ام کیدز",
+          "FTM Kids"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "ea1a4702-cf16-4613-875e-6a810a5c7477",
+    "image_url": "https://image.torob.com/base/images/O8/ym/O8ymNsVQ3mjbUnoK.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه عیدانه مدل مروارید",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "مروارید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "f0f645fb-1e1c-4db3-bb94-b5913bdce652",
+    "image_url": "https://image.torob.com/base/images/SR/ai/SRai-CmDC5vdhosm.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "bdb8d722-76fa-4f4a-927e-cb55ea93e760",
+    "image_url": "https://image.torob.com/base/images/Ji/kG/JikGG_fgCP8eItKy.jpg"
+  },
+  {
+    "title": "Breeze لباس دخترانه پاپیون طرح دار 4 تا 9 ساله، اکرو",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 9 ساله"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "اکرو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "c66319b4-695e-48cc-af6a-d6f9db8e47ba",
+    "image_url": "https://image.torob.com/base/images/3Z/uu/3ZuuUEd3Pa0Ffn_T.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه پاییزه طرح میکی موس",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "میکی موس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "3dc27448-f966-402c-9a67-80ca563e81dc",
+    "image_url": "https://image.torob.com/base/images/5w/nZ/5wnZJG10uqgqN0AG.webp"
+  },
+  {
+    "title": "پیراهن پوشیده سبز زنانه گل سنگی گلدان لباس بافتنی InStyle",
+    "group": "زنانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "گل سنگی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "InStyle"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس بافتنی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پوشیده"
+        ]
+      }
+    ],
+    "random_key": "b4040af3-4e77-4bd2-89fe-5911b67e89b1",
+    "image_url": "https://image.torob.com/base/images/z7/Fr/z7FrhhTukhAfsV1u.jpg"
+  },
+  {
+    "title": "سارافون دخترانه تابستانی بچگانه کتان نخ باکیفیت شیک از 3سال تا 6سال",
+    "group": "بچگانه و دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "باکیفیت کتان نخ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3سال تا 6سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سارافون"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "1415321e-080f-4621-a73f-ae8c91ec7a1e",
+    "image_url": "https://image.torob.com/base/images/mf/Y_/mfY_kaRJDSN1jDC5.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مدل آدخت مناسب 1 تا 8 سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 8 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مدل آدخت"
+        ]
+      }
+    ],
+    "random_key": "9a0d2be5-737b-4b97-b386-0f357d1592e0",
+    "image_url": "https://image.torob.com/base/images/mE/Xg/mEXgrXhlhjpYwymv.jpg"
+  },
+  {
+    "title": "Breeze لباس آستین بلند دخترانه با اکسسوری خرس عروسکی سن ۲ تا ۶ سال گل انار",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "اکسسوری خرس عروسکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۲ تا ۶ سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گل انار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "f91e016d-ad62-4521-8dff-ec2e82ad99b5",
+    "image_url": "https://image.torob.com/base/images/mv/Ks/mvKsJoyW2L0_tPuY.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه نخی سرمه ای اچ اند ام",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند ام"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8d1f5306-412d-4868-9cd5-be3e2ffe3cca",
+    "image_url": "https://image.torob.com/base/images/uk/_e/uk_ecoPfONPq7uFA.jpg"
+  },
+  {
+    "title": "پیراهن پرنسسی دخترانه مدل انارام",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پرنسسی مدل انارام"
+        ]
+      }
+    ],
+    "random_key": "1344a35c-d0d2-4161-bc99-894058563d3d",
+    "image_url": "https://image.torob.com/base/images/SQ/7m/SQ7mBUok7Vtc6tHN.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه دامن تور",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جزئیات",
+        "values": [
+          "دامن تور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8a55d7ce-4dfd-4b31-a6cf-3fdc0760d714",
+    "image_url": "https://image.torob.com/base/images/L1/xl/L1xljxXLNcgKaaWa.jpg"
+  },
+  {
+    "title": "Mayoral لباس یقه با جزئیات",
+    "group": "نامشخص",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه با جزئیات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "19cc040c-9e0d-4495-b785-13870250376d",
+    "image_url": "https://image.torob.com/base/images/pA/ck/pAck3ki11eD_hCQu.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مخمل کبریتی قابل سفارش در سایزهای مختلف",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قابل سفارش در سایزهای مختلف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0bc8aae3-c819-4ad4-b0ed-63d011622a48",
+    "image_url": "https://image.torob.com/base/images/Ju/4x/Ju4xQTOctyakgbQp.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه 2 سال شاینی و اکلیلی ترک",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "2 سال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شاینی و اکلیلی"
+        ]
+      },
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "31d67ac0-8507-459c-bd8b-cd1ff2866220",
+    "image_url": "https://image.torob.com/base/images/Ey/4e/Ey4eiQrHkMK5-fMi.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه 5-6 سال برند TU",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "5-6 سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TU"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "e82a2394-cadc-4f5c-ba8a-4819ca0106c9",
+    "image_url": "https://image.torob.com/base/images/2R/uT/2RuTgoJdCy9egaus.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه دلسا",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دلسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "1d27e7cb-f400-4c82-96be-3475c5695490",
+    "image_url": "https://image.torob.com/base/images/O9/2I/O92I8UmEJcG0lz1u.jpg"
+  },
+  {
+    "title": "پیراهن عروسکی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن عروسکی"
+        ]
+      }
+    ],
+    "random_key": "87994466-ea29-43e6-bf18-ba1ad15f0299",
+    "image_url": "https://image.torob.com/base/images/y6/5j/y65jt33FJ_EiYNKl.jpg"
+  },
+  {
+    "title": "سه تیکه اسپرت B",
+    "group": "نامشخص",
+    "product": "سه تیکه",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سه تیکه"
+        ]
+      }
+    ],
+    "random_key": "530505ff-d59d-4c25-907f-5cac93025439",
+    "image_url": "https://image.torob.com/base/images/xs/23/xs23pChnu0P_gTDX.webp"
+  },
+  {
+    "title": "MANGO Kids لباس گلدار",
+    "group": "کودک",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "MANGO Kids"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "83ce1817-27e9-47a7-b47a-557a7a59d0df",
+    "image_url": "https://image.torob.com/base/images/He/pJ/HepJ5TG2U0ljiyRL.jpg"
+  },
+  {
+    "title": "Breeze لباس دخترانه با نیم تنه، طرح گل و پاپیون، 9 ماه تا 3 سال، سبز پسته ای",
+    "group": "دخترانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Breeze"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "9 ماه تا 3 سال"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز پسته ای"
+        ]
+      },
+      {
+        "name": "جزئیات",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دخترانه با نیم تنه"
+        ]
+      }
+    ],
+    "random_key": "37c9fa93-1380-4935-bd5e-8257d18afa82",
+    "image_url": "https://image.torob.com/base/images/0d/b8/0db8Zb2Hh2ZSktpa.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه لینن زیبا",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "0497e9ab-2279-484a-bf2e-7e25815e0715",
+    "image_url": "https://image.torob.com/base/images/fZ/Ax/fZAxWu4eAtUbIxs3.jpg"
+  },
+  {
+    "title": "پیراهن قرمز یلدایی دخترانه دامن توری از سایز 40 تا 60 استر دار",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40 تا 60"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "یلدایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستر دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دامن توری"
+        ]
+      }
+    ],
+    "random_key": "8ef08a1f-a0ca-45d1-b3f4-b02a7e686faa",
+    "image_url": "https://image.torob.com/base/images/KY/49/KY49o8hVWAdK1PWg.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه جنس کتان پنبه باکیفیت مناسب 4 تا 9 سال",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "کتان پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 تا 9 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "227bc324-c537-450b-9e28-0ef60435f1cf",
+    "image_url": "https://image.torob.com/base/images/m7/yo/m7yoxspuRTLyhKtF.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه و لباس عروس بچگانه استین پفی(مزون دوز آستر دوزی) سایز 1 تا 12 سال کد 030",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروس"
+        ]
+      },
+      {
+        "name": "فرم آستین",
+        "values": [
+          "پفی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 12 سال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مزون دوز",
+          "آستر دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن",
+          "لباس عروس"
+        ]
+      }
+    ],
+    "random_key": "5eb90d81-62c6-4f5f-8f75-604b54917baa",
+    "image_url": "https://image.torob.com/base/images/Fe/kH/FekHtDtWlV8O39d3.jpg"
+  },
+  {
+    "title": "پیراهن ترک دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "کشور مبدأ",
+        "values": [
+          "ترکیه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "b4bc8f98-6584-440f-aa3c-888f91cece3d",
+    "image_url": "https://image.torob.com/base/images/ts/QB/tsQB-VvlQ-iIc69F.jpg"
+  },
+  {
+    "title": "پیراهن کشی دخترانه، آبی برند tchibo",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "tchibo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن کشی"
+        ]
+      }
+    ],
+    "random_key": "9d611020-59bb-4dd0-a678-2d4d80c8c33a",
+    "image_url": "https://image.torob.com/base/images/O_/nz/O_nzWKgzdyYnKyzm.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه هانیا2 کد1342 کد 1002554",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هانیا2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "901ef690-414d-47d0-857f-b8c28980a6fa",
+    "image_url": "https://image.torob.com/base/images/It/R4/ItR4cS78h43p7EMd.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه در نگ قرمز و سایز های 1و2و3",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "e153e987-c08e-4b6e-8c7b-7302751fabf2",
+    "image_url": "https://image.torob.com/base/images/sR/fh/sRfhXuqF6gCng8UZ.jpg"
+  },
+  {
+    "title": "Mayoral پیراهن گلدار زرد دختر بچه",
+    "group": "دختر بچه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mayoral"
+        ]
+      },
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "76deb9df-d78b-47cf-be02-4a775f8ba4e9",
+    "image_url": "https://image.torob.com/base/images/XN/Xf/XNXfNWAzjF6XHsUj.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه گل سرخ",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گل سرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "6d04413e-ee39-4dac-bb4a-d7ecde4e1d4a",
+    "image_url": "https://image.torob.com/base/images/Jq/EQ/JqEQ8n9LfWAGfbAW.jpg"
+  },
+  {
+    "title": "پیراهن دخترانه مجلسی حنا مشکی | عیدانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "مناسبت",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "حنا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "326f5b1c-80fd-49e6-bc2b-9cabb7b0664e",
+    "image_url": "https://image.torob.com/base/images/Lo/fu/LofuU9CP5Zm96tUa.jpg"
+  },
+  {
+    "title": "پیراهن گلریز پفکی",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "طرح پارچه",
+        "values": [
+          "گلریز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پفکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "e5d08e8e-014f-412b-9e3c-b72bae01ef1f",
+    "image_url": "https://image.torob.com/base/images/Y4/yM/Y4yM_jLqNa_JNSDY.jpg"
+  },
+  {
+    "title": "پیراهن مخمل کبریتی دخترانه",
+    "group": "دخترانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "جنس الیاف",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "8ffa1bdb-fab8-4565-bc72-25f9d63bdc2e",
+    "image_url": "https://image.torob.com/base/images/9h/Pc/9hPc-wJHPEvVnwUN.jpg"
+  }
+]

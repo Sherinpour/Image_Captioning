@@ -1,0 +1,6639 @@
+[
+  {
+    "title": "ساق دست مچی کرپ حریر شاین دار",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ حریر"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شاین دار"
+        ]
+      }
+    ],
+    "random_key": "583073c5-3d15-49a4-bc4d-7807ab8aa81e",
+    "image_url": "https://image.torob.com/base/images/h3/9Y/h39YESxMWGenkkgw.jpg"
+  },
+  {
+    "title": "ساق دست مدل دار مهاجر مشکی و سرمه ای",
+    "group": "نامشخص",
+    "product": "ساق دست مهاجر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مدل دار"
+        ]
+      }
+    ],
+    "random_key": "f1fca009-542a-426b-95e0-7004449440ca",
+    "image_url": "https://image.torob.com/base/images/jQ/cx/jQcxqqnfuZ0Em2Rh.jpg"
+  },
+  {
+    "title": "ساق دست تمام ستاره ای دستکش بافت ساق فینگر دار",
+    "group": "نامشخص",
+    "product": "ساق دست دستکش بافت",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "فینگر دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تمام ستاره ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      }
+    ],
+    "random_key": "0587eeb5-c595-4650-94a4-4d5b1e0bfdb9",
+    "image_url": "https://image.torob.com/base/images/Lg/7-/Lg7-7E-6hdEgNAoI.jpg"
+  },
+  {
+    "title": "ساق دست بافتنی بلند برند تارتن",
+    "group": "نامشخص",
+    "product": "ساق دست بافتنی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تارتن"
+        ]
+      }
+    ],
+    "random_key": "a6f4d88b-f29b-4995-9c69-c158956f081f",
+    "image_url": "https://image.torob.com/base/images/I7/VY/I7VYPp3fCm7v80E-.jpg"
+  },
+  {
+    "title": "ساق دست زرشکی طرح دار",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      }
+    ],
+    "random_key": "510e75fc-83a8-43d3-8cdb-1b73851e659c",
+    "image_url": "https://image.torob.com/base/images/_e/b8/_eb8YOwmgClgS_8O.jpg"
+  },
+  {
+    "title": "ساق دست گلدوزی طرح170",
+    "group": "نامشخص",
+    "product": "ساق دست گلدوزی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی طرح 170"
+        ]
+      }
+    ],
+    "random_key": "6b21fa1a-e539-4c5d-8cf0-e7306899d6e1",
+    "image_url": "https://image.torob.com/base/images/5y/_i/5y_iVG96jYYuPcX-.jpg"
+  },
+  {
+    "title": "ساق دست طرح تاتویی گرگ/ ساق بلند مردانه",
+    "group": "مردانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تاتویی گرگ"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      }
+    ],
+    "random_key": "8416397f-faf2-4e85-a99f-131ab25b0ff2",
+    "image_url": "https://image.torob.com/base/images/Xd/tZ/XdtZEFpDemdCLFfV.webp"
+  },
+  {
+    "title": "ساق دست بلند طرح بته جقه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بته جقه"
+        ]
+      }
+    ],
+    "random_key": "4ef40b7b-8e0f-40d9-91c9-a20b23c75ed5",
+    "image_url": "https://image.torob.com/base/images/Z3/Ov/Z3OvSpYcYiJLHW0s.jpg"
+  },
+  {
+    "title": "دست خدا",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "4be12d36-4e27-421d-ba31-0cc9472c59d6",
+    "image_url": "https://image.torob.com/base/images/zi/2G/zi2G0dIfDPHW6y36.jpg"
+  },
+  {
+    "title": "ساق دست زنانه عادل کد 5000",
+    "group": "زنانه",
+    "product": "ساق دست عادل",
+    "entities": [],
+    "random_key": "92d18b0f-45fd-490a-8f49-ff59c5ebb080",
+    "image_url": "https://image.torob.com/base/images/H3/Uq/H3UqlDLWwlq5s6dz.jpg"
+  },
+  {
+    "title": "دیدگاهها",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "8b42f0e4-17fb-4de5-a721-44466af4c9c0",
+    "image_url": "https://image.torob.com/base/images/Ox/9r/Ox9ryCLahTgFlfac.jpg"
+  },
+  {
+    "title": "ساق دست مردانه و زنانه دنیای کلکسیون مدل BlackDot",
+    "group": "مردانه و زنانه",
+    "product": "ساق دست دنیای کلکسیون مدل BlackDot",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "0cba6f96-976f-42dd-ae56-e6c1428af0c4",
+    "image_url": "https://image.torob.com/base/images/Xt/zj/XtzjO3luUVUGxX_2.jpg"
+  },
+  {
+    "title": "ساق دست طرح جدید مردانه پسرانه پارچه ای",
+    "group": "مردانه پسرانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "a040922c-ab2f-4ce7-bae2-4a3311632615",
+    "image_url": "https://image.torob.com/base/images/oe/Ar/oeArohjQ9R33vySD.webp"
+  },
+  {
+    "title": "ساقدست گوچی انگشتی نخ پنبه فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گوچی"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "edccecaa-23f7-4c45-9505-8390df93dc5c",
+    "image_url": "https://image.torob.com/base/images/JP/zq/JPzqAgZe6LoJ6TFC.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل",
+    "group": "زنانه",
+    "product": "ساق دست زنانه",
+    "entities": [],
+    "random_key": "86cc66fd-8002-4b2c-b215-830e57bf90d7",
+    "image_url": "https://image.torob.com/base/images/Pd/pW/PdpWwaAUYeAWSSAX.jpg"
+  },
+  {
+    "title": "ساق دست عروسکی",
+    "group": "نامشخص",
+    "product": "ساق دست عروسکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست عروسکی"
+        ]
+      }
+    ],
+    "random_key": "8fd2a594-c9ba-489f-ae1d-7d15247cbeb1",
+    "image_url": "https://image.torob.com/base/images/eE/YH/eEYHAVyhcOTH9aDV.jpg"
+  },
+  {
+    "title": "ساق دست گیپوری ریون زنانه تا بالای آرنج (ارزانسرای جوانه)",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گیپوری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "تا بالای آرنج"
+        ]
+      }
+    ],
+    "random_key": "2499a2c8-dae4-43db-a0a8-d47360af166c",
+    "image_url": "https://image.torob.com/base/images/sF/Fo/sFFoKKxhuQkxB8th.jpg"
+  },
+  {
+    "title": "آستینک ساره",
+    "group": "نامشخص",
+    "product": "آستینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستینک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ساره"
+        ]
+      }
+    ],
+    "random_key": "28e84b6b-0771-41d0-87bf-4b897360f863",
+    "image_url": "https://image.torob.com/base/images/04/q0/04q0W74VTN6KIlgQ.jpg"
+  },
+  {
+    "title": "ساق دست مشکی شومیزی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست شومیزی"
+        ]
+      }
+    ],
+    "random_key": "177f2cf0-def2-4921-952f-3fe3c4c8e0a9",
+    "image_url": "https://image.torob.com/base/images/0B/go/0BgoRUoX831YDGp1.jpg"
+  },
+  {
+    "title": "آستینک تترون لب تور کنفی کیفیت عالی",
+    "group": "نامشخص",
+    "product": "آستینک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستینک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تترون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لب تور",
+          "کنفی"
+        ]
+      }
+    ],
+    "random_key": "f7f1bc2b-894c-4330-937e-4b0a0c89e253",
+    "image_url": "https://image.torob.com/base/images/UR/wn/URwnNAyLuo0aqr4P.jpg"
+  },
+  {
+    "title": "ساق دست جواهر دوزی شده کد 3640",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جواهر دوزی شده"
+        ]
+      }
+    ],
+    "random_key": "9b239b06-6101-4423-a8ba-7a89337047a1",
+    "image_url": "https://image.torob.com/base/images/LW/TM/LWTMzR9B1v3kryD7.jpg"
+  },
+  {
+    "title": "ساق دست زنانه لب گیپور",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "لب گیپور"
+        ]
+      }
+    ],
+    "random_key": "4835dedb-bd49-4e68-8ade-d8f6c278e3eb",
+    "image_url": "https://image.torob.com/base/images/jz/6a/jz6a_oTQERoJc20A.jpg"
+  },
+  {
+    "title": "ساق دست",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [],
+    "random_key": "2e4cfec3-11d1-4021-a01b-9c4ffaa0f4c4",
+    "image_url": "https://image.torob.com/base/images/sq/-i/sq-ihZsYMmgIeUny.jpg"
+  },
+  {
+    "title": "ساق دست انگشتی طرح نگین دار ریون (ارزانسرای جوانه)",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نگین دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      }
+    ],
+    "random_key": "eacf9489-d0bb-44ba-884b-5f98bb7a60f2",
+    "image_url": "https://image.torob.com/base/images/-J/tI/-JtINifJeJOVBOss.jpg"
+  },
+  {
+    "title": "ساق دست بافتنی زنانه طرح بافت بلند مدل AZHA-05",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      }
+    ],
+    "random_key": "2a899fd6-bdef-44d9-98ed-dd0b65336e3a",
+    "image_url": "https://image.torob.com/base/images/Ay/ko/Aykoc3rWhLJtqTdp.jpg"
+  },
+  {
+    "title": "ساق دست تک نگین طرح یاسمن",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تک نگین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "یاسمن"
+        ]
+      }
+    ],
+    "random_key": "dcacf6c9-97ea-4afb-b503-47b33b9eb3ff",
+    "image_url": "https://image.torob.com/base/images/IJ/6p/IJ6paS8CnaxXF35O.jpg"
+  },
+  {
+    "title": "ساق دست",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [],
+    "random_key": "313d3235-0c21-4e9d-b688-3ff9e2f3d44e",
+    "image_url": "https://image.torob.com/base/images/ET/wD/ETwDUoZ3ryntflxD.jpg"
+  },
+  {
+    "title": "ساق دست نوجوان کد 076",
+    "group": "نوجوان",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "نوجوان"
+        ]
+      }
+    ],
+    "random_key": "b984c1f1-7180-4ae5-97a3-4156d77db708",
+    "image_url": "https://image.torob.com/base/images/gF/3M/gF3MIy20EUd-Qbki.jpg"
+  },
+  {
+    "title": "ساق دست گلدوزی طرح 111",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی"
+        ]
+      }
+    ],
+    "random_key": "d863ec71-db6a-42fd-9b85-2361410ef7fc",
+    "image_url": "https://image.torob.com/base/images/du/fM/dufMF2InfRO0c1ZW.jpg"
+  },
+  {
+    "title": "ساق دست مشکی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "d4852315-ce2e-44b5-b514-e97269c73ee4",
+    "image_url": "https://image.torob.com/base/images/bJ/0M/bJ0M7acm1QbzW2LN.jpg"
+  },
+  {
+    "title": "ساق دست شومیزی کرپ حریر گلدوزی شده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست شومیزی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ حریر"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی شده"
+        ]
+      }
+    ],
+    "random_key": "b0212b83-93a7-44bb-917f-8bf8ca184469",
+    "image_url": "https://image.torob.com/base/images/N6/wn/N6wnt_qUCR2o_skg.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل 10 رنگ نوک مدادی",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نوک مدادی"
+        ]
+      }
+    ],
+    "random_key": "91f0a60d-37fa-469b-887f-a67d76746e4b",
+    "image_url": "https://image.torob.com/base/images/xo/Dm/xoDmz0WHzWmIbfrb.jpg"
+  },
+  {
+    "title": "ست ساقدست و هدبند حریر",
+    "group": "نامشخص",
+    "product": "ست ساقدست و هدبند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساقدست و هدبند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      }
+    ],
+    "random_key": "3f6a0b25-77d3-4755-90fd-1ab894e0878e",
+    "image_url": "https://image.torob.com/base/images/Ra/YK/RaYKuJTeV946KO3s.jpg"
+  },
+  {
+    "title": "ساق دست طرح ژولیت جدید شرکت تک نگین تور پلیسه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تک نگین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ژولیت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تور",
+          "پلیسه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست طرح ژولیت"
+        ]
+      }
+    ],
+    "random_key": "3f65e963-c82e-4a87-aee2-5a56b1fa1ace",
+    "image_url": "https://image.torob.com/base/images/kR/sP/kRsPutMfUDlmazPF.jpg"
+  },
+  {
+    "title": "جورا ب گیپوری وارداتی با کیفیت",
+    "group": "نامشخص",
+    "product": "جوراب",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپوری"
+        ]
+      }
+    ],
+    "random_key": "eb358f35-553f-462b-9bdb-eff18b041507",
+    "image_url": "https://image.torob.com/base/images/G5/Mw/G5Mw-UyDcW0rS1WM.jpg"
+  },
+  {
+    "title": "ست ساق دست و جوراب گلدوزی طرح پنج گل سرخابی",
+    "group": "نامشخص",
+    "product": "ست ساق دست و جوراب",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پنج گل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخابی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست و جوراب گلدوزی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی"
+        ]
+      }
+    ],
+    "random_key": "103adcbe-a923-4ee9-a5ea-b120f34b243c",
+    "image_url": "https://image.torob.com/base/images/Dd/fq/DdfqLSGbORL2lC18.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کد ZSP01_BK",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "30b67078-b9f2-430c-9b4e-ac5be375132f",
+    "image_url": "https://image.torob.com/base/images/P-/1v/P-1vRDTE-RXLn0XD.jpg"
+  },
+  {
+    "title": "ساق دست زنانه فیش نت",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیش نت"
+        ]
+      }
+    ],
+    "random_key": "01a8b428-29c5-4e12-beff-debab4c2bd28",
+    "image_url": "https://image.torob.com/base/images/P9/UL/P9ULTiiaq4uiOrsP.jpg"
+  },
+  {
+    "title": "ساق دست دخترانه لب تور",
+    "group": "دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست لب تور"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لب تور"
+        ]
+      }
+    ],
+    "random_key": "c8b82589-ba28-4474-99c3-a45439cbcc93",
+    "image_url": "https://image.torob.com/base/images/_S/NC/_SNCAnlwzJYURgTk.jpg"
+  },
+  {
+    "title": "ست ساق دست و جوراب روبان دوزی شده",
+    "group": "نامشخص",
+    "product": "ست ساق دست و جوراب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست و جوراب روبان دوزی شده"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "روبان دوزی شده"
+        ]
+      }
+    ],
+    "random_key": "bae0a274-bcc8-431d-b83d-e3ba58ea922d",
+    "image_url": "https://image.torob.com/base/images/A7/P-/A7P-t16UAesYmdYj.jpg"
+  },
+  {
+    "title": "ساق چین دار",
+    "group": "نامشخص",
+    "product": "ساق",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق چین دار"
+        ]
+      }
+    ],
+    "random_key": "3a95f7ee-f3da-4ce6-8c16-91b7eecbd13c",
+    "image_url": "https://image.torob.com/base/images/go/Th/goThe4KFLjllP0PN.jpg"
+  },
+  {
+    "title": "ساق دست دخترانه و زنانه",
+    "group": "دخترانه و زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "62d3b63b-53ef-42f9-b92a-1e874a5787f6",
+    "image_url": "https://image.torob.com/base/images/7x/sy/7xsy582_emfceXz4.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کد SGH0",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "0dff9c76-fe1d-41fe-a132-11a2bc4ec564",
+    "image_url": "https://image.torob.com/base/images/Ff/tF/FftFWf1UMNpkM-2s.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت لاانگشتی طرح آتیش زمینه مشکی فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "لاانگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آتیش"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست اسپرت لاانگشتی"
+        ]
+      }
+    ],
+    "random_key": "d7ef8a47-2132-4f2b-90e6-d91adbd15ed1",
+    "image_url": "https://image.torob.com/base/images/Ug/Fb/UgFb5ftXW66VhIzu.jpg"
+  },
+  {
+    "title": "ساق دست پرنسسی پاپیون دار زرشکی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پرنسسی پاپیون دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پاپیون دار"
+        ]
+      }
+    ],
+    "random_key": "24f5757e-20ed-4b62-8c86-66190443c828",
+    "image_url": "https://image.torob.com/base/images/Zn/_E/Zn_EHD_YbIz8qQ4T.jpg"
+  },
+  {
+    "title": "ساق دست نیم گیپوری",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست نیم گیپوری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گیپوری"
+        ]
+      }
+    ],
+    "random_key": "6c4e0bec-770f-4153-ad16-70f1fcfebf22",
+    "image_url": "https://image.torob.com/base/images/8Z/MF/8ZMFtSG0lPm7KwV9.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت لاانگشتی طرح",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "لاانگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست اسپرت لاانگشتی"
+        ]
+      }
+    ],
+    "random_key": "099d4367-aac2-4d77-a885-dddd67c4abc1",
+    "image_url": "https://image.torob.com/base/images/nX/XQ/nXXQLRwXzJS4UhZW.jpg"
+  },
+  {
+    "title": "فیشنت دست کوتاه نارنجی",
+    "group": "نامشخص",
+    "product": "فیشنت",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت"
+        ]
+      }
+    ],
+    "random_key": "3339c91c-2693-4bb7-ba31-c23db0222294",
+    "image_url": "https://image.torob.com/base/images/9Y/2e/9Y2elXi7GIkG1wJf.jpg"
+  },
+  {
+    "title": "ساق دست طوسی گلدوزی طرح311",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "24563d31-c631-4431-a7a5-4153b815dd85",
+    "image_url": "https://image.torob.com/base/images/tX/hH/tXhHQ998bJT4nsSb.jpg"
+  },
+  {
+    "title": "ساق دست مردانه و زنانه دنیای کلکسیون Controller",
+    "group": "مردانه و زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دنیای کلکسیون Controller"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "984686ff-bd3d-4fd4-8cce-2e21ab44a74b",
+    "image_url": "https://image.torob.com/base/images/YK/Xr/YKXrzgMqQHC-2wG_.jpg"
+  },
+  {
+    "title": "ساق دست سفید",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "2495cb9b-197d-4a07-89ae-7d98692e118a",
+    "image_url": "https://image.torob.com/base/images/M4/8x/M48xYcyhTPfDVH8d.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل مجلسی بندینک دار",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "بندینک دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مجلسی"
+        ]
+      }
+    ],
+    "random_key": "fad11384-3c2b-45fe-940d-7f2eba795f00",
+    "image_url": "https://image.torob.com/base/images/81/Oa/81OaFraYh4W3OgE4.jpg"
+  },
+  {
+    "title": "ساق دست خزدار",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچ خزدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست خزدار"
+        ]
+      }
+    ],
+    "random_key": "e7dc3007-b979-4ff7-9b38-89048e3aa99d",
+    "image_url": "https://image.torob.com/base/images/17/vM/17vMRO1a4Dh76IwC.jpg"
+  },
+  {
+    "title": "ساق دست گاتیک وینتیج Victoria",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست",
+          "ساق دست گاتیک وینتیج"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Victoria"
+        ]
+      }
+    ],
+    "random_key": "c5614d22-b803-43cc-abaa-b0805e8e4332",
+    "image_url": "https://image.torob.com/base/images/Ro/Hm/RoHm7BruDDUJULco.jpg"
+  },
+  {
+    "title": "ساق دست چریکی فانتزی پسرانه و دخترانه تابستانه و چهار فصل",
+    "group": "پسرانه و دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چریکی",
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تابستانه",
+          "چهار فصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست چریکی"
+        ]
+      }
+    ],
+    "random_key": "ac0adec5-021b-4f81-8829-a864f88e294d",
+    "image_url": "https://image.torob.com/base/images/d1/iH/d1iHVU4anuS4Lsp_.webp"
+  },
+  {
+    "title": "ساق دست زنانه ثنا مدل نیلا رنگ مشکی",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ثنا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "eac54d13-5a0e-409f-9cb7-797af299023c",
+    "image_url": "https://image.torob.com/base/images/rO/CV/rOCV1GD8YPsVZfSn.jpg"
+  },
+  {
+    "title": "ساق دست مجلسی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مجلسی"
+        ]
+      }
+    ],
+    "random_key": "aa1b7e23-3e8f-45ba-b934-7d101bb81d5b",
+    "image_url": "https://image.torob.com/base/images/VC/JZ/VCJZCmv4IsQT-r3j.jpg"
+  },
+  {
+    "title": "ساق دست بافت دخترانه",
+    "group": "دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بافت"
+        ]
+      }
+    ],
+    "random_key": "b98a2f65-df1c-4078-b307-65f03b5f51dd",
+    "image_url": "https://image.torob.com/base/images/7I/f3/7If3gquIaiTEAxBb.jpg"
+  },
+  {
+    "title": "ساق دست پرنسسی مدل آتریسا",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "7a4714e2-b431-4e0e-a718-0d4b8268f275",
+    "image_url": "https://image.torob.com/base/images/02/VS/02VSheirPHOEf3pr.jpg"
+  },
+  {
+    "title": "ساق دست گل برجسته",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گل برجسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "05ab3129-0b6a-4945-968e-d4a0b3086972",
+    "image_url": "https://image.torob.com/base/images/OP/NJ/OPNJKBplIQG8B2-B.jpg"
+  },
+  {
+    "title": "ساق دست گیپور رنگی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گیپور"
+        ]
+      }
+    ],
+    "random_key": "6ae27a7c-2b46-4b81-a0e7-1df44dcba252",
+    "image_url": "https://image.torob.com/base/images/c0/81/c081clCxw5WeOSRt.jpg"
+  },
+  {
+    "title": "فیشنت دستکشی مچی دست",
+    "group": "نامشخص",
+    "product": "فیشنت دستکشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت دستکشی",
+          "ساق دست"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "دستکشی"
+        ]
+      }
+    ],
+    "random_key": "16aba89e-4441-4430-9f69-1982330a6550",
+    "image_url": "https://image.torob.com/base/images/eG/MI/eGMIRpFS5VbqGYnn.jpg"
+  },
+  {
+    "title": "ساق دست مچی (فیشنت)رنگ مشکی قابل شستشو تک رنگ فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "قابل شستشو",
+          "تک رنگ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "7265c5db-3527-476e-973b-34f49fe6aeb2",
+    "image_url": "https://image.torob.com/base/images/iA/xN/iAxNeHWvG3tEE0VM.jpg"
+  },
+  {
+    "title": "ساق دست رنگی و نخی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "ecfb6ff7-2950-425d-a2d0-1246b0a6d97e",
+    "image_url": "https://image.torob.com/base/images/Vr/L1/VrL1EteLGHi3aDGo.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت لاانگشتی طرح پلنگی فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "لاانگشتی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست اسپرت لاانگشتی"
+        ]
+      }
+    ],
+    "random_key": "aa4d5106-dd9e-4067-ae7d-588b55a878e0",
+    "image_url": "https://image.torob.com/base/images/8y/ju/8yjuzK19kFtlTsJJ.jpg"
+  },
+  {
+    "title": "ساق دست بلند آفتاب گردون آپتیمیست انگشتی نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آفتاب گردون"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست آفتاب گردون"
+        ]
+      }
+    ],
+    "random_key": "45b65dc5-f2ab-4d77-bdb2-00bcc0c1f781",
+    "image_url": "https://image.torob.com/base/images/zB/dL/zBdLDHHyJakj72pj.jpg"
+  },
+  {
+    "title": "ساق دست باپارچه پولکی مدل مچی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پولکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پولکی"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی"
+        ]
+      }
+    ],
+    "random_key": "b16fdf71-09ad-403e-8172-ba45c59ffbd0",
+    "image_url": "https://image.torob.com/base/images/G5/Pj/G5PjHrBPTSCGQe5M.jpg"
+  },
+  {
+    "title": "فیشنت دست",
+    "group": "نامشخص",
+    "product": "فیشنت دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت دست"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت"
+        ]
+      }
+    ],
+    "random_key": "77f7017c-5436-497d-827a-79e1e2c2265b",
+    "image_url": "https://image.torob.com/base/images/oi/JX/oiJXbDVfmu_uhY_W.jpg"
+  },
+  {
+    "title": "ساق دست سرمه ای ساده دکمه دار نخی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست دکمه دار"
+        ]
+      }
+    ],
+    "random_key": "ca8f8652-9844-40e5-883a-608cd52e4cce",
+    "image_url": "https://image.torob.com/base/images/xU/lV/xUlVLUoH6bnCwJPU.jpg"
+  },
+  {
+    "title": "ساق دست",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "353de1b1-0b6d-4b23-a670-b6fb0eb822e1",
+    "image_url": "https://image.torob.com/base/images/E4/xX/E4xXio-3iKiNNkm-.jpg"
+  },
+  {
+    "title": "ساق دست دخترانه مدل (فیشنت)لانه زنبوری با کیفیت عالی",
+    "group": "دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "لانه زنبوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      }
+    ],
+    "random_key": "be01d842-73bd-484e-be8e-97f1368bd868",
+    "image_url": "https://image.torob.com/base/images/8b/91/8b916yx1EzCJYuR2.jpg"
+  },
+  {
+    "title": "ساق دست",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "ff45cebb-0e3d-459a-b534-5098c3c60174",
+    "image_url": "https://image.torob.com/base/images/zP/TS/zPTSzP0kMGq7Bl9B.jpg"
+  },
+  {
+    "title": "ساق دست دکمه دار مروارید دوزی شده کرپ حریر مدل برفا",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مروارید دوزی شده"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ حریر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست دکمه دار",
+          "ساق دست مروارید دوزی شده"
+        ]
+      }
+    ],
+    "random_key": "617f0ba0-bcf9-41bf-862c-8f37a37fbf15",
+    "image_url": "https://image.torob.com/base/images/S6/6K/S66K26FJ2hefJQxW.jpg"
+  },
+  {
+    "title": "ساق دست چرم بندی king",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "King"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست چرم بندی"
+        ]
+      }
+    ],
+    "random_key": "dd09c2a2-229c-47ef-b8ea-d086493585a8",
+    "image_url": "https://image.torob.com/base/images/iK/Uc/iKUciJHMXpufiLwv.jpg"
+  },
+  {
+    "title": "ساق دست مدل فرشته",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فرشته"
+        ]
+      }
+    ],
+    "random_key": "7fbb454e-4849-443e-b455-8244cdcfd82e",
+    "image_url": "https://image.torob.com/base/images/en/7O/en7OcD60tqVQOSdR.jpg"
+  },
+  {
+    "title": "ساق دست(آستینک) دست دوز مچی توردار نخی آبی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی",
+          "توردار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست دست دوز",
+          "آستینک دست دوز"
+        ]
+      }
+    ],
+    "random_key": "1e7cb473-b222-4a7e-9ea3-4803e3c072e6",
+    "image_url": "https://image.torob.com/base/images/cr/aC/craCeez8eXSsQnDH.jpg"
+  },
+  {
+    "title": "ساق دست طرح تاتو مردانه و زنانه",
+    "group": "مردانه و زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تاتو"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست طرح تاتو"
+        ]
+      }
+    ],
+    "random_key": "1cd70bee-5ea1-49ac-a64e-ec0150afb571",
+    "image_url": "https://image.torob.com/base/images/jQ/qC/jQqCxTIUfFAEmnBo.jpg"
+  },
+  {
+    "title": "ساق دست زنبوری و ساده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "زنبوری",
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست زنبوری",
+          "ساق دست ساده"
+        ]
+      }
+    ],
+    "random_key": "e5b5c1cc-4b2c-4101-96e5-a9d3b32aacb6",
+    "image_url": "https://image.torob.com/base/images/3r/R2/3rR2w2Nxrv7yKiPo.jpg"
+  },
+  {
+    "title": "جورای ساق بلند فانتزی طرح پاپیون",
+    "group": "نامشخص",
+    "product": "جوراب ساق",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جوراب ساق بلند فانتزی",
+          "جوراب ساق پاپیون"
+        ]
+      }
+    ],
+    "random_key": "24e5e206-a33e-4bc8-910b-d2e0ab5dc119",
+    "image_url": "https://image.torob.com/base/images/jl/uA/jluAaIVtc1jURksI.jpg"
+  },
+  {
+    "title": "آستینک شکوفه بهار",
+    "group": "نامشخص",
+    "product": "آستینک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "شکوفه بهار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستینک شکوفه بهار"
+        ]
+      }
+    ],
+    "random_key": "77f5f83b-26f2-4fa1-a3bb-d13670be31f9",
+    "image_url": "https://image.torob.com/base/images/pT/Qu/pTQuqgwWS8zwp2Z-.jpg"
+  },
+  {
+    "title": "ساقدست گلدوزی ویسکوز کد 3643",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ویسکوز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گلدوزی"
+        ]
+      }
+    ],
+    "random_key": "71c9fefb-19ce-4f5a-af2c-a77d9f7e296c",
+    "image_url": "https://image.torob.com/base/images/sh/Pb/shPb-gxwMKNZ-7Y2.webp"
+  },
+  {
+    "title": "ساق دست زنانه مدل زنبوری انگشتی جنس توری",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زنبوری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست زنبوری"
+        ]
+      }
+    ],
+    "random_key": "9d585d4c-acb2-44da-96de-0c2e521242e2",
+    "image_url": "https://image.torob.com/base/images/Ky/1y/Ky1yemA8ZbipIF9a.jpg"
+  },
+  {
+    "title": "ساق دست بلند استخوان آپتیمیست انگشتی نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست استخوان"
+        ]
+      }
+    ],
+    "random_key": "cbc867d3-c155-4411-8e46-1168b7933197",
+    "image_url": "https://image.torob.com/base/images/m7/OT/m7OTjZiJdWfNPUpj.jpg"
+  },
+  {
+    "title": "ساق دست ریون الوان",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست الوان"
+        ]
+      }
+    ],
+    "random_key": "511d956e-b6f4-4f7d-9b8a-0dd9b364a7a8",
+    "image_url": "https://image.torob.com/base/images/ug/TU/ugTUu2ipSm4A9DeU.jpg"
+  },
+  {
+    "title": "جوراب روبان دوزی",
+    "group": "نامشخص",
+    "product": "جوراب",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "روبان دوزی شده"
+        ]
+      }
+    ],
+    "random_key": "4b3f5fec-1eb0-4712-8cbd-9198749be9ef",
+    "image_url": "https://image.torob.com/base/images/HG/IP/HGIPUA8i5ZtkQ_6C.jpg"
+  },
+  {
+    "title": "ساق دست نخی ساده،ساق دست ساده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست ساده"
+        ]
+      }
+    ],
+    "random_key": "8c83be2c-082a-42c3-b2d9-9420352b7d18",
+    "image_url": "https://image.torob.com/base/images/57/wT/57wTQjxBl1Ob7dUj.jpg"
+  },
+  {
+    "title": "ساق دست کولار تاکتیکال ضد برش کمیاب",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "ضد برش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست تاکتیکال"
+        ]
+      }
+    ],
+    "random_key": "796f37bf-4556-4aea-9adb-6d7e70588f79",
+    "image_url": "https://image.torob.com/base/images/NW/iW/NWiWnUZeHUkJSdaR.jpg"
+  },
+  {
+    "title": "ساق دست بافتنی بلند مدل انگشتی(زنانه و دخترانه)",
+    "group": "زنانه و دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بافتنی"
+        ]
+      }
+    ],
+    "random_key": "2825094e-bd03-4cb6-902a-825072c20521",
+    "image_url": "https://image.torob.com/base/images/h2/QU/h2QUWnildSWedSSg.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل دکمه دار کد 04",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچ دکمه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست دکمه دار"
+        ]
+      }
+    ],
+    "random_key": "3be14b85-da3c-4670-999c-924d33d63d78",
+    "image_url": "https://image.torob.com/base/images/_X/IT/_XITkzn-vWE26dYu.jpg"
+  },
+  {
+    "title": "ساق دست(آستینک) دست دوز مچی توردار نخی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی توردار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست آستینک"
+        ]
+      }
+    ],
+    "random_key": "9a923338-657f-406d-8646-6e2b385a8b99",
+    "image_url": "https://image.torob.com/base/images/7S/xN/7SxNiGcB74ksJaLY.jpg"
+  },
+  {
+    "title": "ساق دست کرپ حریر سبزدریایی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ حریر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز دریایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست کرپ حریر"
+        ]
+      }
+    ],
+    "random_key": "e95c7e4c-4d39-46d7-8c52-7ae48891c457",
+    "image_url": "https://image.torob.com/base/images/A5/pb/A5pbGSF9XIhdKiv0.jpg"
+  },
+  {
+    "title": "ساق دست فانتزی مشکی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فانتزی"
+        ]
+      }
+    ],
+    "random_key": "90888568-4e93-4704-998e-37f4c446e519",
+    "image_url": "https://image.torob.com/base/images/ak/3t/ak3tgZZ7AI4IyqoW.jpg"
+  },
+  {
+    "title": "ساق دست زاپ دار",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "زاپدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست زاپ دار"
+        ]
+      }
+    ],
+    "random_key": "52800704-bd30-46b8-8d11-b10a20c2876c",
+    "image_url": "https://image.torob.com/base/images/j9/nb/j9nbQmyUQJOj6n7J.jpg"
+  },
+  {
+    "title": "فیش نت (ساق دست توری ) ساقدار انگشتی مشکی",
+    "group": "نامشخص",
+    "product": "فیش نت",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت",
+          "ساق دست توری"
+        ]
+      }
+    ],
+    "random_key": "09972a57-e0fa-4097-b473-b49002bc3a13",
+    "image_url": "https://image.torob.com/base/images/Ct/td/CttdaKjIymiURAU9.jpg"
+  },
+  {
+    "title": "ساق دست طوسی گلدوزی طرح170",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی شده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گلدوزی شده"
+        ]
+      }
+    ],
+    "random_key": "27ab55ac-7a6e-4b5d-a620-4c5c06fe451c",
+    "image_url": "https://image.torob.com/base/images/Zr/-W/Zr-W6VducVy1G-HF.jpg"
+  },
+  {
+    "title": "ساق دست کادنزا ساده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کادنزا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست ساده کادنزا"
+        ]
+      }
+    ],
+    "random_key": "5ffa7dc6-976e-4b3b-8ba1-9c313bc129b0",
+    "image_url": "https://image.torob.com/base/images/u0/mw/u0mwAxd0SBsS3mIX.jpg"
+  },
+  {
+    "title": "ساق دست زنانه ثنا مدل نیلا رنگ نوک مدادی",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ثنا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نوک مدادی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل نیلا"
+        ]
+      }
+    ],
+    "random_key": "d42d48a0-4d70-4d9b-95f5-b5e2c63c1f4c",
+    "image_url": "https://image.torob.com/base/images/rO/CV/rOCV1GD8YPsVZfSn.jpg"
+  },
+  {
+    "title": "دست کش نخی مشکی بلند",
+    "group": "نامشخص",
+    "product": "دست کش",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستکش",
+          "ساق دست بلند"
+        ]
+      }
+    ],
+    "random_key": "3286717f-7bf0-431f-a027-2631fd71e141",
+    "image_url": "https://image.torob.com/base/images/Ao/le/Aole6TQc_YVmQLkB.jpg"
+  },
+  {
+    "title": "ساق دست مجلسی توری ،ساق دست گیپوری، ساق دست حجاب رنگی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری",
+          "گیپوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست توری",
+          "ساق دست گیپوری",
+          "ساق دست حجاب"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "حجاب"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      }
+    ],
+    "random_key": "20743c7e-3037-4481-b2f9-8d09729eda01",
+    "image_url": "https://image.torob.com/base/images/V-/3i/V-3ip9XPPyFNbqsY.jpg"
+  },
+  {
+    "title": "ساق دست مردانه طرح تاتو (بروسلی)",
+    "group": "مردانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "طرح تاتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست طرح تاتو"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بروسلی"
+        ]
+      }
+    ],
+    "random_key": "f6935072-6372-4b05-a4ec-4e3ee6291303",
+    "image_url": "https://image.torob.com/base/images/dt/cm/dtcmnHdNNgyk5nr9.jpg"
+  },
+  {
+    "title": "ساق دست انگشتی چین دار",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست انگشتی"
+        ]
+      }
+    ],
+    "random_key": "0cb23d55-e18b-4d68-baf2-67ac7e483fbc",
+    "image_url": "https://image.torob.com/base/images/sp/uh/spuhTyiGwizFhLFO.jpg"
+  },
+  {
+    "title": "ساق دست مدل 1",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل 1"
+        ]
+      }
+    ],
+    "random_key": "4219d861-73f4-4b45-abeb-19b2c604ed3b",
+    "image_url": "https://image.torob.com/base/images/EN/S8/ENS8-NAttkmK1gIL.jpg"
+  },
+  {
+    "title": "ست روسری و ساق دست مشکی گلدار سما",
+    "group": "نامشخص",
+    "product": "ست روسری و ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سما"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست روسری و ساق دست گلدار"
+        ]
+      }
+    ],
+    "random_key": "7dda6fb2-ef4c-45ec-8466-d02de023edbe",
+    "image_url": "https://image.torob.com/base/images/MZ/Fs/MZFsDIy8vJu5KNmN.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت لاانگشتی طرح شعله زمینه سفید فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "لاانگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح شعله"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست اسپرت لاانگشتی"
+        ]
+      }
+    ],
+    "random_key": "4fac24d1-2f49-4f37-9df6-6dca5fed5edc",
+    "image_url": "https://image.torob.com/base/images/2L/FS/2LFSiJ5VTuAi5j_w.jpg"
+  },
+  {
+    "title": "ساق دست دخترانه ثنا مدل بیبی رنگ صورتی تیره",
+    "group": "دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ثنا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی تیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل بیبی"
+        ]
+      }
+    ],
+    "random_key": "734ec1ca-3920-4b01-8dd0-b67dec43c1c6",
+    "image_url": "https://image.torob.com/base/images/iv/Xr/ivXrn91y4bkonMbT.jpg"
+  },
+  {
+    "title": "ساق دست نگین دار جورابی فری سایز لیندو",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیندو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست جورابی"
+        ]
+      }
+    ],
+    "random_key": "277a005e-37a8-4f79-a9cf-e69fd034e85d",
+    "image_url": "https://image.torob.com/base/images/hf/ti/hftiZj-rudWVh-VL.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل افرا سبز وال",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل افرا"
+        ]
+      }
+    ],
+    "random_key": "bdf8d6f6-3287-4003-abd2-1c4831b21152",
+    "image_url": "https://image.torob.com/base/images/lx/L5/lxL5jf2pdEeOTXt3.jpg"
+  },
+  {
+    "title": "ساق دست چیندار مجلسی ارگانزا",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چینداد"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ارگانزا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست چیندار مجلسی ارگانزا"
+        ]
+      }
+    ],
+    "random_key": "501e41e9-cb72-4d92-a394-2bbc0da2b104",
+    "image_url": "https://image.torob.com/base/images/Y9/7s/Y97snng49vAj9H2z.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل PP-72",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل PP-72"
+        ]
+      }
+    ],
+    "random_key": "0cccad13-0724-4414-be49-bbb9f7163d63",
+    "image_url": "https://image.torob.com/base/images/oK/3P/oK3PCxZWb79b369b.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل 05",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل 05"
+        ]
+      }
+    ],
+    "random_key": "b1762222-6262-493e-9780-d69ad0d9b075",
+    "image_url": "https://image.torob.com/base/images/z0/qU/z0qUCJN_H9-BYviZ.jpg"
+  },
+  {
+    "title": "ساق دست(آستینک) دست دوز پرنسسی توردار نخی طرح دار",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پرنسسی",
+          "ساق دست توردار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "توردار"
+        ]
+      }
+    ],
+    "random_key": "6559475b-d612-48bf-95ed-d05b94693532",
+    "image_url": "https://image.torob.com/base/images/l1/8D/l18DSFPS6RoYaT8t.jpg"
+  },
+  {
+    "title": "ساق دست مجلسی طرح 4",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مجلسی طرح 4"
+        ]
+      }
+    ],
+    "random_key": "3cb26256-c3d1-4435-bd7e-d2236b593222",
+    "image_url": "https://image.torob.com/base/images/D4/kq/D4kqT7tuJa_kNdYo.jpg"
+  },
+  {
+    "title": "ساق دست پوشیدنی فینگردار برند سی سو | SI SU - رنگ: طوسی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سی سو",
+          "SI SU"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فینگردار"
+        ]
+      }
+    ],
+    "random_key": "4b57a733-f105-46ae-aab8-159dd7726360",
+    "image_url": "https://image.torob.com/base/images/QJ/xr/QJxr32OLKPjM8xjI.webp"
+  },
+  {
+    "title": "ساق انگشتی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست انگشتی"
+        ]
+      }
+    ],
+    "random_key": "11da7db4-e672-4965-8697-a4a7de173f5e",
+    "image_url": "https://image.torob.com/base/images/m7/JP/m7JPwx8wzyyVVmsH.jpg"
+  },
+  {
+    "title": "ساق دست لیندآ",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لیندآ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "01d1785a-30d3-4c8b-9b4d-b5d8c0dad720",
+    "image_url": "https://image.torob.com/base/images/su/8n/su8nx0ywu5ISaRL4.jpg"
+  },
+  {
+    "title": "ساق دست انگشتی . دختران وزنانه",
+    "group": "دخترانه و زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست انگشتی"
+        ]
+      }
+    ],
+    "random_key": "92753d14-de9a-4521-bb1a-22a2ed0d437a",
+    "image_url": "https://image.torob.com/base/images/h3/qy/h3qyedTXoQs3bwJ3.jpg"
+  },
+  {
+    "title": "ساق دست(آستینک) دست دوز مچی سفید طرح دار",
+    "group": "نامشخص",
+    "product": "ساق آستین",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "دست دوز"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست دست دوز",
+          "آستینک دست دوز"
+        ]
+      }
+    ],
+    "random_key": "f85fc28f-1b12-4f0a-825d-9358a3b4d72b",
+    "image_url": "https://image.torob.com/base/images/xb/L6/xbL6aZEc3jFFr7Vu.jpg"
+  },
+  {
+    "title": "ساق دست زنانه و مردانه مدل Last Samurai",
+    "group": "زنانه و مردانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه",
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "9d48a981-d3f5-4e22-b659-afdadff05881",
+    "image_url": "https://image.torob.com/base/images/HB/KX/HBKXzn8IcYYa3Cfa.jpg"
+  },
+  {
+    "title": "آستینک تولید محتوا",
+    "group": "نامشخص",
+    "product": "آستینک",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "تولید محتوا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستینک"
+        ]
+      }
+    ],
+    "random_key": "f7f0d39a-6039-423f-8dd7-3797b9b23600",
+    "image_url": "https://image.torob.com/base/images/ah/rn/ahrn3OVrB2Tl88fv.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت لاانگشتی طرح لویی ویتون فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "پاپوش",
+          "لاانگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "لویی ویتون"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست لاانگشتی"
+        ]
+      }
+    ],
+    "random_key": "4145c368-335a-4670-b56a-fa22ca66122b",
+    "image_url": "https://image.torob.com/base/images/l2/Zb/l2ZbiWAyjFy_zAej.jpg"
+  },
+  {
+    "title": "ساقدست مچی فیشنت انگشتی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      }
+    ],
+    "random_key": "ec608265-1094-411c-92c6-1181f22f8af6",
+    "image_url": "https://image.torob.com/base/images/Jn/qn/JnqnM3xtt0dRQZi8.jpg"
+  },
+  {
+    "title": "ساق دست زنانه نگین مدل فیشنت دو انگشتی",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "دو انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      }
+    ],
+    "random_key": "6fa79f2e-62bb-412d-b646-10b5fbb6102e",
+    "image_url": "https://image.torob.com/base/images/Oj/Ir/OjIr_BcC062TlwN_.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کد S-143 رنگ صورتی",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "S-143"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "29150fbc-1cb8-43c4-9507-20c9e9dba017",
+    "image_url": "https://image.torob.com/base/images/V_/L4/V_L4gOVFlWPhq1YL.jpg"
+  },
+  {
+    "title": "ساق دست زنانه بلند",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بلند"
+        ]
+      }
+    ],
+    "random_key": "7c8031ec-8fff-41f8-85b6-1bfbc7e71365",
+    "image_url": "https://image.torob.com/base/images/te/4v/te4vM1E6Mq1Mi_z6.jpg"
+  },
+  {
+    "title": "ساق دست نگین دار مهاجر",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مهاجر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست نگین دار"
+        ]
+      }
+    ],
+    "random_key": "8781a1e3-b406-4511-afa7-cce24566b5fe",
+    "image_url": "https://image.torob.com/base/images/BS/pI/BSpIAiZp43_Z_FCQ.jpg"
+  },
+  {
+    "title": "ساق دست پاکتی ثنا (کد S_123)",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پاکتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ثنا"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "S_123"
+        ]
+      }
+    ],
+    "random_key": "db4706b1-4b11-4af7-80d4-7ec069527bc0",
+    "image_url": "https://image.torob.com/base/images/yZ/kl/yZklbjcaMLK12SpC.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل FS دو انگشتی",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "دو انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "4caa658d-0a7c-4e76-ab3c-d92e9faa5d8d",
+    "image_url": "https://image.torob.com/base/images/A5/2Q/A52QPFRh83_bjeH9.jpg"
+  },
+  {
+    "title": "ساق دست گیپوری | زنانه | کد 1329",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپوری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "1329"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گیپوری"
+        ]
+      }
+    ],
+    "random_key": "5ae3d991-721a-4320-9233-e348b52cbceb",
+    "image_url": "https://image.torob.com/base/images/qf/On/qfOn8mUiohY5WG5S.jpg"
+  },
+  {
+    "title": "ساق دست کوتاه راه راه قرمز مشکی پنبه ای",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "d74a3e2f-2825-43b4-a364-878a707c8d5b",
+    "image_url": "https://image.torob.com/base/images/h9/bM/h9bM3cglzjgNpePc.jpg"
+  },
+  {
+    "title": "ساق دست ربان دوزی و نقاشی و منجوق کاری ،تک",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ربان دوزی",
+          "نقاشی",
+          "منجوق کاری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "90f57d09-53be-4c57-a471-d41700531915",
+    "image_url": "https://image.torob.com/base/images/Hi/Lb/HiLbXJBCoX5cS1Ed.jpg"
+  },
+  {
+    "title": "ساق دست مدل گیپور رنگ مشکی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گیپور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "3493e498-3a2f-434e-9edf-9e912cdedeb2",
+    "image_url": "https://image.torob.com/base/images/ZS/Cj/ZSCjVK-PHgD0qhVk.jpg"
+  },
+  {
+    "title": "ساق دست مشکی با مچی مشکی و رنگی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی مشکی و رنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "ed04de17-cfcb-43ad-8e1e-92bbb5f1b402",
+    "image_url": "https://image.torob.com/base/images/67/Bq/67BqsU57AljTbVrv.jpg"
+  },
+  {
+    "title": "ساق دست ، آستینی حجاب ، کوتاه ، طلایی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست آستینی حجاب"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلایی"
+        ]
+      }
+    ],
+    "random_key": "43e1a4c3-1e88-4d65-b6fd-fe84c0d8e149",
+    "image_url": "https://image.torob.com/base/images/8S/L8/8SL8KpMb_JIflr5l.jpg"
+  },
+  {
+    "title": "ساق وسط گیپور دار",
+    "group": "نامشخص",
+    "product": "ساق",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق وسط",
+          "گیپور دار"
+        ]
+      }
+    ],
+    "random_key": "9fc42f26-af8f-46b5-b23e-65bff0d673ec",
+    "image_url": "https://image.torob.com/base/images/MV/3m/MV3mzkhPgtMLo-ES.jpg"
+  },
+  {
+    "title": "ساق دست سورمه ای گلدوزی طرح322",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "b7db1413-261a-4e17-bb4e-6278b389946f",
+    "image_url": "https://image.torob.com/base/images/uy/aW/uyaWVDAJmbfF9pD8.jpg"
+  },
+  {
+    "title": "ساق پرنسسی مشکی ساده",
+    "group": "نامشخص",
+    "product": "ساق",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "0a15b075-b816-4213-95f7-9b46900c21c5",
+    "image_url": "https://image.torob.com/base/images/un/_8/un_8mAdiyGLDaTNs.jpg"
+  },
+  {
+    "title": "ساق دست پاپیونی ریون حریر پلیسه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پاپیونی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون حریر پلیسه"
+        ]
+      }
+    ],
+    "random_key": "b7d4f89f-8954-4cfd-9bed-7eae01b303c4",
+    "image_url": "https://image.torob.com/base/images/hU/6H/hU6HmjHstepQn20H.jpg"
+  },
+  {
+    "title": "ساق دست چین دار صورتی کد 3604",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چین دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "37aad965-c162-425e-9c34-f0c7fd6c91cb",
+    "image_url": "https://image.torob.com/base/images/WV/z9/WVz9tpPCBHvxT6rA.jpg"
+  },
+  {
+    "title": "ساق دست نیچرهایک مدل CYY2421ZB010",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیچرهایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "cac059fc-81ed-4f42-9222-06ebf8dff66e",
+    "image_url": "https://image.torob.com/base/images/xY/U_/xYU_zn3SzGvsErq8.jpg"
+  },
+  {
+    "title": "ساق دست توری سفید",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست توری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "adf2e2a2-12ab-4302-abb8-35b0181bc08e",
+    "image_url": "https://image.torob.com/base/images/8d/W5/8dW5ZySCk7qc1JMY.jpg"
+  },
+  {
+    "title": "ساق دست زنانه نگین مدل فیشنت",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      }
+    ],
+    "random_key": "dc262faa-73aa-4382-89a1-c60569f9af0e",
+    "image_url": "https://image.torob.com/base/images/n_/7N/n_7NaJhL9hDdcZOY.jpg"
+  },
+  {
+    "title": "ساق دست دستبافت",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "دستبافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "3180d0e7-8910-49ba-8997-855f1d8cc90f",
+    "image_url": "https://image.torob.com/base/images/pI/XB/pIXB-IdWlywUIFgO.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت لاانگشتی طرح راه راه سفید مشکی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "اسپرت لاانگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "41f31542-2a5f-4091-becd-4265352dc45e",
+    "image_url": "https://image.torob.com/base/images/0R/-Z/0R-ZWxYHTz2oIZ1j.jpg"
+  },
+  {
+    "title": "ساق دست مدل as06",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "36625b02-e60b-4d6c-aacb-10c1bb5bc3d3",
+    "image_url": "https://image.torob.com/base/images/y8/vB/y8vBCxRYoN7GTIQD.jpg"
+  },
+  {
+    "title": "ساق دست بافت دخترانه زنانه شیک رنگبندی دارد مشکی زرشکی بادمجونی طوسی",
+    "group": "دخترانه و زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "زرشکی",
+          "بادمجونی",
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بافت"
+        ]
+      }
+    ],
+    "random_key": "bb5a9c5e-0cde-451e-8bf4-7f2a5976545c",
+    "image_url": "https://image.torob.com/base/images/ns/ih/nsihL8cXiTV1c5gX.jpg"
+  },
+  {
+    "title": "ساق دست مردانه مدل B3",
+    "group": "مردانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "d51e992b-4983-4869-a46e-e0e829fcdb50",
+    "image_url": "https://image.torob.com/base/images/pM/cC/pMcCdWooRzVrloqG.jpg"
+  },
+  {
+    "title": "آستین لنف آدم - 1 / AGHکف دست تا روی بازو بند دار",
+    "group": "نامشخص",
+    "product": "آستین لنف ادم",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی",
+          "بند دار"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کف دست تا روی بازو"
+        ]
+      }
+    ],
+    "random_key": "11f6bee7-5d7f-4656-9eed-a6fcee47513a",
+    "image_url": "https://image.torob.com/base/images/yJ/uB/yJuBZr6ISswcXVb0.jpg"
+  },
+  {
+    "title": "ساق دست ساده و انگشتی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      }
+    ],
+    "random_key": "0a443608-759a-4ca2-8ead-ca81f7f82a1a",
+    "image_url": "https://image.torob.com/base/images/hZ/wo/hZwo3ZCsNHKTWJ4C.jpg"
+  },
+  {
+    "title": "ساق دست بلند طرح چیریکی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چیریکی"
+        ]
+      }
+    ],
+    "random_key": "9c1d1951-343e-4bd7-8de2-e20f597e356a",
+    "image_url": "https://image.torob.com/base/images/bQ/1p/bQ1pEavATfTgBD2q.jpg"
+  },
+  {
+    "title": "ساق دست",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [],
+    "random_key": "643ce814-b3a1-4a1e-bf7a-0dd3f94d6cf5",
+    "image_url": "https://image.torob.com/base/images/CH/--/CH--6Ksuzyy-gunZ.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل TR B",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "2aa505a1-dd8b-4af7-ab67-2af41324ba0d",
+    "image_url": "https://image.torob.com/base/images/Km/nd/Kmnd1ApI-JfhnvD8.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل TR SO",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "b0f516ee-8049-49d0-bedb-30dd974f07f0",
+    "image_url": "https://image.torob.com/base/images/KC/4L/KC4Ldut0BMH9nNMX.jpg"
+  },
+  {
+    "title": "هندوارمر دستباف طرح قلب و ستاره در رنگ دلخواهتون",
+    "group": "نامشخص",
+    "product": "هندوارمر",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "قلب",
+          "ستاره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "هندوارمر دستباف"
+        ]
+      }
+    ],
+    "random_key": "3bf6b898-79a8-4e3a-9db2-70541712e915",
+    "image_url": "https://image.torob.com/base/images/4Q/lT/4QlTlKwQ1qO0im3v.jpg"
+  },
+  {
+    "title": "ساق دست مرجان ثنا (کد S-146)",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ثنا"
+        ]
+      }
+    ],
+    "random_key": "76ad5bd9-f3e6-41c4-91fe-e516ec6b3678",
+    "image_url": "https://image.torob.com/base/images/lF/oE/lFoE3Awx4jko9SDd.jpg"
+  },
+  {
+    "title": "ساق دست طرح تاتو مدل اژدها 16535",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تاتو اژدها"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست طرح تاتو"
+        ]
+      }
+    ],
+    "random_key": "240aab17-de64-4612-bb0b-bd070da8914a",
+    "image_url": "https://image.torob.com/base/images/Fz/ZL/FzZL_mHxZdrej3mA.jpg"
+  },
+  {
+    "title": "ساق اسپرت دست با طرح black brush",
+    "group": "نامشخص",
+    "product": "ساق دست اسپرت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "black brush"
+        ]
+      }
+    ],
+    "random_key": "2eb45635-6db3-4fb1-8080-e703a9960303",
+    "image_url": "https://image.torob.com/base/images/kp/iY/kpiYDjSKH4PMj0i2.jpg"
+  },
+  {
+    "title": "ساق دست مشکی گلدوزی شده طرح پنج گل عنابی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی شده",
+          "پنج گل"
+        ]
+      }
+    ],
+    "random_key": "7ef6e5af-bb0e-4910-b60b-25267bce94a1",
+    "image_url": "https://image.torob.com/base/images/fJ/Ud/fJUdqMdyyjKeBSlm.jpg"
+  },
+  {
+    "title": "پک عمده 30 جفت فیشنت ساق دست زنانه سفید و مشکی",
+    "group": "زنانه",
+    "product": "ساق دست فیشنت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      }
+    ],
+    "random_key": "a4db4ede-8fae-4039-ab54-efb9b9107281",
+    "image_url": "https://image.torob.com/base/images/Pk/dK/PkdK70TXvoHKcDMv.jpg"
+  },
+  {
+    "title": "ساقدست فیشنت بدون انگشت فری سایز برند آپتیمیست",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "بدون انگشت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساقدست فیشنت"
+        ]
+      }
+    ],
+    "random_key": "9e1ccd2e-d446-4eab-a450-c236eea9d621",
+    "image_url": "https://image.torob.com/base/images/xY/1g/xY1g4l-flM4Cn1TW.jpg"
+  },
+  {
+    "title": "ساق دست گیپور اعلا رنگ مشکی برند ثنا",
+    "group": "نامشخص",
+    "product": "ساق دست گیپور",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور اعلا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ثنا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گیپور"
+        ]
+      }
+    ],
+    "random_key": "7e5ad6e0-2395-4427-aa3b-513fc207a990",
+    "image_url": "https://image.torob.com/base/images/kj/y0/kjy07em3NhTwXeMM.jpg"
+  },
+  {
+    "title": "ساق دست حجاب دخترانه حجاب گل روبان دوزی کد: ۳ - ۷۱۱",
+    "group": "دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل روبان دوزی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "حجاب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "روبان دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست حجاب"
+        ]
+      }
+    ],
+    "random_key": "698cc2fa-7a48-4f1c-a3eb-3ec11e7bd94d",
+    "image_url": "https://image.torob.com/base/images/BL/31/BL31ISnEXgyIZpQr.jpg"
+  },
+  {
+    "title": "ساق اسپرت دست با طرح patt 3",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست اسپرت"
+        ]
+      }
+    ],
+    "random_key": "a00efb38-af26-4214-bf9d-b1a45533df36",
+    "image_url": "https://image.torob.com/base/images/qo/T-/qoT-WvBuk7eF02FU.jpg"
+  },
+  {
+    "title": "ساق دست انگشتی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست انگشتی"
+        ]
+      }
+    ],
+    "random_key": "632ea3af-4f11-4186-8044-b857048eb761",
+    "image_url": "https://image.torob.com/base/images/SU/mS/SUmS1ftqLOnXkZvJ.jpg"
+  },
+  {
+    "title": "ساق دست زنانه نیایش مدل 2 رنگ قرمز جنس ریون",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نیایش"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست ریون"
+        ]
+      }
+    ],
+    "random_key": "e380f65a-d47e-4260-9817-0cb09880047c",
+    "image_url": "https://image.torob.com/base/images/OY/WH/OYWHBbAYdzoJ_hTU.jpg"
+  },
+  {
+    "title": "ساق دست ساده ولمه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست ساده"
+        ]
+      }
+    ],
+    "random_key": "d16dcb95-230a-4236-96e5-a52790deb8d3",
+    "image_url": "https://image.torob.com/base/images/pl/9j/pl9jKudfz8pfmS9E.jpg"
+  },
+  {
+    "title": "ساق دست پارچه ای رباندوزی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "روبان دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پارچه ای"
+        ]
+      }
+    ],
+    "random_key": "9453aa7f-627e-4db0-aa21-4a42f9a81c7a",
+    "image_url": "https://image.torob.com/base/images/CZ/Tg/CZTgzffzv97sqrMa.jpg"
+  },
+  {
+    "title": "ساق دست نگین دار مجلسی رنگی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین دار"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست نگین دار",
+          "ساق دست مجلسی"
+        ]
+      }
+    ],
+    "random_key": "3eabf90d-46c1-4a8d-87e2-7b3c53fb223f",
+    "image_url": "https://image.torob.com/base/images/b4/gm/b4gmlJA7CD-SxuUQ.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت نایک زمینه سفید فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "fa88fce1-88a4-46d0-abe6-61aa71ecf57b",
+    "image_url": "https://image.torob.com/base/images/Gv/bK/GvbK--6sh-bfTGfo.jpg"
+  },
+  {
+    "title": "ساق دست زنانه و دخترانه جنس ریون رنگ مشکی",
+    "group": "زنانه و دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست ریون"
+        ]
+      }
+    ],
+    "random_key": "403e3d0d-4b13-4aea-97de-deaadd26167c",
+    "image_url": "https://image.torob.com/base/images/AA/ms/AAmsR7_OMf4wb0Sr.jpg"
+  },
+  {
+    "title": "ساقدست گلدوزی پرنسسی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساقدست گلدوزی",
+          "ساق دست پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "58971f1f-8ef8-42f4-bf45-0e9a0d4ff858",
+    "image_url": "https://image.torob.com/base/images/dt/SS/dtSSeOoQWuLaMA_K.jpg"
+  },
+  {
+    "title": "ساق دست گیپوری و ساده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گیپوری",
+          "ساق دست ساده"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      }
+    ],
+    "random_key": "a78f0d3b-39a7-4fbb-8b3c-7b67ed51ae1a",
+    "image_url": "https://image.torob.com/base/images/c6/ZN/c6ZN1nMJJsi3vlLM.jpg"
+  },
+  {
+    "title": "ساق دست بلند نایک تراویس آپتیمیست انگشتی نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بلند",
+          "ساق دست انگشتی"
+        ]
+      }
+    ],
+    "random_key": "a371882e-d2e2-431e-a1ff-1538891a7f2d",
+    "image_url": "https://image.torob.com/base/images/y3/uC/y3uCgwS3bAKMpdgX.jpg"
+  },
+  {
+    "title": "ساق دست شستی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست شستی"
+        ]
+      }
+    ],
+    "random_key": "70a4a1c7-410d-4033-b920-75e04c27463f",
+    "image_url": "https://image.torob.com/base/images/ri/Nh/riNhmuMNvbLstHD5.jpg"
+  },
+  {
+    "title": "آستینک(ساق دست)مچ دار پرنسسی دکمه خور کرپ سوپر مازراتی کد108",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچ دار",
+          "دکمه خور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مچ دار",
+          "ساق دست پرنسسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ سوپر مازراتی"
+        ]
+      }
+    ],
+    "random_key": "80c2fce9-9834-4892-874f-09af7f4a6da7",
+    "image_url": "https://image.torob.com/base/images/MN/FC/MNFCwysWWt4ax17q.jpg"
+  },
+  {
+    "title": "آستینک مچ شومیزی چین دار (ساقدست)",
+    "group": "نامشخص",
+    "product": "آستینک",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستینک مچ شومیزی"
+        ]
+      }
+    ],
+    "random_key": "9b0e04d3-a595-4c58-9c55-caf5d9221771",
+    "image_url": "https://image.torob.com/base/images/8k/hM/8khMnxqX6_GQAGpE.jpg"
+  },
+  {
+    "title": "ساق دست مشکی فیشنت برند آپتیمیست لاانگشتی فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "لاانگشتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "743a58af-9014-4b79-8a33-116bdec3ffdf",
+    "image_url": "https://image.torob.com/base/images/7V/80/7V807fSXIi5TrfbG.jpg"
+  },
+  {
+    "title": "ساقدست نایک چندتایی مشکی انگشتی نخ پنبه فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "19bf96ed-eb12-4e5e-b250-e95c45bdca9f",
+    "image_url": "https://image.torob.com/base/images/rT/QC/rTQCzZyqRdGg38Cx.jpg"
+  },
+  {
+    "title": "ساقدست تاتو جدید پارچه ای ضخیم سایز بزرگسال",
+    "group": "بزرگسال",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "تتو"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه ای"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "ضخیم"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگسال"
+        ]
+      }
+    ],
+    "random_key": "e0a6f8be-7469-4eef-a70b-1f370d583967",
+    "image_url": "https://image.torob.com/base/images/56/5e/565eNmYWzfaVb9Ef.webp"
+  },
+  {
+    "title": "ساق دست زنانه مدل فیشنت بسته 3 عددی",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت"
+        ]
+      }
+    ],
+    "random_key": "d5ea0675-2040-4967-8b7d-23902a6693cb",
+    "image_url": "https://image.torob.com/base/images/HQ/5d/HQ5djLA0nutK7fDU.jpg"
+  },
+  {
+    "title": "آستینک تولید محتوا سبز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "تولید محتوا"
+        ]
+      }
+    ],
+    "random_key": "0bbaaa8a-ab30-4c21-a457-ff9018661b3e",
+    "image_url": "https://image.torob.com/base/images/Es/Js/EsJsLWLFeJ1-qxsE.jpg"
+  },
+  {
+    "title": "ساق دست جواهر دوزی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جواهر دوزی"
+        ]
+      }
+    ],
+    "random_key": "12819f8d-6c20-4bc4-9ffd-20d4e5934138",
+    "image_url": "https://image.torob.com/base/images/Xx/1Y/Xx1Y49I87AOXSQPI.jpg"
+  },
+  {
+    "title": "ساق دست زنانه تک نگین",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تک نگین"
+        ]
+      }
+    ],
+    "random_key": "edecd185-05af-49aa-914f-2140b72388b0",
+    "image_url": "https://image.torob.com/base/images/Dl/Wc/DlWcwO4RMch4gseH.jpg"
+  },
+  {
+    "title": "ساق دست زیبا با رنگ بندی جذاب",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "رنگ بندی جذاب"
+        ]
+      }
+    ],
+    "random_key": "2331e481-6e33-4075-95e0-75c36c286bf5",
+    "image_url": "https://image.torob.com/base/images/2k/92/2k92XoQrlb7ccwdO.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل پرنسسی ریون کریستال رنگ سفید کد s-124",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پرنسسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون کریستال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "261aa2fc-9e0b-4c59-b616-d0cd6afe7a51",
+    "image_url": "https://image.torob.com/base/images/G8/Oq/G8OqGxT55boTaNDe.jpg"
+  },
+  {
+    "title": "ساق دست حریر مدل پیراهنی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهنی"
+        ]
+      }
+    ],
+    "random_key": "826476cd-1fbf-4008-9dc2-181e32aa6784",
+    "image_url": "https://image.torob.com/base/images/V_/zE/V_zEHUagQYYWTiWm.jpg"
+  },
+  {
+    "title": "ساق دست پشمی ساده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      }
+    ],
+    "random_key": "777bb997-a28f-4773-a65c-dc3accdd71b9",
+    "image_url": "https://image.torob.com/base/images/Rk/r-/Rkr-J0FM3ySjmqyc.jpg"
+  },
+  {
+    "title": "ساق دست لاتکس",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لاتکس"
+        ]
+      }
+    ],
+    "random_key": "d42a7a91-67cf-482b-830e-4ff75e41d0df",
+    "image_url": "https://image.torob.com/base/images/hX/nr/hXnrPl6N54lrVbYK.jpg"
+  },
+  {
+    "title": "ساق دست انگشتری گل برجسته فقط مشکی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گل برجسته"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "f75466d4-d5a1-4f61-8243-c7ffe198574f",
+    "image_url": "https://image.torob.com/base/images/sd/qA/sdqAqQ8O-BynrPlD.jpg"
+  },
+  {
+    "title": "ساق دست بافتنی زنانه مدل NIM-MAR کد 30770 رنگ یاسی روشن",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIM-MAR"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "یاسی روشن"
+        ]
+      }
+    ],
+    "random_key": "fe0c106b-d237-4d45-85c3-2582d3684a7e",
+    "image_url": "https://image.torob.com/base/images/yE/5i/yE5iC9vqW_wCr1lG.jpg"
+  },
+  {
+    "title": "ساق دست نگین دار",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگین دار"
+        ]
+      }
+    ],
+    "random_key": "462b5714-67ab-4f92-b1c9-1bc43d10bc84",
+    "image_url": "https://image.torob.com/base/images/Mi/9P/Mi9P64aAVP62xbTL.jpg"
+  },
+  {
+    "title": "شومیز هلویی",
+    "group": "نامشخص",
+    "product": "شومیز",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "هلویی"
+        ]
+      }
+    ],
+    "random_key": "a191dcb2-4b77-4dee-8e1c-c92d937d0121",
+    "image_url": "https://image.torob.com/base/images/pL/1v/pL1vTWt635Ix1Z7M.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کد 1",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "9e89e101-f9b6-45b8-8cb9-2fc105c065ab",
+    "image_url": "https://image.torob.com/base/images/ge/oy/geoyFwFZILuDOTZI.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل 025",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "50023fb0-7123-417b-9626-1336098f6549",
+    "image_url": "https://image.torob.com/base/images/f9/yw/f9ywHRIc5Trh04uE.jpg"
+  },
+  {
+    "title": "ساق دست زنانه تن پوش هنگامه مدل فیشنت کد BL01",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست فیشنت"
+        ]
+      }
+    ],
+    "random_key": "0a55a1c3-f996-482d-9642-8e7c0e4cbb68",
+    "image_url": "https://image.torob.com/base/images/u5/1P/u51PoZ-qCPBYZ5ad.jpg"
+  },
+  {
+    "title": "فیشنت انگشتی",
+    "group": "نامشخص",
+    "product": "فیشنت",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت"
+        ]
+      }
+    ],
+    "random_key": "59321995-3994-4761-99c8-a45c206f6cd2",
+    "image_url": "https://image.torob.com/base/images/sM/_M/sM_M5uM7O_-U1D_L.jpg"
+  },
+  {
+    "title": "فیشنت ستاره نگینی",
+    "group": "نامشخص",
+    "product": "فیشنت",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نگینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت ستاره"
+        ]
+      }
+    ],
+    "random_key": "723c0f40-657d-4fec-86a0-3500731354c5",
+    "image_url": "https://image.torob.com/base/images/Qp/W5/QpW5nmyLYcVaXBaH.jpg"
+  },
+  {
+    "title": "ساق دست بافتنی زنانه مدل فشن گلدن",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بافتنی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "7f27222e-963b-4f54-82be-a8f114816463",
+    "image_url": "https://image.torob.com/base/images/Oo/O_/OoO_Opri1y5Qebg2.jpg"
+  },
+  {
+    "title": "ساق دست پرنسسی آبی ارسال رایگان",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پرنسسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "8f57d599-5be9-4332-9140-bfb7dd46bcae",
+    "image_url": "https://image.torob.com/base/images/ey/Wj/eyWjsV5U8UXCAUDV.jpg"
+  },
+  {
+    "title": "ساق دست کشبافت طرح ساده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "tipo",
+        "values": [
+          "کشبافت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      }
+    ],
+    "random_key": "f76fe671-7754-4c17-a2d1-8b03a4647cb8",
+    "image_url": "https://image.torob.com/base/images/GK/v8/GKv8ra5IVVZUkTCP.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل GF 215",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "6b007b09-1d55-468c-8554-e44161fb5299",
+    "image_url": "https://image.torob.com/base/images/RI/RH/RIRHRNy3GPsx4hDG.jpg"
+  },
+  {
+    "title": "ساقدست انجل انگشتی نخ پنبه فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      }
+    ],
+    "random_key": "7a7d8bd0-d8c0-4aac-8e27-3e144a360121",
+    "image_url": "https://image.torob.com/base/images/SY/IV/SYIVNBzIPq7NV_k1.jpg"
+  },
+  {
+    "title": "ساق بندپا پشمی نرم و ریز بافت بدون خارش و حساسیت ماهور نمد",
+    "group": "نامشخص",
+    "product": "ساق بندپا",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "بدون خارش",
+          "ضد حساسیت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماهور نمد"
+        ]
+      }
+    ],
+    "random_key": "52ed05ca-0148-43de-b1ab-686d78301e24",
+    "image_url": "https://image.torob.com/base/images/oV/3F/oV3FJPZtoPfvTOOY.jpg"
+  },
+  {
+    "title": "ساقدست مدل شومیزی جنس کرپ الیزه گرم بالا",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساقدست شومیزی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ الیزه گرم بالا"
+        ]
+      }
+    ],
+    "random_key": "fbb3e41a-012c-4e4f-a640-18d200853123",
+    "image_url": "https://image.torob.com/base/images/TJ/H0/TJH09udoS6qnMd-H.jpg"
+  },
+  {
+    "title": "ساقدست تتو رنگی بلک لایت کشی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساقدست تتو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "بلک لایت",
+          "کشی"
+        ]
+      }
+    ],
+    "random_key": "e1b7e575-55b6-4b6f-94d1-1c2b481dd337",
+    "image_url": "https://image.torob.com/base/images/i6/yP/i6yP0GSsrN--F2-m.jpg"
+  },
+  {
+    "title": "ساق دست سورمه ای گلدوزی طرح نعل اصلی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی طرح نعل"
+        ]
+      }
+    ],
+    "random_key": "b280872f-9cf5-4ca3-9cde-72188b8b1b05",
+    "image_url": "https://image.torob.com/base/images/Wx/iE/WxiEHGdXD_ILzBtV.jpg"
+  },
+  {
+    "title": "ساق دست حریراسود مشکی مچ دار بالای ساق دست کش دارد",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "حریر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچ دار"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "کش"
+        ]
+      }
+    ],
+    "random_key": "b02c1618-4dfc-49a4-9db4-3aa3305fab77",
+    "image_url": "https://image.torob.com/base/images/7M/-Z/7M-Ztz6WVGeaply6.jpg"
+  },
+  {
+    "title": "ساق دست توری مشکی دو انگشتی طرح فیش نت Misslee",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "دو انگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فیش نت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Misslee"
+        ]
+      }
+    ],
+    "random_key": "de3a19c1-236d-411c-9209-5ac44f11af9a",
+    "image_url": "https://image.torob.com/base/images/nH/OJ/nHOJylSv1-Is8I34.jpg"
+  },
+  {
+    "title": "ساق دست نخی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      }
+    ],
+    "random_key": "0432ff7f-2d4f-42e4-91b5-1eb0f2559733",
+    "image_url": "https://image.torob.com/base/images/Hn/Sf/HnSf1w0oKDTP_eEC.jpg"
+  },
+  {
+    "title": "ساق دست زنبوری زنانه اعلا 3",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "زنبوری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست زنبوری"
+        ]
+      }
+    ],
+    "random_key": "773e2c3d-fe18-4f72-b8a7-0ecd1020389b",
+    "image_url": "https://image.torob.com/base/images/sJ/ex/sJexiPOQEcFXt6id.jpg"
+  },
+  {
+    "title": "ساق دست(آستینک) دست دوز مچی مروارید دوزی شده",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست آستینک"
+        ]
+      },
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مروارید دوزی شده"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "دست دوز"
+        ]
+      }
+    ],
+    "random_key": "9e8e9714-7caf-4beb-a57f-edb807ef70fc",
+    "image_url": "https://image.torob.com/base/images/NG/yp/NGypMcN3wtPxLbtO.jpg"
+  },
+  {
+    "title": "حراج ساق دست مچ دار ساده بلند بالا کش دار و نخی مچ دار در رنگ بندی زیبا جنس خوب و باکیفیت",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "مچ دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "کش دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مچ دار"
+        ]
+      }
+    ],
+    "random_key": "c3505441-bbb2-427e-8c5e-d975bd87ceb0",
+    "image_url": "https://image.torob.com/base/images/H-/_-/H-_-v_BH0AEtzAYQ.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل لیلا سرمه ای کرپ",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل لیلا"
+        ]
+      }
+    ],
+    "random_key": "431ffc62-23ca-45f3-9bb8-a5343f1277f8",
+    "image_url": "https://image.torob.com/base/images/14/Pg/14PgL9-e3BBzM0SV.jpg"
+  },
+  {
+    "title": "فیشنت یکسره توپی (4596)",
+    "group": "نامشخص",
+    "product": "فیشنت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فیشنت یکسره توپی"
+        ]
+      }
+    ],
+    "random_key": "01eec88a-6ed8-45c2-b99f-d4f2f22c25be",
+    "image_url": "https://image.torob.com/base/images/0v/_T/0v_T_fuu14VFwvBw.jpg"
+  },
+  {
+    "title": "ساق دست ریون پاپیونی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاپیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پاپیونی"
+        ]
+      }
+    ],
+    "random_key": "4d8c750c-39a7-403e-af72-f66118e6cce5",
+    "image_url": "https://image.torob.com/base/images/kb/33/kb33BDd41IogpPrh.jpg"
+  },
+  {
+    "title": "ساق دست رنگی تمام گیپور برند سیلکا",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیلکا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست تمام گیپور"
+        ]
+      }
+    ],
+    "random_key": "35318281-04df-45c7-a704-1597e693de34",
+    "image_url": "https://image.torob.com/base/images/MX/J5/MXJ5KZmNXcTCrhA9.jpg"
+  },
+  {
+    "title": "ساق دست با طرح shapes",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "shapes"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست طرح shapes"
+        ]
+      }
+    ],
+    "random_key": "d601fa52-6f13-4388-b689-dd56043ba0c7",
+    "image_url": "https://image.torob.com/base/images/Dw/2A/Dw2A-PDhfh45nVVG.jpg"
+  },
+  {
+    "title": "ساق دست لانه زنبوری",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "لانه زنبوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست لانه زنبوری"
+        ]
+      }
+    ],
+    "random_key": "587dea78-38ae-4e95-adbe-a959a9c0242f",
+    "image_url": "https://image.torob.com/base/images/A_/jn/A_jnut_OS3FMu9CK.jpg"
+  },
+  {
+    "title": "فروش 3 جفت ساق دست زیبا ، مدل گیپور، جنس پارچه ویسکوز، خرید مستقیم از تولیدی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گیپور"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ویسکوز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست گیپور"
+        ]
+      }
+    ],
+    "random_key": "0d935788-a7eb-4d26-b660-b19bb496e961",
+    "image_url": "https://image.torob.com/base/images/49/PS/49PSqzsuj_SkxGua.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل خزدار",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "خزدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست خزدار"
+        ]
+      }
+    ],
+    "random_key": "de94479d-b1a7-4ac5-8804-ef6a054d2c1a",
+    "image_url": "https://image.torob.com/base/images/pS/Yy/pSYyVN2jcCDAFqNP.jpg"
+  },
+  {
+    "title": "آر م اسلیو - شارلوت",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آر ام اسلیو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست شارلوت"
+        ]
+      }
+    ],
+    "random_key": "6834593f-ecd7-41bf-a855-10e9b2ae497c",
+    "image_url": "https://image.torob.com/base/images/CG/ya/CGyawSsdfzPtbT7o.jpg"
+  },
+  {
+    "title": "ساق دست بلند قرمز مشکی آپتیمیست انگشتی راه راه نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بلند"
+        ]
+      }
+    ],
+    "random_key": "9c760052-65a0-443d-ab24-3416fd1a69a7",
+    "image_url": "https://image.torob.com/base/images/yV/3R/yV3RcqoGXlXIkcm_.jpg"
+  },
+  {
+    "title": "ساق دست مدل الیزابت مشکی جنس ریون برند تک نگین درجه 1",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تک نگین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست مدل الیزابت"
+        ]
+      }
+    ],
+    "random_key": "cd9f5c24-6fd9-4e0f-b5de-6ca5570f0ca0",
+    "image_url": "https://image.torob.com/base/images/s3/Q6/s3Q6pgqFjgn3UWaA.jpg"
+  },
+  {
+    "title": "ساق دست خاتون رنگ مشکی زاغ",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست خاتون"
+        ]
+      }
+    ],
+    "random_key": "1889ec9b-a302-447e-946c-3a5fd3726dac",
+    "image_url": "https://image.torob.com/base/images/uc/B1/ucB1mZNeFqKbCH9p.jpg"
+  },
+  {
+    "title": "ساق دست بافتنی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بافتنی"
+        ]
+      }
+    ],
+    "random_key": "7390a74c-e8fb-4180-8cde-2188ce5bbfb0",
+    "image_url": "https://image.torob.com/base/images/Y3/R7/Y3R7C-Z6FyU6yJwt.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کد ZSP01_BK",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "32acfcc0-d5d5-4fd0-aadf-491f6485f8ed",
+    "image_url": "https://image.torob.com/base/images/xH/9F/xH9FoETxBYO_4jE4.jpg"
+  },
+  {
+    "title": "ساق دست بچگانه توری پاپیونی",
+    "group": "بچگانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پاپیونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "bb0e6d91-8101-495d-9bc6-fa039638c979",
+    "image_url": "https://image.torob.com/base/images/Q1/y0/Q1y0o455FCxs5556.jpg"
+  },
+  {
+    "title": "ساق دست لانه زنبوری شیک بلند",
+    "group": "نامشخص",
+    "product": "ساق دست', 'ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "لانه زنبوری"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "a618cd4b-a48f-4a5c-a3aa-e1a740ef5f84",
+    "image_url": "https://image.torob.com/base/images/Hs/Ju/HsJuREPtIxqJ2Tao.jpg"
+  },
+  {
+    "title": "ساق دست دخترانه پرنسسی",
+    "group": "دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست پرنسسی"
+        ]
+      }
+    ],
+    "random_key": "39e52bd4-f5c0-4a45-ba46-dae9f0d766e3",
+    "image_url": "https://image.torob.com/base/images/5Y/2R/5Y2RAzTOhdrZYiHV.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کد 67",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "9feedd49-6c5c-4fa0-abee-b35b37ed39f5",
+    "image_url": "https://image.torob.com/base/images/7t/th/7tth4RfxA7v3nZym.jpg"
+  },
+  {
+    "title": "ساق دست گلدوزی رنگ سرمه ای",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "da605f66-bf1f-4e20-9268-3d0e277598a8",
+    "image_url": "https://image.torob.com/base/images/LR/p0/LRp0h53DXusVgu8I.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کشی تا سایز 50 رنگ مشکی",
+    "group": "زنانه",
+    "product": "ساق دست', 'ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "کشی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "تا سایز 50"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "c1ad89b0-15cd-43bf-868a-0b9eee4ad7c0",
+    "image_url": "https://image.torob.com/base/images/RN/zc/RNzcraCZeFZifCZE.jpg"
+  },
+  {
+    "title": "ساق دست بلند آدیداس مشکی آپتیمیست انگشتی نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست",
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "59789ca2-df49-4743-9a80-6cbbc6503aa5",
+    "image_url": "https://image.torob.com/base/images/t2/-O/t2-OqchkwElu6hZJ.jpg"
+  },
+  {
+    "title": "ساق دست اسپرت استخونی فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "استخونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "1de7776f-5b53-4a38-80f1-afc8119e5964",
+    "image_url": "https://image.torob.com/base/images/vb/Er/vbErPo5rdDmQ-0Ho.jpg"
+  },
+  {
+    "title": "ساق دست انگشتی بافت",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "5a3da15a-3ec9-4564-9138-9b03bdaf0f2e",
+    "image_url": "https://image.torob.com/base/images/gb/qC/gbqC1ofTFxCV9YLz.jpg"
+  },
+  {
+    "title": "ساق دست زنانه و مردانه مدل samurai",
+    "group": "زنانه و مردانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه",
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "367b3423-129b-41ef-94d2-486bff246427",
+    "image_url": "https://image.torob.com/base/images/U3/IO/U3IO-6DNEQZHKQtr.jpg"
+  },
+  {
+    "title": "ساق دست مشکی مجلسی ریون با 3تا طرح خیلی خوشگل",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "9b4d4cb0-6afa-43a8-af15-de282cf33989",
+    "image_url": "https://image.torob.com/base/images/pu/_T/pu_Te8lcLZu2Y2Ya.jpg"
+  },
+  {
+    "title": "ساق دست زمستانی کد 1791764",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "کاربرد",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "462ceb64-6996-427a-ac58-84dfd5ff0315",
+    "image_url": "https://image.torob.com/base/images/KE/YM/KEYM4gn3MODxAfKw.jpg"
+  },
+  {
+    "title": "ساق دست کوتاه شطرنجی پنبه ای",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شطرنجی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "aeb442f3-4e2b-4aa8-a926-2b7d74912ff6",
+    "image_url": "https://image.torob.com/base/images/JK/8c/JK8cfXi2qd9Kn8qu.jpg"
+  },
+  {
+    "title": "ساق دست کوتاه شطرنجی آپتیمیست انگشتی نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شطرنجی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "2fef1b02-c111-4e0e-a2a2-8ff483981911",
+    "image_url": "https://image.torob.com/base/images/ZW/jQ/ZWjQ-OTYs3TjXs5t.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کد SD190",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "c4cb3d2e-b614-4f82-9f0c-75ba7e47f043",
+    "image_url": "https://image.torob.com/base/images/KN/oA/KNoAKbQ2KDZnSGzn.jpg"
+  },
+  {
+    "title": "ساق دست | انگشتی | زنانه | کد 1286",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "6535f6d6-7c88-4b14-b437-23fb29b8de34",
+    "image_url": "https://image.torob.com/base/images/7q/p2/7qp2SOPyLHoc1uAC.jpg"
+  },
+  {
+    "title": "ساق دست زنانه و دخترانه جدید مجلسی ساق دست فوق العاده شیک در دست",
+    "group": "زنانه و دخترانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "کاربرد",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "8ad35391-47cc-4816-9f57-ef809622a0c4",
+    "image_url": "https://image.torob.com/base/images/5Z/xC/5ZxCPzIfYc6vk2iR.jpg"
+  },
+  {
+    "title": "ساق دست گیپور دار خاکستری رنگ",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گیپور دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "d460a3f4-b9a7-4cca-ba5c-7043184bc304",
+    "image_url": "https://image.torob.com/base/images/nj/RE/njREq2LIVvp_wpr-.jpg"
+  },
+  {
+    "title": "ساق دست سفید",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "af9d76bb-fc60-4f3c-bf6c-c0c06a6aa2f0",
+    "image_url": "https://image.torob.com/base/images/Qw/2b/Qw2bjMRcmWQBVIdU.jpg"
+  },
+  {
+    "title": "ساق دست و تل بافتنی آبی گالری آفتابگردون",
+    "group": "نامشخص",
+    "product": "ساق دست و تل",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست بافتنی"
+        ]
+      }
+    ],
+    "random_key": "dffd1281-94c1-4f50-afcc-401496f9c6f9",
+    "image_url": "https://image.torob.com/base/images/As/_V/As_VhScECbdoKuz9.jpg"
+  },
+  {
+    "title": "ساق دست زنانه نخ استریج متصل برند سیلکا",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ استریج"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیلکا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "3c9bd21f-21f7-4fd4-bdfb-fdbc1fa52fe4",
+    "image_url": "https://image.torob.com/base/images/z5/H-/z5H-ZdGj--IiGJs8.jpg"
+  },
+  {
+    "title": "ساق دست زنانه مدل 02",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "5698dd24-a820-4301-bf6d-3028fa5a0025",
+    "image_url": "https://image.torob.com/base/images/6V/CZ/6VCZfZ-H4o3PXkip.jpg"
+  },
+  {
+    "title": "ساق دست کوتاه سفید مشکی آپتیمیست انگشتی راه راه نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "00e26fc6-bb47-4df1-aec7-a442ae223ddf",
+    "image_url": "https://image.torob.com/base/images/KK/lv/KKlvIokIJ9dEGyWX.jpg"
+  },
+  {
+    "title": "ساق دست آستین حجاب کرپ اسکاجی الیزه حریر فری سایز",
+    "group": "نامشخص",
+    "product": "ساق دست آستین",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "حجاب"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ اسکاجی",
+          "حریر"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست آستین"
+        ]
+      }
+    ],
+    "random_key": "9614a36d-e08d-456f-8d53-6c5847964183",
+    "image_url": "https://image.torob.com/base/images/Yq/NT/YqNT1YtcyqNi-qJY.jpg"
+  },
+  {
+    "title": "ساق دست کوتاه جردن مشکی آپتیمیست انگشتی نخ پنبه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آپتیمیست"
+        ]
+      },
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "fd087205-7531-441c-a5f4-b73c19e192ba",
+    "image_url": "https://image.torob.com/base/images/WE/3L/WE3LvU3jg0-4tZmH.jpg"
+  },
+  {
+    "title": "ساق دست کوتاه ساده ریون مشکی و ذغالی",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "ذغالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "077ea3cc-c127-48cc-8205-34210e0f4b10",
+    "image_url": "https://image.torob.com/base/images/kh/OZ/khOZgT11hcT_jKQx.jpg"
+  },
+  {
+    "title": "ساق دست انگشتی ریون ساده تا بالای آرنج(ارزانسرای جوانه)",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "نوع انگشتی",
+        "values": [
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "تا بالای آرنج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "cb02243f-cb08-408b-86c2-58e5352cf210",
+    "image_url": "https://image.torob.com/base/images/UF/oe/UFoexfFzc32p3hgC.jpg"
+  },
+  {
+    "title": "ساق دست زنانه کادنزا، راه راه، طرح سه دکمه ساق بلند (ارزانسرای جوانه)",
+    "group": "زنانه",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کادنزا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه",
+          "سه دکمه"
+        ]
+      },
+      {
+        "name": "قد ساق دست",
+        "values": [
+          "ساق بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "9cdd8abc-e8bc-4e7b-8e8f-3e9a434b2427",
+    "image_url": "https://image.torob.com/base/images/qj/Gb/qjGbwEeNWVziqG5e.jpg"
+  },
+  {
+    "title": "سآق ۳دکمه بلوط",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "جزئیات مچ",
+        "values": [
+          "3دکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "a95696b1-a112-4cc6-88e7-8e04ac4c9386",
+    "image_url": "https://image.torob.com/base/images/Vi/jT/VijTV_dHj7NEvId4.jpg"
+  },
+  {
+    "title": "ساق دست مدل بابونه",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "بابونه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست"
+        ]
+      }
+    ],
+    "random_key": "ce0c2784-62bc-4564-a7f6-b1dd7a31fa9c",
+    "image_url": "https://image.torob.com/base/images/iU/kk/iUkkpjR7W0fz-cD8.jpg"
+  },
+  {
+    "title": "خالکوبی ساق دست (ساقدست طرحدار) مدل Dragon",
+    "group": "نامشخص",
+    "product": "ساق دست",
+    "entities": [
+      {
+        "name": "ویژگی های خاص",
+        "values": [
+          "خالکوبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Dragon"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساق دست طرحدار"
+        ]
+      }
+    ],
+    "random_key": "9c2bc26b-3e5d-45a7-b737-3e3998841435",
+    "image_url": "https://image.torob.com/base/images/gU/Lh/gULhCEG8HCfspKos.jpg"
+  }
+]

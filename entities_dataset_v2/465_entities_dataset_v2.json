@@ -1,0 +1,5949 @@
+[
+  {
+    "title": "تونیک نیم زیپ فینگردار ورزشی زنانه",
+    "group": "زنانه",
+    "product": "تونیک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی",
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین فینگردار"
+        ]
+      }
+    ],
+    "random_key": "f58ffa25-cea3-489e-b0db-fbdf6ec12622",
+    "image_url": "https://image.torob.com/base/images/qi/Zw/qiZwe1fRq7Pcyi7y.jpg"
+  },
+  {
+    "title": "بلوز زنانه ورزشی بلوز نیم زیپ زنانه فینگردار مانتو ورزشی ارسال رایگان",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی",
+          "نیم زیپ ورزشی",
+          "مانتو ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین فینگردار"
+        ]
+      }
+    ],
+    "random_key": "ea1cecdc-88eb-41f8-bc7b-845699e84d71",
+    "image_url": "https://image.torob.com/base/images/An/nc/AnncfF_ZCumbeM36.jpg"
+  },
+  {
+    "title": "لباس ورزشی زنانه لباس زیر",
+    "group": "زنانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس زیر"
+        ]
+      }
+    ],
+    "random_key": "6ce804cb-5c3a-4823-95f6-f32fd2f10526",
+    "image_url": "https://image.torob.com/base/images/P6/gN/P6gN-CcgVusyVDto.jpg"
+  },
+  {
+    "title": "بیس لایر زنانه SN-C2146 اسنوهاک",
+    "group": "زنانه",
+    "product": "بیس لایر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیس لایر ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسنوهاک"
+        ]
+      }
+    ],
+    "random_key": "e55730ab-79f6-412f-ba78-209ab0542d13",
+    "image_url": "https://image.torob.com/base/images/4a/TE/4aTECMCeJt9TDUZr.jpg"
+  },
+  {
+    "title": "اورال سرهمی دمپا بوت کات اسپرت ورزشی زنانه کد 005",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "431eb21e-f3d2-482c-9346-4410563ec2a9",
+    "image_url": "https://image.torob.com/base/images/V1/51/V151lbaOXkqz-fKm.jpg"
+  },
+  {
+    "title": "اورال شورتکی ورزشی زنانه کد 007",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال شورتکی"
+        ]
+      }
+    ],
+    "random_key": "13bc82a2-eb4a-4034-bff8-ae5f432e8764",
+    "image_url": "https://image.torob.com/base/images/oK/-8/oK-8zhtMWdCAQ6mn.jpg"
+  },
+  {
+    "title": "بلوز زنانه ورزشی اسپرت زیپ دار آستین فینگری کد 1231",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین فینگری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      }
+    ],
+    "random_key": "4065efff-a609-4357-b78b-471e95ad5ab5",
+    "image_url": "https://image.torob.com/base/images/AK/px/AKpxjmPNP12CzB9g.jpg"
+  },
+  {
+    "title": "مانتو تک سایز بزرگ ورزشی زنانه NIKE",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "915e8752-c3d7-4733-a038-03d73195b5d6",
+    "image_url": "https://image.torob.com/base/images/zx/l4/zxl4l8peSRLlySUO.jpg"
+  },
+  {
+    "title": "کاور زنانه دوکزیگ Dook Zigg کد 1040",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دوکزیگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ab13a22a-aefb-4cbc-9d59-2671f60f2538",
+    "image_url": "https://image.torob.com/base/images/22/1l/221l58bX83BLASOr.jpg"
+  },
+  {
+    "title": "راشگارد آستین بلند زنانه برند Mistral کد ۵",
+    "group": "زنانه",
+    "product": "راشگارد",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میسترال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راشگارد ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b780d95a-8f73-4cbf-b19d-6664e49d02a7",
+    "image_url": "https://image.torob.com/base/images/Ld/4G/Ld4GX7bC-zPtrOm6.jpg"
+  },
+  {
+    "title": "کیمونو ورزشی زنانه نایکی کد 151",
+    "group": "زنانه",
+    "product": "کیمونو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیمونو ورزشی"
+        ]
+      }
+    ],
+    "random_key": "4eb5e6b3-75ca-4b24-8f27-7db6028473fc",
+    "image_url": "https://image.torob.com/base/images/8S/Uw/8SUwnxTQyjSIgxTx.webp"
+  },
+  {
+    "title": "دامن شورت دار ورزشی زنانه",
+    "group": "زنانه",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ورزشی"
+        ]
+      }
+    ],
+    "random_key": "7bae07c0-7142-409d-bfba-0a114210315b",
+    "image_url": "https://image.torob.com/base/images/q4/kP/q4kP9Tg1ilNirxpv.jpg"
+  },
+  {
+    "title": "نیم زیپ ورزشی زنانه برند BROOKS",
+    "group": "زنانه",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      }
+    ],
+    "random_key": "bfdcf51c-76ff-4153-9777-8e216476e3d3",
+    "image_url": "https://image.torob.com/base/images/EO/0K/EO0KwpZlriv0eQNy.jpg"
+  },
+  {
+    "title": "مانتو تک ورزشی دبل NIKE",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "976d4108-aa59-498f-9c7e-887b1cf13b48",
+    "image_url": "https://image.torob.com/base/images/u8/i0/u8i0SC4nc9JdKz5_.jpg"
+  },
+  {
+    "title": "دامن کشاله دار نایک کد 9028",
+    "group": "نامشخص",
+    "product": "دامن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ورزشی"
+        ]
+      }
+    ],
+    "random_key": "4f052334-a786-4ff3-bb38-ce4852338d3c",
+    "image_url": "https://image.torob.com/base/images/_G/Zh/_GZhIlHn-L9lSd75.webp"
+  },
+  {
+    "title": "بلوز زنانه باشگاهی ورزشی نیم زیپ دیاموند",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی",
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "d4f6e6b5-6e5e-4eb8-990a-23f1036f331d",
+    "image_url": "https://image.torob.com/base/images/ep/Il/epIlBNh5ZAzKn-BE.jpg"
+  },
+  {
+    "title": "سرهمی ام بی فیتنس MB Fitness مدل پشت چیندار - فقط عمده",
+    "group": "زنانه",
+    "product": "سرهمی ورزمی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ام بی فیتنس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی ورزشی زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پشت چیندار"
+        ]
+      }
+    ],
+    "random_key": "e0bf386b-ec2d-4de8-aa6f-7ed8628121de",
+    "image_url": "https://image.torob.com/base/images/yr/-B/yr-BgZy-lfXtNK0b.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      }
+    ],
+    "random_key": "7e4ec23b-15be-46e9-9b77-8a5f5aa7cb59",
+    "image_url": "https://image.torob.com/base/images/iv/F2/ivF2O5Ad1V28-RAJ.jpg"
+  },
+  {
+    "title": "اورال ورزشی اورجینال بلند سیملس Y502-R",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "64c545a8-871f-4824-8c45-230eb8b16189",
+    "image_url": "https://image.torob.com/base/images/Hs/Wt/HsWtLENiYM0KKgts.webp"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0030",
+    "group": "زنانه",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "97bb0a3c-effc-4668-9327-62e425e5c032",
+    "image_url": "https://image.torob.com/base/images/lw/H-/lwH-TIecxrvHXR-B.jpg"
+  },
+  {
+    "title": "تونیک ورزشی زنانه برند NIKE",
+    "group": "زنانه",
+    "product": "تونیک ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "ae6462d4-a263-4f65-a1c8-1d492891650a",
+    "image_url": "https://image.torob.com/base/images/4w/9b/4w9bNny7MbIcR6yS.jpg"
+  },
+  {
+    "title": "مانتو تک ورزشی زنانه NIKE کد 008",
+    "group": "زنانه",
+    "product": "مانتو ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو تک ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "3b3fe9e0-e3f2-4c0c-80c9-425458e3f24c",
+    "image_url": "https://image.torob.com/base/images/hM/UZ/hMUZAvgL_oSLecz_.jpg"
+  },
+  {
+    "title": "ورزشی جنس فلازت عاااااالی",
+    "group": "نامشخص",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "فلازت"
+        ]
+      }
+    ],
+    "random_key": "a482fe80-bb9e-446e-99ed-7a48264f6629",
+    "image_url": "https://image.torob.com/base/images/Yb/dA/YbdAzLSl3Y-rpCOJ.jpg"
+  },
+  {
+    "title": "لباس ورزشی زنانه برند پوما رنگ بنفش مدل PUMA BETTER SPORTSWEAR Women's Crew Neck",
+    "group": "زنانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "Crew Neck"
+        ]
+      }
+    ],
+    "random_key": "ba86dc9b-a444-4202-9801-d7dfebf8c374",
+    "image_url": "https://image.torob.com/base/images/ab/jp/abjpXCst6RaTO-wm.webp"
+  },
+  {
+    "title": "نیم زیپ‌ ورزشی زرد زنانه فینگر‌دار بروکس",
+    "group": "زنانه",
+    "product": "نیم زیپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      }
+    ],
+    "random_key": "7d1ed196-2eeb-4743-9eeb-2e698097b761",
+    "image_url": "https://image.torob.com/base/images/TF/_g/TF_gEEUvzr_S7GHH.webp"
+  },
+  {
+    "title": "اورال بلند جلو زیپ",
+    "group": "نامشخص",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو زیپ"
+        ]
+      }
+    ],
+    "random_key": "08c51892-d949-4729-9536-4c0425ece151",
+    "image_url": "https://image.torob.com/base/images/1k/9G/1k9GL0RtXw8p5Viy.webp"
+  },
+  {
+    "title": "بلوز ورزشی زنانه برند کریویت کد ۳۵۷۳۳۶۲",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "6cf8e9b4-c66d-4d2d-9c3b-cb2ddb9279f0",
+    "image_url": "https://image.torob.com/base/images/NY/h3/NYh3gdw1YSNEmqsd.jpg"
+  },
+  {
+    "title": "اورال سرهمی سایز بزرگ اسپرت ورزشی زنانه کد 003",
+    "group": "زنانه",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "677d4c5b-64cc-49b6-88a5-e3211d240bf3",
+    "image_url": "https://image.torob.com/base/images/gE/CF/gECF-ksM0Irvsxvu.jpg"
+  },
+  {
+    "title": "اورال ورزشی پانچی 5013",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b8962194-271f-4637-bbbc-c5e4b6f3baf7",
+    "image_url": "https://image.torob.com/base/images/Jo/4R/Jo4RYJC_VKB-ckgY.jpg"
+  },
+  {
+    "title": "سرهمی ورزشی زنانه ماییلدا مدل پد متحرک کد 4847 رنگ",
+    "group": "زنانه",
+    "product": "سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد متحرک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماییلدا"
+        ]
+      }
+    ],
+    "random_key": "a7aa8470-86c4-4915-97cd-cef13c4752b8",
+    "image_url": "https://image.torob.com/base/images/eP/v_/ePv_62TLVW7GAQj1.jpg"
+  },
+  {
+    "title": "کاور زنانه mobya کد00",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "mobya"
+        ]
+      }
+    ],
+    "random_key": "43292ae3-f5d4-42dd-8f4b-e702904997f0",
+    "image_url": "https://image.torob.com/base/images/3x/b4/3xb4qVgBuLVIvb8t.jpg"
+  },
+  {
+    "title": "بلوز ورزشی سرمه ای زنانه چیبو",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "چیبو"
+        ]
+      }
+    ],
+    "random_key": "31ffa802-a318-49c9-88f3-5f52c9730cee",
+    "image_url": "https://image.torob.com/base/images/dc/3O/dc3O9wI0l2fab5cU.webp"
+  },
+  {
+    "title": "نیم زیپ آستین فینگردار سایز بزرگ زنانه",
+    "group": "زنانه",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین فینگردار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ"
+        ]
+      }
+    ],
+    "random_key": "8695b28f-c01f-4373-9663-7a079e6dd9a9",
+    "image_url": "https://image.torob.com/base/images/hN/hx/hNhx84NCeP0fcN25.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه بدنسازی کبریتی کوتاه",
+    "group": "زنانه بدنسازی",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "12b398f6-383c-4a4c-84c6-ff2ea0bf67c0",
+    "image_url": "https://image.torob.com/base/images/lk/lz/lklzkKW63_O4uvIH.webp"
+  },
+  {
+    "title": "25277 سرهمی اورال اوورال یکسره توردار غواصی ورزشی فری سایز ۳۶ تا ۴۴ تن شیک",
+    "group": "نامشخص",
+    "product": "سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی اورال",
+          "اوورال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توردار",
+          "غواصی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز ۳۶ تا ۴۴"
+        ]
+      }
+    ],
+    "random_key": "3f238ce4-a655-48d1-91a3-4ef3ff8014a2",
+    "image_url": "https://image.torob.com/base/images/Lk/0L/Lk0LWlJL_RRbY0Vu.jpg"
+  },
+  {
+    "title": "اورال سرهمی ورزشی زنانه NIKE کد 0011",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "21bffb7d-731f-4628-8d2b-564fba913928",
+    "image_url": "https://image.torob.com/base/images/cu/Jw/cuJwIe0Oe7qsDnzm.jpg"
+  },
+  {
+    "title": "بلوز کراپ ورزشی زنانه برند کریویت کد va744",
+    "group": "زنانه",
+    "product": "بلوز کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "c371c926-1913-42dc-b08b-09b1550acf43",
+    "image_url": "https://image.torob.com/base/images/VY/cK/VYcK5O4Z1yqBIhyc.jpg"
+  },
+  {
+    "title": "سرهمی ام بی فیتنس MB Fitness مدل تیکه دوزی - فقط عمده",
+    "group": "نامشخص",
+    "product": "سرهمی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تیکه دوزی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MB Fitness"
+        ]
+      }
+    ],
+    "random_key": "6220a827-8f64-4b6e-8a36-0fda0955e83b",
+    "image_url": "https://image.torob.com/base/images/1-/RK/1-RKQBuO3cN_J1Kb.jpg"
+  },
+  {
+    "title": "بادی لاتکس آستین دار زیپی",
+    "group": "نامشخص",
+    "product": "بادی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین دار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لاتکس"
+        ]
+      }
+    ],
+    "random_key": "1226ac8b-3baf-47bb-b455-c9adc95cf6e1",
+    "image_url": "https://image.torob.com/base/images/Yx/Ws/YxWsAZHXVTYDhzOF.jpg"
+  },
+  {
+    "title": "کاور ورزشی سایز کوچک small",
+    "group": "نامشخص",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "small",
+          "کوچک"
+        ]
+      }
+    ],
+    "random_key": "854b241b-14e1-435d-9bca-e4a6658030f2",
+    "image_url": "https://image.torob.com/base/images/re/jm/rejmiq-Mmoo84Hyp.jpg"
+  },
+  {
+    "title": "پیراهن ورزشی زنانه مدل کمری کد F-280205",
+    "group": "زنانه",
+    "product": "پیراهن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ورزشی"
+        ]
+      }
+    ],
+    "random_key": "88c75909-da2f-4713-9d8b-5931e200bedd",
+    "image_url": "https://image.torob.com/base/images/kq/xd/kqxdD6y8hv1EvZA5.jpg"
+  },
+  {
+    "title": "بلوز ورزشی پایین چاک دار 42 تا 46",
+    "group": "نامشخص",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "42 تا 46"
+        ]
+      }
+    ],
+    "random_key": "8ec3081c-abf8-4d06-b5ae-a0611372792d",
+    "image_url": "https://image.torob.com/base/images/sj/P4/sjP4BpWlNGxyyjwH.jpg"
+  },
+  {
+    "title": "سرهمی ورزشی زنانه ماییلدا مدل پد متحرک کد 4847 رنگ صورتی",
+    "group": "زنانه",
+    "product": "سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد متحرک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "afd26faf-3f2c-473b-8c69-20cd6d837d51",
+    "image_url": "https://image.torob.com/base/images/7N/I6/7NI6LGZrFpUBzSWt.jpg"
+  },
+  {
+    "title": "دامن شورت دار ورزشی زنانه",
+    "group": "زنانه",
+    "product": "دامن شورت دار ورزیمایی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن شورت دار ورزشی"
+        ]
+      }
+    ],
+    "random_key": "6aaf4cef-50ae-4b94-bcb3-43be21066029",
+    "image_url": "https://image.torob.com/base/images/Ll/Yw/LlYwnzj0_PhBVKsb.jpg"
+  },
+  {
+    "title": "استین بلند زنانه فینگر دار نایکی و لگ فلامنت",
+    "group": "زنانه",
+    "product": "آستین بلند",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند",
+          "فینگر دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      }
+    ],
+    "random_key": "96024f18-1b98-4304-a374-03b771b6e524",
+    "image_url": "https://image.torob.com/base/images/-E/Y_/-EY_P8Xtl6e29nIW.jpg"
+  },
+  {
+    "title": "کیمونو کلاهدار ورزشی زنانه 405181",
+    "group": "زنانه",
+    "product": "کیمونو ورزشی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      }
+    ],
+    "random_key": "514ddb5d-b3a7-4cb4-be71-8220ba29df03",
+    "image_url": "https://image.torob.com/base/images/g5/p2/g5p22pFRNkPmGc3y.webp"
+  },
+  {
+    "title": "سرهمی ورزشی،سرهمی اورجینال،اورال ورزشی",
+    "group": "نامشخص",
+    "product": "سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی ورزشی",
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "973e58f7-79fd-4737-90eb-203f83f23de2",
+    "image_url": "https://image.torob.com/base/images/z8/MQ/z8MQFrraICDGPmHA.jpg"
+  },
+  {
+    "title": "اورال ورزشی کمرگنی گرم بالا سایز S/M/L/XL",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S/M/L/XL"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمرگنی",
+          "گرم بالا"
+        ]
+      }
+    ],
+    "random_key": "fe4be042-e5a6-41a1-9fe6-29e69a215133",
+    "image_url": "https://image.torob.com/base/images/kE/ja/kEjaXX_Zp4RrAN_d.jpg"
+  },
+  {
+    "title": "اورال شورتک بند موربی کد 2024",
+    "group": "نامشخص",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال شورتک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      }
+    ],
+    "random_key": "e3e743c9-055b-4226-b8b2-6b14e4ffcc03",
+    "image_url": "https://image.torob.com/base/images/Jo/zy/Jozy6fzdFtfUJMBC.webp"
+  },
+  {
+    "title": "کاور توری کلاهدار ورزشی زنانه مدل PB-1K735 سفید",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور توری کلاهدار ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "9b8415af-006b-40f8-a0cb-3ddca374448a",
+    "image_url": "https://image.torob.com/base/images/Ut/Aw/UtAwz4U3LsyC0cOn.jpg"
+  },
+  {
+    "title": "کیمونو کلاهدار ورزشی زنانه 405179",
+    "group": "زنانه",
+    "product": "کیمونو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیمونو کلاهدار ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      }
+    ],
+    "random_key": "e014c1d4-70fa-4dbe-95cf-99ca2edf9a07",
+    "image_url": "https://image.torob.com/base/images/T4/d8/T4d8veXpWnhcIinH.jpg"
+  },
+  {
+    "title": "کاور زنانه پهلوباز ریون فلامنت just do it تکی",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور زنانه پهلوباز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ریون فلامنت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "just do it"
+        ]
+      }
+    ],
+    "random_key": "d86df2b9-7b94-4e03-bf52-f30e5f7de36b",
+    "image_url": "https://image.torob.com/base/images/ma/gy/magygYUBB0d371nI.jpg"
+  },
+  {
+    "title": "اورال (سرهمی) ورزشی زنانه آستین بلند سیملس کد 50041",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      }
+    ],
+    "random_key": "f3322429-bf51-4cd4-8d55-365688eec6e9",
+    "image_url": "https://image.torob.com/base/images/s1/xc/s1xce9A4BysGyT6V.webp"
+  },
+  {
+    "title": "جلیقه پشمی زنانه کچوا مدل Quechua MH120 - زمان ارسال 15 تا 20 روز کاری",
+    "group": "زنانه",
+    "product": "جلیقه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه پشمی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کچوا Quechua"
+        ]
+      }
+    ],
+    "random_key": "e37bf965-b68f-4888-924a-38372b98c466",
+    "image_url": "https://image.torob.com/base/images/HR/kc/HRkcswqQgIM5Hcl0.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه سیملس کوتاه زیپدار-کاپدار-در6رنگبندی مختلف",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپدار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کاپدار"
+        ]
+      }
+    ],
+    "random_key": "0e2af82c-5400-43b4-8e69-eba901e3be16",
+    "image_url": "https://image.torob.com/base/images/U-/EH/U-EHr1fhdlZJOyzA.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0029",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی اسپرت ورزشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "b4275a34-a271-430f-a635-21609c1649a2",
+    "image_url": "https://image.torob.com/base/images/DM/vL/DMvLOiY1C8GPIC0S.jpg"
+  },
+  {
+    "title": "کاور ورزشی آدیداس ADIDAS کد VM658",
+    "group": "نامشخص",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس ADIDAS"
+        ]
+      }
+    ],
+    "random_key": "e984d0ff-7285-459f-8d2b-7d6c153f5238",
+    "image_url": "https://image.torob.com/base/images/JF/yr/JFyruZ7_q6qXDfPH.jpg"
+  },
+  {
+    "title": "تیشرت هواداری آث میلان",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت هواداری"
+        ]
+      }
+    ],
+    "random_key": "039faddc-7c0d-4124-aa7a-e24c997d24f6",
+    "image_url": "https://image.torob.com/base/images/xO/qp/xOqpQ0vl4UFWW2St.jpg"
+  },
+  {
+    "title": "لباس ورزشی زنانه نایک",
+    "group": "زنانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "bf63b5fc-40a3-49ae-a512-335187a714f1",
+    "image_url": "https://image.torob.com/base/images/mY/iU/mYiUl_l8U6djA_xf.jpg"
+  },
+  {
+    "title": "بلوز کراپ ورزشی زنانه برند nike کد va1356",
+    "group": "زنانه",
+    "product": "بلوز کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز کراپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک nike"
+        ]
+      }
+    ],
+    "random_key": "9566b22b-11cc-468b-b138-9d3307c686f4",
+    "image_url": "https://image.torob.com/base/images/1F/UV/1FUVc2Iaht1lbnUc.jpg"
+  },
+  {
+    "title": "مانتو تک سایز بزرگ ورزشی زنانه NIKE کد 002",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو ورزشی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک NIKE"
+        ]
+      }
+    ],
+    "random_key": "60934639-54fe-4196-8a36-6cee71c9a445",
+    "image_url": "https://image.torob.com/base/images/3_/qe/3_qeNf9dV8EBlR7i.jpg"
+  },
+  {
+    "title": "شلوار گرمکن ورزشی خاکستری زنانه لباس یاسمین پایین 930125 2800 اورجینال hummel",
+    "group": "زنانه",
+    "product": "شلوار گرمکن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار گرمکن ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "hummel"
+        ]
+      }
+    ],
+    "random_key": "48324478-d625-437a-8be6-1417eb4a3855",
+    "image_url": "https://image.torob.com/base/images/A5/7r/A57rJHfr8BoGqKP7.jpg"
+  },
+  {
+    "title": "نیم زیپ ورزشی زنانه کریویت Crivit Women's Funktionsshirt 02 مشکی",
+    "group": "زنانه",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت Crivit"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "23fddc07-5709-4480-92ad-73563107f802",
+    "image_url": "https://image.torob.com/base/images/Kz/aI/KzaIlC82PDeQBQNw.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه برند کریویت کد va814",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "d7308baf-bb01-495f-9550-49ef8e152a2d",
+    "image_url": "https://image.torob.com/base/images/je/9D/je9DyFd31unagO2q.webp"
+  },
+  {
+    "title": "کاور ورزشی نایک",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "ebb99895-2dc3-427e-b85a-a9d273ae8795",
+    "image_url": "https://image.torob.com/base/images/U_/RB/U_RBomG4M7J_WXUx.jpg"
+  },
+  {
+    "title": "اورال سرهمی سیملس ورزشی زنانه اویشو مدل ۰۰۱۴ صورتی",
+    "group": "زنانه",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اویشو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "f8e76a68-541a-4e83-93c8-a3be865fe480",
+    "image_url": "https://image.torob.com/base/images/O4/Ve/O4Ve7qbP-ebu9bA0.jpg"
+  },
+  {
+    "title": "زنانه و شوهر لباس ورزشی بهتر پیراهن روزانه بژ پوما Puma",
+    "group": "زنانه و مردانه",
+    "product": "پیراهن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      }
+    ],
+    "random_key": "896133ef-48a6-4495-9d08-0d0b388088b2",
+    "image_url": "https://image.torob.com/base/images/5e/F6/5eF6VezRGXbmTuE2.jpg"
+  },
+  {
+    "title": "ست کراپ و لگ چاکدار NIKE ( طرح) در دو سایز و سه رنگ",
+    "group": "نامشخص",
+    "product": "ست کراپ و لگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست کراپ و لگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "دو سایز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سه رنگ"
+        ]
+      }
+    ],
+    "random_key": "ec85c695-4d6e-4da2-bf64-19373cfa943c",
+    "image_url": "https://image.torob.com/base/images/uG/uv/uGuvJMrI35ttfj64.jpg"
+  },
+  {
+    "title": "نیم زیپ ورزشی زنانه کریویت ۱۶۰۸",
+    "group": "زنانه",
+    "product": "نیم زیپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "8e1fd16a-8c3a-49ee-9d64-dc0bf57d5082",
+    "image_url": "https://image.torob.com/base/images/Cu/NC/CuNCHlhcehqSQnCk.jpg"
+  },
+  {
+    "title": "لانگ آستین فینگر دار اسپرت - چاپ س",
+    "group": "نامشخص",
+    "product": "لانگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لانگ اسپرت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین فینگردار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپ س"
+        ]
+      }
+    ],
+    "random_key": "36acbb55-0aa3-48b5-b10f-c9c0b58d5c9b",
+    "image_url": "https://image.torob.com/base/images/mD/ua/mDuaxlPVOM-Ppc5J.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه بدنسازی کوتاه کبریتی رومی NZD | کرمی",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی بدنسازی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      }
+    ],
+    "random_key": "b980310d-c058-4ae4-b1e4-739d7f6b5565",
+    "image_url": "https://image.torob.com/base/images/8T/1Z/8T1ZpOC8Q49cpHXN.webp"
+  },
+  {
+    "title": "بلوز نیم زیپ ورزشی زنانه CRIVIT",
+    "group": "زنانه",
+    "product": "بلوز نیم زیپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CRIVIT"
+        ]
+      }
+    ],
+    "random_key": "9cb0cc5d-461f-497c-b48a-ed02a425c884",
+    "image_url": "https://image.torob.com/base/images/UQ/L6/UQL6c6zqSWNlWomw.jpg"
+  },
+  {
+    "title": "راشگارد آستین بلند زنانه برند Mistral کد ۵۵ - مشکی با طرح کرم /",
+    "group": "زنانه",
+    "product": "راشگارد",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "راشگارد"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Mistral"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی با طرح کرم"
+        ]
+      }
+    ],
+    "random_key": "34686aab-a236-41b9-94e6-4f68dab0349d",
+    "image_url": "https://image.torob.com/base/images/Wt/X2/WtX2hGyv88kX237p.jpg"
+  },
+  {
+    "title": "بیس لایر زنانه برند آندرآرمور مدل 20202",
+    "group": "زنانه",
+    "product": "بیس لایر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیس لایر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندرآرمور"
+        ]
+      }
+    ],
+    "random_key": "8a507afe-6299-4c46-90fd-db7d5f1cc984",
+    "image_url": "https://image.torob.com/base/images/w6/Jf/w6JfOdzsDnePtSjP.jpg"
+  },
+  {
+    "title": "کاور زنانه کلاهدار",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      }
+    ],
+    "random_key": "c18e4942-ab60-4ea4-8ecb-ea1e2ace94fe",
+    "image_url": "https://image.torob.com/base/images/aW/v0/aWv0SiQPncjAAps9.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ زنانه کد 401280",
+    "group": "زنانه",
+    "product": "بلوز نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "1f91434b-a395-4658-84df-7c63653ea6c2",
+    "image_url": "https://image.torob.com/base/images/Gf/Z_/GfZ_6dJ65Bhs4DJq.webp"
+  },
+  {
+    "title": "اورال سرهمی سیملس ورزشی زنانه مدل CLT6845 یاسی",
+    "group": "زنانه",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "یاسی"
+        ]
+      }
+    ],
+    "random_key": "196cc6fc-4399-4591-aadf-0a27598ec79e",
+    "image_url": "https://image.torob.com/base/images/mB/pN/mBpNd09xIdWvPl-j.jpg"
+  },
+  {
+    "title": "کیمونو پارچه اسلپ چریکی طرح نایک 2",
+    "group": "نامشخص",
+    "product": "کیمونو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیمونو"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پارچه اسلپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چریکی",
+          "طرح نایک"
+        ]
+      }
+    ],
+    "random_key": "2104992e-e23f-478b-8b81-aa7e7bca6529",
+    "image_url": "https://image.torob.com/base/images/fi/6S/fi6SkTMjx5jkRtVM.webp"
+  },
+  {
+    "title": "کراپ ورزشی زنانه نایک مدل mub-NK-3811 مشکی",
+    "group": "زنانه",
+    "product": "کراپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "a5fbb4f9-3210-4b28-bd63-6142fe2d561d",
+    "image_url": "https://image.torob.com/base/images/ID/16/ID16MmJ-CqY6agyw.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه برند کریویت کد va1040",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "18d5f0ae-5875-4cc2-ae1f-462b22616ffa",
+    "image_url": "https://image.torob.com/base/images/_w/4B/_w4BrMKAlgdV3Uet.jpg"
+  },
+  {
+    "title": "بلوز باشگاهی فینگردار 38 تا 42",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز باشگاهی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38 تا 42"
+        ]
+      }
+    ],
+    "random_key": "56e11a35-79c9-4bbf-a5e6-e01bc6d64196",
+    "image_url": "https://image.torob.com/base/images/zT/kI/zTkIUyZrulzEHGla.jpg"
+  },
+  {
+    "title": "پیراهن اسپرت یقه اسکی دخترانه زنانه برند BERSHKA تونیک گرمکن ورزشی اورجینال حرفه ای برندبرشکا سایز 38-40",
+    "group": "دخترانه زنانه",
+    "product": "پیراهن اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن اسپرت",
+          "تونیک گرمکن ورزشی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه اسکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BERSHKA",
+          "برشکا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38-40"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال",
+          "حرفه ای"
+        ]
+      }
+    ],
+    "random_key": "9ee7b988-4960-41a5-9802-6829cdab4229",
+    "image_url": "https://image.torob.com/base/images/OB/ys/OBysnQSPKhjxUKvy.jpg"
+  },
+  {
+    "title": "آستین دار ورزشی زنانه برندCrivit",
+    "group": "زنانه",
+    "product": "آستین دار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستین دار ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Crivit"
+        ]
+      }
+    ],
+    "random_key": "bc191226-ee93-4703-af26-6bd9bd4a97a8",
+    "image_url": "https://image.torob.com/base/images/tp/bB/tpbB1I1MC254DEA_.jpg"
+  },
+  {
+    "title": "کاور ورزشی برند Barook زنانه",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Barook"
+        ]
+      }
+    ],
+    "random_key": "297b4ff2-5c62-473a-add2-3433911e2d0a",
+    "image_url": "https://image.torob.com/base/images/to/9-/to9-Zb-bNSdOzLJx.jpg"
+  },
+  {
+    "title": "اورال سرهمی ورزشی زنانه کد 006",
+    "group": "زنانه",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "816a84dd-d503-4cb5-9911-b4d90d40a676",
+    "image_url": "https://image.torob.com/base/images/Xk/9g/Xk9gWu46-L87v14V.jpg"
+  },
+  {
+    "title": "پلیور ورزشی زنانه برند کریویت کد va1290",
+    "group": "زنانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "eaff9540-e895-42d9-ab30-095303c74e57",
+    "image_url": "https://image.torob.com/base/images/CQ/iG/CQiG8ZuAkVNixB3y.jpg"
+  },
+  {
+    "title": "اورال ورزشی کوتاه وبلند",
+    "group": "نامشخص",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی"
+        ]
+      },
+      {
+        "name": "طول لباس",
+        "values": [
+          "کوتاه و بلند"
+        ]
+      }
+    ],
+    "random_key": "b56f3e59-d051-4e1a-8c0b-18c1fd4aab9d",
+    "image_url": "https://image.torob.com/base/images/Ta/ZJ/TaZJPit3qZhMuLMs.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه نایکی مدل کلاه دار کد 401204",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      }
+    ],
+    "random_key": "9ae75f98-fd85-475d-af44-5f37876d5e0f",
+    "image_url": "https://image.torob.com/base/images/7i/oW/7ioWtWgiTaN4_Nme.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0032",
+    "group": "زنانه",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی اسپرت ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ca60b840-bb68-4879-8208-fa560b749972",
+    "image_url": "https://image.torob.com/base/images/6U/jq/6Ujqf7z9KtLwfXPO.jpg"
+  },
+  {
+    "title": "اورال کوتاه اسپندکس",
+    "group": "نامشخص",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "اسپندکس"
+        ]
+      }
+    ],
+    "random_key": "2c25ed24-1580-4fc5-a190-4de28db2511a",
+    "image_url": "https://image.torob.com/base/images/R4/FP/R4FP7nj0SsN223ih.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ زنانه کد 401278",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "1a9d053b-0a9e-4669-9a5b-82ac514adb40",
+    "image_url": "https://image.torob.com/base/images/Dz/hO/DzhOZ-wBP7fVnnqO.jpg"
+  },
+  {
+    "title": "شلوار گرمکن ورزشی زنانه برند آدیداس اصل 5002988735",
+    "group": "زنانه",
+    "product": "شلوار گرمکن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار گرمکن ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      }
+    ],
+    "random_key": "741d10b2-aafb-4cb0-b6bb-4fb9884a7ac5",
+    "image_url": "https://image.torob.com/base/images/zr/a2/zra2nnYX8nJCVlLU.jpg"
+  },
+  {
+    "title": "بلوز آستین بلند ورزشی زنانه طرح آستین دو خط",
+    "group": "زنانه",
+    "product": "بلوز آستین بلند",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز آستین بلند ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آستین دو خط"
+        ]
+      }
+    ],
+    "random_key": "783b70df-7a59-4db5-bce2-63342851e4ec",
+    "image_url": "https://image.torob.com/base/images/Pi/t4/Pit4yz6DYvVwCyGj.webp"
+  },
+  {
+    "title": "سرهمی ورزشی زنانه مدل پشت کش دار",
+    "group": "زنانه",
+    "product": "سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پشت کش دار"
+        ]
+      }
+    ],
+    "random_key": "ac717012-ff8b-4e23-b363-c63a5dc77d4d",
+    "image_url": "https://image.torob.com/base/images/Vj/S0/VjS0SRbU-YD4dhUG.jpg"
+  },
+  {
+    "title": "جلیقه ورزشی زنانه بروکس 221556223",
+    "group": "زنانه",
+    "product": "جلیقه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      }
+    ],
+    "random_key": "9af8d1d5-761a-4736-ae9a-ed2b9ecc8628",
+    "image_url": "https://image.torob.com/base/images/R8/Hg/R8Hg3zL--c9lIRoh.jpg"
+  },
+  {
+    "title": "کاور سوزنی ورزشی اورجینال RACETRACKERS",
+    "group": "نامشخص",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور سوزنی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "RACETRACKERS"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "8624b94f-86b7-44c9-8cf9-4388bb95809d",
+    "image_url": "https://image.torob.com/base/images/0y/I7/0yI7ygDY5OUxYqq8.jpg"
+  },
+  {
+    "title": "کاور ورزشی زنانه مایا در 4 رنگ از برند اتم",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "4 رنگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اتم"
+        ]
+      }
+    ],
+    "random_key": "1773604c-e30c-4a41-8266-f8b3f0637a3c",
+    "image_url": "https://image.torob.com/base/images/Oz/m2/Ozm2jvohPI41EK2O.jpg"
+  },
+  {
+    "title": "نیم زیپ ورزشی زنانه بروکس - X",
+    "group": "زنانه",
+    "product": "نیم زیپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      }
+    ],
+    "random_key": "a01bbc06-51c1-4971-9f01-22b06a4217bc",
+    "image_url": "https://image.torob.com/base/images/IT/3K/IT3KDK9sVP3Le-Sf.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه نایکی کد 4012",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "caf69ab3-758c-4fb1-bf2e-76b097fc7008",
+    "image_url": "https://image.torob.com/base/images/s3/Pt/s3Pt-WGnagZsq_8n.jpg"
+  },
+  {
+    "title": "بادگیر ورزشی بروکس زنانه Brooks All Altitude Jacket قرمز",
+    "group": "زنانه",
+    "product": "بادگیر ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "938781af-ca5b-4b9c-867a-d72e6e67f13b",
+    "image_url": "https://image.torob.com/base/images/zd/zC/zdzC_UiduPVH5GXl.jpg"
+  },
+  {
+    "title": "اورال اسپندکس ورزشی زنانه کد 007",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "اسپندکس"
+        ]
+      }
+    ],
+    "random_key": "8529d91f-734b-4fba-89f4-35e1c5b9ebba",
+    "image_url": "https://image.torob.com/base/images/ch/Qq/chQqOcXWL-Z6ma2R.jpg"
+  },
+  {
+    "title": "استرج نیم زیپ زنانه",
+    "group": "زنانه",
+    "product": "استرج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استرج نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "2ca8ed96-227d-4c3d-9561-ba5265f66abd",
+    "image_url": "https://image.torob.com/base/images/do/Zz/doZzay2wzzubdW1Q.webp"
+  },
+  {
+    "title": "کاور توری کلاهدار ورزشی زنانه مدل PB-1K735 مشکی",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور توری ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "264fb6c9-0a27-4b31-86d6-5de7315d8a99",
+    "image_url": "https://image.torob.com/base/images/Rh/3H/Rh3Ho0_oaKpiKE8E.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه سیملس، یقه هفت، مدل سرهمی ضربدری، پشت کش دار، طرح پوما کد 200184",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی",
+          "سرهمی ضربدری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه هفت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پشت کش دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      }
+    ],
+    "random_key": "e97e8ff4-eb92-4110-ae85-813947271ffc",
+    "image_url": "https://image.torob.com/base/images/gQ/v4/gQv4LPLDpxDVIHV3.webp"
+  },
+  {
+    "title": "گرمکن ورزشی زنانه مدل MDSS-AT8255",
+    "group": "زنانه",
+    "product": "گرمکن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گرمکن ورزشی"
+        ]
+      }
+    ],
+    "random_key": "51dbdff0-559b-4c1e-9cff-d75acddf820c",
+    "image_url": "https://image.torob.com/base/images/Jg/ZP/JgZPU9St7v_3KeNb.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه نایکی مدل کلاه دار کد 401206",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      }
+    ],
+    "random_key": "1b87b5b8-a008-401c-8426-2f89d136d811",
+    "image_url": "https://image.torob.com/base/images/gy/s4/gys4f-NGhIziqePL.jpg"
+  },
+  {
+    "title": "بادی زیپدار قزندار کد 415 ( تک عددی )",
+    "group": "نامشخص",
+    "product": "بادی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپدار"
+        ]
+      }
+    ],
+    "random_key": "6e808731-d1f2-4e70-b000-e5091224f74c",
+    "image_url": "https://image.torob.com/base/images/o1/5p/o15pzDAPFg78tMMi.jpg"
+  },
+  {
+    "title": "بلوز بیس لایر زنانه Teknur مدل TE-3567",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز بیس لایر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Teknur"
+        ]
+      }
+    ],
+    "random_key": "3cd90829-f908-43a0-ae64-1e17ba99ec66",
+    "image_url": "https://image.torob.com/base/images/H2/NO/H2NO6sg2elDzCpow.jpg"
+  },
+  {
+    "title": "لباس ورزشی با کیفیت عالی برای زنان - سرهمی و بادی با قابلیت لیفتینگ - لباس فعال زنانه برند bona fide",
+    "group": "زنانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی",
+          "بادی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "bona fide"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لیفتینگ"
+        ]
+      }
+    ],
+    "random_key": "51bc239f-4627-4c56-95aa-4eb8c9f7dbee",
+    "image_url": "https://image.torob.com/base/images/Xg/4L/Xg4LxgJ7JOrJoN-B.jpg"
+  },
+  {
+    "title": "کاردیگان ورزشی زنانه برند syltfit کد 97619TT",
+    "group": "زنانه",
+    "product": "کاردیگان ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاردیگان ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "syltfit"
+        ]
+      }
+    ],
+    "random_key": "137f572c-0953-45a1-a165-d87dc8ded8e9",
+    "image_url": "https://image.torob.com/base/images/gA/Hz/gAHzy_56cXA105Zv.webp"
+  },
+  {
+    "title": "بلوز تیشرت آستین بلند فینگری انگشتی نیم زیپ فلامنت ورزشی سایز بزرگ فری سایز ۴۴ تا ۴۸",
+    "group": "نامشخص",
+    "product": "بلوز تیشرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز تیشرت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند فینگری",
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز 44 تا 48"
+        ]
+      }
+    ],
+    "random_key": "ad5941b8-29a0-4f57-9d5c-eefe8a09955f",
+    "image_url": "https://image.torob.com/base/images/sa/6L/sa6L1TOKe5a3Wy25.jpg"
+  },
+  {
+    "title": "دامن ورزشی جیبدار دوزیپ زنانه CW4 هیمالیا",
+    "group": "زنانه",
+    "product": "دامن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ورزشی"
+        ]
+      },
+      {
+        "name": "تعداد جیب",
+        "values": [
+          "جیبدار دوزیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      }
+    ],
+    "random_key": "830626e7-d74d-4692-bf9c-bfb8e22a1c04",
+    "image_url": "https://image.torob.com/base/images/UV/xf/UVxfYA7K7_fKSjoO.jpg"
+  },
+  {
+    "title": "کاور کلاهدار ورزشی زنانه NIKE کد 005",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "2fada0aa-fb76-4aa4-a2ab-b1266dfc26a3",
+    "image_url": "https://image.torob.com/base/images/XH/aF/XHaFpYrtzpsPqK1-.jpg"
+  },
+  {
+    "title": "کاور ورزشی طرح نایکی باروک زنانه",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "باروک"
+        ]
+      }
+    ],
+    "random_key": "d87eb6ab-1c14-494c-a192-61d7bff791b9",
+    "image_url": "https://image.torob.com/base/images/BM/Fu/BMFutI4oagDp_33D.jpg"
+  },
+  {
+    "title": "کاور ورزشی نایک NIKE سفید کد VM711",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "NIKE"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "4f0e7231-6927-434c-852c-3d69b966956f",
+    "image_url": "https://image.torob.com/base/images/r5/rA/r5rANIPtIw5OkU8C.jpg"
+  },
+  {
+    "title": "سرهمی کوتاه زنانه فانریپ پنبه کشی اورال اسپرت ورزشی",
+    "group": "زنانه",
+    "product": "سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فانریپ پنبه کشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "e36b2315-3d13-4e9e-b299-d65bf4bfec34",
+    "image_url": "https://image.torob.com/base/images/dY/hl/dYhlk4idwMfVJ8sE.jpg"
+  },
+  {
+    "title": "بایکر ورزشی زنانه نایک مشکی سایز بزرگ BN-K14",
+    "group": "زنانه",
+    "product": "بایکر ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بایکر ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز بزرگ"
+        ]
+      }
+    ],
+    "random_key": "196259ed-68a5-4f37-94d2-11ff7e703981",
+    "image_url": "https://image.torob.com/base/images/-o/v6/-ov6SAGobgFuz_3j.webp"
+  },
+  {
+    "title": "دامن زیره دار ورزشی پارچه مش گرم بالا فول لاکرا (رنگبندی)",
+    "group": "نامشخص",
+    "product": "دامن ورزشی",
+    "entities": [
+      {
+        "name": "دومین نوع",
+        "values": [
+          "دامن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیره دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مش",
+          "فول لاکرا"
+        ]
+      }
+    ],
+    "random_key": "4ec5f630-e7cb-487a-acc3-e2ae00395080",
+    "image_url": "https://image.torob.com/base/images/T7/Da/T7DaibeAWOvwA8R1.jpg"
+  },
+  {
+    "title": "دامن ورزشی زنانه",
+    "group": "زنانه",
+    "product": "دامن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ورزشی"
+        ]
+      }
+    ],
+    "random_key": "4027378d-987b-4500-9478-851d2e23a33a",
+    "image_url": "https://image.torob.com/base/images/bK/RK/bKRK_hiiL1--yLPE.jpg"
+  },
+  {
+    "title": "جلیقه ورزشی زنانه بروکس مدل Brooks Men's Carbonite Vest|",
+    "group": "زنانه",
+    "product": "جلیقه ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس",
+          "Brooks"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "Brooks Men's Carbonite Vest"
+        ]
+      }
+    ],
+    "random_key": "f445f6fc-a0ce-44cd-9fae-fc0b87ad89d5",
+    "image_url": "https://image.torob.com/base/images/P7/6Q/P76QCh7iF9csA9FJ.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه سیملس کوتاه زیپدار-کاپدار-در 6 رنگ بندی مختلف",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کاپ دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "6 رنگ بندی مختلف"
+        ]
+      }
+    ],
+    "random_key": "38c6eed2-804a-44ff-8e4b-b6c17d8145f5",
+    "image_url": "https://image.torob.com/base/images/U9/w_/U9w_dPzboVhD4mp3.jpg"
+  },
+  {
+    "title": "کراپ زنانه و دخترانه اسپرت طرح سوزان iren",
+    "group": "زنانه و دخترانه",
+    "product": "کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سوزان"
+        ]
+      }
+    ],
+    "random_key": "d2051228-ab28-483e-988f-8bbbb0ff026e",
+    "image_url": "https://image.torob.com/base/images/Fy/m_/Fym_41WOAaKuIPih.jpg"
+  },
+  {
+    "title": "پیرهن ورزشی زنانه",
+    "group": "زنانه",
+    "product": "پیرهن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیرهن ورزشی"
+        ]
+      }
+    ],
+    "random_key": "7e143571-9b31-47e2-8043-ef4aa5da7536",
+    "image_url": "https://image.torob.com/base/images/gu/5A/gu5Ak7LTZ9v6OWK6.jpg"
+  },
+  {
+    "title": "اورال ورزشی سیملس زنانه برند alo - مشکی /",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "alo"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "a60418cc-6dce-4776-8caa-2ac8505056b1",
+    "image_url": "https://image.torob.com/base/images/n6/od/n6odnKqrKlxIPTcC.jpg"
+  },
+  {
+    "title": "سویشرت ورزشی زنانه کرویت رنگ مشکی کد va152",
+    "group": "زنانه",
+    "product": "سویشرت ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سویشرت ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کرویت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "f78eaa95-2be8-4c45-b9f0-29087bb37bea",
+    "image_url": "https://image.torob.com/base/images/3x/Q8/3xQ8-ILfUClk-YAy.jpg"
+  },
+  {
+    "title": "اورال سرهمی ورزشی زنانه NIKE کد 0012",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی",
+          "سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "c63d91a9-d5d1-4b41-9dd9-712edeb126d9",
+    "image_url": "https://image.torob.com/base/images/2E/Vu/2EVuv2D08iGy_V9K.jpg"
+  },
+  {
+    "title": "تونیک ورزشی هلالی آدیداس فینگری نیم زیپ TN-37",
+    "group": "نامشخص",
+    "product": "تونیک ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هلالی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگری"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "fca3fbad-ff66-4413-a06a-cae2f4819b71",
+    "image_url": "https://image.torob.com/base/images/65/0X/650XGa4Mr_UshQ_S.webp"
+  },
+  {
+    "title": "بلوز نیم زیپ ورزشی زنانه برند کریویت کد ۳۷۰۳۶۹۲",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "8bd5e3ec-46c0-470e-8563-c82e865edb12",
+    "image_url": "https://image.torob.com/base/images/AO/ea/AOeavNpT0QbFk31S.jpg"
+  },
+  {
+    "title": "آستین دار ورزشی زنانه برند BROOKS",
+    "group": "زنانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "BROOKS"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین دار"
+        ]
+      }
+    ],
+    "random_key": "b10ef275-92ab-4675-a0a5-782cf9f42c5b",
+    "image_url": "https://image.torob.com/base/images/Ne/vI/NevIihlbuIuL6o3J.jpg"
+  },
+  {
+    "title": "اورال ورزشی",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "d7e4aba2-cd87-4653-9b1f-fa438bd16df0",
+    "image_url": "https://image.torob.com/base/images/N-/AV/N-AVjT-_-ZqRW3HG.jpg"
+  },
+  {
+    "title": "کاور ورزشی",
+    "group": "نامشخص",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "e6ccb0b4-34eb-45ea-96d8-3f3098a58a9f",
+    "image_url": "https://image.torob.com/base/images/E2/2Q/E22QZwwSLGAXpkoN.jpg"
+  },
+  {
+    "title": "تونیک دامنی تنیس زنانه NIKE کد 004",
+    "group": "زنانه",
+    "product": "تونیک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دامنی تنیس"
+        ]
+      }
+    ],
+    "random_key": "a8e45569-19b6-4d7e-86c9-7da63d2efe89",
+    "image_url": "https://image.torob.com/base/images/9Q/pg/9QpgAAjnavI2_lHg.jpg"
+  },
+  {
+    "title": "کاور ورزشی زنانه DOT Line در 4 رنگ از ملانژ",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "DOT Line"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ملانژ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "e0f35a12-d8e3-4286-95f8-f610b9d63035",
+    "image_url": "https://image.torob.com/base/images/5A/TS/5ATS7tebnhopijqG.jpg"
+  },
+  {
+    "title": "تونیک ورزشی زنانه 6013",
+    "group": "زنانه",
+    "product": "تونیک ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی"
+        ]
+      }
+    ],
+    "random_key": "57f72c8d-3663-4d8f-bb5c-763cff4e68cf",
+    "image_url": "https://image.torob.com/base/images/kq/Qx/kqQx5UdsNZOJBzDN.jpg"
+  },
+  {
+    "title": "کاور ورزشی زنانه ریبوک - زرد / فری سایز",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ریبوک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "24c8f4bd-2fa1-4e6f-84bc-6da2ed526434",
+    "image_url": "https://image.torob.com/base/images/1g/ii/1giiIigISggC3el1.jpg"
+  },
+  {
+    "title": "اورال اسپرت مناسب فصل",
+    "group": "نامشخص",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "مناسب فصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال"
+        ]
+      }
+    ],
+    "random_key": "de106e7e-5b0c-4118-86d0-483b5cf24ebb",
+    "image_url": "https://image.torob.com/base/images/_8/PD/_8PDRNlLaMozoABA.jpg"
+  },
+  {
+    "title": "اورال جلو زیپ مناسب سایز 34.36.38.40لاغر",
+    "group": "نامشخص",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جلو زیپ"
+        ]
+      }
+    ],
+    "random_key": "d5ca766a-688a-46d9-ab9b-46475088ceed",
+    "image_url": "https://image.torob.com/base/images/kv/6x/kv6xNxQwpmjjDyvK.jpg"
+  },
+  {
+    "title": "اورال ورزشی آستین بلند یقه خشتی 5022",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه خشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ed97a564-1ad1-48ad-834d-fe650093bef6",
+    "image_url": "https://image.torob.com/base/images/B1/88/B188oMgeZpM9N-Rm.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه یقه سه سانت 36 تا 46",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "36 تا 46"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه سه سانت"
+        ]
+      }
+    ],
+    "random_key": "e78ee720-fd4d-4103-a90e-ed97dc0902c8",
+    "image_url": "https://image.torob.com/base/images/M5/MD/M5MDa9m2yxh3cqdG.jpg"
+  },
+  {
+    "title": "دامن ورزشی زنانه برند NIKE",
+    "group": "زنانه",
+    "product": "دامن ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "9477117c-22a4-4c55-b30a-9c8b9218be03",
+    "image_url": "https://image.torob.com/base/images/3L/VW/3LVW4lCbjcx0A6Qy.jpg"
+  },
+  {
+    "title": "آستین بلند استرج انگشتی از m تا 2xl",
+    "group": "نامشخص",
+    "product": "آستین بلند",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "m تا 2xl"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند",
+          "انگشتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "استرج"
+        ]
+      }
+    ],
+    "random_key": "8014cfb9-33a5-4410-be8b-a1683afd1871",
+    "image_url": "https://image.torob.com/base/images/Op/Xq/OpXqV_I_tBuV_RtU.jpg"
+  },
+  {
+    "title": "بادی آستین بلند ورزشی زنانه مدل 100",
+    "group": "زنانه",
+    "product": "بادی ورزشی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      }
+    ],
+    "random_key": "7b488979-a671-4c92-9363-e2adcef90ad6",
+    "image_url": "https://image.torob.com/base/images/M-/wB/M-wBhb2x-Akydpue.jpg"
+  },
+  {
+    "title": "تیشرت شلوار پوما زنانه",
+    "group": "زنانه",
+    "product": "تیشرت شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      }
+    ],
+    "random_key": "6d7e6ea5-6723-4f62-90d9-d8dff42d0888",
+    "image_url": "https://image.torob.com/base/images/vT/ad/vTadFcUbx-mat5WE.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0017",
+    "group": "زنانه",
+    "product": "اورال سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی"
+        ]
+      }
+    ],
+    "random_key": "7ae7a0a6-29f8-4cc0-a0ef-6a52134d8804",
+    "image_url": "https://image.torob.com/base/images/bH/Nd/bHNd_MRWeH2lriQj.jpg"
+  },
+  {
+    "title": "کراپ تاپ ورزشی زنانه حلقه ای پایه بلند",
+    "group": "زنانه",
+    "product": "کراپ تاپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ تاپ ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "حلقه ای"
+        ]
+      }
+    ],
+    "random_key": "69b15867-cd80-4abb-a1d6-da729bb7c730",
+    "image_url": "https://image.torob.com/base/images/5A/7Y/5A7Y7tVTc-qYYd6J.webp"
+  },
+  {
+    "title": "بلوز زنانه ورزشی فینگری نیم زیپ باشگاه",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگری"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "369da0e2-dd1e-4f3d-9213-852518d95097",
+    "image_url": "https://image.torob.com/base/images/Qi/kh/QikhpGfuBqBp3XuE.jpg"
+  },
+  {
+    "title": "بادگیر ورزشی زنانه کریویت پرو crivit pro کد criv3001",
+    "group": "زنانه",
+    "product": "بادگیر ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت پرو crivit pro"
+        ]
+      }
+    ],
+    "random_key": "a33ca969-a07c-4748-8efa-7f3199c60e66",
+    "image_url": "https://image.torob.com/base/images/qJ/qf/qJqfRxy-ptVJtAsp.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه مدل بند پشت گره ای 5012",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "3c1b3c9f-2db7-4193-b05d-9a901a15ea46",
+    "image_url": "https://image.torob.com/base/images/rB/Os/rBOsgCWbi8XXejpc.jpg"
+  },
+  {
+    "title": "کاور کراپ کیمونو ورزشی نایک",
+    "group": "نامشخص",
+    "product": "کاور کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور کراپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "d4858554-60df-4055-a7fb-b107d62fd597",
+    "image_url": "https://image.torob.com/base/images/c9/B5/c9B52hqU1t-8Pl6n.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه alo کد 004",
+    "group": "زنانه",
+    "product": "اورال سرهمی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی اسپرت ورزشی"
+        ]
+      }
+    ],
+    "random_key": "3dcd26e5-543f-485c-8713-35ce4d8382a7",
+    "image_url": "https://image.torob.com/base/images/De/-t/De-trxTKTwQPUyN-.jpg"
+  },
+  {
+    "title": "کاور ورزشی زنانه نایک کد 404132",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "09aa7fea-7754-420b-8173-7e943c4f3988",
+    "image_url": "https://image.torob.com/base/images/pR/n8/pRn81PQ29OW-xepZ.jpg"
+  },
+  {
+    "title": "تونیک فینگردار ورزشی زنانه NIKE کد 004",
+    "group": "زنانه",
+    "product": "تونیک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "32315587-d748-4fe6-b681-cffd5621ab36",
+    "image_url": "https://image.torob.com/base/images/d7/LA/d7LAk9h9wwAXmBSv.jpg"
+  },
+  {
+    "title": "اورال ورزشی سیملس کبریتی بند دوبل ضربدری",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس",
+          "کبریتی"
+        ]
+      }
+    ],
+    "random_key": "a0d824bd-9f2b-48f8-a373-9987309efccb",
+    "image_url": "https://image.torob.com/base/images/B4/2d/B42dxxBwObuJIZFy.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ فلامنت",
+    "group": "نامشخص",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت"
+        ]
+      }
+    ],
+    "random_key": "c5a78ecf-86ff-4a4f-8990-4d16b5108b86",
+    "image_url": "https://image.torob.com/base/images/hI/Ij/hIIjb57CVYUdxayj.jpg"
+  },
+  {
+    "title": "استرج آستین بلند ورزشی زنانه نایک مدل PY-2B2156 مشکی",
+    "group": "زنانه",
+    "product": "استرج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استرج ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "21f80e24-a8fb-4aea-aaaa-79f76ad4cc25",
+    "image_url": "https://image.torob.com/base/images/p9/Y2/p9Y2dtHwbk7axJ33.jpg"
+  },
+  {
+    "title": "کاور ورزشی طرح نایکی باروک زنانه",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      }
+    ],
+    "random_key": "b84d6315-259b-4ab5-92b0-7909cf44f843",
+    "image_url": "https://image.torob.com/base/images/w_/Qw/w_Qw9Jb0nZQze_K0.jpg"
+  },
+  {
+    "title": "کاور ورزشی،کاور باشگاهی،تاپ دوتیکه،تاپ ورزشی",
+    "group": "نامشخص",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی",
+          "کاور باشگاهی",
+          "تاپ دوتیکه",
+          "تاپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "2a574eb6-f3ec-4db9-a073-d4fb338cde3a",
+    "image_url": "https://image.torob.com/base/images/rT/3P/rT3P4T-YVU5CvXGo.jpg"
+  },
+  {
+    "title": "بادگیر ورزشی زنانه بروکس 221520414",
+    "group": "زنانه",
+    "product": "بادگیر ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      }
+    ],
+    "random_key": "0789f9c1-94ab-4b90-b1de-6d736216352d",
+    "image_url": "https://image.torob.com/base/images/eE/F8/eEF8hAw1L45Rgo8l.jpg"
+  },
+  {
+    "title": "لباس زنانه تراپیزی تامی هیلفیگر",
+    "group": "زنانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تامی هیلفیگر"
+        ]
+      }
+    ],
+    "random_key": "c1d6941f-21be-407d-8185-665d015e7bd3",
+    "image_url": "https://image.torob.com/base/images/oq/73/oq731c6ZawDR4fTq.jpg"
+  },
+  {
+    "title": "دامن ورزشی زنانه کرویت مدل 415263968574",
+    "group": "زنانه",
+    "product": "دامن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کرویت"
+        ]
+      }
+    ],
+    "random_key": "5ed2742c-56eb-4e61-95d9-7a089c6995ca",
+    "image_url": "https://image.torob.com/base/images/rt/XB/rtXBXlcsUd-bIlt_.jpg"
+  },
+  {
+    "title": "بلوز ورزشی نایک کد 401289",
+    "group": "نامشخص",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "16d7ada4-96ee-4864-8476-29d1d882d68d",
+    "image_url": "https://image.torob.com/base/images/3-/3r/3-3rRQz8UQ-c0hKf.jpg"
+  },
+  {
+    "title": "کاور ورزشی زنانه طرح نایک یونیک اسپرت NZD | صورتی روشن",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک یونیک اسپرت NZD"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی روشن"
+        ]
+      }
+    ],
+    "random_key": "fd429ed5-b401-4942-97ca-1c766fc22485",
+    "image_url": "https://image.torob.com/base/images/Wq/0w/Wq0wL35BrrFNZAgn.webp"
+  },
+  {
+    "title": "اورال بلند ورزشی سیملس کد 2002",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال بلند ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      }
+    ],
+    "random_key": "c87ce8d3-ada8-4108-9d05-a35b8f9eb10e",
+    "image_url": "https://image.torob.com/base/images/Rz/nc/RzncqPwEEYm2I_CA.jpg"
+  },
+  {
+    "title": "بلوز استین بلند فینگردار ورزشی زنانه بروکس",
+    "group": "زنانه",
+    "product": "بلوز ورزشی زنانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "استین بلند فینگردار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      }
+    ],
+    "random_key": "d11e6be9-2da5-466f-8e36-a979e3e80641",
+    "image_url": "https://image.torob.com/base/images/KP/Zg/KPZgiXqfzD7muEOJ.jpg"
+  },
+  {
+    "title": "اورال ورزشی دمپا آستین بلند",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      }
+    ],
+    "random_key": "f71e3ed0-55d2-48fa-a3ff-cd63d8c3accd",
+    "image_url": "https://image.torob.com/base/images/-y/V6/-yV6X_hJuZEqmZJZ.jpg"
+  },
+  {
+    "title": "نیم زیپ ورزشی زنانه",
+    "group": "زنانه",
+    "product": "نیم زیپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      }
+    ],
+    "random_key": "0d8144df-7b15-41f1-b479-7a71248f79b0",
+    "image_url": "https://image.torob.com/base/images/xe/i4/xei4HEwCEw3mbNbb.jpg"
+  },
+  {
+    "title": "اورال ورزشی",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "60d181c2-634a-43c3-a522-12598c5d8d25",
+    "image_url": "https://image.torob.com/base/images/73/r9/73r9cCfPaHuqwdJz.jpg"
+  },
+  {
+    "title": "اورال ورزشی",
+    "group": "نامشخص",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "2559b6da-53f7-477f-9baa-bd4cc71cc475",
+    "image_url": "https://image.torob.com/base/images/dd/Lc/ddLckdnO44gIOxkU.jpg"
+  },
+  {
+    "title": "بلوز بیس زنانه crivit مدل pro running نیم زیپ",
+    "group": "زنانه",
+    "product": "بلوز بیس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز بیس نیم زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "crivit"
+        ]
+      }
+    ],
+    "random_key": "71a54ebb-ffbd-4cfa-8fd4-a65d4ea952cf",
+    "image_url": "https://image.torob.com/base/images/SQ/M-/SQM-9P8NL-2ASEwh.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0023",
+    "group": "زنانه",
+    "product": "اورال سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی اسپرت ورزشی"
+        ]
+      }
+    ],
+    "random_key": "12deb506-db88-4f27-be63-3ecff93abee6",
+    "image_url": "https://image.torob.com/base/images/bE/R0/bER0SSh8ZbFIDK-C.jpg"
+  },
+  {
+    "title": "بلوز استین کوتاه کد 100218 ( تک عددی )",
+    "group": "نامشخص",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "استین کوتاه"
+        ]
+      }
+    ],
+    "random_key": "2a80fa57-fedd-4715-8edb-bd03e8343206",
+    "image_url": "https://image.torob.com/base/images/N6/Qt/N6Qt6KFGT-Tb7-t6.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه بروکس ۱۶۰۱ - S",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      }
+    ],
+    "random_key": "3372b348-3af8-4d1d-af67-1957152b4a29",
+    "image_url": "https://image.torob.com/base/images/gI/Z7/gIZ7x7hj3hk3kvfV.jpg"
+  },
+  {
+    "title": "Spor شلوار زنانه برند نورث فیس The North Face اصل NF0A34VXKY41TF73",
+    "group": "زنانه",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      }
+    ],
+    "random_key": "f83055a9-9f37-4c6d-bc3f-de834e356565",
+    "image_url": "https://image.torob.com/base/images/Jw/yJ/JwyJzobqHUdXfyio.jpg"
+  },
+  {
+    "title": "سویشرت ورزشی سبز زنانه گرمی نصف زیپ پیراهن Mizuno",
+    "group": "زنانه",
+    "product": "سویشرت ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سویشرت ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نصف زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Mizuno"
+        ]
+      }
+    ],
+    "random_key": "bb577409-6c5c-4e67-9a36-240b1eaa42f8",
+    "image_url": "https://image.torob.com/base/images/yC/gf/yCgfK_rHR3NJ6IN2.jpg"
+  },
+  {
+    "title": "کاور یقه قهرمانی",
+    "group": "نامشخص",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه قهرمانی"
+        ]
+      }
+    ],
+    "random_key": "da2ee253-9bfc-455a-bc90-dc58e4985e74",
+    "image_url": "https://image.torob.com/base/images/FN/LS/FNLSgIsStEyRwK2o.jpg"
+  },
+  {
+    "title": "دامن ورزشی زنانه دکتلون",
+    "group": "زنانه",
+    "product": "دامن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون"
+        ]
+      }
+    ],
+    "random_key": "9bc88822-1066-4437-bfa1-de5ad847f6f6",
+    "image_url": "https://image.torob.com/base/images/zn/70/zn70owWVWZz1E3WT.jpg"
+  },
+  {
+    "title": "کاور یا رکابی ورزشی طرحدار مدل پشت کشی در 5 طرح سایز بندی 40،42،44",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی",
+          "رکابی ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار",
+          "پشت کشی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "42",
+          "44"
+        ]
+      }
+    ],
+    "random_key": "9bec2d42-41de-48cf-ac19-cf2fd4715a00",
+    "image_url": "https://image.torob.com/base/images/nD/KV/nDKViC_AXJ1NBgxa.jpg"
+  },
+  {
+    "title": "بلوز آستین بلند ورزشی زنانه NIKE کد 001",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "c4be8547-de3f-44e3-a006-4b4afb162cdf",
+    "image_url": "https://image.torob.com/base/images/oz/1E/oz1EsyRoSNyAGbHd.jpg"
+  },
+  {
+    "title": "تونیک ورزشی زنانه یونی پرو Unipro کد 812424301",
+    "group": "زنانه",
+    "product": "تونیک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "یونی پرو Unipro"
+        ]
+      }
+    ],
+    "random_key": "54648dac-28a0-4ac5-b25d-a5b94a21b2f0",
+    "image_url": "https://image.torob.com/base/images/tm/la/tmlaJAMG-JjqdaA8.jpg"
+  },
+  {
+    "title": "کاور ورزشی",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "80b3e385-e14e-484c-99fe-7d02b35978a0",
+    "image_url": "https://image.torob.com/base/images/e4/-s/e4-sKkSkoJlStlKb.jpg"
+  },
+  {
+    "title": "دامن ورزشی ریسا مدل 1101",
+    "group": "زنانه",
+    "product": "دامن ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ریسا"
+        ]
+      }
+    ],
+    "random_key": "b608007e-e3fa-4429-84fd-0b1a56907273",
+    "image_url": "https://image.torob.com/base/images/0J/Yc/0JYcvsLY-v-eoQXM.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه مدل فینگر دار کد 4011",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      }
+    ],
+    "random_key": "14e037c3-3116-41ed-9da1-e2c085505ea8",
+    "image_url": "https://image.torob.com/base/images/Sp/za/Spzat3tgbd-3_jwD.webp"
+  },
+  {
+    "title": "اورال سیملس اورجینال ورزشی زنانه کد 002",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "21c2339b-8b4e-4ed8-9f94-a5ad6b7db7c3",
+    "image_url": "https://image.torob.com/base/images/aD/7C/aD7CF7dGVWpVM_C4.jpg"
+  },
+  {
+    "title": "لباس ورزشی 3613-23 زیپ جانبی سایز بزرگ زنانه برند ADROM به رنگ سبز",
+    "group": "زنانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بزرگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیپ جانبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ADROM"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "755072d1-5b90-489a-adfc-bf3b4783d18d",
+    "image_url": "https://image.torob.com/base/images/eU/My/eUMyvwWkJBvOaK00.webp"
+  },
+  {
+    "title": "نیم زیپ آستین فینگردار زنانه",
+    "group": "زنانه",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      }
+    ],
+    "random_key": "d086a94e-a38e-41bd-8f20-ca30aa688d0f",
+    "image_url": "https://image.torob.com/base/images/de/yB/deyBw3N-xenrLajF.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ ورزشی زنانه برند کریویت کد ۳۰۵۲۰۰۳",
+    "group": "زنانه",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      }
+    ],
+    "random_key": "a9c640c1-8c8f-4cf5-9d0c-d978eb090d17",
+    "image_url": "https://image.torob.com/base/images/Ud/_d/Ud_d38PaEEBnCse4.jpg"
+  },
+  {
+    "title": "کاور ورزشی طرح نایکی باروک زنانه",
+    "group": "زنانه",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نایکی باروک"
+        ]
+      }
+    ],
+    "random_key": "f35700b2-d12d-4853-bb9c-d0c643c0298a",
+    "image_url": "https://image.torob.com/base/images/U-/LT/U-LTz_x78vilrSyO.jpg"
+  },
+  {
+    "title": "کیمونو کلاهدار ورزشی زنانه 405182",
+    "group": "زنانه",
+    "product": "کیمونو ورزشی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      }
+    ],
+    "random_key": "1ecede97-a064-42a9-b92a-fd3aa0f57a9e",
+    "image_url": "https://image.torob.com/base/images/1q/zJ/1qzJqdNOCOepXeuB.jpg"
+  },
+  {
+    "title": "کراپ ورزشی زنانه نایک مدل mub-NK-3811 طوسی",
+    "group": "زنانه",
+    "product": "کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "357117c3-dde1-42b5-9c3b-f04b1c22fd1e",
+    "image_url": "https://image.torob.com/base/images/mf/pu/mfpuMURiO1aOvcp-.jpg"
+  },
+  {
+    "title": "دویدن پایین تنه گرمکن ورزشی زنانه رگولار ال سی وایکیکی W4LB71Z8 | LC WAIKIKI",
+    "group": "زنانه",
+    "product": "گرمکن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گرمکن ورزشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "رگولار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی LC WAIKIKI"
+        ]
+      }
+    ],
+    "random_key": "1f48b98d-6f69-44be-8889-32335c84a971",
+    "image_url": "https://image.torob.com/base/images/Uf/5n/Uf5nS2kliA_82Pcd.jpg"
+  },
+  {
+    "title": "استرج نیم زیپ زنانه سفید",
+    "group": "زنانه",
+    "product": "استرج",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استرج ورزشی",
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "fe4f809e-b4fb-4d62-9035-001322675442",
+    "image_url": "https://image.torob.com/base/images/Dm/Jx/DmJxsQKV68eEOpRW.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه سیملس کد 402140",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      }
+    ],
+    "random_key": "c2f35baa-42fb-4baa-8fb4-843e97105d7a",
+    "image_url": "https://image.torob.com/base/images/tL/it/tLit0m8vbwbCFmHy.webp"
+  },
+  {
+    "title": "بلوز ورزشی زنانه نایکی کد 401232",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      }
+    ],
+    "random_key": "e9d6d462-d3f8-4f1d-8196-252f0a335909",
+    "image_url": "https://image.torob.com/base/images/aS/aR/aSaR22I28-1Za5E2.jpg"
+  },
+  {
+    "title": "اورال (سرهمی) ورزشی زنانه سیملس کد 50032",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سیملس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی",
+          "سرهمی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "d4cca7e9-d03f-4f96-8287-4ffe955a0432",
+    "image_url": "https://image.torob.com/base/images/fd/HK/fdHKjuPZVCHlf2rK.webp"
+  },
+  {
+    "title": "سرهمی اورال ورزشی غواصی کره ای عالی فری ۳۶ تا ۴۲ تن شیک - شماره ۳",
+    "group": "نامشخص",
+    "product": "سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "غواصی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری 36 تا 42"
+        ]
+      },
+      {
+        "name": "کشور تولید کننده",
+        "values": [
+          "کره ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی ورزشی",
+          "اورال ورزشی"
+        ]
+      }
+    ],
+    "random_key": "bca85473-e851-4829-9289-63106c7b740c",
+    "image_url": "https://image.torob.com/base/images/jG/3L/jG3LQohPTIYojBGr.jpg"
+  },
+  {
+    "title": "کراپ دامن شورتی باشگاهی وارداتی درجه 1",
+    "group": "نامشخص",
+    "product": "کراپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ"
+        ]
+      },
+      {
+        "name": "مورد استفاده",
+        "values": [
+          "باشگاهی"
+        ]
+      }
+    ],
+    "random_key": "7ecc1734-9ad0-4dff-b83c-4cbb1152d3a5",
+    "image_url": "https://image.torob.com/base/images/bA/a0/bAa0-DpHanmWWtPa.jpg"
+  },
+  {
+    "title": "بادگیر xpedite زنانه",
+    "group": "زنانه",
+    "product": "بادگیر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "xpedite"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر"
+        ]
+      }
+    ],
+    "random_key": "3a94c600-3bef-451f-8223-5f2e1c2c5602",
+    "image_url": "https://image.torob.com/base/images/CY/iB/CYiB78QhbhKmuozz.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه دست دوم",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "وضعیت",
+        "values": [
+          "دست دوم"
+        ]
+      }
+    ],
+    "random_key": "91f31c55-8179-434e-afd2-33453b2b4e1d",
+    "image_url": "https://image.torob.com/base/images/H3/jQ/H3jQmyQzYftzuv6T.jpg"
+  },
+  {
+    "title": "اورال سرهمی ورزشی زنانه کد 002",
+    "group": "زنانه",
+    "product": "اورال سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "5643dc63-e865-462d-b9e2-76800d1ea4ee",
+    "image_url": "https://image.torob.com/base/images/2R/1Y/2R1YtOSc5C2NpbGt.jpg"
+  },
+  {
+    "title": "کاور ورزشی زنانه اسپورت لند Sportland مدل 113863",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپورت لند",
+          "Sportland"
+        ]
+      }
+    ],
+    "random_key": "4d6c7d3a-8ab4-4268-9f47-28e2d4dfa822",
+    "image_url": "https://image.torob.com/base/images/f_/BL/f_BLKrxoq4zG7r2X.jpg"
+  },
+  {
+    "title": "تیشرت با طرح آرسنال",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آرسنال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آرسنال"
+        ]
+      }
+    ],
+    "random_key": "168ee0f4-d434-47bc-ba35-a9de28e00db2",
+    "image_url": "https://image.torob.com/base/images/gO/No/gONoLrh3Sjmwyciq.jpg"
+  },
+  {
+    "title": "لباس فرم زنانه برند نایک اصل 832976-100",
+    "group": "زنانه",
+    "product": "لباس فرم ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس فرم ورزشی"
+        ]
+      }
+    ],
+    "random_key": "e709daac-440d-46fb-b18d-f0468b6272b6",
+    "image_url": "https://image.torob.com/base/images/h1/_N/h1_NfAg5Nvs-qf7J.jpg"
+  },
+  {
+    "title": "کاور ورزشی زنانه نایک بغل باز",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بغل باز"
+        ]
+      }
+    ],
+    "random_key": "a303b6d8-1576-455e-8cff-dc25a693f58f",
+    "image_url": "https://image.torob.com/base/images/WB/sX/WBsXlNYuEK198Q3w.jpg"
+  },
+  {
+    "title": "کاور ورزشی",
+    "group": "نامشخص",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "e4ca61f5-d91f-47f3-9d7d-6ba4642a9da1",
+    "image_url": "https://image.torob.com/base/images/0d/tw/0dtwIluGUNvKwP4z.jpg"
+  },
+  {
+    "title": "Spor شلوار زنانه برند نورث فیس The North Face اصل NF0A7Z890C51",
+    "group": "زنانه",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس",
+          "The North Face"
+        ]
+      }
+    ],
+    "random_key": "cd6abcd7-78c4-4b58-b5a9-41badc04d63b",
+    "image_url": "https://image.torob.com/base/images/f6/ql/f6qlNcbar-K9TvGN.jpg"
+  },
+  {
+    "title": "پیراهن ورزشی زنانه مدل کمری کد F-280207",
+    "group": "زنانه",
+    "product": "پیراهن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن ورزشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "کمری"
+        ]
+      }
+    ],
+    "random_key": "3430c742-4c62-4ada-a0b8-b3b2d1563377",
+    "image_url": "https://image.torob.com/base/images/9G/wM/9GwMbekWRAl0c6Cg.jpg"
+  },
+  {
+    "title": "شلوار گرمکن خاکستری زنانه لباس شش 930034 اورجینال hummel",
+    "group": "زنانه",
+    "product": "شلوار گرمکن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار گرمکن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "hummel"
+        ]
+      }
+    ],
+    "random_key": "59bf01fb-f5d3-4e28-abb1-a30f86fd0b9d",
+    "image_url": "https://image.torob.com/base/images/HO/aW/HOaWPf19QYqZ4rEm.jpg"
+  },
+  {
+    "title": "آستین بلند ورزشی زنانه بروکس مدل Brooks Women's Distance Graphic Long Sleeve|نارنجی",
+    "group": "زنانه",
+    "product": "آستین بلند ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آستین بلند ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس",
+          "Brooks"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      }
+    ],
+    "random_key": "f28f1bc0-c96a-4a71-a494-bff0d0513089",
+    "image_url": "https://image.torob.com/base/images/Vj/hM/VjhMfm_9mZl39lxt.jpg"
+  },
+  {
+    "title": "اورال کوتاه",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "91288536-137b-40f6-87bd-5b145499ac22",
+    "image_url": "https://image.torob.com/base/images/4H/74/4H74xOlwW5XNjRd2.jpg"
+  },
+  {
+    "title": "اورال شورتکی ورزشی زنانه alo کد 001",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال شورتکی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الو"
+        ]
+      }
+    ],
+    "random_key": "28dff382-0920-43fc-b9e7-740604e3ec29",
+    "image_url": "https://image.torob.com/base/images/Hr/T5/HrT5QpYzcRgPXfl1.jpg"
+  },
+  {
+    "title": "کاور ورزشی اورجینال",
+    "group": "نامشخص",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "830a55c0-198d-4520-b3fa-33c258dac4ea",
+    "image_url": "https://image.torob.com/base/images/f-/dU/f-dUX3FoXBNjqGfe.jpg"
+  },
+  {
+    "title": "تیشرت لوگوی لیورپول",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "لوگوی لیورپول"
+        ]
+      }
+    ],
+    "random_key": "6dcea93c-c3f0-4297-bdac-7eb9a8876ef7",
+    "image_url": "https://image.torob.com/base/images/1q/Q6/1qQ6gxBzHgL6Dju7.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه فینگردار بروکس خاکستری",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      }
+    ],
+    "random_key": "f47af77b-f901-4381-b786-c01918840a95",
+    "image_url": "https://image.torob.com/base/images/ux/xV/uxxV_Ow1R2VdJvq1.jpg"
+  },
+  {
+    "title": "کاور ورزشی",
+    "group": "نامشخص",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      }
+    ],
+    "random_key": "25fb1f0a-1a5a-41d7-bd48-92c735320ebe",
+    "image_url": "https://image.torob.com/base/images/up/S4/upS4qoAjf4-1rABs.jpg"
+  },
+  {
+    "title": "پیرهن ورزشی نایک خط دار ورزشی زنانه",
+    "group": "زنانه",
+    "product": "پیرهن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیرهن ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خط دار"
+        ]
+      }
+    ],
+    "random_key": "e91b3270-0fac-4d4f-ac08-1a91a4f5190c",
+    "image_url": "https://image.torob.com/base/images/_q/bq/_qbq3vl998q8gRYN.jpg"
+  },
+  {
+    "title": "اورال سرهمی ورزشی زنانه کد 009",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "3c9fb5f4-c7e5-41d8-87d4-c5b106aa96f1",
+    "image_url": "https://image.torob.com/base/images/lM/kS/lMkSTr9d-aC-fpqv.jpg"
+  },
+  {
+    "title": "اورال بلند بندی",
+    "group": "نامشخص",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "بندی"
+        ]
+      }
+    ],
+    "random_key": "a2300d80-01d5-43ce-acce-21386d263441",
+    "image_url": "https://image.torob.com/base/images/Tu/sc/TuscaUw_SJl6BtvZ.webp"
+  },
+  {
+    "title": "بلوز ورزشی نایک کد 401290",
+    "group": "نامشخص",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "a149d10d-d724-4503-ba96-75da433b0729",
+    "image_url": "https://image.torob.com/base/images/Dk/wS/DkwShpcKqGYhBDHQ.jpg"
+  },
+  {
+    "title": "تونیک ورزشی زنانه نایک مدل DS-3H1382 مشکی",
+    "group": "زنانه",
+    "product": "تونیک ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "bbb56f5f-e00a-419d-a091-a5159b3ba093",
+    "image_url": "https://image.torob.com/base/images/6-/Nk/6-Nk9ZxLYrAR3IvN.jpg"
+  },
+  {
+    "title": "بلوز آستین بلند نایک (15)",
+    "group": "نامشخص",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "6b6eef11-bedd-4de0-b14b-dc9413b0dd20",
+    "image_url": "https://image.torob.com/base/images/PN/yh/PNyhE6veQgAKizpL.webp"
+  },
+  {
+    "title": "دامن شورت دار ورزشی زنانه",
+    "group": "زنانه",
+    "product": "دامن شورت دار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن شورت دار ورزشی"
+        ]
+      }
+    ],
+    "random_key": "45b0345e-2470-448c-8242-5d009efc7daa",
+    "image_url": "https://image.torob.com/base/images/0x/Uy/0xUyyQh9xIZo0mIc.jpg"
+  },
+  {
+    "title": "اورال سرهمی دمپا بوت کات اسپرت ورزشی زنانه کد 003",
+    "group": "زنانه",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی دمپا بوت کات اسپرت ورزشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "4c6c7512-4b9f-4f1a-89a9-ab29dcb86707",
+    "image_url": "https://image.torob.com/base/images/ic/tw/ictwhl8494lyDLxV.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ فینگردار ورزشی زنانه NIKE کد 006",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "d97d9af4-b872-4e74-bdae-3563b2155bca",
+    "image_url": "https://image.torob.com/base/images/_O/xp/_OxpTZLENqDcRIfz.jpg"
+  },
+  {
+    "title": "لباس ورزشی زنانه برند پوما رنگ سفید مدل PUMA BETTER SPORTSWEAR Women's Crew Neck",
+    "group": "زنانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه گرد"
+        ]
+      }
+    ],
+    "random_key": "2fba0c7a-eedb-494a-8e3c-b3cec9cb825c",
+    "image_url": "https://image.torob.com/base/images/aB/_M/aB_M0VEeo4UFsBaV.webp"
+  },
+  {
+    "title": "کاور ورزشی پشت چاپ دار زنانه جیم شارک (GYMSHARK) - (کد: 1752)",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جیم شارک (GYMSHARK)"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پشت چاپ دار"
+        ]
+      }
+    ],
+    "random_key": "c406d034-7fb8-427b-9c45-f8257c96c239",
+    "image_url": "https://image.torob.com/base/images/Vb/WX/VbWXYsyISk0_iZmZ.jpg"
+  },
+  {
+    "title": "کیمونو کلاهدار ورزشی زنانه 405183",
+    "group": "زنانه",
+    "product": "کیمونو ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیمونو ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      }
+    ],
+    "random_key": "809ac675-732c-4619-b6ae-1830fabd7f9b",
+    "image_url": "https://image.torob.com/base/images/s6/JT/s6JTHAyG2to_OwTU.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه نارون 5014",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نارون"
+        ]
+      }
+    ],
+    "random_key": "3d1a0bc5-e133-4ed1-843f-5c6e0326d1ea",
+    "image_url": "https://image.torob.com/base/images/Bj/x1/Bjx1D3WEuSDG6m4H.jpg"
+  },
+  {
+    "title": "مانتو تک ورزشی زنانه NIKE کد 007",
+    "group": "زنانه",
+    "product": "مانتو ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "201983be-a821-43ee-8c82-7b1a674ff638",
+    "image_url": "https://image.torob.com/base/images/fx/c1/fxc1fB-YMjyoCTtY.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه نایکی کد 401230",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      }
+    ],
+    "random_key": "3e4123f2-5062-45fc-92a6-a815811d3018",
+    "image_url": "https://image.torob.com/base/images/Ab/ON/AbON7ST7jhlMYNgN.webp"
+  },
+  {
+    "title": "مانتو نیم زیپ فینگردار ورزشی زنانه NIKE کد 004",
+    "group": "زنانه",
+    "product": "مانتو ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "0b466fe1-2262-45a4-8cfe-478a7460310e",
+    "image_url": "https://image.torob.com/base/images/i3/7p/i37pPp19-_3jhei2.jpg"
+  },
+  {
+    "title": "لباس زنانه پرسپولیس هواداری 1402",
+    "group": "زنانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس هواداری"
+        ]
+      }
+    ],
+    "random_key": "a58ed15e-4446-4537-a6dc-26307e5b6e38",
+    "image_url": "https://image.torob.com/base/images/0S/2m/0S2m2-re0KYFDH8B.webp"
+  },
+  {
+    "title": "بلوز آستین بلند فینگردار ورزشی کد 7007",
+    "group": "نامشخص",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند",
+          "فینگردار"
+        ]
+      }
+    ],
+    "random_key": "190e7a6a-d717-4673-ad31-42b15b1080cc",
+    "image_url": "https://image.torob.com/base/images/4V/9p/4V9pyYU4xen8spLB.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0022",
+    "group": "زنانه",
+    "product": "اورال سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "6933abf2-35ce-43a5-bbea-2032ecb5affc",
+    "image_url": "https://image.torob.com/base/images/gP/6F/gP6Fyoko0f6lITwE.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0033",
+    "group": "زنانه",
+    "product": "اورال سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "3188b237-f863-4ac3-9c0d-e46abbcab644",
+    "image_url": "https://image.torob.com/base/images/H3/bm/H3bmsLfN9Tz7B9cQ.jpg"
+  },
+  {
+    "title": "بلوز آستین بلند ورزشی زنانه NIKE کد 005",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NIKE"
+        ]
+      }
+    ],
+    "random_key": "53409714-4719-4c35-b0b1-96871457467a",
+    "image_url": "https://image.torob.com/base/images/6N/IB/6NIBcc6s0GE5_JI8.jpg"
+  },
+  {
+    "title": "اورال سرهمی ورزشی زنانه اویشو مدل ۹۹۹۸ سرمه ای",
+    "group": "زنانه",
+    "product": "اورال سرهمی ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اویشو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "b537d52f-3962-4dc9-b513-8a55e17d55a5",
+    "image_url": "https://image.torob.com/base/images/9M/IW/9MIW-18_inUqZ4Vv.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانی زیتونی اورجینال",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زیتونی"
+        ]
+      }
+    ],
+    "random_key": "e62dfd4a-d568-4be5-ab2f-ce41fc8c1ebf",
+    "image_url": "https://image.torob.com/base/images/0r/cy/0rcyfFB3sHRmzLci.jpg"
+  },
+  {
+    "title": "دامن تنیس زنانه آدیداس کد IL7363",
+    "group": "زنانه",
+    "product": "دامن تنیس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن تنیس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      }
+    ],
+    "random_key": "8f952f94-a1e6-4847-a766-add1f38df24c",
+    "image_url": "https://image.torob.com/base/images/ZU/II/ZUIIy1Xy-MLKd3_6.avif"
+  },
+  {
+    "title": "کاور زیپ دار A4 لیام",
+    "group": "نامشخص",
+    "product": "کاور",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      }
+    ],
+    "random_key": "8fbc1003-4d64-4a83-9ae9-a223fff4645d",
+    "image_url": "https://image.torob.com/base/images/C9/Vi/C9VikaAqgOZuw3Hl.jpg"
+  },
+  {
+    "title": "نیم زیپ ورزشی زنانه برند کرین آلمانی مدل جذب 481938 CRANE",
+    "group": "زنانه",
+    "product": "نیم زیپ ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کرین"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "جذب"
+        ]
+      }
+    ],
+    "random_key": "8187253b-7ceb-46b4-8008-e6373174418e",
+    "image_url": "https://image.torob.com/base/images/G9/mR/G9mRSbLLACo2eQ2N.jpg"
+  },
+  {
+    "title": "اورال ورزشی کبریتی جلو زیپدار 5007",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      }
+    ],
+    "random_key": "de08587e-9934-496f-9b3e-574e691d1275",
+    "image_url": "https://image.torob.com/base/images/Na/Cl/NaCll2FxLU6Kl0Fi.jpg"
+  },
+  {
+    "title": "اورال شورتکی اسپرت ورزشی زنانه Dior کد 002",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال شورتکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Dior"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "5d33d31e-25c1-4282-ae8e-00d883478ce5",
+    "image_url": "https://image.torob.com/base/images/kd/0M/kd0MmC0SZPb0w-eA.jpg"
+  },
+  {
+    "title": "لباس ورزشی مردانه شل ال سی وایکیکی W48283Z8 | LCW Casual",
+    "group": "مردانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "Casual"
+        ]
+      }
+    ],
+    "random_key": "21c9b247-e39c-43da-95ee-8f609dfe1c0c",
+    "image_url": "https://image.torob.com/base/images/gB/mS/gBmSNJ9wHBXDqfoS.jpg"
+  },
+  {
+    "title": "adidas ملزومات 3 نوار باران. باران",
+    "group": "نامشخص",
+    "product": "ملزومات",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بارانی"
+        ]
+      }
+    ],
+    "random_key": "249678f9-93dd-4bf5-aea7-36e93e40a867",
+    "image_url": "https://image.torob.com/base/images/3p/ZZ/3pZZpAU3De_HqJqu.jpg"
+  },
+  {
+    "title": "بلوز استین بلند فینگردار ورزشی زنانه بروکس",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند",
+          "فینگردار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      }
+    ],
+    "random_key": "5e3a7e88-282e-4f53-95bb-fa74696f45c2",
+    "image_url": "https://image.torob.com/base/images/Rs/ZF/RsZFQv8Ei1HTqPZz.jpg"
+  },
+  {
+    "title": "کد: 4666 سویی شرت نیم‌تنه فینگر دار پارچه فلامنت شلواری",
+    "group": "نامشخص",
+    "product": "سویی شرت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگر دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "فلامنت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سوییشرت نیم تنه"
+        ]
+      }
+    ],
+    "random_key": "450c79d0-9663-44d7-8290-b5d9a06398a4",
+    "image_url": "https://image.torob.com/base/images/8X/eP/8XePJFi3YB_1wb3B.jpg"
+  },
+  {
+    "title": "بلوز اسپرت طبیعتگردی نیم زیپ nature کله گوزنی ایرانی",
+    "group": "نامشخص",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "aadd18a6-324d-4f75-8a7f-ddc79838a7f6",
+    "image_url": "https://image.torob.com/base/images/iw/d4/iwd4ZKX8krw2uTrX.jpg"
+  },
+  {
+    "title": "کاور سوزنی ورزشی زنانه نایک 36 38",
+    "group": "زنانه",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور سوزنی ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36",
+          "38"
+        ]
+      }
+    ],
+    "random_key": "40404568-d899-4f7f-9f9c-aa8f54e9631f",
+    "image_url": "https://image.torob.com/base/images/w3/vE/w3vE_F9BKag2P8XB.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه مدل فینگر دار کد 401263",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگر دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      }
+    ],
+    "random_key": "a8442a5b-8dd2-40da-91b6-35689647b1d7",
+    "image_url": "https://image.torob.com/base/images/AP/Jn/APJnpdYQroVI8L0y.jpg"
+  },
+  {
+    "title": "اورال ورزشی زنانه نایک مدل سرهمی زیپ دار کد 402323",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال ورزشی",
+          "سرهمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      }
+    ],
+    "random_key": "165e07a0-a3f5-48e1-8b5a-1a87e609f5ca",
+    "image_url": "https://image.torob.com/base/images/u5/Jm/u5JmZSIRtE46mC87.jpg"
+  },
+  {
+    "title": "کاور کراپ ورزشی مدل TOR 1013 در دو رنگ از برند ملانژ",
+    "group": "نامشخص",
+    "product": "کاور ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاور کراپ ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ملانژ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دو رنگ"
+        ]
+      }
+    ],
+    "random_key": "429a6ea8-4846-41c0-ab44-b2e49abcc465",
+    "image_url": "https://image.torob.com/base/images/O6/vL/O6vLaT2bA870u_2r.jpg"
+  },
+  {
+    "title": "اورال سرهمی اسپرت ورزشی زنانه کد 0027",
+    "group": "زنانه",
+    "product": "اورال ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال سرهمی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "0f563a43-787d-46ab-9cdc-7b2a96870ba4",
+    "image_url": "https://image.torob.com/base/images/Mj/yf/MjyfvcsdJJsktO74.jpg"
+  },
+  {
+    "title": "ست دو تیکه راحتی",
+    "group": "نامشخص",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست دو تیکه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راحتی"
+        ]
+      }
+    ],
+    "random_key": "0ce7d43e-2772-44fc-81ca-13c265a8e33a",
+    "image_url": "https://image.torob.com/base/images/iN/NS/iNNSHuiqxLON5_XJ.jpg"
+  },
+  {
+    "title": "نیم زیپ مانتویی زنانه دنیز",
+    "group": "زنانه",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ مانتویی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دنیز"
+        ]
+      }
+    ],
+    "random_key": "d0e9ad4c-6e8f-4413-a7dc-03cdbd182720",
+    "image_url": "https://image.torob.com/base/images/dN/_m/dN_mTQRF9O-eJWIa.jpg"
+  },
+  {
+    "title": "بلوز ورزشی زنانه مدل فینگر دار کد 401266",
+    "group": "زنانه",
+    "product": "بلوز ورزشی",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "فینگر دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b03eb9a4-afd1-4974-a75d-d03e09db1255",
+    "image_url": "https://image.torob.com/base/images/9C/Ar/9CArXFwMTQ3L88Mh.jpg"
+  },
+  {
+    "title": "اورال جلوزیپ کبریتی",
+    "group": "نامشخص",
+    "product": "اورال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اورال"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      }
+    ],
+    "random_key": "51de29ff-1864-4007-b353-886a4471bed6",
+    "image_url": "https://image.torob.com/base/images/y0/fi/y0fihL9bDquF_59P.jpg"
+  }
+]

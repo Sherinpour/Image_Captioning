@@ -1,0 +1,7398 @@
+[
+  {
+    "title": "کتونی اسپرت زنانه و مردانه نایک زوم ایکس وینفلو",
+    "group": "زنانه و مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "5b9b6ac2-8ae0-4e13-a4ea-2b09b672540d",
+    "image_url": "https://image.torob.com/base/images/2J/D5/2JD53TAxgGR--GsA.jpg"
+  },
+  {
+    "title": "کتونی مردانه مشکی 527104 M مردانه مشکی ال سی وایکیکی",
+    "group": "مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "f36b68f5-5b00-4b60-8e11-2d2934702b64",
+    "image_url": "https://image.torob.com/base/images/G8/95/G895vnZqPSq7-Xph.jpg"
+  },
+  {
+    "title": "اسکیچرز زنانه مردانه درجه یک زیره پیو اصلی نرم و راحت و مقاوم پیاده روی",
+    "group": "زنانه مردانه",
+    "product": "اسکیچرز",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "زیره پیو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اصلی",
+          "نرم",
+          "راحت",
+          "مقاوم"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسکیچرز"
+        ]
+      }
+    ],
+    "random_key": "1f357a69-9db3-4a20-9237-3ac6361fbd34",
+    "image_url": "https://image.torob.com/base/images/CV/VJ/CVVJ9bYlqZ_9x5g8.jpg"
+  },
+  {
+    "title": "کفش پیاده روی تات در رنگ بندی متنوع و جذاب سایز37-38-39-40 قابل شستشو",
+    "group": "نامشخص",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "38",
+          "39",
+          "40"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قابل شستشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "ef4c53c0-dfda-4a81-a8a2-f77f52226889",
+    "image_url": "https://image.torob.com/base/images/NQ/BY/NQBYv2ysqn6IfM_t.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Madam tarz کد 735984609",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Madam tarz"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "3df44d32-2170-4a92-8212-58cc86aeb44a",
+    "image_url": "https://image.torob.com/base/images/_x/Hr/_xHrJ2M-grFOS5ES.jpg"
+  },
+  {
+    "title": "کتانی اسپرت مردانه مدل زدیکس فابلاک کد 1108",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "685287d8-5f6f-4fab-a7d1-f365ab320ef1",
+    "image_url": "https://image.torob.com/base/images/aK/Tp/aKTpEUDW0j69StGG.jpg"
+  },
+  {
+    "title": "کفش اسپرت مدل دونایک لژدار",
+    "group": "نامشخص",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع زیره",
+        "values": [
+          "لژدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "a14188d9-b61a-480d-b5d7-e08adfcc53b5",
+    "image_url": "https://image.torob.com/base/images/9u/2G/9u2GuWMt_LmLk_X-.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه هامتو مدل 350352A-3",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هامتو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "d0a0b475-2fa0-428a-97ad-1941a6bcf514",
+    "image_url": "https://image.torob.com/base/images/Fg/1m/Fg1mWyHYxvE8_05T.jpg"
+  },
+  {
+    "title": "کفش روزمره مردانه مدل نایک ایر فورس",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش روزمره"
+        ]
+      }
+    ],
+    "random_key": "ffa56b5f-516a-4b9f-acbe-12e89757f3f3",
+    "image_url": "https://image.torob.com/base/images/1g/wa/1gwabGpSM5c4sG-x.jpg"
+  },
+  {
+    "title": "کفش اسپرت 37.39.40جورابی کشبافت جردن کش بافت جردن لژ دار دخترانه پسرانه مشکی قرمز زنانه اسپرت",
+    "group": "دخترانه پسرانه زنانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "39",
+          "40"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جورابی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کشبافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "لژ دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "0431cf08-42d8-4722-8477-d9ab5b9030ca",
+    "image_url": "https://image.torob.com/base/images/y8/Nl/y8NlBnJDlxGuSowy.jpg"
+  },
+  {
+    "title": "کتانی زنانه نیوبالانس کرم و سفید؛ راحتی و زیبایی در یک کفش",
+    "group": "زنانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "71ac8d9a-b712-4205-8093-42662c33250b",
+    "image_url": "https://image.torob.com/base/images/c4/Vx/c4VxuBud67fpYQrl.jpg"
+  },
+  {
+    "title": "کفش ورزشی برند سعیدی | SAEEDI کد 417 مدل 1004175 - سایز :",
+    "group": "نامشخص",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سعیدی",
+          "SAEEDI"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "22b6b7d7-fe5f-400a-b298-074c2f92f352",
+    "image_url": "https://image.torob.com/base/images/ST/vc/STvcRmCLZMrXqV4F.webp"
+  },
+  {
+    "title": "کتانی مردانه hammer-jack",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "hammer-jack"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "8f582b41-359f-43fe-98d4-f4ef5771b9a2",
+    "image_url": "https://image.torob.com/base/images/FA/GG/FAGGdfrs9J_WMQPy.jpg"
+  },
+  {
+    "title": "کفش زنانه Caven 20 ورزشی سفید آماده پوما Puma",
+    "group": "زنانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Puma",
+          "پوما"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "eda33ba9-6089-4368-954a-cf62743b1504",
+    "image_url": "https://image.torob.com/base/images/jQ/gI/jQgIzB9CwDNjlWyO.jpg"
+  },
+  {
+    "title": "کفش کتانی ونس کارینو سفید بنفش",
+    "group": "نامشخص",
+    "product": "کفش کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتانی"
+        ]
+      }
+    ],
+    "random_key": "11c19fe5-b11f-42be-aef3-b10742845ac0",
+    "image_url": "https://image.torob.com/base/images/Br/B5/BrB5KWz0nIl_8rhH.jpg"
+  },
+  {
+    "title": "اسنیکر سفید مردانه کفش های ورزشی Snoker Base U.S.Polo Assn Gemmy U.S. Polo Assn.",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "U.S.Polo Assn",
+          "U.S. Polo Assn."
+        ]
+      }
+    ],
+    "random_key": "f1db6071-bfe4-4442-a1a0-d4fc24bc5601",
+    "image_url": "https://image.torob.com/base/images/eZ/V_/eZV_Mygg6cp7UjMn.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه فیروزه لامبرجک | TYB101329951080510244 اورجینال",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "فیروزه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "e7c962e6-18bf-4b84-8654-6c45ba40ab77",
+    "image_url": "https://image.torob.com/base/images/xw/tA/xwtAXoGUWAeG2K-N.jpg"
+  },
+  {
+    "title": "کفش زنانه ونس مدل داگ زیره پی وی سی VANS WOMEN کد 103",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "زیره پی وی سی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "ffee2555-5e4f-47a8-be88-da031b0d6d6f",
+    "image_url": "https://image.torob.com/base/images/ze/v0/zev09aAZx5HN33to.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز مردانه ونس Vans اورجینال 5003168282",
+    "group": "مردانه",
+    "product": "کتانی اسنیکرز",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Vans"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      }
+    ],
+    "random_key": "1cbd7e1c-4ecc-47cf-beff-a16c661cf126",
+    "image_url": "https://image.torob.com/base/images/xH/0M/xH0Mq5W2zHYhA8vv.jpg"
+  },
+  {
+    "title": "کتونی ایفورس کاستوم شده طرح دریای سیاه",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دریای سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "3f7ab01a-a2f8-448b-8e22-ca3c3649a8fc",
+    "image_url": "https://image.torob.com/base/images/bZ/Ry/bZRyBc3GLBk1uw4B.jpg"
+  },
+  {
+    "title": "کفش پیاده روی اورجینال برند Nike مدل AIR MAX SC GS کد 779384075",
+    "group": "نامشخص",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "2f4503a0-6a66-49ea-ad32-9a329eab3654",
+    "image_url": "https://image.torob.com/base/images/YD/Ct/YDCtYEIQXDK8honK.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه اورجینال کلوین کلاین بژ Calvin Klein HW0HW01865-ACG کفش کتانی بژ گاه به گاه زیره ضد لغزش توری زنانه HW0HW01865-ACG",
+    "group": "زنانه",
+    "product": "کفش کتانی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کلوین کلاین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "زیره ضد لغزش"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش کتانی"
+        ]
+      }
+    ],
+    "random_key": "4ea6f84b-adac-438b-8378-360c8d533bc8",
+    "image_url": "https://image.torob.com/base/images/oR/I_/oRI_icfVkKWtikf9.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه اسکیچرز 232398TK NVY Skechers اورجینال",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "31749e04-660f-43b7-8db0-ff34562b833e",
+    "image_url": "https://image.torob.com/base/images/fA/pp/fApp120fpq578_dB.jpg"
+  },
+  {
+    "title": "کفش دو و تمرین مردانه LEGEND ESSENTIAL 3 NN های آموزش خاکستری DM1120 005 نایک Nike",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "دو",
+          "تمرین"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "4d8a971e-9d6f-459b-8bca-009507dc24db",
+    "image_url": "https://image.torob.com/base/images/eO/Iv/eOIvFrE3oNiUzI4Y.jpg"
+  },
+  {
+    "title": "کفش ورزشی زنانه ریباک Reebok Nanoflex Adventure TR 2",
+    "group": "زنانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریباک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "11751f16-02ec-447f-a2e1-bcd6f2746b0b",
+    "image_url": "https://image.torob.com/base/images/Yw/n1/Ywn1tafuMWOBbGLr.jpg"
+  },
+  {
+    "title": "کفش زنانه چاک 70 روز ورزشی کانورس Converse",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کانورس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "69e1e5f3-6518-4870-854c-771fdaf2394d",
+    "image_url": "https://image.torob.com/base/images/PF/vy/PFvyVLPzhk51fILz.jpg"
+  },
+  {
+    "title": "کفش اسپورت مردانه سفید هومل 24KW61000296",
+    "group": "مردانه",
+    "product": "کفش اسپورت",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هومل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "f2ffe3e2-5c55-41d3-a767-e6e533b74c35",
+    "image_url": "https://image.torob.com/base/images/4l/HW/4lHW2X0PjsbkDNHD.jpg"
+  },
+  {
+    "title": "کتونی لاکچری از سایز 37 تا 40",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "4be6a1bd-d57a-499d-b2eb-f1c1967ff056",
+    "image_url": "https://image.torob.com/base/images/2U/Gu/2UGuX0y3Nxe-V0o_.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Torex مدل TRX24K-903 4PR کد 843648354",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Torex"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "b83f77b8-0423-463e-87be-5e73f8b3f694",
+    "image_url": "https://image.torob.com/base/images/Vs/Aw/VsAwOUT-mO7rN-wu.jpg"
+  },
+  {
+    "title": "اسنیکر راسته مردانه | GAMELU 24YMDOVA",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر راسته"
+        ]
+      }
+    ],
+    "random_key": "da4a39a1-14ed-4e01-8927-fb8347a6e834",
+    "image_url": "https://image.torob.com/base/images/Gw/K5/GwK5UNar7qYJCQWN.jpg"
+  },
+  {
+    "title": "کفش اسکیچرز زنانه 1",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسکیچرز"
+        ]
+      }
+    ],
+    "random_key": "a2e6a440-54a7-4743-b20b-d849d4ecb6bf",
+    "image_url": "https://image.torob.com/base/images/3s/bM/3sbMg5xFAkyn-aOx.jpg"
+  },
+  {
+    "title": "اسنیکر دی سی شووز اورجینال DC Shoes 5003035871 Lifestyle Shoes, 40.5, White",
+    "group": "نامشخص",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دی سی شووز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40.5"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "White"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "4d59bab7-2262-4553-81fb-ea982dc9f723",
+    "image_url": "https://image.torob.com/base/images/Gx/2u/Gx2uqfzBdlAeW8F3.jpg"
+  },
+  {
+    "title": "کتانی نایک سایز 44/5",
+    "group": "نامشخص",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "44/5"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "75372496-4e40-43ad-9ccb-ebcee3eed4b4",
+    "image_url": "https://image.torob.com/base/images/Rz/kG/RzkGoVaFat0xh436.jpg"
+  },
+  {
+    "title": "کفش پیاده روی ورزشی آبی مردانه ویکرز اورجینال Wickers",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکرز",
+          "Wickers"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "a3902085-bada-469d-a69a-8f50b4af1223",
+    "image_url": "https://image.torob.com/base/images/Ev/60/Ev600WTsL5kjw9uj.jpg"
+  },
+  {
+    "title": "کتونی ونس نیوبالانس کیفیت فوق العاده عالی - ۴",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونس",
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "23a4771f-e87d-4c23-b1be-e1fd1459adb4",
+    "image_url": "https://image.torob.com/base/images/j9/Kj/j9KjWIANTM6AYIwh.jpg"
+  },
+  {
+    "title": "کفش کتانی اسپرت مردانه رنگ سفید یشمی مدل نایک NIKE AIR FORCE کد 72511",
+    "group": "مردانه",
+    "product": "کتانی اسپرت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "یشمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "NIKE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتانی"
+        ]
+      }
+    ],
+    "random_key": "bdb45b09-c15e-439a-9d08-8c4528bd5bc7",
+    "image_url": "https://image.torob.com/base/images/zC/M6/zCM6Ohc60qioN0iy.jpg"
+  },
+  {
+    "title": "کفش ورزشی مردانه مدل B43022",
+    "group": "مردانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "40360b8a-e0f7-4160-9357-598d7c3aec15",
+    "image_url": "https://image.torob.com/base/images/sy/sV/sysV85ysUX6KWZQd.webp"
+  },
+  {
+    "title": "کفش زنانه ورزشی بند دار سفید کابانی Cabani",
+    "group": "زنانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بند دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کابانی",
+          "Cabani"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "84443dc8-6122-405e-a574-3f9ccdab17b0",
+    "image_url": "https://image.torob.com/base/images/W5/Gb/W5Gb_Uoz-hi1L0kw.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Puma کد 362282834",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "5e0ce83c-9541-49bf-a8cc-cc1830cc05a8",
+    "image_url": "https://image.torob.com/base/images/vt/gK/vtgKGArhkd4zbKf0.jpg"
+  },
+  {
+    "title": "کفش ورزشی (T) قهوه ای نیوبالانس مردانه مدل 1530",
+    "group": "مردانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "bd719173-9e2e-4a09-ac64-d2e9c915220f",
+    "image_url": "https://image.torob.com/base/images/kq/mz/kqmz4xXF3Sg6HNhl.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Nike مدل Dunk Low Retro کد 803222024",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "Dunk Low Retro"
+        ]
+      }
+    ],
+    "random_key": "a96c8582-3cc4-4748-be1d-c86d42090f26",
+    "image_url": "https://image.torob.com/base/images/0Q/d-/0Qd-CBBf2rjOwW59.jpg"
+  },
+  {
+    "title": "اسنیکر مشکی مردانه سبک زندگی نیل پوپلین کفش ورزشی سیاه پوست hummel",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک زندگی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "hummel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "6fb2bc14-5dbe-4d84-85ea-840730b2ad46",
+    "image_url": "https://image.torob.com/base/images/_v/3Z/_v3ZJGlBT7yNAFve.jpg"
+  },
+  {
+    "title": "کفش پیاده روی اورجینال برند Jump کد 795480270",
+    "group": "نامشخص",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Jump"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "e86e7301-6b74-46f6-bb02-3ee8a3eaebc4",
+    "image_url": "https://image.torob.com/base/images/Pg/8X/Pg8XvAlHiSR4OZAc.jpg"
+  },
+  {
+    "title": "کفش مردانه jiaxiang",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "jiaxiang"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "bff4ee68-2d45-4ce8-89fc-8ca99d6fbe74",
+    "image_url": "https://image.torob.com/base/images/4S/PM/4SPMlnYuxtDjHsun.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه 250443 متر کفش ورزشی سیاه قالب باریک Bulldozer",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Bulldozer"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قالب باریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "54e5509e-19f7-4f32-a273-07a05009028b",
+    "image_url": "https://image.torob.com/base/images/NU/ZQ/NUZQ71vY3kmdYRFw.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Hammer jack مدل Jack Hader Siyah-Beyaz Kadın Sneaker کد 829463277",
+    "group": "زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Hammer jack"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "Sneaker"
+        ]
+      }
+    ],
+    "random_key": "ab728c74-5946-4f65-a62e-132e0253a3e6",
+    "image_url": "https://image.torob.com/base/images/BB/cc/BBccS9tzcdjwP9y6.jpg"
+  },
+  {
+    "title": "کفش دو و تمرین چند رنگ مردانه زنانه تمام روز فعال AC PS Puma",
+    "group": "مردانه زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "دو",
+          "تمرین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "8a8124c2-9b30-47de-8a05-e71a38ed8abe",
+    "image_url": "https://image.torob.com/base/images/8C/_D/8C_Dh7TYWih5wvaH.jpg"
+  },
+  {
+    "title": "کفش زنانه فصل جدید ورزشی زن گمراه شده S5CV45Z8 ال سی وایکیکی LC Waikiki",
+    "group": "زنانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "فصل جدید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "f79d43d2-04bc-480e-a47d-55594f44f74a",
+    "image_url": "https://image.torob.com/base/images/nn/QE/nnQEkM6ldNQfeYOB.jpg"
+  },
+  {
+    "title": "کتونی مدل کالکشن",
+    "group": "نامشخص",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "8ce4b722-8221-4fae-980e-fddcfaced293",
+    "image_url": "https://image.torob.com/base/images/9m/Aq/9mAqKgU38lDySxoi.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Kinetix مدل 101270048 کد 670806973",
+    "group": "نامشخص",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kinetix"
+        ]
+      }
+    ],
+    "random_key": "459878ce-88e3-4c45-b76b-18d3664fd4d2",
+    "image_url": "https://image.torob.com/base/images/2w/pe/2wpekoa6jqd6ORJF.jpg"
+  },
+  {
+    "title": "نایک اپیک ریکت فلاینیت Nike Epic React Flyknit",
+    "group": "نامشخص",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اپیک ریکت فلاینیت"
+        ]
+      }
+    ],
+    "random_key": "3ae5867b-9a10-441f-a43e-5bc0d91cf6a8",
+    "image_url": "https://image.torob.com/base/images/gR/o3/gRo3ERag-T9itwTi.jpg"
+  },
+  {
+    "title": "کفش پیاده روی زنانه سفید یو اس پولو | 23YBAYZY82632 اورجینال",
+    "group": "زنانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "یو اس پولو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "b7272178-7cc3-4e6d-a019-4c9511b8ee2a",
+    "image_url": "https://image.torob.com/base/images/5e/sr/5esrINoMvujSq29B.jpg"
+  },
+  {
+    "title": "تخفیف عالی کفش اسپرت مردانه مدل آدیداس اسپیسر بی نظیر و ویژه رنگ طوسی هولوگرامی باارسال رایگان",
+    "group": "مردانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "آدیداس اسپیسر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی هولوگرامی"
+        ]
+      }
+    ],
+    "random_key": "3eb55dbb-4a13-4d12-a544-adb6b4ff1d4c",
+    "image_url": "https://image.torob.com/base/images/Hh/21/Hh21OQPshqTPsIgD.jpg"
+  },
+  {
+    "title": "کفش ورزشی برند رانر تک پرینت برند Tommy Hilfiger",
+    "group": "نامشخص",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "رانر تک پرینت",
+          "Tommy Hilfiger"
+        ]
+      }
+    ],
+    "random_key": "c33d3b32-a91c-43bd-8d14-6867e56f0eb3",
+    "image_url": "https://image.torob.com/base/images/2F/Nz/2FNzx79G8SrfbR31.jpg"
+  },
+  {
+    "title": "کتونی مردانه نایک جردن sb کرمی",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک جردن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      }
+    ],
+    "random_key": "6811a209-581e-4d91-9a87-68952015975b",
+    "image_url": "https://image.torob.com/base/images/8p/86/8p86upfAWDhcVSVW.jpg"
+  },
+  {
+    "title": "اسنیکر پوما اورجینال Puma 39808507 Courtflex V3 Mesh PS Sneaker",
+    "group": "نامشخص",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      }
+    ],
+    "random_key": "18f16bf3-1451-49cb-882b-e0503506d38e",
+    "image_url": "https://image.torob.com/base/images/pZ/7b/pZ7bBlXEVgVW3A7v.jpg"
+  },
+  {
+    "title": "کتونی نیوبالانس 2002 مردانه رنگ سفید مشکی جدید و ترند",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید مشکی"
+        ]
+      }
+    ],
+    "random_key": "b477514c-8cdc-4f0b-9c70-dfa553a1a15b",
+    "image_url": "https://image.torob.com/base/images/d5/Uk/d5Uk1Z-dVIbMY93s.webp"
+  },
+  {
+    "title": "کتونی اورجینال برند Lumberjack کد 347581621",
+    "group": "نامشخص",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lumberjack"
+        ]
+      }
+    ],
+    "random_key": "9be56bae-ca34-4855-9cf5-cc20224e62d4",
+    "image_url": "https://image.torob.com/base/images/k1/jD/k1jDIrVPlXyswkpN.jpg"
+  },
+  {
+    "title": "اسنیکر چند رنگ دخترانه و بچگانه کفش سفید ورزشی دختر قهوه ای CF1 خاموش CHIARA FERRAGNI",
+    "group": "دخترانه و بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ",
+          "سفید",
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CHIARA FERRAGNI"
+        ]
+      }
+    ],
+    "random_key": "57f26d1f-c3e7-4f21-bb08-26319d1252d7",
+    "image_url": "https://image.torob.com/base/images/7n/BN/7nBNykKd089PoESD.jpg"
+  },
+  {
+    "title": "کفش پیاده روی آبی مردانه و زنانه کتونی DMX TRAIL GTX BLUE یونیسکس Reebok",
+    "group": "یونیسکس",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Reebok"
+        ]
+      }
+    ],
+    "random_key": "6a8dcd03-fac6-4915-bdb0-933952381b48",
+    "image_url": "https://image.torob.com/base/images/vY/T9/vYT9eb8rny2dWALI.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه مشکی کلوین کلاین | 5003173532 اورجینال",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کلوین کلاین"
+        ]
+      }
+    ],
+    "random_key": "71b30b62-1e7d-491e-95f9-0e739c6122c1",
+    "image_url": "https://image.torob.com/base/images/hm/47/hm47kHbTqie4mqVG.jpg"
+  },
+  {
+    "title": "اسنیکر Greyder اورجینال مردانه برند گریدر GRY-4K1UA14994 14994 Mr Casual Men's Shoes Brown",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Greyder",
+          "گریدر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "کژوال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      }
+    ],
+    "random_key": "7f5249b4-0fc8-44fa-8210-cacbd72da3d4",
+    "image_url": "https://image.torob.com/base/images/6Q/FI/6QFIh_xDYK2ewKYO.jpg"
+  },
+  {
+    "title": "کتونی زنانه مدل زد ایکس 8000 کد 31676",
+    "group": "زنانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "زد ایکس 8000"
+        ]
+      }
+    ],
+    "random_key": "d6c450c8-33e6-4f54-8bf6-2a2dbf141d7a",
+    "image_url": "https://image.torob.com/base/images/0w/CO/0wCOcowzMlt-JiSM.jpg"
+  },
+  {
+    "title": "کفش پیاده روی adidas اورجینال آدیداس HQ6992-E Web Boost Men's White Running Shoes (HQ6992)",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی",
+          "دویدن (رانینگ)"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "adidas",
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "86a1974e-f3ab-4a7b-ba2e-ae7a0dc36b6f",
+    "image_url": "https://image.torob.com/base/images/64/eJ/64eJ1awt6ZOaJjcJ.jpg"
+  },
+  {
+    "title": "کتانی ساقدار الستار سایز 37تا40",
+    "group": "نامشخص",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "فرم",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الستار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "d62c41ae-5ceb-496c-a7f9-f2cf37ae8e4e",
+    "image_url": "https://image.torob.com/base/images/mb/AL/mbAL1CYuueJCzoA7.jpg"
+  },
+  {
+    "title": "کتونی نایک ایر جردن ، وارداتی ویتنام در۲۰ رنگ شیک وزیبا سایز ۴۰_۴۱_۴۲_۴۳_۴۴_۴۵، فروش بصورت عمده و تک .Nike Air Jordan - 4",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "Nike"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "20 رنگ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "ایر جردن"
+        ]
+      }
+    ],
+    "random_key": "83da347b-ee38-4dfa-b2d5-31ce9b180549",
+    "image_url": "https://image.torob.com/base/images/n_/8l/n_8lCWJzCgJS8GBL.jpg"
+  },
+  {
+    "title": "کفش روزمره مردانه مدل PWM-12 4",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش روزمره"
+        ]
+      }
+    ],
+    "random_key": "3ac01373-afc8-480b-a8bf-35e3e026e779",
+    "image_url": "https://image.torob.com/base/images/89/ij/89ijwOczoH16jAZc.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Nike مدل Air Max 90 کد 841996791",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "ایر مکس 90"
+        ]
+      }
+    ],
+    "random_key": "05f2ecc5-a36f-4510-83d4-384e2a9e47cf",
+    "image_url": "https://image.torob.com/base/images/N5/Vq/N5Vq8WQhish5V3ZH.jpg"
+  },
+  {
+    "title": "کفش دویدن اورجینال برند Kinetix مدل RAY TX 4FX کد 794293887",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Kinetix"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "دویدن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش دویدن"
+        ]
+      }
+    ],
+    "random_key": "e08d38f3-d387-488d-9d0a-e6126065ef64",
+    "image_url": "https://image.torob.com/base/images/5-/aP/5-aPKEuBmJSBBUxp.jpg"
+  },
+  {
+    "title": "کفش ورزشی سعیدی | SAEEDI کد 974 مدل10097403 - سایز : 4",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سعیدی",
+          "SAEEDI"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "10114fab-dbaa-4237-bd0b-f8673da240e9",
+    "image_url": "https://image.torob.com/base/images/of/8O/of8OzrwxbHafN0SP.webp"
+  },
+  {
+    "title": "کتونی چسبی پرادا کرم مشکی سفیددخترانه زنانه کفش ونس اسپرت اسپورت چسبدار شیک طبی کرم لژدار لژ دار سبک راحت چرم راحتی صشسه",
+    "group": "دخترانه و زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چسبی",
+          "چسبدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پرادا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی",
+          "سبک",
+          "راحت",
+          "لژدار"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "لژدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "کفش ونس",
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "3ff173d1-e6b6-41dc-ae38-bfe45194f78d",
+    "image_url": "https://image.torob.com/base/images/tf/ZC/tfZC0INPVVYjep1i.jpg"
+  },
+  {
+    "title": "کتانی اسپرت",
+    "group": "نامشخص",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "e121b130-adc2-47f9-8689-69b5fc9c5a89",
+    "image_url": "https://image.torob.com/base/images/uh/h9/uhh9nqlXEZMKaLA9.jpg"
+  },
+  {
+    "title": "کفش مردانه ورزشی بند دار سفید چرمی واقعی کابانی Cabani",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بند دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی واقعی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کابانی",
+          "Cabani"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "98a7db65-a537-4f7c-9dee-5aa82a885648",
+    "image_url": "https://image.torob.com/base/images/CC/q-/CCq-WNJ-j32NWey3.jpg"
+  },
+  {
+    "title": "کتونی ایر فورس سفید مشکی اسپرت AF",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی ایر فورس",
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "1a191dcc-b2e6-40d7-b902-bbba4d51295a",
+    "image_url": "https://image.torob.com/base/images/wv/gE/wvgElweuHVwXu9uD.jpg"
+  },
+  {
+    "title": "کفش اسپورت مردانه سفید ریبوک 393 IF4723M",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریبوک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپوت"
+        ]
+      }
+    ],
+    "random_key": "16aaefa9-5b5f-443f-84e1-9f9d88e0baec",
+    "image_url": "https://image.torob.com/base/images/yG/cA/yGcAsMdCedUdhD8r.jpg"
+  },
+  {
+    "title": "کفش کتونی زنانه زیپ لاین",
+    "group": "زنانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی",
+          "زیپ لاین"
+        ]
+      }
+    ],
+    "random_key": "c1597211-6e01-4669-9af2-a21c90fe14e9",
+    "image_url": "https://image.torob.com/base/images/aP/C7/aPC7NtPApfSMcrWU.jpg"
+  },
+  {
+    "title": "کفش مردانه ورزشی آخن ورزش اسلازنگر Slazenger",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آخن",
+          "اسلازنگر",
+          "Slazenger"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "072d38d6-e2b4-47ae-8862-451cc69cb13c",
+    "image_url": "https://image.torob.com/base/images/Qb/Ft/QbFtcH9k9fJhHldP.jpg"
+  },
+  {
+    "title": "کفش پیاده روی ورزشی خاکستری مردانه 2240 FUSPETE BASE با دانلوپ Dunlop",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی",
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دانلوپ",
+          "Dunlop"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "433672d8-cc94-4c50-966e-453c32021964",
+    "image_url": "https://image.torob.com/base/images/iV/Iz/iVIzrOCniFd2_T_w.jpg"
+  },
+  {
+    "title": "اسنیکر مشکی زنانه Smash Platform V3 SD DAILY WEMAN SOLOW SUEDE کفش سیاه Puma",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "روزمره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "c0cd9094-ea25-48ea-bc83-054b4d81b14d",
+    "image_url": "https://image.torob.com/base/images/5_/HN/5_HNT75Ku0zKbhIX.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه و زنانه کفش ورزشی روزانه یونیسکس اورجینال نایک Nike",
+    "group": "مردانه و زنانه",
+    "product": "اسنیکر",
+    "entities": [],
+    "random_key": "5639fc9a-01db-4866-b51e-50432252be12",
+    "image_url": "https://image.torob.com/base/images/Og/qN/OgqNkTOrU6OGSZU2.jpg"
+  },
+  {
+    "title": "کتونی مردانه مدل زارا",
+    "group": "مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "3a51958b-be6f-4e91-adf9-b609e53d23ef",
+    "image_url": "https://image.torob.com/base/images/I2/Sq/I2SqtB47QLS2MFDu.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه Lescon برند لسکن اصل 23NAE00ELTEM028",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لسکن Lescon"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "72b38872-b440-4f9f-8c7e-dc46d9d3e5d6",
+    "image_url": "https://image.torob.com/base/images/ss/3Y/ss3YPeSEUyE79B87.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه پویان گام پیام مدل PDS کد 11859",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "23925dea-9cdc-41c6-b614-6117dcac840d",
+    "image_url": "https://image.torob.com/base/images/4O/sg/4OsgV4PiMd61RI2B.jpg"
+  },
+  {
+    "title": "اسنیکر سفید پوما | 387213",
+    "group": "نامشخص",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "88549988-031b-43ef-b4c5-64d9165c8743",
+    "image_url": "https://image.torob.com/base/images/wF/wo/wFwoR72aqnTC3viS.jpg"
+  },
+  {
+    "title": "کتونی اسپرت رانینگ مردانه.برند نایک.مدل نایک ایرزووم.محصول وارداتی ویتنام",
+    "group": "مردانه",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "رانینگ"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "2a316335-4df6-4873-a789-21771b789253",
+    "image_url": "https://image.torob.com/base/images/LT/gh/LTghi1gMMIZT94FS.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه مدل CHK کد 11574",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "4ec6c3fe-9086-464f-8c17-1f6ea4566a5c",
+    "image_url": "https://image.torob.com/base/images/5x/3h/5x3hzBbOebasGqd0.jpg"
+  },
+  {
+    "title": "کفش کفش ورزشی زنانه چرمی Aline رنگ بژ لوی کاردی Louis Cardy",
+    "group": "زنانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Louis Cardy",
+          "لوی کاردی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "60e2850b-654e-4a9b-8ab5-a37964146a77",
+    "image_url": "https://image.torob.com/base/images/7V/Bl/7VBlXqG-pdoEzXhN.jpg"
+  },
+  {
+    "title": "دمپایی ورزشی سفید مردانه و زنانه Leadcat 2.0 بازی Puma",
+    "group": "مردانه و زنانه",
+    "product": "دمپایی ورزشی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه و زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دمپایی ورزشی"
+        ]
+      }
+    ],
+    "random_key": "edde21fd-dfd2-4577-a29b-ffbe7493f6c3",
+    "image_url": "https://image.torob.com/base/images/Sz/ae/Szae2hxcomUd9MuX.jpg"
+  },
+  {
+    "title": "آدیداس یزی بوست adidas Yeezy Boost 350 V2 Mono مردانه",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "adidas"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "31760e9c-f19d-4754-8465-da2ba3fd3f8b",
+    "image_url": "https://image.torob.com/base/images/zF/1c/zF1cPqzTpgqpyHCG.jpg"
+  },
+  {
+    "title": "کتونی اسپرت دیادورا Diadora",
+    "group": "نامشخص",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دیادورا",
+          "Diadora"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "906d4bc5-88ce-406c-b76b-559668dc6166",
+    "image_url": "https://image.torob.com/base/images/x1/2Y/x12Y3snFfV6joT39.jpg"
+  },
+  {
+    "title": "کفش دویدن مردانه کوئستار آدیداس - 4",
+    "group": "مردانه",
+    "product": "کفش دویدن",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "دویدن"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش دویدن"
+        ]
+      }
+    ],
+    "random_key": "f1d4d24d-b490-43c7-b683-00acc7863436",
+    "image_url": "https://image.torob.com/base/images/A3/07/A3075n3HwdBidW6D.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Lacoste مدل 7-46sma004502h کد 787410065",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لاکوست",
+          "Lacoste"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "7261237e-8e8a-49ca-9a06-fa8f47ea934e",
+    "image_url": "https://image.torob.com/base/images/IY/m2/IYm2ReLhter1GG_I.jpg"
+  },
+  {
+    "title": "کتونی آیرانر مردانه",
+    "group": "مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "5187073f-a9c1-4fb2-938a-1260524181a3",
+    "image_url": "https://image.torob.com/base/images/c3/Pz/c3Pzo_H9KPEkgur6.jpg"
+  },
+  {
+    "title": "کتونی زنانه زدایکس 8000جدیدوپرفروش zx8000",
+    "group": "زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "e85d8971-8da3-4303-866f-937b15fc2cab",
+    "image_url": "https://image.torob.com/base/images/vj/FU/vjFUNMwOyVN3D4Ug.jpg"
+  },
+  {
+    "title": "کفش زنانه ونس مدل ضربان کد 1771428",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "447c6e6b-1c61-4783-b615-a1bafe74bcab",
+    "image_url": "https://image.torob.com/base/images/Lc/p2/Lcp2Cqkkx1NuCIe6.jpg"
+  },
+  {
+    "title": "اسنیکر سفید زنانه کفش سبک زندگی بلوک Axelion Puma",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "41830aad-eee9-434a-8d4a-f880a4483707",
+    "image_url": "https://image.torob.com/base/images/LP/3H/LP3HQiSH_gdQ2-cM.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه هومتو Humtto کد1321",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هومتو Humtto"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "e8ff7cb1-f7dd-4576-92a8-8245f074081b",
+    "image_url": "https://image.torob.com/base/images/6a/Mg/6aMg3b81nTADQ4f2.jpg"
+  },
+  {
+    "title": "کفش آدیداس Adidas Five Ten Hellcat – Core Black\n/Crystal White\n/Hazy Emerald",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید",
+          "سبز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس Adidas Five Ten"
+        ]
+      }
+    ],
+    "random_key": "6ee65f6a-1d3e-41f2-b5e6-3526f8984a31",
+    "image_url": "https://image.torob.com/base/images/0x/gi/0xgid8bjstVcSeZf.jpg"
+  },
+  {
+    "title": "کفش پیاده‌روی مردانه رنگی با بند برند kappa",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "kappa"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "b076972a-a8ee-40bc-aeb7-5d465b32a7d0",
+    "image_url": "https://image.torob.com/base/images/cq/w5/cqw5quMIVd5cfSMR.jpg"
+  },
+  {
+    "title": "کفش مخصوص پیاده روی زنانه ویکو مدل R3151 FA -12171",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "da843a50-982d-43a1-a951-5664fe6b730f",
+    "image_url": "https://image.torob.com/base/images/GB/6k/GB6kzq159yGg4F26.jpg"
+  },
+  {
+    "title": "کتونی زنانه ونس پانچی",
+    "group": "زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "fac7deb9-3516-40b9-abb8-52f72b5c56f3",
+    "image_url": "https://image.torob.com/base/images/k-/ER/k-ERpa96frBXzyUK.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه پول اند بیر Pull & Bear اورجینال 12702441",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پول اند بیر Pull & Bear"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "2769c159-31ae-49c7-a721-047a2009b638",
+    "image_url": "https://image.torob.com/base/images/x-/3r/x-3rZ00j8eSp88oj.jpg"
+  },
+  {
+    "title": "کفش کتونی زارا Zara",
+    "group": "نامشخص",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زارا Zara"
+        ]
+      }
+    ],
+    "random_key": "a9ada03f-6907-4b0a-9e95-edc387f570f5",
+    "image_url": "https://image.torob.com/base/images/xx/dw/xxdwQ8rwRpwPtapO.jpg"
+  },
+  {
+    "title": "کفش کتانی زنانه سفید بنتون BN-30536",
+    "group": "زنانه",
+    "product": "کفش کتانی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بنتون BN"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "75319d61-4c2c-4208-8913-8c4f14769f5e",
+    "image_url": "https://image.torob.com/base/images/m5/h0/m5h0vMSL5VyY4iS1.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه هوکا مدل Hoka One One Arahi 3 کد1104097/BSMI",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هوکا Hoka One One"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "f6323aae-bdae-4a21-9431-44a00f359f6d",
+    "image_url": "https://image.torob.com/base/images/5M/xi/5Mxi4ZoSm5LkE7l4.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Vans مدل UltraRange 66 V کد 825889658",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Vans"
+        ]
+      }
+    ],
+    "random_key": "6afff749-d917-4e66-bae7-09cf3c6fcd8a",
+    "image_url": "https://image.torob.com/base/images/YP/9D/YP9Dv7_P6A8e2e3B.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه GAZELLE BOLD کفش روزانه HQ6912 سیاه آدیداس adidas",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "روزانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس adidas"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "0cf179b9-411b-47f7-89cb-fede6975b371",
+    "image_url": "https://image.torob.com/base/images/fQ/If/fQIfNMckV6hSGVCF.jpg"
+  },
+  {
+    "title": "کفش مخصوص پیاده روی زنانه پرفکت استپس (Prefect Steps) مدل هلس واک رنگ مشکی",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پرفکت استپس (Prefect Steps)"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "1149b5a3-81e7-4044-90e2-653f9eff62f3",
+    "image_url": "https://image.torob.com/base/images/u5/Z9/u5Z9RwFpRO60WgqA.jpg"
+  },
+  {
+    "title": "کفش مردانه روزمره اسپرت طرح فندی رنگ مشکی سایز 40 تا 44کفش پاارا",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40 تا 44"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "روزمره",
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فندی"
+        ]
+      }
+    ],
+    "random_key": "ebadb4d7-6d3e-4901-9987-7708cb1c2233",
+    "image_url": "https://image.torob.com/base/images/P3/kb/P3kbj7uw9MANDTpY.jpg"
+  },
+  {
+    "title": "کفش ورزشی پایین با بند برند Lacoste",
+    "group": "نامشخص",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lacoste"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "e855569c-359c-47df-b40c-e265c11960a1",
+    "image_url": "https://image.torob.com/base/images/F7/x7/F7x7PwWZrTk7pcw6.jpg"
+  },
+  {
+    "title": "کتونی زنانه طرح آدیداس کد462",
+    "group": "زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آدیداس"
+        ]
+      }
+    ],
+    "random_key": "ae11fbed-3700-4a7c-8ea4-98ce4aa2dad1",
+    "image_url": "https://image.torob.com/base/images/od/Wq/odWqMtnnrzt6qAFm.jpg"
+  },
+  {
+    "title": "کفش اسپرت ورزشی، راحتی برند پابین کد 142 ارسال رایگان",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپرت",
+          "ورزشی",
+          "راحتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پابین"
+        ]
+      }
+    ],
+    "random_key": "25880b90-c0d2-4548-92ca-1d3f90b47a43",
+    "image_url": "https://image.torob.com/base/images/R0/e0/R0e0JZCKuAY4ggHX.jpg"
+  },
+  {
+    "title": "کفش پیاده روی اورجینال برند Adidas مدل Trae Young Unlimited 2 کد 831260834",
+    "group": "نامشخص",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Adidas"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "04fe91f1-d133-4c9b-8ea5-162ed0ab2573",
+    "image_url": "https://image.torob.com/base/images/po/1i/po1iV7zodBmFs6VP.jpg"
+  },
+  {
+    "title": "کتانی گازولین استن تمام سفید – Stan Mono White",
+    "group": "نامشخص",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "گازولین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "d4512b97-d1b4-4533-ad98-dc5780170a20",
+    "image_url": "https://image.torob.com/base/images/Rg/l6/Rgl6d0Cf8zG30Dtm.jpg"
+  },
+  {
+    "title": "کفش اسپورت خارجی adidas",
+    "group": "نامشخص",
+    "product": "کفش اسپورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپورت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Adidas"
+        ]
+      }
+    ],
+    "random_key": "28e6addd-bd4e-4102-9e84-0884200a2067",
+    "image_url": "https://image.torob.com/base/images/7g/1u/7g1usPg7l3GT0tih.jpg"
+  },
+  {
+    "title": "کفش پیاده روی زنانه مشکی کینتیکس | TYC43565AEE5CDB808 اورجینال",
+    "group": "زنانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کینتیکس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "7432f81f-5fec-4671-9987-eb1a72788880",
+    "image_url": "https://image.torob.com/base/images/DO/D7/DOD7VTmbFnF01Yrv.jpg"
+  },
+  {
+    "title": "کفش دویدن اورجینال برند Adidas کد 838683631",
+    "group": "نامشخص",
+    "product": "کفش دویدن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش دویدن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Adidas"
+        ]
+      }
+    ],
+    "random_key": "97aa5804-4b6f-43e1-89e4-e5770bd29b17",
+    "image_url": "https://image.torob.com/base/images/y8/wH/y8wHXnigUFeAra0X.jpg"
+  },
+  {
+    "title": "کفش مردانه زنانه یونیسکس ورزشی Caven 20 پوما Puma",
+    "group": "مردانه زنانه یونیسکس",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما Puma"
+        ]
+      }
+    ],
+    "random_key": "92c1dd88-e43d-4c11-953a-704fe2f9b9f6",
+    "image_url": "https://image.torob.com/base/images/X4/Yj/X4Yjeq2XRfbs8teG.jpg"
+  },
+  {
+    "title": "اسنیکر خاکستری مردانه کوارک کفش ورزشی آلدو Aldo",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آلدو Aldo"
+        ]
+      }
+    ],
+    "random_key": "b7b572c4-185f-4211-92f0-4536de92870c",
+    "image_url": "https://image.torob.com/base/images/GU/fk/GUfkQ9pLx7N53kEE.jpg"
+  },
+  {
+    "title": "کفش تمرینی زنانه آنتا کد 822147756-1",
+    "group": "زنانه",
+    "product": "کفش تمرینی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آنتا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش تمرینی"
+        ]
+      }
+    ],
+    "random_key": "5684d62f-1163-4111-9bff-b5537354307f",
+    "image_url": "https://image.torob.com/base/images/9G/nr/9Gnrhc03hrVTnfDl.jpg"
+  },
+  {
+    "title": "کتونی نایک ایر جردن وان لو بنفش پاستیلی زنانه",
+    "group": "زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "فرم",
+        "values": [
+          "لو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش پاستیلی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "a5d9d676-93e6-4f90-80c2-3741423a34f9",
+    "image_url": "https://image.torob.com/base/images/iY/7v/iY7vyaMUK-eqKk5P.jpg"
+  },
+  {
+    "title": "کفش مردانه زنانه یونیسکس ورزشی مگا Gravmiton پوما Puma",
+    "group": "مردانه زنانه یونیسکس",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما Puma"
+        ]
+      }
+    ],
+    "random_key": "05f5cbe5-c72f-425d-8662-fafd4eb626a8",
+    "image_url": "https://image.torob.com/base/images/pW/Jo/pWJooYlNcq4jO9T2.jpg"
+  },
+  {
+    "title": "کتونی اسکیچرز سایز ۴۰ تا ۴۵ فروش بصورت عمده و تک ،وارداتی ویتنام .Skechers Max cushion vietnam - ۴",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز Skechers"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45"
+        ]
+      }
+    ],
+    "random_key": "d18963d2-d63c-41cb-952a-e4692b020981",
+    "image_url": "https://image.torob.com/base/images/9n/L9/9nL93FI8p1XpgXuI.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Elle کد 818018394",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Elle"
+        ]
+      }
+    ],
+    "random_key": "58230a6d-8030-4e5a-8194-8512234784f2",
+    "image_url": "https://image.torob.com/base/images/cG/fC/cGfCBIMBnIs2KahL.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه تامی هیلفیگر اورجینال مشکی Tommy Hilfiger FM0FM05199",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تامی هیلفیگر Tommy Hilfiger"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "1fb8d37d-c79f-4bc7-a78c-e3a1bc9dae01",
+    "image_url": "https://image.torob.com/base/images/TI/sX/TIsXJhF_-68dc3r7.jpg"
+  },
+  {
+    "title": "دویدن پایین تنه گرمکن ورزشی مردانه ایکس ساید کد W4L066Z8 - J1P | XSIDE",
+    "group": "مردانه",
+    "product": "گرمکن ورزشی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ایکس ساید XSIDE"
+        ]
+      }
+    ],
+    "random_key": "e63b5c52-ae4f-4c2e-bed3-b1a61a6c98a3",
+    "image_url": "https://image.torob.com/base/images/Vr/xw/Vrxw0QhJuJtsSRNy.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Nike مدل Air Max Bella Tr 5 کد 471674568",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      }
+    ],
+    "random_key": "79528256-b85e-45bb-92a4-e507ac293590",
+    "image_url": "https://image.torob.com/base/images/H7/Fy/H7FylK_TKnG0lNuz.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Erkan sacmaci مدل Streç Zincirli Sneaker کد 669806056",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Erkan sacmaci"
+        ]
+      }
+    ],
+    "random_key": "3fa8376b-9445-46b3-8ae6-49d1cbc1b8fe",
+    "image_url": "https://image.torob.com/base/images/_o/gQ/_ogQkBM11O1qYEP2.jpg"
+  },
+  {
+    "title": "کفش مردانه پیاده روی jump",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "128ef526-99c4-4de6-af75-0f658d98c8fa",
+    "image_url": "https://image.torob.com/base/images/lA/o6/lAo6JV9QFfg-hqDo.jpg"
+  },
+  {
+    "title": "کتونی اورجینال سالامون Salomon Ultra Glide 2 - سایز:38/5 - 24 سانتی متر",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سالامون Salomon"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "38/5",
+          "24 سانتی متر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اورجینال"
+        ]
+      }
+    ],
+    "random_key": "e9f5b294-54e9-458c-a17b-192a676e2d64",
+    "image_url": "https://image.torob.com/base/images/43/Ih/43IhqCsFX6rp--5Z.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Adidas مدل Samba OG کد 820754354",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Adidas"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اورجینال"
+        ]
+      }
+    ],
+    "random_key": "5ca51c40-d0cc-4f6c-9ed0-a31024874188",
+    "image_url": "https://image.torob.com/base/images/Ax/5e/Ax5egvnkMxXacVSO.jpg"
+  },
+  {
+    "title": "کفش اسپرت مردانه پختی بسیار با کیفیت و راحت مناسب روزمره پیاده روی و باشگاه",
+    "group": "مردانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "روزمره",
+          "پیاده روی",
+          "باشگاهی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با کیفیت",
+          "راحت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "95afe9ae-7154-4012-8033-1f57242da749",
+    "image_url": "https://image.torob.com/base/images/Wk/Ot/WkOtVqyj7b86dMPG.jpg"
+  },
+  {
+    "title": "کتونی نیوبالانس فیلوسل",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "eb98bb43-5359-4c19-ac7c-a78c6f06be27",
+    "image_url": "https://image.torob.com/base/images/1X/7M/1X7MUO3-yQ58XT8X.webp"
+  },
+  {
+    "title": "ونس لژ دار مردانه",
+    "group": "مردانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لژ دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس لژ دار"
+        ]
+      }
+    ],
+    "random_key": "f64c96ea-19bf-40fa-b29b-7d6ae5db0a7f",
+    "image_url": "https://image.torob.com/base/images/_1/js/_1jst8Puf-Y6vKmL.jpg"
+  },
+  {
+    "title": "کتانی مردانه جورابی ایرمکس",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جورابی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی جورابی"
+        ]
+      }
+    ],
+    "random_key": "8f495da0-bdb8-4ab0-baec-0a721f5001cc",
+    "image_url": "https://image.torob.com/base/images/zA/xw/zAxw3n70eEQyNwo-.jpg"
+  },
+  {
+    "title": "کتونی زنانه بافته شده با نخ کتان کدGS00010",
+    "group": "زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ کتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی بافته شده"
+        ]
+      }
+    ],
+    "random_key": "78430cbf-6279-43fc-890e-097f249f5c81",
+    "image_url": "https://image.torob.com/base/images/K-/XV/K-XVMksQGqDmztox.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه سارزی مدل C.K_T.o.s.",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "1d53eb87-9955-4d89-a744-1d5da1d91687",
+    "image_url": "https://image.torob.com/base/images/du/z2/duz2doheViC4o3G2.jpg"
+  },
+  {
+    "title": "کفش کتونی آسیکس طوسی و مشکی کفش پاپوش بهبهان",
+    "group": "نامشخص",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آسیکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "634439ce-be36-43a2-b395-8a1b6bb80f61",
+    "image_url": "https://image.torob.com/base/images/I4/FA/I4FAlyzD4RBDk9Lo.jpg"
+  },
+  {
+    "title": "کفش اسپورت مردانه سیاه ریبوک ID1592 100",
+    "group": "مردانه",
+    "product": "کفش اسپورت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ریبوک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپورت"
+        ]
+      }
+    ],
+    "random_key": "00faaa9b-a6eb-44a6-8283-175c4906e4bf",
+    "image_url": "https://image.torob.com/base/images/Cm/vB/CmvBL8SdWqvV69nA.jpg"
+  },
+  {
+    "title": "کتونی کد292",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "492408f4-2c76-40fd-8f94-b823cf9e3f82",
+    "image_url": "https://image.torob.com/base/images/7s/xd/7sxdeVmHaNMYUFJ_.jpg"
+  },
+  {
+    "title": "اسنیکر سبز مردانه کتونی اسپرت کلاسیک یشمی مشکی از ریکون برند ترکیه Riccon",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ریکون Riccon"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز",
+          "یشمی",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کلاسیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "ab610184-294d-4f0e-b66b-d8f04f40d12c",
+    "image_url": "https://image.torob.com/base/images/6t/iT/6tiTAsGeClqGAKG2.jpg"
+  },
+  {
+    "title": "ونس آلستار کتونی جدید کفش کتانی کفش زنانه",
+    "group": "زنانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس آلستار",
+          "کتونی",
+          "کفش کتانی"
+        ]
+      }
+    ],
+    "random_key": "a553c805-ed31-491e-93e5-99c957c142f4",
+    "image_url": "https://image.torob.com/base/images/8e/y5/8ey56ZwGBKHlTTMJ.jpg"
+  },
+  {
+    "title": "کفش دویدن و پیاده‌روی زنانه نیو بالانس",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیو بالانس"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "دویدن",
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش دویدن",
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "a8fe9a81-0242-4e90-8333-671975414c16",
+    "image_url": "https://image.torob.com/base/images/4B/oY/4BoY_hkDMU-RIOZ1.jpg"
+  },
+  {
+    "title": "کتونی آدیداس دسلر بزرگپا سفید سبز سایز45تا47",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "سبز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45",
+          "47"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "20d141f6-976b-4de2-bc5e-b1278bb98ea6",
+    "image_url": "https://image.torob.com/base/images/bK/n3/bKn3TDQiaZ0AfFLi.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Agace مدل Unisex Sneaker کد 755355907",
+    "group": "یونیسکس",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Agace"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Unisex Sneaker"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "یونیسکس"
+        ]
+      }
+    ],
+    "random_key": "0867b3f3-434f-4d90-a125-bc6555f6bdb5",
+    "image_url": "https://image.torob.com/base/images/Bw/bP/BwbPrQMsDSMdJfKc.jpg"
+  },
+  {
+    "title": "کتانی زنانه فالکون",
+    "group": "زنانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "فالکون"
+        ]
+      }
+    ],
+    "random_key": "5680f6a2-58d3-4302-aff3-4fa01b5ea0a5",
+    "image_url": "https://image.torob.com/base/images/sx/D9/sxD9w0KxYplmBblI.jpg"
+  },
+  {
+    "title": "کفش مردانه زنانه یونیسکس Air Force 1 Platform و ورزشی سیاه نایک Nike",
+    "group": "مردانه زنانه یونیسکس",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه",
+          "یونیسکس"
+        ]
+      }
+    ],
+    "random_key": "443ed404-d5f2-4d22-8174-9d3870c8406e",
+    "image_url": "https://image.torob.com/base/images/x4/wy/x4wy76ZRTri6YMmE.jpg"
+  },
+  {
+    "title": "SAUCONY XODUS ULTRA 2 TRAIL - ۴",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SAUCONY"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "TRAIL"
+        ]
+      }
+    ],
+    "random_key": "85a55742-e5ef-4e15-a148-9cce84c4c8d6",
+    "image_url": "https://image.torob.com/base/images/2U/x9/2Ux9SEqw8bT-wNx5.jpg"
+  },
+  {
+    "title": "کفش پیاده روی زنانه مشکی یو اس پولو | BYZAYK7791 اورجینال",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "یو اس پولو"
+        ]
+      }
+    ],
+    "random_key": "e0c98603-b268-4c92-8bcc-abe3a0c07781",
+    "image_url": "https://image.torob.com/base/images/ec/vF/ecvF3PVxBBw3fox-.jpg"
+  },
+  {
+    "title": "کانورس کلاسیک مشکی ساقدار",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کانورس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "فرم",
+        "values": [
+          "ساقدار"
+        ]
+      }
+    ],
+    "random_key": "9655f76b-0b29-46c0-a8be-c36beb118965",
+    "image_url": "https://image.torob.com/base/images/Hi/a_/Hia_MYxmxMoTDUtq.jpg"
+  },
+  {
+    "title": "کفش زنانه Dunk Low Se Fleece Pack Honeydew W ورزشی نایک Nike",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "60a54455-0c74-4a42-a921-f2be35712898",
+    "image_url": "https://image.torob.com/base/images/zw/Y1/zwY1WBbilr_XgFrH.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Nur karaca کد 377238777",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nur karaca"
+        ]
+      }
+    ],
+    "random_key": "4f3cf205-8123-4c31-8adb-e6105eb4e05a",
+    "image_url": "https://image.torob.com/base/images/0d/Hs/0dHsU2Rrf6BMVX0X.jpg"
+  },
+  {
+    "title": "اسنیکر Greyder اورجینال گریدر GRY-2K1SB14604 Men's Black Genuine Leather Sneaker Boots 2k1sb14604",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Greyder",
+          "گریدر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم طبیعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Sneaker Boots"
+        ]
+      }
+    ],
+    "random_key": "efeeca8f-8311-43b7-ae4c-2754e33ef0ee",
+    "image_url": "https://image.torob.com/base/images/-q/Yw/-qYwtc4csofKoMCQ.jpg"
+  },
+  {
+    "title": "کفش مردانه زنانه یونیسکس Gaspar Pu و Sport سیاسی سفید کینتکس Kinetix",
+    "group": "مردانه زنانه یونیسکس",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کینتکس",
+          "Kinetix"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه",
+          "یونیسکس"
+        ]
+      }
+    ],
+    "random_key": "1e90b465-4300-4666-8ece-2bbbf2916f8f",
+    "image_url": "https://image.torob.com/base/images/hS/o-/hSo-k0bzaO4W7PAa.jpg"
+  },
+  {
+    "title": "اسنیکر نود زنانه کفش چاک تیلور تمام ورزشی بوم و چرمی Converse",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Converse"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بوم",
+          "چرم"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "70f79c7b-5587-434f-8900-9b1e3c19b9e6",
+    "image_url": "https://image.torob.com/base/images/Zy/pf/ZypfhDZdG3UIeZVg.jpg"
+  },
+  {
+    "title": "بمب تخفیف این هفته کفش کتونی اسپرت دخترانه و زنانه رنگ کرم زیتونی مناسب افراد خاص پسند",
+    "group": "دخترانه و زنانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "زیتونی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "3f555d93-575d-4010-954c-e55adb9eca07",
+    "image_url": "https://image.torob.com/base/images/o9/11/o911QBLkRogiKQPC.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه BEIGE 1F FINSSTER WMN 1PR Lumberjack",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Lumberjack"
+        ]
+      }
+    ],
+    "random_key": "ed718e54-5978-47f7-9f3e-25d55f50eb65",
+    "image_url": "https://image.torob.com/base/images/gL/h4/gLh4yIHlgiaK4-WN.jpg"
+  },
+  {
+    "title": "کفش نایک زوم رامیلا زنانه 10204",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      }
+    ],
+    "random_key": "37ce3dd6-771d-48d3-8cd0-5292dbc2047b",
+    "image_url": "https://image.torob.com/base/images/Vc/5J/Vc5JJOAVkgGldFO_.jpg"
+  },
+  {
+    "title": "اسنیکر سفید زنانه کفش های Suede Meseu 384887 02 Puma",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      }
+    ],
+    "random_key": "06957899-5dc3-4d0e-b1ef-f53741978b03",
+    "image_url": "https://image.torob.com/base/images/Sa/I1/SaI14_9Q7bmljY58.jpg"
+  },
+  {
+    "title": "کتونی پیاده روی اسکیچرز Skechers Go Walk",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز",
+          "Skechers"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Go Walk"
+        ]
+      }
+    ],
+    "random_key": "74026119-c6c5-468b-a3ec-b0954f76b795",
+    "image_url": "https://image.torob.com/base/images/dx/2T/dx2T5ocG4Vta3ysL.jpg"
+  },
+  {
+    "title": "اسنیکر سفید مردانه و زنانه کفش ورزشی VL Court 3.0 adidas",
+    "group": "مردانه و زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی VL Court 3.0"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      }
+    ],
+    "random_key": "b8c5fc7b-0d7b-47e7-9422-0559e84e0713",
+    "image_url": "https://image.torob.com/base/images/Hl/0j/Hl0jQdClVjXf4JY_.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه 231470 ورزشی بژ اورجینال Bulldozer",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی Bulldozer"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Bulldozer"
+        ]
+      }
+    ],
+    "random_key": "c5927ebe-3ab8-4777-9aa1-aee5679ebd06",
+    "image_url": "https://image.torob.com/base/images/b9/V-/b9V-CU9HovBPk8e5.jpg"
+  },
+  {
+    "title": "کتونی زدایکس اژدها دراگون - 3",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی زدایکس",
+          "دراگون"
+        ]
+      }
+    ],
+    "random_key": "c3bbafd1-6948-4085-8f64-3b7ab4807295",
+    "image_url": "https://image.torob.com/base/images/vD/Qk/vDQkCUc-id5Wzmmf.jpg"
+  },
+  {
+    "title": "اسنیکر راسته مردانه | آدیداس adidas IG3583",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "adidas"
+        ]
+      }
+    ],
+    "random_key": "9e5f203e-02b4-495d-8e38-0ee90af2fa38",
+    "image_url": "https://image.torob.com/base/images/9n/gg/9nggqETeC6KzTtTF.jpg"
+  },
+  {
+    "title": "کفش کتونی sep اصلی جنس بافت خارجی زیره پیو(طبی) برندزیره بتا",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "tipo de cierre",
+        "values": [
+          "کفش کتونی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت خارجی"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی"
+        ]
+      }
+    ],
+    "random_key": "492a333b-65c0-442a-b52d-4c9a27669474",
+    "image_url": "https://image.torob.com/base/images/GF/5-/GF5-JF81rtBGUVTo.jpg"
+  },
+  {
+    "title": "کفش زنانه Uspolo Assn مارتا طلای سیاه یو اس پولو U.S. Polo Assn.",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Uspolo Assn",
+          "U.S. Polo Assn."
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طلای سیاه"
+        ]
+      }
+    ],
+    "random_key": "36637589-0e8a-443e-9559-3375574852a7",
+    "image_url": "https://image.torob.com/base/images/4o/vj/4ovjlsHminJ7TbFy.jpg"
+  },
+  {
+    "title": "کفش زنانه پاپا مدل اسکیچرز کد 013787",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پاپا مدل اسکیچرز"
+        ]
+      }
+    ],
+    "random_key": "fd0d3cda-652c-401a-a0bf-8872c2e270c5",
+    "image_url": "https://image.torob.com/base/images/i6/9P/i69PTWKNNjnzNrLA.jpg"
+  },
+  {
+    "title": "کتونی لژدار جدید ترندسال",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لژدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "01501f28-edbc-4512-b16d-1f5aa39edcde",
+    "image_url": "https://image.torob.com/base/images/II/9I/II9IALf29e2Ntuim.jpg"
+  },
+  {
+    "title": "ونس زنانه",
+    "group": "زنانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "c331f2a6-d287-41bd-b21a-ec5e2a9e4f3e",
+    "image_url": "https://image.torob.com/base/images/V6/5G/V65GC_bSKfFSDy5u.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه | Reebok DMX COMFORT +",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Reebok"
+        ]
+      }
+    ],
+    "random_key": "7cb54200-bd8e-45a7-9192-1d71f3a57ea4",
+    "image_url": "https://image.torob.com/base/images/hK/wK/hKwKSfOYF2wCChRU.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Nike کد 755405613",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Nike"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "2af2d696-6aab-4574-bd6f-6e4c27f19e6f",
+    "image_url": "https://image.torob.com/base/images/fU/0b/fU0b_hj9XkX1pKFn.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه بنتون Benetton اورجینال BN-30536",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بنتون",
+          "Benetton"
+        ]
+      }
+    ],
+    "random_key": "4902281f-9b6a-47e8-9388-fff497167ce9",
+    "image_url": "https://image.torob.com/base/images/le/BM/leBMIX_Z-YpsjoEn.jpg"
+  },
+  {
+    "title": "کتانی تمرین و دویدن زنانه برند نایک اصل DC3730-001",
+    "group": "زنانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "تمرین",
+          "دویدن"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "99254e4e-a504-4030-a322-9a0014772d6f",
+    "image_url": "https://image.torob.com/base/images/Se/it/Seit3Zn0QNlKxpcx.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه کد 117",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "d95da5c8-5183-4a5e-8ff8-73716c77f833",
+    "image_url": "https://image.torob.com/base/images/Wm/pg/WmpgPBcqkw6ebadS.jpg"
+  },
+  {
+    "title": "کفش کتونی اسپرت زنانه دخترانه مدل جورابی بندی رنگ مشکی کالباسی کد 4195",
+    "group": "زنانه و دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی اسپرت"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "فرم",
+        "values": [
+          "جورابی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "کالباسی"
+        ]
+      }
+    ],
+    "random_key": "7e13131e-800b-4a8f-8ca1-2e8d030f4ede",
+    "image_url": "https://image.torob.com/base/images/4g/AK/4gAKT7_jsrhwJ7Xw.jpg"
+  },
+  {
+    "title": "اسنیکر سبز مردانه کفش چرمی با بند لاکچری Derimod",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش چرمی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Derimod"
+        ]
+      }
+    ],
+    "random_key": "1b8bd24e-4c4c-4ad0-8077-b405dc5f8716",
+    "image_url": "https://image.torob.com/base/images/Xn/A9/XnA9IYAn6AUPMJLJ.jpg"
+  },
+  {
+    "title": "کتونی لژ دو رنگ کد 14001291",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لژ دو رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "e4728bcb-63a5-42bc-b5dc-de792698efbe",
+    "image_url": "https://image.torob.com/base/images/_r/Qc/_rQcIfYY0Y7--c-V.jpg"
+  },
+  {
+    "title": "کفش زنانه ورزشی راحت قرمز خاکستری سفید اسلازنگر Slazenger",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی",
+          "راحت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "خاکستری",
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسلازنگر",
+          "Slazenger"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "8884e6e6-dea9-41f6-81db-c3f9b884f5a9",
+    "image_url": "https://image.torob.com/base/images/aO/j-/aOj-3J8bSPm0pU29.jpg"
+  },
+  {
+    "title": "کتونی ساقدار آرین نیم بوت زنتانه کتونی زنانه کتونی دخترانه کتونی ساقدار شیک",
+    "group": "زنانه و دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "فرم",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "نیم بوت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "56760219-5a46-4f4a-8040-ad028fbc0b63",
+    "image_url": "https://image.torob.com/base/images/9Y/Ny/9YNyP5Y80LaQg2gs.jpg"
+  },
+  {
+    "title": "کفش مردانه | بولدوزر Bulldozer TYC00115900142",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بولدوزر",
+          "Bulldozer"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "cc37c519-a4fb-4b69-8f48-2d4718c7fcbc",
+    "image_url": "https://image.torob.com/base/images/TA/nv/TAnvH4SnhhvQZ5vQ.jpg"
+  },
+  {
+    "title": "کتونی ساقدار ادیداس - مشکی /",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "فرم",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "be4ae3a3-63ee-4903-a139-72f7503bcef6",
+    "image_url": "https://image.torob.com/base/images/G2/uk/G2uk_0keMV1tbEhB.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Nike مدل Air Max 270 React کد 75687078",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "Nike"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "Nike Air Max 270 React"
+        ]
+      }
+    ],
+    "random_key": "7bbae351-76e3-496b-9802-9d1f2c223341",
+    "image_url": "https://image.torob.com/base/images/Pk/q7/Pkq7fF9bHR9XDONf.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه سفید لاکست | 745CFA0048 اورجینال",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لاکست"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "59dc6317-9c64-40b0-8581-1079f48974a3",
+    "image_url": "https://image.torob.com/base/images/yn/vc/ynvc5Dw-lGO-4_cu.jpg"
+  },
+  {
+    "title": "ادیداس dn طوسی تیره سایز 4",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی تیره"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4"
+        ]
+      }
+    ],
+    "random_key": "a7ee9ff7-b843-4d3d-9f59-fdb4a3ccd0da",
+    "image_url": "https://image.torob.com/base/images/yO/wR/yOwRwONgiUS2p1JK.jpg"
+  },
+  {
+    "title": "کفش اسپورت مردانه ادیداس | JP5908 adidas",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "adidas"
+        ]
+      }
+    ],
+    "random_key": "d32cb586-7bbf-49c4-a609-fddcf936b427",
+    "image_url": "https://image.torob.com/base/images/rF/pO/rFpOJNexKYme5h7E.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه مشکی لامبرجک | LJK-STRONG اورجینال",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "a3d8627d-af83-4923-a4b8-c4bb1bec912a",
+    "image_url": "https://image.torob.com/base/images/Gc/TJ/GcTJOHlLjBP3dlKB.jpg"
+  },
+  {
+    "title": "کتونی اورجینال ecco مدل hybrid 720 gortex",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "gortex",
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ecco"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "hybrid 720"
+        ]
+      }
+    ],
+    "random_key": "89b63371-5dec-4d6b-9855-1c467166833d",
+    "image_url": "https://image.torob.com/base/images/Cw/Jb/CwJbO4PMwlM858I2.jpg"
+  },
+  {
+    "title": "کفش روزانه مردانه نایکی Jordan 1 Low Travis Scott M",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "روزانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "Jordan"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش Jordan 1 Low Travis Scott"
+        ]
+      }
+    ],
+    "random_key": "436cc0f4-dc1a-40ed-85e4-8c662d72e106",
+    "image_url": "https://image.torob.com/base/images/bP/BE/bPBEhQlFXTOhktiL.webp"
+  },
+  {
+    "title": "یوت اولترا ۵ مچ تی تی + مید جونیور برند puma",
+    "group": "نامشخص",
+    "product": "کفش فوتبال",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پوما",
+          "puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش فوتبال یوت اولترا ۵ مچ تی تی"
+        ]
+      }
+    ],
+    "random_key": "c974b1d8-9278-4474-aedd-dee77562fee1",
+    "image_url": "https://image.torob.com/base/images/Ka/iq/Kaiqm1XlJ2XYjvKq.jpg"
+  },
+  {
+    "title": "کفش زنانه ورزشی خاکستری بامبی Bambi",
+    "group": "زنانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بامبی",
+          "Bambi"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "eb713a18-c980-4c6c-a845-cc5a865547f6",
+    "image_url": "https://image.torob.com/base/images/tJ/mR/tJmR17k60VuNK7Zq.jpg"
+  },
+  {
+    "title": "کتونی خاص (37تا40) آف خورده - کتانی - کتونی - کتونی عید - کفش عید - کتونی عیدانه- کتونی ارزان - کفش زیبا",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "عید",
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارزان",
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "کتانی",
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "a75aad91-a9f4-4918-bb54-b83f571a9743",
+    "image_url": "https://image.torob.com/base/images/hl/FT/hlFTdtTF9eXo5BWK.jpg"
+  },
+  {
+    "title": "کتونی دانک مدل نایک دانک کم «گندم» رنگ گندم / صمغ زرد / مشکی / گندم مردانه نایک",
+    "group": "مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "گندم",
+          "صمغ زرد",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی دانک",
+          "نایک دانک کم «گندم»"
+        ]
+      }
+    ],
+    "random_key": "70fec8ec-a8a1-498e-852f-d7e931eb4cc0",
+    "image_url": "https://image.torob.com/base/images/qQ/OE/qQOE0iLZPVifl2Me.jpg"
+  },
+  {
+    "title": "کفش اسپرت زنانه و دخترانه سایز 37و39و40",
+    "group": "زنانه و دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "39",
+          "40"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "f471b05a-020e-48e8-afb8-fef238afab2c",
+    "image_url": "https://image.torob.com/base/images/nQ/2u/nQ2uTHo2OmcuGhwJ.jpg"
+  },
+  {
+    "title": "کفش پیاده روی ورزشی مشکی زنانه آب رانندگی رنگهای سیاه و سفید قدم زدن فصلی ویکرز Wickers",
+    "group": "زنانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی",
+          "ورزشی",
+          "رانندگی",
+          "قدم زدن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سیاه و سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکرز",
+          "Wickers"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "فصلی"
+        ]
+      }
+    ],
+    "random_key": "025be56a-5c9d-422e-b716-89c97458a2ce",
+    "image_url": "https://image.torob.com/base/images/sG/8A/sG8AfS9hAgcIXi05.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Ccway مدل Kaydırmaz Kadın Spor Ayakkabı کد 804034331",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Ccway"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "447d2abc-c469-4d84-be79-b99659eb178e",
+    "image_url": "https://image.torob.com/base/images/yv/bc/yvbchglmDjT-cmVL.jpg"
+  },
+  {
+    "title": "کتونی آدیداس اس ال 1970",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "3bd2b2e8-c294-49b1-8cb8-733cd39d7f1e",
+    "image_url": "https://image.torob.com/base/images/0u/Bn/0uBn24nxIRQfkaL5.jpg"
+  },
+  {
+    "title": "کتونی میانه لژدار زنانه (پس کرایه)",
+    "group": "زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لژدار"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "5125cb79-8312-4acc-927d-64d62ed5eed0",
+    "image_url": "https://image.torob.com/base/images/QP/xc/QPxcv5FBV1QFJ0D9.jpg"
+  },
+  {
+    "title": "کفش پیاده روی سفید زنانه ورزشی روزانه در US Alkaz 23KA U.S. Polo Assn.",
+    "group": "زنانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی",
+          "ورزشی",
+          "روزانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "US Alkaz",
+          "U.S. Polo Assn."
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "6827c338-f194-4fa1-ac41-297c7d88d7eb",
+    "image_url": "https://image.torob.com/base/images/ys/HZ/ysHZkV9lZfrBokAX.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Kappa مدل 361G13WF94 کد 753322703",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Kappa"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "48468503-881c-4774-a2df-6dc9391dd686",
+    "image_url": "https://image.torob.com/base/images/1P/mV/1PmVPbMDZlzvAA5b.jpg"
+  },
+  {
+    "title": "فروش ویژه کفش اسپرت کتونی مردانه و پسرانه مدل ادیداس زیره پیو طبی رنگ مشکی سفید زیره سفید شیک و زیبا با ارسال رایگان",
+    "group": "مردانه و پسرانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادیداس"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "زیره پیو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی سفید",
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت",
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "92d1b5b4-def8-4d78-8428-6de7e36809e2",
+    "image_url": "https://image.torob.com/base/images/xm/CA/xmCA9vNZaOIpkmHX.jpg"
+  },
+  {
+    "title": "کفش نایک جردن ۴ سایز ۴۱ تا ۴۴",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "41",
+          "44"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "8ad93515-01d9-4a30-b227-56870036a98c",
+    "image_url": "https://image.torob.com/base/images/OV/no/OVnoX-zESvn2dOmc.jpg"
+  },
+  {
+    "title": "اسنیکر Timsah مردانه | BOA KB02-Beyaz-Mavi",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "آبی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "2ae51159-d93b-4033-a438-a4735ce1ba51",
+    "image_url": "https://image.torob.com/base/images/4O/n-/4On-2D-GHrK8E-n9.jpg"
+  },
+  {
+    "title": "کتانی زنانه fox-shoes",
+    "group": "زنانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "fox-shoes"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "8ac1a607-52e3-4cf8-8390-7a6821b6bb10",
+    "image_url": "https://image.torob.com/base/images/KF/Rd/KFRdmARqNJP0Q6Jn.jpg"
+  },
+  {
+    "title": "کفش و کتانی مردانه مدل زارا ZARA رنگ سفید کد 44215",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ZARA"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش",
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "a7133b1e-9c55-403f-b1e9-3dd161b1f87b",
+    "image_url": "https://image.torob.com/base/images/Tn/JE/TnJEDTp3tnM4b23L.jpg"
+  },
+  {
+    "title": "کتونی ادیداس ضدآب 41 تا 44",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادیداس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضدآب"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "41",
+          "44"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "203d54a7-e088-458f-8e29-a26884b5b002",
+    "image_url": "https://image.torob.com/base/images/Mo/iW/MoiWEex9k3KhhG80.jpg"
+  },
+  {
+    "title": "اسپرت جدید زیره ژله ای دو چسب کیفیت عالی سایز 37 تا40",
+    "group": "نامشخص",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع زیره",
+        "values": [
+          "زیره ژله ای"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دو چسب"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "59d3f50f-d7a2-4d2b-bf53-150f82d8cacc",
+    "image_url": "https://image.torob.com/base/images/Vc/oe/Vcoeq6OhZpeKtrVF.jpg"
+  },
+  {
+    "title": "کفش کتونی نایک ایر فورس طرح وان پیس لوفی قابل شستشو ارسال رایگان ص - 37 تا 47 - زیره زرد نمیشه",
+    "group": "نامشخص",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "قابل شستشو"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37",
+          "47"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "50b0c1cf-9941-47e1-824b-594757102260",
+    "image_url": "https://image.torob.com/base/images/zR/eo/zReofWnJhHauBQ6B.jpg"
+  },
+  {
+    "title": "اسنیکر سفید مردانه و زنانه Caven Daily کفش ورزشی I 83 Puma",
+    "group": "مردانه و زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "54e7ce5b-6f2f-4890-969c-b1733c6675e7",
+    "image_url": "https://image.torob.com/base/images/QR/kP/QRkPqapju2ZtyVIr.jpg"
+  },
+  {
+    "title": "کفش ورزشی مدرن رانر نیت ایوو اس اس برند Tommy Hilfiger",
+    "group": "نامشخص",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی رانر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Tommy Hilfiger"
+        ]
+      }
+    ],
+    "random_key": "8ba021a0-af78-4556-b4cb-5d481f555948",
+    "image_url": "https://image.torob.com/base/images/DE/Z4/DEZ4_5x2Tk_1mnwq.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه مشکی لامبرجک | ESSPR3098 اورجینال",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک"
+        ]
+      }
+    ],
+    "random_key": "1c4ece8a-9d35-4bdf-85c6-af01977d614a",
+    "image_url": "https://image.torob.com/base/images/zS/SE/zSSE9HaEr3ZjxTcx.jpg"
+  },
+  {
+    "title": "530 ساحل بزرگپا سفید نقره ای سایز 4",
+    "group": "نامشخص",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید نقره ای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4"
+        ]
+      }
+    ],
+    "random_key": "36e63944-d247-4be8-8bea-d7cf491d5f43",
+    "image_url": "https://image.torob.com/base/images/Ns/4Z/Ns4Z-MqUk9aJtFHU.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه Derimod 24SFD674818 اورجینال دریمود قهوه ای کفش کتانی چرمی 24sfd674818 کف ضخیم قهوه ای مردانه",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش کتانی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Derimod",
+          "دریمود"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "کف ضخیم"
+        ]
+      }
+    ],
+    "random_key": "2d057ef5-4572-41cd-9a1d-680617b69e09",
+    "image_url": "https://image.torob.com/base/images/Ld/yt/LdytH7vWtfuLV5L1.jpg"
+  },
+  {
+    "title": "کفش ورزشی زنانه کتونی.اسکیچرز کد 1425822",
+    "group": "زنانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز"
+        ]
+      }
+    ],
+    "random_key": "affb52c1-d6c3-49d0-93e6-87dcc5c9e769",
+    "image_url": "https://image.torob.com/base/images/uD/I-/uDI-caj069NfkE5t.jpg"
+  },
+  {
+    "title": "کفش ورزشی چسبی از چرم براق با جزئیات لوگو برند boss",
+    "group": "نامشخص",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چسبی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم براق"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "boss"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لوگو"
+        ]
+      }
+    ],
+    "random_key": "5ac013a4-194b-4b5c-82b0-343d508a300f",
+    "image_url": "https://image.torob.com/base/images/20/Qh/20QhewogQfgfVqy_.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه اسکچرز مدل Arch Fit 216116-11668",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکچرز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "Arch Fit"
+        ]
+      }
+    ],
+    "random_key": "d83f1dd9-c631-4625-aa0b-3d13b4b7d9b7",
+    "image_url": "https://image.torob.com/base/images/rV/N3/rVN3E9Qpwvix1Sim.jpg"
+  },
+  {
+    "title": "کفش کتونی اسپورت کد 199",
+    "group": "نامشخص",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی اسپورت"
+        ]
+      }
+    ],
+    "random_key": "2ade63d6-14f4-4476-bf1a-75422c7c91f1",
+    "image_url": "https://image.torob.com/base/images/6k/Lh/6kLhOKaYZyloT-3O.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه بنتون Benetton اورجینال BN-90189",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بنتون",
+          "Benetton"
+        ]
+      }
+    ],
+    "random_key": "55f2ee97-cb00-4669-8976-e4478db568ce",
+    "image_url": "https://image.torob.com/base/images/Da/du/Dadubct_aTa2Ydgj.jpg"
+  },
+  {
+    "title": "کفش مردانه Flexys Marino Daily Cflexs2403 جوما Joma",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Daily"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جوما",
+          "Joma"
+        ]
+      }
+    ],
+    "random_key": "63218bd8-9735-4d74-b544-acd2aea02b5b",
+    "image_url": "https://image.torob.com/base/images/eM/Vx/eMVxdf9dWund3cke.jpg"
+  },
+  {
+    "title": "کتونی پرادا prada مردانه جدید و ترند زیره ی تانکی CLODUUBST THNUDER",
+    "group": "مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پرادا",
+          "prada"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "زیره تانکی"
+        ]
+      }
+    ],
+    "random_key": "fbda54bc-3c20-4f34-adf8-5bbb1d02a6a1",
+    "image_url": "https://image.torob.com/base/images/o7/GA/o7GABZ8eYNm2ENLu.jpg"
+  },
+  {
+    "title": "کتونی نیوبالانس اعلا کفش اسپورت کیفیت عالی کفش اسپرت نیوبالانس کتونی شیک",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "کفش اسپورت",
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی",
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "e5d59c23-42d2-45a8-a7fe-f07aaa279aa2",
+    "image_url": "https://image.torob.com/base/images/L3/bD/L3bD9GHYT9_4nVpo.jpg"
+  },
+  {
+    "title": "کتونی آدیداس سوپر نوا | Adidas Supernova 40|45 - 4",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45",
+          "4"
+        ]
+      }
+    ],
+    "random_key": "0bc1e317-1493-46ce-bb82-90feab5af9b3",
+    "image_url": "https://image.torob.com/base/images/dE/oT/dEoTu5nb2As3dT4J.jpg"
+  },
+  {
+    "title": "کتونی آدیداس لژدارجدید",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "لژدار"
+        ]
+      }
+    ],
+    "random_key": "6c7a7caa-d892-48ec-a3a3-a85f96440f45",
+    "image_url": "https://image.torob.com/base/images/Kb/iO/KbiONY6rJqf1rSjf.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه مشکی لامبرجک | TYBP3849S8280080510308 اورجینال",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک"
+        ]
+      }
+    ],
+    "random_key": "a9590938-ebf3-43fe-846d-414c3ddd01ca",
+    "image_url": "https://image.torob.com/base/images/z2/Vt/z2VtKK3oP0eByOgX.jpg"
+  },
+  {
+    "title": "اسنیکر سفید مردانه کفش ورزشی چرمی ضخیم Santoni",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "نوع زیره",
+        "values": [
+          "ضخیم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Santoni"
+        ]
+      }
+    ],
+    "random_key": "a32930ca-eb5a-4228-b306-cee697ef88d1",
+    "image_url": "https://image.torob.com/base/images/CU/Py/CUPyYsYwTY3o9ow6.jpg"
+  },
+  {
+    "title": "کتانی (اسنیکرز) مردانه اسلازنگر",
+    "group": "مردانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسلازنگر"
+        ]
+      }
+    ],
+    "random_key": "a8951a70-6256-4f38-b7bb-fcb826ebdd25",
+    "image_url": "https://image.torob.com/base/images/Ib/zw/IbzwUZgL0RX4R4Dk.jpg"
+  },
+  {
+    "title": "کتونی چرمی کلاسیک مردانه مشکی زارا",
+    "group": "مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "کلاسیک"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "15328176-a6bc-41e0-9968-74b42d39a712",
+    "image_url": "https://image.torob.com/base/images/fq/BH/fqBHPVTgOA68Dlbg.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه آرم Simpoon برند آقایان Cry Bike Cont به نظر می رسد مناسب برای استفاده روزانه تامی هیلفیگر Tommy Hilfiger",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [],
+    "random_key": "e1d1cc7a-ce8f-479d-a086-fccebd91d4b9",
+    "image_url": "https://image.torob.com/base/images/Xw/0X/Xw0X7_FEp-RVQ-nP.jpg"
+  },
+  {
+    "title": "کتونی جردن ۴ طوسی سفید Jordan 4",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جردن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "6c1744e7-716f-4867-b92c-bf0f414b2e00",
+    "image_url": "https://image.torob.com/base/images/NB/zA/NBzASLPIbznfnE3f.jpg"
+  },
+  {
+    "title": "کفش نیوبالانس مردانه شیک",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "5930a9e4-c63e-4031-b685-97a0be6df8c4",
+    "image_url": "https://image.torob.com/base/images/oj/ma/ojmalQ7r8Q6V3BtG.jpg"
+  },
+  {
+    "title": "کتونی گوچی",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گوچی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "25be72e6-b477-491f-bbc1-e3beb77c06a5",
+    "image_url": "https://image.torob.com/base/images/7w/CJ/7wCJIR3sWIuDOSPW.jpg"
+  },
+  {
+    "title": "کتونی اسپرت نایک (Nike) بلیزر (سایز 41 تا 45) - سفید نایک",
+    "group": "نامشخص",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "41 تا 45"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "544758f4-f5ff-4783-be66-8530263358ab",
+    "image_url": "https://image.torob.com/base/images/rr/Ar/rrAr8GFCkBgRC_Ts.jpg"
+  },
+  {
+    "title": "اسنیکر زنانه کفش ورزشی لتی سیاه های luvishoes",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی",
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "luvishoes"
+        ]
+      }
+    ],
+    "random_key": "84b3f32d-b02e-4ad8-820d-f248775cc080",
+    "image_url": "https://image.torob.com/base/images/NP/0w/NP0wrBz-E-XXY_fN.jpg"
+  },
+  {
+    "title": "کفش پیاده روی راسته مردانه | GAMELU 8684058056237",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "فرم",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "GAMELU"
+        ]
+      }
+    ],
+    "random_key": "29af124c-a3c4-403d-9317-d7e7d895b579",
+    "image_url": "https://image.torob.com/base/images/N9/Iv/N9IvEHJchouu6zO9.jpg"
+  },
+  {
+    "title": "سامبا مشکی آدیداس | IE0580",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سامبا"
+        ]
+      }
+    ],
+    "random_key": "53360735-396a-4bac-a099-d954c418abba",
+    "image_url": "https://image.torob.com/base/images/Od/yH/OdyH3FdwaQAP6sQ8.jpg"
+  },
+  {
+    "title": "کتونی تایگر",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تایگر"
+        ]
+      }
+    ],
+    "random_key": "0fb6535b-34fc-4a5f-ac87-4a87cf694932",
+    "image_url": "https://image.torob.com/base/images/_S/ss/_SsskGEEly_RqIig.jpg"
+  },
+  {
+    "title": "کفش دو و تمرین سبز مردانه 4DFWD 3 در حال رانینگ آدیداس adidas",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "دو",
+          "تمرین",
+          "رانینگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش دو"
+        ]
+      }
+    ],
+    "random_key": "13a24e38-676b-4f68-96b4-8f0b45e6ec87",
+    "image_url": "https://image.torob.com/base/images/OC/Xp/OCXpm4P-gGiltVjn.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه مشکی لامبرجک | KCMN-AST06803 اورجینال",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "9bb1d647-632b-48ab-8dea-55a381a3b327",
+    "image_url": "https://image.torob.com/base/images/S9/MT/S9MT0BsYfJHq0LWt.jpg"
+  },
+  {
+    "title": "کتونی ونس سایز ۳۷ تا ۴۰",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "6b1b0a94-6d47-4e81-ab85-8b0f4903cbf7",
+    "image_url": "https://image.torob.com/base/images/4R/yK/4RyK7WCpYuuEVEQF.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز زنانه پوما Puma اورجینال TYCRVLZPQN170012102670567",
+    "group": "زنانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "46cd59bf-1089-48c8-9146-addc814da69b",
+    "image_url": "https://image.torob.com/base/images/Fp/8O/Fp8OUlvDC7VRQbVK.jpg"
+  },
+  {
+    "title": "کفش اسنیکر راسته مردانه | بنتون Benetton 24YTrBN10252MTE",
+    "group": "مردانه",
+    "product": "کفش اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسنیکر"
+        ]
+      },
+      {
+        "name": "فرم",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بنتون"
+        ]
+      }
+    ],
+    "random_key": "670a5ff8-1590-432a-9cff-d6a7d32bd018",
+    "image_url": "https://image.torob.com/base/images/ey/t6/eyt63gV1uiaZGmLX.jpg"
+  },
+  {
+    "title": "کفش کتونی نایک کیل‌شات زرشکی سفید کد 291936",
+    "group": "نامشخص",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "99acd52e-0d1b-4307-bc2d-0b1d4df058d0",
+    "image_url": "https://image.torob.com/base/images/MV/D3/MVD3w5Gs9P-0Uw_m.jpg"
+  },
+  {
+    "title": "کتونی مردانه نیوبالانس سفید",
+    "group": "مردانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "897e6e68-6238-45b9-995d-f98b29c7a109",
+    "image_url": "https://image.torob.com/base/images/77/dk/77dkAOKwRMQJLSjh.jpg"
+  },
+  {
+    "title": "کتانی رانینگ مردانه نایک Nike Air Max 720 Ispa",
+    "group": "مردانه",
+    "product": "کتانی رانینگ",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "رانینگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "Nike Air Max"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی رانینگ"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "63e77731-33b8-4f34-801b-e92c686dc87b",
+    "image_url": "https://image.torob.com/base/images/Uw/Se/UwSehY6xeusnKwqX.jpg"
+  },
+  {
+    "title": "کفش ورزشی سفید مردانه سیاه و ترویز واک وی WALKWAY",
+    "group": "مردانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "WALKWAY"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "131709a7-8876-45be-a2ce-7ab85588df59",
+    "image_url": "https://image.torob.com/base/images/3j/hR/3jhRX_-3p_7E2ckO.jpg"
+  },
+  {
+    "title": "کفش پیاده روی زنانه اسکچرز Dynamight مشکی سفید کد 1909452",
+    "group": "زنانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکچرز",
+          "Dynamight"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "1d265a01-c0fd-44be-8255-bc5885f23092",
+    "image_url": "https://image.torob.com/base/images/eJ/r-/eJr-A4N_Y5O3veC6.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه سفید لامبرجک | 5003140421 اورجینال",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "08cd5b64-bed4-4c8e-8a6f-d3b7d6d08ee1",
+    "image_url": "https://image.torob.com/base/images/YN/Wh/YNWhkVh4NczOGuej.jpg"
+  },
+  {
+    "title": "اسنیکر مردانه اورجینال تامی هیلفیگر مشکی Tommy Hilfiger 5003173100 کفش کتانی مردانه مشکی (جدید) TJM CUPSOLE CUPSOLE LTHER ESS",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تامی هیلفیگر",
+          "Tommy Hilfiger"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش کتانی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "6ad4562d-897e-42f9-a366-8dc438d1919a",
+    "image_url": "https://image.torob.com/base/images/9s/YE/9sYETl0-yQpS8wr2.jpg"
+  },
+  {
+    "title": "اسنیکر چند رنگ زنانه HML OLiVER کفش ورزشی قهوه ای 900439 1923 hummel",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ",
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "HML OLiVER",
+          "hummel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "6320ef6c-f4a7-4526-9ce7-7f9dfcdf79cd",
+    "image_url": "https://image.torob.com/base/images/Dm/gY/DmgYZCOh6FiYFUp5.jpg"
+  },
+  {
+    "title": "کفش ورزشی مشکی مردانه چرم سیاه اورجینال Mida Shoes",
+    "group": "مردانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Mida Shoes"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "69a31302-1e22-4e20-9d33-fb387806413d",
+    "image_url": "https://image.torob.com/base/images/Mw/qt/MwqtwUVl1ZbsIgn9.jpg"
+  },
+  {
+    "title": "کتونی اسکیچرز ویتنامی/سه رنگ جذاب/Skechers ultra light - 4",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز",
+          "Skechers"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سه رنگ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ultra light"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "0d9ca616-c409-4519-bf03-158f9911149c",
+    "image_url": "https://image.torob.com/base/images/BH/6x/BH6xg8-a0WguwNCg.jpg"
+  },
+  {
+    "title": "اسنیکر سفید مردانه کفش ورزشی PUMA اورجینال گالاتاسارای Galatasaray",
+    "group": "مردانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "PUMA",
+          "گالاتاسارای",
+          "Galatasaray"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "f983d8b1-7a4f-426d-a9b0-fc9dd5bd2d2c",
+    "image_url": "https://image.torob.com/base/images/P_/d3/P_d3LHgqraN7v7C1.jpg"
+  },
+  {
+    "title": "کفش مردانه زنانه یونیسکس Anzarun و Daily Use Short Shost پوما Puma",
+    "group": "مردانه زنانه یونیسکس",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پوما",
+          "Puma"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "Daily Use"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Anzarun",
+          "Short Shost"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه",
+          "زنانه",
+          "یونیسکس"
+        ]
+      }
+    ],
+    "random_key": "8c717f6b-46e2-4193-8e04-6ed6a6d4d62c",
+    "image_url": "https://image.torob.com/base/images/9G/Yz/9GYz0ywoQ6oJtYgM.jpg"
+  },
+  {
+    "title": "کفش اسنیکر مردانه | نایکی Nike DM0573-100",
+    "group": "مردانه",
+    "product": "کفش اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایکی",
+          "Nike"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "da5d7a6d-7e6b-4577-aeff-3a51d8bc8ba7",
+    "image_url": "https://image.torob.com/base/images/_L/dz/_LdzcmoJvKzEEOhz.jpg"
+  },
+  {
+    "title": "کتانی زنانه اسکچرز skechers go run 128633-slnv",
+    "group": "زنانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسکچرز",
+          "skechers"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی",
+          "go run"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "9f89c15f-01b7-4851-9b65-f91333b94c71",
+    "image_url": "https://image.torob.com/base/images/u2/GK/u2GKHiMAXZRkPAy2.webp"
+  },
+  {
+    "title": "اسنیکر زنانه آلدو Aldo اورجینال PALAZZI-670-002-029",
+    "group": "زنانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آلدو",
+          "Aldo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "1bc0043e-cbf0-4ad8-8460-ffadc13e1f58",
+    "image_url": "https://image.torob.com/base/images/_E/Wt/_EWtHZEmEDuWrSpm.jpg"
+  },
+  {
+    "title": "کفش مردانه ورزشی بنتون Benetton",
+    "group": "مردانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بنتون",
+          "Benetton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "مخاطب",
+        "values": [
+          "مردانه"
+        ]
+      }
+    ],
+    "random_key": "6bfe2dcd-3f8c-4b5c-8c4d-ad301683a50a",
+    "image_url": "https://image.torob.com/base/images/pu/Oi/puOiwnAhy7qb1HWO.jpg"
+  }
+]

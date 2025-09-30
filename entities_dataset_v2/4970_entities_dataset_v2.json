@@ -1,0 +1,6330 @@
+[
+  {
+    "title": "ست بلوز شلوار دورس پسرانه بنگلادشی طرح Bus",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار دورس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Bus"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بنگلادشی"
+        ]
+      }
+    ],
+    "random_key": "6cde5fa3-be80-4e09-b2a3-1235468cc198",
+    "image_url": "https://image.torob.com/base/images/ti/wX/tiwXXHVvdl3R3KPt.jpg"
+  },
+  {
+    "title": "لباس پسرانه تیشرت شلوارک مسی رونالدو",
+    "group": "پسرانه",
+    "product": "لباس تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مسی رونالدو"
+        ]
+      }
+    ],
+    "random_key": "563d4eb3-de50-41d6-8a16-47fa62a7c358",
+    "image_url": "https://image.torob.com/base/images/QT/r6/QTr6xTF5Vh6m3mXx.jpg"
+  },
+  {
+    "title": "بلوز شلوار اسپرت پسرانه",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "35f7458d-d0f9-4207-b439-fd9048dc4c54",
+    "image_url": "https://image.torob.com/base/images/qt/Dm/qtDm5UsLg2-sJNp7.jpg"
+  },
+  {
+    "title": "ست تدی بچگانه بیسکویتی",
+    "group": "بچگانه",
+    "product": "ست تدی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تدی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بیسکویتی"
+        ]
+      }
+    ],
+    "random_key": "eca1d85e-b6f8-46e3-b3c9-d8175fcc41df",
+    "image_url": "https://image.torob.com/base/images/mS/Ma/mSMamu4YhJDNGHlW.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه tommy پسرانه کد 9516",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "tommy"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "2ffead92-637a-4eef-8f38-3b62b6160ea9",
+    "image_url": "https://image.torob.com/base/images/rJ/NA/rJNAdnD7H45BK45Z.jpg"
+  },
+  {
+    "title": "ست سه تیکه تک استایل کودک کساء",
+    "group": "کودک",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تیکه"
+        ]
+      }
+    ],
+    "random_key": "717cdf11-06f4-4c3f-aa1a-2e9218f7ade3",
+    "image_url": "https://image.torob.com/base/images/K0/vM/K0vMxwdGdEgFrNxO.jpg"
+  },
+  {
+    "title": "سه تیکه وارداتی ژیله ای35ـ40ـ42 عیدانه ست پسرانه خاص ست سفید",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تیکه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35",
+          "40",
+          "42"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "ژیله ای",
+          "خاص"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "عیدانه"
+        ]
+      }
+    ],
+    "random_key": "119df437-168d-423d-aee6-9f804a1ccc58",
+    "image_url": "https://image.torob.com/base/images/eo/6Q/eo6QOT69DtF6iLVN.jpg"
+  },
+  {
+    "title": "ست پیژامه و لباس خواب پسرانه السی وایکیکی LC Waikiki اورجینال TYC00808659097",
+    "group": "پسرانه",
+    "product": "ست پیژامه و لباس خواب",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه و لباس خواب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "0ef44a9f-bc4c-4ea5-be0d-b06eb77b2e6a",
+    "image_url": "https://image.torob.com/base/images/HW/9U/HW9U6yd_KzOuOHKE.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه خانگی اسپرت",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خانگی"
+        ]
+      }
+    ],
+    "random_key": "a3d3a350-70f8-4a6b-94bc-94cfe158b523",
+    "image_url": "https://image.torob.com/base/images/ma/WV/maWVv1eq1fklwiIN.jpg"
+  },
+  {
+    "title": "دوتیکه پسرانه",
+    "group": "پسرانه",
+    "product": "ست دوتیکه",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "دوتیکه"
+        ]
+      }
+    ],
+    "random_key": "b533580a-973e-4f2f-b6e0-4b2491e0e84b",
+    "image_url": "https://image.torob.com/base/images/YT/j1/YTj1i0k78ofXGEbI.jpg"
+  },
+  {
+    "title": "بلوز و شلوار بچه گانه ( پسرانه ) دورس ( ملانژ )",
+    "group": "بچه گانه پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس",
+          "ملانژ"
+        ]
+      }
+    ],
+    "random_key": "4b68d951-0dc3-4249-bdda-e856014584c6",
+    "image_url": "https://image.torob.com/base/images/NL/us/NLusC6IqeMmophbF.jpg"
+  },
+  {
+    "title": "تاپ شلوارک پسرانه طرح تمام چاپ خرسی فروش عمده پوشاک",
+    "group": "پسرانه",
+    "product": "تاپ شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تمام چاپ خرسی"
+        ]
+      }
+    ],
+    "random_key": "32c6d534-83ab-4d57-bfe8-be6df62ddc88",
+    "image_url": "https://image.torob.com/base/images/9v/Bu/9vBu3w5aXSSu4nVO.jpg"
+  },
+  {
+    "title": "بلوز شلوار چاپ شیر پسرانه",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپ شیر"
+        ]
+      }
+    ],
+    "random_key": "ee399f72-d9e2-4a54-90b5-0731c6571281",
+    "image_url": "https://image.torob.com/base/images/tV/OQ/tVOQdZ8Crj_Wsifr.jpg"
+  },
+  {
+    "title": "تیشرت وشلوارک پسرونه",
+    "group": "پسرانه",
+    "product": "تیشرت وشلوارک",
+    "entities": [
+      {
+        "name": "شش نوع کلی",
+        "values": [
+          "تیشرت وشلوارک"
+        ]
+      }
+    ],
+    "random_key": "bd4489f7-1da1-4f6e-a5bf-8eb4bd13b843",
+    "image_url": "https://image.torob.com/base/images/XK/dn/XKdnyY3aJCIA7xih.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه سایز 45 تا 60....ست پسرانه",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45 تا 60"
+        ]
+      }
+    ],
+    "random_key": "c123f959-2f3f-4c8f-950b-5d5991a51347",
+    "image_url": "https://image.torob.com/base/images/j8/q7/j8q7l-ZA_cbhTD9N.jpg"
+  },
+  {
+    "title": "ست پسرانه مستر توفی کد | MSHB&G",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مستر توفی"
+        ]
+      }
+    ],
+    "random_key": "188afd0c-d08f-4bfe-87b5-c9f62e0b0f66",
+    "image_url": "https://image.torob.com/base/images/d8/-X/d8-X70s4jfgCAjLP.jpg"
+  },
+  {
+    "title": "لباس بچگانه تیشرت شلوارک مرد عنکبوتی 40 تا 55",
+    "group": "بچگانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مرد عنکبوتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40 تا 55"
+        ]
+      }
+    ],
+    "random_key": "d582f21a-0218-4b07-bbef-8ed7d355d0c5",
+    "image_url": "https://image.torob.com/base/images/aA/KA/aAKA8G9jSPbyEXri.jpg"
+  },
+  {
+    "title": "ست بلوز و شلوار پسرانه سفید سرمه ای فیورلا Fiorella مدل درخت کریسمس کد 34533",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فیورلا Fiorella"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مدل درخت کریسمس"
+        ]
+      }
+    ],
+    "random_key": "3cad6f12-7b83-4379-b441-430e96db633f",
+    "image_url": "https://image.torob.com/base/images/_h/lH/_hlHOCynRy0eAZdE.jpg"
+  },
+  {
+    "title": "بلیز شلوار پسرانه",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      }
+    ],
+    "random_key": "63f736dc-5965-41cb-907b-3a501c8ee342",
+    "image_url": "https://image.torob.com/base/images/xI/WR/xIWRAQsdotu-pvx3.jpg"
+  },
+  {
+    "title": "ست LOUIS VUITTON",
+    "group": "نامشخص",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "LOUIS VUITTON"
+        ]
+      }
+    ],
+    "random_key": "0685582d-68ff-4c8c-a806-f24ae8ba8440",
+    "image_url": "https://image.torob.com/base/images/Dz/VU/DzVUEeGCz_Pqualv.jpg"
+  },
+  {
+    "title": "ست عنکبوت پسرانه",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "عنکبوت"
+        ]
+      }
+    ],
+    "random_key": "7c9ebee5-cf4f-474c-bf26-18635671a0d7",
+    "image_url": "https://image.torob.com/base/images/FD/Y7/FDY7RFUTVzgtLLZm.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک نخل مشکی پسرانه سایز 50",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نخل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "50"
+        ]
+      }
+    ],
+    "random_key": "995ad49a-bd06-4d72-8069-d96791d52963",
+    "image_url": "https://image.torob.com/base/images/MH/6Y/MH6YqNLN35rmd5RZ.jpg"
+  },
+  {
+    "title": "ست تاپ و شلوارک باشگاهی پسرانه",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ و شلوارک باشگاهی"
+        ]
+      }
+    ],
+    "random_key": "4e8f14a1-1973-48cb-a195-e9303298b28a",
+    "image_url": "https://image.torob.com/base/images/WP/yr/WPyraNzIXgMUpfqV.jpg"
+  },
+  {
+    "title": "بلوز و شلوار پسرانه سگهای نگهبان",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سگهای نگهبان"
+        ]
+      }
+    ],
+    "random_key": "ef5bb12d-277d-47bd-8d4b-59fd8141919d",
+    "image_url": "https://image.torob.com/base/images/bM/h_/bMh_5fyZvWr2TnRM.jpg"
+  },
+  {
+    "title": "ست بلوز و شلوار پسرانه استیکری",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "استیکری"
+        ]
+      }
+    ],
+    "random_key": "45ccd4a9-6ff2-4cc1-9d49-8ece0f9d3a23",
+    "image_url": "https://image.torob.com/base/images/DE/Yx/DEYx5Hyh-hHZcw7v.jpg"
+  },
+  {
+    "title": "ست کوتاه پسرانه طرح دیجیتالی شرت طرح لی markez",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست کوتاه",
+          "شرت طرح لی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دیجیتالی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "markez"
+        ]
+      }
+    ],
+    "random_key": "55e80d91-73c6-4073-86e9-69a9b68f6086",
+    "image_url": "https://image.torob.com/base/images/6H/Ge/6HGesmNYhb7WMGCP.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل فضانورد و بادکنک رنگ سرمه ای",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فضانورد و بادکنک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "5d337a42-41e0-427a-ba95-f1c427d37c0a",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک مروارید پانچ سایز 45 تا 60 اسپرت",
+    "group": "نامشخص",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مروارید پانچ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45 تا 60"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "003c9051-c3f0-4828-98ee-e74f1c77b5e4",
+    "image_url": "https://image.torob.com/base/images/tr/LP/trLPCHrXwQ9-Q2s5.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "54dd13a5-8a08-48db-9f0f-b76d4a0ff451",
+    "image_url": "https://image.torob.com/base/images/y6/tK/y6tKJ5_8RlgT0xB6.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه عیدانه سفید ، مشکی",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "62fcd175-613a-4879-bf27-fe4e0704e4dd",
+    "image_url": "https://image.torob.com/base/images/42/Im/42ImWxK9E4KPH_Z4.jpg"
+  },
+  {
+    "title": "بلوز دورس طرحدار و شلوار کتان با کیفیت سایز 45 تا 60",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس",
+          "کتان"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45 تا 60"
+        ]
+      }
+    ],
+    "random_key": "9c05abb2-df12-440a-8b76-60979f0421a4",
+    "image_url": "https://image.torob.com/base/images/Qo/Iu/QoIu6Ob6NRWPfqdJ.jpg"
+  },
+  {
+    "title": "ست بیس لایر پسرانه برند crivit آلمان رنگ آبی",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیس لایر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "crivit"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "72ca4c0f-fc53-47f9-ab0b-978f72845fcc",
+    "image_url": "https://image.torob.com/base/images/L4/Gd/L4GdGAGWNIowWuuM.webp"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه یقه کوبایی",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه کوبایی"
+        ]
+      }
+    ],
+    "random_key": "adf9be11-b833-419f-817b-efb26f158a62",
+    "image_url": "https://image.torob.com/base/images/iy/EE/iyEEbN1uvhjK-2Ya.jpg"
+  },
+  {
+    "title": "بلوز شلوار بچگانه عیدانه بلوز شلوار پسرانه ست پسرانه شیک سایز40رنگ سورمه ای",
+    "group": "بچگانه و پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 40"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "9d98509e-6e53-4a07-9609-b65306359b8d",
+    "image_url": "https://image.torob.com/base/images/yP/6_/yP6_Kbtzo_zUAqGL.jpg"
+  },
+  {
+    "title": "بلوز شلوار دایناسور سری6تایی",
+    "group": "نامشخص",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دایناسور"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "6تایی"
+        ]
+      }
+    ],
+    "random_key": "0e09f11d-96ef-4e5d-9602-d424f56d4c81",
+    "image_url": "https://image.torob.com/base/images/97/Xd/97XdrCrkGTGGpBOW.webp"
+  },
+  {
+    "title": "تیشرت شلوارک بچگانه پسرانه کد 1098 - رنگ دلخواه شما /",
+    "group": "بچگانه و پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "5885338f-06df-4e88-bb94-ec1a452512d0",
+    "image_url": "https://image.torob.com/base/images/M5/zw/M5zww2cZygJVay2o.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه سایز 35 تا45",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35 تا45"
+        ]
+      }
+    ],
+    "random_key": "2338ee4d-7166-4fd3-8f1b-6477ea33362f",
+    "image_url": "https://image.torob.com/base/images/3C/Nf/3CNfzuMsvD280bkq.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل اسنوپی کد 5 رنگ زرد",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مدل اسنوپی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      }
+    ],
+    "random_key": "85876e09-963b-4a5a-ab4a-eb871ba436e0",
+    "image_url": "https://image.torob.com/base/images/NF/YO/NFYOgXGdILtSHhlL.jpg"
+  },
+  {
+    "title": "ست تیشرت و شلوارک برمودا پسرونه",
+    "group": "پسرونه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک برمودا"
+        ]
+      }
+    ],
+    "random_key": "c079020a-445d-4ffb-9b2a-09d9cf5c2d48",
+    "image_url": "https://image.torob.com/base/images/Op/IU/OpIU9yxCV_GXdSCG.jpg"
+  },
+  {
+    "title": "تاپ شورت پسرانه 2 سال تا نوجوان تنخور شیک و خنک",
+    "group": "پسرانه 2 سال تا نوجوان",
+    "product": "تاپ شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ شورت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 سال تا نوجوان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تنخور شیک و خنک"
+        ]
+      }
+    ],
+    "random_key": "036d1988-61c6-40dc-b684-f8e5cfbd45a0",
+    "image_url": "https://image.torob.com/base/images/Td/XP/TdXPFam2wiSzrLal.jpg"
+  },
+  {
+    "title": "ست اسپرت بچگانه نارین",
+    "group": "بچگانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نارین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست"
+        ]
+      }
+    ],
+    "random_key": "ead7712d-704a-4783-b243-06dfe4fb8d7e",
+    "image_url": "https://image.torob.com/base/images/Di/Z2/DiZ2BTi3lrdsF4cI.jpg"
+  },
+  {
+    "title": "ست جلیقه شلوار 4 تکه دکمه چوبی برند شیکسون",
+    "group": "نامشخص",
+    "product": "ست جلیقه شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه شلوار"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "4 تکه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دکمه چوبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیکسون"
+        ]
+      }
+    ],
+    "random_key": "b2d15cbc-29f2-4594-9651-e21ab8573eed",
+    "image_url": "https://image.torob.com/base/images/rk/wP/rkwPP17aa6LsOvvi.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه تمساح",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تمساح"
+        ]
+      }
+    ],
+    "random_key": "71fc4933-bd5b-46e2-8d11-a4b3af2466d9",
+    "image_url": "https://image.torob.com/base/images/oU/-y/oU-yFT4LLY3DVK1A.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه تو کرکی",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تو کرکی"
+        ]
+      }
+    ],
+    "random_key": "206b9dc6-0d06-41af-836d-32edd4db7f09",
+    "image_url": "https://image.torob.com/base/images/xB/68/xB68znwFebo0Caay.jpg"
+  },
+  {
+    "title": "ست پسرانه تیشرت شلوارک طرح BAT MIN کد 6869",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "BAT MIN"
+        ]
+      }
+    ],
+    "random_key": "1fb50caf-0594-419a-b6a5-f1a185dfabb2",
+    "image_url": "https://image.torob.com/base/images/2v/ek/2vekuKjzVUwNQew3.jpg"
+  },
+  {
+    "title": "لباس بچگانه تاپ شلوارک 2 تا 8 سال",
+    "group": "بچگانه",
+    "product": "لباس بچگانه تاپ شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ شلوارک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 تا 8 سال"
+        ]
+      }
+    ],
+    "random_key": "e1577275-39b2-4665-8959-e8c107c38750",
+    "image_url": "https://image.torob.com/base/images/bd/_n/bd_nS5lB3UtfqHzi.jpg"
+  },
+  {
+    "title": "لباس پسرانه",
+    "group": "پسرانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس"
+        ]
+      }
+    ],
+    "random_key": "be3c2b79-f977-4a50-a3bd-e1e78fd04eab",
+    "image_url": "https://image.torob.com/base/images/5P/F8/5PF8SRr8Lkiaq3K5.jpg"
+  },
+  {
+    "title": "بلوز شلوار سایز 40و45 جنس دورس پنبه رنگ سبز کله غازی",
+    "group": "نامشخص",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 40",
+          "سایز 45"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس پنبه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز کله غازی"
+        ]
+      }
+    ],
+    "random_key": "31625a76-681f-458b-9d53-b5a8e9348023",
+    "image_url": "https://image.torob.com/base/images/r9/ya/r9yaAtNP9F37kDa-.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل باب اسفنجی رنگ کرم",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "باب اسفنجی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      }
+    ],
+    "random_key": "e6cc87ec-061d-46ab-a902-4e934af04999",
+    "image_url": "https://image.torob.com/base/images/Ca/0d/Ca0dZadzLrGdGmI7.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار پسرانه",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "5267e378-bd70-48f9-98b5-9bd62f9bc9c1",
+    "image_url": "https://image.torob.com/base/images/ZA/o_/ZAo_mtgh1sML-G6-.jpg"
+  },
+  {
+    "title": "ست تیشرت و شلوارک پسرانه مدل گرگ کد N231",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گرگ"
+        ]
+      }
+    ],
+    "random_key": "dcb4855f-868a-4d4c-b60b-0cd2ff7fe362",
+    "image_url": "https://image.torob.com/base/images/Qs/iD/QsiD6GW7-cXNWMU6.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه ETADET سایز35تا50",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ETADET"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35تا50"
+        ]
+      }
+    ],
+    "random_key": "2ceddf78-5781-404e-9449-ce194b2ef181",
+    "image_url": "https://image.torob.com/base/images/1o/Qd/1oQdd0lInh36rkpM.jpg"
+  },
+  {
+    "title": "تیشرت و شلوارک پسرانه",
+    "group": "پسرانه",
+    "product": "تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "9b636d10-30f7-4fd9-ab85-57de08df34c3",
+    "image_url": "https://image.torob.com/base/images/w1/Se/w1SeFcV53TdEfW8Q.jpg"
+  },
+  {
+    "title": "ست تیشرت و شلوارک پسرانه خیلی زیباست",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "9443d192-c62b-4b77-a6a2-ce9ce4a8f711",
+    "image_url": "https://image.torob.com/base/images/ue/nZ/uenZ9pt-r2PxVH-G.jpg"
+  },
+  {
+    "title": "ست تیشرت شلوارک پسرانه چاپ weekend",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپ weekend"
+        ]
+      }
+    ],
+    "random_key": "a3d75402-44a8-4912-9ebb-a7e03c919577",
+    "image_url": "https://image.torob.com/base/images/B4/-Y/B4-Y5ezQcvQHN6hK.jpg"
+  },
+  {
+    "title": "بلوز و شلوارک دوتیکه پسرانه ساده - آبی /",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوارک"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "دوتیکه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "b9b0fb68-b60c-4f01-810a-8238c13f8c1a",
+    "image_url": "https://image.torob.com/base/images/g6/9R/g69Rqb4anUPFxVt5.jpg"
+  },
+  {
+    "title": "کت چرمی پسرانه زیپ دار / تی شرت / شلوار ست 3 تکه T Kol راسته پسرانه | Burçak Butik Burcak625",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "3 تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت چرمی",
+          "تی شرت",
+          "شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیپ دار",
+          "راسته"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Burçak Butik"
+        ]
+      }
+    ],
+    "random_key": "ab3fd785-2e6d-4df6-85e2-eb79b6d6f882",
+    "image_url": "https://image.torob.com/base/images/6S/O4/6SO4dhOg_xtvzoqu.jpg"
+  },
+  {
+    "title": "ست پیژامه با شلوارک پسرانه آنتبیس B_PJ_26763 - 20063 | ANTEBIES",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه با شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آنتبیس",
+          "ANTEBIES"
+        ]
+      }
+    ],
+    "random_key": "c060d094-9a24-4a86-be08-319fb0859b1e",
+    "image_url": "https://image.torob.com/base/images/__/TR/__TRTN2TbF0Gpx4I.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل هندوانه یلدایی کد 32 رنگ سرمه ای",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هندوانه یلدایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "fa33954e-f919-4a30-9caa-b7200d316a69",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "ست پیژامه با شلوارک پسرانه ال سی وایکیکی کد S41344Z4 - Q6K | LCW Kids",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه با شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LCW Kids"
+        ]
+      }
+    ],
+    "random_key": "a19a6900-a168-4284-b289-491f5d2c64f7",
+    "image_url": "https://image.torob.com/base/images/Om/bX/OmbXDLOaxfIAcKgh.jpg"
+  },
+  {
+    "title": "ست بلوز و شلوارک پسرانه وارداتی نخی شلوارک جین درجه یک",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوارک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی",
+          "جین"
+        ]
+      }
+    ],
+    "random_key": "7077598e-3b72-46de-9fb9-84cc5c599006",
+    "image_url": "https://image.torob.com/base/images/wx/gN/wxgNGQUTvREIU9EY.jpg"
+  },
+  {
+    "title": "ست پسرانه مدل روباه سایز 4045 جنس نخ پنبه اعلا چاپ بسیار زیبا بدون ریزش رنگ آبی آسمانی شلوارک سورمه ای",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "روباه",
+          "چاپ بسیار زیبا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4045"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه اعلا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی آسمانی",
+          "سورمه ای"
+        ]
+      }
+    ],
+    "random_key": "b996111b-b922-4991-a90b-097a6223199d",
+    "image_url": "https://image.torob.com/base/images/t6/B-/t6B-MUMZ5t2d4IcU.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار پسرانه بی بی",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بی بی"
+        ]
+      }
+    ],
+    "random_key": "1936f0a1-f6a0-45f8-b3f9-3fcfc15aaa3b",
+    "image_url": "https://image.torob.com/base/images/wC/Wd/wCWd-eMPYSw7d92T.jpg"
+  },
+  {
+    "title": "ست لباس ورزشی پسرانه میسیل کیدز EC-6162-TK - 20019 | Mışıl Kids",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میسیل کیدز",
+          "Mışıl Kids"
+        ]
+      }
+    ],
+    "random_key": "3067278b-9e6c-4662-ba38-192a6b5ea3f9",
+    "image_url": "https://image.torob.com/base/images/wb/LM/wbLMezFKX3IxYslV.jpg"
+  },
+  {
+    "title": "594 بلوز شلوار پسرانه ست پسرانه بلوز شلوار بچگانه",
+    "group": "پسرانه بچگانه",
+    "product": "ست بلوز شلوار پسرانه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": []
+      }
+    ],
+    "random_key": "39a05910-fa87-4ea7-b634-b0c24bb48055",
+    "image_url": "https://image.torob.com/base/images/u7/Vm/u7VmZHuIl2C5bZi6.jpg"
+  },
+  {
+    "title": "پیراهن ورزشی پسرانه LANBAOSI ست شلوارک فشرده جوانان ست تمرینی لباس تابستانی نوجوانان برای کودکان",
+    "group": "پسرانه نوجوانان جوانان",
+    "product": "ست پیراهن ورزشی و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست شلوارک ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LANBAOSI"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      }
+    ],
+    "random_key": "39e5df03-f833-4499-b825-7aeb9b1fa8d7",
+    "image_url": "https://image.torob.com/base/images/mW/5x/mW5xfBv_wYxH9MMN.jpg"
+  },
+  {
+    "title": "بلوزو شلوارک پسرانه سایز 35 فقط",
+    "group": "پسرانه",
+    "product": "ست بلوز و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوزو شلوارک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35"
+        ]
+      }
+    ],
+    "random_key": "3572fa77-0e35-4a6d-9e42-8cf3da9c219f",
+    "image_url": "https://image.torob.com/base/images/V7/vs/V7vsUyM-gskiKui9.jpg"
+  },
+  {
+    "title": "بلوز و شورتک پسرانه و دخترانه",
+    "group": "پسرانه و دخترانه",
+    "product": "ست بلوز و شورتک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شورتک"
+        ]
+      }
+    ],
+    "random_key": "7818b421-c54c-4250-917f-e833ee5a8602",
+    "image_url": "https://image.torob.com/base/images/Tv/wD/TvwD8v0w-QBTTf8T.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل گوزن کریسمس کد 11 رنگ قرمز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوزن کریسمس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "7c636946-526f-488d-b013-bb4658c39fbc",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک ست پسرانه در سه طرح گیتار و ماشین و قایق سایز 55 و 60",
+    "group": "پسرانه",
+    "product": "ست تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گیتار",
+          "ماشین",
+          "قایق"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "55",
+          "60"
+        ]
+      }
+    ],
+    "random_key": "58e36484-283d-474a-bf76-fc4151f9b3a7",
+    "image_url": "https://image.torob.com/base/images/N8/sA/N8sAijMQhsMyXUV-.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل ماینکرفت کد 10 رنگ سرمه ای",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماینکرفت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "70d5c72f-475f-4502-815f-fe2c060e15d6",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "تیشرت شلوار پسرونه 4 رنگ سایز 2 ،3،4 سال",
+    "group": "پسرونه",
+    "product": "ست تیشرت شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "4 رنگ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "2 سال",
+          "3 سال",
+          "4 سال"
+        ]
+      }
+    ],
+    "random_key": "01634d9e-ac18-4b38-9ffb-24ecbb76a82e",
+    "image_url": "https://image.torob.com/base/images/eh/-u/eh-u4ctj5xHs5CNK.jpg"
+  },
+  {
+    "title": "ست سه تیکه طرح گوچی",
+    "group": "نامشخص",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تیکه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوچی"
+        ]
+      }
+    ],
+    "random_key": "8a5cff32-9bb9-4c0f-a8be-be8d8ec15ce9",
+    "image_url": "https://image.torob.com/base/images/F1/K-/F1K-HEJ2m9h2T35e.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل اسنوپی کد ۲۰ رنگ قرمز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسنوپی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "cf1fd8a6-4e3c-4e4b-9b34-3532c32817c1",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "ست کراپ و شلوارک و دستمال سر بچه گانه",
+    "group": "بچه گانه",
+    "product": "ست کراپ و شلوارک و دستمال سر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کراپ و شلوارک و دستمال سر"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": []
+      }
+    ],
+    "random_key": "5a71f87b-8e45-408f-80b1-ace09cbfe6c1",
+    "image_url": "https://image.torob.com/base/images/wz/cK/wzcKwwxHlzpGQpj9.webp"
+  },
+  {
+    "title": "لباس ست پسرانه السی وایکیکی LC Waikiki اورجینال S4ER12Z1 – FRE",
+    "group": "پسرانه",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "23c773b5-58ab-4422-9c62-05789077b192",
+    "image_url": "https://image.torob.com/base/images/UI/7Y/UI7Yg91La2ui3-pZ.jpg"
+  },
+  {
+    "title": "ست بچگانه پسرانه جذابمون",
+    "group": "پسرانه",
+    "product": "ست بچگانه",
+    "entities": [],
+    "random_key": "79b8e7f1-a6bf-4ea2-a930-d5cf96a47e4f",
+    "image_url": "https://image.torob.com/base/images/zS/hb/zShbgxK4yziOWcx2.jpg"
+  },
+  {
+    "title": "بلوز شلوار سه خرس کیوت کد 3836",
+    "group": "نامشخص",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سه خرس کیوت"
+        ]
+      }
+    ],
+    "random_key": "0ebd51ad-2916-44f9-8f92-289789f177a6",
+    "image_url": "https://image.torob.com/base/images/hm/wl/hmwll9xokYALJN6p.webp"
+  },
+  {
+    "title": "ست بیرونی حیوانات",
+    "group": "نامشخص",
+    "product": "ست بیرونی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "حیوانات"
+        ]
+      }
+    ],
+    "random_key": "4210e139-a1ff-4652-a14d-ae3a3b1f1226",
+    "image_url": "https://image.torob.com/base/images/MU/7p/MU7p3ROp0izJt3KH.jpg"
+  },
+  {
+    "title": "ست جین 3تیکه پسرانه",
+    "group": "پسرانه",
+    "product": "ست جین",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "3تیکه"
+        ]
+      }
+    ],
+    "random_key": "3e2684e7-bd9c-4b06-be13-d1489dfe8296",
+    "image_url": "https://image.torob.com/base/images/p2/6m/p26m3D0xD7LFgf3C.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار پسرانه سگهای نگهبان",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "سگهای نگهبان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "adb00dd5-1f35-4ff4-a7aa-a6301c8b25f3",
+    "image_url": "https://image.torob.com/base/images/pQ/3z/pQ3zTxlTZqg0SnXR.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار پسرانه جنس بلوز تدی، جنس شلوار مخمل سایز9تا10سال برند alive",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "تدی",
+          "مخمل"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "9تا10سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "alive"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "f61e4bf6-5839-49cb-9a48-d14974cb4e72",
+    "image_url": "https://image.torob.com/base/images/vb/Lr/vbLrt_zpS-Vh9kRb.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه سایز 45 تا 65جنس نخ پنبه و کتان",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "45 تا 65"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه",
+          "کتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "79258e43-dc32-4261-843f-bc0178daa4cb",
+    "image_url": "https://image.torob.com/base/images/ux/Fu/uxFu2qH-xUhnzSUy.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه، رنگ طوسی",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "580b588f-1b30-4c5e-854e-5de173782d06",
+    "image_url": "https://image.torob.com/base/images/mA/3H/mA3H3vIDwf9uuG5V.jpg"
+  },
+  {
+    "title": "ست دورس سه نخ پسرانه داخل کرک",
+    "group": "پسرانه",
+    "product": "ست دورس",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دورس سه نخ"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "داخل کرک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورس"
+        ]
+      }
+    ],
+    "random_key": "a5547770-2e8b-4f92-8fee-3d3ec2c1404c",
+    "image_url": "https://image.torob.com/base/images/lC/_l/lC_lcY1bdrtb-ZDt.jpg"
+  },
+  {
+    "title": "تی‌شرت شلوارک ملانژ پسرانه",
+    "group": "پسرانه",
+    "product": "تی شرت شلوارک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ملانژ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "12ecda9f-1b57-4013-b615-f7eef736749e",
+    "image_url": "https://image.torob.com/base/images/l1/Nx/l1Nxlie7iQXBOSEK.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه سایز 40 و 45 جنس دورس پنبه لاکرا باکیفیت عالی",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس پنبه لاکرا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "باکیفیت عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "0ee8e4e0-10a1-46ed-a7bb-b39fe0391fd8",
+    "image_url": "https://image.torob.com/base/images/3g/K_/3gK_zP2QcraMlnAJ.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک نخ پنبه پسرانه آبی نفتی برند آداک کد 50301",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی نفتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آداک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "1f0f3d6c-042c-4b4c-a76a-a0fb98211d57",
+    "image_url": "https://image.torob.com/base/images/w0/yw/w0ywJWw69HWRvVQq.jpg"
+  },
+  {
+    "title": "ست پسرانه",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست"
+        ]
+      }
+    ],
+    "random_key": "d7a06c18-a271-4193-aaef-64def2ca690e",
+    "image_url": "https://image.torob.com/base/images/yx/Iu/yxIuzM0aEi0WhC6I.jpg"
+  },
+  {
+    "title": "لباس بچگانه عیدانه بلوز شلوار Lets",
+    "group": "بچگانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lets"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "8277bd57-c8f3-40c2-be81-b99dc85aec4d",
+    "image_url": "https://image.torob.com/base/images/Lh/Sm/LhSmywRJLqkxB3SZ.jpg"
+  },
+  {
+    "title": "ست مجلسی پسرانه ترک",
+    "group": "پسرانه",
+    "product": "ست مجلسی",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست"
+        ]
+      }
+    ],
+    "random_key": "a9045afa-9794-410b-88dd-c9dada01c2b1",
+    "image_url": "https://image.torob.com/base/images/IC/7l/IC7lyHSHlHTFlCmW.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه ودخترانه فانتزی",
+    "group": "پسرانه ودخترانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "فانتزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "4467c8b4-a040-4631-a022-fff836a32216",
+    "image_url": "https://image.torob.com/base/images/W7/ty/W7ty1vDhmSA7eobN.jpg"
+  },
+  {
+    "title": "بلوز پسرانه سایز 40و45و50و55 جنس دورس پنبه عالی رنگ قرمز ورق بزن در چندین طرح زیبا",
+    "group": "پسرانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45",
+          "50",
+          "55"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس پنبه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "عالی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز"
+        ]
+      }
+    ],
+    "random_key": "dc3be770-880b-4d94-af3c-9f0f9ac37d40",
+    "image_url": "https://image.torob.com/base/images/Ch/D_/ChD_q7mOR4l-uaOT.jpg"
+  },
+  {
+    "title": "ست تیشرت شلوارک کتان سایز40،45،50 ، نخ پنبه و کتان ، لباس عید، فروش عیدانه",
+    "group": "نامشخص",
+    "product": "ست تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان",
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45",
+          "50"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "عید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "70298dd2-149e-4fdf-a153-3fbc0c21f171",
+    "image_url": "https://image.torob.com/base/images/CD/f3/CDf3tr1XhLPPkcwm.jpg"
+  },
+  {
+    "title": "ست پسرانه",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست"
+        ]
+      }
+    ],
+    "random_key": "2833c4cf-7975-445b-871d-b4c6400e8c65",
+    "image_url": "https://image.torob.com/base/images/jG/6W/jG6WDtjr5s3pLRQ7.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه OTHERS",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "OTHERS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "a4b0c4e7-c23c-4f59-85a6-4ccb8808a870",
+    "image_url": "https://image.torob.com/base/images/IE/n5/IEn5LQzpKy7zyNSK.jpg"
+  },
+  {
+    "title": "ست پلیور و شلوار زرشکی پسرانه دفاکتو Defacto (سایزبندی 9 ماه تا 6 سال)",
+    "group": "پسرانه 9 ماه تا 6 سال",
+    "product": "ست پلیور و شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "9 ماه تا 6 سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور و شلوار"
+        ]
+      }
+    ],
+    "random_key": "fa83bde8-ca65-4d1e-9bb0-18f4fae2ec7c",
+    "image_url": "https://image.torob.com/base/images/QW/46/QW46MUI7AhTKcxMt.jpg"
+  },
+  {
+    "title": "لباس بچگانه لباس پسرانه ست تیشرت و شلوار نخ پنبه 7 ماه تا 2.5 سال کد37 (جوجه شاپ )",
+    "group": "پسرانه 7 ماه تا 2.5 سال",
+    "product": "ست تیشرت و شلوار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "7 ماه تا 2.5 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست تیشرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جوجه"
+        ]
+      }
+    ],
+    "random_key": "42ef686d-2822-46a7-8973-5d5109cfd3c1",
+    "image_url": "https://image.torob.com/base/images/_w/Jt/_wJth3NZW52z2Ij3.jpg"
+  },
+  {
+    "title": "سه تیکه جذاب پسرانه",
+    "group": "پسرانه",
+    "product": "سه تکه",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تکه"
+        ]
+      }
+    ],
+    "random_key": "8888f841-1b9d-4120-8f61-65de3c1d069d",
+    "image_url": "https://image.torob.com/base/images/8R/OE/8ROEWoU7oA03jQuU.jpg"
+  },
+  {
+    "title": "سویشرت شلوار ورزشی نایک پسرانه مدل 002",
+    "group": "پسرانه",
+    "product": "سویشرت شلوار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سویشرت شلوار ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "ورزشی"
+        ]
+      }
+    ],
+    "random_key": "32fc2298-d186-4611-9210-b5b463604f55",
+    "image_url": "https://image.torob.com/base/images/z3/vD/z3vDrzvoiZNjeqUv.jpg"
+  },
+  {
+    "title": "بلوز و شلوار مرد عنکبوتی 45",
+    "group": "پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مرد عنکبوتی"
+        ]
+      }
+    ],
+    "random_key": "b36a4ee8-3d8d-4601-9600-c3ead4669a90",
+    "image_url": "https://image.torob.com/base/images/SX/1h/SX1hQ05zuTWbaDKZ.jpg"
+  },
+  {
+    "title": "ست تیشرت و شلوارک پسرانه مدل موز N72",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "موز"
+        ]
+      }
+    ],
+    "random_key": "5984ae58-098b-4ae4-b044-1a60aad4afe4",
+    "image_url": "https://image.torob.com/base/images/rM/MT/rMMTs8_KYqpaJbID.jpg"
+  },
+  {
+    "title": "دو تکه پسرانه مدل نانا سایز بندی رنگ بندی هر رنگ دو سایز داره",
+    "group": "پسرانه",
+    "product": "دو تکه",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "دو تکه"
+        ]
+      }
+    ],
+    "random_key": "67d1c98b-e319-4ed6-b2d6-67b13f97dbe1",
+    "image_url": "https://image.torob.com/base/images/HY/19/HY19x51OB7zBO8o-.jpg"
+  },
+  {
+    "title": "ست مجلسی پسرانه",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "ec98eed9-0f01-45f0-884a-a9dde1c6ee2c",
+    "image_url": "https://image.torob.com/base/images/B9/jY/B9jYQILYMGHA9mH7.jpg"
+  },
+  {
+    "title": "ست تیشرت شلوارک جیب نما",
+    "group": "نامشخص",
+    "product": "ست تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جیب نما"
+        ]
+      }
+    ],
+    "random_key": "d1a63001-37b0-4835-9276-1f8b80f47e12",
+    "image_url": "https://image.torob.com/base/images/vH/5v/vH5v_3h4cm1eFO6C.jpg"
+  },
+  {
+    "title": "ست بالنسیگا جدید",
+    "group": "نامشخص",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بالنسیگا"
+        ]
+      }
+    ],
+    "random_key": "11533404-3ef8-45a1-ac8b-6a31e5f8b578",
+    "image_url": "https://image.torob.com/base/images/Pf/i2/Pfi2VGddMROh8dDu.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک. پسرانه",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "7206aefd-d70c-43b7-a4cc-b67f78a07f44",
+    "image_url": "https://image.torob.com/base/images/M3/fy/M3fy3kScTSpaMECB.jpg"
+  },
+  {
+    "title": "ست پیژامه نود پسرانه و بچگانه لباس خواب بژ چاپی Us1341 U.S. Polo Assn.",
+    "group": "پسرانه و بچگانه",
+    "product": "ست پیژامه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست پیژامه",
+          "لباس خواب"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "U.S. Polo Assn."
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاپی"
+        ]
+      }
+    ],
+    "random_key": "698d0e15-24ac-41b3-bfd5-7a77d67bff09",
+    "image_url": "https://image.torob.com/base/images/3J/Ua/3JUawGXvQzCbWHiN.jpg"
+  },
+  {
+    "title": "ست بالا و پایین پسرانه السی وایکیکی LC Waikiki اورجینال W4DK15Z1 –",
+    "group": "پسرانه",
+    "product": "ست بالا و پایین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست بالا و پایین"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "4e2fa6b5-b4ff-4c55-bf56-986067201742",
+    "image_url": "https://image.torob.com/base/images/Zr/gd/ZrgdYCNh7u8PbZzk.jpg"
+  },
+  {
+    "title": "ست پیژامه و لباس خواب پسرانه السی وایکیکی LC Waikiki اورجینال W3CN53Z4",
+    "group": "پسرانه",
+    "product": "ست پیژامه و لباس خواب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست پیژامه و لباس خواب"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "355affb3-9b91-4c84-99bc-f228008dc68f",
+    "image_url": "https://image.torob.com/base/images/OG/WY/OGWY1w77pJJqC5EL.jpg"
+  },
+  {
+    "title": "حراج هودی شلوار بلوز شلوار پسرانه نخ خالص جیبدار پارچه پنبه گلکسی سایز 60 وسایز 65 مناسب فصل سرما",
+    "group": "پسرانه",
+    "product": "هودی شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "هودی شلوار",
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ خالص",
+          "پنبه گلکسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "60",
+          "65"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "فصل سرما"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جیبدار"
+        ]
+      }
+    ],
+    "random_key": "791165f8-ac4c-45d7-bb60-7054cd363b38",
+    "image_url": "https://image.torob.com/base/images/ut/PW/utPWQiBhs-CucoRR.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه آستین کش سایز 45 ارسال رایگان",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کش"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45"
+        ]
+      }
+    ],
+    "random_key": "9bd9a55f-2e33-4da6-a186-dccfc2b4a961",
+    "image_url": "https://image.torob.com/base/images/Kz/Jr/KzJra0a3zsjgeUit.jpg"
+  },
+  {
+    "title": "ست کت چرمی پسرانه سه تکه با آستر گلدوزی شده، جیب دوتایی، بست فاق نرمال آستین استاندارد رنگارنگ پسرانه | Gold Class Kidswear 1515-TAKIM",
+    "group": "پسرانه",
+    "product": "ست کت چرمی",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Gold Class Kidswear"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کت چرمی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین استاندارد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستر گلدوزی شده",
+          "جیب دوتایی",
+          "بست فاق نرمال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگارنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست کت چرمی"
+        ]
+      }
+    ],
+    "random_key": "4030a6a1-19c3-45bf-8fe6-5492fa22b860",
+    "image_url": "https://image.torob.com/base/images/q4/r-/q4r-4V8v3Z3ZgQap.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار اسپرت پسرانه سایز 60جنس ملانژ پنبه بسیار باکیفیت و خوش قیمت",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 60"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ملانژ پنبه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بسیار باکیفیت",
+          "خوش قیمت"
+        ]
+      }
+    ],
+    "random_key": "21a86af0-1f20-45d9-9d36-03b87daa4f5c",
+    "image_url": "https://image.torob.com/base/images/wY/ru/wYru6gF5VEGyFZ0R.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل پنگوئن کد 23 رنگ قرمز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پنگوئن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "a579f1bb-4587-44f8-b416-182086f023b7",
+    "image_url": "https://image.torob.com/base/images/y2/j8/y2j8V62Iuhj3VQrc.jpg"
+  },
+  {
+    "title": "پیراهن شلوار رینگی پسرانه",
+    "group": "پسرانه",
+    "product": "پیراهن شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن شلوار رینگی"
+        ]
+      }
+    ],
+    "random_key": "7bd18b16-4aa3-4e6d-a9db-9cf0c35e2d05",
+    "image_url": "https://image.torob.com/base/images/is/yJ/isyJW5cUVdyZLF4Y.jpg"
+  },
+  {
+    "title": "ست جلیقه شلوار پسرانه مدل آژوان برند شیکسون",
+    "group": "پسرانه",
+    "product": "ست جلیقه شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیکسون"
+        ]
+      }
+    ],
+    "random_key": "1ebf2cf2-e367-48cf-b7a1-a50408fa8e26",
+    "image_url": "https://image.torob.com/base/images/u_/fu/u_fuQjqLg1hcoD7F.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل مرد عنکبوتی کد SPIDER-GB رنگ سبز آبی",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مرد عنکبوتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز آبی"
+        ]
+      }
+    ],
+    "random_key": "97681c1b-c683-4e51-9851-cdaf25c5af5f",
+    "image_url": "https://image.torob.com/base/images/ES/iO/ESiOMaMD5RsB9k_8.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه چاپدار طرح تمساح",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح تمساح"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاپدار"
+        ]
+      }
+    ],
+    "random_key": "9db6056d-ae48-4412-8224-7e48d3452700",
+    "image_url": "https://image.torob.com/base/images/J5/Pi/J5PiOa0Na05Io9hi.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل کراش کد 8 رنگ قرمز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "5c307959-b54e-4f5d-8b6a-52e69e79b5dd",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "سه تیکه کتان پسرانه",
+    "group": "پسرانه",
+    "product": "سه تیکه",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تیکه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سه تیکه کتان"
+        ]
+      }
+    ],
+    "random_key": "d2f82dae-8c7f-4477-b6cc-c7d4c7e33937",
+    "image_url": "https://image.torob.com/base/images/rz/a4/rza4WQ2gQGmYqNga.jpg"
+  },
+  {
+    "title": "تیشرت و شلوارک پسرانه سایز 55 و 60(ارسال سریع)ست پسرانه.ست تیشرت و شلوارک پسرانه اسپرت.تیشرت و شلوارک راحتی پسرانه",
+    "group": "پسرانه",
+    "product": "تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 55",
+          "سایز 60"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت",
+          "راحتی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال سریع"
+        ]
+      }
+    ],
+    "random_key": "f8d0fca4-bb33-4213-afbc-88ba97fb9048",
+    "image_url": "https://image.torob.com/base/images/K3/Yz/K3YzldsHubLhIlWH.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه سایز 40 و 45 جنس تیشرت پنبه لاکرا جنس شلوارک جین کاغذی",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 40",
+          "سایز 45"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه لاکرا",
+          "جین کاغذی"
+        ]
+      }
+    ],
+    "random_key": "717027bb-defa-4993-9d5a-f461286b0c87",
+    "image_url": "https://image.torob.com/base/images/3L/o5/3Lo51yY6Fmxb_-bU.jpg"
+  },
+  {
+    "title": "ژیله و شلوار پسرانه (3 تا 5 سال) کد 021860",
+    "group": "پسرانه 3 تا 5 سال",
+    "product": "ژیله و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژیله و شلوار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 5 سال"
+        ]
+      }
+    ],
+    "random_key": "576195cc-e65a-4f50-9af7-ed8408be92fc",
+    "image_url": "https://image.torob.com/base/images/PT/rT/PTrT7YO_Jm2ussGJ.webp"
+  },
+  {
+    "title": "ست آستین کوتاه شلوار طرح تدی (پس کرایه)",
+    "group": "نامشخص",
+    "product": "ست آستین کوتاه شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست آستین کوتاه شلوار"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح تدی"
+        ]
+      }
+    ],
+    "random_key": "0bf65364-615e-462b-a255-3b8bbf81839e",
+    "image_url": "https://image.torob.com/base/images/a9/-B/a9-Bj8QPCftvarcf.jpg"
+  },
+  {
+    "title": "دورس چاپی تدی و شلوار جین ذغالی پسرانه(سایز 35 تا 50)",
+    "group": "پسرانه",
+    "product": "دورس و شلوار جین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دورس و شلوار جین"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس",
+          "جین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ذغالی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 35 تا 50"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاپی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تدی"
+        ]
+      }
+    ],
+    "random_key": "d7dbeeda-fbe6-4409-873e-7ff5db6e3c70",
+    "image_url": "https://image.torob.com/base/images/RF/Gn/RFGnJJfqoHdj47Kq.jpg"
+  },
+  {
+    "title": "بلوز و شلوار پسرانه طرح پاندا کد 232192",
+    "group": "پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پاندا"
+        ]
+      }
+    ],
+    "random_key": "3116b9b8-b2b2-4f07-a0ed-45e0c5fae355",
+    "image_url": "https://image.torob.com/base/images/yy/Mr/yyMrpPHbikIWRfCJ.webp"
+  },
+  {
+    "title": "بلوز و شلوار توکرکی پسرانه سایز ۳۵ تا ۵۰",
+    "group": "پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "توکرکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز ۳۵ تا ۵۰"
+        ]
+      }
+    ],
+    "random_key": "e2b50fae-6aa6-4de5-8c1e-9b3442beab0f",
+    "image_url": "https://image.torob.com/base/images/N0/pE/N0pESbrLQ66Fz7nd.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل داستان اسباب بازی کد 9 رنگ زرد",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "داستان اسباب بازی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      }
+    ],
+    "random_key": "def134d7-9542-48ab-ba57-7229abc868c9",
+    "image_url": "https://image.torob.com/base/images/ey/aN/eyaNsmP7GBDOTmXG.jpg"
+  },
+  {
+    "title": "ست تیشرت خردلی و شلوارک لی زغالی پسرانه سایز 45 60",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خردلی",
+          "زغالی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45",
+          "60"
+        ]
+      }
+    ],
+    "random_key": "8ac39e16-d73f-47fd-9cfa-811eef322041",
+    "image_url": "https://image.torob.com/base/images/gv/QG/gvQG9jK7sD3wsT-w.jpg"
+  },
+  {
+    "title": "ست جنگل اسپان",
+    "group": "نامشخص",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "جنگل"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "اسپان"
+        ]
+      }
+    ],
+    "random_key": "0fb985d4-e7a6-4e99-83ee-9c36925577e2",
+    "image_url": "https://image.torob.com/base/images/SV/v-/SVv-0Oc0JtTOAEk1.jpg"
+  },
+  {
+    "title": "ست پیژامه و لباس خواب پسرانه السی وایکیکی LC Waikiki اورجینال TYCA25FD67E6F4A700",
+    "group": "پسرانه",
+    "product": "ست پیژامه و لباس خواب",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه و لباس خواب"
+        ]
+      }
+    ],
+    "random_key": "b4d0f9df-6f37-4712-a954-96050d24fd58",
+    "image_url": "https://image.torob.com/base/images/wT/IY/wTIYyvdYo_ZKSQQu.jpg"
+  },
+  {
+    "title": "ست پسرانه کیفیت عالی",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [],
+    "random_key": "ce9581b7-9abd-4357-b984-1d7b7b399594",
+    "image_url": "https://image.torob.com/base/images/c2/4e/c24evWexfuQIVADS.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل پو کد 19 رنگ سرخابی",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخابی"
+        ]
+      }
+    ],
+    "random_key": "7c3f0b5e-0717-4b0d-984c-db39979e30e8",
+    "image_url": "https://image.torob.com/base/images/Vl/an/Vlan89wl7heujOBX.jpg"
+  },
+  {
+    "title": "ست لباس ورزشی پسرانه تامی لایف کد T16EG-11249 - 74 | TOMMYLIFE",
+    "group": "پسرانه",
+    "product": "ست لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تامی لایف",
+          "TOMMYLIFE"
+        ]
+      }
+    ],
+    "random_key": "1015cfd3-9250-44c6-840b-caa4e27f990a",
+    "image_url": "https://image.torob.com/base/images/13/qG/13qGKpHYAv02VWjo.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه داخل کرک ترک",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "داخل کرک",
+          "ترک"
+        ]
+      }
+    ],
+    "random_key": "e68bbe8f-6df9-403b-8ebd-1de5b8647aa1",
+    "image_url": "https://image.torob.com/base/images/46/EY/46EYuaaQMExWYLEm.jpg"
+  },
+  {
+    "title": "ست سویشرت بیسبالی استیکر بچه گانه",
+    "group": "بچه گانه",
+    "product": "ست سویشرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سویشرت بیسبالی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "استیکر"
+        ]
+      }
+    ],
+    "random_key": "7e4be945-82aa-47e6-90bf-2bc08945ba93",
+    "image_url": "https://image.torob.com/base/images/if/3i/if3ikQdecWXOnJ1G.jpg"
+  },
+  {
+    "title": "ست پسرانه تیشرت و شلوارک لی طرح دایناسور رنگ نارنجی",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دایناسور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      }
+    ],
+    "random_key": "e9b9c748-7518-4557-9696-d06f442d6b43",
+    "image_url": "https://image.torob.com/base/images/6U/5n/6U5nMah4sew5aJ_K.jpg"
+  },
+  {
+    "title": "ست مجلسی پسرانه مدل سورنا مناسب بدو تولد تا دوازده سال",
+    "group": "پسرانه بدو تولد تا دوازده سال",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "بدو تولد تا دوازده سال"
+        ]
+      }
+    ],
+    "random_key": "aa3221a2-aaa6-4477-8a74-974177a050db",
+    "image_url": "https://image.torob.com/base/images/cB/IL/cBIL_WlZE_C5sPZz.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک نخی مشکی سفید طرح مارول",
+    "group": "نامشخص",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مارول"
+        ]
+      }
+    ],
+    "random_key": "cb30194c-00da-4305-88e1-9aa66063176f",
+    "image_url": "https://image.torob.com/base/images/MF/Z4/MFZ4CkpFRA-ffnp4.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "1ce08abf-2b83-4136-a30a-ec58a573670a",
+    "image_url": "https://image.torob.com/base/images/kJ/Gy/kJGyPYrk3HZcxfsp.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار خرسی پسرانه سایز 50،55",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "50",
+          "55"
+        ]
+      }
+    ],
+    "random_key": "b3488d33-42bd-4faf-bae7-6e9b180026de",
+    "image_url": "https://image.torob.com/base/images/Zt/q_/Ztq_31YRzcC0z5NE.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه تدی (کد 4013009) حدود 2 تا 10 سال",
+    "group": "پسرانه 2 تا 10 سال",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تدی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "حدود 2 تا 10 سال"
+        ]
+      }
+    ],
+    "random_key": "bc4d9884-c101-4a82-9adb-265567956572",
+    "image_url": "https://image.torob.com/base/images/0G/IB/0GIBawqynwTpk795.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل زرافه کد ۸ رنگ سبز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زرافه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "b3bad712-643a-4f19-8298-063131d8dbce",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "تاپ شلوارک پسرانه زرافه ومیکسر پنبه آبی 3تا5 سال برندgap درpikmodeا",
+    "group": "پسرانه",
+    "product": "تاپ شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زرافه",
+          "میکسر"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3تا5 سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "gap"
+        ]
+      }
+    ],
+    "random_key": "b7af6d5a-16f9-496e-a496-497153d833df",
+    "image_url": "https://image.torob.com/base/images/RI/3c/RI3c4zVWis5EKz1m.jpg"
+  },
+  {
+    "title": "ساسبند و شلوار پاپیون بدون پیراهن پسرانه",
+    "group": "پسرانه",
+    "product": "ساسبند و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساسبند",
+          "شلوار پاپیون"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "بدون پیراهن"
+        ]
+      }
+    ],
+    "random_key": "740e3fd0-aa1d-4fb6-ae8f-9c9254d8fd54",
+    "image_url": "https://image.torob.com/base/images/xh/fQ/xhfQXfWHdt8uoHBo.jpg"
+  },
+  {
+    "title": "بلوز شلوار بچگانه دورس پنبه",
+    "group": "بچگانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس پنبه"
+        ]
+      }
+    ],
+    "random_key": "13f0ef54-77f0-4159-98b2-75ca94709c0c",
+    "image_url": "https://image.torob.com/base/images/AS/-g/AS-gyScZobTEkjsX.jpg"
+  },
+  {
+    "title": "ست پسرانه",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [],
+    "random_key": "4ca341d6-18c1-47d4-b87b-7af66af03026",
+    "image_url": "https://image.torob.com/base/images/3x/la/3xlad5fpjvWDH-b3.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک جین پسرانه مدل 23 کد 1224",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک جین"
+        ]
+      }
+    ],
+    "random_key": "ae59b670-05ac-463f-9eff-c3a114790e18",
+    "image_url": "https://image.torob.com/base/images/DV/aF/DVaFRHM7-4-fHlmZ.jpg"
+  },
+  {
+    "title": "ست تیشرت وشلوارک جین خرسی پسرانه وارداتی",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت وشلوارک جین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      }
+    ],
+    "random_key": "88eee587-1704-4d06-aa10-78ce0774e14f",
+    "image_url": "https://image.torob.com/base/images/ZC/Vl/ZCVlseShQdvA67m1.jpg"
+  },
+  {
+    "title": "ست گرمکن ورزشی پسرانه السی وایکیکی LC Waikiki اورجینال TYC476526A1AE71400",
+    "group": "پسرانه",
+    "product": "ست گرمکن ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گرمکن ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "9cf7eb77-974d-44f5-8446-8cfb2ab0931c",
+    "image_url": "https://image.torob.com/base/images/aJ/up/aJupf5vI0NKv3oYo.jpg"
+  },
+  {
+    "title": "بلوز و شلوار پسرانه",
+    "group": "پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      }
+    ],
+    "random_key": "c5cefd38-cebe-46c6-bb55-dcf3b38157ed",
+    "image_url": "https://image.torob.com/base/images/ol/RG/olRGmRcc0ujorZQT.jpg"
+  },
+  {
+    "title": "دندونی سه تیکه پسرونه",
+    "group": "پسرانه",
+    "product": "دندونی",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تیکه"
+        ]
+      }
+    ],
+    "random_key": "8ead4324-e08b-498b-95a7-44ba41f224e7",
+    "image_url": "https://image.torob.com/base/images/40/-t/40-tEV5vIQBcQpM8.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک تمام چاپ پسرانه مناسب 7 تا 14 سال شناسه:535",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تمام چاپ"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "7 تا 14 سال"
+        ]
+      }
+    ],
+    "random_key": "1a9e4567-4001-4d2a-849b-8c5a1fb7afc2",
+    "image_url": "https://image.torob.com/base/images/aA/1k/aA1kvQTFO8L9XILj.jpg"
+  },
+  {
+    "title": "کد ۵۸۷ ست بلوز و شورت هاوایی پسرانه",
+    "group": "پسرانه",
+    "product": "ست بلوز و شورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شورت هاوایی"
+        ]
+      }
+    ],
+    "random_key": "6cb7ccf5-4110-4a64-892d-b78f999aba4c",
+    "image_url": "https://image.torob.com/base/images/Tr/fN/TrfNiYXePPFfAsXY.jpg"
+  },
+  {
+    "title": "بلوز و شلوار طرح Marvel پسرانه (18 ماه تا 7 سال) کد 629817",
+    "group": "پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Marvel"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "18 ماه تا 7 سال"
+        ]
+      }
+    ],
+    "random_key": "9be5aca1-1910-47c1-b354-eb0d78618e9b",
+    "image_url": "https://image.torob.com/base/images/zj/ww/zjww9mynZHacC-HW.webp"
+  },
+  {
+    "title": "ست بالا و پایین پسرانه السی وایکیکی LC Waikiki اورجینال HOPEW3GP00Z4",
+    "group": "پسرانه",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بالا و پایین"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "99bbec1a-feb3-4e08-8d6c-80bd1cec49a4",
+    "image_url": "https://image.torob.com/base/images/sb/hM/sbhMj0RBKx_aw14L.jpg"
+  },
+  {
+    "title": "سیوشرت دخترانه تیارا",
+    "group": "دخترانه",
+    "product": "سیوشرت",
+    "entities": [],
+    "random_key": "1c6a7839-da35-4a5d-9735-690fc66c364d",
+    "image_url": "https://image.torob.com/base/images/CP/__/CP__wfT-wguIY-QP.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرونه مجلسی کنفی",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کنفی"
+        ]
+      }
+    ],
+    "random_key": "6f6dca8b-7bf9-4cd3-bdd4-bfe4323590f5",
+    "image_url": "https://image.torob.com/base/images/_k/gr/_kgrYp6sM0x7mfcM.jpg"
+  },
+  {
+    "title": "ست بلوز و شلوار پسرانه اسپرت طرح حروف انگلیسی",
+    "group": "پسرانه",
+    "product": "ست بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "حروف انگلیسی"
+        ]
+      }
+    ],
+    "random_key": "cdf65bff-2ad3-49b1-9f58-62f1a155dcf0",
+    "image_url": "https://image.torob.com/base/images/uU/gy/uUgyT2vWELS97N68.jpg"
+  },
+  {
+    "title": "هودی وشلوار تو کرک شیک و اسپرت پسرانه با تنوع سایز و رنگ از سن 3 تا 5",
+    "group": "پسرانه 3 تا 5 سال",
+    "product": "هودی و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "هودی و شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "توکرک",
+          "شیک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 5 سال"
+        ]
+      }
+    ],
+    "random_key": "97162ef9-e1ea-430a-88bb-6d0e55bf5dca",
+    "image_url": "https://image.torob.com/base/images/SZ/tS/SZtSzuYSRJNp5lTU.jpg"
+  },
+  {
+    "title": "خرید اینترنتی ست لباس راحتی بچه گانه پسرانه طوسی برند For You Kids S000298751",
+    "group": "بچه گانه پسرانه",
+    "product": "ست لباس راحتی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست لباس راحتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "For You Kids"
+        ]
+      }
+    ],
+    "random_key": "c1c67e9c-217e-4469-8dcd-bfc52b2488dd",
+    "image_url": "https://image.torob.com/base/images/S6/_8/S6_8SLLwxpO9kdEB.jpg"
+  },
+  {
+    "title": "ست تیشرت شلوارک طرح آواکادو وارداتی مناسب 1 تا 4 سال",
+    "group": "نامشخص 1 تا 4 سال",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آواکادو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1 تا 4 سال"
+        ]
+      }
+    ],
+    "random_key": "473d41a1-4af8-41ae-9581-2db2f17cfd65",
+    "image_url": "https://image.torob.com/base/images/E_/9D/E_9DRCiWXN3RGoDG.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه طوسی",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "8e09d3a8-ff55-4e86-9933-92c0a14b252f",
+    "image_url": "https://image.torob.com/base/images/L_/UV/L_UVYrouJ9RC5zbZ.jpg"
+  },
+  {
+    "title": "ست اسپرت جلو زیپ دار",
+    "group": "نامشخص",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جلو زیپ دار"
+        ]
+      }
+    ],
+    "random_key": "6149d379-36dd-4bfa-841b-0d59c9b80d71",
+    "image_url": "https://image.torob.com/base/images/Yx/Ka/YxKaU3cj78TWemaf.jpg"
+  },
+  {
+    "title": "کد ۱۸۵۵ کت و شلوار دامادی پسرانه",
+    "group": "پسرانه",
+    "product": "کت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت و شلوار دامادی"
+        ]
+      }
+    ],
+    "random_key": "f484410b-f187-4fe9-a794-b0afc8710890",
+    "image_url": "https://image.torob.com/base/images/CN/Eq/CNEqIU_3wGkr8wpQ.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل مرد عنکبوتی کد ۶ رنگ سفید",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مرد عنکبوتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "08bc210a-0876-4131-bd7a-b79ec511fc72",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه میکی",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "میکی"
+        ]
+      }
+    ],
+    "random_key": "709e7594-f12a-4e34-888a-df25823ee0a1",
+    "image_url": "https://image.torob.com/base/images/Vp/VO/VpVORipmLTVoI7X1.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل پلنگ صورتی کد 3 رنگ سرخابی",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پلنگ صورتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخابی"
+        ]
+      }
+    ],
+    "random_key": "c00bdb7c-3992-4286-af40-3c2603e9e370",
+    "image_url": "https://image.torob.com/base/images/Xa/_U/Xa_UTyfytSaI3xJZ.jpg"
+  },
+  {
+    "title": "ست مجلسی پسرانه طرح بارمان",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بارمان"
+        ]
+      }
+    ],
+    "random_key": "c7495d93-cb1b-42a8-8bc8-3de493dd115e",
+    "image_url": "https://image.torob.com/base/images/2-/Rm/2-RmkyBrB42uuQHv.jpg"
+  },
+  {
+    "title": "ست لباس ورزشی پسرانه تامی لایف کد T16EÇ-11233 - 74 | TOMMYLIFE",
+    "group": "پسرانه",
+    "product": "ست لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تامی لایف",
+          "TOMMYLIFE"
+        ]
+      }
+    ],
+    "random_key": "1ed0b8e0-352a-4f7e-906b-fb9c40a3d301",
+    "image_url": "https://image.torob.com/base/images/yd/6p/yd6pY5Vl6QAc3ICb.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل سگ نگهبان کد ۳ رنگ سفید",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سگ نگهبان"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "5439e8b5-7236-48f3-bbbb-dd79366e7941",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "923cdd1a-de77-461c-bce8-3b251844fed6",
+    "image_url": "https://image.torob.com/base/images/e3/Tu/e3TuNQXAVqn1b6EW.jpg"
+  },
+  {
+    "title": "سویئشرت وشلوارورزشی سایز75پارچه تاسلون آستردار رنگ سرمه ای پسرانه ودخترانه",
+    "group": "پسرانه و دخترانه",
+    "product": "سوییشرت و شلوار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سویئشرت و شلوار ورزشی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "75"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تاسلون"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "آستردار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "68e0bea9-f805-40af-a9d3-a91ee89d43e9",
+    "image_url": "https://image.torob.com/base/images/lG/i2/lGi2nQx1NfW1Zgxz.jpg"
+  },
+  {
+    "title": "ست تیشرت استین کوتاه و شلوار_کد:1044",
+    "group": "نامشخص",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "استین کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوار"
+        ]
+      }
+    ],
+    "random_key": "cef920cf-fcbb-42c8-98c5-fc7a658ec305",
+    "image_url": "https://image.torob.com/base/images/qz/br/qzbr4xGWGoDB57yZ.jpg"
+  },
+  {
+    "title": "ست پیژامه پسرانه کارترز کد 2R492310 - 23173 | Carter's",
+    "group": "پسرانه",
+    "product": "ست پیژامه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کارترز",
+          "Carter's"
+        ]
+      }
+    ],
+    "random_key": "6ae93a1d-1895-4592-b99c-c90b22429f4c",
+    "image_url": "https://image.torob.com/base/images/n-/YR/n-YR6Zs8A_0zaMGi.jpg"
+  },
+  {
+    "title": "ست هیلی",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیلی"
+        ]
+      }
+    ],
+    "random_key": "369edbc1-5fb8-4ae6-a813-c977abdd1cc2",
+    "image_url": "https://image.torob.com/base/images/db/JK/dbJK0L85LFS3dy8R.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل هندوانه یلدایی کد 32 رنگ سفید",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هندوانه یلدایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "881bab20-9396-4bcd-9bb7-0cbd626fe7d7",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "ست تیشرت و شلوارک جین پسرانه ماریو کد 8107",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک جین"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماریو"
+        ]
+      }
+    ],
+    "random_key": "4475dfda-2962-4b66-8304-2ce8f9aa33a0",
+    "image_url": "https://image.torob.com/base/images/fS/wJ/fSwJ4ZQElZCmb0I6.jpg"
+  },
+  {
+    "title": "تیشرت و شلوار سایز بزرگ . تیشرت و شلوار پسرانه . تیشرت و شلوار",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سایز بزرگ"
+        ]
+      }
+    ],
+    "random_key": "e9ad9689-92c4-49ef-a347-eb6685ea3eae",
+    "image_url": "https://image.torob.com/base/images/Vi/GM/ViGMqOAuTdK_y4iF.jpg"
+  },
+  {
+    "title": "ست بلیز شلوار کبریتی پسرانه فروش عمده پوشاک",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلیز شلوار کبریتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      }
+    ],
+    "random_key": "56a245f9-e7cf-40fc-952b-345c43b2b191",
+    "image_url": "https://image.torob.com/base/images/99/Be/99BeGgH1WbVnuLoq.jpg"
+  },
+  {
+    "title": "ست پسرانه ترک پاییزی مدل بیس بال",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بیس بال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ترک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست"
+        ]
+      }
+    ],
+    "random_key": "ac15a7ee-fd08-494b-adc3-bf3202222675",
+    "image_url": "https://image.torob.com/base/images/UH/9X/UH9XDH4faXJgCQ20.jpg"
+  },
+  {
+    "title": "ست بلوز و شلوار بافت بچگانه برند پوکوپیانو کد ۱۰۶۱۸۲",
+    "group": "بچگانه",
+    "product": "ست بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار بافت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوکوپیانو"
+        ]
+      }
+    ],
+    "random_key": "dd34fda0-114d-487d-8fe3-62e3f49c37ec",
+    "image_url": "https://image.torob.com/base/images/IP/Fh/IPFhqx27pIfiNLDH.jpg"
+  },
+  {
+    "title": "سویشرت و شلوار پسرانه سایز 40 45 50 55 رنگ آبی قرمز طوسی دو تا هفت سال",
+    "group": "پسرانه",
+    "product": "ست سویشرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سویشرت و شلوار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45",
+          "50",
+          "55",
+          "دو تا هفت سال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "قرمز",
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "0f61d67c-d293-4882-bf02-2a4888ae8142",
+    "image_url": "https://image.torob.com/base/images/kL/kC/kLkCt-h-X-uRXAqp.jpg"
+  },
+  {
+    "title": "ست پسرانه تیشرت یقه دار دو دکمه و شلوار جیبدار",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت یقه دار و شلوار جیبدار"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دار"
+        ]
+      }
+    ],
+    "random_key": "9a81e82a-804a-468b-9b4f-27a725f1bba4",
+    "image_url": "https://image.torob.com/base/images/aX/9T/aX9TmExrUG8dYIBd.jpg"
+  },
+  {
+    "title": "ست پیژامه و لباس خواب پسرانه السی وایکیکی LC Waikiki اورجینال W3JC99Z4",
+    "group": "پسرانه",
+    "product": "ست پیژامه و لباس خواب",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه و لباس خواب"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "b3b19db6-f28d-4540-8a51-057a06a0fa0a",
+    "image_url": "https://image.torob.com/base/images/nc/Xp/ncXppZt1eBPulbgS.jpg"
+  },
+  {
+    "title": "ست پسرانه تیشرت و شلوارک بچگانه شیک سایز 35",
+    "group": "بچگانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "8aa7ac73-75b0-4879-8cf7-748a59de9913",
+    "image_url": "https://image.torob.com/base/images/2F/BP/2FBPFTvmMkQG-OE_.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوار پسرانه کد 2943",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      }
+    ],
+    "random_key": "5f47e0d1-f1d0-4bfd-93ff-57fdbd47f99f",
+    "image_url": "https://image.torob.com/base/images/gY/sp/gYsp7Dof0Ga79i_h.jpg"
+  },
+  {
+    "title": "ست بلوز پسرانه پنبه‌ای + شلوارک کتان مدل تابستانی",
+    "group": "پسرانه",
+    "product": "ست بلوز و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز پنبه ای + شلوارک کتان"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه",
+          "کتان"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      }
+    ],
+    "random_key": "994a5742-fa70-4c51-a17f-96fd9f1f3811",
+    "image_url": "https://image.torob.com/base/images/2v/iK/2viKauudmPBILrBw.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل کراش کد 2 رنگ کرم",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "کراش"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      }
+    ],
+    "random_key": "4bc5d134-380b-4068-b550-3695bc65c38e",
+    "image_url": "https://image.torob.com/base/images/lW/RZ/lWRZVa0FzIQozhy9.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه بچه گانه نارنجی خرسی 1510",
+    "group": "بچه گانه",
+    "product": "ست تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرسی"
+        ]
+      }
+    ],
+    "random_key": "ab357a9c-0f24-40c3-9038-ffd373d83ba6",
+    "image_url": "https://image.torob.com/base/images/Ez/gc/Ezgc7oLglAOwEkkt.webp"
+  },
+  {
+    "title": "ست پسرانه للا کد 6212016 - 20063 | Lela",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "للا",
+          "Lela"
+        ]
+      }
+    ],
+    "random_key": "28af071c-e282-4075-9910-8f9af1fcde55",
+    "image_url": "https://image.torob.com/base/images/lu/YK/luYK_JRKrGGl6hYU.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار پسرانه شلواری لی دار سایز 40 تا 55",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شلواری لی دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "55"
+        ]
+      }
+    ],
+    "random_key": "2b1b8031-0f7b-439c-98b8-a99914989a15",
+    "image_url": "https://image.torob.com/base/images/1L/9I/1L9IsGPtavnZ4ekk.jpg"
+  },
+  {
+    "title": "بلوزشلوار پسرانه دورس پنبه ای از نوزادی تا 4 سال(ارسال رایگان)",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوزشلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس پنبه ای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "نوزادی تا 4 سال"
+        ]
+      }
+    ],
+    "random_key": "a52cad9c-95af-4637-b871-3f832094eba1",
+    "image_url": "https://image.torob.com/base/images/qh/hX/qhhX3vYyvLZgHNsd.jpg"
+  },
+  {
+    "title": "ست پیژامه با شلوارک پسرانه رگولار ال سی وایکیکی S5L913Z4 - G7K | LCW ECO",
+    "group": "پسرانه",
+    "product": "ست پیژامه",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه با شلوارک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "رگولار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "2aa75297-5f4d-4353-b05d-c9d935374c95",
+    "image_url": "https://image.torob.com/base/images/Pp/B_/PpB_sFLotQVeJn-P.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل خرس صبح رنگ نارنجی",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرس صبح"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      }
+    ],
+    "random_key": "7dfdc9bf-33fd-4ac8-84aa-d5a07d97fc94",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "لباس بچگانه لباس پسرانه ست بلوز و شلوار نخ پنبه 7 ماه تا 2.5 سال کد118 (جوجه شاپ )",
+    "group": "پسرانه",
+    "product": "ست بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "7 ماه تا 2.5 سال"
+        ]
+      }
+    ],
+    "random_key": "59efff7d-9a33-4ce7-b25f-2e84ed915ce1",
+    "image_url": "https://image.torob.com/base/images/fH/OJ/fHOJLFBJkP_ZunWe.jpg"
+  },
+  {
+    "title": "ست تیشرت و شلوارک پسرانه طرح ببری",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ببری"
+        ]
+      }
+    ],
+    "random_key": "ae21e162-4629-4ead-b2f8-cfcacd9b6369",
+    "image_url": "https://image.torob.com/base/images/1r/H0/1rH0GqvgeMpu3r55.webp"
+  },
+  {
+    "title": "لباس پسرانه (تیشرت و شلوارک) طرح زرافه و بچه کوالا",
+    "group": "پسرانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زرافه",
+          "بچه کوالا"
+        ]
+      }
+    ],
+    "random_key": "8b3ca8d1-df8a-475f-9926-f6910e9b74ee",
+    "image_url": "https://image.torob.com/base/images/dR/ti/dRtiDD-OmR0FVNfo.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوار ورزشی پسرانه لوپیلو مدل 4395475",
+    "group": "پسرانه",
+    "product": "ست ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      }
+    ],
+    "random_key": "571fafcb-a0f6-4b6b-b58c-df29b1658b45",
+    "image_url": "https://image.torob.com/base/images/Ph/iD/PhiD-HY5PgUQLK40.jpg"
+  },
+  {
+    "title": "ست لباس ورزشی پسرانه سیویل کد 25004301424W1 - 20600 | Civil",
+    "group": "پسرانه",
+    "product": "ست لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سیویل"
+        ]
+      }
+    ],
+    "random_key": "17ef843d-a508-49e0-87a9-ad9a9dbbaa6f",
+    "image_url": "https://image.torob.com/base/images/i7/j6/i7j6JuwpYVH8QFx1.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه SUPREME",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SUPREME"
+        ]
+      }
+    ],
+    "random_key": "082b6881-78ec-44ce-a086-59bc46bc6f15",
+    "image_url": "https://image.torob.com/base/images/z5/ee/z5eeS1cN0IRb4wfH.jpg"
+  },
+  {
+    "title": "لباس بچگانه اسپورت تیشرت و شلوارک پسرانه",
+    "group": "پسرانه",
+    "product": "لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپورت"
+        ]
+      }
+    ],
+    "random_key": "22b9eab7-9332-4d0b-ad1e-cef888127a85",
+    "image_url": "https://image.torob.com/base/images/_b/94/_b945jM8yVMOTprs.jpg"
+  },
+  {
+    "title": "ست بلوز و شلوار لی طرح اسنوپی کد 2038 قرمز 40",
+    "group": "پسرانه",
+    "product": "ست بلوز و شلوار لی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار لی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسنوپی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40"
+        ]
+      }
+    ],
+    "random_key": "a8108ffd-cbef-449d-bb3d-1c4df57fa514",
+    "image_url": "https://image.torob.com/base/images/BI/-g/BI-gqGPG3df408vO.jpg"
+  },
+  {
+    "title": "بلوز و شلوار پسرانه طرح هایکا کد 232171",
+    "group": "پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "هایکا"
+        ]
+      }
+    ],
+    "random_key": "20705a76-b3cb-449b-af6d-bb247fe107cc",
+    "image_url": "https://image.torob.com/base/images/bn/Yp/bnYpO8cLJDgp2bkX.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل دایناسور و چای رنگ قرمز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دایناسور و چای"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "b198dea3-05e1-46ce-8036-c3ce9d50a045",
+    "image_url": "https://image.torob.com/base/images/SE/6b/SE6bCxthWuImtQAU.jpg"
+  },
+  {
+    "title": "بلوز شلوار طرح ماشین فانتزی سایز 40و45 مناسب 1 تا 3 سال کیفیت عالی و تضمینی",
+    "group": "نامشخص",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماشین فانتزی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45",
+          "1 تا 3 سال"
+        ]
+      }
+    ],
+    "random_key": "8e462fc3-53bf-428e-9f05-13b68e3e6859",
+    "image_url": "https://image.torob.com/base/images/yy/_U/yy_U_97sUsWq8U73.jpg"
+  },
+  {
+    "title": "بلوز وشلوار دایناسور سبز",
+    "group": "نامشخص",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز وشلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دایناسور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "b7669e8c-5fc3-4682-b254-407b41c58b74",
+    "image_url": "https://image.torob.com/base/images/Hr/Ar/HrAr4rXsdTexg5FC.jpg"
+  },
+  {
+    "title": "ست 5 تکه کتشلوار ساسبندی پسرانه مدل آرتا برند شیکسون",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "5 تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتشلوار ساسبندی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیکسون"
+        ]
+      }
+    ],
+    "random_key": "3b26339f-bed9-4349-89e7-624d0efce3a4",
+    "image_url": "https://image.torob.com/base/images/H5/_O/H5_Om6g9jE6be2RZ.jpg"
+  },
+  {
+    "title": "ست لباس ورزشی پسرانه ال سی وایکیکی کد S4DI19Z4 - CVL | LCW Kids",
+    "group": "پسرانه",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی"
+        ]
+      }
+    ],
+    "random_key": "20206738-3ec2-4b91-82b7-504c718fee7c",
+    "image_url": "https://image.torob.com/base/images/9Y/vL/9YvLSdM8RSQSRq9a.jpg"
+  },
+  {
+    "title": "بلوز شلوار آدم فضایی بچگانه پسرانه دورس با کیفیت",
+    "group": "بچگانه پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آدم فضایی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "دورس"
+        ]
+      }
+    ],
+    "random_key": "8190a470-e773-46f0-8da1-a972fcb0930a",
+    "image_url": "https://image.torob.com/base/images/rz/9g/rz9gqyhqa5gLuYHk.jpg"
+  },
+  {
+    "title": "ست لباس ورزشی سه نفره نوزاد پسر سبز 2818 طرح دار پسرانه | مایورال Mayoral 162922_117575",
+    "group": "نوزاد پسر",
+    "product": "ست لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه نفره"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مایورال Mayoral"
+        ]
+      }
+    ],
+    "random_key": "8b661769-fad4-4891-abd7-5006d975dd52",
+    "image_url": "https://image.torob.com/base/images/AO/Xp/AOXplnbJSFZPUlkW.jpg"
+  },
+  {
+    "title": "تیشرت شلوار پسرانه لوکس کد 4126-1",
+    "group": "پسرانه",
+    "product": "ست تیشرت شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوار"
+        ]
+      }
+    ],
+    "random_key": "afd3137a-d542-410c-b560-abf77a890a41",
+    "image_url": "https://image.torob.com/base/images/jB/ue/jBuegTh1oxfvAowH.jpg"
+  },
+  {
+    "title": "هودی شلوار ملانژ کرکی قد 45 مناسب 3 تا 5 سال",
+    "group": "نامشخص",
+    "product": "هودی شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "هودی شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ملانژ کرکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "قد 45",
+          "3 تا 5 سال"
+        ]
+      }
+    ],
+    "random_key": "49ba5858-7c23-4507-9afe-ff4639fa6fff",
+    "image_url": "https://image.torob.com/base/images/G0/M8/G0M8MJtZwaqXzbHS.jpg"
+  },
+  {
+    "title": "لباس بچگانه 40 و 45",
+    "group": "بچگانه",
+    "product": "لباس بچگانه",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "40",
+          "45"
+        ]
+      }
+    ],
+    "random_key": "eda926bb-9fce-4ecc-b53b-4c3caef350bf",
+    "image_url": "https://image.torob.com/base/images/ep/uI/epuIR98c3hL_FGa9.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل سگ های نگهبان کریسمس رنگ سفید",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "سگ های نگهبان"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "کریسمس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "b15f61f9-337a-41e7-ac0e-aaa48ea07598",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل گوسفند ناقلا رنگ زرد",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گوسفند ناقلا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      }
+    ],
+    "random_key": "e0cbdf8f-983c-45f9-b29c-7ccfcb694ead",
+    "image_url": "https://image.torob.com/base/images/rK/Pl/rKPldhP9OkgZPbnJ.jpg"
+  },
+  {
+    "title": "بلوز وشلوار پسرانه",
+    "group": "پسرانه",
+    "product": "ست بلوز و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      }
+    ],
+    "random_key": "8b63fc90-5980-4871-8964-d059a1758226",
+    "image_url": "https://image.torob.com/base/images/XK/zg/XKzgFD3HEEj3YSMQ.jpg"
+  },
+  {
+    "title": "ست تیشرت و شلوارک پسرانه مدل N74 THE LAST",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "f76d4602-1433-47c9-9dec-9c3c63ea5acf",
+    "image_url": "https://image.torob.com/base/images/SU/It/SUItMoQUoi01qn_U.jpg"
+  },
+  {
+    "title": "بلوز شلوار کتان مناسب 3 تا 10،11 سال اسپرت",
+    "group": "نامشخص",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3 تا 10،11 سال"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "b3dc2c7b-c067-4b80-a3b6-963bbdc9866a",
+    "image_url": "https://image.torob.com/base/images/JY/T6/JYT6-uZSzRDLSF7g.jpg"
+  },
+  {
+    "title": "ست گرمکن پسرانه | Spiderman D4664-C",
+    "group": "پسرانه",
+    "product": "ست گرمکن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گرمکن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Spiderman"
+        ]
+      }
+    ],
+    "random_key": "9750cb88-244d-4d92-9c80-4f1c8fad45b0",
+    "image_url": "https://image.torob.com/base/images/rT/Hr/rTHraJXDiTLniM61.jpg"
+  },
+  {
+    "title": "ست جادویی پسرانه بسیار شیک و باکیفیت",
+    "group": "پسرانه",
+    "product": "ست پوشاک",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جادویی",
+          "بسیار شیک و باکیفیت"
+        ]
+      }
+    ],
+    "random_key": "8f9b2949-3c73-446c-ac0a-59087bfe88d2",
+    "image_url": "https://image.torob.com/base/images/vn/KW/vnKWs_fp70mGAvF6.jpg"
+  },
+  {
+    "title": "ست نوزاد نارنجی مردانه تی شرت شلوارک نخی با طرح زرافه پسرانه کوتون برند ترکیه Koton",
+    "group": "نوزاد پسر",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت شلوارک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "زرافه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوتون",
+          "Koton"
+        ]
+      }
+    ],
+    "random_key": "62e0fa50-0feb-40f2-a17b-2da797892009",
+    "image_url": "https://image.torob.com/base/images/BI/Py/BIPycmtV8MB9zpvv.jpg"
+  },
+  {
+    "title": "ست لباس پسرانه لبخند",
+    "group": "پسرانه",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "لبخند"
+        ]
+      }
+    ],
+    "random_key": "c4854727-cef1-4ac4-bfe2-986cad590234",
+    "image_url": "https://image.torob.com/base/images/38/VR/38VRuyf0nyDnUQ0l.jpg"
+  },
+  {
+    "title": "بلوز شلوار ست پسرانه لباس بچگانه لباس ست بچگانه سایز 45 50 جنس اسپان لاکرا مدل ناسا",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار بچگانه",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 45",
+          "سایز 50"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "اسپان لاکرا"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "ناسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار ست پسرانه"
+        ]
+      }
+    ],
+    "random_key": "1df3e799-8aa8-45a2-aa64-2e2884a7ee53",
+    "image_url": "https://image.torob.com/base/images/OC/yu/OCyu1kHBmRBUSnd_.jpg"
+  },
+  {
+    "title": "تیشرت شلوار پسرانه، لباس بچگانه، سایز 50تا 65، رنگ سبز",
+    "group": "پسرانه",
+    "product": "تیشرت شلوار بچگانه",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "50تا 65"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوار"
+        ]
+      }
+    ],
+    "random_key": "be954a32-fb3f-49a6-8661-524c5e4f05a9",
+    "image_url": "https://image.torob.com/base/images/yK/oz/yKoztIN7mNWh4OCu.jpg"
+  },
+  {
+    "title": "ست پسرانه کرمی",
+    "group": "پسرانه",
+    "product": "ست",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرمی"
+        ]
+      }
+    ],
+    "random_key": "a7eb719d-bfc4-4ce5-9d77-97f32a86ff7d",
+    "image_url": "https://image.torob.com/base/images/ls/5k/ls5kOdaOqVuxs9TM.webp"
+  },
+  {
+    "title": "تیشرت شلوارک مجلسی پسرانه وارداتی درجه یک مدل کروکودیل",
+    "group": "پسرانه",
+    "product": "تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "درجه یک"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "کروکودیل"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "072ac149-47f5-44eb-bb3b-aa4a15f0cf18",
+    "image_url": "https://image.torob.com/base/images/Jl/qZ/JlqZBjC4aRawEVEG.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه",
+    "group": "پسرانه",
+    "product": "بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "37190a20-5146-4d70-93ce-30c235b15049",
+    "image_url": "https://image.torob.com/base/images/Nd/ME/NdMEgNAhSdZte5KH.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل دایناسور کد 7 رنگ سبز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "دایناسور"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دایناسور"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "7"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "ab19fd26-5767-4b7d-9227-c21e36b9bd1b",
+    "image_url": "https://image.torob.com/base/images/A8/Ef/A8Ef9_cAePIs89b1.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل خرس کریسمس کد 9 رنگ یشمی",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "خرس کریسمس"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "9"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "یشمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      }
+    ],
+    "random_key": "0f3f34da-c471-4af4-8114-237186225e9a",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "ست بالا و پایین پسرانه السی وایکیکی LC Waikiki اورجینال S3BQ00Z4",
+    "group": "پسرانه",
+    "product": "ست بالا و پایین",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "S3BQ00Z4"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست بالا و پایین"
+        ]
+      }
+    ],
+    "random_key": "85b7e7f1-21c1-47b0-bf22-7dcc31e8af6a",
+    "image_url": "https://image.torob.com/base/images/xu/Se/xuSe3-A27PJQF9Y-.jpg"
+  },
+  {
+    "title": "ست دو تکه پسرانه اورجینال بلوز با شلوارلی",
+    "group": "پسرانه",
+    "product": "ست دوتکه",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز با شلوارلی"
+        ]
+      }
+    ],
+    "random_key": "a166edc6-3917-42f3-bfe8-216ce3baf7a4",
+    "image_url": "https://image.torob.com/base/images/EE/5r/EE5r9nFQwnxe79ji.jpg"
+  },
+  {
+    "title": "ست دو تیکه پسرانه ( L.A ) 445",
+    "group": "پسرانه",
+    "product": "ست دوتیکه",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "دو تیکه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "L.A"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "445"
+        ]
+      }
+    ],
+    "random_key": "a822843e-601a-41c4-bc6f-02268309eddf",
+    "image_url": "https://image.torob.com/base/images/qY/bi/qYbiKuYF45R2CsOO.webp"
+  },
+  {
+    "title": "ست تیشرت و شلوارک پسرانه مدل مبارز A95",
+    "group": "پسرانه",
+    "product": "ست تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "مبارز"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "A95"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "47f1f061-6c65-4160-bb74-78c85b0dd159",
+    "image_url": "https://image.torob.com/base/images/XK/3z/XK3z-iin4-bNrbUm.jpg"
+  },
+  {
+    "title": "بلوز و شلوار با طرح خاص تدی سایز 45 تا 60",
+    "group": "پسرانه",
+    "product": "بلوز و شلوار",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تدی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "45 تا 60"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      }
+    ],
+    "random_key": "87d37383-b82c-482a-a38d-a58dd986a201",
+    "image_url": "https://image.torob.com/base/images/wq/Uz/wqUz4J6obVtDPfYv.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل A33 PANDA O",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "مدل",
+        "values": [
+          "A33 PANDA O"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "26f29b79-247f-45bb-9180-bc43b68d06f6",
+    "image_url": "https://image.torob.com/base/images/yO/SM/yOSMlItT6PAAm055.jpg"
+  },
+  {
+    "title": "ست پیژامه و لباس خواب پسرانه السی وایکیکی LC Waikiki اورجینال S49945Z1",
+    "group": "پسرانه",
+    "product": "ست پیژامه و لباس خواب",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "السی وایکیکی",
+          "LC Waikiki"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "S49945Z1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیژامه و لباس خواب"
+        ]
+      }
+    ],
+    "random_key": "06c34b89-6ef2-4ed5-b05b-80e80e9997af",
+    "image_url": "https://image.torob.com/base/images/NP/p2/NPp2UU3ua6GKeKZf.jpg"
+  },
+  {
+    "title": "تیشرت و شلوارک پسرانه جنس نخ پنبه سایز 35 و 40",
+    "group": "پسرانه",
+    "product": "تیشرت و شلوارک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ پنبه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "35",
+          "40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "0da61bf5-3532-458b-b060-8b5995f5c9cd",
+    "image_url": "https://image.torob.com/base/images/Eo/pv/EopvZfJR_l4RrLmo.jpg"
+  },
+  {
+    "title": "ست 3 تکه لباس پسرانه مدل ماشین کد ۸ رنگ آبی",
+    "group": "پسرانه",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "3 تکه"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "ماشین"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "۸"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "5d06186b-309b-4873-81bf-198ac16941ae",
+    "image_url": "https://image.torob.com/base/images/fN/KC/fNKCUDwoPP3pWBOL.jpg"
+  },
+  {
+    "title": "بلوز شلوار پسرانه نوجوان",
+    "group": "پسرانه نوجوان",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "ac03dea1-2538-422a-abec-97639db89670",
+    "image_url": "https://image.torob.com/base/images/1e/18/1e18taB7Ly6bs7KD.jpg"
+  },
+  {
+    "title": "بلوز شلوار تن زین",
+    "group": "نامشخص",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تن زین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "63dfcf08-ba99-47f5-b761-d1872b2bdef7",
+    "image_url": "https://image.torob.com/base/images/7i/ka/7ikaagJsOU10Tekq.jpg"
+  },
+  {
+    "title": "سه تیکه کتان مجلسی پسرانه",
+    "group": "پسرانه",
+    "product": "ست لباس",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "تعداد تکه لباس",
+        "values": [
+          "سه تیکه"
+        ]
+      }
+    ],
+    "random_key": "95a5b769-e727-41ce-be36-934f86f39d73",
+    "image_url": "https://image.torob.com/base/images/9B/RI/9BRIgKP1zgxRoqXD.jpg"
+  },
+  {
+    "title": "ست تی‌شرت و شلوار پسرانه مدل دایناسور کد ۴ رنگ سرمه ای",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوار",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "دایناسور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوار"
+        ]
+      }
+    ],
+    "random_key": "9cbac6bf-25e2-40b4-b072-724e142c1815",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  },
+  {
+    "title": "پسرانه بلوز شلوار دایناسور - سایز ۵۰:قدبلوز:۵۰ /پهنا: ۳۴/قدشلوار:۶۸",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "دایناسور"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "۵۰"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "d25d06ad-2365-4e1f-b387-50028b6350c3",
+    "image_url": "https://image.torob.com/base/images/5L/Sq/5LSqWavaHz27mRp5.jpg"
+  },
+  {
+    "title": "سیوشرت و شلوار پسرانه طرح ورزشی",
+    "group": "پسرانه",
+    "product": "ست سیوشرت و شلوار",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سیوشرت و شلوار"
+        ]
+      }
+    ],
+    "random_key": "97e0b412-86d5-44d7-8090-70def6f6ae86",
+    "image_url": "https://image.torob.com/base/images/HK/OQ/HKOQM39YfFCw6i53.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک استیکر لبخند پسرانه",
+    "group": "پسرانه",
+    "product": "ست تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "استیکر لبخند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "346e2b1a-b50b-44d2-84c1-dc47adb471d9",
+    "image_url": "https://image.torob.com/base/images/Mq/1L/Mq1Loypiqj4EGKew.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه sinsay کد 301",
+    "group": "پسرانه",
+    "product": "ست تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "sinsay"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "70a4c913-9633-4c5d-b518-3ceefc2a9e05",
+    "image_url": "https://image.torob.com/base/images/2y/7q/2y7qe4EIJ3Ue__Om.jpg"
+  },
+  {
+    "title": "تیشرت شلوارک پسرانه سایز 55تا65",
+    "group": "پسرانه",
+    "product": "ست تیشرت شلوارک",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "55تا65"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت شلوارک"
+        ]
+      }
+    ],
+    "random_key": "ee29c2fd-b2b3-45d9-9774-827ae1eda4a7",
+    "image_url": "https://image.torob.com/base/images/Vv/9X/Vv9XvVlLeerNqQ4e.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار اسپرت سایز40تا55 جنس مخمل",
+    "group": "نامشخص",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40تا55"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "25202ad2-7cbf-4896-b03d-daa240d1a3f0",
+    "image_url": "https://image.torob.com/base/images/QG/YM/QGYM_lao4bRcplf9.jpg"
+  },
+  {
+    "title": "ست بلوز دورس دو یقه و شلوار جین سایز 40 تا 55",
+    "group": "نامشخص",
+    "product": "ست بلوز و شلوار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "دورس",
+          "جین"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40 تا 55"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "دو یقه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز و شلوار"
+        ]
+      }
+    ],
+    "random_key": "52e7c1a7-f0d4-4c44-99e4-6f7d35495be4",
+    "image_url": "https://image.torob.com/base/images/2R/Ja/2RJaIAzXZ_FYMetl.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل تمساح کد 1",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "تمساح"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "0b2e3198-c7ef-4d5f-9fde-f40bbc4c76f1",
+    "image_url": "https://image.torob.com/base/images/4C/kr/4CkrAwkA-O-uxcET.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل مرد عنکبوتی کد 14 رنگ سفید",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "مرد عنکبوتی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "f9a4db16-3494-4d7a-be4e-305f4fda3ebb",
+    "image_url": "https://image.torob.com/base/images/X8/2T/X82T3csmLVjsZ1lS.jpg"
+  },
+  {
+    "title": "ست بلوز شلوار پسرانه طرح barcelona بانی نو",
+    "group": "پسرانه",
+    "product": "ست بلوز شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بانی نو"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "barcelona"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز شلوار"
+        ]
+      }
+    ],
+    "random_key": "679c33d1-baa5-4474-94f7-aa7f40b71322",
+    "image_url": "https://image.torob.com/base/images/1r/7x/1r7xHuISIpoWaU2d.jpg"
+  },
+  {
+    "title": "ست لباس ورزشی پسرانه زیپ کیدز کد 1032237 - 20074 | Zepkids",
+    "group": "پسرانه",
+    "product": "ست لباس ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "زیپ کیدز",
+          "Zepkids"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس ورزشی"
+        ]
+      }
+    ],
+    "random_key": "bf6a2ef1-ebcd-495a-b2d0-a9f93d486a10",
+    "image_url": "https://image.torob.com/base/images/ci/iq/ciiqLaRVUesrQTLk.jpg"
+  },
+  {
+    "title": "ست تی شرت و شلوارک پسرانه مدل موز رنگ قرمز",
+    "group": "پسرانه",
+    "product": "ست تی شرت و شلوارک",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "موز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت و شلوارک"
+        ]
+      }
+    ],
+    "random_key": "61564f64-197f-46a7-8751-dd37d6336966",
+    "image_url": "https://image.torob.com/base/images/HB/t4/HBt4v2qhEaP_Hhx2.jpg"
+  }
+]

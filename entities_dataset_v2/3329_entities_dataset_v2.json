@@ -1,0 +1,8771 @@
+[
+  {
+    "title": "پیراهن دوچرخه سواری دیکالتون",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دیکالتون"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "79e3b8fa-4e1a-4e70-86e2-3424a4ce5d13",
+    "image_url": "https://image.torob.com/base/images/ql/eK/qleK3pFbEbtRpqUg.jpg"
+  },
+  {
+    "title": "شلوارک دوچرخه سواری iXS مدل VIGUR DH - سایز S",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "iXS"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "VIGUR DH"
+        ]
+      }
+    ],
+    "random_key": "8b126237-3619-444e-9c82-4a10e7912c6c",
+    "image_url": "https://image.torob.com/base/images/LZ/Pf/LZPfph2-YApm8q4z.jpg"
+  },
+  {
+    "title": "بلوز مردانه دوچرخه سواری Himalaya کد 0258",
+    "group": "مردانه",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بلوز دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Himalaya"
+        ]
+      }
+    ],
+    "random_key": "bc1fc4fa-e2aa-4f62-968d-aacdfb8d19f2",
+    "image_url": "https://image.torob.com/base/images/Ww/aE/WwaEJwjUHyaoP1yD.jpeg"
+  },
+  {
+    "title": "کاپشن موتورسوار سبز مردانه کت موتور سیکلت CITY CORDURA مشکی NEON Venom",
+    "group": "مردانه",
+    "product": "کاپشن موتورسوار",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کاپشن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "CITY CORDURA",
+          "NEON Venom"
+        ]
+      }
+    ],
+    "random_key": "2be3ea17-1fa9-41a9-bfe3-228ee39de371",
+    "image_url": "https://image.torob.com/base/images/Fj/u1/Fju1rW5ryYMHz9ri.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه یقه دوچرخه تناسب پیراهن طرح دار لاگوست Lacoste",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لاگوست",
+          "Lacoste"
+        ]
+      }
+    ],
+    "random_key": "51fced8f-cd99-471c-a209-09e417ecca83",
+    "image_url": "https://image.torob.com/base/images/H7/xf/H7xfW6b0YWPbLfex.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری زمستانه",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "9b443795-82f7-4dfb-90d6-5381f3221c1f",
+    "image_url": "https://image.torob.com/base/images/2D/cX/2DcX67CIqNNOXBXY.jpg"
+  },
+  {
+    "title": "پلیور قرمز مردانه لباس دوچرخه سواری آستین بلند و مناسب بافتنی لاگوست Lacoste",
+    "group": "مردانه",
+    "product": "پلیور دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لاگوست",
+          "Lacoste"
+        ]
+      }
+    ],
+    "random_key": "c5975d20-b933-4669-be0f-60a05bea66ea",
+    "image_url": "https://image.torob.com/base/images/Nk/NO/NkNOZ5D1TwE9SaKI.jpg"
+  },
+  {
+    "title": "پلیور زرد مردانه یقه دوچرخه سواری Slim Fit Groury Saffron Colin’s",
+    "group": "مردانه",
+    "product": "پلیور دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Colin’s"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Slim Fit Groury Saffron"
+        ]
+      }
+    ],
+    "random_key": "bd12af1d-ebd9-40a1-b4b7-913b9f6082cc",
+    "image_url": "https://image.torob.com/base/images/BU/rX/BUrXEwJkI684I5G1.jpg"
+  },
+  {
+    "title": "تونیک دوچرخه سواری زنانه لیو مدل Feliza SS",
+    "group": "زنانه",
+    "product": "تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Feliza SS"
+        ]
+      }
+    ],
+    "random_key": "d8da3c7a-10af-4dbd-9210-ee8d8873a64e",
+    "image_url": "https://image.torob.com/base/images/NS/vz/NSvz_ZmFCq_p6kur.jpg"
+  },
+  {
+    "title": "بارانی دوچرخه‌سواری جاینت مدل Giant SuperLight rain jacket",
+    "group": "نامشخص",
+    "product": "بارانی دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بارانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "Giant"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "SuperLight rain jacket"
+        ]
+      }
+    ],
+    "random_key": "4a85572d-aa56-4908-bbc9-a807d39a72d0",
+    "image_url": "https://image.torob.com/base/images/E4/uB/E4uBYdJd6R2qRCFk.jpg"
+  },
+  {
+    "title": "ست لباس دوچرخه سواری آستین کوتاه ZWIFT SRAM",
+    "group": "نامشخص",
+    "product": "ست لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ZWIFT SRAM"
+        ]
+      }
+    ],
+    "random_key": "a31f5445-1b3c-4e0c-8f66-fd620497d267",
+    "image_url": "https://image.torob.com/base/images/Yp/pM/YppMXimC5NYIrBra.jpg"
+  },
+  {
+    "title": "تی شرت یقه دوچرخه قرمز بزرگ شده 50266514 VR030 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل",
+          "Cacharel"
+        ]
+      }
+    ],
+    "random_key": "0737b121-eccd-4510-8867-6688298d240c",
+    "image_url": "https://image.torob.com/base/images/w5/gE/w5gEPLLrop_mq5lU.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری جاینت مدل Giant Streak S/S Jersey رنگ مشکی",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "Giant"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Streak S/S Jersey"
+        ]
+      }
+    ],
+    "random_key": "63413554-e47b-4b3a-949a-a5f9e24bde29",
+    "image_url": "https://image.torob.com/base/images/Ys/G3/YsG300bPy69EjxMN.jpg"
+  },
+  {
+    "title": "لباس زمستانی دوچرخه سواری باشگاهی UCI TEAM",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "باشگاهی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "UCI TEAM"
+        ]
+      }
+    ],
+    "random_key": "3d0f05bd-995e-4656-954f-a0bee609d60b",
+    "image_url": "https://image.torob.com/base/images/dk/z5/dkz5mnYkmNNwhN1M.jpg"
+  },
+  {
+    "title": "کاپشن موتورسوار قرمز مردانه و زنانه روکش دوچرخه سواری سیاه RIVA LS2",
+    "group": "مردانه و زنانه",
+    "product": "کاپشن موتورسوار",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کاپشن موتورسوار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LS2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "روکش دوچرخه سواری",
+          "RIVA"
+        ]
+      }
+    ],
+    "random_key": "525c8fb4-69e4-40dc-b031-b94436699a51",
+    "image_url": "https://image.torob.com/base/images/53/y3/53y3aWi6PP6jfb3z.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری زمستانه",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a8b5f7c3-2742-4f36-8655-e30321efd78d",
+    "image_url": "https://image.torob.com/base/images/2D/cX/2DcX67CIqNNOXBXY.jpg"
+  },
+  {
+    "title": "پلیور آبی مردانه دوچرخه خط افقی Yaka Kazakh Valiberta",
+    "group": "مردانه",
+    "product": "پلیور دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه Yaka Kazakh"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "50d7684b-188a-42ad-87f1-91853d1237f6",
+    "image_url": "https://image.torob.com/base/images/fk/db/fkdbaQUaFyyICaS9.jpg"
+  },
+  {
+    "title": "دوبنده پددار دوچرخه سواری Racer 2 - سیاه",
+    "group": "نامشخص",
+    "product": "دوبنده دوچرخه سواری",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پددار"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "دوبنده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دوبنده دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "4b7aa8a3-a2fa-4752-93f6-3159acb161ee",
+    "image_url": "https://image.torob.com/base/images/rk/Hj/rkHjvryy_D4naqnf.jpg"
+  },
+  {
+    "title": "لباس کشتی نیور مدل Titan",
+    "group": "نامشخص",
+    "product": "لباس کشتی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس کشتی"
+        ]
+      }
+    ],
+    "random_key": "66792646-3e59-415e-9ccc-7dae65bfda6a",
+    "image_url": "https://image.torob.com/base/images/nS/yG/nSyGjkuntrVZJ0sp.webp"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری اورجینال",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "وضعیت",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "5aa388bd-e209-4584-b9b5-c87bcbc26c71",
+    "image_url": "https://image.torob.com/base/images/rp/d4/rpd4FUkeMcSkd82n.jpg"
+  },
+  {
+    "title": "شلوار دوچرخه سواری کریویت crivit",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت",
+          "crivit"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "9037c6b3-66c1-4fce-aed5-b93c76119220",
+    "image_url": "https://image.torob.com/base/images/XI/ZU/XIZU1qNCR8doa8IE.jpg"
+  },
+  {
+    "title": "پولوشرت سفید دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "پولوشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پولوشرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولوشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "cf6c8e2b-8363-42a3-89e3-1ebbe9ab3a4b",
+    "image_url": "https://image.torob.com/base/images/Pm/BO/PmBOb95q1vwc6h3w.jpg"
+  },
+  {
+    "title": "Kiğılı یقه دوچرخه سواری باریک و باریک کتان کتان دوخته شده",
+    "group": "نامشخص",
+    "product": "یقه دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Kiğılı"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "یقه دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "549167f8-122e-4651-ab02-f105682e00ba",
+    "image_url": "https://image.torob.com/base/images/w4/wU/w4wU75n2Skeg334F.jpg"
+  },
+  {
+    "title": "تی شرت یقه دوچرخه باریک سفید 50265875 VR013 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه باریک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل",
+          "Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت"
+        ]
+      }
+    ],
+    "random_key": "748d8ed9-7ba8-492c-83bc-2df882d68b40",
+    "image_url": "https://image.torob.com/base/images/RR/VH/RRVHKijWzdvcCKM7.jpg"
+  },
+  {
+    "title": "شلوار دوچرخه سواری طرح جاینت GIANT2",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "GIANT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "932b1d00-c764-44a1-8805-e8d104ebe45a",
+    "image_url": "https://image.torob.com/base/images/v3/nB/v3nB_6OabjdP27p4.webp"
+  },
+  {
+    "title": "‎تیشرت دوچرخه سواری زنانه برند کریویت کد ۳۰۷۹۵۹۲",
+    "group": "زنانه",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "c0660eeb-86a4-4dc5-a9b9-e1044c42eba3",
+    "image_url": "https://image.torob.com/base/images/VC/nt/VCntk4uMx395dCkI.jpg"
+  },
+  {
+    "title": "پولوشرت سفید دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "پولوشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پولوشرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولوشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "eb05e68d-0186-4990-a153-acd63626b669",
+    "image_url": "https://image.torob.com/base/images/yi/1Z/yi1ZfPglPtHdCo3j.jpg"
+  },
+  {
+    "title": "تی شرت سیاه مردانه به طور منظم مناسب گردن دوچرخه برش طبیعی 100 ٪ مردان پنبه Lee",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lee"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت"
+        ]
+      }
+    ],
+    "random_key": "c90e3944-40f1-4ae5-aa21-7cbd5083f9b2",
+    "image_url": "https://image.torob.com/base/images/Lb/hZ/LbhZdvD9pP1S8dYc.jpg"
+  },
+  {
+    "title": "بادگیر دوچرخه سواری زنانه مدل LIV SIGNATURE RAIN",
+    "group": "زنانه",
+    "product": "بادگیر دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بادگیر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LIV"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "0c9cbb16-dc09-43da-82c7-d0522233f010",
+    "image_url": "https://image.torob.com/base/images/om/95/om95AuCErsuQMyjS.jpg"
+  },
+  {
+    "title": "شورت پد دار دوچرخه سواری پرولاین اسپید مشکی-قرمز",
+    "group": "نامشخص",
+    "product": "شورت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شورت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی-قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پرولاین اسپید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "cd1afbf9-83e7-40ee-97b3-2d43234c6023",
+    "image_url": "https://image.torob.com/base/images/t-/8J/t-8JmtFrVdm1Zi0P.jpg"
+  },
+  {
+    "title": "شلوارک دوچرخه سواری جاینت مدل کلوچ Giant Clutch",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "Giant"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوارک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "59aaf40d-1bb2-4cb8-855b-cc664ee162e4",
+    "image_url": "https://image.torob.com/base/images/-c/bO/-cbOxFOl04lN2mKG.jpg"
+  },
+  {
+    "title": "شلوار دوچرخه سواری زمستانی دکتلون Triban RC100",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون",
+          "Triban"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "b50afe69-7e46-4c58-bae8-04b3d8d56641",
+    "image_url": "https://image.torob.com/base/images/rE/3n/rE3n8jDkB8MCXiuT.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه یقه دوچرخه سواری طرح دار سیاه CN LOMO BACKO Guess",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Guess"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "3813f71f-ae0d-414b-98a4-16b67b0f1655",
+    "image_url": "https://image.torob.com/base/images/nN/eT/nNeTHWLBOlpLBdm0.jpg"
+  },
+  {
+    "title": "ست پیراهن و شلوار دوچرخه سواری لیکرا طرح کی تی ام KTM",
+    "group": "نامشخص",
+    "product": "ست دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست پیراهن و شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لیکرا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "KTM"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کی تی ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e9705a5c-8acc-489c-814f-803dd3fe6515",
+    "image_url": "https://image.torob.com/base/images/Kk/r-/Kkr-3ZMtbBcyYD6W.jpg"
+  },
+  {
+    "title": "تی شرت زنانه دوچرخه سواری فاکس ریسینگ مدل Fox Defend Taunt Trikot kurzarm Damen",
+    "group": "زنانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فاکس ریسینگ"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "ee305c34-ad5a-4967-ad93-9703574308fb",
+    "image_url": "https://image.torob.com/base/images/6I/Oe/6IOeYXMWc3EWH1Yw.jpg"
+  },
+  {
+    "title": "دامن دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "دامن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "دامن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دامن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "468ffda0-5040-449e-ac72-7dcd91533b91",
+    "image_url": "https://image.torob.com/base/images/H7/gK/H7gKTRiQd4CaUKw_.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه پنبه مناسب دوچرخه Yaka Tring پیراهن 002 باس BOSS",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری",
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "باس BOSS"
+        ]
+      }
+    ],
+    "random_key": "ddaa62d9-415f-422f-a1ed-939bb80538e7",
+    "image_url": "https://image.torob.com/base/images/sI/H_/sIH_2OvkqPX9hlHs.jpg"
+  },
+  {
+    "title": "َشلوارک دوچرخه سواری iXS Sever BC Short",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "iXS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "َشلوارک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "7de99c61-1f9d-4679-a0d5-eec2225721ee",
+    "image_url": "https://image.torob.com/base/images/83/JA/83JAWeIDrLeaEr__.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری آستین بلند زنانه Mysenlan دوچرخه سواری جوراب شلواری جاده دوچرخه سواری لباس زنانه",
+    "group": "زنانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن",
+          "جوراب شلواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Mysenlan"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جوراب شلواری دوچرخه سواری",
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "ae05a917-6b3c-4634-8a4d-0c1aa137fa2b",
+    "image_url": "https://image.torob.com/base/images/1i/wq/1iwqQ1pZL9XQsSM0.jpg"
+  },
+  {
+    "title": "بلوز دوچرخه سواری زنانه برند ریسا کد 3250",
+    "group": "زنانه",
+    "product": "بلوز دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بلوز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "3a06502f-bc99-4dc2-bec8-ed47e867af4d",
+    "image_url": "https://image.torob.com/base/images/aU/z3/aUz36UKfjG3b-Ws4.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری فشن لاین BIKE 7",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BIKE 7"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "3e149198-2b5b-47fc-9753-1c1ee741fde3",
+    "image_url": "https://image.torob.com/base/images/DA/6O/DA6O1PMzhWd0EEMG.webp"
+  },
+  {
+    "title": "تی شرت آستین کوتاه دوچرخه سواری مردانه کریویت CRIVIT",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت CRIVIT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "72f7c973-9eb9-46e3-9b0a-942f2834c427",
+    "image_url": "https://image.torob.com/base/images/hD/Oo/hDOo7HoGqcfqFpQc.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری BORDEAOX YAKA SLIM FIT 50240270 VR014 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "3e7a6672-9792-4e28-8517-81fc8b7f79aa",
+    "image_url": "https://image.torob.com/base/images/ZQ/R1/ZQR1N0Enq4G7Qq2r.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری آستین بلند CRIVIT",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CRIVIT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "ebdf5934-b0b7-4d5f-b9b1-90a542f6b91d",
+    "image_url": "https://image.torob.com/base/images/Rj/rM/RjrMfgXWn0rj4eQ8.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری کی‌تی‌ام مدل Elegance",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کی تی ام"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "c1c73636-9ce0-454c-ac54-7acefc1e4740",
+    "image_url": "https://image.torob.com/base/images/K_/14/K_14K2NYM6or0ow1.webp"
+  },
+  {
+    "title": "شلوارک دوچرخه جاینت مدل TOUR KNICKER",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوارک دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "bc70192f-d2e5-4ed1-a546-543076021d21",
+    "image_url": "https://image.torob.com/base/images/I4/7R/I47R7hnxkMHoPo5F.jpg"
+  },
+  {
+    "title": "تونیک دوچرخه سواری اسکات",
+    "group": "نامشخص",
+    "product": "تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "91da42a6-d35b-4bf7-8e4d-ac08998dc143",
+    "image_url": "https://image.torob.com/base/images/GU/xs/GUxsvyJq0RDFuuxS.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری Speed طوسی",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "2bf4bab7-c7a3-47fd-8bb6-7416e4b0e234",
+    "image_url": "https://image.torob.com/base/images/O4/5g/O45g9-Dl23X-J5lB.jpeg"
+  },
+  {
+    "title": "لباس ست شرت و پیراهن دوچرخه سواری باشگاهی",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست شرت و پیراهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس باشگاهی"
+        ]
+      }
+    ],
+    "random_key": "f293d582-1a41-4c1a-a804-c63b4b224a42",
+    "image_url": "https://image.torob.com/base/images/go/JF/goJFOA0fll4Z8Z_Q.webp"
+  },
+  {
+    "title": "کاپشن دوچرخه سواری speed مدل Castelli طوسی",
+    "group": "نامشخص",
+    "product": "کاپشن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کاپشن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Castelli",
+          "Speed"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "5f5ede97-32f2-4eda-99a3-b0e598af58a5",
+    "image_url": "https://image.torob.com/base/images/Li/nc/LincfhlmYxsYwpj2.jpg"
+  },
+  {
+    "title": "تی شرت گردن دوچرخه باریک و سفید 100 ٪ پایه 50310013 VR013 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "گردن",
+          "پایه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Cacharel"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "باریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "29c64c81-6094-4335-9cb9-a218a545a90c",
+    "image_url": "https://image.torob.com/base/images/hA/_P/hA_PGHllh78ny1L9.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "d5bc173d-8248-4be7-8136-ca567721961f",
+    "image_url": "https://image.torob.com/base/images/xp/ZK/xpZK5o_H6FtbMPro.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری آبی جاینت مدل PURSUE SS",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "db9533d6-e13f-4a0d-be05-16b13df9060f",
+    "image_url": "https://image.torob.com/base/images/BA/XV/BAXVkJMgRSjJVOMN.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری اسکات مدل Rhombus آبی",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "442b3de8-8d8c-4200-b5a8-6629429efeb6",
+    "image_url": "https://image.torob.com/base/images/yq/tl/yqtlcPxGnZdCdwTF.webp"
+  },
+  {
+    "title": "لباس دوچرخه سواری اسپشیالایزد Comp Racing - سایز S",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسپشیالایزد"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a7484758-052a-4b28-945e-7c254bc13592",
+    "image_url": "https://image.torob.com/base/images/j-/Ff/j-FfBLeQiFUl3sj0.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری اسکات مدل Champion آستین بلند",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "1effa7fb-9e79-40dd-9c70-d60dccd5da6c",
+    "image_url": "https://image.torob.com/base/images/31/ul/31uluqAal5t996X3.webp"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری اسپید طرح دار نارنجی",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "28e05752-b6d7-481b-b253-dd7b81904b77",
+    "image_url": "https://image.torob.com/base/images/OS/l7/OSl7w3mwXTEWTOtw.jpeg"
+  },
+  {
+    "title": "لباس دوچرخه سواری لمپر مدل Merida",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لمپر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "9f15ceec-4afd-493f-89fa-cdf3cddcbbac",
+    "image_url": "https://image.torob.com/base/images/Uj/Nw/UjNwn9RqqTZ_38FM.webp"
+  },
+  {
+    "title": "تی شرت آبی مردانه دوچرخه سواری باریک لاگوست Lacoste",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لاگوست Lacoste"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "باریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "2b51088e-fdb8-4ac9-a9a0-99c52020b435",
+    "image_url": "https://image.torob.com/base/images/Br/_7/Br_7yocT8i0Z3otP.jpg"
+  },
+  {
+    "title": "تی شرت سبز مردانه یقه دوچرخه مناسب به طور منظم آستین کوتاه T shirt Colin’s",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت"
+        ]
+      }
+    ],
+    "random_key": "15ae5d95-2493-40e1-930d-56e8947fb7f2",
+    "image_url": "https://image.torob.com/base/images/7s/Yg/7sYgF80dwOsoATu3.jpg"
+  },
+  {
+    "title": "عِرق گیر زیرپوش تی شرت یقه دوچرخه اورجینال کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "عِرق گیر",
+          "زیرپوش",
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "زیرپوش تی شرت یقه دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "97b508ce-b222-488f-a026-e8f437ef4c39",
+    "image_url": "https://image.torob.com/base/images/AP/ZN/APZNVyom0u6lQoTX.jpg"
+  },
+  {
+    "title": "شلوار بلند دوبنده پد دار دوچرخه سواری اسپید مشکی",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار بلند",
+          "دوبنده"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "d919cd2d-f165-4a4e-b8b8-807cd41a9717",
+    "image_url": "https://image.torob.com/base/images/QH/Lw/QHLwbVKYfvQwHDEb.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری Speed زرد فسفری",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Speed"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد فسفری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e21c012f-ac1c-41e1-9f0d-42cfe878c6d5",
+    "image_url": "https://image.torob.com/base/images/Ib/s-/Ibs-Z10OyO_bmD9x.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری زنانه رنگ قهوه ای نارنجی سایز مدیوم",
+    "group": "زنانه",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای نارنجی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مدیوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "cc4c71bb-24c8-43eb-8be3-393f2ba2e25a",
+    "image_url": "https://image.torob.com/base/images/xp/CS/xpCST2kT7xkPYf_n.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری بورا مدل 2023",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "635621b6-1070-4a2d-8ffd-da8d53787a58",
+    "image_url": "https://image.torob.com/base/images/v7/a_/v7a_0857zTQDHkuK.webp"
+  },
+  {
+    "title": "تی‌ شرت دوچرخه‌ سواری اف‌ایکس‌آر مدل atom زرد",
+    "group": "نامشخص",
+    "product": "تی  شرت دوچرخه  سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی  شرت دوچرخه  سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اف ایکس آر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی  شرت دوچرخه  سواری"
+        ]
+      }
+    ],
+    "random_key": "bb98f902-fcc6-4dc1-bda5-5912515c9571",
+    "image_url": "https://image.torob.com/base/images/Xz/ZZ/XzZZhLQ199mV-VMR.webp"
+  },
+  {
+    "title": "شلوار دوچرخه سواری زنانه مدل فاکس FOX",
+    "group": "زنانه",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فاکس",
+          "FOX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "43de6b8a-44ba-46f1-86b6-28cc47dfa616",
+    "image_url": "https://image.torob.com/base/images/mj/LX/mjLXvsUo0wDOYSJi.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری فشن لاین BIKE 2",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a414be40-9eba-4312-b0c0-8ae469d86eab",
+    "image_url": "https://image.torob.com/base/images/vy/k6/vyk6jNJQgr-nIWQT.webp"
+  },
+  {
+    "title": "کاپشن موتورسوار زنانه مجموعه SPRINT H20 WINTER Revit",
+    "group": "زنانه",
+    "product": "کاپشن موتور سواری",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Revit"
+        ]
+      }
+    ],
+    "random_key": "de64de88-387b-4c22-95ef-bdfa79eb805c",
+    "image_url": "https://image.torob.com/base/images/1R/Bq/1RBqXRzNRk7J9Bum.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری مشکی مردانه و زنانه سیاه بازوی کوتاه Rc اسکات SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات",
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "8f3fb815-406b-438e-ba45-c6201354fddb",
+    "image_url": "https://image.torob.com/base/images/h9/W0/h9W00Ofy9TTWf9sy.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری بانوان",
+    "group": "بانوان",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بانوان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "7908e17d-90d8-4d6b-ba9d-0e8c4a5b109f",
+    "image_url": "https://image.torob.com/base/images/nI/67/nI671nOTP5jo7kxn.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری جاینت مدل Elevate",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "98626db2-0405-4c28-8f4e-0faf13a8e023",
+    "image_url": "https://image.torob.com/base/images/--/pH/--pHbhZApqBeKGof.webp"
+  },
+  {
+    "title": "تی شرت پیراهن پایه یقه دوچرخه SLIM FIT BICYCLE BASIC SHIRT 50310023 VR013 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل",
+          "Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن پایه"
+        ]
+      }
+    ],
+    "random_key": "90ef44fa-1467-42e8-8da8-5793784ca3b3",
+    "image_url": "https://image.torob.com/base/images/VN/fX/VNfXd9EMiij_rgXP.jpg"
+  },
+  {
+    "title": "ست پیراهن و شلوار دوچرخه سواری GIANT آبی-مشکی",
+    "group": "نامشخص",
+    "product": "ست پیراهن و شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست پیراهن و شلوار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "GIANT"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست پیراهن و شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "1ebc0841-b4b8-47f1-a187-485848979c29",
+    "image_url": "https://image.torob.com/base/images/BV/Bx/BVBxbOVXu9gaVFhG.jpeg"
+  },
+  {
+    "title": "شورت دوبنده دوچرخه سواری رنگ مشکی",
+    "group": "نامشخص",
+    "product": "شورت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شورت دوبنده دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت دوبنده دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "648b7475-8572-483e-95c3-870c5a7c4991",
+    "image_url": "https://image.torob.com/base/images/oi/jC/oijCsoXqgdDhsFEC.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه گردن دوچرخه چاپی 100 ٪ پنبه Kip",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه گرد"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "100 ٪ پنبه",
+          "پنبه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kip"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت"
+        ]
+      }
+    ],
+    "random_key": "354aa596-58f8-450e-8d45-731f44d5a032",
+    "image_url": "https://image.torob.com/base/images/sY/uh/sYuhhiFK5ppsKx1I.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری اسکات مدل RC 20 آبی",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "d13cc1fa-0180-448b-ba4b-0bc15f00752f",
+    "image_url": "https://image.torob.com/base/images/Qz/8I/Qz8IC55CG7hMuBaT.webp"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری برند جاینت مشکی طوسی",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "93b8a260-a605-4aee-8c55-32da33263320",
+    "image_url": "https://image.torob.com/base/images/JM/z-/JMz-jD0tWrXkx63z.jpg"
+  },
+  {
+    "title": "لگ دوچرخه سواری مشکی مردانه و زنانه RC TEAM ++ لباس تنگ کوتاه با چوب لباسی سیاه سفید خاکستری M SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "لگ دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لگ دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید",
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لگ دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "34bee13a-9139-4aad-b8db-dd58a1840e02",
+    "image_url": "https://image.torob.com/base/images/8J/zG/8JzGQegk_sjANYtN.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه یقه دوچرخه خاکستری پیراهن T Wj16Zjdz تامبولینی Tombolini",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تامبولینی",
+          "Tombolini"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت"
+        ]
+      }
+    ],
+    "random_key": "b5d10f93-88de-40d0-8b5f-3232c91b7175",
+    "image_url": "https://image.torob.com/base/images/Mw/J2/MwJ2M5ZusUM3xwCP.jpg"
+  },
+  {
+    "title": "کاپشن موتور سواری چرم مصنوعی زنانه مشکی زارا",
+    "group": "زنانه",
+    "product": "کاپشن",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کاپشن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن موتور سواری"
+        ]
+      }
+    ],
+    "random_key": "4edfdb39-1fa3-4c8a-b536-fcccbbeaf0d7",
+    "image_url": "https://image.torob.com/base/images/fA/Z-/fAZ-szit8oA2RPNu.jpg"
+  },
+  {
+    "title": "شلوار بلند پد دار دوچرخه سواری اسپید مشکی-طوسی",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار بلند"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "2566458c-3079-43db-a19c-9ab72ae17ab9",
+    "image_url": "https://image.torob.com/base/images/Nz/EY/NzEYl7CMCNmaePOT.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری کوانتوم مدل Luxe",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کوانتوم"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Luxe"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e6bae69d-86e7-49a6-84d2-94b6e0d0e08d",
+    "image_url": "https://image.torob.com/base/images/PA/hH/PAhHtRSnzBzAqXwq.webp"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری مردانه CEROTIPOLAR Wind Speed ​​مردانه پیراهن دوچرخه سواری ضد UV، زیپ کامل، جیب انعکاسی",
+    "group": "مردانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CEROTIPOLAR"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Wind Speed"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد UV",
+          "زیپ کامل",
+          "جیب انعکاسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "78d195a8-4584-4098-88c0-6ec79d48864e",
+    "image_url": "https://image.torob.com/base/images/xg/Jk/xgJkvTpgIDqGkUdw.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه یقه دوچرخه آرم کوچک سبک وزن Lee",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lee"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک وزن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت یقه دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "56956e28-c3aa-44a1-ac39-37430834424b",
+    "image_url": "https://image.torob.com/base/images/wi/az/wiazW_j1KkBoWsi6.jpg"
+  },
+  {
+    "title": "تونیک دوچرخه سواری بانوان اسپید صورتی",
+    "group": "بانوان",
+    "product": "تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بانوان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "021eab76-5c5d-472e-b4c5-dd7178448d97",
+    "image_url": "https://image.torob.com/base/images/uH/dZ/uHdZ75jQ6EA9c7Ml.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری اسکات مدل Mitchelton مشکی",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Mitchelton"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "6c3562bb-4f26-45dd-9aa1-1db54279dda4",
+    "image_url": "https://image.torob.com/base/images/KR/95/KR95bJUeDN1bVCsp.webp"
+  },
+  {
+    "title": "بلوز دوچرخه سواری پلار آقایان 3607",
+    "group": "آقایان",
+    "product": "بلوز دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بلوز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "آقایان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "5d64c2e4-8513-409f-8528-bb4f7c830e85",
+    "image_url": "https://image.torob.com/base/images/SE/xw/SExwsDlN7Kn8fp4A.jpg"
+  },
+  {
+    "title": "تیشرت نیم زیپ دوچرخه سواری 3195",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "59c19f6a-3da9-4ac2-aa09-b6b63125ff23",
+    "image_url": "https://image.torob.com/base/images/uK/Tf/uKTf6C54hdsSucXC.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه یقه دوچرخه برش معمولی به طور منظم 100 ٪ پوست چهل کشتی Lee",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lee"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پوست چهل کشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت یقه دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "ce3ae402-934a-4ff9-96fe-4c62b6a61038",
+    "image_url": "https://image.torob.com/base/images/c4/vN/c4vN4KtKpO967BD_.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری تابستانه",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "c967e484-2b17-45a4-956c-74770ae79370",
+    "image_url": "https://image.torob.com/base/images/-v/Dm/-vDmKumxutGco-q8.jpg"
+  },
+  {
+    "title": "شلوارک دوچرخه سواریCRIVIT",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CRIVIT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوارک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a9d74195-07ca-4598-8529-4a0a8107fe83",
+    "image_url": "https://image.torob.com/base/images/dJ/Kt/dJKtPlv5kVRi-bCS.jpg"
+  },
+  {
+    "title": "ست پیراهن و دوبنده دوچرخه سواری طرح Castelli Milano",
+    "group": "نامشخص",
+    "product": "ست لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست پیراهن و دوبنده"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Castelli Milano"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "0e06b89b-39e6-465a-87a8-e71b5c671d3d",
+    "image_url": "https://image.torob.com/base/images/Eq/Q_/EqQ_hdGKt2oPa16Z.webp"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری جاینت مدل blanco",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "blanco"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "bee37b6c-d199-4215-8e5d-d8f035e4cb2d",
+    "image_url": "https://image.torob.com/base/images/eY/Oo/eYOorwZ-ge-2K9wW.webp"
+  },
+  {
+    "title": "یقه دوچرخه سواری با لباس پیراهن چاپی گاه به دفاکتو Defacto",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپی",
+          "گاهی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Defacto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن یقه دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a6e06291-be84-4d47-896d-3b0274cb0a78",
+    "image_url": "https://image.torob.com/base/images/8t/0R/8t0RHL4Pdn4Y1G9Z.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری زنانه لیو مدل SIGNATURE SS",
+    "group": "زنانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیو"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "SIGNATURE SS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "4143f7fd-22bf-48c3-a61b-51564839ccaa",
+    "image_url": "https://image.torob.com/base/images/9V/S7/9VS7nTUnFr6Fpo5_.jpg"
+  },
+  {
+    "title": "تی شرت سیاه مردانه یقه دوچرخه مشکی مردان پشت و آرم قفسه سینه چاپ شده به طور منظم B001040 Avva",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Avva"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپ شده"
+        ]
+      }
+    ],
+    "random_key": "7a084e29-6bd0-4683-8fe9-e0df03cca298",
+    "image_url": "https://image.torob.com/base/images/Pi/rT/PirTw59mlJiJZO1g.jpg"
+  },
+  {
+    "title": "تی شرت یقه دوچرخه باریک و با الگوی 50301469 VR046 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل",
+          "Cacharel"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "الگودار"
+        ]
+      }
+    ],
+    "random_key": "b4a34cc4-c247-4866-84ae-139853a70900",
+    "image_url": "https://image.torob.com/base/images/CK/Fr/CKFraXvbTAF7twVV.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه‌سواری آستین بلند جاینت مدل Giant Tour mid LS jerssey",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "Giant"
+        ]
+      }
+    ],
+    "random_key": "b73a0e8d-86a0-4365-9235-9a3aef1d2352",
+    "image_url": "https://image.torob.com/base/images/Q7/eV/Q7eVgRODW1JzBylF.jpg"
+  },
+  {
+    "title": "َشلوارک دوچرخه سواری iXS VIGUR DH",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "iXS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوارک دوچرخه سواری DH"
+        ]
+      }
+    ],
+    "random_key": "dbfc56fd-9861-4a03-a5c1-9fb77bec9aa0",
+    "image_url": "https://image.torob.com/base/images/VK/yP/VKyPKhhotNQvx1DB.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه یقه دوچرخه برش معمولی به طور منظم 100 ٪ پوست چهل کشتی Lee",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Lee"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "ab5e19fa-16e1-41cb-a83e-e549f634b218",
+    "image_url": "https://image.torob.com/base/images/JM/Qz/JMQzca2-65Om-87A.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه یقه دوچرخه برش راحت و 100 ٪ شکستگی Wrangler",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Wrangler"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "4bc74217-e079-45f8-bad4-7c4ac2820ac4",
+    "image_url": "https://image.torob.com/base/images/8a/IM/8aIMHI6WHgTcpLSp.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه و زنانه یونیسکس تیشت دوچرخه با تیشرت طرح دار Lacoste",
+    "group": "مردانه و زنانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Lacoste"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      }
+    ],
+    "random_key": "a7537a6c-56fd-4d08-8efa-8317186e56e6",
+    "image_url": "https://image.torob.com/base/images/-n/uv/-nuvZNjjs76c6Ewn.jpg"
+  },
+  {
+    "title": "کاپشن موتورسوار خاکستری مردانه ژاکت کپنهاگن آبی 4 فصل موتور سیکلت سیاه گری Venom",
+    "group": "مردانه",
+    "product": "کاپشن موتور سوار",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کاپشن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "4 فصل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Venom"
+        ]
+      }
+    ],
+    "random_key": "bc2978b1-53f4-47c2-b467-73c512d70444",
+    "image_url": "https://image.torob.com/base/images/rE/QO/rEQO5T1CBTi42xmy.jpg"
+  },
+  {
+    "title": "سویشرت ورزشی مشکی مردانه لباس دوچرخه سواری آستین بلند در Ua پیراهن Yaka 1387122 001 آندرامور Under Armour",
+    "group": "مردانه",
+    "product": "سویشرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آندرامور",
+          "Under Armour"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "سویشرت ورزشی",
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      }
+    ],
+    "random_key": "d2f55210-52e1-4ac9-8a88-6d6f2eda9bae",
+    "image_url": "https://image.torob.com/base/images/D6/kv/D6kvbzywWMx0Maxs.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری ماپی مدل Puzzle",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماپی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Puzzle"
+        ]
+      }
+    ],
+    "random_key": "a27d6447-8cf3-4562-8121-6581db4d4a4e",
+    "image_url": "https://image.torob.com/base/images/vL/Vg/vLVgxRD_sS417GMf.webp"
+  },
+  {
+    "title": "لباس تونیک دوچرخه سواری بانوان اسپید speed سبز",
+    "group": "زنانه",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس تونیک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بانوان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید",
+          "speed"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      }
+    ],
+    "random_key": "517db7fe-ae7c-4618-a597-33dd53091492",
+    "image_url": "https://image.torob.com/base/images/S6/4-/S64-y_zOlqEqRwBY.jpg"
+  },
+  {
+    "title": "تی شرت آستین بلند دوچرخه سواری HULG",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "HULG"
+        ]
+      }
+    ],
+    "random_key": "03018b61-1ec9-4403-bbae-20bff2c3a5d4",
+    "image_url": "https://image.torob.com/base/images/Xq/zO/XqzOP69g5dXM0q8T.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری بلند MOVISTAR TEAM - XXL / 20 D سوپر ژل متریال ایتالیایی / دوبند رنگ مشکی",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MOVISTAR TEAM"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "XXL"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوپر ژل",
+          "متریال ایتالیایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "47db8ecf-d435-4a04-b31f-0c4e5c204083",
+    "image_url": "https://image.torob.com/base/images/3d/g1/3dg1C-ho7ZTIWoAw.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e418a2cd-c078-479e-8c7d-b2c01e135c44",
+    "image_url": "https://image.torob.com/base/images/n4/MV/n4MVfGOyiZDxuTVE.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری چند رنگ مردانه آستین کوتاه خاکستری L اسپشلایز Specialized",
+    "group": "مردانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ",
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپشلایز",
+          "Specialized"
+        ]
+      }
+    ],
+    "random_key": "90c8ca30-598d-4dbc-a009-11f4c9dbe1b9",
+    "image_url": "https://image.torob.com/base/images/wd/lh/wdlhaR4MegBlLT_n.jpg"
+  },
+  {
+    "title": "تی شرت آبی مردانه سبک وزن 3 آرم رنگی دوچرخه سواری Yaka t shirt Wrangler",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Wrangler"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک وزن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Wrangler"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "9147739e-4699-4837-9c3c-766b6ba24ccb",
+    "image_url": "https://image.torob.com/base/images/ey/gG/eygGaVlMrCD3WGX-.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری جاینت قرمز مدل Giant Pursue SS Jersey",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "5f3bc628-6730-495b-8777-5c288dd10d47",
+    "image_url": "https://image.torob.com/base/images/tU/Tt/tUTthKZJ_f9u_C8R.jpg"
+  },
+  {
+    "title": "یقه دوچرخه سفید چاپ شده پیراهن مدمکس Madmext",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپ شده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مدمکس Madmext"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "0677f9b8-4fdc-4a09-b7c9-63465d797216",
+    "image_url": "https://image.torob.com/base/images/qE/DL/qEDLmnW5CHJCq2Bx.jpg"
+  },
+  {
+    "title": "تیشرت سرمه ای دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "f4a5eb73-1579-412a-8dee-85295bc5d52a",
+    "image_url": "https://image.torob.com/base/images/Ao/J9/AoJ9guPOR7E6F1fN.jpg"
+  },
+  {
+    "title": "تونیک دوچرخه سواری زنانه نایک مدل نیم زیپ کد 401349",
+    "group": "زنانه",
+    "product": "تونیک",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "c0b2ef66-84c4-4fbd-849f-d96765c1ff88",
+    "image_url": "https://image.torob.com/base/images/Xo/Ln/XoLnPxNnb_Ay5QJa.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "6e842825-b4c9-4c29-b591-caa82c1dfda8",
+    "image_url": "https://image.torob.com/base/images/Ca/Lw/CaLwOnWo2Qb-G8bU.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری فشن لاین BIKE 6",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فشن لاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "429ed831-690e-4ff6-b9e8-07a9f098cbd0",
+    "image_url": "https://image.torob.com/base/images/qz/8V/qz8Vy_5wB9uwnOP5.webp"
+  },
+  {
+    "title": "سویشرت ورزشی سبز مردانه لباس دوچرخه سواری آستین بلند Yaka Sweatrirt 1387122 301 آندرامور Under Armour",
+    "group": "مردانه",
+    "product": "سویشرت ورزشی",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "سویشرت ورزشی",
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندرامور Under Armour"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "cbbfb9d9-12ac-4a39-8f19-2ff408dd2113",
+    "image_url": "https://image.torob.com/base/images/AA/4W/AA4WJdIb-Y21NAne.jpg"
+  },
+  {
+    "title": "شلوار دوچرخه سواری فاکس ریسینگ مدل Fox Defend Fire Lunar Hose lang",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فاکس ریسینگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "558072bf-05f7-405b-8656-3b100c244c82",
+    "image_url": "https://image.torob.com/base/images/B4/Y9/B4Y9yuAxs2GY4TWX.jpg"
+  },
+  {
+    "title": "کاپشن موتورسوار دخترانه و پسرانه بچگانه پالتو موتور سیکلت تابستانی JK36C SUMMER COTTAGE 14 17 سن Scoyco",
+    "group": "دخترانه و پسرانه و بچگانه 14 و 17 سن",
+    "product": "کاپشن موتورسوار",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Scoyco"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن موتورسوار"
+        ]
+      }
+    ],
+    "random_key": "c4eab9e4-c6d1-474d-b205-fde1e05d914c",
+    "image_url": "https://image.torob.com/base/images/20/gM/20gMO9HsRIrN7Ek6.jpg"
+  },
+  {
+    "title": "کاپشن موتورسوار بنفش دخترانه و پسرانه بچگانه زره های بدن بچه موتور سیکلت محافظت کامل از متقابل محافظ ebakbak",
+    "group": "دخترانه و پسرانه بچگانه",
+    "product": "کاپشن موتورسوار",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "محافظت کامل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن موتورسوار"
+        ]
+      }
+    ],
+    "random_key": "cd24e2df-795b-41c0-9a08-e87cfe8ccf2b",
+    "image_url": "https://image.torob.com/base/images/Ks/Dh/KsDhgvm3TGWXxlbe.jpg"
+  },
+  {
+    "title": "تونیک ورزشی و دوچرخه سواری کد SH192",
+    "group": "نامشخص",
+    "product": "تونیک",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک ورزشی",
+          "تونیک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک ورزشی",
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "f392f23e-3350-405a-b5a2-ab9851050286",
+    "image_url": "https://image.torob.com/base/images/fd/9Q/fd9QGOyoRM7FcfMi.jpg"
+  },
+  {
+    "title": "تی شرت زرد مردانه یقه دوچرخه تناسب منظم طرح دار رنگ T Shirt Colin’s",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کالینز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت"
+        ]
+      }
+    ],
+    "random_key": "f78df821-a46e-4de0-bdcd-822726763ec4",
+    "image_url": "https://image.torob.com/base/images/Nf/Rp/NfRp-4b_K4C3_pcx.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری سفید مردانه و زنانه لباس آستین کوتاه ماسه ای تنظیم شده اسکات SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "ماسه ای"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "2c8eaa01-9a96-4a7a-b31b-e6a90c764d6d",
+    "image_url": "https://image.torob.com/base/images/Tb/wI/TbwIljDbr1uvfQOL.jpg"
+  },
+  {
+    "title": "کاپشن موتورسوار چند رنگ مردانه لیتون براون یکپارچهسازی با سیستمعامل مونت L SEGURA",
+    "group": "مردانه",
+    "product": "کاپشن موتورسوار",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ",
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیتتون براون",
+          "SEGURA"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن موتورسوار"
+        ]
+      }
+    ],
+    "random_key": "27ebedf7-7d26-4e1c-a540-6da32ed77f7b",
+    "image_url": "https://image.torob.com/base/images/-1/yw/-1ywD7JjUKho37OQ.jpg"
+  },
+  {
+    "title": "پلیور مشکی مردانه شلوار جین دوچرخه پیراهن چاپی J30J325670BEH Sweate Institional Calvin Klein",
+    "group": "مردانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور",
+          "شلوار جین دوچرخه",
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کلوین کلاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور",
+          "شلوار جین دوچرخه",
+          "پیراهن"
+        ]
+      }
+    ],
+    "random_key": "36ead389-4bdd-4011-9c79-7586ff09bc6b",
+    "image_url": "https://image.torob.com/base/images/Cp/Sr/CpSrGb4n1Gu_8RtH.jpg"
+  },
+  {
+    "title": "بادگیر دوچرخه سواری مردانه SANTINI مدل COLORE",
+    "group": "مردانه",
+    "product": "بادگیر",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بادگیر دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SANTINI"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "4fb47fa7-3916-4fff-825c-05ef83d46fc9",
+    "image_url": "https://image.torob.com/base/images/in/r5/inr5v4_YbbISHXBJ.jpg"
+  },
+  {
+    "title": "تیشرت و شلوار بلند دوچرخه و سبدگل زنانه",
+    "group": "زنانه",
+    "product": "تیشرت و شلوار",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت",
+          "شلوار بلند"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دوچرخه و سبدگل زنانه"
+        ]
+      }
+    ],
+    "random_key": "1e3568d0-071a-48b6-81a8-a5ad939a73e9",
+    "image_url": "https://image.torob.com/base/images/60/S1/60S19Wr7cQlPJKS-.webp"
+  },
+  {
+    "title": "تونیک دوچرخه سواری زنانه ریسا",
+    "group": "زنانه",
+    "product": "تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a25e6c44-fc96-4cdc-a5d7-a12daffa8368",
+    "image_url": "https://image.torob.com/base/images/xm/WL/xmWLlqOY7QJgjJI3.webp"
+  },
+  {
+    "title": "پلیور قرمز مردانه لباس دوچرخه سواری آستین بلند و مناسب بافتنی Lacoste",
+    "group": "مردانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lacoste"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "777c42d8-fc99-4a8b-a9da-1f9f7f0045f8",
+    "image_url": "https://image.torob.com/base/images/x-/1e/x-1eA81tCH_37hCI.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری لمپر مدل Merida",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لمپر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری",
+          "مدل Merida"
+        ]
+      }
+    ],
+    "random_key": "c3b8bbb5-9fea-4a73-a9e2-0938efd7d3df",
+    "image_url": "https://image.torob.com/base/images/Uj/Nw/UjNwn9RqqTZ_38FM.webp"
+  },
+  {
+    "title": "بلوز دوچرخه سواری ریسا کد 3850 طرح 1",
+    "group": "نامشخص",
+    "product": "بلوز دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بلوز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریسا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "9107ee10-ddb3-4763-90a8-acc5fed32816",
+    "image_url": "https://image.torob.com/base/images/lp/W8/lpW8d-jJO1RDeRcB.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه گردن دوچرخه مناسب و برای آستین کوتاه پوست Colin’s",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "گرد"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Colin’s"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دوچرخه مناسب و برای آستین کوتاه پوست"
+        ]
+      }
+    ],
+    "random_key": "0037e58a-1b4f-4fd3-89e6-7e14874a8769",
+    "image_url": "https://image.torob.com/base/images/J0/O5/J0O5VHTaO4wzrv2K.jpg"
+  },
+  {
+    "title": "تونیک دوچرخه سواری بانوان اسپید مشکی",
+    "group": "بانوان",
+    "product": "تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بانوان"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "ac71b05c-85d9-4d51-a3c9-cf425d47e0b3",
+    "image_url": "https://image.torob.com/base/images/sl/2a/sl2aBTvwUxh438rc.jpeg"
+  },
+  {
+    "title": "لباس دوچرخه سواری بانوان",
+    "group": "بانوان",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "بانوان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "b85a1c8b-b151-4cfc-8928-a1d818d26e81",
+    "image_url": "https://image.torob.com/base/images/9J/DX/9JDXQ-F7v5x8PCnt.jpg"
+  },
+  {
+    "title": "تی شرت یقه دوچرخه باریک سفید 50284398 VR013 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "دوچرخه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل",
+          "Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت یقه دوچرخه باریک"
+        ]
+      }
+    ],
+    "random_key": "aeb6e40c-e85e-401f-be87-5a9fed4c10a6",
+    "image_url": "https://image.torob.com/base/images/UB/7z/UB7z26l_fwdUTabr.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه یقه دوچرخه برش معمولی به طور منظم 100 ٪ پوست چهل کشتی Wrangler",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Wrangler"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت یقه دوچرخه برش معمولی"
+        ]
+      }
+    ],
+    "random_key": "4f1c7654-a5a5-4a75-8a72-d948c1177885",
+    "image_url": "https://image.torob.com/base/images/-u/uX/-uuXHFhIWegzvitD.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری اسپشالایزد مدل SL",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری اسپشالایزد مدل SL"
+        ]
+      }
+    ],
+    "random_key": "7e6bbdce-3ff3-4aa9-82cc-ca1ceb5c1757",
+    "image_url": "https://image.torob.com/base/images/-g/yn/-gynbCvQ3o9Zdzr8.webp"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری مشکی مردانه و زنانه RC جرسی فروخته شده طولانی گرم SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری RC جرسی"
+        ]
+      }
+    ],
+    "random_key": "fc28b60a-bb5f-45dd-ab22-002f9498ab78",
+    "image_url": "https://image.torob.com/base/images/Rs/Re/RsRexMds3rCzAdqN.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "c6d3d244-968a-4524-a77c-72234329430d",
+    "image_url": "https://image.torob.com/base/images/UX/2E/UX2EZzp9h8T8Y9gt.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری بلند LOTTO SOUDAL - XXL / ۲۰ d سوپر ژل متریال ایتالیایی / مشکی",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری بلند"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "XXL"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سوپر ژل متریال ایتالیایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LOTTO SOUDAL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری بلند"
+        ]
+      }
+    ],
+    "random_key": "60026cdc-a995-42d9-b1e7-0beaa6286758",
+    "image_url": "https://image.torob.com/base/images/d7/VG/d7VG2P4nbfJn1Whh.jpg"
+  },
+  {
+    "title": "دوچرخه زنانه سفید Yaka Tring 67600102 هر یک پوما Puma",
+    "group": "زنانه",
+    "product": "دوچرخه",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما",
+          "Puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دوچرخه زنانه سفید Yaka Tring"
+        ]
+      }
+    ],
+    "random_key": "d11bb69b-232d-44b6-bf63-1fe5402a76a9",
+    "image_url": "https://image.torob.com/base/images/2y/c_/2yc_KNmmdr7rTXYh.jpg"
+  },
+  {
+    "title": "شلوارک دوچرخه سواری با شورت پددار داخلی مردانه برند کرین آلمانی 820571 CRANE",
+    "group": "مردانه",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کرین آلمانی",
+          "CRANE"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پددار داخلی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوارک دوچرخه سواری با شورت"
+        ]
+      }
+    ],
+    "random_key": "e17cc60b-3419-486d-a1aa-67c210f3f480",
+    "image_url": "https://image.torob.com/base/images/rZ/FD/rZFD0TURxXzYB9nd.jpg"
+  },
+  {
+    "title": "تی شرت زنانه دوچرخه سواری یقه استون ECRU M4WL TST 1900 موستانگ Mustang",
+    "group": "زنانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "موستانگ",
+          "Mustang"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه استون"
+        ]
+      }
+    ],
+    "random_key": "4a81c7ae-19e3-4a93-b435-045075489f6d",
+    "image_url": "https://image.torob.com/base/images/iJ/yC/iJyCwj6_l7UC1FhF.jpg"
+  },
+  {
+    "title": "Santic Mens Cycling Shorts Men's 4D Coolmax Padded Bike Biking Bicycle Pants Cycling Tights",
+    "group": "مردانه",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Santic"
+        ]
+      },
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پددار"
+        ]
+      }
+    ],
+    "random_key": "a683817c-1dc7-44b2-9a63-fc7e9b69cdb6",
+    "image_url": "https://image.torob.com/base/images/WL/-q/WL-qekMLnkqyS_mi.jpg"
+  },
+  {
+    "title": "ژاکت دوچرخه سواری چرم زنانه اورجینال برندMANGO",
+    "group": "زنانه",
+    "product": "ژاکت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ژاکت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MANGO"
+        ]
+      }
+    ],
+    "random_key": "6b6419fd-1bc9-4bf8-9dd0-d142ab70039e",
+    "image_url": "https://image.torob.com/base/images/we/GD/weGD7t9KJQUvys_X.webp"
+  },
+  {
+    "title": "شلوارک دوبنده دوچرخه سواری چمپیون فوجی مدل Race Cut سورمه اى",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک دوبنده دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "چمپیون فوجی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سورمه ای"
+        ]
+      }
+    ],
+    "random_key": "c54a4cca-fe0f-4b50-87bf-0d1e1453d1d2",
+    "image_url": "https://image.torob.com/base/images/9_/4r/9_4rr9hD_d7LdKWn.png"
+  },
+  {
+    "title": "لباس آستین بلند دوچرخه سواری فاکس ریسینگ مدل Fox Ranger DR MD Trikot langarm",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فاکس ریسینگ",
+          "Fox Racing"
+        ]
+      }
+    ],
+    "random_key": "312469e4-b169-4631-af66-8dc1e3bd0e1b",
+    "image_url": "https://image.torob.com/base/images/tn/a-/tna-ky7FmyL7FSgd.jpg"
+  },
+  {
+    "title": "جرسی زنانه دوچرخه سواری بدون آستین LIV SOLA - مشکی نارنجی",
+    "group": "زنانه گانه",
+    "product": "جرسی دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "جرسی دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "بدون آستین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی نارنجی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LIV SOLA"
+        ]
+      }
+    ],
+    "random_key": "acfe79c4-0b1c-42f8-b77a-36983d8737c4",
+    "image_url": "https://image.torob.com/base/images/kv/7x/kv7xrlUFSH-UOz6R.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه پیراهن کتانی دوچرخه ادوارد Edwards",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ادوارد",
+          "Edwards"
+        ]
+      }
+    ],
+    "random_key": "14ff5020-cb92-4ba2-b7a3-078082745213",
+    "image_url": "https://image.torob.com/base/images/EX/V0/EXV0XxOrGy0yDMeO.jpg"
+  },
+  {
+    "title": "تی‌ شرت دوچرخه‌ سواری انویل مدل Razor",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "انویل"
+        ]
+      }
+    ],
+    "random_key": "233ca537-05ca-4974-bbf5-b54562d6de1d",
+    "image_url": "https://image.torob.com/base/images/U9/0C/U90ChWiQxIz28bev.webp"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری آستین بلند SOUDAL",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SOUDAL"
+        ]
+      }
+    ],
+    "random_key": "3486ba48-ac61-4f94-8ad4-173d4ad72564",
+    "image_url": "https://image.torob.com/base/images/XP/Zs/XPZsXQyzukX5I7wc.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "67d2b479-d695-44f6-9828-b743ce238b2d",
+    "image_url": "https://image.torob.com/base/images/jp/gN/jpgNSA34OSZhpi2z.jpg"
+  },
+  {
+    "title": "پیراهن آستین کوتاه دوچرخه‌سواری جاینت مدل GIANT RIVAL SS JERSEY",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "GIANT"
+        ]
+      }
+    ],
+    "random_key": "4c03ba17-d570-4d21-9b7e-edef4a17c787",
+    "image_url": "https://image.torob.com/base/images/hT/tJ/hTtJwyiufuuMiKTV.jpg"
+  },
+  {
+    "title": "تی شرت سفید مردانه گردنبند دوچرخه مناسب به طور منظم آستین کوتاه Colin’s",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Colin’s"
+        ]
+      }
+    ],
+    "random_key": "4ec27067-cb59-45df-8230-dba2d0344790",
+    "image_url": "https://image.torob.com/base/images/xP/zs/xPzszUS5-chkije_.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری سفید مردانه و زنانه Rc Premium کوهنوردی آستین کوتاه سیاه L اسکات SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات",
+          "SCOTT"
+        ]
+      }
+    ],
+    "random_key": "e3f60735-408f-474e-9d99-5c5cbc502399",
+    "image_url": "https://image.torob.com/base/images/Hn/JB/HnJBjhFxcWG5DdJ6.jpg"
+  },
+  {
+    "title": "بادگیر دوچرخه سواری مردانه SANTINI مدل GRAVEL NEBULA",
+    "group": "مردانه",
+    "product": "بادگیر دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بادگیر دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SANTINI"
+        ]
+      }
+    ],
+    "random_key": "36c026b5-f016-4002-a82d-52c6d4436bb2",
+    "image_url": "https://image.torob.com/base/images/OE/bR/OEbR5mHC8AyNFdeG.jpg"
+  },
+  {
+    "title": "شلوارک دوچرخه سواری مارک کریویت مدل پد دار",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پددار"
+        ]
+      }
+    ],
+    "random_key": "d8e382b6-a736-4ca4-88b2-5a9c099a3c81",
+    "image_url": "https://image.torob.com/base/images/sJ/7-/sJ7-s-8ROjZ3qIh3.jpg"
+  },
+  {
+    "title": "تی‌ شرت دوچرخه‌ سواری اف‌ایکس‌آر مدل Mission Air",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اف ایکس آر"
+        ]
+      }
+    ],
+    "random_key": "a0b4f2b2-a4e5-4e6b-9215-7e207c86eb18",
+    "image_url": "https://image.torob.com/base/images/Bs/hh/BshhT089rVFd6_vS.webp"
+  },
+  {
+    "title": "لباس کشتی نیور مدل Heritage",
+    "group": "نامشخص",
+    "product": "لباس کشتی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس کشتی"
+        ]
+      }
+    ],
+    "random_key": "473d318c-c85b-46ed-9bfa-a10bf617702d",
+    "image_url": "https://image.torob.com/base/images/F9/q-/F9q-FQQKEBXXeDio.webp"
+  },
+  {
+    "title": "تی شرت مردانه دوچرخه سواری فاکس ریسینگ مدل Fox Ranger Wordmark Trikot kurzarm Herren",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فاکس ریسینگ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      }
+    ],
+    "random_key": "53004c17-ef81-46a0-8aa0-24e875926426",
+    "image_url": "https://image.torob.com/base/images/eR/MW/eRMWKLOmD2e86T1e.jpg"
+  },
+  {
+    "title": "کاپشن موتورسوار خاکستری مردانه و زنانه AIR RACING سیاه روکش موتور سیکلت 4 فصل قرمز Venom",
+    "group": "مردانه و زنانه",
+    "product": "کاپشن موتورسواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کاپشن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری",
+          "سیاه",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "چهار فصل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "روکش موتور سیکلت"
+        ]
+      }
+    ],
+    "random_key": "37baaaaf-c073-4f9b-8f30-3829285542b8",
+    "image_url": "https://image.torob.com/base/images/7r/tw/7rtwsIkqLURc3Ihw.jpg"
+  },
+  {
+    "title": "ست بالا و پایین سفید دخترانه بچگانه یقه دوچرخه سواری 2 قطعه دختران چاپی پیراهن ششم شش دفاکتو Defacto",
+    "group": "دخترانه بچگانه",
+    "product": "ست لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دفاکتو",
+          "Defacto"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپی"
+        ]
+      }
+    ],
+    "random_key": "16b55302-f57d-4246-a32c-d4c093db319d",
+    "image_url": "https://image.torob.com/base/images/km/rF/kmrFotFvJWDl47JX.jpg"
+  },
+  {
+    "title": "تیشرت تابستانی دوچرخه سواری کوهستان - لاجوردی",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "tipo de produto",
+        "values": [
+          "کوهستان"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "لاجوردی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری کوهستان"
+        ]
+      }
+    ],
+    "random_key": "07b48b12-375f-48c4-b237-f9ede4341b9a",
+    "image_url": "https://image.torob.com/base/images/Mu/iK/MuiKx-Z7uuZlMjWb.jpg"
+  },
+  {
+    "title": "تی شرت سبز مردانه به طور منظم مناسب گردن دوچرخه برش طبیعی 100 ٪ پنبه Lee",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lee"
+        ]
+      }
+    ],
+    "random_key": "5f318910-9f49-4233-b7b3-30a8a5385cdc",
+    "image_url": "https://image.torob.com/base/images/wL/wX/wLwXplLEeiH8hint.jpg"
+  },
+  {
+    "title": "شلوار دوچرخه سواری پد دار مردانه تن ریسا کد 1600",
+    "group": "مردانه",
+    "product": "شلوار دوچرخه سواری پد دار",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد دار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تن ریسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری پد دار"
+        ]
+      }
+    ],
+    "random_key": "0b16ab0f-b373-48e6-81aa-05bb4eb49253",
+    "image_url": "https://image.torob.com/base/images/vZ/ZZ/vZZZxNYwPlzJ7I-y.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری هیمالیا طرح ولف کد 75318",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ولف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "2e983846-1ef8-44c7-99f1-3dbfefe086df",
+    "image_url": "https://image.torob.com/base/images/dn/cn/dncnw4xxxszTHFlQ.jpg"
+  },
+  {
+    "title": "شورت پد دار دوچرخه سواری اسپید مدل CHI زنانه طوسی",
+    "group": "زنانه",
+    "product": "شورت پد دار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شورت پد دار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد دار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت پد دار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "88736d14-6827-495d-b517-6b44e251cc9d",
+    "image_url": "https://image.torob.com/base/images/Wo/0R/Wo0R7KlSXPDmxQUI.jpeg"
+  },
+  {
+    "title": "تیشرت دخترانه دوچرخه سواری FIZZ NORTHWAVE",
+    "group": "دخترانه",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "FIZZ NORTHWAVE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "23a3dd52-d75f-46c7-810e-963bccd68885",
+    "image_url": "https://image.torob.com/base/images/v5/z2/v5z2sGtEoQwVXLs6.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری جاینت مدل Giant Pursue LS Jersey",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "1738b2fe-ff92-4237-8dc3-df3ef77ad87d",
+    "image_url": "https://image.torob.com/base/images/RN/LE/RNLEpy-U0wVmrEeE.jpg"
+  },
+  {
+    "title": "تیشرت ورزشی سه گانه – مخصوص دو و دوچرخه سواری کمپرس اسپرت",
+    "group": "نامشخص",
+    "product": "تیشرت ورزشی",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کمپرس اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت ورزشی",
+          "سه گانه"
+        ]
+      }
+    ],
+    "random_key": "a118d10f-9c07-4eb7-b9cc-187cbf5c886e",
+    "image_url": "https://image.torob.com/base/images/Ai/KD/AiKDGKOBew9dtVBQ.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری تابستانه",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری تابستانه"
+        ]
+      }
+    ],
+    "random_key": "e94db064-da2d-41db-a82d-090ad2c24351",
+    "image_url": "https://image.torob.com/base/images/K-/E6/K-E67A6hMAnXaZXm.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه پنبه مناسب دوچرخه Yaka T پیراهن J30J325065Beh کلوین کلین Calvin Klein",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کلوین کلین",
+          "Calvin Klein"
+        ]
+      }
+    ],
+    "random_key": "50aa489a-44b6-4b0f-af50-b1c23591409d",
+    "image_url": "https://image.torob.com/base/images/MQ/xV/MQxVa7CSqi-QRulx.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه یقه دوچرخه سیاه پیراهن طرح دار ریپلی Replay",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریپلی",
+          "Replay"
+        ]
+      }
+    ],
+    "random_key": "766e9499-4fe2-48db-a902-5e9e87b4dd6c",
+    "image_url": "https://image.torob.com/base/images/Vk/IG/VkIGGMDNBSwDSF2h.jpg"
+  },
+  {
+    "title": "بادگیر دوچرخه سواری جاینت مدل Giant Super Light",
+    "group": "نامشخص",
+    "product": "بادگیر دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بادگیر دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      }
+    ],
+    "random_key": "7ccbfa07-d32e-4c45-95d4-7fcf08ef3140",
+    "image_url": "https://image.torob.com/base/images/bI/mj/bImjOOHO5z0j_rbv.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری آبی اورجینال",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "721b979f-d8ce-4392-b7c6-286dbfa07be2",
+    "image_url": "https://image.torob.com/base/images/sq/ng/sqngXTPQk1mExPsG.jpg"
+  },
+  {
+    "title": "تی شرت زنانه دوچرخه سواری فاکس ریسینگ مدل FOX Girls Tocayo Crop Top kurzarm",
+    "group": "زنانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فاکس ریسینگ"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "kurzarm"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری کراپ"
+        ]
+      }
+    ],
+    "random_key": "f3d2a25e-b763-4e2c-ad5b-478941187cb2",
+    "image_url": "https://image.torob.com/base/images/vA/47/vA47URrXkKSxro_C.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری ویژه فروشگاه",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "63dab0b9-7e43-4b52-b043-b2182c06fdd9",
+    "image_url": "https://image.torob.com/base/images/7q/k5/7qk5akSPLkN6SQu1.jpg"
+  },
+  {
+    "title": "Kiğılı یقه دوچرخه باریک و لباس بافتنی با الگوی شکل",
+    "group": "نامشخص",
+    "product": "لباس بافتنی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Kiğılı"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس بافتنی"
+        ]
+      }
+    ],
+    "random_key": "130ab8f3-bad9-4a14-a93d-ec7133bf18a0",
+    "image_url": "https://image.torob.com/base/images/2c/qU/2cqUvUVMZmXGtWeV.jpg"
+  },
+  {
+    "title": "عِرق گیر زیرپوش تی شرت یقه دوچرخه 1305 خاکستری کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت زیرپوش عرق گیر دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "e34d2544-cd78-4864-a58b-807f052bbf35",
+    "image_url": "https://image.torob.com/base/images/kQ/Ry/kQRy96shVbbmv56x.jpg"
+  },
+  {
+    "title": "لگ دوچرخه سواری مشکی مردانه و زنانه لباس تنگ اورجینال SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "لگ دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لگ دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لگ دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e124487e-c4a3-4fb3-9cf6-51db3d4b8e1d",
+    "image_url": "https://image.torob.com/base/images/Ur/-m/Ur-mVgJRBeJKfln9.jpg"
+  },
+  {
+    "title": "بادگیر دوچرخه سواری proline زغالی",
+    "group": "نامشخص",
+    "product": "بادگیر دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بادگیر دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "proline"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زغالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "44e9abcb-1cf5-4dab-87c5-98796613c86c",
+    "image_url": "https://image.torob.com/base/images/xy/VC/xyVCVaLerrUCXp8y.jpeg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری زنانه لیو مدل Passion SS",
+    "group": "زنانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a36ecb23-b138-471f-8251-7c690b96a782",
+    "image_url": "https://image.torob.com/base/images/Ag/V1/AgV1orYpeJ1qPSwE.jpg"
+  },
+  {
+    "title": "تیشرت زرد دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "6b5637db-eabe-4907-9f80-f94aecc3f8e0",
+    "image_url": "https://image.torob.com/base/images/DW/dr/DWdrSeOKgbd-jFXG.jpg"
+  },
+  {
+    "title": "کاپشن موتورسوار زنانه REVIT 2 ماسه کت تابستانی Revit",
+    "group": "زنانه",
+    "product": "کاپشن",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کاپشن"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "REVIT"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن موتورسوار"
+        ]
+      }
+    ],
+    "random_key": "02e80e02-4a64-4e82-aa22-0051bb2c8bc5",
+    "image_url": "https://image.torob.com/base/images/ZC/t6/ZCt6wRQfyfIMpdIO.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه‌سواری مدل Himalaya - 0178",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "170965b9-e407-4f47-801f-97179ded06f9",
+    "image_url": "https://image.torob.com/base/images/S-/uK/S-uKYYHMALTQT2i2.jpg"
+  },
+  {
+    "title": "تی شرت آستین کوتاه دوچرخه سواری مردانه کریویت CRIVIT",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت CRIVIT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "26bc1d0a-3423-4325-9df2-437a03cafe88",
+    "image_url": "https://image.torob.com/base/images/kV/Sy/kVSyb2rNmj-68EES.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری کریویت Crivit",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت Crivit"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "7ea19102-b1d1-437f-b062-6cd03fe3a41a",
+    "image_url": "https://image.torob.com/base/images/vT/Ru/vTRuO5T6BIJXPW1E.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه سیاه به طور منظم مناسب دوچرخه سواری طبیعی 100 ٪ پنبه آسفالت پوست Lee",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "ed1468be-7775-4b63-ad88-dc494cc9938a",
+    "image_url": "https://image.torob.com/base/images/Y8/fi/Y8fiMhuoAx2uES6Q.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری زمستانه",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "1ac65cbf-db5e-4438-ac96-0d3ec43c8dfe",
+    "image_url": "https://image.torob.com/base/images/2D/cX/2DcX67CIqNNOXBXY.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری زنانه لیو",
+    "group": "زنانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "1ddf01d8-f6d1-4a02-ba0d-9eea422019a5",
+    "image_url": "https://image.torob.com/base/images/z_/WM/z_WMKtVh3u64Qh6P.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری در زمستان GCRFL پیراهن دوچرخه گله دار حرارتی + شلوار جیب - ارسال 20 روز کاری",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری",
+          "شلوار"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه گله دار حرارتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "حرارتی"
+        ]
+      }
+    ],
+    "random_key": "e1753f9b-5b1f-4e00-af45-fd61c16aea2e",
+    "image_url": "https://image.torob.com/base/images/3X/77/3X77drkA3s3R64Qm.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه یقه دوچرخه 100 ٪ پنبه معمولی مناسب پیراهن 8N1Td2 1Jgyz 0022 امپریو ارمانی Emporio Armani",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "امپریو ارمانی",
+          "Emporio Armani"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن معمولی"
+        ]
+      }
+    ],
+    "random_key": "85be779b-39ca-400b-bf86-b112350053bd",
+    "image_url": "https://image.torob.com/base/images/ns/Gw/nsGwT_j1TAlEdtEJ.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه سیاه دوچرخه سواری آستین بلند و آرام طرح دار Lacoste",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lacoste"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "8ac803aa-1247-4549-8050-99d1db00e4ae",
+    "image_url": "https://image.torob.com/base/images/5R/pF/5RpF127KJ4l2c9MM.jpg"
+  },
+  {
+    "title": "تی شرت یقه دوچرخه باریک و سفید 50305097 VR013 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل",
+          "Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت باریک"
+        ]
+      }
+    ],
+    "random_key": "ad83bdf4-2ac7-4bde-999d-563defe31c8e",
+    "image_url": "https://image.torob.com/base/images/DR/uC/DRuC6gROUTSqe8Ef.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری زنانه لیو مدل AQUA",
+    "group": "زنانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری مدل AQUA"
+        ]
+      }
+    ],
+    "random_key": "b52851c4-8417-4d12-815d-739c67c7b9b8",
+    "image_url": "https://image.torob.com/base/images/Ud/1n/Ud1nAW7gc-GYb1GY.jpg"
+  },
+  {
+    "title": "لگ دوچرخه سواری مشکی زنانه سیاه استقامت 10 لباس تنگ خاکستری تیره L اسکات SCOTT",
+    "group": "زنانه",
+    "product": "لگ دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لگ دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "خاکستری تیره"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "L"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات",
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس تنگ"
+        ]
+      }
+    ],
+    "random_key": "a1b7e6c2-56be-42ab-9a15-2a3a48ca6161",
+    "image_url": "https://image.torob.com/base/images/XK/yW/XKyWlT7LKG6-sSy5.jpg"
+  },
+  {
+    "title": "لگ دوچرخه سواری آبی مردانه و زنانه TEAM RC ++ شلوار کوتاه SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "لگ دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لگ دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوتاه TEAM RC"
+        ]
+      }
+    ],
+    "random_key": "0d496f1e-9860-4722-8559-5047ecdfc795",
+    "image_url": "https://image.torob.com/base/images/-0/aQ/-0aQd0gddVfemT-L.jpg"
+  },
+  {
+    "title": "پولوشرت سفید دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "پولوشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پولوشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولوشرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "ce7e27fd-93f8-449c-a261-53d7cab06b6f",
+    "image_url": "https://image.torob.com/base/images/av/cj/avcj4a_a5jgIDva4.jpg"
+  },
+  {
+    "title": "لباس تونیک دوچرخه سواری اسپید speed آبی مخصوص بانوان",
+    "group": "بانوان",
+    "product": "لباس تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "لباس تونیک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید",
+          "speed"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "0363910d-c46a-4c56-b145-cc2ea2c92b9f",
+    "image_url": "https://image.torob.com/base/images/7E/Hx/7EHxk42oliNt8IRC.jpg"
+  },
+  {
+    "title": "شلوار برمودا پد دار دوچرخه سواری اسپید مشکی",
+    "group": "نامشخص",
+    "product": "شلوار برمودا",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار برمودا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار برمودا پد دار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "83983de8-3154-49bc-93a7-c5d835fca8cc",
+    "image_url": "https://image.torob.com/base/images/lE/IA/lEIART5T496schni.jpg"
+  },
+  {
+    "title": "شلوار دوچرخه سواری راکبراس سایز اسمال مشکی",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "راکبراس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "اسمال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "8759f35d-4829-4990-aa8a-8c9c9f3083cb",
+    "image_url": "https://image.torob.com/base/images/oL/ap/oLapqNNHJLDjzEPt.jpg"
+  },
+  {
+    "title": "جلیقه ایمنی شبرنگ دار هوانوردی",
+    "group": "نامشخص",
+    "product": "جلیقه",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "جلیقه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شبرنگ دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه ایمنی هوانوردی"
+        ]
+      }
+    ],
+    "random_key": "a3a8d0ea-d389-4b65-84cf-669e95dd0c19",
+    "image_url": "https://image.torob.com/base/images/_Q/i9/_Qi9GE-m_8Wi12Yw.jpg"
+  },
+  {
+    "title": "بادگیر دکتلون Triban RC500",
+    "group": "نامشخص",
+    "product": "بادگیر",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بادگیر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر Triban RC500"
+        ]
+      }
+    ],
+    "random_key": "d4607401-773e-4f9d-9d59-e4a5f65bf290",
+    "image_url": "https://image.torob.com/base/images/Iy/kk/IykkMIlq3AzC0J0c.jpg"
+  },
+  {
+    "title": "ست پیراهن و شلوار دوبنده دوچرخه سواری malciklo فسفری-مشکی",
+    "group": "نامشخص",
+    "product": "ست پیراهن و شلوار دوبنده دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست پیراهن و شلوار دوبنده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "malciklo"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "فسفری",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست پیراهن و شلوار دوبنده دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "76df7a2b-faa7-4c12-a7cb-38265dcb4632",
+    "image_url": "https://image.torob.com/base/images/gi/sX/gisXdTQfx9p3rChz.jpg"
+  },
+  {
+    "title": "پلیور مشکی مردانه سیاه یقه دوچرخه با الگوی لباس کتانی بافتنی مخلوط پنبه Kip",
+    "group": "مردانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتانی بافتنی مخلوط پنبه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kip"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور یقه دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "55235310-59a3-436d-8d97-f5ee7a76c2e1",
+    "image_url": "https://image.torob.com/base/images/Ff/wP/FfwP8B7D6wYDqwNU.jpg"
+  },
+  {
+    "title": "تی شرت یقه دوچرخه باریک سفید 50284291 VR013 کاشارل Cacharel",
+    "group": "نامشخص",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کاشارل",
+          "Cacharel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت باریک"
+        ]
+      }
+    ],
+    "random_key": "8ae4e6ec-fb5f-4aaa-bd31-785a4d8ef3e0",
+    "image_url": "https://image.torob.com/base/images/4O/7M/4O7MJt1SE9L7RVtL.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری ست دوبنده پد دار cervelo",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست دوبنده"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پد دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "cervelo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "af66ff9e-ff5c-4fb3-a7f1-e62184770924",
+    "image_url": "https://image.torob.com/base/images/o0/WK/o0WKuSQAhFVJGPiQ.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "d09f863a-a8a8-4f0e-ad5c-c3093cb722f4",
+    "image_url": "https://image.torob.com/base/images/bE/Qy/bEQyWcVdL9VjYkUm.jpg"
+  },
+  {
+    "title": "ست پیراهن و شلوار دوچرخه سواری تیمی طرح اسپشیالیزد Specialized",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست پیراهن و شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپشیالیزد Specialized"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تیمی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "1b18118f-56bc-4772-be2a-4758d01bb9f7",
+    "image_url": "https://image.torob.com/base/images/QL/nD/QLnD03_V3_fimIj_.webp"
+  },
+  {
+    "title": "لباس دوچرخه سواری اسکات مدل treasures",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "d7b7c3f7-47b9-4cb0-a486-6ffda18bf63c",
+    "image_url": "https://image.torob.com/base/images/67/pZ/67pZ00viiZPBv8ng.webp"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری آستین کوتاه اسکات مدل RC مشکی",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "ee837271-cacb-425c-86ba-4ba526b50d3b",
+    "image_url": "https://image.torob.com/base/images/1t/mr/1tmrAxaT4GAb1r2-.webp"
+  },
+  {
+    "title": "شورت زیر پددار دوچرخه CYCLING",
+    "group": "نامشخص",
+    "product": "شورت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شورت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پددار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CYCLING"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شورت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "24aa32b7-bac4-4e32-983b-eebf34d7fe53",
+    "image_url": "https://image.torob.com/base/images/qG/w3/qGw3Idoypy_pFHXk.jpg"
+  },
+  {
+    "title": "پلیور آبی مردانه یقه دوچرخه سواری لباس زیر های بافتنی رنگ Kip",
+    "group": "مردانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور",
+          "لباس زیر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافتنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kip"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس یقه دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e4fbc166-3b9f-4fd5-923c-d00ae4216ead",
+    "image_url": "https://image.torob.com/base/images/aT/A7/aTA7Jb0q3RRp-K8T.jpg"
+  },
+  {
+    "title": "تی شرت نود مردانه یقه دوچرخه مناسب و متناسب با بژ طرح دار بازوی کوتاه T Colin’s",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "تی شرت نود"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "T Colin’s"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس یقه دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "b24aa8ec-9811-42d2-b6ce-14818c577e68",
+    "image_url": "https://image.torob.com/base/images/-0/HN/-0HNP79psNjDrfeZ.jpg"
+  },
+  {
+    "title": "کت دوچرخه سواری 1025 چرم مصنوعی - مشکی - 1422",
+    "group": "نامشخص",
+    "product": "کت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "کت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "چرم مصنوعی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "5c05da09-9cba-4545-a2f1-62a8bfa68771",
+    "image_url": "https://image.torob.com/base/images/Mw/Oj/MwOjM4nDHtNiqIXx.webp"
+  },
+  {
+    "title": "تونیک دوچرخه سواری زنانه نایک مدل نیم زیپ کد 11186",
+    "group": "زنانه",
+    "product": "تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "33f32c02-d001-4610-af5c-030c022777e4",
+    "image_url": "https://image.torob.com/base/images/oB/1s/oB1s5Xe8VoWF3QvL.webp"
+  },
+  {
+    "title": "تی شرت مشکی مردانه سیاه یقه دوچرخه تناسب منظم طرح دار پوست Colin’s",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Colin’s"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس یقه دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "cbc92633-8f17-4109-83e2-e2beb5fd2142",
+    "image_url": "https://image.torob.com/base/images/Lx/JE/LxJE_BlndW1aALEe.jpg"
+  },
+  {
+    "title": "لباس پیراهن و شورت دوچرخه سواری HUUB",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن و شورت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "HUUB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "42dacf36-4744-455c-be53-9e42ee3cd4a8",
+    "image_url": "https://image.torob.com/base/images/AS/nX/ASnX4aojGK0v6d42.jpg"
+  },
+  {
+    "title": "ست تی شرت و شورت دوبنده دوچرخه سواری اسپید طرح ایران قرمز",
+    "group": "نامشخص",
+    "product": "ست تی شرت و شورت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "شورت دوبنده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسپید"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ایران"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "d4627caa-e37e-46b7-9e10-a845461f9175",
+    "image_url": "https://image.torob.com/base/images/Z0/Pb/Z0PbBY-Imr3EVJLg.jpeg"
+  },
+  {
+    "title": "تی شرت خاکستری مردانه یقه دوچرخه t shirt Lee",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lee"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس یقه دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e7276d69-2239-4a1c-bc0c-e1a8c79f5c66",
+    "image_url": "https://image.torob.com/base/images/ye/D_/yeD_0tN5H-WWeJ0C.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه سیاه یقه دوچرخه تناسب منظم طرح دار پوست Colin’s",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Colin’s"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس یقه دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "44ca6fbd-326b-4887-b4c4-184ae3d10315",
+    "image_url": "https://image.torob.com/base/images/ZD/9s/ZD9sU6mYxP_pK-F3.jpg"
+  },
+  {
+    "title": "پیراهن آستین کوتاه دوچرخه سواری زنانه اندورا مدل Endura FS260 Trikot kurzarm Damen",
+    "group": "زنانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Endura"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "62868766-d3df-4f26-9dbc-7b5a8eee2577",
+    "image_url": "https://image.torob.com/base/images/JH/Fz/JHFzTVZV9vM5dHcj.jpg"
+  },
+  {
+    "title": "بلوز ورزشی دوچرخه سواری",
+    "group": "نامشخص",
+    "product": "بلوز ورزشی دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "بلوز ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e1bc25cc-49e8-4059-90c7-5698db10d37b",
+    "image_url": "https://image.torob.com/base/images/0I/Yr/0IYrGHWDi5KMLcGm.jpg"
+  },
+  {
+    "title": "سرهمی دوچرخه سواری CRIVITPRO",
+    "group": "نامشخص",
+    "product": "سرهمی دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "سرهمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CRIVITPRO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "8ec70df4-e3a5-4ed2-bf52-f6194fcf8a4a",
+    "image_url": "https://image.torob.com/base/images/Zk/1Z/Zk1Z2kpYqGdt5sau.jpg"
+  },
+  {
+    "title": "لباس دوچرخه سواری آستین کوتاه جاینت مدل Elevate",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "6c47c9b1-8ade-4fa8-813a-1efa999fd2a2",
+    "image_url": "https://image.torob.com/base/images/VM/I9/VMI9B1OFiJozH9Uw.webp"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری لیو مدل Radiant LS آبی",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لیو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "e38c08a1-c458-4bcd-b100-9b28f187ea40",
+    "image_url": "https://image.torob.com/base/images/96/zr/96zrWNlEgi7Dx-LO.jpg"
+  },
+  {
+    "title": "تی شرت سبز مردانه یقه دوچرخه گرافیکی سبک وزن Lee",
+    "group": "مردانه",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گرافیکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lee"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک وزن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "399149d6-ecd3-4b83-95fc-4d128422f709",
+    "image_url": "https://image.torob.com/base/images/sT/cz/sTczoUoET8ccOTdu.jpg"
+  },
+  {
+    "title": "تاپ دوچرخه سواری مردانه پیراهن دوچرخه سواری آستین کوتاه ژاکت دوچرخه با زیپ کامل با جیب - ارسال 20 روز کاری",
+    "group": "مردانه",
+    "product": "تاپ دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تاپ دوچرخه سواری",
+          "پیراهن دوچرخه سواری",
+          "ژاکت دوچرخه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ کامل"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با جیب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "423e2892-eadb-4eaf-a90b-5d7f8106e62c",
+    "image_url": "https://image.torob.com/base/images/h7/p1/h7p1MsxMJXgSpEMd.jpg"
+  },
+  {
+    "title": "تی شرت دوچرخه سواری اسکات مدل RC قرمز",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "75564cd0-dac6-4139-939e-c844f7dd3628",
+    "image_url": "https://image.torob.com/base/images/Bj/lC/BjlCwCtzn0-toRhD.webp"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری WSTANDARD مدل T1 مشکی و سفید",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "WSTANDARD"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "0fda107a-4608-4ca9-ab2e-17d544da485e",
+    "image_url": "https://image.torob.com/base/images/Wj/8p/Wj8pAYEnI2xI4aAt.webp"
+  },
+  {
+    "title": "تی شرت آبی مردانه پنبه به طور منظم تناسب یقه دوچرخه T پیراهن K10K113800Chw Tret Trear K10K113800 کلوین کلین Calvin Klein",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت",
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کلوین کلین",
+          "Calvin Klein"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "87375fa5-de41-4941-a7c3-82eaf22b0122",
+    "image_url": "https://image.torob.com/base/images/Ml/AO/MlAOjOyLumR_bKR2.jpg"
+  },
+  {
+    "title": "ست پیراهن و شلوار دوبنده دوچرخه سواری malciklo بنفش-مشکی",
+    "group": "نامشخص",
+    "product": "ست پیراهن و شلوار دوبنده دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست پیراهن و شلوار دوبنده"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "malciklo"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "da5e3c1f-eda1-4f49-9b58-e0578d04ba40",
+    "image_url": "https://image.torob.com/base/images/oH/2d/oH2dmyhi69wW34XW.jpg"
+  },
+  {
+    "title": "ست لباس دوچرخه سواری TOTAL ENERGIES",
+    "group": "نامشخص",
+    "product": "ست لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "ست لباس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TOTAL ENERGIES"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "4e6af7f3-6f86-4041-b15c-03de0a6b173f",
+    "image_url": "https://image.torob.com/base/images/5T/AK/5TAKnpjDo0y7Lsnp.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری مردانه crivit",
+    "group": "مردانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "crivit"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "4c74f235-1483-4c6a-86fb-6025f7f19240",
+    "image_url": "https://image.torob.com/base/images/fV/gR/fVgRPT6MwqhITDDN.jpg"
+  },
+  {
+    "title": "شلوارک دوچرخه سواری ریسا کد 1302",
+    "group": "نامشخص",
+    "product": "شلوارک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوارک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریسا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "6398696a-d191-47ca-bf6f-7716391c0b2c",
+    "image_url": "https://image.torob.com/base/images/gr/UV/grUVd4aRSRc7THHO.jpg"
+  },
+  {
+    "title": "شلوار دوچرخه سواری لیکرا طرح ایران IRAN",
+    "group": "نامشخص",
+    "product": "شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شلوار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لیکرا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ایران"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "7464c200-1ebe-4234-baf7-1acf384bfb4f",
+    "image_url": "https://image.torob.com/base/images/gx/af/gxafSfy9CGM4H0w1.webp"
+  },
+  {
+    "title": "شورت دوچرخه سواری با پارچه پرزیده BALEAF مردانه، پارچه پرزیده 3D، برای دوچرخه سواری کوهستانی و سواری دوچرخه، لاینر بایکر",
+    "group": "مردانه",
+    "product": "شورت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "شورت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پارچه پرزیده",
+          "پددار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BALEAF"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دوچرخه سواری کوهستانی"
+        ]
+      }
+    ],
+    "random_key": "f2d8cd06-4509-48f4-b3c9-e8c4a6c1c6ee",
+    "image_url": "https://image.torob.com/base/images/0T/uj/0Tuj1taeMQGpGq5t.jpg"
+  },
+  {
+    "title": "پیراهن ورزشی دوچرخه سواری طرح دار مردانه کریویت | crivit",
+    "group": "مردانه",
+    "product": "پیراهن ورزشی دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن ورزشی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "crivit",
+          "کریویت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "59997c36-e418-414e-91ad-4362b201216a",
+    "image_url": "https://image.torob.com/base/images/OZ/RY/OZRYc-HEXgt-ELhv.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری سفید Rc Team 10 آستین بلند اسکات SCOTT",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات",
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "Rc Team 10"
+        ]
+      }
+    ],
+    "random_key": "b2a1a6de-949c-4b9e-bab9-2aa349e55098",
+    "image_url": "https://image.torob.com/base/images/dx/A3/dxA3xWjw5BLtcush.jpg"
+  },
+  {
+    "title": "تی شرت آستین کوتاه دوچرخه سواری HULG",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "HULG"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "93aee725-82c2-47f3-8315-dfb1a83e5ac6",
+    "image_url": "https://image.torob.com/base/images/8C/jA/8CjAgwPP53C3rMTV.jpg"
+  },
+  {
+    "title": "پیراهن دوچرخه سواری مشکی مردانه و زنانه سیاه Rc Pro Cup World آستین کوتاه اسکات SCOTT",
+    "group": "مردانه و زنانه",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکات",
+          "SCOTT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "Rc Pro Cup World"
+        ]
+      }
+    ],
+    "random_key": "0bba5611-20c2-4400-83df-3a2e82af4062",
+    "image_url": "https://image.torob.com/base/images/uy/A2/uyA2_NHoU3sKjjZl.jpg"
+  },
+  {
+    "title": "ست پیراهن و شلوار دوچرخه سواری malciklo سرخابی-مشکی",
+    "group": "نامشخص",
+    "product": "ست پیراهن و شلوار دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن و شلوار دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "malciklo"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخابی",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست پیراهن و شلوار دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "9ef66e89-9a02-4a6b-b55d-169672a1ee41",
+    "image_url": "https://image.torob.com/base/images/t8/tC/t8tChmvhGzIzln9D.jpg"
+  },
+  {
+    "title": "پیراهن آستین کوتاه دوچرخه‌سواری جاینت مدل GIANT RIVAL SS JERSEY",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "GIANT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "RIVAL SS JERSEY"
+        ]
+      }
+    ],
+    "random_key": "f84dc0b4-7bcb-485a-877e-826b594c0e32",
+    "image_url": "https://image.torob.com/base/images/TF/3i/TF3iIMy1SlemQNWj.jpg"
+  },
+  {
+    "title": "تی‌ شرت دوچرخه‌ سواری فاکس مدل Flexair",
+    "group": "نامشخص",
+    "product": "تی شرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی  شرت دوچرخه  سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فاکس",
+          "Flexair"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی  شرت دوچرخه  سواری"
+        ]
+      }
+    ],
+    "random_key": "31f41ad8-90f1-4187-878a-b824e90606c4",
+    "image_url": "https://image.torob.com/base/images/Hf/uZ/HfuZeF4TAIFEniCt.webp"
+  },
+  {
+    "title": "لباس دوچرخه سواری جاینت مدل تیم آلپسین تی - Giant team alpecin tee T-Shirt",
+    "group": "نامشخص",
+    "product": "لباس دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "T-Shirt",
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "Giant"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لباس دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "تیم آلپسین"
+        ]
+      }
+    ],
+    "random_key": "a54fb7d6-d199-4386-83b3-1469c8c0e7c7",
+    "image_url": "https://image.torob.com/base/images/ps/Hl/psHl2YNRC6OV3-kH.jpg"
+  },
+  {
+    "title": "تیشرت طرح دوچرخه سواری دانهیل",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت طرح دوچرخه سواری دانهیل"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دوچرخه سواری دانهیل"
+        ]
+      }
+    ],
+    "random_key": "04267803-adc9-4153-b6c5-ae70896ba37e",
+    "image_url": "https://image.torob.com/base/images/y1/Wf/y1WfL0wX0cj3fe27.jpg"
+  },
+  {
+    "title": "پیراهن آستین کوتاه دوچرخه‌سواری جاینت مدل GIANT GT-S SS JERSEY قرمز",
+    "group": "نامشخص",
+    "product": "پیراهن دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جاینت",
+          "GIANT"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "GT-S SS JERSEY"
+        ]
+      }
+    ],
+    "random_key": "3e506b96-076b-4cec-8797-375ac3e95fdd",
+    "image_url": "https://image.torob.com/base/images/_j/zu/_jzuq99ZE9j4Jx6y.jpg"
+  },
+  {
+    "title": "تیشرت دوچرخه سواری فشن لاین BIKE 1",
+    "group": "نامشخص",
+    "product": "تیشرت دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تیشرت دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت دوچرخه سواری فشن لاین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فشن"
+        ]
+      }
+    ],
+    "random_key": "b65e0756-9637-4f6d-adb4-ca6bc1009d25",
+    "image_url": "https://image.torob.com/base/images/Rs/iN/RsiNFcN9Y5Y0KaOx.webp"
+  },
+  {
+    "title": "جرسی دوچرخه سواری نیم زیپ مردانه - آبی",
+    "group": "مردانه",
+    "product": "جرسی دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "جرسی دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جرسی دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "a24defba-4839-4f75-bd55-d20e52fa76aa",
+    "image_url": "https://image.torob.com/base/images/h4/XA/h4XACMyTrQaiWPyF.jpg"
+  },
+  {
+    "title": "پلیور آبی مردانه گردنبند دوچرخه و آستین بلند 100 ٪ ژاکت پشم 6D1Mxk 1Mjnz 0920 امپریو ارمانی Emporio Armani",
+    "group": "مردانه",
+    "product": "پلیور",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "پلیور"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "امپریو ارمانی",
+          "Emporio Armani"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پشم"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "گردنبند دوچرخه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلیور دوچرخه"
+        ]
+      }
+    ],
+    "random_key": "7ef20275-55fc-497b-8af8-18cfa78b42ef",
+    "image_url": "https://image.torob.com/base/images/NB/5T/NB5Thh39rVhuI5_s.jpg"
+  },
+  {
+    "title": "تونیک دوچرخه سواری آستین کوتاه",
+    "group": "نامشخص",
+    "product": "تونیک دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تونیک دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "75eead0e-63f5-4a8b-a115-e5ccbebbd006",
+    "image_url": "https://image.torob.com/base/images/cA/Sx/cASxFduhoFf99i2Y.jpg"
+  },
+  {
+    "title": "تی شرت مشکی مردانه سیاه یقه دوچرخه سواری متناسب با t shirt Wrangler",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Wrangler"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه سواری"
+        ]
+      }
+    ],
+    "random_key": "d484e57a-6f30-4f78-8273-f3078e66fa0d",
+    "image_url": "https://image.torob.com/base/images/Yd/fm/YdfmGpW7X_KNr7q5.jpg"
+  },
+  {
+    "title": "سرهمی دوچرخه سواری مردانه کریویت مدل V2022",
+    "group": "مردانه",
+    "product": "سرهمی دوچرخه سواری",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "سرهمی دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کریویت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سرهمی دوچرخه سواری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "V2022"
+        ]
+      }
+    ],
+    "random_key": "c741cc60-e620-4446-8e48-bffaecf50d57",
+    "image_url": "https://image.torob.com/base/images/7p/WM/7pWMPowxLoGu7_hv.jpg"
+  },
+  {
+    "title": "تی شرت سیاه مردانه یقه دوچرخه چاپ شده پنبه ای مناسب A31Y1006 Avva",
+    "group": "مردانه",
+    "product": "تی شرت",
+    "entities": [
+      {
+        "name": "نوع لباس",
+        "values": [
+          "تی شرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه دوچرخه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پنبه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Avva"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تی شرت دوچرخه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چاپ شده"
+        ]
+      }
+    ],
+    "random_key": "5b0275ef-7dd1-495d-900f-284d12e9d05e",
+    "image_url": "https://image.torob.com/base/images/Su/Uo/SuUoLlT8MPzYPWlb.jpg"
+  }
+]

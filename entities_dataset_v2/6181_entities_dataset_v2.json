@@ -1,0 +1,4994 @@
+[
+  {
+    "title": "چرخ خرید مرولین مدل تاشو Flexi کد 9021",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مرولین"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "e966e7c0-7ffa-46f5-ad30-a3e19126d22c",
+    "image_url": "https://image.torob.com/base/images/15/z6/15z6_d1srUvqXmoo.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی برزنتی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "برزنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "f1d1377e-c0c2-4ec4-b873-9d2c754f09f4",
+    "image_url": "https://image.torob.com/base/images/mx/-o/mx-oOH4e5sv3VUH_.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی کودک",
+    "group": "کودک",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی کودک"
+        ]
+      }
+    ],
+    "random_key": "e188d978-adb9-4f47-b1db-212279589396",
+    "image_url": "https://image.torob.com/base/images/2Z/Ql/2ZQlMZ_W6Nxyc7tZ.webp"
+  },
+  {
+    "title": "چرخ خرید گاری خرید سبد چرخدار خرید کیفیت عالی بسیار محکم و مقاوم",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی",
+          "بسیار محکم و مقاوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخدار"
+        ]
+      }
+    ],
+    "random_key": "312a5ac5-eb42-4ca0-ae49-e8fd72c32f67",
+    "image_url": "https://image.torob.com/base/images/u9/fC/u9fCEY_Y1pEWBOxg.jpg"
+  },
+  {
+    "title": "چرخ خرید رنگ دلخواه(532)تاشو نیست",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "غیر تاشو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگ دلخواه"
+        ]
+      }
+    ],
+    "random_key": "1d668691-e1d2-4112-9d96-7958d44d8348",
+    "image_url": "https://image.torob.com/base/images/yc/4u/yc4uQH7ayHvGW0TZ.jpg"
+  },
+  {
+    "title": "دسته یدک چرخ خرید سوپر لارج (پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "دسته یدک"
+        ]
+      }
+    ],
+    "random_key": "95ff4e77-1932-4baf-8caa-cb7870249fb6",
+    "image_url": "https://image.torob.com/base/images/hu/Yj/huYjDexM0D4QG8qV.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو مدل چالکی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "2bff43c8-51ad-43c5-8ea9-097ef12ba053",
+    "image_url": "https://image.torob.com/base/images/jM/7d/jM7difD7zbOeMzC4.jpg"
+  },
+  {
+    "title": "چرخ خرید فلزی کیان اچ اند اچ",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کیان",
+          "اچ اند اچ"
+        ]
+      }
+    ],
+    "random_key": "2b6db2f4-07d9-4b03-933e-f31bcf35698d",
+    "image_url": "https://image.torob.com/base/images/4O/hu/4Ohu2WXVQaNh6hTa.jpg"
+  },
+  {
+    "title": "چرخ خرید با تحمل 70 کیلو و رنگ بندی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "تحمل وزن",
+        "values": [
+          "70 کیلو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگ بندی"
+        ]
+      }
+    ],
+    "random_key": "0f04edc6-8c92-447f-89b5-df08d877dfed",
+    "image_url": "https://image.torob.com/base/images/al/_d/al_dnL93LPwRdU2h.jpg"
+  },
+  {
+    "title": "چرخ خرید ابتکار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ابتکار"
+        ]
+      }
+    ],
+    "random_key": "06c6902e-6e01-42fa-b2ec-6eede042591d",
+    "image_url": "https://image.torob.com/base/images/ZR/ZP/ZRZPQn9NWXZg5tDk.jpg"
+  },
+  {
+    "title": "چرخ خرید برزنتی تستا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "برزنتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تستا"
+        ]
+      }
+    ],
+    "random_key": "b1525a65-7aa3-4ff9-826e-e648ebbf6ad7",
+    "image_url": "https://image.torob.com/base/images/lO/fb/lOfbjmKDp-SAysY0.jpg"
+  },
+  {
+    "title": "چرخ خرید جگوار مدل لاکچری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جگوار"
+        ]
+      }
+    ],
+    "random_key": "f4aa2eec-140b-4e82-a109-1858a8301604",
+    "image_url": "https://image.torob.com/base/images/hF/ob/hFobYH6TwrAeGsOR.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل s2",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "d05ddf5b-3aa9-440a-b1a0-a759baba2e63",
+    "image_url": "https://image.torob.com/base/images/Hm/jn/Hmjn14yJp5d_X-vq.jpg"
+  },
+  {
+    "title": "چرخ خرید بزرگ",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "ba85e74b-9fe3-4311-95c9-9184ac699ddb",
+    "image_url": "https://image.torob.com/base/images/i_/Bw/i_BwLfc6fTPPl7RV.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 160 لیتری پلی کربنات",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "160 لیتری"
+        ]
+      }
+    ],
+    "random_key": "7b8ee45c-883c-4356-b884-5ceb39cff2c1",
+    "image_url": "https://image.torob.com/base/images/GD/rh/GDrhOJDlgHOwiS6v.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل B5214",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "922c942d-5514-48c4-86d5-277a7e245ba5",
+    "image_url": "https://image.torob.com/base/images/tI/oH/tIoHRgHY7a08hzKh.jpg"
+  },
+  {
+    "title": "چرخ خرید 531(انتخاب رنگ دلخواه) تاشو نیست",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "غیر تاشو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "انتخاب رنگ دلخواه"
+        ]
+      }
+    ],
+    "random_key": "687ea728-ffd5-4fae-9a7f-c3de9ccbca09",
+    "image_url": "https://image.torob.com/base/images/Nn/Uo/NnUo4JIi7pRb7bEI.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل M99",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "8b842912-ed4b-4304-aa8c-4ad0910b5e33",
+    "image_url": "https://image.torob.com/base/images/zh/dT/zhdTy0SCQRZptufG.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو (چرخ دوبل)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "چرخ دوبل"
+        ]
+      }
+    ],
+    "random_key": "627913e1-8be3-48fe-8049-752852908bda",
+    "image_url": "https://image.torob.com/base/images/J1/3_/J13_eTPpLXZ7N_2B.jpg"
+  },
+  {
+    "title": "سبد خرید پلاستیکی کودک زرین",
+    "group": "کودک",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      }
+    ],
+    "random_key": "8d54fbff-9acb-4d8d-8f0d-55a4898fd13f",
+    "image_url": "https://image.torob.com/base/images/nr/Jn/nrJnWWYAVJW88nCL.jpg"
+  },
+  {
+    "title": "زنبیل تسمه بافی در رنگهای مختلف اندازه سایز35 در35",
+    "group": "نامشخص",
+    "product": "زنبیل",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "تسمه بافی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگهای مختلف"
+        ]
+      }
+    ],
+    "random_key": "63d6e031-cd1c-4adf-96b3-212d51219936",
+    "image_url": "https://image.torob.com/base/images/2o/qI/2oqIVqwkxiXdfbTM.jpg"
+  },
+  {
+    "title": "چرخ طحافی نوستالژی",
+    "group": "نامشخص",
+    "product": "چرخ طحافی",
+    "entities": [],
+    "random_key": "1af22cfa-228b-4ba3-add0-951b8cce336c",
+    "image_url": "https://image.torob.com/base/images/Mh/3Y/Mh3YiqBM8jCdpPW2.jpg"
+  },
+  {
+    "title": "سبد خرید یکپارچه 40 لیتری پلاستیکی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "40 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      }
+    ],
+    "random_key": "9121927c-e7e2-4b35-bede-3a4e8f1a4403",
+    "image_url": "https://image.torob.com/base/images/Jf/Y8/JfY8lshC3joxyq4F.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی پلاستیکی 210 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "210 لیتری"
+        ]
+      }
+    ],
+    "random_key": "4c415546-18c7-47e1-953f-66f147fc693c",
+    "image_url": "https://image.torob.com/base/images/JD/gN/JDgNXaPE6fNQtj7l.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل صندلی دار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "صندلی دار"
+        ]
+      }
+    ],
+    "random_key": "b6c07b6f-b807-4821-8300-4f85e3a9f198",
+    "image_url": "https://image.torob.com/base/images/FP/E9/FPE9yGMq-Ybwo_c8.jpg"
+  },
+  {
+    "title": "چرخ اربعین جدید خانواده",
+    "group": "خانواده",
+    "product": "چرخ اربعین",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اربعین"
+        ]
+      }
+    ],
+    "random_key": "1a765b37-9646-4acd-84eb-3c8b539f65f1",
+    "image_url": "https://image.torob.com/base/images/A0/ue/A0ueMzABNlwcKgYh.webp"
+  },
+  {
+    "title": "چرخ خرید بزرگ ( لطفاً قبل سفارش موجودی بگیرید )",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "6414a736-bee9-4625-9e69-d634b0b0a404",
+    "image_url": "https://image.torob.com/base/images/V5/Tp/V5Tps3qIywG0aiEN.jpg"
+  },
+  {
+    "title": "سبد خرید چرخدار فروشگاهی – کد ۴۲",
+    "group": "نامشخص",
+    "product": "سبد خرید چرخدار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "0f093df8-1d1c-4d58-b3ed-d07799af6084",
+    "image_url": "https://image.torob.com/base/images/ld/fg/ldfgWUK7I6MayJCd.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی بزرگ تاشو 55 لیتری شیائومی Xiaomi MAIWEI Foldable Trolley Cart 55L TN-SNX02",
+    "group": "نامشخص",
+    "product": "چرخ خرید دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "55 لیتری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      }
+    ],
+    "random_key": "2f509950-1e42-485f-93f1-3df50cb894ca",
+    "image_url": "https://image.torob.com/base/images/XY/i4/XYi4UR4PKd0qYky1.webp"
+  },
+  {
+    "title": "سبد خرید کلاسیک",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [],
+    "random_key": "0387cea5-78e1-454f-9343-dda005dc05b0",
+    "image_url": "https://image.torob.com/base/images/k7/Q_/k7Q_m_Yce9ez9H2J.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل L20",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "4dd141e4-a726-48d7-9f11-e0fe80966cbe",
+    "image_url": "https://image.torob.com/base/images/5Z/0G/5Z0GgRJL3RwrZEr5.jpg"
+  },
+  {
+    "title": "چرخ خرید ترولی 160 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید ترولی",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "160 لیتری"
+        ]
+      }
+    ],
+    "random_key": "5294716c-bf5f-400d-aed4-0fe46d79136c",
+    "image_url": "https://image.torob.com/base/images/fM/KQ/fMKQvHYeV3qM2LMg.jpg"
+  },
+  {
+    "title": "چرخ خرید جگوار مدل لاکچری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لاکچری"
+        ]
+      }
+    ],
+    "random_key": "2928f4fe-f4a4-459c-a7ec-5fef91f4659b",
+    "image_url": "https://image.torob.com/base/images/ws/7u/ws7udOFa4Uwim7xW.jpg"
+  },
+  {
+    "title": "خرید کیف چرخدار برزنتی پاپ آپ + قیمت مناسب و ارسال فوری",
+    "group": "نامشخص",
+    "product": "کیف چرخدار",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "برزنتی"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "پاپ آپ"
+        ]
+      }
+    ],
+    "random_key": "98c9ccae-b7df-4789-9fec-697edf749136",
+    "image_url": "https://image.torob.com/base/images/4p/7o/4p7o-tQZHpLMuFIa.jpg"
+  },
+  {
+    "title": "چرخ خرید فلزی ( پس کرایه )",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      }
+    ],
+    "random_key": "655f67c3-8ffb-48e6-a2a4-3d5b2312c738",
+    "image_url": "https://image.torob.com/base/images/t0/P5/t0P5pnpMC77JaeOW.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی مدل DT60L- PLUS",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "60 لیتری"
+        ]
+      }
+    ],
+    "random_key": "bf890a0f-3aeb-4997-8848-3c53d665dd11",
+    "image_url": "https://image.torob.com/base/images/J3/Vk/J3VkU_DqIGeLTlfK.jpg"
+  },
+  {
+    "title": "چرخ خرید گلبرگ مدل ۹۴۰ تایر بزرگ - طرح",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گلبرگ"
+        ]
+      },
+      {
+        "name": "نوع تایر",
+        "values": [
+          "تایر بزرگ"
+        ]
+      }
+    ],
+    "random_key": "f41b96c2-9f8e-4d10-8b28-0d455907570b",
+    "image_url": "https://image.torob.com/base/images/RM/Nf/RMNfWaa1iDbiLR5i.webp"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی ۱۶۰لیتری پلی کربنات",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "160 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلی کربنات"
+        ]
+      }
+    ],
+    "random_key": "75e6841a-4304-4515-9620-2a9a901b8fe0",
+    "image_url": "https://image.torob.com/base/images/bP/dm/bPdmm1gTGZM7ZdWY.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل تاشو کیفی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیفی"
+        ]
+      }
+    ],
+    "random_key": "2385c7c6-da56-4a96-8ee7-557a9b351ad5",
+    "image_url": "https://image.torob.com/base/images/DW/30/DW30GvNwVsmLugpd.jpg"
+  },
+  {
+    "title": "خانه",
+    "group": "نامشخص",
+    "product": "نامشخص",
+    "entities": [],
+    "random_key": "20bef6fd-4503-493e-8845-58bb90925150",
+    "image_url": "https://image.torob.com/base/images/m0/Yo/m0YodyzUZ_FxXMNe.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل qs1160",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "0b83e3f1-0b08-42a9-83a1-989862dd9f99",
+    "image_url": "https://image.torob.com/base/images/Mb/xS/MbxSzooS_CQc_Oag.jpg"
+  },
+  {
+    "title": "ترولی فروشگاهی ابکاری - 150",
+    "group": "نامشخص",
+    "product": "ترولی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "f49b032d-b30c-43dd-8a3c-dcea7cff2754",
+    "image_url": "https://image.torob.com/base/images/-T/Mk/-TMkAwkDN43062S2.jpg"
+  },
+  {
+    "title": "چرخ خرید چهار چرخ {مدل 4 چرخ تاشو}",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "چهار چرخ",
+          "4 چرخ"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "340b73a6-5e81-4665-a8c1-09ac5082d488",
+    "image_url": "https://image.torob.com/base/images/td/9n/td9nS8H8skt7np4B.jpg"
+  },
+  {
+    "title": "سبد خرید فلزی فروشگاهی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "a629377b-1cab-4750-ac7d-ac5bc8ecd5e1",
+    "image_url": "https://image.torob.com/base/images/SF/Zb/SFZbLV-dKVKwefDo.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل تاشو جکدار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "f4df55bb-8a99-4b03-8168-1537a8a20c3b",
+    "image_url": "https://image.torob.com/base/images/sY/zw/sYzwy68yU0aP_zG4.jpg"
+  },
+  {
+    "title": "چرخ خرید 180 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "180 لیتری"
+        ]
+      }
+    ],
+    "random_key": "f7f9ea92-340d-4d4d-a989-457ea1c04942",
+    "image_url": "https://image.torob.com/base/images/Pp/Tz/PpTz3qjNIRe4Hvdv.jpg"
+  },
+  {
+    "title": "چرخ خرید استیل تاشوی Testa",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشوی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Testa"
+        ]
+      }
+    ],
+    "random_key": "707830a2-cbf8-48f4-a1ba-e2a5a4c713ac",
+    "image_url": "https://image.torob.com/base/images/-1/w1/-1w1F-5QdHjlRgdZ.jpg"
+  },
+  {
+    "title": "تایر چرخ دستی خرید قطر 14cm بسته 2 عددی",
+    "group": "نامشخص",
+    "product": "تایر چرخ دستی",
+    "entities": [
+      {
+        "name": "نوع تایر",
+        "values": [
+          "تایر"
+        ]
+      }
+    ],
+    "random_key": "4eef8799-7464-4655-ad7b-2bec2dadc8fc",
+    "image_url": "https://image.torob.com/base/images/xx/1r/xx1rvVTK0zhDlCCI.jpg"
+  },
+  {
+    "title": "چرخ خرید کودک",
+    "group": "کودک",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کودک"
+        ]
+      }
+    ],
+    "random_key": "e6873ffc-c153-4565-829d-2e32ffc7243d",
+    "image_url": "https://image.torob.com/base/images/I_/qd/I_qd9OJkAtDZaCxS.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید کد 12",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "bc3de8d0-aaf1-438b-827a-e0814350054c",
+    "image_url": "https://image.torob.com/base/images/_P/Jc/_PJcXrZEna0jWasr.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید فلزی",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "89075a1f-a410-41e2-b386-c97a83b37963",
+    "image_url": "https://image.torob.com/base/images/ad/8b/ad8bKbBgslFBOPK7.jpg"
+  },
+  {
+    "title": "سبد خرید فروشگاهی-کد1319",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "868cd920-f0d7-465c-889d-4cd9ab9a80c2",
+    "image_url": "https://image.torob.com/base/images/u2/LC/u2LC4YjU8RPrSQUN.jpg"
+  },
+  {
+    "title": "کیسه یدکی چرخ خرید مدل ۳ جیب",
+    "group": "نامشخص",
+    "product": "کیسه یدکی چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه یدکی"
+        ]
+      }
+    ],
+    "random_key": "882aa1c5-ba25-492d-8a6d-bd49d29b1b68",
+    "image_url": "https://image.torob.com/base/images/Q3/XU/Q3XUzH6IoUCk5X-M.jpg"
+  },
+  {
+    "title": "چرخ خرید تستا مدل اسپرت تایر بزرگ (پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تستا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع تایر",
+        "values": [
+          "تایر بزرگ"
+        ]
+      }
+    ],
+    "random_key": "280cde6e-dfb5-47b1-b505-ace8ababa2b5",
+    "image_url": "https://image.torob.com/base/images/6g/N4/6gN4dtv2K9xC9Ejj.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 75 لیتری پلاستیکی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "75 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      }
+    ],
+    "random_key": "194bea1d-dd7b-4698-a569-56693389905a",
+    "image_url": "https://image.torob.com/base/images/pg/PS/pgPSujCZv4dwjmaw.jpg"
+  },
+  {
+    "title": "چرخ خرید اسپرت جگواراعلا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جگواراعلا"
+        ]
+      }
+    ],
+    "random_key": "68a7b76f-30fd-4050-9409-6659f25b9d73",
+    "image_url": "https://image.torob.com/base/images/ex/CH/exCH0aiXRU9a7xc2.jpg"
+  },
+  {
+    "title": "چرخ خرید مینیاتوری صورتی – جدید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینیاتوری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "c1b6caf7-fd82-46e9-a532-11cb60cb3b94",
+    "image_url": "https://image.torob.com/base/images/kn/4c/kn4cbFtCBGoiM2ma.jpg"
+  },
+  {
+    "title": "کیسه چرخ خرید مدل جیب مخفی طرح 2 جیبه",
+    "group": "نامشخص",
+    "product": "کیسه چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه"
+        ]
+      }
+    ],
+    "random_key": "bad4b9b8-6d6d-41a0-8f8b-5b2c183fe634",
+    "image_url": "https://image.torob.com/base/images/Q3/XU/Q3XUzH6IoUCk5X-M.jpg"
+  },
+  {
+    "title": "چرخ خرید گلبرگ مدل 940 تایر بزرگ (پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گلبرگ"
+        ]
+      },
+      {
+        "name": "نوع تایر",
+        "values": [
+          "تایر بزرگ"
+        ]
+      }
+    ],
+    "random_key": "64fe0a31-ce5b-4718-afaf-bb08afdeed16",
+    "image_url": "https://image.torob.com/base/images/U0/hM/U0hMBwwSzMjLCAaK.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل M97",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "2cf0d4de-61e1-45d0-97f3-2c1c71de0874",
+    "image_url": "https://image.torob.com/base/images/HH/iK/HHiKVm0DVX4Pl_d3.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل ویکتوریا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      }
+    ],
+    "random_key": "89057213-dd85-4e0b-af5b-fd8e8a4f91b0",
+    "image_url": "https://image.torob.com/base/images/5k/2X/5k2X0g3wChUfnlTl.jpg"
+  },
+  {
+    "title": "چرخ خرید مارال مدل آکاردئونی دسته ساده",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      },
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "آکاردئونی"
+        ]
+      }
+    ],
+    "random_key": "849f9e81-a1a4-4ede-afb7-1b479b4ece9d",
+    "image_url": "https://image.torob.com/base/images/43/TL/43TLlPeS_soyveNC.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی کد L 80",
+    "group": "نامشخص",
+    "product": "چرخ خرید فروشگاهی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "80 لیتری"
+        ]
+      }
+    ],
+    "random_key": "70acb58b-cb4b-4357-9bac-69ea9fe55f1e",
+    "image_url": "https://image.torob.com/base/images/XB/xi/XBxiw_-QzD-yWIed.jpg"
+  },
+  {
+    "title": "چرخ خرید . سبد خرید . 120 لیتری .کرایه وانت شهری به عهده مشتری( ارسال با باربری بین شهری و پس کرایه ) می باشد",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "120 لیتری"
+        ]
+      }
+    ],
+    "random_key": "942f82fb-74cf-4338-8262-28b57792f13c",
+    "image_url": "https://image.torob.com/base/images/w_/AB/w_ABxKUpuBsvpObj.jpg"
+  },
+  {
+    "title": "چرخ خرید گلبرگ کد 840",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گلبرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "3abcc4a7-cc80-45be-b5c5-67fa422b5cf0",
+    "image_url": "https://image.torob.com/base/images/pq/WT/pqWT88p-jZU3-5x_.jpg"
+  },
+  {
+    "title": "(دسته چرخ خرید)با8 عدد پیچ مخصوص",
+    "group": "نامشخص",
+    "product": "دسته چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "با 8 عدد پیچ مخصوص"
+        ]
+      }
+    ],
+    "random_key": "8946e3cf-ce34-41eb-b603-6ef50f7c5ecb",
+    "image_url": "https://image.torob.com/base/images/Mt/ct/Mtct_YfW86PHdc-1.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید پوشینا کد 541",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پوشینا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ دستی خرید"
+        ]
+      }
+    ],
+    "random_key": "3c79556a-7a95-471f-908a-a457e64cb7dd",
+    "image_url": "https://image.torob.com/base/images/uy/Ig/uyIgmj5S5D4DUMn4.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل فلزی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "27f6b313-29e7-4c90-8b5c-87eaface8c40",
+    "image_url": "https://image.torob.com/base/images/q1/e3/q1e3kPELzUN_Xkdm.jpg"
+  },
+  {
+    "title": "چرخ خرید کد 534 مدل تاشو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "3f6bfe02-3ba4-482f-8cba-329cba6e25d8",
+    "image_url": "https://image.torob.com/base/images/5l/QB/5lQBrlRimq4EWtjv.jpg"
+  },
+  {
+    "title": "چرخ خريد استيل تاشوی تستا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تستا"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید استیل تاشو"
+        ]
+      }
+    ],
+    "random_key": "829491d3-fd03-4fb9-a61c-159a8f4b1f7e",
+    "image_url": "https://image.torob.com/base/images/xk/2_/xk2_J7cwtMXaodHb.jpg"
+  },
+  {
+    "title": "چرخ خرید کد 532",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "fb4fc148-d0d1-4e33-802d-657c3fc2755a",
+    "image_url": "https://image.torob.com/base/images/ey/41/ey41XKJKNIjuuBXd.jpg"
+  },
+  {
+    "title": "چرخ خرید مینیاتوری سبز – جدید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید مینیاتوری"
+        ]
+      }
+    ],
+    "random_key": "7db9cfcb-8a16-42aa-b5d8-01a943a3790d",
+    "image_url": "https://image.torob.com/base/images/Eh/ff/EhffeFHnEDaYqwE0.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل ویکتوریا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "94ac5c6b-1527-4555-8c4e-8049aad8df4b",
+    "image_url": "https://image.torob.com/base/images/7k/iV/7kiVzteM8JfWLizg.jpg"
+  },
+  {
+    "title": "سبد خرید دستی فروشگاهی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سبد خرید دستی فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "7f34dfa8-3806-40bb-a789-1e1532af0139",
+    "image_url": "https://image.torob.com/base/images/b1/55/b155seOaSYhE_clK.jpg"
+  },
+  {
+    "title": "چرخ خرید مینیاتوری آبکاری شده- جدید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید مینیاتوری آبکاری شده"
+        ]
+      }
+    ],
+    "random_key": "b172ff75-a216-43dc-a3a9-b10b59cbaaa1",
+    "image_url": "https://image.torob.com/base/images/IQ/Yk/IQYkfeXUH8ypFIST.jpg"
+  },
+  {
+    "title": "سبد خرید دستی با دسته یکپارچه",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته یکپارچه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سبد خرید دستی"
+        ]
+      }
+    ],
+    "random_key": "79b15790-81da-4732-9e91-446bbb6001f4",
+    "image_url": "https://image.torob.com/base/images/4H/pi/4HpitTseds6ei5Lu.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی فلزی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "36e7e059-14fe-41a2-aeab-3113865eb44e",
+    "image_url": "https://image.torob.com/base/images/ig/QO/igQOuqrhGbZrdIPN.webp"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل ویکتوریا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "deb6e809-7dcc-4a11-8fd3-bfc553473144",
+    "image_url": "https://image.torob.com/base/images/n6/9F/n69FPwCsBlk2wUAz.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 80 لیتری فلزی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "80 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "c57ab95f-9213-4629-b98f-65af5108dddd",
+    "image_url": "https://image.torob.com/base/images/2K/VB/2KVBhz5KCI2_HIOS.jpg"
+  },
+  {
+    "title": "کیسه یدک چرخ خرید مرولین مدل Zapas کد 1910",
+    "group": "نامشخص",
+    "product": "کیسه یدک چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مرولین"
+        ]
+      },
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه یدک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیسه یدک چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "39378d66-1654-498a-a34a-c3dd4105542c",
+    "image_url": "https://image.torob.com/base/images/t4/w0/t4w0o8lWDTa4roYU.jpg"
+  },
+  {
+    "title": "چرخ خرید سایز بزرگ حمل آسان با کیفیت عالی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "حمل آسان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بزرگ"
+        ]
+      }
+    ],
+    "random_key": "40022816-6276-421f-a398-3ef105b0ea05",
+    "image_url": "https://image.torob.com/base/images/2S/dP/2SdPlm6r0JCEHTb8.jpg"
+  },
+  {
+    "title": "ترولی چرخ خرید 210 لیتری",
+    "group": "نامشخص",
+    "product": "ترولی",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "210 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ترولی"
+        ]
+      }
+    ],
+    "random_key": "f129aaf8-3ad6-4ad2-9e0c-4aa1d110f19d",
+    "image_url": "https://image.torob.com/base/images/_c/lF/_clFn-hFcN7PXpOS.jpg"
+  },
+  {
+    "title": "سبد خرید بای کارت تسما",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تسما"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بای کارت"
+        ]
+      }
+    ],
+    "random_key": "a65e3123-3b56-4f61-9f79-bc7b247a1c53",
+    "image_url": "https://image.torob.com/base/images/P7/XV/P7XV00Waxm38TDi3.jpg"
+  },
+  {
+    "title": "سبد خرید دستی فروشگاهی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "df43c8ef-e40f-4034-beae-f142fd182b44",
+    "image_url": "https://image.torob.com/base/images/-Z/Ad/-ZAdeMKRt4hLXEWI.jpg"
+  },
+  {
+    "title": "سبد خرید دستی فروشگاهی فلزی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "d3c73944-94b6-4484-9883-154f1bd5c677",
+    "image_url": "https://image.torob.com/base/images/Zk/Ew/ZkEwSoDbr40FtaO9.webp"
+  },
+  {
+    "title": "چرخ خرید مقاوم با تایر بزرگ (هزینه ی ارسال بر عهده ی مشتری است)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مقاوم"
+        ]
+      },
+      {
+        "name": "نوع تایر",
+        "values": [
+          "تایر بزرگ"
+        ]
+      }
+    ],
+    "random_key": "30cd323a-89b2-4b6a-bf2e-94065c44cff3",
+    "image_url": "https://image.torob.com/base/images/SD/HV/SDHVRfdwPjwl_f6u.jpg"
+  },
+  {
+    "title": "ساک دستی تاشو چرخدار",
+    "group": "نامشخص",
+    "product": "ساک دستی",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخدار"
+        ]
+      }
+    ],
+    "random_key": "d5b80990-9f00-4703-8793-9d280b801a28",
+    "image_url": "https://image.torob.com/base/images/Vr/Mw/VrMwT7kWtcRACG63.jpg"
+  },
+  {
+    "title": "سبد چرخ خرید کودک ساحل",
+    "group": "کودک",
+    "product": "سبد چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساحل"
+        ]
+      }
+    ],
+    "random_key": "294e5dc8-1300-45a2-ab10-99fae890e24a",
+    "image_url": "https://image.torob.com/base/images/fe/Nt/feNtgdJAUEb5Vmgp.jpg"
+  },
+  {
+    "title": "سبد خرید فروشگاهی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "c1c4d57b-4def-48aa-9700-7d4c5201c67c",
+    "image_url": "https://image.torob.com/base/images/Jn/5Q/Jn5QAZKGvHxTs2GT.jpg"
+  },
+  {
+    "title": "چرخ خرید مرولین واگن 9011",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مرولین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "واگن 9011"
+        ]
+      }
+    ],
+    "random_key": "6bcad140-1090-4e28-b9a1-00cdbfa7d0c7",
+    "image_url": "https://image.torob.com/base/images/0E/wP/0EwPohlrPpFG9MoA.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی فلزی 80لیتری باچرخ بلبرینگی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "80 لیتری"
+        ]
+      },
+      {
+        "name": "نوع تایر",
+        "values": [
+          "بلبرینگی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "245d4738-b5a1-4376-bcc9-d66afb9a18ae",
+    "image_url": "https://image.torob.com/base/images/g2/XZ/g2XZXx9tcs-ffXju.jpg"
+  },
+  {
+    "title": "چرخ خرید گلبرگ کد 940 مشکی آبی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گلبرگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کد 940"
+        ]
+      }
+    ],
+    "random_key": "fdbf380c-4b8f-427f-932f-0387e354ab13",
+    "image_url": "https://image.torob.com/base/images/--/On/--OnPRLAlqPhYj6Q.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی ساینادو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ساینادو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "61d0b1de-fe50-4b2d-ba5a-abc902b9521c",
+    "image_url": "https://image.torob.com/base/images/D6/aT/D6aTwxPUTop7RV0Z.jpeg"
+  },
+  {
+    "title": "چرخ خرید کیف دار برزنتی 2 حالته Canvas shopping cart",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیف دار"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "برزنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کانواس"
+        ]
+      }
+    ],
+    "random_key": "8ef6bfef-0f4c-4f0d-a77e-38a01616fced",
+    "image_url": "https://image.torob.com/base/images/s6/gt/s6gt5xGvKl38_IYr.jpg"
+  },
+  {
+    "title": "چرخ خرید پلاستیکی استوانه ای 70 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "70 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "استوانه ای"
+        ]
+      }
+    ],
+    "random_key": "29ca3221-8140-4bcf-8f54-24ed0f3ea846",
+    "image_url": "https://image.torob.com/base/images/jU/N3/jUN3d_iXwsQ_y1lL.jpg"
+  },
+  {
+    "title": "چرخ خرید آسان بر",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت حرکت",
+        "values": [
+          "آسان بر"
+        ]
+      }
+    ],
+    "random_key": "69c249ec-a9fb-436b-9695-74379a93c708",
+    "image_url": "https://image.torob.com/base/images/aa/0T/aa0Ts3Y-B4icLJWs.jpg"
+  },
+  {
+    "title": "چرخ فروشگاهی پلاستیکی 70 لیتر",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "70 لیتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "3ede33c6-0afb-4f11-996a-df983c7d3af3",
+    "image_url": "https://image.torob.com/base/images/YR/4l/YR4lMDJQChW4ZGP1.jpg"
+  },
+  {
+    "title": "چرخ خريد صندلي دار آراد (101)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "صندلی دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آراد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "صندلی دار"
+        ]
+      }
+    ],
+    "random_key": "4a10d019-9488-4dad-912f-100ad4025cb9",
+    "image_url": "https://image.torob.com/base/images/s7/t6/s7t6Z8FrnmUSNFIa.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید مدل AM1256",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدل AM1256"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "dbd879c2-c646-4f4b-aa95-51c70ea08502",
+    "image_url": "https://image.torob.com/base/images/1V/B-/1VB-fnmVO-uhECmm.jpg"
+  },
+  {
+    "title": "چرخ خرید پله رو صندلی دار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "صندلی دار"
+        ]
+      },
+      {
+        "name": "قابلیت حرکت",
+        "values": [
+          "پله رو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پله رو"
+        ]
+      }
+    ],
+    "random_key": "23f560e8-cdfd-4748-a2e7-ef70dac156b4",
+    "image_url": "https://image.torob.com/base/images/iu/tK/iutKvilGnCK9Rkpk.jpg"
+  },
+  {
+    "title": "چرخ فروشگاهی 90 لیتری آریا رنگ طوسی ساخت ایران",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "90 لیتری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آریا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "f67344c5-0a29-4229-a00d-9aec9da3aa71",
+    "image_url": "https://image.torob.com/base/images/sU/qL/sUqLq1FKlzzvRtER.webp"
+  },
+  {
+    "title": "چرخ خرید و نگهداری مواد غذایی تاشو شیائومی Foldable Xiaomi Maiwei Food Storage Container 35L TN-SNX01",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "35L"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگهداری مواد غذایی"
+        ]
+      }
+    ],
+    "random_key": "205bb242-9a95-43af-8b9a-8a4ed0f016b5",
+    "image_url": "https://image.torob.com/base/images/Ia/7J/Ia7JjyVwkkHt1J4W.jpg"
+  },
+  {
+    "title": "چرخ خرید سیمی میعاد",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "سیمی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میعاد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سیمی"
+        ]
+      }
+    ],
+    "random_key": "9f775211-686f-42eb-bb22-9b0e65e41723",
+    "image_url": "https://image.torob.com/base/images/id/Fw/idFwduYz1f2OiVVy.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل ویکتوریا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مدل ویکتوریا"
+        ]
+      }
+    ],
+    "random_key": "1ae38592-ee92-4ace-b2b2-fbae5e097496",
+    "image_url": "https://image.torob.com/base/images/ga/PX/gaPX-EFd5-F7vsZT.jpg"
+  },
+  {
+    "title": "سبد خرید بدون چرخ رنگ قرمز، ساخت ترکیه",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "بدون چرخ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بدون چرخ"
+        ]
+      }
+    ],
+    "random_key": "6b5d9bf2-0b7d-40b5-b219-aee0290cf321",
+    "image_url": "https://image.torob.com/base/images/pa/QA/paQAaKcGmpVETXeA.jpg"
+  },
+  {
+    "title": "چرخ خرید طرح چینی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "طرح چینی"
+        ]
+      }
+    ],
+    "random_key": "2d36a45d-7e45-4851-8e62-ffb708f7bb86",
+    "image_url": "https://image.torob.com/base/images/8X/CW/8XCW5ftHKSAQFDME.jpg"
+  },
+  {
+    "title": "چرخ خرید خانگی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      }
+    ],
+    "random_key": "a809b5aa-c77a-4011-b298-0af02c143aae",
+    "image_url": "https://image.torob.com/base/images/21/HY/21HYwL1DrDbU_QEf.jpg"
+  },
+  {
+    "title": "چرخ خريد فروشگاهی ١٢٠ ليتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "120 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "eabb3be5-e61c-4967-a187-ab7133e5c073",
+    "image_url": "https://image.torob.com/base/images/Ci/Kc/CiKcZbLDLyUbpEFG.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل پله رو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت حرکت",
+        "values": [
+          "پله رو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پله رو"
+        ]
+      }
+    ],
+    "random_key": "a77e3fde-2b47-4334-93e9-2825e246eaab",
+    "image_url": "https://image.torob.com/base/images/xa/l6/xal6uhXAjLhfMag7.jpg"
+  },
+  {
+    "title": "چرخ خرید میعاد کد Mi1001",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میعاد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کد Mi1001"
+        ]
+      }
+    ],
+    "random_key": "df5ee1c3-1e23-4920-8555-665dcf496a23",
+    "image_url": "https://image.torob.com/base/images/Uj/8Y/Uj8Y_rje84u3LOOB.jpg"
+  },
+  {
+    "title": "سبد خرید دستی 30 در 40 سانتی متری",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "دستی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "972786d8-1b66-47cf-afdd-e39509148222",
+    "image_url": "https://image.torob.com/base/images/YH/pQ/YHpQaDmdhxphir6T.jpg"
+  },
+  {
+    "title": "سبد خرید SUNRISE با چرخ برای مواد غذایی، سبد خرید تاشو برای ذخیره سازی راحت، با چرخ های چرخشی 360 درجه، چرخ دستی برای لباسشویی، خواربار، سفر (بزرگ) - ارسال 20 روز کاری",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "SUNRISE"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "چرخ های چرخشی 360 درجه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "برای مواد غذایی"
+        ]
+      }
+    ],
+    "random_key": "393087f7-a75e-473b-b83d-879aaf0d09f4",
+    "image_url": "https://image.torob.com/base/images/_w/qd/_wqdGLZ8Eqy5v8tP.jpg"
+  },
+  {
+    "title": "Maral shopping cart532",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Maral"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "shopping cart"
+        ]
+      }
+    ],
+    "random_key": "3dce7523-20d8-4963-ab3e-8ae2a9b01f66",
+    "image_url": "https://image.torob.com/base/images/5G/KD/5GKDxaABs0b6_0nu.jpg"
+  },
+  {
+    "title": "چرخ خرید سایز بزرگ (پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "وزن",
+        "values": [
+          "سایز بزرگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "61cfaece-e2bd-4b41-b03d-dc253a714f66",
+    "image_url": "https://image.torob.com/base/images/G3/BT/G3BTFy3zTPNm5bQ0.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو کد 533 همراه دسته اضافه",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "دسته اضافه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "d5002a66-a246-4fc9-aaff-f966f5c69aba",
+    "image_url": "https://image.torob.com/base/images/BZ/yu/BZyuW8HZbkTf52bb.jpg"
+  },
+  {
+    "title": "چرخ خرید گرین لاین مدل Heavy Duty Wagon Cart",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گرین لاین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "Heavy Duty Wagon Cart"
+        ]
+      }
+    ],
+    "random_key": "bf6714fa-5fb7-431c-b7b2-2c3d7a05e8ff",
+    "image_url": "https://image.torob.com/base/images/hU/Wl/hUWlcRYlRpFMgUV_.jpg"
+  },
+  {
+    "title": "چرخ خرید کیفی مدل رز",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیفی"
+        ]
+      }
+    ],
+    "random_key": "bc12be05-1183-4e96-973d-5abe0dc2fc69",
+    "image_url": "https://image.torob.com/base/images/az/lf/azlfeUR4kbuXz78M.jpg"
+  },
+  {
+    "title": "چرخ خرید بازی همراه اسباب بازی خرید",
+    "group": "کودک",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "اسباب بازی خرید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بازی"
+        ]
+      }
+    ],
+    "random_key": "e5382d99-81c9-4d6b-9603-c2be96defffd",
+    "image_url": "https://image.torob.com/base/images/NA/iw/NAiwA4ot7O9b0F_p.jpg"
+  },
+  {
+    "title": "چرخ خرید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "4d22c498-60ef-4678-a1e9-7f06b99c0f97",
+    "image_url": "https://image.torob.com/base/images/t1/El/t1ElSaPy1ZbZvli3.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی کد 90L",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "90 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "4c987783-17b8-4e50-9753-770a5156fbd8",
+    "image_url": "https://image.torob.com/base/images/6a/ip/6aiply12_HV75DuR.jpg"
+  },
+  {
+    "title": "چرخ خرید خانگی جیمی (GIMI) مدل IDEAL BLUE",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جیمی (GIMI)"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      }
+    ],
+    "random_key": "5d8f3563-c18b-43de-acab-b919d4a5030b",
+    "image_url": "https://image.torob.com/base/images/nc/zF/nczFFcYzjbxcsvwu.jpg"
+  },
+  {
+    "title": "چرخ خرید مای وی مدل TN-SNX02",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مای وی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "11b03785-6d3b-4d91-b8ff-f4dc4a512824",
+    "image_url": "https://image.torob.com/base/images/FA/2m/FA2mhrIanT2aOFhK.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 120 لیتری فلزی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "120 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "037d86da-c79a-4e8c-9b04-beb0f57a15d6",
+    "image_url": "https://image.torob.com/base/images/XO/dS/XOdSdg3ap-7jJgD-.jpg"
+  },
+  {
+    "title": "کیسه کالسکه خرید گلوکلوز چرخ دستی خواربار گاری چرخ دستی تاشو پله نوردی گاری دالی با سه چرخ برای لباسشویی، مسافرت، دفتر، مدرسه، حمل و نقل (آبی تیره) - ارسال 20 روز کاری",
+    "group": "نامشخص",
+    "product": "کیسه کالسکه خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "سه چرخ"
+        ]
+      },
+      {
+        "name": "قابلیت حرکت",
+        "values": [
+          "پله نوردی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی تیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالسکه خرید",
+          "چرخ دستی خواربار",
+          "گاری چرخ دستی",
+          "گاری دالی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "برای لباسشویی، مسافرت، دفتر، مدرسه، حمل و نقل"
+        ]
+      }
+    ],
+    "random_key": "cd646bd4-33b2-41b2-8412-153fde7fb59d",
+    "image_url": "https://image.torob.com/base/images/M-/s4/M-s4TdA2xWLiVYNf.jpg"
+  },
+  {
+    "title": "چرخ خرید 120 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "120 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "7590f55e-9053-4da1-bd68-01d1dd2c8bfe",
+    "image_url": "https://image.torob.com/base/images/Ci/Kc/CiKcZbLDLyUbpEFG.jpg"
+  },
+  {
+    "title": "چرخ خرید و نگهداری مواد غذایی تاشو شیائومی Foldable Xiaomi Maiwei Food Storage Container 35L TN-SNX01",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "35 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید و نگهداری مواد غذایی",
+          "Foldable Xiaomi Maiwei Food Storage Container"
+        ]
+      }
+    ],
+    "random_key": "3364d0e7-0077-400f-9e17-69548ce36162",
+    "image_url": "https://image.torob.com/base/images/Ia/7J/Ia7JjyVwkkHt1J4W.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی تاشو کد534 به همراه کیسه خرید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه خرید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید دستی"
+        ]
+      }
+    ],
+    "random_key": "14175f4b-2ce9-44ac-9426-aed7f4e00f1c",
+    "image_url": "https://image.torob.com/base/images/O1/lG/O1lGiW4pldnWZspA.jpg"
+  },
+  {
+    "title": "سبد خرید بدون چرخ دو دسته 28 لیتری پلاستیکی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "بدون چرخ"
+        ]
+      },
+      {
+        "name": "تعداد دسته",
+        "values": [
+          "دو دسته"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "28 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سبد خرید"
+        ]
+      }
+    ],
+    "random_key": "9f00a41b-1171-4029-b55b-0b7b5eed88a9",
+    "image_url": "https://image.torob.com/base/images/Z_/ok/Z_okPKd6XLIR0jex.jpg"
+  },
+  {
+    "title": "سبد خرید فروشگاهی مدل دستی s10 بسته 5 عددی ( ارسال با تیپاکس به صورت پس کرایه بر عهده میباشد )",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "a6b11ad3-b9a3-4adf-8056-ed7273716b5c",
+    "image_url": "https://image.torob.com/base/images/-W/-X/-W-XFWg8q61v49Bq.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی مدل 531",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "500148f6-6123-4192-b174-0cb9670ac8cb",
+    "image_url": "https://image.torob.com/base/images/2E/Fe/2EFe2oHQuVzWyvcA.jpg"
+  },
+  {
+    "title": "چرخ خرید دلنواز مدل پایا (پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "2df004ff-ca72-4d53-a114-b50ed8312eca",
+    "image_url": "https://image.torob.com/base/images/En/uq/EnuqNvt0PAhXnwMC.jpg"
+  },
+  {
+    "title": "چرخ فروشگاهی80لیتری-کد8060",
+    "group": "نامشخص",
+    "product": "چرخ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "80 لیتری"
+        ]
+      }
+    ],
+    "random_key": "919cf1de-1a86-4c66-9c56-79f05d023566",
+    "image_url": "https://image.torob.com/base/images/WR/uL/WRuLaiteJg8L7s04.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل رینگ اسپرت ساک خرید چرخ دار، پس کرایه، هزینه ارسال محصول با خود مشتری درب منزل می باشد",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع تایر",
+        "values": [
+          "رینگ اسپرت"
+        ]
+      }
+    ],
+    "random_key": "2047811f-336a-424e-8ea1-5e256536d41a",
+    "image_url": "https://image.torob.com/base/images/Kr/U5/KrU5vWBPEKEn62DQ.jpg"
+  },
+  {
+    "title": "شومیز مانتویی مدل آنیا",
+    "group": "زنانه",
+    "product": "شومیز مانتویی",
+    "entities": [],
+    "random_key": "c9cba040-7889-4c26-b61e-a248a08a57a5",
+    "image_url": "https://image.torob.com/base/images/6W/D3/6WD3pwW3ZwRwevlZ.jpg"
+  },
+  {
+    "title": "سبد و چرخ خرید تاشو مدل رز",
+    "group": "نامشخص",
+    "product": "سبد و چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "47d39c9e-6055-4044-959d-f71a8c0cb350",
+    "image_url": "https://image.torob.com/base/images/zt/ZI/ztZID_rGPmVFzQQE.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو شکیبا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "c190178a-6025-49ff-a9c3-d007b93033d3",
+    "image_url": "https://image.torob.com/base/images/sw/JP/swJPpkG6m5ppdT3I.jpg"
+  },
+  {
+    "title": "کیسه یدک چرخ دستی خرید اسپرت (پس کرایه)",
+    "group": "نامشخص",
+    "product": "کیسه چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه یدک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "67271ba9-603e-4cab-94df-b9ae8e849918",
+    "image_url": "https://image.torob.com/base/images/gC/DK/gCDKMyASUXStJ66s.jpg"
+  },
+  {
+    "title": "چرخ خرید ساک خرید چرخدار و رنگ بندی متفاوت و زیبا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگ بندی متفاوت و زیبا"
+        ]
+      }
+    ],
+    "random_key": "491faf39-c1f7-4958-b871-1ef2f771f558",
+    "image_url": "https://image.torob.com/base/images/GO/j2/GOj2g4JqOS7i3h-v.jpg"
+  },
+  {
+    "title": "چرخ خرید دسته یونیک",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته یونیک"
+        ]
+      }
+    ],
+    "random_key": "1fce52bf-8dfb-4022-b4d9-19c1d19fe485",
+    "image_url": "https://image.torob.com/base/images/Ch/dv/ChdvdFDVOvSVY2Z2.jpg"
+  },
+  {
+    "title": "چرخ خرید گلبرگ کد 940 مشکی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گلبرگ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "9fd0c022-1ea7-4921-b77d-50de814bd718",
+    "image_url": "https://image.torob.com/base/images/nF/-d/nF-dgoyEbuTiJoFT.jpg"
+  },
+  {
+    "title": "چرخ سر کیسه دوز نیولانگ چین NP 7A",
+    "group": "نامشخص",
+    "product": "چرخ سر کیسه دوز",
+    "entities": [],
+    "random_key": "2ba68c2d-d527-432e-873d-bb84ac809623",
+    "image_url": "https://image.torob.com/base/images/9F/Ee/9FEeWSmAn_YceJjk.jpg"
+  },
+  {
+    "title": "کیسه یدکی چرخ خرید ، کیف یدکی چرخ خرید",
+    "group": "نامشخص",
+    "product": "کیسه یدکی چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه یدکی"
+        ]
+      }
+    ],
+    "random_key": "0147d45b-94d8-4aae-87b1-fe1ebf5651c2",
+    "image_url": "https://image.torob.com/base/images/Pq/xw/PqxwVQUaq1zEk_lg.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل گلوریا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      }
+    ],
+    "random_key": "f0ea484b-c9f1-4a30-a2e9-96de7a3999f9",
+    "image_url": "https://image.torob.com/base/images/mc/Xu/mcXuG8AsA-leere_.jpg"
+  },
+  {
+    "title": "تهیای چرخ و پرای درخت",
+    "group": "نامشخص",
+    "product": "تهیای چرخ",
+    "entities": [],
+    "random_key": "fed56139-4b7e-4cc6-a1e9-688d2b60f00b",
+    "image_url": "https://image.torob.com/base/images/xb/KB/xbKBnYcyAbKeJBzg.jpg"
+  },
+  {
+    "title": "چرخ خرید مای وی مدل TN-SNX01",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مای وی"
+        ]
+      }
+    ],
+    "random_key": "af5d79db-54bd-4eaa-8043-a2154f210f58",
+    "image_url": "https://image.torob.com/base/images/lA/w4/lAw4NbldqKZ8-CWa.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید مدل CH1",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "c5659e8e-30fd-46c4-a902-85736b8c9c9d",
+    "image_url": "https://image.torob.com/base/images/Ya/-H/Ya-HBXq5alHHvruX.jpg"
+  },
+  {
+    "title": "دسته یدک چرخ خرید تستا اسپرت",
+    "group": "نامشخص",
+    "product": "دسته یدک چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تستا"
+        ]
+      },
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته یدک",
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "793c7076-6fb4-4542-86ec-bd03417e239b",
+    "image_url": "https://image.torob.com/base/images/EK/tp/EKtpgE0KSKIvDt14.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "a50bccf4-f138-43f3-8bf4-32e5bb9518b6",
+    "image_url": "https://image.torob.com/base/images/Ka/f3/Kaf3vcw9jt_cm7fC.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو mia کد Mia02",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "mia"
+        ]
+      }
+    ],
+    "random_key": "a67382b5-d150-4610-b550-a567de5ef732",
+    "image_url": "https://image.torob.com/base/images/6q/5z/6q5zMDORoDoA7bvX.jpg"
+  },
+  {
+    "title": "سبد خرید ، ساک خرید ، زنبیل خرید",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [],
+    "random_key": "6b36a577-bb9d-44fe-af2d-68972d1f0d76",
+    "image_url": "https://image.torob.com/base/images/eZ/q4/eZq4CCLhcPrUr0pZ.jpg"
+  },
+  {
+    "title": "چرخ خرید گلبرگ مدل لارج ۸۴۰",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گلبرگ"
+        ]
+      }
+    ],
+    "random_key": "fa59f9f9-abc2-4d1c-84b1-94cab4a73875",
+    "image_url": "https://image.torob.com/base/images/aA/nL/aAnLcEMr22ca0knK.webp"
+  },
+  {
+    "title": "چرخ خرید مرولین مدل تاشو Flexi",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مرولین"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "a3ff7253-da8b-4508-abb7-05f18601767b",
+    "image_url": "https://image.torob.com/base/images/4D/oO/4DoOr1lnffmUxhJI.webp"
+  },
+  {
+    "title": "چرخ خرید کد 1",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "c44b726c-0988-476e-8e9f-03c00e178b2f",
+    "image_url": "https://image.torob.com/base/images/o4/qr/o4qr_Has9xaAoU1X.jpg"
+  },
+  {
+    "title": "چرخ خرید کیفی مدل رز",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کیفی"
+        ]
+      }
+    ],
+    "random_key": "b48f0d52-f561-425c-a70c-4731543b391b",
+    "image_url": "https://image.torob.com/base/images/Ur/cq/Urcq-U_6jTZ8LyB4.jpg"
+  },
+  {
+    "title": "چرخ خرید و نگهداری مواد غذایی تاشو شیائومی Foldable Xiaomi Maiwei Food Storage Container 35L TN-SNX01",
+    "group": "نامشخص",
+    "product": "چرخ خرید و نگهداری مواد غذایی",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "35L"
+        ]
+      }
+    ],
+    "random_key": "b9f556e9-2f88-4088-bba5-6cc1863646f3",
+    "image_url": "https://image.torob.com/base/images/Ia/7J/Ia7JjyVwkkHt1J4W.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی تاشو کد534",
+    "group": "نامشخص",
+    "product": "چرخ خرید دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "6616f7ca-b582-487e-93ac-d6ed687b3f40",
+    "image_url": "https://image.torob.com/base/images/TX/Sm/TXSmBsnbE199MsY6.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید کد 541",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "eb0a0e2d-6b75-4e3a-94b4-f6d67ac1b9e4",
+    "image_url": "https://image.torob.com/base/images/Po/R-/PoR-142QL5QiKq_h.jpg"
+  },
+  {
+    "title": "چرخ خرید مینیاتوری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مینیاتوری"
+        ]
+      }
+    ],
+    "random_key": "0cb84c1c-2db3-4d8d-9a7d-a568caf1a4be",
+    "image_url": "https://image.torob.com/base/images/MK/7f/MK7foZOCDroG5l72.jpg"
+  },
+  {
+    "title": "چرخ خرید برزنتی کیفیت عالی (پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "برزنتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی"
+        ]
+      }
+    ],
+    "random_key": "25f7e7a5-3c5c-45c2-a5dd-e3ff2da281d9",
+    "image_url": "https://image.torob.com/base/images/d5/Ee/d5EeLO8mrMVzYYDt.jpg"
+  },
+  {
+    "title": "ساک خرید تاشو",
+    "group": "نامشخص",
+    "product": "ساک خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "cf48803d-4fbe-4a8a-a23d-31ffbe5ab3e9",
+    "image_url": "https://image.torob.com/base/images/O1/_X/O1_Xw5sViPAaOyGp.jpg"
+  },
+  {
+    "title": "خرید هاردکیس برزنتی چرخدار [تولید شده از برزنت درجه 1]",
+    "group": "نامشخص",
+    "product": "هاردکیس برزنتی",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "برزنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخدار"
+        ]
+      }
+    ],
+    "random_key": "47733816-9f31-495a-aff9-c14d2d0be0d1",
+    "image_url": "https://image.torob.com/base/images/2E/1o/2E1oMsJUBRqHAArS.jpg"
+  },
+  {
+    "title": "چرخ خرید مارال 2",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      }
+    ],
+    "random_key": "99da9dd0-939c-4559-b161-a2be0d1c1563",
+    "image_url": "https://image.torob.com/base/images/px/zi/pxzibXNDgNwLcCNS.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی طرح سنتی 2 جیبه",
+    "group": "نامشخص",
+    "product": "چرخ خرید دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "طرح سنتی"
+        ]
+      }
+    ],
+    "random_key": "4fe579f2-5604-4a4c-9d53-c5a50e813eab",
+    "image_url": "https://image.torob.com/base/images/qN/lH/qNlH3Wx7zU3gGbw_.jpg"
+  },
+  {
+    "title": "چرخ خرید اسپرت",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "9e84765f-2fa6-40de-999a-607819433d2d",
+    "image_url": "https://image.torob.com/base/images/fg/Hl/fgHl5KxiWIaFoAh5.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل s1",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "395db60e-8360-470d-b8d7-47661263181a",
+    "image_url": "https://image.torob.com/base/images/jO/5T/jO5TJXTUxSKbWaEr.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 80 لیتری(پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "80 لیتری"
+        ]
+      }
+    ],
+    "random_key": "f037a80a-2cd4-47f4-b206-758d084a8d66",
+    "image_url": "https://image.torob.com/base/images/pw/Gr/pwGrSriOWm7W9OES.jpg"
+  },
+  {
+    "title": "چرخ خرید کد 160L",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "f2204952-00e5-4e6c-8714-6798a6a0d532",
+    "image_url": "https://image.torob.com/base/images/4x/mt/4xmtmJhwL_L19EcD.jpg"
+  },
+  {
+    "title": "چرخ خرید لوله ضخیم ،( لطفاً موجودی بگیرید)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "لوله ضخیم"
+        ]
+      }
+    ],
+    "random_key": "a5631937-d23d-45f1-922b-7d6b0e4a7941",
+    "image_url": "https://image.torob.com/base/images/4W/sb/4WsbPfywRVgOCqQk.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل گلوریا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "95d48a65-9e71-446f-b91a-7fc0c9dd5fc8",
+    "image_url": "https://image.torob.com/base/images/8u/YK/8uYKBZzY7DlJmmOc.jpg"
+  },
+  {
+    "title": "کیف خرید کتان چرخ رنگی",
+    "group": "نامشخص",
+    "product": "کیف خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "a17c6216-763c-4d06-a59e-b3dc7bbc5649",
+    "image_url": "https://image.torob.com/base/images/ox/jC/oxjCwqs116r2-4lL.jpg"
+  },
+  {
+    "title": "سبد خرید با چرخ بالا بلبرینگی",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع تایر",
+        "values": [
+          "بلبرینگی"
+        ]
+      }
+    ],
+    "random_key": "279796f7-2833-497e-8f72-d6088b454a3c",
+    "image_url": "https://image.torob.com/base/images/qQ/z6/qQz6FZFj6t0L9pav.jpg"
+  },
+  {
+    "title": "چرخ خرید خانگی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      }
+    ],
+    "random_key": "180d15e0-6b0e-47d4-bb4e-07df1126da70",
+    "image_url": "https://image.torob.com/base/images/fN/0x/fN0xM9a3rkn2zrXl.jpg"
+  },
+  {
+    "title": "چرخ خرید گلبرگ کد 8400",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "گلبرگ"
+        ]
+      }
+    ],
+    "random_key": "9adfbd6e-61df-4496-a65a-223978c06eb6",
+    "image_url": "https://image.torob.com/base/images/iE/zw/iEzw6CZl7ATlP1hO.jpg"
+  },
+  {
+    "title": "چرخ خرید پونه",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پونه"
+        ]
+      }
+    ],
+    "random_key": "8e49c376-1dab-469c-ab9e-d8a8b32e0245",
+    "image_url": "https://image.torob.com/base/images/n3/bG/n3bGBtf8b3-L-FX-.jpg"
+  },
+  {
+    "title": "چرخ خرید با وسایل",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "همراه با وسایل"
+        ]
+      }
+    ],
+    "random_key": "4e3ac994-0a46-4b89-b66f-53843370cdb7",
+    "image_url": "https://image.torob.com/base/images/vS/uR/vSuR6wkiOovSlcAr.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل صندلی دار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "صندلی دار"
+        ]
+      }
+    ],
+    "random_key": "38d2b054-dfd8-47c5-86d6-985c956d38ab",
+    "image_url": "https://image.torob.com/base/images/dz/i7/dzi7S2Mj2_1qi8RJ.jpg"
+  },
+  {
+    "title": "کالسکه فروشگاهی 60 لیتری",
+    "group": "نامشخص",
+    "product": "کالسکه فروشگاهی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "60 لیتری"
+        ]
+      }
+    ],
+    "random_key": "0a3577da-fdee-4c5b-a4da-c22b39f7a2d9",
+    "image_url": "https://image.torob.com/base/images/HR/YA/HRYAYaL6cyydDTYb.jpg"
+  },
+  {
+    "title": "پک ویژه. چرخ تاشو و کیسه وتایر و دسته باهم سبد خرید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه",
+          "تایر",
+          "دسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سبد خرید"
+        ]
+      }
+    ],
+    "random_key": "9497724e-0910-445b-bded-7ffb1cd2c536",
+    "image_url": "https://image.torob.com/base/images/7n/hW/7nhWY-9mlWb2bcf1.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 240 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید فروشگاهی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "240 لیتری"
+        ]
+      }
+    ],
+    "random_key": "fb752bfe-a7a2-4f99-9087-bde3b9e96f31",
+    "image_url": "https://image.torob.com/base/images/BW/x8/BWx8Zqhiq4vi4VFK.webp"
+  },
+  {
+    "title": "چرخ فروشگاهی 120لیتری-کد8061",
+    "group": "نامشخص",
+    "product": "چرخ فروشگاهی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "120 لیتری"
+        ]
+      }
+    ],
+    "random_key": "ccb8d2c5-3578-40c0-b34a-fb511132e65f",
+    "image_url": "https://image.torob.com/base/images/CT/TY/CTTYHYzy88Y-kWcE.jpg"
+  },
+  {
+    "title": "چرخ خرید برزنتی وچرخدار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "برزنتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخدار"
+        ]
+      }
+    ],
+    "random_key": "b6ef47fd-018f-4306-9735-cd95f2733123",
+    "image_url": "https://image.torob.com/base/images/sZ/oM/sZoMQcqXYWfZrunm.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید پرانی مدل 1007",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پرانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ دستی خرید"
+        ]
+      }
+    ],
+    "random_key": "aa5046f3-f741-42ad-ab6d-396a71525c35",
+    "image_url": "https://image.torob.com/base/images/Lt/Ko/LtKosLsKrlPaGZtw.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو شیائومی Maiwei مدل TN-SNX02 بزرگ",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "c80b8533-317f-4ebd-b19b-09740e312c6b",
+    "image_url": "https://image.torob.com/base/images/J4/bt/J4btsVo725gojC1f.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک کد 005",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      }
+    ],
+    "random_key": "a5697f07-6cba-4c83-9b99-21cfdf6aa7c4",
+    "image_url": "https://image.torob.com/base/images/zn/hj/znhj0IVjd2-oUG8M.jpg"
+  },
+  {
+    "title": "دسته یدک چرخ خرید مارال مدل اسپرت (پس کرایه)",
+    "group": "نامشخص",
+    "product": "دسته یدک چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      },
+      {
+        "name": "نوع دسته",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "دسته یدک"
+        ]
+      }
+    ],
+    "random_key": "fd1d7c86-8b3b-4577-90f1-d62a4b290cf7",
+    "image_url": "https://image.torob.com/base/images/3I/kK/3IkKiNne8lKNEO2G.jpg"
+  },
+  {
+    "title": "ساک خرید تاشو",
+    "group": "نامشخص",
+    "product": "ساک خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "5587e82f-aba0-40f8-82a4-4b58311cab62",
+    "image_url": "https://image.torob.com/base/images/gn/zz/gnzzIL6g7316fZff.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید مدل splus",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ دستی خرید"
+        ]
+      }
+    ],
+    "random_key": "86a232c9-f196-4de8-9a43-cc4f04763823",
+    "image_url": "https://image.torob.com/base/images/Ud/QE/UdQEy4Y5TQD-t914.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل کاملاً تاشو طرح کوچک شونده",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "وزن",
+        "values": [
+          "کوچک شونده"
+        ]
+      }
+    ],
+    "random_key": "2c880374-a471-41c5-b3f3-8ed6a8d25eb6",
+    "image_url": "https://image.torob.com/base/images/ar/4B/ar4BmmaWUpNNXwOO.jpg"
+  },
+  {
+    "title": "چرخ خرید با وسایل",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "وسایل"
+        ]
+      }
+    ],
+    "random_key": "3ba29cad-16b1-4a73-848c-a2264bf72374",
+    "image_url": "https://image.torob.com/base/images/W6/MG/W6MGISng0fsVZ8vM.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل qs1387",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [],
+    "random_key": "b326ceb6-0aed-4cd2-8e0d-49fb94681bd1",
+    "image_url": "https://image.torob.com/base/images/_Z/Pq/_ZPqBpVNl6AVqgpx.jpg"
+  },
+  {
+    "title": "چرخ خرید و نگهداری مواد غذایی تاشو شیائومی Foldable Xiaomi Maiwei Food Storage Container 35L TN-SNX01",
+    "group": "نامشخص",
+    "product": "چرخ خرید و نگهداری مواد غذایی",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "35L"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید",
+          "نگهداری مواد غذایی"
+        ]
+      }
+    ],
+    "random_key": "e423325e-626d-4c11-bce5-c9c0389af34c",
+    "image_url": "https://image.torob.com/base/images/j6/I5/j6I5we9i2woH4poh.webp"
+  },
+  {
+    "title": "چرخ خرید.ساک خرید.چرخ خرید دستی.قطعات چرخ خرید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ساک خرید",
+          "چرخ خرید دستی",
+          "قطعات چرخ خرید"
+        ]
+      }
+    ],
+    "random_key": "42b45915-594e-43c0-a34d-3de79803c7fb",
+    "image_url": "https://image.torob.com/base/images/EF/Oq/EFOqUUKn6bykIYXJ.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل گلوریا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "گلوریا"
+        ]
+      }
+    ],
+    "random_key": "5fe3f63d-ecc2-4e55-a16a-38b6dc481ada",
+    "image_url": "https://image.torob.com/base/images/5Y/3b/5Y3bcvndtnV9uvch.jpg"
+  },
+  {
+    "title": "چرخ خرید دستی لیون مدل تاشو استیل",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "استیل"
+        ]
+      }
+    ],
+    "random_key": "1d1d53ce-3976-4138-86d6-5a2ebe9fa794",
+    "image_url": "https://image.torob.com/base/images/Nd/N0/NdN079jeC010gLas.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل R650",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "R650"
+        ]
+      }
+    ],
+    "random_key": "a9bc475d-e734-4c35-9cbb-dd2f6bc75b6b",
+    "image_url": "https://image.torob.com/base/images/Kz/vM/KzvMe4nAA3QWfzSY.jpg"
+  },
+  {
+    "title": "چرخ خرید ، سبد خرید چرخدار",
+    "group": "نامشخص",
+    "product": "سبد خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخدار"
+        ]
+      }
+    ],
+    "random_key": "2e5dabaf-3958-45a2-9b1f-397899531614",
+    "image_url": "https://image.torob.com/base/images/MJ/Kz/MJKzOHuxdfFBYmWf.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل تاشو طرح",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "918a5dea-14e7-4b6f-bf75-4e6564f12fde",
+    "image_url": "https://image.torob.com/base/images/nu/59/nu59HeUrVpM9Py9d.jpg"
+  },
+  {
+    "title": "یک کارتن 6عدد (چرخ خرید تاشو)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "7a52d1c1-6ce9-4287-a8b0-253a3a1ddbd5",
+    "image_url": "https://image.torob.com/base/images/cQ/m1/cQm1wqgHa_EkXBSG.jpg"
+  },
+  {
+    "title": "چرخ خرید H H",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "H H"
+        ]
+      }
+    ],
+    "random_key": "a17a251b-1c65-4005-a1ee-ee5b50b2c71f",
+    "image_url": "https://image.torob.com/base/images/xV/QM/xVQMghDZis3hdc3Z.jpg"
+  },
+  {
+    "title": "سبد،ساک خرید",
+    "group": "نامشخص",
+    "product": "سبد و ساک خرید",
+    "entities": [],
+    "random_key": "2d26e6a9-eef0-45ff-9e31-4224ce6c0d03",
+    "image_url": "https://image.torob.com/base/images/fF/a8/fFa8T6_41D4h2dXN.jpg"
+  },
+  {
+    "title": "چرخ خرید و نگهداری مواد غذایی تاشو شیائومی Foldable Xiaomi Maiwei Food Storage Container 35L TN-SNX01",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "35L"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نگهداری مواد غذایی"
+        ]
+      }
+    ],
+    "random_key": "736279a4-97f6-4d9c-94b9-11f864e3ec1d",
+    "image_url": "https://image.torob.com/base/images/Ce/MS/CeMSX3ElrnnrhQ3D.jpg"
+  },
+  {
+    "title": "چرخ خرید اچ اند اچ مدل تاشو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اچ اند اچ"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      }
+    ],
+    "random_key": "6d203b05-b74f-4a31-ac36-24d99e18ab51",
+    "image_url": "https://image.torob.com/base/images/eb/04/eb042KLVGj7QoczT.webp"
+  },
+  {
+    "title": "چرخ خرید دلنواز مدل پایا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دلنواز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پایا"
+        ]
+      }
+    ],
+    "random_key": "f55baf8f-c92e-4071-a819-e1354927bdbe",
+    "image_url": "https://image.torob.com/base/images/mV/CM/mVCMiRBoQr6-M-KO.jpg"
+  },
+  {
+    "title": "چرخ چمدان رنگ طوسی",
+    "group": "نامشخص",
+    "product": "چرخ چمدان",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "8530bb2d-73c1-47e1-be07-0601a56cb977",
+    "image_url": "https://image.torob.com/base/images/dY/Ad/dYAd_wCSCOSz9kKe.jpg"
+  },
+  {
+    "title": "چرخ خرید خانگی جیمی (GIMI) مدل TWIN BLUE",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جیمی"
+        ]
+      }
+    ],
+    "random_key": "d509ccd0-b8cc-4748-90bc-f235f5f58694",
+    "image_url": "https://image.torob.com/base/images/jS/6E/jS6EpbVBRiIFdwzM.jpg"
+  },
+  {
+    "title": "چرخ خرید تاشو سبد فلزی(چرخ دوبل)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "دوبل"
+        ]
+      }
+    ],
+    "random_key": "a7c44456-cdce-4ab5-83e5-6aebf920c613",
+    "image_url": "https://image.torob.com/base/images/qo/Ms/qoMsls9q8WjZVpRS.jpg"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل صندلی دار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "صندلی دار"
+        ]
+      }
+    ],
+    "random_key": "7aa3815a-4f91-4246-b05b-076872ddc15b",
+    "image_url": "https://image.torob.com/base/images/HP/rg/HPrgHK9PIw3gie5-.jpg"
+  },
+  {
+    "title": "چرخ خرید مارال مدل اسپرت دسته",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      },
+      {
+        "name": "نوع دسته",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "9797bc80-424e-443d-9330-9829640d1f5d",
+    "image_url": "https://image.torob.com/base/images/0I/h1/0Ih1Upq8Uh_HByQv.webp"
+  },
+  {
+    "title": "چرخ دستی خانگی(طرح سنتی) کد 532تولیدی نگین زیار",
+    "group": "نامشخص",
+    "product": "چرخ دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      }
+    ],
+    "random_key": "850883a1-5da3-45fd-91a7-3e79644bdcff",
+    "image_url": "https://image.torob.com/base/images/bT/YS/bTYS4p8anbe3YE8A.jpg"
+  },
+  {
+    "title": "چرخ خرید فلزی فروشگاهی 80لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "80 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "7c82495c-6d73-427f-9f0a-e6fac9ce86db",
+    "image_url": "https://image.torob.com/base/images/jx/nr/jxnrdUc4JOju5aSJ.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید فلزی",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      }
+    ],
+    "random_key": "de2cc97e-cd11-4f95-b772-aa50b113baf9",
+    "image_url": "https://image.torob.com/base/images/9t/mW/9tmWF_i8o4OZPk73.jpg"
+  },
+  {
+    "title": "چرخ خرید جکوار",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جکوار"
+        ]
+      }
+    ],
+    "random_key": "eb58cbcc-d613-41d8-abfb-0de31fb51fdf",
+    "image_url": "https://image.torob.com/base/images/6s/ji/6sjivnqXrxb1uDZQ.jpg"
+  },
+  {
+    "title": "اسکلت چرخ خرید مارال مدل اسپرت دسته پلاستیکی کد ۵۳۳",
+    "group": "نامشخص",
+    "product": "اسکلت چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته پلاستیکی"
+        ]
+      }
+    ],
+    "random_key": "6dd53fbb-4980-4857-b18c-a98cc398084f",
+    "image_url": "https://image.torob.com/base/images/TG/uY/TGuYq5hNCjP9DxsL.webp"
+  },
+  {
+    "title": "باکس چرخدار",
+    "group": "نامشخص",
+    "product": "باکس چرخدار",
+    "entities": [],
+    "random_key": "ea7864fb-587a-4de6-90c5-84a2b8d4cd7c",
+    "image_url": "https://image.torob.com/base/images/l4/XA/l4XADoyfy5i7QVKM.jpg"
+  },
+  {
+    "title": "چرخ خرید آلومینیومی دو چرخ الگانت ELEGANT رنگ طوسی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "آلومینیومی"
+        ]
+      },
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "دو چرخ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "الگانت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      }
+    ],
+    "random_key": "9a33b796-0b7d-47a8-8f4c-5cf8ee0de6b5",
+    "image_url": "https://image.torob.com/base/images/95/mk/95mk-RdCXhN1_HMq.jpg"
+  },
+  {
+    "title": "چرخ و سبد تاشو شیائومی Maiwei",
+    "group": "نامشخص",
+    "product": "چرخ و سبد",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      }
+    ],
+    "random_key": "ff4f52c8-d758-4432-90fe-409d62e4fae8",
+    "image_url": "https://image.torob.com/base/images/rg/F0/rgF043al0d5gWVfj.jpg"
+  },
+  {
+    "title": "چرخ خرید خانگی آرتیستون - کیسه بزرگ - قطر تایر بزرگ - ارسال رایگان",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      },
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه بزرگ"
+        ]
+      },
+      {
+        "name": "نوع تایر",
+        "values": [
+          "تایر بزرگ"
+        ]
+      }
+    ],
+    "random_key": "1260e191-e9b2-4703-9a7e-16d69d678f98",
+    "image_url": "https://image.torob.com/base/images/ma/hU/mahULgPiH2neSIY4.jpg"
+  },
+  {
+    "title": "چرخ خرید ترولی 60 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "60 لیتری"
+        ]
+      }
+    ],
+    "random_key": "1b739740-893c-40c9-9b8f-16f9e9512993",
+    "image_url": "https://image.torob.com/base/images/KP/em/KPem3lartFgmHuC4.jpg"
+  },
+  {
+    "title": "کالسکه یا چرخ خرید فلزی",
+    "group": "نامشخص",
+    "product": "کالسکه یا چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      }
+    ],
+    "random_key": "d49c2a41-43ff-4d0a-a1ac-c64b47d344e4",
+    "image_url": "https://image.torob.com/base/images/NR/TI/NRTISS0RTZ9JlYNC.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل دستی A206207405",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "دستی"
+        ]
+      }
+    ],
+    "random_key": "179e05c2-d5f7-4fb7-981e-06d40aea247a",
+    "image_url": "https://image.torob.com/base/images/Hh/oD/HhoDRHuqQCAPJxR2.jpg"
+  },
+  {
+    "title": "چرخ خرید دلنواز مدل پایا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دلنواز"
+        ]
+      }
+    ],
+    "random_key": "1cc26830-4089-4aac-9629-25efccc68674",
+    "image_url": "https://image.torob.com/base/images/kb/JX/kbJXiszV6NPcecV5.webp"
+  },
+  {
+    "title": "چرخ خرید ادریک مدل پله رو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "قابلیت حرکت",
+        "values": [
+          "پله رو"
+        ]
+      }
+    ],
+    "random_key": "13c12697-b1f2-4301-a6ba-6ec1a80e773b",
+    "image_url": "https://image.torob.com/base/images/Rt/-P/Rt-P_gyo7MwjadUt.jpg"
+  },
+  {
+    "title": "چرخ خرید نیلو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیلو"
+        ]
+      }
+    ],
+    "random_key": "754138b9-3939-4bd6-8536-b3404044a143",
+    "image_url": "https://image.torob.com/base/images/5H/ny/5HnyYyiG0Dp2FA6M.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی بزرگ۱۶۰لیتری-کد۱۲۰۱",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "160 لیتری"
+        ]
+      }
+    ],
+    "random_key": "2d05ba12-6ccd-4e1b-b55d-3d1db00aa63a",
+    "image_url": "https://image.torob.com/base/images/de/G7/deG7jarY1kVkqlOj.jpg"
+  },
+  {
+    "title": "چرخ خرید (پس کرایه)",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "پس کرایه"
+        ]
+      }
+    ],
+    "random_key": "905e0585-b861-497e-8fc7-466efff77d83",
+    "image_url": "https://image.torob.com/base/images/2-/uY/2-uYNNCn-fi-rwoU.jpg"
+  },
+  {
+    "title": "سرویس چرخ خرید با وسایل بازی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "همراه با وسایل بازی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "108aeff2-9ff6-47e4-a385-6fa414402bd5",
+    "image_url": "https://image.torob.com/base/images/uN/Fp/uNFpgfuMiPDQSphv.jpg"
+  },
+  {
+    "title": "چرخ خرید خانگی پرفکت",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پرفکت"
+        ]
+      }
+    ],
+    "random_key": "b9b01975-e872-4473-ba63-18028b4b4817",
+    "image_url": "https://image.torob.com/base/images/9H/Fv/9HFvQptZiV07cB5w.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید چهار چرخ مدل A10",
+    "group": "نامشخص",
+    "product": "چرخ دستی خرید",
+    "entities": [
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "چهار چرخ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "0b2c01da-3368-4adc-a11d-060f065472eb",
+    "image_url": "https://image.torob.com/base/images/Y-/US/Y-US858g5BH1mXMo.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل تاشو",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "d88b5dce-a2fc-4c98-a3f8-8a3c5461d18d",
+    "image_url": "https://image.torob.com/base/images/Ke/Kq/KeKqs27PlI_kIuGE.jpg"
+  },
+  {
+    "title": "چرخ خرید اسپرت جگواراعلا",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اسپرت",
+          "اعلا"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جگوار"
+        ]
+      }
+    ],
+    "random_key": "899ef1e4-a974-4c1d-b63e-3ee6935d2c2e",
+    "image_url": "https://image.torob.com/base/images/oB/ub/oBub4zSUaXeqOVng.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل B5214",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "c2d4daf8-ab8c-409d-874a-51a6599af139",
+    "image_url": "https://image.torob.com/base/images/tI/oH/tIoHRgHY7a08hzKh.jpg"
+  },
+  {
+    "title": "چرخ فروشگاهی پلاستیکی 90L",
+    "group": "نامشخص",
+    "product": "چرخ فروشگاهی",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلاستیکی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "90 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "8b136674-3cbb-436a-bf43-a77b6ec0715e",
+    "image_url": "https://image.torob.com/base/images/1k/K7/1kK7im7dxeZM8xQ6.jpg"
+  },
+  {
+    "title": "ترولی فروشگاهی ٦٠ لیتری",
+    "group": "نامشخص",
+    "product": "ترولی فروشگاهی",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "60 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "c9e9956d-46e0-4310-8f5b-b2c3f524d8b9",
+    "image_url": "https://image.torob.com/base/images/Kk/D5/KkD5eKPs2mAv6Px-.jpg"
+  },
+  {
+    "title": "کیسه یدک چرخ خرید ادریک",
+    "group": "نامشخص",
+    "product": "کیسه چرخ خرید",
+    "entities": [
+      {
+        "name": "لوازم جانبی",
+        "values": [
+          "کیسه یدک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ادریک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "b3623ebc-57f8-4d7e-a05f-7451b01152b8",
+    "image_url": "https://image.torob.com/base/images/A-/ve/A-ve0mqnHyQxoeI1.webp"
+  },
+  {
+    "title": "چرخ خرید -ساک خرید چرخدار ورنگ بندی زیبا",
+    "group": "نامشخص",
+    "product": "ساک خرید چرخدار",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چرخدار",
+          "رنگ بندی زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "4c808594-69e8-4004-8215-4eb7415daf56",
+    "image_url": "https://image.torob.com/base/images/v8/qi/v8qiho5zR5Ap5clO.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی وترولی فروشگاهی",
+    "group": "نامشخص",
+    "product": "چرخ خرید فروشگاهی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "e3454e38-4389-4b3a-8106-4536d4a0c1ca",
+    "image_url": "https://image.torob.com/base/images/nh/vD/nhvDr7yi2JQtCmHB.jpg"
+  },
+  {
+    "title": "چرخ خرید دسته خلبانی ( 6 تایی )",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته خلبانی"
+        ]
+      },
+      {
+        "name": "تعداد چرخ",
+        "values": [
+          "6 تایی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "d8deff1d-663b-4045-9cdb-43e9910de69b",
+    "image_url": "https://image.torob.com/base/images/PR/t2/PRt2_z9yqQbVuJBl.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 90 لیتری پلی کربنات شفاف - دستگاه مبل شو قسطی",
+    "group": "نامشخص",
+    "product": "چرخ خرید فروشگاهی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "90 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلی کربنات شفاف"
+        ]
+      }
+    ],
+    "random_key": "64fba81f-cf7e-4a00-b8b0-2c18f491d812",
+    "image_url": "https://image.torob.com/base/images/NK/io/NKioGlVuFjrJPBv4.jpg"
+  },
+  {
+    "title": "چرخ خرید پلیمری پلی کربنات فروشگاهی آسان رو ( ترولی ) 210 لیتری",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "نوع تایر",
+        "values": [
+          "آسان رو"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "210 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "پلیمری",
+          "پلی کربنات"
+        ]
+      }
+    ],
+    "random_key": "d6fdd8e9-7863-41a2-8a8f-c4ff34f37bd5",
+    "image_url": "https://image.torob.com/base/images/nZ/PY/nZPYOZ3vNYAQ6ptP.jpg"
+  },
+  {
+    "title": "چرخ خرید استیل تاشو برند پرفکت هوم PERFECTHOME",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "استیل"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پرفکت هوم PERFECTHOME"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نامشخص"
+        ]
+      }
+    ],
+    "random_key": "f4f5149e-467c-45d4-a81b-9d2ac6f40128",
+    "image_url": "https://image.torob.com/base/images/4h/Cc/4hCcgpFYXYRtBLH3.jpg"
+  },
+  {
+    "title": "iwheel shopping trolley",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "15dd5b5b-d02d-43e6-a8bd-b11a36968510",
+    "image_url": "https://image.torob.com/base/images/-G/Y7/-GY7TB7dFWgX2-ez.jpg"
+  },
+  {
+    "title": "چرخ خرید و نگهداری مواد غذایی تاشو شیائومی Foldable Xiaomi Maiwei Food Storage Container 35L TN-SNX01",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیائومی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "35 لیتری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید و نگهداری مواد غذایی"
+        ]
+      }
+    ],
+    "random_key": "8adf9b37-0a1c-4a50-afe0-a07d5a089ff0",
+    "image_url": "https://image.torob.com/base/images/cd/HV/cdHVQnZ9ZvV5Vc0e.jpg"
+  },
+  {
+    "title": "چرخ خرید مارال",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "daee370b-0098-4bb3-9fe2-43ff1eb80e38",
+    "image_url": "https://image.torob.com/base/images/zD/LE/zDLEO19pUKZcsjOy.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل IL 210",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "efd22845-d3c9-4afe-b33d-7ea1e7db9e4c",
+    "image_url": "https://image.torob.com/base/images/Mb/xS/MbxSzooS_CQc_Oag.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      }
+    ],
+    "random_key": "12c9805b-1fcc-42f0-acab-4ffb204fbb56",
+    "image_url": "https://image.torob.com/base/images/qD/tT/qDtTKiHpyEViLc46.jpg"
+  },
+  {
+    "title": "چرخ خرید",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "1fb61d57-8db2-4f62-8a02-7fe513f64d20",
+    "image_url": "https://image.torob.com/base/images/nW/1n/nW1nlTrh9KUxOrUE.jpg"
+  },
+  {
+    "title": "چرخ خرید 120 لیتری درجه یک و مقاوم .کرایه وانت شهری به عهده مشتری( ارسال با باربری بین شهری و پس کرایه ) می باشد",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "ظرفیت",
+        "values": [
+          "120 لیتری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مقاوم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "27f6c6f1-67e8-419f-a99a-b8fc23e3c2db",
+    "image_url": "https://image.torob.com/base/images/Gd/f2/Gdf2XA3Yc9RTeZu0.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی 60 لیتری فلزی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "ظرفیت",
+        "values": [
+          "60 لیتری"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      }
+    ],
+    "random_key": "f5edd1ed-42e1-4998-aadc-c43021cfd155",
+    "image_url": "https://image.torob.com/base/images/dx/Iu/dxIuQzaQOOKbefRF.jpg"
+  },
+  {
+    "title": "چرخ دستی خرید مدل",
+    "group": "نامشخص",
+    "product": "چرخ دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "9eb03701-26e1-48c3-8770-a8e0cebf4014",
+    "image_url": "https://image.torob.com/base/images/Ve/T_/VeT_ZnkIMLoIUf3Z.jpg"
+  },
+  {
+    "title": "چرخ خرید فروشگاهی فلزی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      }
+    ],
+    "random_key": "0a10d6ab-d5c1-4352-b4e8-775fb794dd87",
+    "image_url": "https://image.torob.com/base/images/HG/WV/HGWVzV6jjmMHqcvh.jpg"
+  },
+  {
+    "title": "سبد خرید دستی فلزی فروشگاهی",
+    "group": "نامشخص",
+    "product": "سبد خرید دستی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "فروشگاهی"
+        ]
+      },
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "فلزی"
+        ]
+      }
+    ],
+    "random_key": "652cd743-e138-4370-80c2-dd609a0c9035",
+    "image_url": "https://image.torob.com/base/images/gS/gJ/gSgJQKKszPuJyr1w.jpg"
+  },
+  {
+    "title": "چرخ خرید مدل چالکی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید"
+        ]
+      }
+    ],
+    "random_key": "31ff227a-46a0-417a-af78-7b3c582a6591",
+    "image_url": "https://image.torob.com/base/images/k3/5G/k35GdXugIs3TqGDh.jpg"
+  },
+  {
+    "title": "چرخ خرید مارال مدل اسپرت دسته ساده تاشو کد 534 - طرح",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      },
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته ساده"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید مدل اسپرت"
+        ]
+      }
+    ],
+    "random_key": "189d5c69-6aea-4455-b28c-9d50be469293",
+    "image_url": "https://image.torob.com/base/images/cT/IP/cTIP37u3ClVAhYy1.webp"
+  },
+  {
+    "title": "اسکلت چرخ خرید مارال مدل اسپرت دسته ساده تاشو کد ۵۳۴",
+    "group": "نامشخص",
+    "product": "اسکلت چرخ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "مارال"
+        ]
+      },
+      {
+        "name": "نوع دسته",
+        "values": [
+          "دسته ساده"
+        ]
+      },
+      {
+        "name": "قابلیت تاشو",
+        "values": [
+          "تاشو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "چرخ خرید مدل اسپرت"
+        ]
+      }
+    ],
+    "random_key": "a00574eb-3ffa-4fa9-b6ad-c4c156185d48",
+    "image_url": "https://image.torob.com/base/images/VY/p5/VYp5Naeabrr8r9WM.jpg"
+  },
+  {
+    "title": "چرخ خرید خانگی مفتولی",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "جنس بدنه",
+        "values": [
+          "مفتولی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خانگی"
+        ]
+      }
+    ],
+    "random_key": "a40e3afa-bf3d-4388-986f-044b44252843",
+    "image_url": "https://image.torob.com/base/images/Ba/sg/BasglK6Rw4GrK5Mu.jpg"
+  },
+  {
+    "title": "چرخ خرید بزرگ مدل533",
+    "group": "نامشخص",
+    "product": "چرخ خرید",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "خرید بزرگ"
+        ]
+      }
+    ],
+    "random_key": "78f6fc6c-e8e4-4b2f-bc6f-262c60d887f9",
+    "image_url": "https://image.torob.com/base/images/_n/P_/_nP_nFCwT77K-wSS.jpg"
+  }
+]

@@ -1,0 +1,5835 @@
+[
+  {
+    "title": "مانتو کتان دخترانه کد 25372",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "3a955a4f-e9e1-4919-8bf0-27b8f929d146",
+    "image_url": "https://image.torob.com/base/images/xB/0J/xB0JvIbs6NvTxbNn.webp"
+  },
+  {
+    "title": "مانتو کتی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      }
+    ],
+    "random_key": "984dda60-0c7f-49f0-b724-e5ef53248c27",
+    "image_url": "https://image.torob.com/base/images/ZW/bR/ZWbRw0qYDT8n4mg8.jpg"
+  },
+  {
+    "title": "مانتو عبایی دخترانه مشکی کرپ عبایی مدل دلبر نجما - مشکی /",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو عبایی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      }
+    ],
+    "random_key": "0c7ee239-226d-4a5e-a48b-b4123d27308a",
+    "image_url": "https://image.torob.com/base/images/lf/CW/lfCWTPRBHS7DYRyA.jpg"
+  },
+  {
+    "title": "مانتو شومیز دخترانه کد 1871203",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شومیز"
+        ]
+      }
+    ],
+    "random_key": "dc533f7e-738c-449c-a0b2-033b30c08046",
+    "image_url": "https://image.torob.com/base/images/Kp/Ml/KpMlU0u9V2bgPCbE.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترونه راه راه مدل رها کد ۱۷۵۰",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      }
+    ],
+    "random_key": "a4386de7-43cd-404a-b419-cbe588748242",
+    "image_url": "https://image.torob.com/base/images/Jp/dP/JpdPfelwPahcPGCT.jpg"
+  },
+  {
+    "title": "مانتو ی دخترانه رنگ صورتی دسته دوم با قیمت مناسب",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "bd5a5fc0-172f-4140-a6b4-16950966cb1c",
+    "image_url": "https://image.torob.com/base/images/3H/Eb/3HEbWZah9ZwmzN8d.jpg"
+  },
+  {
+    "title": "مانتو نوجوانی",
+    "group": "نوجوان",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "84b74d28-0790-42a0-98e2-5420ffe43da8",
+    "image_url": "https://image.torob.com/base/images/j_/85/j_855DU3PdtaUh6l.jpg"
+  },
+  {
+    "title": "مانتو دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "33dddb84-a0af-4fa0-a64c-a03b27d640fe",
+    "image_url": "https://image.torob.com/base/images/jr/sx/jrsxrluAyGtg-rU4.jpg"
+  },
+  {
+    "title": "مانتو دخترانه ی عروسکی کد 24991",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      }
+    ],
+    "random_key": "0b9c0634-c056-4c5b-b7fc-84be34d27c58",
+    "image_url": "https://image.torob.com/base/images/4o/JX/4oJXhNGDHrhxwQHa.jpg"
+  },
+  {
+    "title": "مانتو مراکشی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو مراکشی"
+        ]
+      }
+    ],
+    "random_key": "1ee2849e-c495-449b-a08c-29a155b8e18e",
+    "image_url": "https://image.torob.com/base/images/36/SK/36SKKUUU4zLAT2LM.jpg"
+  },
+  {
+    "title": "مانتو شومیزی اسرین",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شومیزی"
+        ]
+      }
+    ],
+    "random_key": "702d53d3-45a1-4b55-8f44-be0386c1668d",
+    "image_url": "https://image.torob.com/base/images/MR/9h/MR9hWYH8YKTem8F1.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لنین مدل بهاره کد 1869598",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "بهاره"
+        ]
+      }
+    ],
+    "random_key": "6aad1e5a-5546-427c-bc43-8de374ccdc22",
+    "image_url": "https://image.torob.com/base/images/rH/yg/rHygbFadOwk2qXub.jpg"
+  },
+  {
+    "title": "مانتو کتان مرواریددوزی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مرواریددوزی"
+        ]
+      }
+    ],
+    "random_key": "b083cfab-4d98-4c5b-bef7-51c61088043f",
+    "image_url": "https://image.torob.com/base/images/MJ/m8/MJm8Nvj6SaoWFjfV.jpg"
+  },
+  {
+    "title": "مانتو میکرو ترلان کد 1710790",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "میکرو"
+        ]
+      }
+    ],
+    "random_key": "b61f1607-d46f-414d-9427-16f24c5b3326",
+    "image_url": "https://image.torob.com/base/images/La/DU/LaDUX63FWdh1KmlF.jpg"
+  },
+  {
+    "title": "مانتو دخترانه دو تیکه کد 212898",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      }
+    ],
+    "random_key": "db52ef77-d55f-4807-a6b4-879043196ff2",
+    "image_url": "https://image.torob.com/base/images/VN/Cl/VNCl0Hgqkh31Yu8q.jpg"
+  },
+  {
+    "title": "مانتو دخترانه مانتو رنانه مانتو داکرون خنک",
+    "group": "دخترانه و زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "داکرون"
+        ]
+      }
+    ],
+    "random_key": "305e7f4d-b806-48f6-a00c-423290297cf0",
+    "image_url": "https://image.torob.com/base/images/Hc/rS/HcrSYjqTVfA242_r.jpg"
+  },
+  {
+    "title": "مانتو دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "b735f8bb-73f4-4827-ad37-ef7e72fa5bca",
+    "image_url": "https://image.torob.com/base/images/oI/gA/oIgAzft8uNRS_H0S.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کبریتی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      }
+    ],
+    "random_key": "fd3e633d-680b-4100-a3fc-91fbb5ec4e6b",
+    "image_url": "https://image.torob.com/base/images/Tv/JJ/TvJJzc6e3-lMAV1Z.jpg"
+  },
+  {
+    "title": "مانتو دخترانه سایز مدیوم بسیار شیک و سبک و راحت",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "مدیوم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "سبک",
+          "راحت"
+        ]
+      }
+    ],
+    "random_key": "f177a202-7179-46c4-9407-7e14be1d865b",
+    "image_url": "https://image.torob.com/base/images/yW/rS/yWrSOOA6KCON5bWt.jpg"
+  },
+  {
+    "title": "مانتو مخمل کبریتی دخترانه-مانتو پیراهنی بچه گانه-پیراهن جلو دگمه دار-پیراهن دخترانه آستین بلند",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهنی",
+          "پیراهن"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو دکمه دار"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      }
+    ],
+    "random_key": "4b9ec71c-08d9-48a0-beee-e77fa67ba83e",
+    "image_url": "https://image.torob.com/base/images/GD/9O/GD9ODW33zk3YACGW.jpg"
+  },
+  {
+    "title": "مانتو دخترانه سایز کوچک سایز 36 جلو بسته",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "سایز کوچک",
+          "سایز 36"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو بسته"
+        ]
+      }
+    ],
+    "random_key": "c66977c6-3532-449b-9930-1dcd84beba82",
+    "image_url": "https://image.torob.com/base/images/gw/rn/gwrnhT9bTzmzj3xZ.jpg"
+  },
+  {
+    "title": "مانتو بابوس خرجکار دخترانه فری سایز مناسب سایز 38تا46",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بابوس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز",
+          "مناسب سایز 38 تا 46"
+        ]
+      }
+    ],
+    "random_key": "d9a5675d-a91d-4abf-ba2c-017d825e5557",
+    "image_url": "https://image.torob.com/base/images/eh/yH/ehyHJKFze8XoNM1f.jpg"
+  },
+  {
+    "title": "مانتو پیراهن لی کاغذی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لی کاغذی"
+        ]
+      }
+    ],
+    "random_key": "1810ff11-c2c4-4b3f-be53-8bf32474f2fa",
+    "image_url": "https://image.torob.com/base/images/ZR/mp/ZRmphtWG46rf_0qe.jpg"
+  },
+  {
+    "title": "مانتو مانتو عید مانتو کوتاه مانتو دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "عید"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "d82d0a13-6cc7-4c25-95ef-4c145d68c1bb",
+    "image_url": "https://image.torob.com/base/images/vc/_3/vc_30jebologmVv7.jpg"
+  },
+  {
+    "title": "مانتو عروسکی ساتن دخترانه مزونی - صورتی / سایز ۱ ( فری سایز از ۳۶ تا ۴۰ ) / ۷۰",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ساتن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز ۱ (فری سایز از ۳۶ تا ۴۰)"
+        ]
+      }
+    ],
+    "random_key": "c510de01-1f21-4fcf-aa73-6676fff662aa",
+    "image_url": "https://image.torob.com/base/images/-9/xs/-9xsF28XHCuWH5HV.jpg"
+  },
+  {
+    "title": "مانتو لنین زنانه جلو بسته رنگ بندی ارسال رایگان",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو بسته"
+        ]
+      }
+    ],
+    "random_key": "fa1b7eb9-09fa-4def-b6fd-9d6d95887a73",
+    "image_url": "https://image.torob.com/base/images/5C/Pn/5CPnw96yONZDe4Hr.jpg"
+  },
+  {
+    "title": "مانتو دو تکه دخترانه فشن کد 9064",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "فشن"
+        ]
+      }
+    ],
+    "random_key": "1666caf5-c30f-4108-91b4-b94f17648172",
+    "image_url": "https://image.torob.com/base/images/3Q/ZE/3QZELn9i7gcbaqxW.jpg"
+  },
+  {
+    "title": "شومیز خورشیدی بچگانه در چهار سایز و چهار رنگ شیک و مجلسی",
+    "group": "بچگانه",
+    "product": "شومیز",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "f7e773ba-9bb8-41e6-b0f2-7e7aafaf15a1",
+    "image_url": "https://image.torob.com/base/images/bx/mh/bxmhOfFbOdeAKTp7.jpg"
+  },
+  {
+    "title": "عیدانه مانتو دخترانه جدید",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جدید"
+        ]
+      }
+    ],
+    "random_key": "58c163c2-b5e3-467b-9fc1-60a1b5d0e7fc",
+    "image_url": "https://image.torob.com/base/images/gf/Ay/gfAyM8zxw2lUmcvJ.jpg"
+  },
+  {
+    "title": "مانتو دخترانه یقه مردانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه مردانه"
+        ]
+      }
+    ],
+    "random_key": "b5e7557e-4053-4675-85c8-425c4a55f8a1",
+    "image_url": "https://image.torob.com/base/images/Zx/uA/ZxuAIg-8sI3Tc0ba.jpg"
+  },
+  {
+    "title": "مانتو لی طرحدار مانتو دخترانه ارسال رایگان سایز تا 50",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "تا 50"
+        ]
+      }
+    ],
+    "random_key": "809f8162-0324-401f-81c5-2dfcf538ca25",
+    "image_url": "https://image.torob.com/base/images/Eh/Bq/EhBqxVgSx9OVONva.jpg"
+  },
+  {
+    "title": "مانتو ماهلینا دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "ffd371b7-b66f-410e-83b3-1d2a11f31c18",
+    "image_url": "https://image.torob.com/base/images/rj/g5/rjg51WVHKDQ1LfHK.jpg"
+  },
+  {
+    "title": "مانتو خنک سبک و شیک دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خنک",
+          "سبک",
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "aa029ea2-4c0a-4d83-aa6c-535f478d4bab",
+    "image_url": "https://image.torob.com/base/images/HG/Qx/HGQxPrSAl6y2Qn6A.jpg"
+  },
+  {
+    "title": "مانتو شومیز دخترانه کد 25351",
+    "group": "دخترانه",
+    "product": "مانتو شومیز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شومیز"
+        ]
+      }
+    ],
+    "random_key": "5a7f5271-f421-45de-b7ad-a0c6e3c887ff",
+    "image_url": "https://image.torob.com/base/images/-I/7y/-I7yuW6cttFUk-xx.webp"
+  },
+  {
+    "title": "مانتو اسپرت دخترانه لنین رنگ ماشی بیریوان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ماشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بیریوان"
+        ]
+      }
+    ],
+    "random_key": "fdd3d5cc-8063-4002-aac4-807d6b18833f",
+    "image_url": "https://image.torob.com/base/images/Hq/JB/HqJBOcEFCuKA4Kn_.jpg"
+  },
+  {
+    "title": "مانتو داکرون یقه انگلیسی مشکی سفید دخترانه فوق العاده زیبا",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "داکرون"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه انگلیسی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "فوق العاده زیبا"
+        ]
+      }
+    ],
+    "random_key": "1eefd3ee-0d43-4c3e-96f7-84d0e7d0b314",
+    "image_url": "https://image.torob.com/base/images/nc/re/ncrecx6YSjH8vLJu.jpg"
+  },
+  {
+    "title": "مانتو دخترانه جدیدترین مدل و بسبار زیبا جنس نخی پوپلین",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جدیدترین مدل",
+          "بسیار زیبا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی",
+          "پوپلین"
+        ]
+      }
+    ],
+    "random_key": "9b5ca4b6-fab4-444f-b6a6-b62246ed977f",
+    "image_url": "https://image.torob.com/base/images/E2/WY/E2WYGr1voLn1Prt5.jpg"
+  },
+  {
+    "title": "مانتو میکرو کجراه دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "میکرو کجراه"
+        ]
+      }
+    ],
+    "random_key": "239685a1-841c-499e-941a-e10b69fd5a07",
+    "image_url": "https://image.torob.com/base/images/AU/RQ/AURQQ83DnG5QUG0N.jpg"
+  },
+  {
+    "title": "مانتو اسپرت دخترانه لنین رنگ ماشی بیریوان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ماشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بیریوان"
+        ]
+      }
+    ],
+    "random_key": "5a23539a-1fd1-43df-be09-0d0697ca5083",
+    "image_url": "https://image.torob.com/base/images/af/jp/afjpVB-zlkb-uO9B.jpg"
+  },
+  {
+    "title": "مانتو دخترانه جین مدل کتی کد 1861895",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      }
+    ],
+    "random_key": "9633a689-cbf6-46f4-975e-bda0a89fc926",
+    "image_url": "https://image.torob.com/base/images/vK/Ux/vKUxlALn1zIPhBog.jpg"
+  },
+  {
+    "title": "مانتو پیراهنی جین کاغذی دخترانه مهمیس ،مدل سُها - سایز",
+    "group": "دخترانه",
+    "product": "مانتو پیراهنی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهنی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "جین کاغذی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مهمیس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مدل سُها"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "سایز"
+        ]
+      }
+    ],
+    "random_key": "ffee4393-f09e-4232-8e2d-beab468eb59a",
+    "image_url": "https://image.torob.com/base/images/ua/Qr/uaQrUw_b1BTf2C7B.jpg"
+  },
+  {
+    "title": "مانتو لی کاغذی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی کاغذی"
+        ]
+      }
+    ],
+    "random_key": "6ada54e3-5ba3-43f9-a47a-b97c8ceef4dd",
+    "image_url": "https://image.torob.com/base/images/BR/tQ/BRtQJXMJpQLgU4Mh.jpg"
+  },
+  {
+    "title": "مانتو اسپرت دخترانه کوتاه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "2611b0b3-1753-4420-96d7-e99fa0b65048",
+    "image_url": "https://image.torob.com/base/images/AU/Vu/AUVuKc8ghnHMs8At.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      }
+    ],
+    "random_key": "2c31ef40-02e1-4ba1-9fd7-9217bf819cbe",
+    "image_url": "https://image.torob.com/base/images/HR/cJ/HRcJVT1yGkXVmLKL.jpg"
+  },
+  {
+    "title": "مانتو مجلسی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "65203e03-edf8-40c4-a8a2-f56e29aab6b4",
+    "image_url": "https://image.torob.com/base/images/CE/pZ/CEpZtb79n8jzsJsq.jpg"
+  },
+  {
+    "title": "مانتو دخترونه سایز 40",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 40"
+        ]
+      }
+    ],
+    "random_key": "c45c95ba-906c-4f96-9152-ae97b554675c",
+    "image_url": "https://image.torob.com/base/images/S-/IK/S-IKzUjlF27qAYm3.jpg"
+  },
+  {
+    "title": "مانتو لی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      }
+    ],
+    "random_key": "fe7d45ea-108f-4d2c-885a-fabf8919f155",
+    "image_url": "https://image.torob.com/base/images/Et/m6/Etm6ec4Si9qjAdNA.jpg"
+  },
+  {
+    "title": "مانتو اسپرت دخترانه لنین رنگ سفید بیریوان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بیریوان"
+        ]
+      }
+    ],
+    "random_key": "ba479eee-2ceb-44c2-b3dd-95d299d2ed9d",
+    "image_url": "https://image.torob.com/base/images/Lg/Sh/LgSh1aq8e42QPfHp.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو عروسکی"
+        ]
+      }
+    ],
+    "random_key": "5451a837-1581-453b-9f6b-f6d7b6b7eccf",
+    "image_url": "https://image.torob.com/base/images/-6/hL/-6hL97KPFxxYgw-i.jpg"
+  },
+  {
+    "title": "مانتو جلو دکمه مشکی جیب نگینی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جیب نگینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "a94e35a5-3eed-4833-9ab4-380c906f882f",
+    "image_url": "https://image.torob.com/base/images/_R/vg/_RvgThDwBbIJf2U2.jpg"
+  },
+  {
+    "title": "شومیز مانتویی دخترانه و زنانه در رنگهای مختلف مانتو دخترانه مانتو رنگی مانتو تابستانی مانتو خنک مانتو کوتاه مانتو شیک",
+    "group": "دخترانه و زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز مانتویی",
+          "مانتو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی",
+          "خنک"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "58cc002b-898b-43a4-8ca7-03a024ae0368",
+    "image_url": "https://image.torob.com/base/images/Cv/hn/Cvhn4f_ksmd7G3VW.jpg"
+  },
+  {
+    "title": "مانتو جین دخترانه رنگ دریایی تیره",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دریایی تیره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو جین"
+        ]
+      }
+    ],
+    "random_key": "8e44fe74-bac0-4867-af2e-2cb55e4c693b",
+    "image_url": "https://image.torob.com/base/images/0q/vw/0qvwlLQrzlUpAIky.jpg"
+  },
+  {
+    "title": "مانتو دخترانه جین مدل آرامیس کد 1783555",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو جین"
+        ]
+      }
+    ],
+    "random_key": "529e3dab-7f0a-47be-b8f0-240d91140bef",
+    "image_url": "https://image.torob.com/base/images/Dp/2x/Dp2x66r2HkLWGPMU.jpg"
+  },
+  {
+    "title": "مانتو دخترانه مخمل کبریتی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل کبریتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "b5dcbc77-bb5f-4a50-a4b7-47364d7b40fb",
+    "image_url": "https://image.torob.com/base/images/Hq/0z/Hq0zUsoLIwh7BexU.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کرپ",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "24f32b50-590d-4241-8d5f-cc0d3806aabc",
+    "image_url": "https://image.torob.com/base/images/rz/ls/rzlseL8TdGdNTNV7.jpg"
+  },
+  {
+    "title": "مانتو دخترانه جنس لی کاغذی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی کاغذی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "04d74c21-3fd8-4db6-9214-2c8d43ca99ed",
+    "image_url": "https://image.torob.com/base/images/wf/la/wflaE8J8v8_DJO7A.jpg"
+  },
+  {
+    "title": "مانتو بلند شنل دخترانه رابیا لوپز بنیسس رجحانی (benises/66) rojhani2025",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شنل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "رابیا لوپز بنیسس رجحانی"
+        ]
+      }
+    ],
+    "random_key": "fbc3a0ce-6a31-4b2a-ac88-a89fea408dbe",
+    "image_url": "https://image.torob.com/base/images/s4/8m/s48mcxJr3vco-Qjg.jpg"
+  },
+  {
+    "title": "مانتو عروسکی داکرون ، مانتو عروسکی بلند ، مانتو اسپرت بلند ، مانتو دخترانه با ارسال رایگان در رادین شاپ (rafinshop )",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو عروسکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "داکرون"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "3656757f-ab30-4e86-b4b4-4c68bc242fbd",
+    "image_url": "https://image.torob.com/base/images/L6/yx/L6yxDzcwMfQr7rXr.jpg"
+  },
+  {
+    "title": "مانتو عروسکی خنک دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "خنک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو عروسکی"
+        ]
+      }
+    ],
+    "random_key": "4a891878-6ae0-4d79-b245-73f184b9fd25",
+    "image_url": "https://image.torob.com/base/images/vD/Vp/vDVpQanLkZfD7IxY.jpg"
+  },
+  {
+    "title": "مانتو دخترانه الياف مدل ZOHA",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "الیاف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "63eff67e-156c-4967-b5ec-7d3b71b73cde",
+    "image_url": "https://image.torob.com/base/images/Wi/PF/WiPFMVtjSlFtvWXD.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترانه قد 85",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "قد 85"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو عروسکی"
+        ]
+      }
+    ],
+    "random_key": "20b65970-7dcd-4dad-8829-e62897d3fe72",
+    "image_url": "https://image.torob.com/base/images/IS/Kv/ISKvbVMRP3mYpG8c.jpg"
+  },
+  {
+    "title": "ست سه تکه پرنیان(مانتو) صورتی",
+    "group": "نامشخص",
+    "product": "ست پرنیان",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تکه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "62ece948-129a-4e54-a1f6-eb9791cfa7f9",
+    "image_url": "https://image.torob.com/base/images/IF/YH/IFYHNf94lMr_5jZS.jpg"
+  },
+  {
+    "title": "مانتو کتی دخترانه کد ۱۲۳",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      }
+    ],
+    "random_key": "57b4480d-4d83-494a-8b50-98f135f61064",
+    "image_url": "https://image.torob.com/base/images/k8/AX/k8AXhMWEe4_LjoFX.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کد 904",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "1c4cdda1-020b-4915-aed0-dbabdbc9af93",
+    "image_url": "https://image.torob.com/base/images/75/HR/75HRlLDq5_AKpF1e.jpg"
+  },
+  {
+    "title": "مانتو دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "307cede0-a89a-495b-9d65-4b5c3fd39c35",
+    "image_url": "https://image.torob.com/base/images/Av/R6/AvR6FQ63WP342-DF.jpg"
+  },
+  {
+    "title": "مانتو پیراهنی کبریتی دخترانه مهسا",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهنی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      }
+    ],
+    "random_key": "a5d6c46f-7288-4415-8c42-48d99cf12c57",
+    "image_url": "https://image.torob.com/base/images/Uq/mI/UqmI5SLKPUllloYs.jpg"
+  },
+  {
+    "title": "مانتو دخترانه زیبا و مجلسی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      }
+    ],
+    "random_key": "10db76cd-545a-4630-a33d-38d4472c67e6",
+    "image_url": "https://image.torob.com/base/images/vn/Je/vnJeDOMrvYo7qRJy.jpg"
+  },
+  {
+    "title": "مانتو کتان زنانه دخترانه دوجیب کتان دخترانه فری تا46",
+    "group": "زنانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری تا 46"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "دوجیب"
+        ]
+      }
+    ],
+    "random_key": "7e9fcb8b-9aad-4402-b02b-a57ababdcaa8",
+    "image_url": "https://image.torob.com/base/images/DD/qF/DDqFngHb4RY55PZb.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لوپیلو مدل بهاری",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "بهاری"
+        ]
+      }
+    ],
+    "random_key": "df5fa081-410e-49d7-8680-e4371bcbd230",
+    "image_url": "https://image.torob.com/base/images/8E/Dn/8EDnRH9glvol0Q_n.jpg"
+  },
+  {
+    "title": "مانتو دخترانه چهارخونه کد 25320",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      }
+    ],
+    "random_key": "03d612c2-264c-47b2-b5ab-e5bdc34b2f72",
+    "image_url": "https://image.torob.com/base/images/B5/Wy/B5WyzB8xDhlTdqyb.webp"
+  },
+  {
+    "title": "مانتو چهارخونه دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      }
+    ],
+    "random_key": "106efa55-63e0-4787-b201-463fc85721eb",
+    "image_url": "https://image.torob.com/base/images/xb/7y/xb7yjx_BkzH5IvzH.jpg"
+  },
+  {
+    "title": "مانتو شلوار اسپرت دخترانه ست هودی و شلوار تابستانه نایک کتان با کیفیت",
+    "group": "دخترانه",
+    "product": "مانتو و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست هودی و شلوار"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "58d014e6-e942-40a1-a43c-45e8c26734cf",
+    "image_url": "https://image.torob.com/base/images/v5/3Y/v53Yf6bPNV5JIj3L.jpg"
+  },
+  {
+    "title": "مانتو جین کاغذی بهاره",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین کاغذی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "بهاره"
+        ]
+      }
+    ],
+    "random_key": "adb7964c-e22d-4c22-9090-538cce054022",
+    "image_url": "https://image.torob.com/base/images/3u/EB/3uEBFg13UrLeWaJ1.jpg"
+  },
+  {
+    "title": "مانتو خفاشی دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "خفاشی"
+        ]
+      }
+    ],
+    "random_key": "d67f8983-1c95-48a8-931d-9f25a4ffafd1",
+    "image_url": "https://image.torob.com/base/images/6p/hH/6phHfTc-u_4zAZRG.jpg"
+  },
+  {
+    "title": "مانتو شلوار اسپرت سه تیکه دخترانه با ارسال رایگان",
+    "group": "دخترانه",
+    "product": "مانتو و شلوار",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه تیکه"
+        ]
+      }
+    ],
+    "random_key": "3bc3ee98-1f28-4fc8-ba58-46dcbdb93df3",
+    "image_url": "https://image.torob.com/base/images/dW/_3/dW_3SWR1VKfVjwtD.jpg"
+  },
+  {
+    "title": "مانتو شومیزی کوتاه دخترانه مدل پروانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شومیزی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "پروانه"
+        ]
+      }
+    ],
+    "random_key": "f8e2be43-5cf7-42ae-9d0c-7907eb79ac67",
+    "image_url": "https://image.torob.com/base/images/Mk/F1/MkF1UDlioZUZS6PJ.jpg"
+  },
+  {
+    "title": "مانتو دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "3596549d-45b9-4f34-ab76-7c4d8d7a7ebc",
+    "image_url": "https://image.torob.com/base/images/1J/Bg/1JBgvMZrYYs7Xe_s.jpg"
+  },
+  {
+    "title": "مانتو جلوبسته اسپرت دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلوبسته"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "964ea0c8-b322-4ad5-852e-a97a2b451064",
+    "image_url": "https://image.torob.com/base/images/Si/H0/SiH04yAXaypSBNWI.jpg"
+  },
+  {
+    "title": "مانتو زرشکی دخترانه گیپور کار شده استین کلوش",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گیپور کار شده"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "استین کلوش"
+        ]
+      }
+    ],
+    "random_key": "d1d2daa2-dc1c-483e-a5f4-aafd5cf3eabe",
+    "image_url": "https://image.torob.com/base/images/bB/k6/bBk6gvGaMuzRHvFQ.jpg"
+  },
+  {
+    "title": "مانتو میکی موس جنس داکرون اسپرت دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "میکی موس"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "داکرون"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "61d3ea4a-b6c7-4168-addd-432495efab6c",
+    "image_url": "https://image.torob.com/base/images/Z2/C4/Z2C4ZqR7mF5KpgZL.jpg"
+  },
+  {
+    "title": "مانتو دخترانه دو تکه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "20151628-5ac6-4ca2-a520-1bf63193012b",
+    "image_url": "https://image.torob.com/base/images/GY/-J/GY-JhDu6HriboPsZ.jpg"
+  },
+  {
+    "title": "مانتوزنانه مازراتی مجلسی",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "e43ab2fb-50d5-40c9-8de8-3254e4ad2bde",
+    "image_url": "https://image.torob.com/base/images/F1/2F/F12F37VbZOcRLH2U.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لینن شانتون",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن شانتون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "e20847f7-51a0-4547-892c-de1b1bcde982",
+    "image_url": "https://image.torob.com/base/images/MZ/-u/MZ-utv-WZ3oRydq9.jpg"
+  },
+  {
+    "title": "مانتو دخترانه چهارخونه جلو دکمه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخونه"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو دکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "ace4127f-a9d4-4eea-b762-088dcf2cafeb",
+    "image_url": "https://image.torob.com/base/images/Q6/TR/Q6TR4c8kJOa3y2aC.jpg"
+  },
+  {
+    "title": "مانتو سوئیت دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوئیت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "3818ed37-2497-47be-9933-9bcf56bab8ff",
+    "image_url": "https://image.torob.com/base/images/GJ/Sx/GJSxAzG6ZoUr1cRh.jpg"
+  },
+  {
+    "title": "مانتو دخترونه مدل ژینا کد ۱۵۷۵",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "16c44e73-9ef5-49ff-b90c-e5b8962966a6",
+    "image_url": "https://image.torob.com/base/images/9_/Kr/9_KrYenkSY3OYHEd.jpg"
+  },
+  {
+    "title": "مانتو بافت دخترانه مدل ANALIA",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو بافت"
+        ]
+      }
+    ],
+    "random_key": "5a6bc839-97dc-42b5-8244-da36dd13a07a",
+    "image_url": "https://image.torob.com/base/images/qE/fZ/qEfZay7odkUfPqBV.jpg"
+  },
+  {
+    "title": "مانتو جلو چین ابروبادی دخترانه موجود در چهار سایز 55 ،60 و دو رنگ سرخابی و قرمز جذاب و شیک (ارسال رایگان)",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جلو چین"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ابروبادی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "55",
+          "60"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخابی",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "3bfa8613-d46f-4d42-892a-0790670487da",
+    "image_url": "https://image.torob.com/base/images/Xw/fg/XwfgmaZdaEoPNX-W.jpg"
+  },
+  {
+    "title": "مانتو بلند جین دخترانه و زنانه اورکت جین شیک پارچه جین آبی و ذغالی",
+    "group": "دخترانه و زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو",
+          "اورکت جین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "ذغالی"
+        ]
+      }
+    ],
+    "random_key": "de84e202-db38-4b99-aec4-02308d4072b5",
+    "image_url": "https://image.torob.com/base/images/Ca/Hm/CaHm5vIrgBdC-lvF.jpg"
+  },
+  {
+    "title": "مانتو بچه گانه نخی - سایز",
+    "group": "بچه گانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "42194d80-68ca-466a-ade3-93cb7571128a",
+    "image_url": "https://image.torob.com/base/images/fb/Yr/fbYrKg_YBijHs6gH.jpg"
+  },
+  {
+    "title": "مانتو اسپرت مزونی دخترونه به همراه کیف",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت",
+          "مزونی"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "به همراه کیف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "5224f780-f5d1-4ceb-9a24-739119f2501a",
+    "image_url": "https://image.torob.com/base/images/Ov/9y/Ov9y68bI4O7PwjwS.jpg"
+  },
+  {
+    "title": "مانتو جین دخترونه ترکیبی پارچه بافت کبریتی ترکیب با جین فری سایز 38 تا 46",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین",
+          "بافت کبریتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز 38 تا 46"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو جین"
+        ]
+      }
+    ],
+    "random_key": "e9106536-81b6-4bbf-8c0c-e7d6f9c49534",
+    "image_url": "https://image.torob.com/base/images/Pd/y8/Pdy8Ighp0PZcSy2H.jpg"
+  },
+  {
+    "title": "مانتو کتی دخترانه چری زویا",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "چری زویا"
+        ]
+      }
+    ],
+    "random_key": "3e9366af-4077-48a8-bb59-02721a89d74e",
+    "image_url": "https://image.torob.com/base/images/W9/Ke/W9KeJume48g4mV3u.webp"
+  },
+  {
+    "title": "مانتو شومیز ، مانتو تونیک ، مانتو تابستانی ، شومیز شیک ، مانتو ارزان ، مانتو دخترانه ، مانتو پذیرایی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شومیز",
+          "مانتو تونیک",
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "d2e56296-151b-41f3-81f9-a19ba00fcfa5",
+    "image_url": "https://image.torob.com/base/images/TG/sb/TGsbUxf9N7_hRxlh.jpg"
+  },
+  {
+    "title": "مانتو دخترونه فری سایز",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "234d9910-79e5-4f46-9192-4b7563ff28f2",
+    "image_url": "https://image.torob.com/base/images/-5/bC/-5bCv7qCOJ3hF-Bu.jpg"
+  },
+  {
+    "title": "شومیز و شلوار شلوار راسته مازراتی ست شومیز شلوار مازراتی ست تابستانه شومیز شلوار قواره دار",
+    "group": "نامشخص",
+    "product": "شومیز و شلوار",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "ست"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار",
+          "شومیز"
+        ]
+      }
+    ],
+    "random_key": "63b1f527-470c-4899-a643-e4ca43466690",
+    "image_url": "https://image.torob.com/base/images/Gx/5Y/Gx5YRtfW9dB-aYVS.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لنین مدل تابستانه کد 1867644",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "ef39b7a0-eaf2-4068-a6b1-26fb739b27f8",
+    "image_url": "https://image.torob.com/base/images/xP/2R/xP2RXeDhe7eqmLSk.jpg"
+  },
+  {
+    "title": "مانتو دخترانه مدل کمربند دار کتان استامبول کتان شسته شده بدون ابرفت ژوته سه رنگ دو سایز",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان",
+          "کتان شسته شده",
+          "ژوته"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "کمربند دار"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "دو سایز"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سه رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "8a5529b0-1534-48e3-a0ea-988ed68fc098",
+    "image_url": "https://image.torob.com/base/images/Eb/OH/EbOHSO_5lkBiH6mG.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کد۱۲۵ پخش عمده پوشاک",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "3e56c37c-b07c-4747-9386-0da239da1fda",
+    "image_url": "https://image.torob.com/base/images/im/-I/im-I-lM3Z-B8eHN9.jpg"
+  },
+  {
+    "title": "مانتو کلاهدار سوییت دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوییت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "931df800-abab-4c31-8d49-7362ead17685",
+    "image_url": "https://image.torob.com/base/images/dJ/5V/dJ5VCC6JJCIhpGd_.jpg"
+  },
+  {
+    "title": "حراج مانتو زنانه دخترانه میکرو فقط رنگ سرخابی موجود است",
+    "group": "زنانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "میکرو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرخابی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "c57c3086-6172-4c58-97d3-99c4dcb3ca5f",
+    "image_url": "https://image.torob.com/base/images/k1/sC/k1sC1UH2J1YERzp3.jpg"
+  },
+  {
+    "title": "مانتو بیبی (Baby) - کد ۵۲۹",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "c74db146-9585-4d12-8048-9c6926fe1184",
+    "image_url": "https://image.torob.com/base/images/mH/nx/mHnx_bKAb5eeXuUE.jpg"
+  },
+  {
+    "title": "مانتو اسپرت زنانه جنس میکرو مانتو اسپرت دخترانه مانتو دخترانه مانتو کوتاه اسپرت مانتو عروسکی ارسال رایگان پوشاک اکبری",
+    "group": "زنانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "میکرو"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت",
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "99f8ad75-c6b2-44bf-968e-cc22402c4a18",
+    "image_url": "https://image.torob.com/base/images/6u/Cy/6uCyXDSCGjpZtkfz.jpg"
+  },
+  {
+    "title": "مانتو دخترانه خنک و سبک",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خنک و سبک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "7cbc1174-3033-4d46-ab70-903977285802",
+    "image_url": "https://image.torob.com/base/images/Q1/u1/Q1u1iZa-OUu3bnNq.jpg"
+  },
+  {
+    "title": "مانتو اسپرت دخترانه 2",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "1fda4f7e-3aa7-4ede-a576-3e0452ef703f",
+    "image_url": "https://image.torob.com/base/images/JU/F9/JUF96jsHichBN6u8.jpg"
+  },
+  {
+    "title": "مانتو دخترانه ابر و بادی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "ابرو بادی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "d9ac8e0d-fa98-49c3-b0c4-ef972f856fbe",
+    "image_url": "https://image.torob.com/base/images/rU/2t/rU2tfpf9wrQ7CZoG.jpg"
+  },
+  {
+    "title": "مانتو دانشجویی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "0252ef02-a89a-4834-8e41-51251d6ae89e",
+    "image_url": "https://image.torob.com/base/images/NW/o2/NWo2xgFQFllS2HoJ.jpg"
+  },
+  {
+    "title": "دو تیکه تاپ مانتو دخترانه سیتی آبی | تابستونی",
+    "group": "دخترانه",
+    "product": "تاپ مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستونی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "ffc376dd-9e6a-41fb-991c-66991f7a2fbe",
+    "image_url": "https://image.torob.com/base/images/MA/oj/MAojLlBSci1_fXP6.jpg"
+  },
+  {
+    "title": "مانتودوتیکه دخترانه (پس کرایه)",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دوتیکه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "1a100002-850c-4add-baa0-7675452c0e62",
+    "image_url": "https://image.torob.com/base/images/of/B1/ofB1rfHd01NAAy-L.jpg"
+  },
+  {
+    "title": "مانتو لی دخترانه کلاه دار",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "6d16e60e-2ffc-466c-98ae-09eb7317ae3c",
+    "image_url": "https://image.torob.com/base/images/Nj/wA/NjwAe6HWWm4X-25z.jpg"
+  },
+  {
+    "title": "مانتو ، مانتو پاییزه، سایز 36، دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "c6e077ad-ed87-40a6-b0ba-6577a6195f5f",
+    "image_url": "https://image.torob.com/base/images/Od/b0/Odb0qv5Sc6ubYx3m.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترانه کوتاه یقه پهن",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه پهن"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "1645d351-e641-4b33-b3e3-89e760c1c5b9",
+    "image_url": "https://image.torob.com/base/images/HC/s9/HCs9tcL-0JpznIWo.jpg"
+  },
+  {
+    "title": "مانتو دخترانه جنس مازراتی کجراه مدل جلو باز",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مازراتی کجراه"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو باز"
+        ]
+      }
+    ],
+    "random_key": "89566d04-88d0-4223-8ef3-3da674485980",
+    "image_url": "https://image.torob.com/base/images/PD/C_/PDC_MSCKpXpibgtQ.jpg"
+  },
+  {
+    "title": "مانتو دخترانه مدل ملوسک یونی کرن دو سایزی 38تا48 در سه رنگ",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو ملوسک یونیکرن"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "دو سایزی 38تا48"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "سه رنگ"
+        ]
+      }
+    ],
+    "random_key": "84f34afd-5d83-477f-a711-d3a0cf96eca4",
+    "image_url": "https://image.torob.com/base/images/ao/Pf/aoPftyjsgYlF3_ho.jpg"
+  },
+  {
+    "title": "مانتو گل بابونه کالباسی رنگ",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کالباسی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گل بابونه"
+        ]
+      }
+    ],
+    "random_key": "5d24a845-3f67-4393-bc2e-a7ed0f93a312",
+    "image_url": "https://image.torob.com/base/images/Qd/Ve/QdVeELvOdER1prNW.jpg"
+  },
+  {
+    "title": "مانتومشکی زنانه دخترانه جنس شانتون درجه یک",
+    "group": "زنانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "شانتون درجه یک"
+        ]
+      }
+    ],
+    "random_key": "cfd3efe1-c9a9-4c5f-a8fc-e73fef562523",
+    "image_url": "https://image.torob.com/base/images/jE/yy/jEyyyXSU5hWwN-w6.jpg"
+  },
+  {
+    "title": "مانتوزنانه مانتو دخترانه مانتو ترکیبی مانتو پلیسه دربرناشاپ",
+    "group": "زنانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو ترکیبی",
+          "مانتو پلیسه"
+        ]
+      }
+    ],
+    "random_key": "9525396a-dd6d-4eaf-8f86-78203e022a1c",
+    "image_url": "https://image.torob.com/base/images/pz/3Z/pz3Z5C9TGyhDSlXo.jpg"
+  },
+  {
+    "title": "مانتو تونیک دخترانه کتان کیفیت عالی مناسب حدود سنی 10 سال تا نوجوان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو تونیک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "حدود سنی 10 سال تا نوجوان"
+        ]
+      }
+    ],
+    "random_key": "65d7efa6-9b70-48b6-a929-08c51c9b068f",
+    "image_url": "https://image.torob.com/base/images/a7/XF/a7XFXPgHf9HHk14j.jpg"
+  },
+  {
+    "title": "مانتو دخترانه رنگ قرمز",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      }
+    ],
+    "random_key": "ddf84a8e-3f66-4928-b902-5fd364341e17",
+    "image_url": "https://image.torob.com/base/images/Am/ls/AmlsPRvHpldZtwn1.jpg"
+  },
+  {
+    "title": "مانتو گلدوزی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی"
+        ]
+      }
+    ],
+    "random_key": "f28e75c3-1a80-4d38-85a6-c7f829b5757c",
+    "image_url": "https://image.torob.com/base/images/wr/8z/wr8zVd2ucFEV-Kve.jpg"
+  },
+  {
+    "title": "ست مانتو شلوار دخترانه",
+    "group": "دخترانه",
+    "product": "ست مانتو شلوار",
+    "entities": [],
+    "random_key": "003974c0-c42c-484c-9be9-dbedd9c022f6",
+    "image_url": "https://image.torob.com/base/images/bE/cW/bEcW1292tYV298jO.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کد 2742",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "d3b4a493-8836-4b67-a6b0-102a1388144d",
+    "image_url": "https://image.torob.com/base/images/lT/AS/lTASjn2BQr2RTfcj.jpg"
+  },
+  {
+    "title": "مانتو شانتون دخترانه رنگ سبز بنتون برند سارینا",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "شانتون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز بنتون"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سارینا"
+        ]
+      }
+    ],
+    "random_key": "9fa36fae-e035-4edb-9ecf-45082493e127",
+    "image_url": "https://image.torob.com/base/images/Zl/Ig/ZlIgVN-49kdMqc2j.jpg"
+  },
+  {
+    "title": "مانتو دخترانه شیک جواهردوزی ارکیده",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک جواهردوزی"
+        ]
+      }
+    ],
+    "random_key": "fcbcbbd5-12d9-4752-940f-498bb5023ef7",
+    "image_url": "https://image.torob.com/base/images/XM/Ba/XMBasuHJn7C1J_H5.webp"
+  },
+  {
+    "title": "مانتو دخترانه لوپیلو مانتو طرح جغد لوپیلو مانتو مناسب 8تا 10سال",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "جغد"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "8تا 10سال"
+        ]
+      }
+    ],
+    "random_key": "f9e7f261-0408-4f0e-83b7-3602e59366f4",
+    "image_url": "https://image.torob.com/base/images/Bp/3T/Bp3T0xY8La7Asqs6.jpg"
+  },
+  {
+    "title": "مانتو کتان دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "94f6e309-a277-4130-9a40-efa6a75aed45",
+    "image_url": "https://image.torob.com/base/images/Pl/Ep/PlEpOMmC1KbEfpr3.jpg"
+  },
+  {
+    "title": "مانتو عروسکی آیسان (فری38تا46)جنس داکرون - مانتو دودامنه - مانتو کوتاه - مانتو دخترانه - مانتو دانشجویی - مانتو عروسکی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو عروسکی",
+          "مانتو دودامنه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی",
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری 38تا46"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "داکرون"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "3eb74b9d-3a0f-4dba-98d5-94ee788befde",
+    "image_url": "https://image.torob.com/base/images/FP/Pj/FPPjxjwtpSEmNYqP.jpg"
+  },
+  {
+    "title": "مانتو دخترانه جنس کتان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "a70244b1-9126-484b-ac07-52cb5789f7e3",
+    "image_url": "https://image.torob.com/base/images/QE/SO/QESOlo3unvVk2n6Z.jpg"
+  },
+  {
+    "title": "دوخت عبای دخترانه تا 14 سال مناسب اربعین",
+    "group": "دخترانه",
+    "product": "عبا",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "عبای"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "تا 14 سال"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مناسب اربعین"
+        ]
+      }
+    ],
+    "random_key": "355141d8-2486-442e-96db-0a21354ddc1e",
+    "image_url": "https://image.torob.com/base/images/2S/pL/2SpLbypnzMfRNciR.jpg"
+  },
+  {
+    "title": "مانتو دخترانه طرح خرگوش تک رنگ",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "خرگوش",
+          "تک رنگ"
+        ]
+      }
+    ],
+    "random_key": "b6828d18-5ae0-4572-8d92-41398b72e8cf",
+    "image_url": "https://image.torob.com/base/images/vz/Tt/vzTt8gtdnFNr85dW.jpg"
+  },
+  {
+    "title": "مانتو کتی دخترانه دانشجویی پاییزه ، کت دخترانه ، جنس کتان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی",
+          "کت"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "991b1e7d-6125-4acb-8a6b-8b27c2484006",
+    "image_url": "https://image.torob.com/base/images/1n/qV/1nqVE3JUlvZB8_Fl.jpg"
+  },
+  {
+    "title": "مانتو دخترانه بندی مشکی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بندی"
+        ]
+      }
+    ],
+    "random_key": "0ab0c26b-5822-4a68-90b5-dbfb33b1a35c",
+    "image_url": "https://image.torob.com/base/images/bh/v9/bhv9Ts4-mDHnljTe.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کد 878",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "9335e49f-1cc9-4f11-93a6-d4a00f8c1d31",
+    "image_url": "https://image.torob.com/base/images/4a/MV/4aMVEg7XVZ9V4KaW.jpg"
+  },
+  {
+    "title": "مانتو کوتاه",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "04bc11ff-b227-424e-9940-765cde4b4568",
+    "image_url": "https://image.torob.com/base/images/B3/-K/B3-KO1n_gA-iFyvY.jpg"
+  },
+  {
+    "title": "گل پیراهن (پس کرایه)",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [],
+    "random_key": "6bccbb0c-da33-4a35-bee5-afbba59e0742",
+    "image_url": "https://image.torob.com/base/images/Hf/6s/Hf6sNSGTgTqVy6J_.jpg"
+  },
+  {
+    "title": "ست اسپرت ملیکا (بهار)، شومیز مانتو، مانتو دخترانه، مانتو شیک، مانتو کوتاه، مانتو زنانه",
+    "group": "دخترانه و زنانه",
+    "product": "ست اسپرت",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز مانتو"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "8e8f2e80-0431-406c-8879-407ecc00c91a",
+    "image_url": "https://image.torob.com/base/images/zI/oF/zIoFtOq-Z8hEomFF.jpg"
+  },
+  {
+    "title": "مانتو لنین جنس لنین اعلا فری سایز مانتو اسپورت مانتو دخترانه مانتو خوشگل",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین",
+          "لنین اعلا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپورت"
+        ]
+      }
+    ],
+    "random_key": "692482fe-f0b1-4f73-9a90-3b8cd78d2fed",
+    "image_url": "https://image.torob.com/base/images/Gj/jz/GjjzZU8Sdto3ZZTz.jpg"
+  },
+  {
+    "title": "مانتو دانشجویی پرشیا جیب دیپلمات",
+    "group": "دانشجویی",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جیب دیپلمات"
+        ]
+      }
+    ],
+    "random_key": "9829893f-a760-4bc9-8c5b-b32a582640f9",
+    "image_url": "https://image.torob.com/base/images/Fg/mZ/FgmZaxGvnleY74Xn.jpg"
+  },
+  {
+    "title": "مانتو دخترانه مدل کمرکش شانتون کد 1880237",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "شانتون"
+        ]
+      },
+      {
+        "name": "یژگی ها",
+        "values": [
+          "کمرکش"
+        ]
+      }
+    ],
+    "random_key": "649258f0-b564-4573-8c25-4c20c7e69cca",
+    "image_url": "https://image.torob.com/base/images/HH/T6/HHT6_co35YI3f3W7.jpg"
+  },
+  {
+    "title": "مانتوشومیزی شیک دخترانه مدل پوران ارسال رایگان",
+    "group": "دخترانه",
+    "product": "مانتو شومیزی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتوشومیزی"
+        ]
+      }
+    ],
+    "random_key": "b0da8925-4d88-4185-93db-44a4cdcd00aa",
+    "image_url": "https://image.torob.com/base/images/rI/5b/rI5baLIcfZSzJtSP.jpg"
+  },
+  {
+    "title": "مانتو شانتون عروسکی",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "شانتون"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      }
+    ],
+    "random_key": "693ad9ef-b437-4060-bf8e-70ed4f94081f",
+    "image_url": "https://image.torob.com/base/images/V2/0F/V20FapIGTZRCVNn4.jpg"
+  },
+  {
+    "title": "مانتو دخترانه وزنانه،پارچه نخ لنین ضخیم،مناسب پاییز،کارشده با دوخت سنتی ،فری سایز مناسب سایز 34 تا 38",
+    "group": "دخترانه و زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخ لنین ضخیم"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "پاییز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کارشده با دوخت سنتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز",
+          "34 تا 38"
+        ]
+      }
+    ],
+    "random_key": "44bc4e09-e2f7-40cb-ab16-2cb48ea26ae4",
+    "image_url": "https://image.torob.com/base/images/ID/Pd/IDPd6j5UW5I2Dq0c.jpg"
+  },
+  {
+    "title": "مانتو دانشجویی دخترانه کمردار آستین پاپیونی مدل آشا",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمردار"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین پاپیونی"
+        ]
+      }
+    ],
+    "random_key": "a778df98-7cc6-4d78-a54c-b327c9de5b59",
+    "image_url": "https://image.torob.com/base/images/-Q/WY/-QWY3AucY5SL1Qu_.jpg"
+  },
+  {
+    "title": "مانتو شومیزی دخترونه لینن نقاشی شده فری سایزقد 70",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شومیزی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نقاشی شده"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "70"
+        ]
+      }
+    ],
+    "random_key": "ca11b9f0-8010-47c2-bf2c-086292cf1a1d",
+    "image_url": "https://image.torob.com/base/images/mP/xd/mPxdHewISqf4w_4A.jpg"
+  },
+  {
+    "title": "مانتو دکمه دار خامه دوزی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خامه دوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "603bd5c5-7832-4ab9-b777-f55c8ddf0fea",
+    "image_url": "https://image.torob.com/base/images/4A/9Y/4A9YkTOWt62R8z18.jpg"
+  },
+  {
+    "title": "مانتو بافت دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "2c91ae78-fab0-4963-9616-3f6cc5945638",
+    "image_url": "https://image.torob.com/base/images/wb/on/wbonXYOthh-tHrNS.jpg"
+  },
+  {
+    "title": "مانتو دخترانه عروسکی خیلی شیک مزوندوزی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی",
+          "مزوندوزی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "f2381256-5249-446b-89a4-a07f763c8056",
+    "image_url": "https://image.torob.com/base/images/jI/dc/jIdcAnK3sWtfOZc9.jpg"
+  },
+  {
+    "title": "مانتو دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "afd8a8de-d2dc-474f-a711-8d20f5bfb844",
+    "image_url": "https://image.torob.com/base/images/Mp/Bo/MpBop6biGWrFdubg.jpg"
+  },
+  {
+    "title": "مانتو ریما دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "27cfd658-4182-4fec-aa68-33153577a0cc",
+    "image_url": "https://image.torob.com/base/images/G7/4m/G74msSbJGVKnz288.jpg"
+  },
+  {
+    "title": "مانتو سوئیت دخترانه. موجود در 4سایز . کیفیت فوق العاده عالی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوئیت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "4 سایز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت عالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "19717295-b5e7-467a-bd95-ff8b625fb5f3",
+    "image_url": "https://image.torob.com/base/images/9-/w1/9-w1mBVX6r8-BXU5.jpg"
+  },
+  {
+    "title": "مانتو فوتر ثنا دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "فوتر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "9ffcfc86-c74b-4721-9c61-639b34a7f926",
+    "image_url": "https://image.torob.com/base/images/31/7v/317vvXNW0T9O8lAf.jpg"
+  },
+  {
+    "title": "روپوش و مانتو بچگانه",
+    "group": "بچگانه",
+    "product": "روپوش و مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "aeb73f26-92d9-4824-ae85-6f4d7eef56ab",
+    "image_url": "https://image.torob.com/base/images/uZ/fP/uZfPn_wQkvGH2xDG.jpg"
+  },
+  {
+    "title": "مانتو پاییزی بهاری وارداتی .یک عدد تل دخترونه اشانتیون",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزی",
+          "بهاری"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی",
+          "اشانتیون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "40720722-6006-4726-bf0b-6775e685470e",
+    "image_url": "https://image.torob.com/base/images/VG/ZB/VGZBwqV9nLEqn1rM.jpg"
+  },
+  {
+    "title": "مانتو دخترانه نخی ارسال رایگان کد 1655206",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "796ec78d-41b3-4555-ba2c-8b621c74d895",
+    "image_url": "https://image.torob.com/base/images/5y/LF/5yLFfrEcUtZbYYDA.jpg"
+  },
+  {
+    "title": "پالتو مشکی دخترانه و بچگانه سیاه مانتو . اورجینال Dewberry",
+    "group": "دخترانه و بچگانه",
+    "product": "پالتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Dewberry"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو",
+          "پالتو"
+        ]
+      }
+    ],
+    "random_key": "ccba9fd2-93ce-43be-8a37-dce7b793bfb1",
+    "image_url": "https://image.torob.com/base/images/Xt/LL/XtLL_xflI50tp7-T.jpg"
+  },
+  {
+    "title": "مانتو پاییزه دخترانه تیامو",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تیامو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "73365a03-7753-41bc-ba17-a13c6c2ef9aa",
+    "image_url": "https://image.torob.com/base/images/fd/rO/fdrOaGxCoBfitxPQ.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترانه کرپ نازلی سایز از از 36 تا 46 ارسال مانتو دخترانه ارسال رایگان فوری",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کرپ نازلی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36 تا 46"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان",
+          "ارسال فوری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "3f00bd32-07df-4249-bb25-932a7658c27d",
+    "image_url": "https://image.torob.com/base/images/lx/IU/lxIUrBfY_8wCIVc7.jpg"
+  },
+  {
+    "title": "مانتو عروسکی شیک و دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "3dd3a438-8c62-45c6-9118-243ab6a29463",
+    "image_url": "https://image.torob.com/base/images/bP/Bl/bPBlwsmD5_ERwju2.jpg"
+  },
+  {
+    "title": "مانتو ماهریس",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ماهریس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "a96194dc-0398-4eb1-882f-b04517a27a20",
+    "image_url": "https://image.torob.com/base/images/-m/6T/-m6T6H-FKspEmbaa.jpg"
+  },
+  {
+    "title": "کفتان مزونی راه راه",
+    "group": "دخترانه",
+    "product": "کفتان",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "مزونی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفتان"
+        ]
+      }
+    ],
+    "random_key": "6d23350c-4fbc-4038-be35-501611d70f1f",
+    "image_url": "https://image.torob.com/base/images/Vq/Sf/VqSfZfsmo4crAZWI.jpg"
+  },
+  {
+    "title": "مانتو دخترانه مخمل میکرو",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل میکرو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "f0efb765-023d-4bab-9de3-87fcadcdc025",
+    "image_url": "https://image.torob.com/base/images/EZ/6p/EZ6pkhzGAy2zlwR5.jpg"
+  },
+  {
+    "title": "مانتو دخترانه 7تا15سال",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "7تا15سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "3cfcb8e4-ed14-44f1-8ba0-ef65f1110083",
+    "image_url": "https://image.torob.com/base/images/tz/fm/tzfmQvnnWH3mVMHo.jpg"
+  },
+  {
+    "title": "مانتو کتی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      }
+    ],
+    "random_key": "0c899ce4-93c4-4b92-9ef3-c099f1f15eca",
+    "image_url": "https://image.torob.com/base/images/yo/XA/yoXAeXjYCHKTEPry.jpg"
+  },
+  {
+    "title": "مانتو دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "5d8f892a-3429-4d53-bbbc-bbab5334daee",
+    "image_url": "https://image.torob.com/base/images/h2/2p/h22pxcevqqK79eC2.jpg"
+  },
+  {
+    "title": "مانتو (جلو دکمه) دخترانه جونیورز",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو دکمه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جونیورز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "ce0c323d-9247-4861-9d05-8c98ebb3baba",
+    "image_url": "https://image.torob.com/base/images/mM/S4/mMS435Ne3Gfl6SZw.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لوپیلو مدل A0",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "e6c374cb-7284-44ce-9d71-10c31df7fd1d",
+    "image_url": "https://image.torob.com/base/images/FM/09/FM09H7I9MXsPdDUj.jpg"
+  },
+  {
+    "title": "دوخت مانتو دخترانه لی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "bfdd212f-f672-43c6-91f6-34a21737df64",
+    "image_url": "https://image.torob.com/base/images/dO/2G/dO2G0iaqQFiNK0pY.jpg"
+  },
+  {
+    "title": "مانتون دخترانه مدل آیسان ارسال رایگان قیمت مناسب",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "1c0d1eee-f1d3-4a6c-8c6d-50e414d1ec10",
+    "image_url": "https://image.torob.com/base/images/It/-6/It-6oIdnp2lJbqfD.jpg"
+  },
+  {
+    "title": "پافر کلاهدار مموری (1116)",
+    "group": "دخترانه",
+    "product": "پافر",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مموری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پافر"
+        ]
+      }
+    ],
+    "random_key": "c3ab3c04-fe58-41c6-b916-3129119bc25c",
+    "image_url": "https://image.torob.com/base/images/sY/BY/sYBYtfNvebtyQ-PK.jpg"
+  },
+  {
+    "title": "مانتو کتان لایت دخترانه (1099)",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "لایت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "baceec52-f54c-4ae1-a383-e0baf00876ac",
+    "image_url": "https://image.torob.com/base/images/nX/Jb/nXJbImfNzrvqm6uw.jpg"
+  },
+  {
+    "title": "مانتو سپیده",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "458b2b16-ba6e-4336-ae44-878388fabb2c",
+    "image_url": "https://image.torob.com/base/images/al/pQ/alpQ67Cutn2Rk-gN.jpg"
+  },
+  {
+    "title": "مانتو کتان دخترانه طرح بانو کد 9703",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بانو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "bc9d15b5-1a52-48b2-9cef-a0842f0d446a",
+    "image_url": "https://image.torob.com/base/images/7T/cn/7TcnZXC1vluH_rhp.jpg"
+  },
+  {
+    "title": "مانتو دخترونه لینن و لینن سوزندوزی طرح شیرین فری سایز قد 75",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن",
+          "لینن سوزندوزی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شیرین"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "75"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "269f2628-27c3-4daf-ae77-bc87cec80c7b",
+    "image_url": "https://image.torob.com/base/images/S0/oj/S0oj0YxpkWpGd2pX.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لینن جلو باز آستین خفاشی کمر کش",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو باز"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین خفاشی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "کمر کش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "243eb8ce-1286-4d97-afa5-f3c645ed4fbf",
+    "image_url": "https://image.torob.com/base/images/ns/iK/nsiKyYgq5XRkcvj6.jpg"
+  },
+  {
+    "title": "مانتو دوتیکه دخترانه اسپورت",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپورت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "078d0f70-42e4-41a2-bab7-1a4bccfdfe7c",
+    "image_url": "https://image.torob.com/base/images/6H/gS/6HgSV_RCopVzY1vT.jpg"
+  },
+  {
+    "title": "مانتو راه راه جنس کنفی سایز 1تا3 رنگبندی سفید صورتی کرم توسی",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کنفی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1تا3"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "صورتی",
+          "کرم",
+          "توسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "b28e8b32-08b8-4d89-9fba-a039db41fa37",
+    "image_url": "https://image.torob.com/base/images/8i/kr/8ikrAbhLx55DaFLO.jpg"
+  },
+  {
+    "title": "مانتو پیراهنی گلدوزی کودک و نوجوان چین چینی دخترانه",
+    "group": "دخترانه کودک و نوجوان",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی",
+          "چین چینی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهنی"
+        ]
+      }
+    ],
+    "random_key": "0e33bc46-c8c5-4cea-a8b2-ce18cf62f699",
+    "image_url": "https://image.torob.com/base/images/b6/p6/b6p6d50Ihhaiw2Jm.jpg"
+  },
+  {
+    "title": "مانتو سوییت دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوییت"
+        ]
+      }
+    ],
+    "random_key": "f9401bdb-81c5-40e4-8feb-4fa44a81d0cf",
+    "image_url": "https://image.torob.com/base/images/b2/f8/b2f8O14NqtKRO-gk.jpg"
+  },
+  {
+    "title": "مانتو دو تیکه دخترانه کتان مموری",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان مموری"
+        ]
+      }
+    ],
+    "random_key": "74f42c9c-96ec-4224-9077-b7f1c4314882",
+    "image_url": "https://image.torob.com/base/images/xa/3v/xa3vBoz-ATjYC25y.jpg"
+  },
+  {
+    "title": "مانتومیکی موس چاپی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاپی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "میکی موس"
+        ]
+      }
+    ],
+    "random_key": "d5b593d0-0515-406a-a7fb-97fb9351330d",
+    "image_url": "https://image.torob.com/base/images/v3/vv/v3vvaPcjWY2BuvxS.jpg"
+  },
+  {
+    "title": "مانتو تونیک دخترانه جنس کنفی کیفیت تضمینی مناسب حدود سنی 8 تا 10 سال",
+    "group": "دخترانه 8 تا 10 سال",
+    "product": "مانتو تونیک",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کنفی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "مناسب حدود سنی 8 تا 10 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو تونیک"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کیفیت تضمینی"
+        ]
+      }
+    ],
+    "random_key": "87fd6c51-f65d-4db7-8e3d-30c2e4e49469",
+    "image_url": "https://image.torob.com/base/images/Hn/dn/HndnxCS-K8vZdazY.jpg"
+  },
+  {
+    "title": "مانتو شلوار دخترانه گیپور و مازراتی فری تا 48",
+    "group": "دخترانه",
+    "product": "مانتو شلوار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور",
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری تا 48"
+        ]
+      }
+    ],
+    "random_key": "8f55dbf9-c16f-4dc0-873b-3bb3b58e0f09",
+    "image_url": "https://image.torob.com/base/images/5g/P4/5gP4BwGxrlDAyTAD.jpg"
+  },
+  {
+    "title": "مانتو دخترونه پاییزه جنس کبریتی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      }
+    ],
+    "random_key": "c55345f8-8c4b-44b0-812b-b1242591ab69",
+    "image_url": "https://image.torob.com/base/images/kP/vt/kPvtK8syfb3b28CG.jpg"
+  },
+  {
+    "title": "کت و شلوار",
+    "group": "نامشخص",
+    "product": "کت و شلوار",
+    "entities": [],
+    "random_key": "d2195ad9-9a41-4988-984b-3167d6aa47f3",
+    "image_url": "https://image.torob.com/base/images/OE/Kz/OEKzdSMHmHoNHLNk.jpg"
+  },
+  {
+    "title": "عیدانه مانتو کتان دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      }
+    ],
+    "random_key": "504ee204-83f9-4212-8beb-d6ee9d4167a1",
+    "image_url": "https://image.torob.com/base/images/K_/OR/K_ORHKTsF4QJhIWJ.jpg"
+  },
+  {
+    "title": "مانتو دخترانه در جنس مخمل سوییت مخمل کبریتی و لنین",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل سوییت",
+          "مخمل کبریتی",
+          "لنین"
+        ]
+      }
+    ],
+    "random_key": "12aa5b46-dc35-4392-8df4-c9864efa45c3",
+    "image_url": "https://image.torob.com/base/images/xd/RD/xdRD5szuHDW9qFZy.jpg"
+  },
+  {
+    "title": "مانتو دخترانه الیاف مدل پلوتی کد 1801110",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "الیاف"
+        ]
+      },
+      {
+        "name": "مدل",
+        "values": [
+          "پلوتی"
+        ]
+      },
+      {
+        "name": "کد",
+        "values": [
+          "1801110"
+        ]
+      }
+    ],
+    "random_key": "db9f8b1d-b923-4c5a-b837-f50a3a2b204d",
+    "image_url": "https://image.torob.com/base/images/Ft/5j/Ft5jW-vsbGzqRbv7.jpg"
+  },
+  {
+    "title": "مانتو کتی دخترانه برای 10 تا 12 سال",
+    "group": "دخترانه 10 تا 12 سال",
+    "product": "مانتو کتی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "برای 10 تا 12 سال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      }
+    ],
+    "random_key": "bf297b01-4e2e-4721-9c69-c993b45cb217",
+    "image_url": "https://image.torob.com/base/images/0x/G-/0xG-1x_KI9pspd4h.jpg"
+  },
+  {
+    "title": "مانتو تیارا فری سایز جنس تترون ترک شیک و دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "تیارا"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تترون ترک"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "006da061-bde5-4bee-85a1-c584f2e75b46",
+    "image_url": "https://image.torob.com/base/images/8H/4C/8H4CHSw2wLbs71g-.jpg"
+  },
+  {
+    "title": "مانتو تابستانی دخترانه داکرون در رنگ های زیبا با ارسال رایگان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "داکرون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگ های زیبا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      }
+    ],
+    "random_key": "9cc1d9fb-76f1-4654-b3f8-df0822e2d1f9",
+    "image_url": "https://image.torob.com/base/images/Wu/_L/Wu_L93UclNH-onbw.jpg"
+  },
+  {
+    "title": "مانتو شومیز دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو شومیز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو شومیز"
+        ]
+      }
+    ],
+    "random_key": "ecd1379e-2e92-43c4-9dfe-2cc413f4eb00",
+    "image_url": "https://image.torob.com/base/images/KD/cn/KDcnAQU11qSRGRJk.jpg"
+  },
+  {
+    "title": "ست دو تکه مانتو جلو باز و تیشرت جدید بچگانه دخترانه شیک جنس درجه یک کد 2173",
+    "group": "دخترانه بچگانه",
+    "product": "ست مانتو تیشرت",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو باز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "جنس درجه یک"
+        ]
+      }
+    ],
+    "random_key": "9365e634-a322-4813-a944-510b708aabdd",
+    "image_url": "https://image.torob.com/base/images/BP/r7/BPr7ZySVuvabzt57.jpg"
+  },
+  {
+    "title": "مانتوسوییت چرم زیپدار وکلاه دار دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سوییت چرم"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاه دار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ دار"
+        ]
+      }
+    ],
+    "random_key": "db2b66d0-a293-41e3-acbf-9e309e737b7e",
+    "image_url": "https://image.torob.com/base/images/O3/yZ/O3yZP3rpi2gwjTWg.jpg"
+  },
+  {
+    "title": "مانتو دخترانه دکمه دار حراجی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه دار"
+        ]
+      }
+    ],
+    "random_key": "30d86c5d-20ec-4e08-b324-110fbb211160",
+    "image_url": "https://image.torob.com/base/images/Qx/Ff/QxFfz_xA2PztUntj.jpg"
+  },
+  {
+    "title": "مانتو دخترانه نسیم تابستانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      }
+    ],
+    "random_key": "752cb5d9-2c77-4e20-8f0d-4f20ad4d0fa3",
+    "image_url": "https://image.torob.com/base/images/SO/mF/SOmF_VoKW8IKuEjD.jpg"
+  },
+  {
+    "title": "مانتو کتی چهارخانه آبی قد ۶۳ جنس ۴ فصل",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چهارخانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "قد ۶۳"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "۴ فصل"
+        ]
+      }
+    ],
+    "random_key": "f832dfe6-4d9a-438b-85af-d7d465a454e3",
+    "image_url": "https://image.torob.com/base/images/e9/5G/e95GYKQOlmmHiqnc.jpg"
+  },
+  {
+    "title": "حراج مانتومشکی مجلسی زنانه دخترانه شیک جنس ژاکارد",
+    "group": "زنانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مجلسی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "ژاکارد"
+        ]
+      }
+    ],
+    "random_key": "f3b79d8d-eb7c-42c4-921e-eca294ce6d3d",
+    "image_url": "https://image.torob.com/base/images/Nj/Hy/NjHyi0spUXeUbMAP.jpg"
+  },
+  {
+    "title": "مانتو دخترانه زنبوری ، فری سایز 1و 2",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "زنبوری"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز 1و 2"
+        ]
+      }
+    ],
+    "random_key": "f4caaf24-f3e1-41db-8e32-5415da9a7fca",
+    "image_url": "https://image.torob.com/base/images/VV/bg/VVbgBL-tCuBNx68Y.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کد 22702",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "f57579b1-9b61-4ecc-872d-01db4fe121ad",
+    "image_url": "https://image.torob.com/base/images/qd/Hp/qdHpnum1JpQzYhBF.webp"
+  },
+  {
+    "title": "مانتو الیاف مانتو اسپرت مانتو مجلسی مانتو دخترانه مانتو کوتاه تونیک الیاف تونیک مجلسی شومیز الیاف مانتو دانشجویی رادین",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "الیاف"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت",
+          "مجلسی",
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      }
+    ],
+    "random_key": "1e8060f2-e53a-4634-9a62-adc025f92821",
+    "image_url": "https://image.torob.com/base/images/xw/v6/xwv6JGSEZOt2jElz.jpg"
+  },
+  {
+    "title": "مانتو دانشجویی پرشیا مکانیک زنانه",
+    "group": "زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پرشیا مکانیک"
+        ]
+      }
+    ],
+    "random_key": "f51a4546-eebd-4ea8-a84e-f6c754a9c0c3",
+    "image_url": "https://image.torob.com/base/images/4k/lq/4klqoV9Pr4Wf35ZZ.jpg"
+  },
+  {
+    "title": "مانتو دانشجویی کوتاه دخترانه تترون با کیفیت",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "قد",
+        "values": [
+          "کوتاه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "تترون"
+        ]
+      }
+    ],
+    "random_key": "e8ad1f0b-27eb-4361-8acd-30fcf97033a5",
+    "image_url": "https://image.torob.com/base/images/YI/v_/YIv_QMRCJLiOwgfx.jpg"
+  },
+  {
+    "title": "رویه لباس دخترانه نخی سبز روشن Piano",
+    "group": "دخترانه",
+    "product": "رویه لباس",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز روشن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Piano"
+        ]
+      }
+    ],
+    "random_key": "298674f4-739f-44bd-9ccc-d7250708a638",
+    "image_url": "https://image.torob.com/base/images/dD/kA/dDkAEPk7K-qQCmgy.jpg"
+  },
+  {
+    "title": "مانتو پیراهن سارافن مخمل دخترانه بچگانه پاییزه وزمستانی",
+    "group": "دخترانه بچگانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهن",
+          "سارافن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه",
+          "زمستانی"
+        ]
+      }
+    ],
+    "random_key": "fcdfadff-6692-4ec1-a1e0-edd73da61fb8",
+    "image_url": "https://image.torob.com/base/images/fT/0U/fT0U2FC3qIkUpKoX.jpg"
+  },
+  {
+    "title": "مانتو دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "76b2559f-c955-4f19-b9d7-33b239850bb4",
+    "image_url": "https://image.torob.com/base/images/i6/dF/i6dF53mXFoKiNXgV.jpg"
+  },
+  {
+    "title": "مانتو دخترانه کتان از 8 سال تا 13سال",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "از 8 سال تا 13سال"
+        ]
+      }
+    ],
+    "random_key": "4eaa0126-7766-42e4-879e-9f761631266f",
+    "image_url": "https://image.torob.com/base/images/xm/Mu/xmMuvDtpVFY_7Kea.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترانه آستین گره چهار دکمه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین گره"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چهار دکمه"
+        ]
+      }
+    ],
+    "random_key": "cd17a340-6704-428a-8c06-ce6f0828f4bd",
+    "image_url": "https://image.torob.com/base/images/8-/vm/8-vmJytr10Zo7Dkw.jpg"
+  },
+  {
+    "title": "مانتو دخترانه.موجودی بگیر گل من کد 1887074",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [],
+    "random_key": "b6f46a64-ee6f-4dd2-b3e7-def1fa11f51e",
+    "image_url": "https://image.torob.com/base/images/ba/84/ba84pensfui1B8vW.jpg"
+  },
+  {
+    "title": "مانتو ( تونیک ) نخی جدید بچگانه دخترانه چین دار بسیار خنک و جنس پارچه تضمینی کد 1648",
+    "group": "بچگانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چین دار",
+          "بسیار خنک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو تونیک"
+        ]
+      }
+    ],
+    "random_key": "b88c4194-adab-47b5-91e1-3a183399b974",
+    "image_url": "https://image.torob.com/base/images/o-/XT/o-XT2La0NlgXEEwS.jpg"
+  },
+  {
+    "title": "مانتو دوتیکه دخترانه بغل دکمه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بغل دکمه"
+        ]
+      }
+    ],
+    "random_key": "4b4f30ce-3767-421d-aaac-f549fa389dc4",
+    "image_url": "https://image.torob.com/base/images/HJ/b9/HJb9VKrPPnkMBg24.jpg"
+  },
+  {
+    "title": "مانتو عروسکی دخترونه آستین پف کد ۱۵۳۷",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین پف"
+        ]
+      }
+    ],
+    "random_key": "6a51a41c-e999-4bdd-8c85-7c4dace4884c",
+    "image_url": "https://image.torob.com/base/images/xx/NN/xxNNjN1QSgZWyM27.jpg"
+  },
+  {
+    "title": "مانتو بچه گانه(دخترانه) کتی کتان رنگ خردلی سایز 1الی4 تخفیف روز کودک",
+    "group": "بچگانه (دخترانه)",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کتی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خردلی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "1الی4"
+        ]
+      }
+    ],
+    "random_key": "b36181d8-44af-476f-99bd-f45b3fddac54",
+    "image_url": "https://image.torob.com/base/images/pj/oi/pjoiaQMcca_WKV_u.jpg"
+  },
+  {
+    "title": "مانتو دانشجویی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      }
+    ],
+    "random_key": "2a7ba484-30af-4f56-a1b5-27586b177e1b",
+    "image_url": "https://image.torob.com/base/images/Fe/bf/FebfOzpXjVteciUf.jpg"
+  },
+  {
+    "title": "مانتو لی دخترانه نوجوان، مانتو لی چاپ ونگین کاری",
+    "group": "دخترانه نوجوان",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "چاپ ونگین کاری"
+        ]
+      }
+    ],
+    "random_key": "10f66a10-7978-4a72-ae7e-93617f44c4a6",
+    "image_url": "https://image.torob.com/base/images/-l/rO/-lrOxbrXPnG3LWpj.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لنین مدل مانتو لنین",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      }
+    ],
+    "random_key": "38ae549d-4664-4a6e-97c0-8dcbf09eb7f9",
+    "image_url": "https://image.torob.com/base/images/FH/o1/FHo1Dq0NjNRqhwsM.jpg"
+  },
+  {
+    "title": "مانتو داکرون تابستانی دخترانه کاملا خنک",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "داکرون"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کاملا خنک"
+        ]
+      }
+    ],
+    "random_key": "80e25475-4ecd-481e-9773-2f7eda4ec4ad",
+    "image_url": "https://image.torob.com/base/images/HT/kG/HTkG0_zkbVwka-9M.jpg"
+  },
+  {
+    "title": "مانتو لینن آستین مچی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین مچی"
+        ]
+      }
+    ],
+    "random_key": "fc197bd6-d7ca-4d6c-a70c-312c04166b21",
+    "image_url": "https://image.torob.com/base/images/Dn/dE/DndERNcWMP3JEapG.jpg"
+  },
+  {
+    "title": "مانتو آرسنا مانتو زنانه مانتو دخترانه مانتو لنین ارسال رایگان شومیز مانتوی",
+    "group": "زنانه دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آرسنا"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شومیز مانتویی"
+        ]
+      }
+    ],
+    "random_key": "b19195a1-fed3-426d-9790-b9e5949e0451",
+    "image_url": "https://image.torob.com/base/images/Qw/Zr/QwZra6pP0orVxBpR.jpg"
+  },
+  {
+    "title": "مانتو کلاهدار جلو زیپ دار آنغوره",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو زیپ دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "آنغوره"
+        ]
+      }
+    ],
+    "random_key": "c9f7657a-7a62-42b8-9cf4-a215e5130d97",
+    "image_url": "https://image.torob.com/base/images/id/53/id53-KyXEBObksFd.jpg"
+  },
+  {
+    "title": "مانتو شیک دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      }
+    ],
+    "random_key": "e308931c-bfa1-41d5-b659-c1e772158443",
+    "image_url": "https://image.torob.com/base/images/FE/l0/FEl0y-8PO1L38BQ3.jpg"
+  },
+  {
+    "title": "مانتو پیراهن مخمل ریز دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهن"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "مخمل ریز"
+        ]
+      }
+    ],
+    "random_key": "0e10c984-a565-4a67-af97-b1d281b47ae9",
+    "image_url": "https://image.torob.com/base/images/XQ/7y/XQ7yNeHZYMk1s7Fc.jpg"
+  },
+  {
+    "title": "مانتو بلند عیدانه مانتو دخترونه عید مدل بلند الهه ناز",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "عیدانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "الهه ناز"
+        ]
+      }
+    ],
+    "random_key": "4c58e5da-1899-4bcc-8e74-b61f2dbd08a0",
+    "image_url": "https://image.torob.com/base/images/gi/3Q/gi3QkYIIsp76KKrs.jpg"
+  },
+  {
+    "title": "مانتو دخترونه گیپور پولکی MISS ROSO",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گیپور",
+          "پولکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MISS ROSO"
+        ]
+      }
+    ],
+    "random_key": "9f28e731-2963-43b1-b4bd-1a099b929f14",
+    "image_url": "https://image.torob.com/base/images/iz/1k/iz1kur94hGrb4Ty4.jpg"
+  },
+  {
+    "title": "مانتو دخترانه نوجوان جنس نخی طرح قلب مناسب سایز36تا42",
+    "group": "دخترانه نوجوان",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "قلب"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36تا42"
+        ]
+      }
+    ],
+    "random_key": "4338033c-5272-46c3-a746-ac2c3bd396fc",
+    "image_url": "https://image.torob.com/base/images/_s/Bj/_sBjzLjf0qjofQK6.jpg"
+  },
+  {
+    "title": "مانتو بلند پشت دکمه پریزاد، مانتو بلند دانشجویی، مانتو بلند دخترانه، مانتو بلند دانشجویی ارسال رایگان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "پشت دکمه"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو بلند"
+        ]
+      }
+    ],
+    "random_key": "83d56777-5eb4-4e8d-b745-0709e9cf4f15",
+    "image_url": "https://image.torob.com/base/images/ec/Vk/ecVkHb4FrnK4EVsb.jpg"
+  },
+  {
+    "title": "مانتو دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "a8a36fd2-f5ab-43fb-bac3-fd60d4af0103",
+    "image_url": "https://image.torob.com/base/images/mP/ER/mPERn5GqKOLKou_E.png"
+  },
+  {
+    "title": "مانتو دوتیکه دخترانه کناردکمه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دوتیکه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کنار دکمه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو دوتیکه"
+        ]
+      }
+    ],
+    "random_key": "f263186a-17ab-4aef-80dc-2b9e7c5ce373",
+    "image_url": "https://image.torob.com/base/images/QR/d7/QRd7UnR5o91Vm2ve.jpg"
+  },
+  {
+    "title": "مانتو مازراتی تویست",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو تویست"
+        ]
+      }
+    ],
+    "random_key": "61a4cd6d-714e-4386-853c-21d5114ed6f7",
+    "image_url": "https://image.torob.com/base/images/kh/Pr/khPr8Yo6nw7WCJqy.webp"
+  },
+  {
+    "title": "مانتو دخترانه کمر گت دار پارچه لنین مدل ژیوار",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کمر گت دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "3ad9264a-3762-46a7-94a8-4cb3a3690418",
+    "image_url": "https://image.torob.com/base/images/gI/_Y/gI_YZVqOu2POg4JF.jpg"
+  },
+  {
+    "title": "مانتو استین لیزری کتان لمه درجه یک",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان لمه"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین لیزری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "b8a35b50-12dd-4583-b3c7-66e3b3b3ffd4",
+    "image_url": "https://image.torob.com/base/images/0M/SU/0MSU9kx5hv-G9Y7T.jpg"
+  },
+  {
+    "title": "مانتو دخترانه مازراتی کد 24968",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "مازراتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "0e493934-164d-4aa5-94ed-2b2060ffaa80",
+    "image_url": "https://image.torob.com/base/images/Kd/dF/KddFBwfYzNrF8O1o.webp"
+  },
+  {
+    "title": "مانتو دخترانه مدل طنازجنس بابوس کد 1879125",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "بابوس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "bb7acd8b-0cb2-498b-bf5d-7db4064b45c4",
+    "image_url": "https://image.torob.com/base/images/V_/qv/V_qvWUswWjtXimIX.jpg"
+  },
+  {
+    "title": "ست مانتو شلوار اسپرت خترانه",
+    "group": "دخترانه",
+    "product": "ست مانتو شلوار",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ست مانتو شلوار"
+        ]
+      }
+    ],
+    "random_key": "c059d50e-f70d-4c3a-9e79-a8737ca51c8d",
+    "image_url": "https://image.torob.com/base/images/MW/9n/MW9n68fUqclpuT4m.jpg"
+  },
+  {
+    "title": "مانتو عبای مشکی دخترانه مدل راحیل کد 30353",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو عبایی"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "راحیل"
+        ]
+      }
+    ],
+    "random_key": "64c9f1b8-de11-4cf0-8da7-ef0de30c783d",
+    "image_url": "https://image.torob.com/base/images/oN/Cw/oNCwZKOkQsGb9O4E.jpg"
+  },
+  {
+    "title": "مانتو تابستونی دخترانه ساده",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستونی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "5f091a9e-9f6d-49a3-86c4-d3fa97a79d29",
+    "image_url": "https://image.torob.com/base/images/Nl/hb/NlhbGs033r-bvoCv.jpg"
+  },
+  {
+    "title": "مانتو جین دخترانه آبی کثیف",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی کثیف"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو جین"
+        ]
+      }
+    ],
+    "random_key": "a9de09f6-4a6a-41c6-bbb0-c54558c8d614",
+    "image_url": "https://image.torob.com/base/images/CR/nm/CRnmcCxaZM4Ga3AE.jpg"
+  },
+  {
+    "title": "حراج عیدانه ی مانتو مزونی کژوال گشاد و بلند دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "قد",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "مزونی",
+          "کژوال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گشاد"
+        ]
+      }
+    ],
+    "random_key": "1fe64d3c-7bb5-4335-afdd-7a68b60bf1ee",
+    "image_url": "https://image.torob.com/base/images/D4/Ys/D4YsQ9eUU_qJJmJN.jpg"
+  },
+  {
+    "title": "پیراهن مانتو شومیز دخترانه رنگ قرمز",
+    "group": "دخترانه",
+    "product": "پیراهن مانتو شومیز",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن مانتو شومیز"
+        ]
+      }
+    ],
+    "random_key": "81d7a189-b7f4-4dbd-a54f-e1ee52f212e0",
+    "image_url": "https://image.torob.com/base/images/3P/-j/3P-jHEezIygE81Dx.jpg"
+  },
+  {
+    "title": "مانتو، تونیک دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو تونیک",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو",
+          "تونیک"
+        ]
+      }
+    ],
+    "random_key": "21c5929d-8f7d-48e1-9091-1e9569e83a04",
+    "image_url": "https://image.torob.com/base/images/Qd/Wj/QdWjzN-gpRbP2jIU.jpg"
+  },
+  {
+    "title": "مانتو سارافون دخترانه صوفیا مدل جلو گلدوزی دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو سارافون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو سارافون"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "جلو"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی"
+        ]
+      }
+    ],
+    "random_key": "58a1c0a6-1446-4cb3-aee8-9ce05f7a95f2",
+    "image_url": "https://image.torob.com/base/images/7k/3k/7k3kb3iPbuNqjtsx.jpg"
+  },
+  {
+    "title": "مانتو دخترانه لش به زنونه هم میخوره سایز 70و75",
+    "group": "دخترانه و زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "سایز 70",
+          "سایز 75"
+        ]
+      },
+      {
+        "name": "استایل",
+        "values": [
+          "لش"
+        ]
+      }
+    ],
+    "random_key": "1b4628a9-b894-4357-9bf8-91ab534beab1",
+    "image_url": "https://image.torob.com/base/images/82/u6/82u6Sgg1lprkK2J-.jpg"
+  },
+  {
+    "title": "حراج مانتو زنانه جنس لنین مانتو راه راه مانتو دخترانه مانتو خنک مانتو تابستانی مانتو رنگی مانتو لنین راه راه",
+    "group": "دخترانه و زنانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راه راه"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "خنک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی"
+        ]
+      }
+    ],
+    "random_key": "e75d490b-2ee9-4ea9-bf8a-d66e64bfa622",
+    "image_url": "https://image.torob.com/base/images/ro/Nr/roNrwzxKdrrCl0ue.jpg"
+  },
+  {
+    "title": "مانتو دخترانه آستین گت یقه مردونه مدل غزل فری سایز 36تا44",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین گت"
+        ]
+      },
+      {
+        "name": "نوع یقه",
+        "values": [
+          "یقه مردونه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز 36 تا 44"
+        ]
+      }
+    ],
+    "random_key": "7c41b362-6f98-47d1-a0fc-eb5881abcfa4",
+    "image_url": "https://image.torob.com/base/images/2d/ZL/2dZLpJ86_fNY1B1m.jpg"
+  },
+  {
+    "title": "شومیز کتان پاییزه ضخیم (1016)",
+    "group": "دخترانه",
+    "product": "شومیز",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضخیم"
+        ]
+      }
+    ],
+    "random_key": "644fb3f2-124e-470f-b02d-a297f24761a5",
+    "image_url": "https://image.torob.com/base/images/sI/_t/sI_tXpYnLA8orXfJ.jpg"
+  },
+  {
+    "title": "مانتو اسپرت دخترونه",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "fad3811a-0094-496d-b095-fb19271bdd4a",
+    "image_url": "https://image.torob.com/base/images/9f/g0/9fg0EiC2Ts1Ks5n2.jpg"
+  },
+  {
+    "title": "مانتوزنانه دخترانه اسپرت دکمه دار جنس نخی فوق العاده عالی باکیفیت ضمانت دوخت جنس تاسایز60",
+    "group": "زنانه و دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "نخی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "تا سایز 60"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضمانت دوخت"
+        ]
+      }
+    ],
+    "random_key": "2445702c-f5e7-49f3-ab8a-805978c14bd6",
+    "image_url": "https://image.torob.com/base/images/xR/R8/xRR8WMfBk39wPRZ-.jpg"
+  },
+  {
+    "title": "مانتو کلاهدار زغالی دخترانه بغل زیپ",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "کلاهدار",
+          "بغل زیپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زغالی"
+        ]
+      }
+    ],
+    "random_key": "1954309c-26d8-45f3-960a-ee57d2aa040a",
+    "image_url": "https://image.torob.com/base/images/R_/Lv/R_Lv9aWBuonssAxx.jpg"
+  },
+  {
+    "title": "مانتوفریسایزمشکی 3 ایکس مناسب عید کبریتی مانتو فریسایز شیک تونیک دخترانه",
+    "group": "دخترانه",
+    "product": "مانتو و تونیک",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "فری سایز",
+          "3 ایکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کبریتی"
+        ]
+      }
+    ],
+    "random_key": "303019d0-b4f2-4e38-9a43-24e26c122fc2",
+    "image_url": "https://image.torob.com/base/images/uL/2x/uL2xy0-_ODYE4vi9.jpg"
+  },
+  {
+    "title": "مانتو لی دخترانه نوجوان رنگ ابی",
+    "group": "دخترانه نوجوان",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "نوجوان"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      }
+    ],
+    "random_key": "1f014bc7-c6f6-491a-bb70-d90c268653d1",
+    "image_url": "https://image.torob.com/base/images/7K/rX/7KrXt7odmNDB4MIu.jpg"
+  },
+  {
+    "title": "سارافون لی دخترانه(1111)",
+    "group": "دخترانه",
+    "product": "سارافون",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لی"
+        ]
+      }
+    ],
+    "random_key": "5cfeeefe-59ed-4802-bcd8-d43a0cc95481",
+    "image_url": "https://image.torob.com/base/images/1b/5M/1b5MM5qwT1XE6P0o.jpg"
+  },
+  {
+    "title": "مانتو اسپرت دخترانه لنین رنگ سفید بیریوان",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "لنین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "eff55a31-f87a-4433-80a4-b6f5e35eda3d",
+    "image_url": "https://image.torob.com/base/images/GJ/Ow/GJOw9vlquweAhA6Z.jpg"
+  },
+  {
+    "title": "مانتو لینن گلدوزی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لینن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گلدوزی شده"
+        ]
+      }
+    ],
+    "random_key": "87d840d2-8666-41bb-988f-c855418fedba",
+    "image_url": "https://image.torob.com/base/images/Xp/KA/XpKA_HDDBdpRh9Y9.jpg"
+  },
+  {
+    "title": "مانتو دخترانه جنس لنین نخی در رنگبندی",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "لنین نخی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "در رنگبندی"
+        ]
+      }
+    ],
+    "random_key": "d146e228-d487-4b1d-8e5f-0e022436349e",
+    "image_url": "https://image.torob.com/base/images/RI/-g/RI-gWwU0cbLZKgfH.jpg"
+  },
+  {
+    "title": "مانتو دخترانه عروسکی کد 25973",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "استایل",
+        "values": [
+          "عروسکی"
+        ]
+      }
+    ],
+    "random_key": "88b6a268-ac59-4e7c-b50b-83a9ac22e86e",
+    "image_url": "https://image.torob.com/base/images/KR/W9/KRW9MvWYklUKDk1j.webp"
+  },
+  {
+    "title": "مانتو پیراهنی دخترانه (پس کرایه)",
+    "group": "دخترانه",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو پیراهنی"
+        ]
+      }
+    ],
+    "random_key": "68dc9894-d3c2-4975-8b26-0d60285e8989",
+    "image_url": "https://image.torob.com/base/images/Hc/Hg/HcHgg-p-r9d9D9w4.jpg"
+  },
+  {
+    "title": "مانتو و شلوار کیفیت عالی مناسب تابستان",
+    "group": "دخترانه",
+    "product": "مانتو و شلوار",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستان"
+        ]
+      },
+      {
+        "name": "تعداد تکه",
+        "values": [
+          "دو تکه"
+        ]
+      }
+    ],
+    "random_key": "778bf2c4-2f22-4a83-a1d7-cc6e0db57557",
+    "image_url": "https://image.torob.com/base/images/EC/zq/ECzqsHUVB6mCVtUq.jpg"
+  }
+]

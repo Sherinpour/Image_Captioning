@@ -1,0 +1,8080 @@
+[
+  {
+    "title": "کفش پیاده روی بچگانه mnpc",
+    "group": "بچگانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "f5f45ce3-1aff-4d3f-a236-261c64712d63",
+    "image_url": "https://image.torob.com/base/images/ph/Y1/phY10snJcvGylx4y.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس روغن Mono Jr Children ورزشی سفید هومل hummel",
+    "group": "دخترانه و پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه و پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هومل",
+          "Hummel"
+        ]
+      }
+    ],
+    "random_key": "502f897a-cbc7-4951-870c-4fec070a1599",
+    "image_url": "https://image.torob.com/base/images/8I/ol/8IolvQNnA9dbb9WQ.jpg"
+  },
+  {
+    "title": "کفش کتونی دخترانه و زنانه مدل فندی رنگ سفید سبز",
+    "group": "دخترانه و زنانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید و سبز"
+        ]
+      }
+    ],
+    "random_key": "37667e29-47dd-4ec1-b819-351ac0b4a320",
+    "image_url": "https://image.torob.com/base/images/jN/Tr/jNTrpH_aHuni0eLB.jpg"
+  },
+  {
+    "title": "کفش مردانه ورزشی پپینو pepino",
+    "group": "مردانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پپینو",
+          "Pepino"
+        ]
+      }
+    ],
+    "random_key": "4a274c91-aae4-45c2-9b36-27b28443e95b",
+    "image_url": "https://image.torob.com/base/images/c8/ZQ/c8ZQnhcd7r1fOSGL.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه برند ونس Vans اصل VN0A3QU1Y401",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونس",
+          "Vans"
+        ]
+      }
+    ],
+    "random_key": "6fa16304-6d4e-4c3f-8b88-e37ae0b445d0",
+    "image_url": "https://image.torob.com/base/images/Zc/le/ZcleZ5kpuXva-GWS.jpg"
+  },
+  {
+    "title": "کفش اسپرت دخترانه زیره پیو نرم و راحت رویه ترکیبی ضد اب12",
+    "group": "دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "ترکیبی"
+        ]
+      },
+      {
+        "name": "ویژگی های فنی",
+        "values": [
+          "ضد آب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نرم",
+          "راحت"
+        ]
+      }
+    ],
+    "random_key": "9fbc3caa-ccd2-4598-9fed-56b58ec8e99f",
+    "image_url": "https://image.torob.com/base/images/AZ/H6/AZH6PO_sAP57riXX.jpg"
+  },
+  {
+    "title": "کفش ورزشی بچگانه سارا با چسب ولکرو برند molekinha",
+    "group": "بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چسب ولکرو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Molekinha"
+        ]
+      }
+    ],
+    "random_key": "0d674abd-094d-4f68-b222-3a6e1225afea",
+    "image_url": "https://image.torob.com/base/images/5O/uv/5Ouv3cIg0iSHPZ9F.jpg"
+  },
+  {
+    "title": "adidas کفش بچه‌گانه ران 60 ثانیه | JH9552 | اصل",
+    "group": "بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "Adidas"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش رانینگ"
+        ]
+      }
+    ],
+    "random_key": "02c7faaa-c488-42d3-9927-ac3d7e84cdc8",
+    "image_url": "https://image.torob.com/base/images/NU/rV/NUrVHsmhvjW9eks5.jpg"
+  },
+  {
+    "title": "کتونی نایک سفید مشکی کرم زنانه دخترانه کفش ونس اسپرت اسپورت نایکی NIKE کرمی رانینگ ورزشی پیاده روی طبی سبک چرم بیستشش",
+    "group": "زنانه و دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "کفش اسپرت",
+          "کفش ونس اسپرت",
+          "کفش رانینگ",
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "نایکی",
+          "NIKE"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی",
+          "کرم",
+          "کرمی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی",
+          "سبک"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "چرم"
+        ]
+      }
+    ],
+    "random_key": "149f2840-7975-4fab-9fbe-052d467f55b7",
+    "image_url": "https://image.torob.com/base/images/ur/md/urmdOhHjdRNPZu9T.jpg"
+  },
+  {
+    "title": "کفش ورزشی دخترانه با نوارهای متضاد آبی برند zaha",
+    "group": "دخترانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Zaha"
+        ]
+      }
+    ],
+    "random_key": "7896ce3d-0708-4c7c-8eff-1b8753aa73a8",
+    "image_url": "https://image.torob.com/base/images/9B/Yv/9BYv5JzQbJ0pYZDN.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس Abena ورزشی خاکستری اسلازنگر Slazenger",
+    "group": "دخترانه و پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه و پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسلازنگر",
+          "Slazenger"
+        ]
+      }
+    ],
+    "random_key": "2977e2fa-4fc1-4d8c-b2a0-0f2d9cfe48e2",
+    "image_url": "https://image.torob.com/base/images/UU/OZ/UUOZADBEFXiaNEND.jpg"
+  },
+  {
+    "title": "کتونی بچگانه کفش کودک نایک سایز 31 تا 36",
+    "group": "بچگانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "کفش کودک"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 36"
+        ]
+      }
+    ],
+    "random_key": "86a057fa-d7f6-4fd6-a035-76d47589b620",
+    "image_url": "https://image.torob.com/base/images/rK/B0/rKB0GbFVku-hOdT4.jpg"
+  },
+  {
+    "title": "کفش های پیاده روی و دویدن پسرانه سیویل کد 13B12411324W1 - 20063 | Civil",
+    "group": "پسرانه",
+    "product": "کفش پیاده روی و دویدن",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی",
+          "کفش دویدن"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Civil"
+        ]
+      }
+    ],
+    "random_key": "bc453360-292d-4c17-b29f-75411b173f47",
+    "image_url": "https://image.torob.com/base/images/lt/Oe/ltOefZQm3nHna9rC.jpg"
+  },
+  {
+    "title": "کتونی بندی کتونی دخترانه کفش اسپرت جدید شیک کفش دخترانه جذاب رویه خارجی 37تا40",
+    "group": "دخترانه",
+    "product": "کتونی بندی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی بندی",
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "شیک",
+          "جذاب"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      }
+    ],
+    "random_key": "054f51dd-5fe9-4ff9-922e-f969adcc361a",
+    "image_url": "https://image.torob.com/base/images/bP/AR/bPARCzU3KL4KF_Wb.jpg"
+  },
+  {
+    "title": "کفش پیاده روی ورزشی سبز پسرانه و بچگانه 800278 K پسر ان سوپرفیت Superfit",
+    "group": "پسرانه و بچگانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سوپرفیت",
+          "Superfit"
+        ]
+      }
+    ],
+    "random_key": "4af44c79-673b-4e47-91a2-7582122e7fb2",
+    "image_url": "https://image.torob.com/base/images/Ir/lC/IrlC3wcqA8jPn0ZE.jpg"
+  },
+  {
+    "title": "پسرانه رامیلا طوسی مشکی سایز 36",
+    "group": "پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36"
+        ]
+      }
+    ],
+    "random_key": "05cc9354-cc2c-43ab-be37-0952dcc8deb4",
+    "image_url": "https://image.torob.com/base/images/WG/nD/WGnD8LQlfEcpxEHz.jpg"
+  },
+  {
+    "title": "کفش اسپرت بچگانه سایزبندی 31 تا 38 وارداتی جنس عالی کفی نرم بسیار سبک انعطاف پذیری داره کیفیتش عالیه",
+    "group": "بچگانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 38"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "عالی",
+          "نرم",
+          "بسیار سبک",
+          "انعطاف پذیری بالا"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "8037a4f5-863c-4760-b6e8-8c0475c6d86d",
+    "image_url": "https://image.torob.com/base/images/iD/qJ/iDqJ8dPVs2qtvlDv.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Vans مدل Seldan کد 114798285",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Vans"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "fe8b07f4-4d69-404a-9915-7a3907ad683e",
+    "image_url": "https://image.torob.com/base/images/z7/Lk/z7LkI5ggURnxSN8j.jpg"
+  },
+  {
+    "title": "بمب ویژه این هفته کفش کتونی دخترانه و زنانه راحت شیک رنگ کرم سبز زیبا و شیک با ارسال رایگان",
+    "group": "دخترانه و زنانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "سبز"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "راحت",
+          "شیک"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "زیبا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "d8b1f052-c28b-482f-971e-beb85a20d031",
+    "image_url": "https://image.torob.com/base/images/hA/rn/hArntwPEMcwT7wjH.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس ورزشی ان بنتون Benetton",
+    "group": "دخترانه پسرانه یونیسکس",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بن تتون",
+          "Benetton"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "5287b78f-944a-4a7b-8ce5-59b480ec7024",
+    "image_url": "https://image.torob.com/base/images/vm/qw/vmqwITooiGY4k6sl.jpg"
+  },
+  {
+    "title": "کتانی بچگانه frozen",
+    "group": "بچگانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "frozen"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "60d74948-ef4d-4f44-860b-4203b9c16019",
+    "image_url": "https://image.torob.com/base/images/Rl/Ts/RlTsjEIB6ENfw0fB.jpg"
+  },
+  {
+    "title": "ونس کامپوس دخترانه لاکچری طرح جدید ترند ۲۰۲۵",
+    "group": "دخترانه",
+    "product": "ونس کامپوس",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "لاکچری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس کامپوس"
+        ]
+      }
+    ],
+    "random_key": "d562c0e0-a222-4150-99c4-f378752088b3",
+    "image_url": "https://image.torob.com/base/images/1s/h4/1sh4fkebYPTa-7qV.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه اسلازنگر Slazenger اورجینال SA13LF021",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Slazenger",
+          "اسلازنگر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "4b4cf98d-d660-4aa1-8ae8-b210722db8be",
+    "image_url": "https://image.torob.com/base/images/SZ/dT/SZdTEo-GkggNZDWd.jpg"
+  },
+  {
+    "title": "فروش ویژه کفش اسپرت دخترانه زنانه رنگ سفید طوسی",
+    "group": "دخترانه زنانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "طوسی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "786f30db-5c26-4a55-81cc-578432887910",
+    "image_url": "https://image.torob.com/base/images/Fa/Ia/FaIaUM5oYU7Dh5gB.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کتانی بدون ساق بچه گانه پسرانه آبی برند joma JTORNAW2405V",
+    "group": "بچه گانه پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بدون ساق"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "joma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "cd200558-dda3-4d29-8336-71fb0ee9ac3a",
+    "image_url": "https://image.torob.com/base/images/Wt/XL/WtXLRvEAoIuCnp20.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کتانی بدون ساق بچه گانه پسرانه قهوه ای پیر کاردین WP-00000000021021",
+    "group": "بچه گانه پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بدون ساق"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پیر کاردین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "3b1c4962-6e31-4a18-aaea-25b83bad583c",
+    "image_url": "https://image.torob.com/base/images/NS/1m/NS1mPQUE6GPuXnrO.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه اسلازنگر Slazenger اورجینال SA22LP005",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Slazenger",
+          "اسلازنگر"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "13d3f3c4-c49d-45e9-8a74-def151497952",
+    "image_url": "https://image.torob.com/base/images/f5/Oh/f5OhhF5t1CqEjS4Y.jpg"
+  },
+  {
+    "title": "کتونی دخترانه اسیکس asics اورجینال",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "asics",
+          "اسیکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "b7a61c1f-e5b9-4b97-9bdf-6e5cbff679d0",
+    "image_url": "https://image.torob.com/base/images/5Y/uS/5YuS-o9N4OU8mgHp.jpg"
+  },
+  {
+    "title": "کفش اسپرت دخترانه مدل mega",
+    "group": "دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "5af1a06f-728f-47f5-a06d-f8d22f8817ba",
+    "image_url": "https://image.torob.com/base/images/Lp/S7/LpS7ptNsn5Ux-THL.jpg"
+  },
+  {
+    "title": "کفش کتونی بچه گانه ساقدار پیچی",
+    "group": "بچگانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "نوع ساق",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "bece56a7-0a36-48c6-9796-1612b7775a27",
+    "image_url": "https://image.torob.com/base/images/Vx/cM/VxcMOvT-O7ydiSUf.jpg"
+  },
+  {
+    "title": "کتونی بچه گانه پسرانه دخترانه اسپرت رنگ سفید سایز 31 تا 35 زیره پیو بند پُمپی فنری لژ 4 سانتی رویه چرم صنعتی سبک",
+    "group": "بچه گانه پسرانه دخترانه",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 35"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بند پمپی"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "چرم صنعتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "فنری",
+          "لژ 4 سانتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "4650dc4b-6c72-4b03-a000-86ada678e3f0",
+    "image_url": "https://image.torob.com/base/images/X8/9g/X89g129PpZ-serdN.jpg"
+  },
+  {
+    "title": "کفش ورزشی بچگانه برند هایکت برند cool",
+    "group": "بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هایکت",
+          "cool"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "fcf9a178-52df-4a39-b674-86233ec0d54a",
+    "image_url": "https://image.torob.com/base/images/6i/3w/6i3wy3xKC6hcMov6.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه برند نایک اصل Bq7196-060-60",
+    "group": "پسرانه - دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "7de58a4e-ea17-4fe2-be5f-9e7f5d853056",
+    "image_url": "https://image.torob.com/base/images/wE/u_/wEu_gaZ7IVSwfWYB.jpg"
+  },
+  {
+    "title": "اسپرت دخترانه مدل نگین دار در دو رنگ",
+    "group": "دخترانه",
+    "product": "اسپرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نگین دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دو رنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "13d9b1d5-87cc-464b-9d50-1c99b5d48c5c",
+    "image_url": "https://image.torob.com/base/images/Bj/8O/Bj8OZCVPj8CQAxM0.jpg"
+  },
+  {
+    "title": "کفش مردانه ADRENALINE GTS 23 در حال رانینگ بروکس Brooks",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بروکس Brooks"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش رانینگ"
+        ]
+      }
+    ],
+    "random_key": "0628ce00-8af8-4ee3-abc1-cf5e5c23fa47",
+    "image_url": "https://image.torob.com/base/images/LR/EB/LREBB52SxYTN6SbB.jpg"
+  },
+  {
+    "title": "کتونی دخترانه سفید زارا 3318/530/001",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "74bdf6d0-8581-4682-9c0b-204989d4db69",
+    "image_url": "https://image.torob.com/base/images/zc/EH/zcEH-KDBZi8jI0iW.jpg"
+  },
+  {
+    "title": "کتونی دخترانه و زنانه",
+    "group": "دخترانه و زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "8b71ffcf-8952-40cd-9129-d887293f6e53",
+    "image_url": "https://image.torob.com/base/images/X7/rL/X7rLFotBsfAiMdjk.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Lumberjack کد 747180502",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Lumberjack"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "510cb18e-2360-49ef-98a1-d2465eeb81e6",
+    "image_url": "https://image.torob.com/base/images/fM/SB/fMSBpRJV_2EW1aM8.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کتانی بدون ساق بچه گانه پسرانه سیاه سفید آدیداس IH1264",
+    "group": "بچه گانه پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه",
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بدون ساق"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی بچه گانه"
+        ]
+      }
+    ],
+    "random_key": "1220ec6c-44a3-44cf-a888-3bfae3d2a623",
+    "image_url": "https://image.torob.com/base/images/zD/Bz/zDBzaDBBNQHL9bRn.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه مشکی آدیداس | JH5201-B اورجینال",
+    "group": "پسرانه - دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "3d60395c-7f0d-4fb7-8199-413f3c946e04",
+    "image_url": "https://image.torob.com/base/images/f1/I0/f1I0dXmGQwa8q3Qy.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ea2b2a9f-1fa4-45ce-b2ce-1b12405cd079",
+    "image_url": "https://image.torob.com/base/images/YG/Yc/YGYclZLy02wUESn4.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه Tuğba Ortopedi اورجینال 075 1853",
+    "group": "دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Tuğba Ortopedi"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "388019cf-a98e-428a-9307-95debad7ded4",
+    "image_url": "https://image.torob.com/base/images/4b/AO/4bAO7Bri7XCfHQCl.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز دخترانه میکی موس Mickey Mouse اورجینال WETAS.P4FX",
+    "group": "دخترانه",
+    "product": "کتانی اسنیکرز",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "میکی موس Mickey Mouse"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      }
+    ],
+    "random_key": "c5ad9fd6-fdcd-4b77-b06b-d2ab394f67d5",
+    "image_url": "https://image.torob.com/base/images/ZP/TC/ZPTChYICspPu4f8P.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه Vicco 346.B24Y.145-20 اورجینال ویکو بژ کفش های کتانی جین نوزاد پسر با نور Momo Lighted",
+    "group": "نوزاد پسر",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Vicco",
+          "ویکو"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بژ"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "جین"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "چراغدار",
+          "نورانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش کتانی"
+        ]
+      }
+    ],
+    "random_key": "7a27dbed-dbb3-4ff6-9688-5ca5b45ac9be",
+    "image_url": "https://image.torob.com/base/images/Ip/8L/Ip8LAZjBEdaJH51w.jpg"
+  },
+  {
+    "title": "کتونی بچه گانه دخترانه و پسرانه مدل تدی کیفیت درجه یک",
+    "group": "بچه گانه دخترانه و پسرانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تدی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "e16a35ee-9254-4891-8993-7cd4a3fb6d8f",
+    "image_url": "https://image.torob.com/base/images/w7/at/w7atT5NOwQ_s3apR.jpg"
+  },
+  {
+    "title": "کتونی اورجینال برند Puma مدل Milenio Tech-club Unisex Sneaker کد 809387862",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Puma"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "Sneaker"
+        ]
+      }
+    ],
+    "random_key": "166d6287-a1fa-45fd-8d0d-70fa153f642e",
+    "image_url": "https://image.torob.com/base/images/qD/5a/qD5a9aWnnoiEd7tm.jpg"
+  },
+  {
+    "title": "اسپرت دخترانه و پسرانه دیزل کد 1569266",
+    "group": "دخترانه و پسرانه",
+    "product": "اسپرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دیزل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "f865cc48-fd5d-4fda-90e3-29fb100b1309",
+    "image_url": "https://image.torob.com/base/images/gV/IS/gVISyT6c0vCcpyMt.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز پسرانه – دخترانه برند آدیداس adidas اصل ih7781",
+    "group": "پسرانه - دخترانه",
+    "product": "کتانی اسنیکرز",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس adidas"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      }
+    ],
+    "random_key": "ec7ec69e-cef1-4c97-b7ff-286b66b60ce9",
+    "image_url": "https://image.torob.com/base/images/xY/5J/xY5JCZHTibCDvrV6.jpg"
+  },
+  {
+    "title": "تخفیف ویژه کفش کتونی اسپرت بچگانه مدل بروکس رنگ سفید طلایی فوق العاده جذاب و یه کار خاص با ارسال رایگان",
+    "group": "بچگانه",
+    "product": "کفش کتونی اسپرت",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "فوق العاده جذاب",
+          "کار خاص"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید طلایی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ارسال رایگان"
+        ]
+      }
+    ],
+    "random_key": "d0ebbddf-bb22-40cc-b154-17b563632517",
+    "image_url": "https://image.torob.com/base/images/i0/Hs/i0HsVAO-Y59_TCHH.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه و پسرانه بچگانه TENSAUR SPORT 2.0 کفش های ورزشی سیاه کودکان GW6439 آدیداس adidas",
+    "group": "بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "adidas"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه و پسرانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      }
+    ],
+    "random_key": "9c1542ba-c645-415a-bebb-26b486dc425e",
+    "image_url": "https://image.torob.com/base/images/VK/L2/VKL2ep_70PgPHGqo.jpg"
+  },
+  {
+    "title": "خرید عمده کفش اسپرت پسرانه دخترانه",
+    "group": "پسرانه دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "7d185094-0c5c-4485-a7a0-a1ccb52d40bf",
+    "image_url": "https://image.torob.com/base/images/QN/lY/QNlY896qO22oE0zh.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز پسرانه اسپایدرمن اورجینال Spiderman ESTA.P4FX",
+    "group": "پسرانه",
+    "product": "کتانی اسنیکرز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسپایدرمن"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "24ff055f-5eb0-4545-8d07-33553350df03",
+    "image_url": "https://image.torob.com/base/images/t8/53/t853ecn4lMHSjpwO.jpg"
+  },
+  {
+    "title": "کفش ورزشی سفید دخترانه و پسرانه بچگانه یونیسکس DS DENISE POWDER دارک سیر Dark Seer",
+    "group": "دخترانه و پسرانه بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه و پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دارک سیر",
+          "Dark Seer"
+        ]
+      }
+    ],
+    "random_key": "bad2b216-1c26-46e7-ba5b-7d4c0e596209",
+    "image_url": "https://image.torob.com/base/images/SD/8E/SD8Eweh4JsyUWDgh.jpg"
+  },
+  {
+    "title": "کفش بچگانه کامپوس پاماتک کرم سفید سارزی",
+    "group": "بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "کامپوس پاماتک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم سفید"
+        ]
+      }
+    ],
+    "random_key": "1658adfa-c1df-44f2-a37b-7205f72c802a",
+    "image_url": "https://image.torob.com/base/images/36/kg/36kgIPvV7qrUlHHh.webp"
+  },
+  {
+    "title": "ونس دخترانه زارا مشکی s",
+    "group": "دخترانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "زارا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      }
+    ],
+    "random_key": "ff6e6e9d-9bb1-4c7d-a868-b670d7594ec1",
+    "image_url": "https://image.torob.com/base/images/QZ/8b/QZ8bfqWsJoYhpZfJ.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه ویکو اورجینال صورتی Vicco 313.F19K.100-114B",
+    "group": "دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      }
+    ],
+    "random_key": "351c6a88-cc16-4fbf-aeea-3720da159cf6",
+    "image_url": "https://image.torob.com/base/images/3H/yn/3Hyn2T5duHmwnVqE.jpg"
+  },
+  {
+    "title": "کتانی بدون ساق بچه گانه دخترانه سبز استرادیواریوس 19503270",
+    "group": "بچه گانه دخترانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بدون ساق"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سبز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "استرادیواریوس"
+        ]
+      }
+    ],
+    "random_key": "d2cc168c-0a65-4b4f-9592-12ee5e36edd5",
+    "image_url": "https://image.torob.com/base/images/n_/8N/n_8NMERqDYaHXOdO.jpg"
+  },
+  {
+    "title": "کفش بچگانه دیپورتیوو III FXG برند Adidas",
+    "group": "بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Adidas"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "دیپورتیوو"
+        ]
+      }
+    ],
+    "random_key": "9c639975-e6c4-484e-aac9-2bc55553885e",
+    "image_url": "https://image.torob.com/base/images/GN/Bd/GNBdQl01b60fs_SU.jpg"
+  },
+  {
+    "title": "کفش پسرانه بچگانه پسر ورزشی باربرو سیاه سفید اسلازنگر Slazenger",
+    "group": "پسرانه بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه",
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسلازنگر",
+          "Slazenger"
+        ]
+      }
+    ],
+    "random_key": "04937274-007f-4d16-bf88-a06e0789bba9",
+    "image_url": "https://image.torob.com/base/images/eU/3u/eU3uQtz_w5k1wajQ.jpg"
+  },
+  {
+    "title": "اسپرت پسرانه",
+    "group": "پسرانه",
+    "product": "اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "9a824688-7845-4d91-ad13-cc77ebd28125",
+    "image_url": "https://image.torob.com/base/images/2g/Y1/2gY1fPVC4U9sjbzJ.jpg"
+  },
+  {
+    "title": "کفش ورزشی سبک زندگی برند seventy five",
+    "group": "نامشخص",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "سبک زندگی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "seventy five"
+        ]
+      }
+    ],
+    "random_key": "cf420aa5-9199-4da9-8d5b-ca9bf9617e8e",
+    "image_url": "https://image.torob.com/base/images/Cn/K4/CnK4xv2EtPtA1WK6.jpg"
+  },
+  {
+    "title": "کفش پسرانه بچگانه پسر ورزشی کمپ سیاه اسلازنگر Slazenger",
+    "group": "پسرانه بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسلازنگر",
+          "Slazenger"
+        ]
+      }
+    ],
+    "random_key": "1da39e38-9430-4787-9703-095a1d6de567",
+    "image_url": "https://image.torob.com/base/images/4d/yh/4dyh9DkTkippgAwV.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه | Kinetix YKAA10134925012010",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kinetix"
+        ]
+      }
+    ],
+    "random_key": "63e08fc3-080e-4787-93bb-2a084392f685",
+    "image_url": "https://image.torob.com/base/images/6C/Sz/6CSzzvzZ5TuRgg8z.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه آدیداس adidas اورجینال HP5431",
+    "group": "پسرانه – دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه – دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "adidas"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "5e45e929-aec8-4a1c-993f-26a89d03ed61",
+    "image_url": "https://image.torob.com/base/images/K_/xN/K_xNST7hDRLmqSr6.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه ویکو Vicco اورجینال 24YVICF116B",
+    "group": "خردسال",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "75b6cf24-4b5d-4c69-ae48-5c3e43ece4ff",
+    "image_url": "https://image.torob.com/base/images/XW/QR/XWQRftCFTZ2QgNfv.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه تونی بلک کد TBH1450 - 3642 | TONNY BLACK",
+    "group": "خردسال",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تونی بلک",
+          "TONNY BLACK"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "36-42"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "8234e206-23e6-439f-a9ef-706eac6d06df",
+    "image_url": "https://image.torob.com/base/images/ot/3K/ot3KcQpLjOTlns3K.jpg"
+  },
+  {
+    "title": "کتونی پاپراک دخترانه و پسرانه سایز ۳۷ تا ۴۰",
+    "group": "خردسال",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پاپراک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "1acdd9e5-0a6c-4d20-8ad1-adb23640d465",
+    "image_url": "https://image.torob.com/base/images/nN/vH/nNvHRGNWZivVAfrq.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز پسرانه اسپایدرمن Spiderman اورجینال SANS.F3PR",
+    "group": "خردسال",
+    "product": "کتانی اسنیکرز",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسپایدرمن",
+          "Spiderman"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      }
+    ],
+    "random_key": "15235a6e-cab4-4df7-8dbb-f4d58c35d3de",
+    "image_url": "https://image.torob.com/base/images/ym/1X/ym1XfmwYSlJvkFGp.jpg"
+  },
+  {
+    "title": "اسنیکر راسته دخترانه|پسرانه | جامپ Jump 29601",
+    "group": "خردسال",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جامپ",
+          "Jump"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "راسته"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "7ba41caa-28dc-404c-9a35-e0074ea5e37b",
+    "image_url": "https://image.torob.com/base/images/dC/-P/dC-PblBBdfT8NywO.jpg"
+  },
+  {
+    "title": "کفش پیاده روی پسرانه – دخترانه ونس 000D11B9P1-R Vans اورجینال",
+    "group": "خردسال",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ونس",
+          "Vans"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "32fe394a-d8a1-4e3f-b5ee-5251703d6a66",
+    "image_url": "https://image.torob.com/base/images/Dd/LO/DdLO7DbsAd7P5HAE.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه ویکو کد 313.P19K.100-114 - 7152 | Vicco",
+    "group": "خردسال",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "26de8714-1fb4-428a-bca3-537bd3b53b56",
+    "image_url": "https://image.torob.com/base/images/-x/Hc/-xHc3GtseeIxtbWv.jpg"
+  },
+  {
+    "title": "کفش اسپرت دخترانه",
+    "group": "دخترانه خردسال",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "93f867f4-2c11-4930-8c47-634ce137d16c",
+    "image_url": "https://image.torob.com/base/images/lD/JK/lDJK8-cx5tx1iC6y.jpg"
+  },
+  {
+    "title": "ونس سگک دار",
+    "group": "نامشخص",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "سگک دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      }
+    ],
+    "random_key": "c356d0e5-fd44-4e54-bd0c-5e8f86864d54",
+    "image_url": "https://image.torob.com/base/images/yS/Ow/ySOwpFJkw-cBxMOO.jpg"
+  },
+  {
+    "title": "کتانی (اسنیکرز) کودک / نوجوان پابلوسکی",
+    "group": "کودک / نوجوان",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پابلوسکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی",
+          "اسنیکرز"
+        ]
+      }
+    ],
+    "random_key": "4d1a5230-cfef-4fed-8425-fa48587f3034",
+    "image_url": "https://image.torob.com/base/images/dH/7i/dH7iAVaZnQ5hb8lP.jpg"
+  },
+  {
+    "title": "ونس بچگانه (دخترانه) سفارش اروپا اورجینال سایز 25تا 37",
+    "group": "بچگانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25 تا 37"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      }
+    ],
+    "random_key": "69129510-8202-4fa9-aa54-70cca58f9b2d",
+    "image_url": "https://image.torob.com/base/images/SX/q_/SXq_mYUHyPlmxiIQ.jpg"
+  },
+  {
+    "title": "کتونی خرگوشی ساقدار جنس کتان(37تا40) - کتونی دخترانه - کتونی ساقدار - کفش زنانه - کفش دخترانه - نیم ساق",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "ساقدار",
+          "نیم ساق"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرگوشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "77c8bbf7-ead0-4dda-98d8-ecac17b40b6f",
+    "image_url": "https://image.torob.com/base/images/V0/nt/V0ntC-23b9W08fsq.jpg"
+  },
+  {
+    "title": "کتونی دخترانه مشکی میلانو گلدوزی مدل warrior",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میلانو"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "گلدوزی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "c9e3ada4-4df2-41a8-96ab-621aaf97c0f7",
+    "image_url": "https://image.torob.com/base/images/yQ/66/yQ66nsDVnn18_WMw.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز دخترانه کینتیکس Kinetix اورجینال FLIGHT J PU 3PR",
+    "group": "دخترانه",
+    "product": "کتانی اسنیکرز",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کینتیکس",
+          "Kinetix"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      }
+    ],
+    "random_key": "6f005aa6-ff55-4d12-b726-64cf9fdd5d77",
+    "image_url": "https://image.torob.com/base/images/B_/c6/B_c6CPv15UHiESyP.jpg"
+  },
+  {
+    "title": "کفش پیاده روی سفید دخترانه و پسرانه بچگانه کتونی SMASH 30 BADGES V INFINER ان ورزشی Puma",
+    "group": "بچگانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی",
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما",
+          "Puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی",
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "eefac9dc-814e-48cd-8451-0882d3298b82",
+    "image_url": "https://image.torob.com/base/images/Cx/Jp/CxJp0_tA8vP00r6c.jpg"
+  },
+  {
+    "title": "کفش کتونی بچگانه 361 مدل ونسی اسپرت دخترانه و پسرانه - 3",
+    "group": "بچگانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "361"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی",
+          "ونسی"
+        ]
+      }
+    ],
+    "random_key": "1a283029-1b48-4b94-954a-36048eb233f4",
+    "image_url": "https://image.torob.com/base/images/Q3/nO/Q3nOqf4RbjoPSECL.jpg"
+  },
+  {
+    "title": "کتونی ونس دخترانه طرحدار گوچی ترند سال",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی ونس"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار گوچی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ترند سال"
+        ]
+      }
+    ],
+    "random_key": "e1d22216-5b54-45f1-a481-7133865c7c80",
+    "image_url": "https://image.torob.com/base/images/Bm/q-/Bmq-VTEYfHoZjwB-.jpg"
+  },
+  {
+    "title": "کفش ونس نایک ایرفورس دخترانه طوسی سبز کفش پاپوش بهبهان",
+    "group": "دخترانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ونس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک ایرفورس"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی",
+          "سبز"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "پاپوش",
+          "بهبهان"
+        ]
+      }
+    ],
+    "random_key": "2913f6e5-cc43-4a19-8971-9278b1b34df6",
+    "image_url": "https://image.torob.com/base/images/Oa/xi/OaxiHtiLBb0zF4mf.jpg"
+  },
+  {
+    "title": "پسرانه رامیلا88 مشکی اجری سایز 3",
+    "group": "پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رامیلا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "اجری"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3"
+        ]
+      }
+    ],
+    "random_key": "42235684-0365-41ef-8e83-a6abacb5d343",
+    "image_url": "https://image.torob.com/base/images/ku/iw/kuiwHuS81Tm8bOxe.jpg"
+  },
+  {
+    "title": "نیوبالانس دخترانه",
+    "group": "دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      }
+    ],
+    "random_key": "1c10fcc0-b993-4afd-be65-8b5aee339b17",
+    "image_url": "https://image.torob.com/base/images/0L/fP/0LfPeDU63xyGYFzV.jpg"
+  },
+  {
+    "title": "کفش ورزشی سفید دخترانه و پسرانه بچگانه یونیسکس بچه TRIKO Zerenyus",
+    "group": "دخترانه و پسرانه بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه و پسرانه",
+          "بچگانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TRIKO Zerenyus"
+        ]
+      }
+    ],
+    "random_key": "1ea80238-6879-4217-bed5-4ec32943846d",
+    "image_url": "https://image.torob.com/base/images/PF/-q/PF-qs_Eis1c4G7yj.jpg"
+  },
+  {
+    "title": "کفش ورزشی بچگانه دخترانه R78 Voyage Soft برند puma",
+    "group": "بچگانه دخترانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بچگانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "R78 Voyage Soft",
+          "puma"
+        ]
+      }
+    ],
+    "random_key": "cb893b0e-3434-409e-bd65-c262168f9663",
+    "image_url": "https://image.torob.com/base/images/Xh/Ma/XhMaZMvwuO16zQ08.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه Slazenger SA24LP053 اورجینال اسلازنگر سفید کفش کتانی بچه گانه LOVE I یونیسکس سفید/مشکی",
+    "group": "پسرانه و دخترانه بچه گانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش کتانی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه",
+          "بچه گانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Slazenger",
+          "اسلازنگر"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "7efef309-1b00-47d8-8426-a4253d6586a7",
+    "image_url": "https://image.torob.com/base/images/5_/Fd/5_FdJVRPUwfKU3kI.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس ورزشی Kendall و Grey مشکی اسلازنگر Slazenger",
+    "group": "دخترانه پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kendall و Grey",
+          "اسلازنگر",
+          "Slazenger"
+        ]
+      }
+    ],
+    "random_key": "0f4280b5-44db-4cec-b0ca-d9c8ee01dd2a",
+    "image_url": "https://image.torob.com/base/images/5i/2g/5i2gboyQwNY348fb.jpg"
+  },
+  {
+    "title": "کفش پسرانه اسپرت بچگانه از جنس کتان با رنگ سفید - 3759",
+    "group": "پسرانه بچگانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "کتان"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      }
+    ],
+    "random_key": "b7b318ee-02c8-494b-a108-c6b604e428fa",
+    "image_url": "https://image.torob.com/base/images/6k/yM/6kyMXsHtH-3utUFd.webp"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس Molina Jrf Blackbluewhite ورزشی هومل hummel",
+    "group": "دخترانه پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Molina Jrf Blackbluewhite",
+          "هومل",
+          "hummel"
+        ]
+      }
+    ],
+    "random_key": "ac307f13-033d-45ea-9677-78e44df1a2b2",
+    "image_url": "https://image.torob.com/base/images/Kb/1L/Kb1L8SqRBjP5kDiu.jpg"
+  },
+  {
+    "title": "اسنیکر نوزاد پسر ال سی وایکیکی استپس S49168Z1 - J5E | LCW STEPS",
+    "group": "نوزاد پسر",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ال سی وایکیکی",
+          "LCW STEPS"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "استپس"
+        ]
+      }
+    ],
+    "random_key": "5f3582ae-935a-4898-81dc-0fbc7054950c",
+    "image_url": "https://image.torob.com/base/images/fI/5j/fI5jg0qWYmAZrCuF.jpg"
+  },
+  {
+    "title": "ونس بچگانه وارداتی طرح Hi برند BOBDOG کد 090801",
+    "group": "بچگانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Hi"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BOBDOG"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "وارداتی"
+        ]
+      }
+    ],
+    "random_key": "f011327a-c33c-4af3-9359-89285b1653f8",
+    "image_url": "https://image.torob.com/base/images/mS/vF/mSvFCOmdeTVtbjqV.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه Slazenger برند اسلازنگر اصل SA12LP251",
+    "group": "پسرانه و دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Slazenger",
+          "اسلازنگر"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "78b23069-dd84-4c92-a2c2-a99313208c03",
+    "image_url": "https://image.torob.com/base/images/N_/4e/N_4e8QVFoFNwL0Ad.jpg"
+  },
+  {
+    "title": "کفش بیرونی پسرانه لامبرجک Lumberjack اورجینال 5003070123",
+    "group": "پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک",
+          "Lumberjack"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "بیرونی"
+        ]
+      }
+    ],
+    "random_key": "7accdecf-fa3a-4111-a8cb-1a7876229913",
+    "image_url": "https://image.torob.com/base/images/An/sV/AnsVhf0GmHagWg8e.jpg"
+  },
+  {
+    "title": "کتونی بچه گانه",
+    "group": "بچه گانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "32a6e726-21af-43c8-b4c5-f03350da7be2",
+    "image_url": "https://image.torob.com/base/images/YC/8X/YC8XyhN1wCEwrad3.jpg"
+  },
+  {
+    "title": "اسپرت دخترانه و پسرانه رایان کد 1800508",
+    "group": "دخترانه و پسرانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "رایان"
+        ]
+      }
+    ],
+    "random_key": "d69547a0-65a2-4514-8802-92a39461961e",
+    "image_url": "https://image.torob.com/base/images/lv/hG/lvhGHLPjT1mt_Bul.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه ویکو 346.F24Y.110-02114 - 37443 | Vicco",
+    "group": "دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "2a23cc55-7655-449d-bb27-98c01fe00344",
+    "image_url": "https://image.torob.com/base/images/te/ID/teID0PxdfBD51Zmn.jpg"
+  },
+  {
+    "title": "کفش اسپورت دخترانه عروسک کرومی BERRYKIDS",
+    "group": "دخترانه",
+    "product": "کفش اسپورت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "عروسک کرومی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپورت"
+        ]
+      }
+    ],
+    "random_key": "d965d9a8-4af6-443c-be29-41e9cdfe2be6",
+    "image_url": "https://image.torob.com/base/images/8e/e0/8ee06ExR5lXK9nVB.jpg"
+  },
+  {
+    "title": "کفش پسرانه دخترانه یونیسکس رنگ اولین قدم بچه ارتوپدی پاندوف ورزشی خاکستری ویکو Vicco",
+    "group": "بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ارتوپدی",
+          "اولین قدم"
+        ]
+      }
+    ],
+    "random_key": "5b90761b-63a3-40c9-9122-41b7cac469c3",
+    "image_url": "https://image.torob.com/base/images/gN/_h/gN_hvOi6t6tVY6UG.jpg"
+  },
+  {
+    "title": "کفش اسپرت بچگانه مدل نیو بالانس زیره عطری",
+    "group": "بچگانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "زیره عطری"
+        ]
+      }
+    ],
+    "random_key": "8d354c87-154a-4567-a4e3-2b49fd5a4020",
+    "image_url": "https://image.torob.com/base/images/9v/mB/9vmBMwnT3KHcbm0P.webp"
+  },
+  {
+    "title": "Mizuno Astro plus",
+    "group": "نامشخص",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mizuno"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسپرت"
+        ]
+      }
+    ],
+    "random_key": "d9ae7779-593a-457b-b753-93c19ef7e912",
+    "image_url": "https://image.torob.com/base/images/D5/ML/D5MLr_nR8s-NtdZb.jpg"
+  },
+  {
+    "title": "اسنیکر خاکستری پسرانه و دخترانه بچگانه کفش ان EL اورجینال adidas",
+    "group": "بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "adidas"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "15ff60db-cc88-442a-8da4-c1578a351104",
+    "image_url": "https://image.torob.com/base/images/x6/rR/x6rRMt75Q1uz4jb8.jpg"
+  },
+  {
+    "title": "کتونی زیپ لاین پیچی دخترونه",
+    "group": "دخترونه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ لاین پیچی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترونه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "baafbf21-0625-4453-8bd9-10a5279e243e",
+    "image_url": "https://image.torob.com/base/images/3i/eo/3ieos6O_Ywm9zgUK.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه ویکو کد 925.F24K.463-10 - 19951 | Vicco",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "67740327-e300-4139-b067-261dda3b31e7",
+    "image_url": "https://image.torob.com/base/images/De/4Q/De4QBmgQ3NhImZxU.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه کینتیکس RIVERO 4FX Kinetix اورجینال",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کینتیکس",
+          "Kinetix"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "2894310f-ba87-48b5-a442-29bd6ee25506",
+    "image_url": "https://image.torob.com/base/images/wz/wP/wzwPd6MydrLMVZnt.jpg"
+  },
+  {
+    "title": "کتونی بچگانه وارداتی طرح بالنسیاگا برند Kshoes کد 113003",
+    "group": "بچگانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Kshoes"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "بالنسیاگا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "وارداتی"
+        ]
+      }
+    ],
+    "random_key": "1b52aa56-2eab-44b1-bea7-7bf82ffebf7b",
+    "image_url": "https://image.torob.com/base/images/vv/0y/vv0yFwgSGXDtR1dG.jpg"
+  },
+  {
+    "title": "کفش اسپرت بچگانه مدل تک ستاره",
+    "group": "بچگانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "تک ستاره"
+        ]
+      }
+    ],
+    "random_key": "206b0f58-51e9-4208-ade0-4d59c5ded646",
+    "image_url": "https://image.torob.com/base/images/F-/U1/F-U16oSio6GHbaVk.webp"
+  },
+  {
+    "title": "وی ال کورت ۳.۰ برند Adidas",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Adidas"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "322ce226-4b8d-4276-80ad-4c4c33428f3a",
+    "image_url": "https://image.torob.com/base/images/M7/GJ/M7GJ3YR1TaihFcu4.jpg"
+  },
+  {
+    "title": "کفش پیاده روی دخترانه | اسکچرز Skechers 403673L BBK",
+    "group": "دخترانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکچرز",
+          "Skechers"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "6911b07e-f44c-4fad-b202-b610fde709fd",
+    "image_url": "https://image.torob.com/base/images/Wm/20/Wm205a3FGrIIYcaM.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه برند lbl by shoexpress",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "lbl by shoexpress"
+        ]
+      }
+    ],
+    "random_key": "cc13109b-fa0f-46c2-8316-bd8fb3f3c6a4",
+    "image_url": "https://image.torob.com/base/images/0s/Bx/0sBxqanqnJ2XuMmf.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کتانی ساقدار بچه گانه پسرانه طوسی برند Vicco S000280604",
+    "group": "بچگانه پسرانه",
+    "product": "کتانی ساقدار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Vicco"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی ساقدار"
+        ]
+      }
+    ],
+    "random_key": "450321e0-9256-4aaa-a041-72aa63e4d97f",
+    "image_url": "https://image.torob.com/base/images/Z2/-9/Z2-9O-N8TBVtlXFj.jpg"
+  },
+  {
+    "title": "کفش ورزشی بچگانه مدل کورت الترا آلترناتیو کلوزر برند puma",
+    "group": "بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "puma"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "7c1c3aa9-6a6e-4fc2-aba0-b838302f4e01",
+    "image_url": "https://image.torob.com/base/images/UG/RP/UGRPwmDI7s8RVueM.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه ویکو Vicco اورجینال 970.",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "3586d812-d91d-490e-a8bc-d080d7dd3816",
+    "image_url": "https://image.torob.com/base/images/Nz/CD/NzCDhV6y-L_Icqjc.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه کد 1855944",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      }
+    ],
+    "random_key": "99a9b7bf-f63e-4c12-b3dd-dcca25311dad",
+    "image_url": "https://image.torob.com/base/images/WD/O6/WDO63SQjJnpc1354.jpg"
+  },
+  {
+    "title": "کفش اسپرت بچگانه وارداتی جنس عالی",
+    "group": "بچگانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "وارداتی",
+          "جنس عالی"
+        ]
+      }
+    ],
+    "random_key": "740be2d6-da95-42ec-815d-8f33708c2777",
+    "image_url": "https://image.torob.com/base/images/Bz/1l/Bz1lMkkLHasaVFqj.jpg"
+  },
+  {
+    "title": "کتانی بچگانه اورجینال puma",
+    "group": "بچگانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "puma"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "8278ae80-f070-4616-9b3a-a3d4e414743f",
+    "image_url": "https://image.torob.com/base/images/QD/P7/QDP7E56kyXBW9u_i.jpg"
+  },
+  {
+    "title": "کفش دخترانه بچگانه 1721 دختر سبک ارتوپدی پیش دبستانی سفید رنگ پپینو pepino",
+    "group": "دخترانه بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک",
+          "ارتوپدی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیش دبستانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پپینو",
+          "pepino"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "6dbcae8b-e34c-4b8c-b5be-84ab9c9bd799",
+    "image_url": "https://image.torob.com/base/images/WC/c2/WCc2A_XvHzpSnpw1.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه | Kinetix YKA10134924912010",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kinetix"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "33497d55-731c-4fa0-972d-82878e5c09aa",
+    "image_url": "https://image.torob.com/base/images/Rq/mt/RqmtZ5OX1kXA64QQ.jpg"
+  },
+  {
+    "title": "اسنیکر قرمز دخترانه و بچگانه دختر بزرگتر کفش ورزشی بنفش LVMT Skechers",
+    "group": "دخترانه و بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز",
+          "بنفش"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Skechers"
+        ]
+      }
+    ],
+    "random_key": "fa995954-d185-4e5f-955f-4a0879abdf07",
+    "image_url": "https://image.torob.com/base/images/Xn/_i/Xn_iJ3qo6gEfsfcS.jpg"
+  },
+  {
+    "title": "کفش ورزشی صورتی دخترانه و بچگانه دختر دودی سیاه را صدا کنید Zerenyus",
+    "group": "دخترانه و بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی",
+          "دودی",
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Zerenyus"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "bca9b9a3-403e-4b9d-8690-aa7a59f5ca9d",
+    "image_url": "https://image.torob.com/base/images/jg/L4/jgL4FU4oQ6zFfNEj.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کتانی بدون ساق بچه گانه پسرانه سرمه‌ای برند joma MEJS2403INV",
+    "group": "بچگانه پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بدون ساق"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "joma"
+        ]
+      }
+    ],
+    "random_key": "b436a633-b49e-4d85-8f98-92a0a4d4bdf1",
+    "image_url": "https://image.torob.com/base/images/sf/vb/sfvbgNvb_ZCkEgIt.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس ® Bn Navy Blue ورزشی ان بنتون Benetton",
+    "group": "دخترانه پسرانه یونیسکس",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بن بنتون",
+          "Benetton"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "cb6b4b6e-47ec-4934-a8cd-99047bc64f9a",
+    "image_url": "https://image.torob.com/base/images/HI/_Y/HI_Y7u8Yqi-hoEIn.jpg"
+  },
+  {
+    "title": "کفش مردانه ورزشی چرمی مرد سیاه ROWAN دسا Desa",
+    "group": "مردانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "چرمی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دسا",
+          "Desa"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "328140d9-42fe-4b42-afd8-f180df2d3c54",
+    "image_url": "https://image.torob.com/base/images/Sz/yT/SzyTJlFTdhhrjCIr.jpg"
+  },
+  {
+    "title": "کتونی پختی خدیرا 1951",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "پختی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "خدیرا"
+        ]
+      }
+    ],
+    "random_key": "ff0dc004-9378-4dc9-8b31-07cec77348b2",
+    "image_url": "https://image.torob.com/base/images/c4/T8/c4T8V5sDPTrVaYPy.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز پسرانه اسپایدرمن Spiderman اورجینال KUKA.P4FX",
+    "group": "پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی",
+          "اسنیکرز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اسپایدرمن",
+          "Spiderman"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "ea45ec01-7243-4c09-b94b-1f0e48e07b59",
+    "image_url": "https://image.torob.com/base/images/sd/R7/sdR7vsoJGqSq9_6c.jpg"
+  },
+  {
+    "title": "اسنیکر آبی پسرانه و بچگانه کتونی FERGUS J G 4PR کفش ورزشی BOYS BLUE کینتکس Kinetix",
+    "group": "پسرانه و بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کتونی",
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کینتکس",
+          "Kinetix"
+        ]
+      }
+    ],
+    "random_key": "3b16109e-06e4-4d15-bfd9-4fb5ac46d04b",
+    "image_url": "https://image.torob.com/base/images/mg/OU/mgOUX4-0_M7piDv-.jpg"
+  },
+  {
+    "title": "ونس مک کویین سفید و مشکی لژدار ساده زنانه دخترانه کفش کتونی اسپرت اسپورت چرم بندی طبی شیک لژ دار صهپج راحت راحتی ورCزشی",
+    "group": "زنانه دخترانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس",
+          "کفش کتونی اسپرت"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "مک کویین",
+          "ساده"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "لژدار",
+          "شیک",
+          "لژ دار",
+          "راحت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی",
+          "راحتی"
+        ]
+      }
+    ],
+    "random_key": "3a51e4c3-5007-4d9b-b2e2-c12faca265a3",
+    "image_url": "https://image.torob.com/base/images/5w/en/5wen960CsRR58fLg.jpg"
+  },
+  {
+    "title": "کتانی تمرین و دویدن دخترانه Lumberjack برند لامبرجک اصل NEOK 4FX",
+    "group": "دخترانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی تمرین و دویدن"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lumberjack",
+          "لامبرجک"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "a784f25c-e9a8-4774-b7e5-9874a89f66c1",
+    "image_url": "https://image.torob.com/base/images/FS/hX/FShX4j__SpWFRLBY.jpg"
+  },
+  {
+    "title": "کفش اسپرت پسرانه دخترانه رویه چرم و ضدآب مشکی و سفید 32تا36",
+    "group": "پسرانه دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "جنس رویه",
+        "values": [
+          "چرم"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "32تا36"
+        ]
+      },
+      {
+        "name": "ویژگی های فنی",
+        "values": [
+          "ضدآب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "be19d1b1-ec68-4e00-9a22-759bb0f169a4",
+    "image_url": "https://image.torob.com/base/images/I7/iO/I7iOmA7iZJJ1khpS.jpg"
+  },
+  {
+    "title": "کتونی اسپرت دخترانه وپسرانه سایز26تا36",
+    "group": "دخترانه و پسرانه",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "26تا36"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "fbfa1662-4429-4f06-a799-4e687068a4bf",
+    "image_url": "https://image.torob.com/base/images/BK/t-/BKt-gkp8qidTCEZi.jpg"
+  },
+  {
+    "title": "کتونی دخترانه louis vuitton نیویورک مشکی کرم باتیس بوتیک",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "louis vuitton"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی کرم"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "نیویورک",
+          "باتیس بوتیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "e78b682c-8eae-4665-8689-d34cca02ef33",
+    "image_url": "https://image.torob.com/base/images/WP/xn/WPxntip1BRABnMjB.jpg"
+  },
+  {
+    "title": "کتونی دخترانه",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "a353c249-2e97-416f-a47f-dc409eac3062",
+    "image_url": "https://image.torob.com/base/images/D9/T-/D9T-5nBbun8N8f9b.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه اورجینال پوما مشکی Puma 57-399741-5 کفش ورزشی St Runner V4 Nl V Baby Pink Sports",
+    "group": "پسرانه – دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پوما",
+          "Puma"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "Baby Pink"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "d85c3b3b-8a00-4db4-82ad-d6aaa0616839",
+    "image_url": "https://image.torob.com/base/images/HU/Dw/HUDwCxqqXAZY6L_Q.jpg"
+  },
+  {
+    "title": "کفش ورزشی دخترانه|پسرانه Slazenger | SA13FK002",
+    "group": "دخترانه|پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Slazenger"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "5801d886-8d10-4a9f-9309-56ccd3831226",
+    "image_url": "https://image.torob.com/base/images/5z/X6/5zX6b8BT42CK24vm.jpg"
+  },
+  {
+    "title": "16821 کتونی سالامون(کودک)",
+    "group": "کودک",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سالامون"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی سالامون"
+        ]
+      }
+    ],
+    "random_key": "2c98c092-11de-41dd-baf4-cec2aac26acf",
+    "image_url": "https://image.torob.com/base/images/hg/-I/hg-Iua9S0JraQNYv.jpg"
+  },
+  {
+    "title": "اسیکس جدید اورجینال (37تا40)- کتونی اسیکس - کتانی اسیکس - کتونی دانشجویی - کتانی دانشجویی - کفش اسپرت - کتونی دخترانه",
+    "group": "دخترانه",
+    "product": "اسیکس",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسیکس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37تا40"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "دانشجویی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "جدید",
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسیکس",
+          "کتانی اسیکس",
+          "کفش اسپرت",
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "6da0d84b-5e94-4cc3-82cf-86b95971a13d",
+    "image_url": "https://image.torob.com/base/images/Bc/qh/BcqhgxtUYv7R1004.jpg"
+  },
+  {
+    "title": "کفش کتونی دخترانه کد 2176890",
+    "group": "دخترانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "66e37f29-d138-49dd-b44b-d524a4ffa5e0",
+    "image_url": "https://image.torob.com/base/images/5H/Ag/5HAguGzjebGQdMLF.jpg"
+  },
+  {
+    "title": "کتونی منگوله دار دخترانه کد 572 رنگ زرد",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "منگوله دار"
+        ]
+      }
+    ],
+    "random_key": "34373bd8-0ddc-4f42-a34c-95b4cb5a844b",
+    "image_url": "https://image.torob.com/base/images/wv/Mb/wvMbhuHqg2Vzm8eg.webp"
+  },
+  {
+    "title": "کتونی اسپرت دخترونه و پسرونه",
+    "group": "دخترونه و پسرونه",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      }
+    ],
+    "random_key": "170f456b-1e9f-4223-b868-7d916b339805",
+    "image_url": "https://image.torob.com/base/images/Jn/Co/JnCo_fbW0CwG5ro7.jpg"
+  },
+  {
+    "title": "کفش دو و تمرین دخترانه پسرانه بچگانه DOWNSHIFTER 12 NN GS در حال رانینگ نایک Nike",
+    "group": "دخترانه پسرانه بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "Nike"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "دو",
+          "تمرین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "ac904196-4bb3-4b2d-8a07-a82bac015bf7",
+    "image_url": "https://image.torob.com/base/images/GB/pH/GBpHMyNm4aqrSuPs.jpg"
+  },
+  {
+    "title": "کفش مدل ونس",
+    "group": "نامشخص",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش مدل ونس",
+          "ونس"
+        ]
+      }
+    ],
+    "random_key": "e25cbadf-8061-4f81-9bab-c7fe1a02b0a0",
+    "image_url": "https://image.torob.com/base/images/G6/qM/G6qMhPIWwScLdjDP.jpg"
+  },
+  {
+    "title": "کتونی دخترانه نیوبالانس 1905 سفید آجری",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نیوبالانس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید آجری"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "0f0a7926-9c7f-4bd0-8a68-c90834aca20b",
+    "image_url": "https://image.torob.com/base/images/ly/PB/lyPBhK1t5m7JGv1L.jpg"
+  },
+  {
+    "title": "کفش ورزشی بچگانه استوک دار در دو رنگ آبی و نارنجی",
+    "group": "بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "نارنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی استوک دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "استوک دار"
+        ]
+      }
+    ],
+    "random_key": "06726e2c-09ba-4cd8-952d-b3313337efa7",
+    "image_url": "https://image.torob.com/base/images/mX/kq/mXkqvGc2xS-BSIjq.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه بنتون Benetton اورجینال BNI-10020",
+    "group": "پسرانه – دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بنتون",
+          "Benetton"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "5bb780c8-d011-4e40-8767-d2fdf8a02799",
+    "image_url": "https://image.torob.com/base/images/XQ/GD/XQGD4y4t8PZ7kxWx.jpg"
+  },
+  {
+    "title": "کتانی بچگانه طرح نایکی مدل ایر جردن رنگ کرم",
+    "group": "بچگانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "ایر جردن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "f77abeee-993d-4722-9fee-22629d9713f5",
+    "image_url": "https://image.torob.com/base/images/vN/X9/vNX9CJpR17XYSX7O.jpg"
+  },
+  {
+    "title": "کفش اسپورت دخترانه",
+    "group": "دخترانه",
+    "product": "کفش اسپورت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپورت"
+        ]
+      }
+    ],
+    "random_key": "56210b19-dacc-4a27-a063-10c321b1948f",
+    "image_url": "https://image.torob.com/base/images/fE/1X/fE1XmjDOW0QMpDCI.jpg"
+  },
+  {
+    "title": "کفش بچگانه چسبی اسپرت دخترانه صورتی سایز 31تا35",
+    "group": "دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چسبی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 35"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "d73b9932-b047-47e7-b232-f54f5ea3833a",
+    "image_url": "https://image.torob.com/base/images/_S/8c/_S8cIjDX-YUT5ZCM.jpg"
+  },
+  {
+    "title": "اسپرت زنانه ، اسپردت دخترانه ، اسپرت پسرانه ، کتونی نرم و راحت فشن و ترند",
+    "group": "زنانه ، دخترانه ، پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "نرم",
+          "راحت",
+          "فشن"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ترند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "9f0682ee-cd23-42af-aa21-4bc164769276",
+    "image_url": "https://image.torob.com/base/images/na/kX/nakXs5fGeDyJ8Pl8.jpg"
+  },
+  {
+    "title": "کفش دخترانه بچگانه خدمات دختران شش خاکستری هومل hummel",
+    "group": "دخترانه بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هومل",
+          "hummel"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "شش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "cf0f63ec-2c73-4e3a-aa5a-3224233665c1",
+    "image_url": "https://image.torob.com/base/images/4e/50/4e502STo6Z1iFW8R.jpg"
+  },
+  {
+    "title": "کتونی دخترانه مدل تیارا ساقدار",
+    "group": "دخترانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع ساق",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "6d1b919e-974c-4492-8d21-a45e1da60766",
+    "image_url": "https://image.torob.com/base/images/j5/Ka/j5Kap1wLutDgHcso.jpg"
+  },
+  {
+    "title": "کتونی بچگانه آدیداس یزی کتونی کتونی پسرانه کتونی دخترانه",
+    "group": "بچگانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "eac8cc0a-345a-4f30-9c83-906bea2969c3",
+    "image_url": "https://image.torob.com/base/images/Fw/wd/FwwdIw9IVQGXPM97.jpg"
+  },
+  {
+    "title": "اسنیکر قرمز پسرانه و بچگانه کفش ورزشی Cameron Wt 1pr Red Boy U.S. Polo Assn.",
+    "group": "پسرانه و بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "U.S. Polo Assn."
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "6656aff2-a172-430f-b1b6-b79a8fdbc4fc",
+    "image_url": "https://image.torob.com/base/images/QR/hC/QRhCjwN1exTdsavy.jpg"
+  },
+  {
+    "title": "کفش ونس دخترانه مدل suptem کد ۲۷۳۹",
+    "group": "دخترانه",
+    "product": "کفش ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ونس"
+        ]
+      }
+    ],
+    "random_key": "08900641-de60-4c8c-8dfd-b368f183e66b",
+    "image_url": "https://image.torob.com/base/images/fe/dU/fedUgMF67qVU_k-o.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه Vans OLDSKOOLPS اورجینال ونس آبی کفش ورزشی بچه گانه Old Skool کتانی رنگارنگ",
+    "group": "پسرانه – دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Vans",
+          "ونس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "رنگارنگ"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی",
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "e563b78d-12f4-4584-bae0-e1a33e33144b",
+    "image_url": "https://image.torob.com/base/images/AB/GJ/ABGJKsMm6yArS4RF.jpg"
+  },
+  {
+    "title": "کفش ونس دخترانه زیبا تدی",
+    "group": "دخترانه",
+    "product": "کفش ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ونس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "زیبا",
+          "تدی"
+        ]
+      }
+    ],
+    "random_key": "07c346e6-9426-4370-a243-f56ed7a51e8a",
+    "image_url": "https://image.torob.com/base/images/hh/MS/hhMS86dp8oiynZe6.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کتانی بدون ساق بچه گانه پسرانه رنگارنگ هومل 5003247979",
+    "group": "بچه گانه پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بدون ساق"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگارنگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هومل"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "8426834e-38ce-4b44-b3bf-fd91d319d6ca",
+    "image_url": "https://image.torob.com/base/images/MX/57/MX57bGHr4Mh_hksU.jpg"
+  },
+  {
+    "title": "کتونی بند فنری پسرانه سایز 37 تا 40 رنگ طوسی زیره کپسولی لژ 4 سانتی کفی طبی رویه بافت خارجی سبک و راحت",
+    "group": "پسرانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بند فنری"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "37 تا 40"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "طوسی"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "کپسولی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی",
+          "سبک",
+          "راحت"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "لژ 4 سانتی"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "بافت خارجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "288b0e1c-7826-4136-bc5e-2bb12ae2741b",
+    "image_url": "https://image.torob.com/base/images/jM/rO/jMrOhbban4ho035z.jpg"
+  },
+  {
+    "title": "کتونی کژوال دخترانه کد SV228",
+    "group": "دخترانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "کژوال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "35ab06b3-5622-428a-9b82-290417be2362",
+    "image_url": "https://image.torob.com/base/images/tl/7s/tl7swRzYrNJ8I6xV.jpg"
+  },
+  {
+    "title": "کفش کتونی بچگانه کد 8012",
+    "group": "بچگانه",
+    "product": "کفش کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "bbd8a1f4-8ffa-422e-a3a1-cfc6cd54798a",
+    "image_url": "https://image.torob.com/base/images/gA/pl/gAplCGXCglME3PO9.jpg"
+  },
+  {
+    "title": "پیراهن مردانه اورجینال ماوی آبی Mavi 8811054 پیراهن آبی راه راه استاندارد 8811054-70894",
+    "group": "مردانه",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Mavi"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "آبی راه راه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "a404aec0-24ee-4761-bb29-0747347a999f",
+    "image_url": "https://image.torob.com/base/images/2o/Gg/2oGgd_n-iHYrwOAN.jpg"
+  },
+  {
+    "title": "فروش دلبر و جذاب کفش اسپرت دخترانه مدل فشیون نگینی با دوام بالا رنگ مشکی سفید باارسال رایگان",
+    "group": "دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "نگینی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "با دوام بالا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "دلبر و جذاب"
+        ]
+      }
+    ],
+    "random_key": "bf1fbe22-bf93-4086-843a-a30ad356d970",
+    "image_url": "https://image.torob.com/base/images/W8/11/W811IilYZHxk-Nxp.jpg"
+  },
+  {
+    "title": "کالج طلقی زنانه کد fa1118",
+    "group": "زنانه",
+    "product": "کالج",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کالج"
+        ]
+      }
+    ],
+    "random_key": "e8f4106d-805d-430c-b75f-72f4c599aa2e",
+    "image_url": "https://image.torob.com/base/images/vg/q1/vgq1DPEz13AxPeAx.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس 2 لسکون Lescon",
+    "group": "دخترانه و پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لسکون Lescon"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "5acf7fb7-ab35-49da-a23c-f96191e3ab5d",
+    "image_url": "https://image.torob.com/base/images/Vr/XK/VrXK6oHirli13Xpq.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه بنتون اورجینال Benetton BNI-10029",
+    "group": "پسرانه – دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بنتون Benetton"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "13b97407-43a6-4ec0-825a-f35767a6fb6f",
+    "image_url": "https://image.torob.com/base/images/G5/vp/G5vpmvnJeqQ_aF-e.jpg"
+  },
+  {
+    "title": "کتونی بچه گانه زیپ لاین بالانسیاگا اسپرت دخترانه و پسرانه",
+    "group": "بچه گانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بالانسیاگا"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت",
+          "کتونی زیپ لاین"
+        ]
+      }
+    ],
+    "random_key": "c61fd246-ad04-4d66-81c0-25c1dae7291e",
+    "image_url": "https://image.torob.com/base/images/te/Cc/teCcFG6DLAlhBiYF.jpg"
+  },
+  {
+    "title": "کفش ورزشی خاکستری دخترانه و پسرانه بچگانه یونیسکس انه ماه شیک رنگارنگ لتون LETOON",
+    "group": "بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لتون LETOON"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری",
+          "رنگارنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ff336ea2-6107-45a3-a661-5321f66c6f7d",
+    "image_url": "https://image.torob.com/base/images/S_/uz/S_uzo5q391jTSnwG.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه پاما Pama مدل PADML",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "پاما Pama"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "e0eced9c-751f-447e-b31d-eb1fe4a07703",
+    "image_url": "https://image.torob.com/base/images/DX/v6/DXv68P9UhjqwQ3bm.jpg"
+  },
+  {
+    "title": "اسنیکر مشکی دخترانه و بچگانه J HI F 4PR دختر سیاه کفش ورزشی بلند Kinetix",
+    "group": "دخترانه و بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Kinetix"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "a0f63240-429c-48a4-a9d5-b90df1c0d16f",
+    "image_url": "https://image.torob.com/base/images/PE/Yj/PEYjOZdpLBj2YoP0.jpg"
+  },
+  {
+    "title": "کتونی شطرنجی ارسال رایگان",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "شطرنجی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "ae4914b0-28b1-49b6-ad20-bc200dc95055",
+    "image_url": "https://image.torob.com/base/images/0z/I7/0zI79IFGikRppmf1.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه | اسکچرز Skechers 401660N BKYB",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسکچرز Skechers"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "2b371ec1-107e-423d-b4c2-d16c3846c8f0",
+    "image_url": "https://image.torob.com/base/images/RU/dL/RUdLJD3tY2pUctHD.jpg"
+  },
+  {
+    "title": "کفش پیاده روی راسته دخترانه | جوما Joma 5003058804",
+    "group": "دخترانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جوما Joma"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "راسته"
+        ]
+      }
+    ],
+    "random_key": "87e55101-c380-42ee-ad2a-ac5c05dd194e",
+    "image_url": "https://image.torob.com/base/images/MQ/iM/MQiMDTF0qhfjldXr.jpg"
+  },
+  {
+    "title": "کتونی ونس ساقدار دخترانه",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی ونس"
+        ]
+      }
+    ],
+    "random_key": "ca8ddf1b-18a1-443f-b23a-395630e67a8e",
+    "image_url": "https://image.torob.com/base/images/j-/AH/j-AHqrjF6gpLTgab.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس ® ورزشی ان بنتون Benetton",
+    "group": "دخترانه و پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "بنتون Benetton"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "089177b2-e780-452f-8d1c-2e7187a57ead",
+    "image_url": "https://image.torob.com/base/images/wx/kk/wxkkE-eTSvs5WXvZ.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس کورت ورزشی کم ان در کمرنگ نایک Nike",
+    "group": "دخترانه و پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک Nike"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کورت ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "کم رنگ"
+        ]
+      }
+    ],
+    "random_key": "bca1d054-8e7a-4dca-b5af-184a02792a9e",
+    "image_url": "https://image.torob.com/base/images/BQ/_R/BQ_R2_QXX-05rGvu.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه و بچگانه کفش ورزشی دختر سفید اورجینال Lumberjack",
+    "group": "دخترانه و بچگانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Lumberjack"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "3638fa1c-438c-49a5-8523-af329e8635ab",
+    "image_url": "https://image.torob.com/base/images/KU/i_/KUi_9ZAQxooQ2rMm.jpg"
+  },
+  {
+    "title": "کفش پیاده روی دخترانه ویکو Vicco اورجینال 925.P22K.232-114B",
+    "group": "دخترانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ویکو Vicco"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "0f1ba403-c832-4534-b4af-2c2da3bcae8f",
+    "image_url": "https://image.torob.com/base/images/cy/rJ/cyrJ2j7IwOuTcWom.jpg"
+  },
+  {
+    "title": "کفش پیاده روی راسته پسرانه | جامپ Jump AYKSAYAK-000650",
+    "group": "پسرانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جامپ",
+          "Jump"
+        ]
+      }
+    ],
+    "random_key": "21a65441-ce3f-422f-bd30-26f1638c460d",
+    "image_url": "https://image.torob.com/base/images/tc/xT/tcxTv8UGZP5UQS9d.jpg"
+  },
+  {
+    "title": "کفش کتونی دخترانه مدل Reebok",
+    "group": "دخترانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Reebok"
+        ]
+      }
+    ],
+    "random_key": "6d40efb1-565f-49e5-b715-95d2adb37564",
+    "image_url": "https://image.torob.com/base/images/59/cZ/59cZzjsuDLkxe8Fx.jpg"
+  },
+  {
+    "title": "کفش پیاده روی پسرانه ویکو Vicco اورجینال TYC684D70ECC0C7B90",
+    "group": "پسرانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "7ec7ef5d-38dd-415f-94e4-91b8ad990732",
+    "image_url": "https://image.torob.com/base/images/sd/3e/sd3egveSB8W9i7WE.jpg"
+  },
+  {
+    "title": "کفش مردانه ADRENALINE GTS 24 در حال رانینگ بروکس Brooks",
+    "group": "مردانه",
+    "product": "کفش ADRENALINE GTS",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ADRENALINE GTS 24"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بروکس",
+          "Brooks"
+        ]
+      }
+    ],
+    "random_key": "e6f4969e-4865-418c-bcbc-85b4730ec847",
+    "image_url": "https://image.torob.com/base/images/_f/bQ/_fbQF_3YG1Gy2vTM.jpg"
+  },
+  {
+    "title": "کتونی دخترانه وزنانه ماراتن زیره مپسولی",
+    "group": "دخترانه و زنانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی ماراتن"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "مپولی"
+        ]
+      }
+    ],
+    "random_key": "72b5aa1b-e7bb-4b53-ae02-cc73f4b0595c",
+    "image_url": "https://image.torob.com/base/images/Bs/lm/BslmHYW5RJ2MXnhj.jpg"
+  },
+  {
+    "title": "کتونی خارجی وارداتی برندkaka kidsمدل ماتریکس",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "kaka kids"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماتریکس"
+        ]
+      }
+    ],
+    "random_key": "03a1b458-f052-498f-9b6f-2db381259038",
+    "image_url": "https://image.torob.com/base/images/ms/68/ms68QRe-HxYU1aWu.jpg"
+  },
+  {
+    "title": "کفش دویدن و پیاده‌روی کودک / نوجوان پوما",
+    "group": "کودک و نوجوان",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش دویدن",
+          "کفش پیاده  روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "کودک",
+          "نوجوان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پوما"
+        ]
+      }
+    ],
+    "random_key": "12aa2569-aa70-416a-83e4-83165bf41efa",
+    "image_url": "https://image.torob.com/base/images/y7/5_/y75_44vcHTynmcsq.jpg"
+  },
+  {
+    "title": "کفش پسرانه بچگانه مدرسه کلاس پسران امارات متحده عربی ورزشی احیا شده آندر آرمور Under Armour",
+    "group": "پسرانه بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "مدرسه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندر آرمور",
+          "Under Armour"
+        ]
+      }
+    ],
+    "random_key": "825ecdbc-4d79-44b0-b5d0-864f933b1863",
+    "image_url": "https://image.torob.com/base/images/bN/Ns/bNNstz4JeFsyH8yG.jpg"
+  },
+  {
+    "title": "کفش پیاده روی دخترانه اسلازنگر Slazenger اورجینال SA21LF037",
+    "group": "دخترانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسلازنگر",
+          "Slazenger"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "a7501b22-37c8-430b-94cf-34853a8b333b",
+    "image_url": "https://image.torob.com/base/images/RA/eR/RAeRnVkAaRjfckRy.jpg"
+  },
+  {
+    "title": "کفش اسپورت بسکتبالی طرح چریکی KIDS",
+    "group": "بچگانه",
+    "product": "کفش اسپورت بسکتبالی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپورت بسکتبالی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "چریکی"
+        ]
+      }
+    ],
+    "random_key": "fd3d9a2b-c5c4-4878-b73b-feedf941eb93",
+    "image_url": "https://image.torob.com/base/images/fl/1p/fl1pYbEhNy2NBuvd.jpg"
+  },
+  {
+    "title": "کتونی بچگانه خرسی 25 تا 30 (پس کرایه)",
+    "group": "بچگانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25 تا 30"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرسی"
+        ]
+      }
+    ],
+    "random_key": "cd36e754-9c78-4d62-b5ab-c33bdf4f4c46",
+    "image_url": "https://image.torob.com/base/images/m9/PP/m9PPFSLc29sEX7Pr.jpg"
+  },
+  {
+    "title": "کرمپون دخترانه و پسرانه بچگانه جونی اورجینال نایک Nike",
+    "group": "بچگانه جونی (نایک)",
+    "product": "کرمپون",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کرمپون"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "Nike"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "91ca77ac-595b-4332-9ae6-fd73e53f0e52",
+    "image_url": "https://image.torob.com/base/images/Ar/_4/Ar_4fjtoXTNcBVCP.jpg"
+  },
+  {
+    "title": "ونس بچگانه وارداتی طرح دوخط توری برند LTDUCK کد 4022402",
+    "group": "بچگانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دوخط توری"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LTDUCK"
+        ]
+      }
+    ],
+    "random_key": "49457c8f-1a51-4c0d-b0bb-24375627f789",
+    "image_url": "https://image.torob.com/base/images/Eh/ov/Ehovqax0SzjBW7pk.jpg"
+  },
+  {
+    "title": "کتونی اسپرت چسبی Vans توسی عسلی و توسی مشکی سایز 27 تا 30 کفش اسپرت پسرانه و دخترانه",
+    "group": "پسرانه و دخترانه",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت",
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چسبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Vans"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "توسی عسلی",
+          "توسی مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "27 تا 30"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      }
+    ],
+    "random_key": "cec1bf18-494a-4ad2-a4a1-4c6470427fe7",
+    "image_url": "https://image.torob.com/base/images/fP/cK/fPcKuf1tWtn1Hm2Z.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه ویکو کد 925.P22Y.252-14 - 20013 | Vicco",
+    "group": "دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو",
+          "Vicco"
+        ]
+      }
+    ],
+    "random_key": "6339236e-722a-4e98-bf35-f81a7b5aea67",
+    "image_url": "https://image.torob.com/base/images/IF/HP/IFHPHmx5cOU9Wese.jpg"
+  },
+  {
+    "title": "کفش پیاده روی پسرانه آدیداس adidas اورجینال 5003047942",
+    "group": "پسرانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "adidas"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "4ef02c0f-0d29-437a-bfe8-eefd8ae512cb",
+    "image_url": "https://image.torob.com/base/images/2y/bM/2ybMzTkrgAwKEBwt.jpg"
+  },
+  {
+    "title": "کتونی ونسی دخترانه مدل پالوکس نگین دار",
+    "group": "خردسال دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی ونسی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "نگین دار"
+        ]
+      }
+    ],
+    "random_key": "7cd96e3f-1094-41b7-8974-d63288207a6d",
+    "image_url": "https://image.torob.com/base/images/fS/tn/fStnMOG9f9AQvQ4W.jpg"
+  },
+  {
+    "title": "کتونی وارداتی بچه گانه کد 00129 - کرم",
+    "group": "بچه گانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "وارداتی"
+        ]
+      }
+    ],
+    "random_key": "7942ef15-a6b6-4861-9683-b0d2a060f935",
+    "image_url": "https://image.torob.com/base/images/Y9/kI/Y9kI_OWeilUDefej.jpg"
+  },
+  {
+    "title": "کفش کاستوم اردک دونالد و میکی | کتونی نایک ایرفورس Donald Duck x Mickey",
+    "group": "خردسال",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "اردک دونالد و میکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی نایک ایرفورس",
+          "کفش کاستوم"
+        ]
+      }
+    ],
+    "random_key": "86168fd4-18f0-48ab-b177-5901ddbce5bf",
+    "image_url": "https://image.torob.com/base/images/fE/dN/fEdNvMrde8NrOSx1.webp"
+  },
+  {
+    "title": "اسنیکر پسرانه و بچگانه توری سیاه پسر کفش ورزشی روزانه STAN SMITH J FX7523 آدیداس adidas",
+    "group": "بچگانه پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "توری"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سیاه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی",
+          "روزانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر",
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "941e4465-044d-49a3-9af3-a94d9d261e43",
+    "image_url": "https://image.torob.com/base/images/9j/0r/9j0r7-T9uqLCycpL.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس Elfp 3Fx روزانه ورزشی لیلا لامبرجک Lumberjack",
+    "group": "خردسال یونیسکس",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "روزانه",
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک",
+          "Lumberjack"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "09c51029-5135-49d4-abc2-96ef553ec1c5",
+    "image_url": "https://image.torob.com/base/images/Ik/X8/IkX8VI86REPhYqrH.jpg"
+  },
+  {
+    "title": "فروش ویژه کفش اسپرت بچگانه مدل نیوشیتا جدیدترین مدل بازار رنگ سفید مشکی کد 5523",
+    "group": "بچگانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "جدیدترین مدل بازار"
+        ]
+      }
+    ],
+    "random_key": "9c9ef29c-d21f-4f46-9e1f-0f4227b73903",
+    "image_url": "https://image.torob.com/base/images/rx/Fj/rxFjQDn4AnwBuG_Q.jpg"
+  },
+  {
+    "title": "کتانی ساقدار بچگانه مدارسی ضدآب سایز 31تا35 مدل دنیز",
+    "group": "بچگانه",
+    "product": "کتانی ساقدار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی ساقدار"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "مدارسی"
+        ]
+      },
+      {
+        "name": "ویژگی های فنی",
+        "values": [
+          "ضدآب"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "31تا35"
+        ]
+      }
+    ],
+    "random_key": "9bb02222-9553-46ca-8358-2f1da248e4d6",
+    "image_url": "https://image.torob.com/base/images/he/7c/he7caRpaiyfXjnsW.jpg"
+  },
+  {
+    "title": "کتانی اسنیکرز دخترانه کینتیکس Kinetix اورجینال PRODA 4FX",
+    "group": "دخترانه",
+    "product": "کتانی اسنیکرز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی اسنیکرز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کینتیکس",
+          "Kinetix"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "2ace4336-d086-44b7-8187-4fee431ea6b3",
+    "image_url": "https://image.torob.com/base/images/Tz/EC/TzECzYUi3B3KvdDS.jpg"
+  },
+  {
+    "title": "کفش ورزشی آبی دخترانه و پسرانه بچگانه یونیسکس بچه PU F NAVY BLUE واک وی WALKWAY",
+    "group": "بچگانه یونیسکس",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      },
+      {
+        "name": "ر رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "بچگانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "واک وی",
+          "WALKWAY"
+        ]
+      }
+    ],
+    "random_key": "5d5e086c-705b-4456-a248-1e4e708dd2fc",
+    "image_url": "https://image.torob.com/base/images/x5/9z/x59zl3gOmRiDOf2D.jpg"
+  },
+  {
+    "title": "کتانی پسرانه و دخترانه والنتینو موجود در سایز های 31 تا35",
+    "group": "خردسال پسرانه و دخترانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 35"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      }
+    ],
+    "random_key": "9eb1a1be-5d7a-44f6-8fdb-2648bc5378d5",
+    "image_url": "https://image.torob.com/base/images/QZ/Zl/QZZlWXtrrV8SxHRU.jpg"
+  },
+  {
+    "title": "تخفیف ویژه کفش اسپرت دخترانه مدل رویگو طرح جدید و خاص پسند رنگ کرم قهوه ای فوق العاده جذااااب و خوش پابا ارسال رایگان",
+    "group": "دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "قهوه ای"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جذاب",
+          "خوش پا"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "جدید",
+          "خاص پسند"
+        ]
+      }
+    ],
+    "random_key": "536675d1-bcba-4a78-b662-6330f0122f35",
+    "image_url": "https://image.torob.com/base/images/ZZ/GB/ZZGBIdgftLgZ-EYW.jpg"
+  },
+  {
+    "title": "کفش های فضای باز دخترانه و پسرانه بچگانه بچه بزرگتر HALBSCHUH AIR MAX SC نایک Nike",
+    "group": "بچگانه دخترانه و پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "فضای باز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک",
+          "Nike"
+        ]
+      }
+    ],
+    "random_key": "e1f904ab-7217-4634-bcab-a2921386ec9d",
+    "image_url": "https://image.torob.com/base/images/4P/gr/4Pgr9uQqQ9H5429p.jpg"
+  },
+  {
+    "title": "کفش پیاده روی مردانه 241406 ورزشی اورجینال Bulldozer",
+    "group": "مردانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Bulldozer"
+        ]
+      }
+    ],
+    "random_key": "4fb533b9-40d3-445b-956d-91e3071a321c",
+    "image_url": "https://image.torob.com/base/images/X1/ct/X1cthxRu8BNe6Whf.jpg"
+  },
+  {
+    "title": "اسنیکر دخترانه لامبرجک Lumberjack اورجینال 101508762",
+    "group": "دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لامبرجک",
+          "Lumberjack"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اورجینال"
+        ]
+      }
+    ],
+    "random_key": "32e5e7a7-5356-44dd-a93a-c51f9b1f6c23",
+    "image_url": "https://image.torob.com/base/images/4x/E6/4xE6Df2C5GJtx5Sy.jpg"
+  },
+  {
+    "title": "کفش پیاده روی پسرانه – دخترانه برند آدیداس اصل HP3118-C",
+    "group": "پسرانه – دخترانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "اصل"
+        ]
+      }
+    ],
+    "random_key": "3b335427-853c-4273-ba87-d24c68414c9b",
+    "image_url": "https://image.torob.com/base/images/y0/X-/y0X-bnZU5a5rgWRA.jpg"
+  },
+  {
+    "title": "کتونی بچه گانه مدل خرگوشی27تا 31",
+    "group": "بچه گانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "27تا 31"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "خرگوشی"
+        ]
+      }
+    ],
+    "random_key": "266a72f4-f397-4324-ba86-851df2e7202c",
+    "image_url": "https://image.torob.com/base/images/bI/xB/bIxBItF5LmyQSNRy.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس ® Bn Lilat سفید ورزشی ان بنتون Benetton",
+    "group": "دخترانه و پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "یونیسکس (دخترانه و پسرانه)"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "® Bn Lilat",
+          "ان بنتون Benetton"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "d01baa4a-14a2-44b7-8085-248ee210d7a6",
+    "image_url": "https://image.torob.com/base/images/Tx/7y/Tx7yA07o_YmIMTam.jpg"
+  },
+  {
+    "title": "کفش مردانه HEYNA 3PR ورزشی مردان سیاه پوست اینجی İnci",
+    "group": "مردانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "HEYNAPR",
+          "اینجی İnci"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "4c98a22e-3616-4959-a13c-acf50dc05d74",
+    "image_url": "https://image.torob.com/base/images/4G/6E/4G6EOI7iOSF-gXXf.jpg"
+  },
+  {
+    "title": "کتونی راحتی بچگانه (دخترانه و پسرانه) سه زنگ مشکی و نقره ای و طوسی سایز 27 تا 36",
+    "group": "بچگانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه و پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "نقره ای",
+          "طوسی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "27 تا 36"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "راحتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "b4698b6d-b6b5-4d1e-9038-78f39dab74f9",
+    "image_url": "https://image.torob.com/base/images/SN/la/SNlaFjZYJBIWS53X.jpg"
+  },
+  {
+    "title": "کفش اسپرت بچه گانه کاشمر بسیارجذاب و خوش پاسایز22و23",
+    "group": "بچگانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "22",
+          "23"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "کاشمر",
+          "بسیار جذاب"
+        ]
+      }
+    ],
+    "random_key": "fd655396-91fa-479f-a534-4bd632e973f6",
+    "image_url": "https://image.torob.com/base/images/WO/RO/WOROzlKVQm_G21ms.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه اسکیچرز Skechers اورجینال 400138N BKRD",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسکیچرز Skechers"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "3125c5e7-4717-42d5-9f6f-d0a6df09d353",
+    "image_url": "https://image.torob.com/base/images/pS/O5/pSO5ZGTlKBn9kPxv.jpg"
+  },
+  {
+    "title": "ونس گلدار دخترانه طرح جدید",
+    "group": "دخترانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "گلدار",
+          "جدید"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      }
+    ],
+    "random_key": "3fa7d982-c3f4-4e74-a238-05c5cbd98ef2",
+    "image_url": "https://image.torob.com/base/images/Rj/wV/RjwV3tDsJ0UiaRbU.jpg"
+  },
+  {
+    "title": "کتونی دخترانه فشون مشکی تمام NY باتیس بوتیک",
+    "group": "دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "فشون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "70f42552-2d18-4f50-940a-a77ac589361e",
+    "image_url": "https://image.torob.com/base/images/-2/Ef/-2EfFFS8-XlZq9zj.jpg"
+  },
+  {
+    "title": "کفش پیاده روی سفید دخترانه و پسرانه بچگانه باستو جونیور ورزشی بچه گانه روزانه hummel",
+    "group": "بچگانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی",
+          "ورزشی",
+          "روزانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه و پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "hummel"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "57cc4ae5-06a1-404f-b5f9-ff0091e12aab",
+    "image_url": "https://image.torob.com/base/images/Mr/uS/MruS5qlJmIrHD3Mo.jpg"
+  },
+  {
+    "title": "خرید اینترنتی کتانی بدون ساق بچه گانه پسرانه سفید اسلازنگر SA15LF006",
+    "group": "بچگانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "نوع ساق",
+        "values": [
+          "بدون ساق"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسلازنگر SLASENGER"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "0c39d720-86f7-4f30-a1f3-daad3d0de442",
+    "image_url": "https://image.torob.com/base/images/Ks/JF/KsJFzg72V4tgzO5I.jpg"
+  },
+  {
+    "title": "کتانی طبی دخترانه 101041016 فشن ST صورتی",
+    "group": "دخترانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "طبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "فشن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "صورتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "47adf621-99f8-498e-b1df-4b472361de27",
+    "image_url": "https://image.torob.com/base/images/ZN/J7/ZNJ7bMcneeMk_VOQ.webp"
+  },
+  {
+    "title": "کتونی بچه گانه طرح شاهین 008",
+    "group": "بچگانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "شاهین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "a3a3c39d-7798-4ad1-9bcd-6e9202529845",
+    "image_url": "https://image.torob.com/base/images/fz/WK/fzWKOFssKF-xW5YX.jpg"
+  },
+  {
+    "title": "کتونی ساقدار نایک ایر فورس پسرانه و دخترانه - مشکی سفید / 40",
+    "group": "پسرانه و دخترانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "نوع ساق",
+        "values": [
+          "ساقدار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ایر فورس"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه و دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "fbcc165f-4720-41c0-a48d-034d53cf47d5",
+    "image_url": "https://image.torob.com/base/images/hb/f4/hbf4V5YYmDiL-RLJ.jpg"
+  },
+  {
+    "title": "کفش پیاده روی پسرانه – دخترانه Taşpınar Ayakkabı اورجینال TYCCEO3VMN169480591254063",
+    "group": "پسرانه و دخترانه",
+    "product": "کفش پیاده روی",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Taşpınar Ayakkabı"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "c49b4643-a05b-4bbe-8129-b43945b4111c",
+    "image_url": "https://image.torob.com/base/images/n6/_q/n6_qnQ2EFhJG7D-F.jpg"
+  },
+  {
+    "title": "کفش زنانه Talet 20 K روزانه جوانان سفید آدیداس adidas",
+    "group": "زنانه و جوانان",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "کاربری",
+        "values": [
+          "روزانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس adidas"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "33fefc41-ae42-4c8d-af4d-ac274a6541e8",
+    "image_url": "https://image.torob.com/base/images/YA/Za/YAZaqAVCdreBiZ0N.jpg"
+  },
+  {
+    "title": "کتونی اورجینال 361 نیم ساق بسکتبالی سفید ابی",
+    "group": "نامشخص",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "نیم ساق"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "بسکتبالی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید",
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "c0681e87-a562-4599-9c9a-7289dab7cfca",
+    "image_url": "https://image.torob.com/base/images/wv/ci/wvciG90P7c9_jTqZ.webp"
+  },
+  {
+    "title": "کتانی بچگانه vicco",
+    "group": "بچگانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "vicco"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "2fbc002a-6354-4d7d-8af0-d65e87602e55",
+    "image_url": "https://image.torob.com/base/images/Cy/yr/Cyyrh1xREsSHWfeY.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه لاکوست Lacoste اورجینال TYC0845743015M747SUJ00010",
+    "group": "خردسال",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لاکوست"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "3701e1b7-4ec8-4de5-86a2-17d733bc7d71",
+    "image_url": "https://image.torob.com/base/images/Z3/aM/Z3aMnWxtcGGaSXJi.jpg"
+  },
+  {
+    "title": "کفش دو و تمرین آبی دخترانه پسرانه بچگانه دویدن بچه گانه سرمه‌ای Lotto",
+    "group": "بچگانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "دو و تمرین",
+          "دویدن"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lotto"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "bd20b975-ce8e-4b91-9a2c-fbe81074422f",
+    "image_url": "https://image.torob.com/base/images/qU/c6/qUc6tr171vjPN9iR.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس ورزشی بند دار سریع بازیگوش دکتلون Decathlon",
+    "group": "خردسال",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی",
+          "بازیگوش"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون Decathlon"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "2a641b3f-055c-425f-87d6-732f07998bbd",
+    "image_url": "https://image.torob.com/base/images/xF/rb/xFrbSaOmZgBL2NWH.jpg"
+  },
+  {
+    "title": "کتونی نقلی 21 تا 25 چسبی نیم ساق تدی کار اسپرت مناسب استفاده دخترانه و پسرانه",
+    "group": "خردسال",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "21 تا 25"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "چسبی"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "نیم ساق"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "نقلی",
+          "تدی کار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "880b8219-e639-4b7c-bbde-c18262a9d2fc",
+    "image_url": "https://image.torob.com/base/images/HW/pX/HWpXnhSff6PG-Oes.jpg"
+  },
+  {
+    "title": "کتونی بچگانه وارداتی طرح asics برند Kids کد 110401",
+    "group": "بچگانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kids",
+          "asics"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "وارداتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "79447e0f-96a4-4dad-bee3-c4fe139db63a",
+    "image_url": "https://image.torob.com/base/images/fa/nZ/fanZ-kd5XUmp5LFt.jpg"
+  },
+  {
+    "title": "کتونی اسپرت دخترانه زیره پیو گوشتی مشکی",
+    "group": "دخترانه",
+    "product": "کتونی اسپرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "گوشتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      }
+    ],
+    "random_key": "b7d9b0bd-b64d-4916-9ed4-ead23d8cdc3b",
+    "image_url": "https://image.torob.com/base/images/UD/kr/UDkrhU9rKoF3KaFc.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه Skechers 401504N CCBK اورجینال اسکیچرز خاکستری Magna - Lights Little Boy Grey Lighted Boots 401504n Ccbk",
+    "group": "پسرانه خردسال",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Skechers",
+          "اسکیچرز"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "خاکستری"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "Lighted"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "c62fa4cc-c4f3-415b-9042-b6975635ae12",
+    "image_url": "https://image.torob.com/base/images/sc/WR/scWROfE6GF7YNhcD.jpg"
+  },
+  {
+    "title": "کفش ورزشی دخترانه با بافت برند kappa",
+    "group": "دخترانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "بافت"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "kappa"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "1e0e322b-8587-4af3-acc2-7b9c134c6704",
+    "image_url": "https://image.torob.com/base/images/cV/ML/cVML0_B-5HBz3o0f.jpg"
+  },
+  {
+    "title": "کفش کتونی مدل آیرانر دخترانه",
+    "group": "دخترانه",
+    "product": "کفش کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "3936c178-3506-44aa-88a9-4a726983dfa0",
+    "image_url": "https://image.torob.com/base/images/AR/MP/ARMPo2gFBhNujoKh.jpg"
+  },
+  {
+    "title": "کتونی ونس دخترانه مدل فشیون",
+    "group": "دخترانه",
+    "product": "کتونی ونس",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی ونس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "فشیون"
+        ]
+      }
+    ],
+    "random_key": "15126db3-0642-40a0-8fb2-dfd14f982a99",
+    "image_url": "https://image.torob.com/base/images/Pz/0b/Pz0bmH7VqIvQm-IA.jpg"
+  },
+  {
+    "title": "کفش کتونی اسپرت بچه گانه دیسکی طیفی",
+    "group": "بچگانه",
+    "product": "کفش کتونی اسپرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "دیسکی طیفی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش کتونی"
+        ]
+      }
+    ],
+    "random_key": "3bf6ceb2-c05f-4fd4-9806-c8d03596aed1",
+    "image_url": "https://image.torob.com/base/images/Jb/yJ/JbyJ6lqUiat_Ogoi.jpg"
+  },
+  {
+    "title": "کفش ورزشی و پیاده روی شیما مدل دبلیو پسرانه مشکی بندی(31تا35)",
+    "group": "پسرانه",
+    "product": "کفش ورزشی و پیاده روی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی",
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "شیما"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بندی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "31تا35"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "53f92e7f-8a22-468d-ab6d-9658bbcbb7f8",
+    "image_url": "https://image.torob.com/base/images/95/ve/95vednAoRSdsMF0A.jpg"
+  },
+  {
+    "title": "کتانی دخترانه کرم کد 24778",
+    "group": "دخترانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "f89ecc05-5997-438b-a4ca-47b2b8263a7c",
+    "image_url": "https://image.torob.com/base/images/Nv/cM/NvcMZZWjtLL8hhWN.webp"
+  },
+  {
+    "title": "کفش پسرانه بچگانه برو دویدن ورزشی بزرگ پسر بچه اسکچرز Skechers",
+    "group": "پسرانه بچگانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "دویدن",
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Skechers",
+          "اسکچرز"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش"
+        ]
+      }
+    ],
+    "random_key": "87223472-5d3b-4771-b161-0bb23cbe7ea6",
+    "image_url": "https://image.torob.com/base/images/bd/Y-/bdY-wtUOrmsnYMTF.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه مدل های‌تاپ با بند چسبی برند oaklan by shoexpress",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "ورزشی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بند چسبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "oaklan by shoexpress"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش های تاپ"
+        ]
+      }
+    ],
+    "random_key": "9a954b8a-786c-4ade-adf7-92b63f7f760e",
+    "image_url": "https://image.torob.com/base/images/jj/0f/jj0f6kdB8Z4rGiJ6.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه ویکو Vicco اورجینال 211 346.B20K161",
+    "group": "خردسال",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ویکو Vicco"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "5c81aa00-3a08-4945-aba3-396acde036ca",
+    "image_url": "https://image.torob.com/base/images/JB/xe/JBxe5xDjGZryC5Sr.jpg"
+  },
+  {
+    "title": "کتونی بچه گانه پسرانه دخترانه اسپرت سایز 31 تا 36 رنگ کرم زیره پیو لژ سه و نیم سانتی رویه چرم صنعتی سبک راحت",
+    "group": "بچه گانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 36"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "چرم صنعتی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک",
+          "راحت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی اسپرت"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "لژ سه و نیم سانتی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      }
+    ],
+    "random_key": "3cfaefdd-e4b3-464b-8882-cc582b97ad88",
+    "image_url": "https://image.torob.com/base/images/Mv/32/Mv32dllIXKYYEZ6N.jpg"
+  },
+  {
+    "title": "پسرانه حمید سرمه ای قرمز سایز 3",
+    "group": "پسرانه",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "حمید"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای",
+          "قرمز"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "3"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      }
+    ],
+    "random_key": "34bc803f-a769-4dbb-a0ee-0812912bf351",
+    "image_url": "https://image.torob.com/base/images/x3/Ph/x3PhaB_q0zFQicKV.jpg"
+  },
+  {
+    "title": "ونس مدل هانا کد 67388",
+    "group": "نامشخص",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "مدل هانا",
+          "کد 67388"
+        ]
+      }
+    ],
+    "random_key": "680261fa-f2a8-49ee-8f67-11049272e33b",
+    "image_url": "https://image.torob.com/base/images/st/-e/st-elfFjl-AkmMHy.jpg"
+  },
+  {
+    "title": "اسنیکر راسته دخترانه | آدیداس adidas Tensaur Sport 2.0 K",
+    "group": "دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس",
+          "adidas"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر راسته"
+        ]
+      }
+    ],
+    "random_key": "844071c7-f8fd-42a8-a4bf-404343ae1be2",
+    "image_url": "https://image.torob.com/base/images/7M/Ul/7MUlMPKGXuOVwfpZ.jpg"
+  },
+  {
+    "title": "کفش اسپرت ورزشی پسرانه دخترانه آدیداس پیاده روی رامیلا تزریق مستقیم راحت طبی",
+    "group": "پسرانه دخترانه",
+    "product": "کفش اسپرت ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "آدیداس"
+        ]
+      },
+      {
+        "name": "کاربری",
+        "values": [
+          "پیاده روی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "راحت",
+          "طبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت ورزشی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "تزریق مستقیم"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      }
+    ],
+    "random_key": "0d459b4b-ecb5-4478-8540-db4ff14994ca",
+    "image_url": "https://image.torob.com/base/images/SB/Vj/SBVjYv4jGBc2005T.jpg"
+  },
+  {
+    "title": "کتونی بچگانه مدل سوپرمی سایز 31 تا 35",
+    "group": "بچگانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "31 تا 35"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "مدل سوپرمی"
+        ]
+      }
+    ],
+    "random_key": "68bfb5f3-8196-4683-bfb2-c04d0d668e4f",
+    "image_url": "https://image.torob.com/base/images/84/sz/84szLCOmlaxPjRYN.jpg"
+  },
+  {
+    "title": "اسنیکر پسرانه لوپیا کیدز | LupiaKids",
+    "group": "پسرانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیا کیدز",
+          "LupiaKids"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "554fd2bf-584a-469b-aeea-08b775c6b390",
+    "image_url": "https://image.torob.com/base/images/b6/76/b676J8Mf4or9mlNW.jpg"
+  },
+  {
+    "title": "کتانی بچه گانه 102023001 نایک SUP مشکی آبی",
+    "group": "بچه گانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نایک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "102023001",
+          "SUP"
+        ]
+      }
+    ],
+    "random_key": "e990f630-d6e5-458c-a1b2-b9adc5e1055e",
+    "image_url": "https://image.torob.com/base/images/aI/YJ/aIYJ2rBUr_2aToFS.webp"
+  },
+  {
+    "title": "اسنیکر پسرانه – دخترانه ویکو 925.",
+    "group": "پسرانه دخترانه",
+    "product": "اسنیکر",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه",
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ویکو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "اسنیکر"
+        ]
+      }
+    ],
+    "random_key": "31b21972-72b8-4867-9bbd-656dfbb713cc",
+    "image_url": "https://image.torob.com/base/images/Aa/E5/AaE5ciAte8Hwv8j8.jpg"
+  },
+  {
+    "title": "کفش ورزشی پسرانه مدل های‌تاپ بنددار برند kappa",
+    "group": "پسرانه",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "kappa"
+        ]
+      },
+      {
+        "name": "نوع ساق",
+        "values": [
+          "های تاپ"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "بنددار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "d61f47be-c2cb-4a9b-acc6-ac6ce47ea2c4",
+    "image_url": "https://image.torob.com/base/images/K_/Zy/K_ZyhJNz4iKT50Rl.jpg"
+  },
+  {
+    "title": "کتونی شکلک دار بچه گانه اسپرت دخترانه پسرانه سایز 25 تا 30 رنگی سفید زیره پیو لژ 3 سانتی رویه فوم خارجی راحتی",
+    "group": "بچه گانه",
+    "product": "کتونی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "25 تا 30"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "رنگی",
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنس زیره",
+        "values": [
+          "پیو"
+        ]
+      },
+      {
+        "name": "جنس رویه",
+        "values": [
+          "فوم خارجی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "راحتی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتونی",
+          "اسپرت"
+        ]
+      },
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "شکلک دار",
+          "لژ 3 سانتی"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "شکلک دار"
+        ]
+      }
+    ],
+    "random_key": "4163b566-f3a5-4bfb-9fb4-92ed93b2efc2",
+    "image_url": "https://image.torob.com/base/images/7k/6M/7k6MQWbd4C9t1dMI.jpg"
+  },
+  {
+    "title": "کفش ورزشی آبی دخترانه و پسرانه بچگانه یونیسکس BLUE PU P واک وی WALKWAY",
+    "group": "دخترانه و پسرانه بچگانه یونیسکس",
+    "product": "کفش ورزشی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "واک وی",
+          "WALKWAY"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "ebb96fa1-d266-45a9-817b-f246cc051c15",
+    "image_url": "https://image.torob.com/base/images/7z/H6/7zH6DK8CGAJo4VPz.jpg"
+  },
+  {
+    "title": "فروش ویژه کفش اسپرت دخترانه رنگ کرم مشکی..",
+    "group": "دخترانه",
+    "product": "کفش اسپرت",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "کرم",
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش اسپرت"
+        ]
+      }
+    ],
+    "random_key": "e0ef0d40-d124-41ba-80d9-1ed2e8c3d065",
+    "image_url": "https://image.torob.com/base/images/wq/Z3/wqZ3sXSTBHuTHIPa.jpg"
+  },
+  {
+    "title": "کفش دخترانه پسرانه یونیسکس ® Bn مشکی Sax Blue ورزشی ان بنتون Benetton",
+    "group": "دخترانه پسرانه یونیسکس",
+    "product": "کفش",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "یونیسکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "بنتون",
+          "Benetton"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "Sax Blue"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کفش ورزشی"
+        ]
+      }
+    ],
+    "random_key": "b79fa728-3ab8-442a-87fc-16d8c9322b5d",
+    "image_url": "https://image.torob.com/base/images/_D/HV/_DHVkrzs27fPAS60.jpg"
+  },
+  {
+    "title": "کتانی بچگانه kinetix",
+    "group": "بچگانه",
+    "product": "کتانی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "kinetix"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کتانی"
+        ]
+      }
+    ],
+    "random_key": "0a61dce3-0da6-4f9b-9833-042ef8c509eb",
+    "image_url": "https://image.torob.com/base/images/Qp/bH/QpbH6SWw6edGYGmO.jpg"
+  },
+  {
+    "title": "ونس بچه گانه ستاره اسپرت - 30",
+    "group": "بچه گانه",
+    "product": "ونس",
+    "entities": [
+      {
+        "name": "توصیفگرها",
+        "values": [
+          "ستاره"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ونس اسپرت"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "30"
+        ]
+      }
+    ],
+    "random_key": "3b11c5be-5c94-4140-b945-4ced9f15947a",
+    "image_url": "https://image.torob.com/base/images/2N/24/2N24TVli3LseU2Z6.jpg"
+  }
+]

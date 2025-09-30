@@ -1,0 +1,6533 @@
+[
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال HH..15001.HHA.419",
+    "group": "زنانه",
+    "product": "پولار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن",
+          "Helly Hansen"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "249d47d5-c572-49ad-bd38-dfd4cfe3bfa5",
+    "image_url": "https://image.torob.com/base/images/35/y7/35y73oSGJ39YVu4I.jpg"
+  },
+  {
+    "title": "پانچو ALL NEEKO",
+    "group": "نامشخص",
+    "product": "پانچو کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ALL NEEKO"
+        ]
+      }
+    ],
+    "random_key": "c6d74bd7-e9d5-4f9f-9d4a-00ce7d2c8f66",
+    "image_url": "https://image.torob.com/base/images/bq/Gn/bqGnxWB8xxyL_v0G.webp"
+  },
+  {
+    "title": "بادگیر و شلوار پارچه گورتکس کوهنوردی",
+    "group": "نامشخص",
+    "product": "بادگیر و شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر و شلوار"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گورتکس"
+        ]
+      }
+    ],
+    "random_key": "06faeb62-7fcd-4d41-b56a-54ad50f43cb5",
+    "image_url": "https://image.torob.com/base/images/Dr/it/DritBps8YwujixlC.jpg"
+  },
+  {
+    "title": "شلوار الیاف MOUFLON",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار الیاف"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MOUFLON"
+        ]
+      }
+    ],
+    "random_key": "b808c65d-7cd4-4b71-8e03-53798d6e4d42",
+    "image_url": "https://image.torob.com/base/images/8f/-Q/8f-Q_s3LNd7AJeMU.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه MOUNTIA",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MOUNTIA"
+        ]
+      }
+    ],
+    "random_key": "2c651ab0-0cc6-4ed3-b9f6-f49162d8c5cd",
+    "image_url": "https://image.torob.com/base/images/mE/Zg/mEZgUw-w2I75ZgKt.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه EIDER",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "EIDER"
+        ]
+      }
+    ],
+    "random_key": "b169c86a-3317-4fa4-b554-141d8b8a0bd4",
+    "image_url": "https://image.torob.com/base/images/HU/Mg/HUMgi6cfqdzhyRdt.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 75",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "2ea8b56c-17f7-4025-a05a-3584bd2fa4be",
+    "image_url": "https://image.torob.com/base/images/m-/l9/m-l9reb7lMou7itm.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه VAUDE",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "VAUDE"
+        ]
+      }
+    ],
+    "random_key": "15c3bbf9-a51d-4e73-87c1-29086c7f42a5",
+    "image_url": "https://image.torob.com/base/images/u3/DR/u3DRl27tnnNNrLet.jpg"
+  },
+  {
+    "title": "نیم زیپ داخل پلار Pierre Cardin - استوک ستاره سهیل",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ داخل پلار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Pierre Cardin"
+        ]
+      }
+    ],
+    "random_key": "fc018dcb-b865-47cd-9c29-9a6a96aa731b",
+    "image_url": "https://image.torob.com/base/images/Ag/XP/AgXPQdSJMVm-f6sK.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه MILLET",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ویندستاپر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MILLET"
+        ]
+      }
+    ],
+    "random_key": "4ef08bdc-f2cf-49b2-aef7-33aaedf17549",
+    "image_url": "https://image.torob.com/base/images/it/xv/itxvoBcz_kozkXXA.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ ریسا مدل آرو Risa Aro 1425",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ریسا",
+          "Risa"
+        ]
+      }
+    ],
+    "random_key": "1c4246fc-591b-47fa-8b10-7181c27a738f",
+    "image_url": "https://image.torob.com/base/images/x4/wZ/x4wZOzh5fvL_M7kj.jpg"
+  },
+  {
+    "title": "سافت شل و پلار ورزشی آبی مردانه قطبی در فضای باز دکتلون Decathlon",
+    "group": "مردانه",
+    "product": "لباس ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سافت شل",
+          "پلار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون",
+          "Decathlon"
+        ]
+      }
+    ],
+    "random_key": "2f970036-6693-49d3-bd57-835766a2ef23",
+    "image_url": "https://image.torob.com/base/images/Mv/jq/MvjqZsQvKAR7PuF9.jpg"
+  },
+  {
+    "title": "بادگیر شلوار لجنی koohsar",
+    "group": "نامشخص",
+    "product": "بادگیر شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر شلوار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "لجنی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "koohsar"
+        ]
+      }
+    ],
+    "random_key": "6b71d452-8e27-4435-a02c-3616a94f0c2d",
+    "image_url": "https://image.torob.com/base/images/LQ/uR/LQuRhOmqlCLHY4ZR.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Columbia مدل Wm3220 کد 863456428",
+    "group": "نامشخص",
+    "product": "پیلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Columbia"
+        ]
+      }
+    ],
+    "random_key": "22a51c2f-149e-42ed-b62b-1b27a1db16c9",
+    "image_url": "https://image.torob.com/base/images/Zy/op/ZyopOpuRS7GwYGLI.jpg"
+  },
+  {
+    "title": "نیمزیپ کوهنوردی کد 176",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیمزیپ کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "c89b871d-005d-4a0c-9c91-667b5de19c1f",
+    "image_url": "https://image.torob.com/base/images/5D/tj/5DtjKY2rgUwTVpdh.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی تابستانه گریت اسکیپ",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "گریت اسکیپ"
+        ]
+      }
+    ],
+    "random_key": "d92aa97a-326a-4930-bfd0-3e858b768587",
+    "image_url": "https://image.torob.com/base/images/mK/yx/mKyxUEKRyOCnVYw4.jpg"
+  },
+  {
+    "title": "بلوز هرو طرح دار",
+    "group": "نامشخص",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "طرح دار"
+        ]
+      }
+    ],
+    "random_key": "7182e138-55a2-4df2-9cc9-2c2e315998ee",
+    "image_url": "https://image.torob.com/base/images/XV/Gv/XVGvhqWTPCKD9MV8.jpg"
+  },
+  {
+    "title": "سافت شل و پلار ورزشی چند رنگ زنانه ضروری FZ W اورجینال سالامون Salomon",
+    "group": "زنانه",
+    "product": "سافت شل و پلار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سافت شل و پلار ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سالامون Salomon"
+        ]
+      }
+    ],
+    "random_key": "d7e6e7dc-e381-46bf-bae6-b71a5fddee87",
+    "image_url": "https://image.torob.com/base/images/Sb/KD/SbKD3FWGnGnTyMDD.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Columbia کد 759252523",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Columbia"
+        ]
+      }
+    ],
+    "random_key": "b8f94b80-de68-4089-bcf9-a443fd5094a2",
+    "image_url": "https://image.torob.com/base/images/Hm/rf/HmrfL4z_XKZWGVMC.jpg"
+  },
+  {
+    "title": "شلوار سه‌فصل Trespass – مناسب کوهنوردی و طبیعت‌گردی",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Trespass"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "سه فصل"
+        ]
+      }
+    ],
+    "random_key": "2f45dc9f-bf85-4b4f-987c-5ab4fc32b92b",
+    "image_url": "https://image.torob.com/base/images/Ra/1Z/Ra1ZrnxyymXcqfUA.jpg"
+  },
+  {
+    "title": "بلوز بیس لیر کوهنوردی مردانه LP ساپورت ARM2401Z",
+    "group": "مردانه",
+    "product": "بلوز بیس لیر کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز بیس لیر کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LP"
+        ]
+      }
+    ],
+    "random_key": "b5716bc6-6c1b-46a5-bb71-d9597afffe58",
+    "image_url": "https://image.torob.com/base/images/tp/l0/tpl0tm5c-cQvT_pK.webp"
+  },
+  {
+    "title": "شلوار کوهنوردی زنانه طرح سالامون|زرد",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سالامون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      }
+    ],
+    "random_key": "86b83371-7473-402d-ae54-a3fca5db8979",
+    "image_url": "https://image.torob.com/base/images/u5/sK/u5sKqKtYdUF3cd76.webp"
+  },
+  {
+    "title": "کاپشن کوهنوردی گوتکس KAHBOD",
+    "group": "نامشخص",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "گورتکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KAHBOD"
+        ]
+      }
+    ],
+    "random_key": "0675a2d5-0275-4fdc-a859-894e9fc1efcc",
+    "image_url": "https://image.torob.com/base/images/HL/sL/HLsLRb-X4hGvZ0eT.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه WILDROSES",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "WILDROSES"
+        ]
+      }
+    ],
+    "random_key": "7133e5ca-0138-4f7e-8e6f-95c2acf33ca6",
+    "image_url": "https://image.torob.com/base/images/ug/Bc/ugBcO5pRzZg1sJsa.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Salomon مدل Sntial Midfleece کد 876276172",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Salomon"
+        ]
+      }
+    ],
+    "random_key": "44fdabd0-4e18-48a0-ad3d-7f939cd1521f",
+    "image_url": "https://image.torob.com/base/images/-P/57/-P57o6s8u2h07sCA.jpg"
+  },
+  {
+    "title": "شلوار اسنوهاک اسکای",
+    "group": "نامشخص",
+    "product": "شلوار اسکی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسنوهاک"
+        ]
+      }
+    ],
+    "random_key": "b8081d52-ac91-42fc-b552-12b0e91cb021",
+    "image_url": "https://image.torob.com/base/images/1Y/qy/1Yqyn-R3fC7zf8wj.jpg"
+  },
+  {
+    "title": "نیم زیپ مردانه کچوا - MH100",
+    "group": "مردانه",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کچوا"
+        ]
+      }
+    ],
+    "random_key": "b2f1dce0-d158-4691-b010-1286c4690a5e",
+    "image_url": "https://image.torob.com/base/images/NX/RM/NXRMMEoMDeRoMYhN.webp"
+  },
+  {
+    "title": "پانچو کوهنوردی دیوتر مدل جا کوله دار",
+    "group": "نامشخص",
+    "product": "پانچو کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دیوتر"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "مدل جا کوله دار"
+        ]
+      }
+    ],
+    "random_key": "357496d3-555a-4c73-ba80-8791133d0b6f",
+    "image_url": "https://image.torob.com/base/images/OJ/rW/OJrWtTIbYx57AgiD.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه EIDER",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "EIDER"
+        ]
+      }
+    ],
+    "random_key": "667ab1cb-80fb-4646-9b0c-071dd3cd2ee6",
+    "image_url": "https://image.torob.com/base/images/8v/i0/8vi0oBrbXEYLGRSL.jpg"
+  },
+  {
+    "title": "پانچو کوهنوردی پکینیو مدل Zede-AB",
+    "group": "نامشخص",
+    "product": "پانچو کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "پکینیو"
+        ]
+      }
+    ],
+    "random_key": "2b4abf01-f701-42d1-9912-0f27f216afda",
+    "image_url": "https://image.torob.com/base/images/Qb/3B/Qb3B4bX__54u94TV.jpg"
+  },
+  {
+    "title": "پانچو دکتلون مدل 560 مشکی _ فسفری",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی",
+          "فسفری"
+        ]
+      }
+    ],
+    "random_key": "85c346df-13dd-47b5-84e2-11fc77367951",
+    "image_url": "https://image.torob.com/base/images/9E/hD/9EhDsLdEFcuU_keD.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Genel markalar مدل",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Genel markalar"
+        ]
+      }
+    ],
+    "random_key": "a00af61a-04a5-4b19-8dfe-1f55574d038f",
+    "image_url": "https://image.torob.com/base/images/vO/yp/vOypD63oIlzJi38E.jpg"
+  },
+  {
+    "title": "مانتو دومان",
+    "group": "نامشخص",
+    "product": "مانتو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دومان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو"
+        ]
+      }
+    ],
+    "random_key": "2aa7c2f0-38ac-41bf-8010-9e43d013b0e5",
+    "image_url": "https://image.torob.com/base/images/Av/7H/Av7HENsj18XxBElw.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه BLACKYAK",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BLACKYAK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "5d4d48c5-3c50-4db5-94cb-33e8f06eef1e",
+    "image_url": "https://image.torob.com/base/images/yf/M2/yfM2thESRkwGr7MN.jpg"
+  },
+  {
+    "title": "سافت شل و پلار ورزشی مشکی مردانه FACE M 100 مردانه'S اورجینال نورث فیس The North Face",
+    "group": "مردانه",
+    "product": "سافت شل و پلار ورزشی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سافت شل",
+          "پلار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس",
+          "The North Face"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سافت شل",
+          "پلار ورزشی"
+        ]
+      }
+    ],
+    "random_key": "c049937e-7da9-44dd-82d1-e48dd3318cdf",
+    "image_url": "https://image.torob.com/base/images/nP/O-/nPO-X-J4Bfvt9bPU.jpg"
+  },
+  {
+    "title": "بلوز میکرو پلار ریسا مدل 3670 رنگ : ذغالی",
+    "group": "نامشخص",
+    "product": "بلوز میکرو پلار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ریسا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ذغالی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز میکرو پلار"
+        ]
+      }
+    ],
+    "random_key": "966cc462-0669-4ba5-9a94-f03f2d0ae7fd",
+    "image_url": "https://image.torob.com/base/images/Ck/vk/Ckvk6E3fwdHf48ym.jpg"
+  },
+  {
+    "title": "پلار تمام زیپ MILLET",
+    "group": "نامشخص",
+    "product": "پلار",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "تمام زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MILLET"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار"
+        ]
+      }
+    ],
+    "random_key": "eeb2bd56-73db-4de0-928a-aeefcb547d69",
+    "image_url": "https://image.torob.com/base/images/al/bp/albpbflj8zaBaGUi.jpg"
+  },
+  {
+    "title": "ژاکت پشمی پیاده‌روی بچه‌گانه کچوا مدل Quechua MH100 - زمان ارسال 15 تا 20 روز کاری",
+    "group": "بچه‌گانه",
+    "product": "ژاکت پشمی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "پشمی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کچوا",
+          "Quechua"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "ژاکت پیاده روی"
+        ]
+      }
+    ],
+    "random_key": "28b1b70b-98ff-4bf2-9dcc-c22a6a6d37fd",
+    "image_url": "https://image.torob.com/base/images/AV/gj/AVgjLPOUPXXEtLLH.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه VAUDE",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "VAUDE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "9d2aa60c-8bbc-4a7d-a41b-9ef617f14a47",
+    "image_url": "https://image.torob.com/base/images/je/FA/jeFAxHPss3r48oG9.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپرتک لایه زنانه",
+    "group": "زنانه",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ویندستاپرتک لایه"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ویندستاپرتک لایه"
+        ]
+      }
+    ],
+    "random_key": "2a724052-9c97-47d9-87e5-b225ae33e5b3",
+    "image_url": "https://image.torob.com/base/images/e5/ie/e5iec-PXkjGNVFm9.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ هیمالیا طرح افرا کد 75296",
+    "group": "نامشخص",
+    "product": "بلوز نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "0d14dda6-9c8c-4888-8b3b-ea381e8f0e4a",
+    "image_url": "https://image.torob.com/base/images/XG/52/XG52qNp3L3ufHUyJ.jpg"
+  },
+  {
+    "title": "بلوز کوهنوردی جنس نرم و خنک",
+    "group": "نامشخص",
+    "product": "بلوز کوهنوردی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "نرم",
+          "خنک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "3400356e-bfd9-4beb-bfc0-edd2672f93f7",
+    "image_url": "https://image.torob.com/base/images/yG/tr/yGtrk8OGNHILAabO.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 124",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "1030ac25-228c-4e68-b2b4-5a0e7f797415",
+    "image_url": "https://image.torob.com/base/images/jU/MR/jUMRzJFFyFmaypJ0.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی. مارک BLAKYAK",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "BLAKYAK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "ac9adebd-46cb-46e9-b1a6-63b4021517a4",
+    "image_url": "https://image.torob.com/base/images/ZX/m2/ZXm231Z63lu0UlBM.jpg"
+  },
+  {
+    "title": "نیمزیپ کوهنوردی کد 84",
+    "group": "نامشخص",
+    "product": "نیمزیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیمزیپ کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "9768893c-cab2-4d18-b0aa-fc2da36fd0de",
+    "image_url": "https://image.torob.com/base/images/g4/mT/g4mT_WqEhpHGNzsI.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی پوشاک اروپایی",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی پوشاک اروپایی"
+        ]
+      }
+    ],
+    "random_key": "7da250f6-8a57-47f8-b5a0-e060ae4cb5d7",
+    "image_url": "https://image.torob.com/base/images/fX/Yg/fXYg1DEY83mI1asV.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه FREEX",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "FREEX"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "3d64d4f2-bf3c-4128-b5ad-3327633ddd97",
+    "image_url": "https://image.torob.com/base/images/4U/Jj/4UJjYDC_PTgedycv.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی و طبیعت گردی مردانه هیمالیا Geara 301166 M",
+    "group": "مردانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی و طبیعت گردی"
+        ]
+      }
+    ],
+    "random_key": "34579037-071d-40aa-b552-598d5b6f0670",
+    "image_url": "https://image.torob.com/base/images/sd/2y/sd2ygJfV8YkRXNK5.webp"
+  },
+  {
+    "title": "کاپشن زنانه پلار جک ولف اسکین JACK WOLFSKIN",
+    "group": "زنانه",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جک ولف اسکین JACK WOLFSKIN"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن پلار"
+        ]
+      }
+    ],
+    "random_key": "767c5c01-aae5-40af-9e75-c254b4631ce1",
+    "image_url": "https://image.torob.com/base/images/sC/wV/sCwViD8fI8td_tvI.jpg"
+  },
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال HH15007S",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن Helly Hansen"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "f141e5c7-1f7f-4108-939b-e19df87fb6a4",
+    "image_url": "https://image.torob.com/base/images/7g/B7/7gB7V_Q0T6YOv57u.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی و ترکینگ مونته آدلمو کد 586",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی",
+          "شلوار ترکینگ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "مونته آدلمو"
+        ]
+      }
+    ],
+    "random_key": "05295906-8cbd-43b7-858e-452198c2f1e0",
+    "image_url": "https://image.torob.com/base/images/1S/QL/1SQLhEyCuvI2--zl.webp"
+  },
+  {
+    "title": "پانچو کوهنوردی نورث فیس",
+    "group": "نامشخص",
+    "product": "پانچو کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "c3f686f8-1dcc-4f89-bdf5-4b2167d06fb6",
+    "image_url": "https://image.torob.com/base/images/VN/e_/VNe_Iq5mO1pboCnX.webp"
+  },
+  {
+    "title": "پانچو کشمیر بهاره پاییزه",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "بهاره",
+          "پاییزه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کشمیر"
+        ]
+      }
+    ],
+    "random_key": "c72e5a1d-3199-45b4-b792-4b9fb3f32c5a",
+    "image_url": "https://image.torob.com/base/images/Rp/Jj/RpJjV7pxxczWKHoV.webp"
+  },
+  {
+    "title": "پانچو نورس فیس",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نورس فیس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو"
+        ]
+      }
+    ],
+    "random_key": "3133fc8b-dcc1-4103-ae84-35536afcf520",
+    "image_url": "https://image.torob.com/base/images/fF/ve/fFveby7I5tit92WY.jpg"
+  },
+  {
+    "title": "تیشرت کوهنوردی مردانه رَب RAB men's organic cotton T-shirt",
+    "group": "مردانه",
+    "product": "تیشرت کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "رَب RAB"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان ارگانیک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "e01778b2-4cc8-4761-9a93-2ffb81774cd1",
+    "image_url": "https://image.torob.com/base/images/Gg/7c/Gg7cdyYKTGEWKy1T.jpg"
+  },
+  {
+    "title": "شلوار وینداستاپر ماموت",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وینداستاپر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماموت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      }
+    ],
+    "random_key": "1d7141b2-8ad2-4a14-a007-a22198685d51",
+    "image_url": "https://image.torob.com/base/images/9J/oE/9JoEAFxCYCLJxkAs.jpg"
+  },
+  {
+    "title": "شلوار طبیعتگردی لوپیلو",
+    "group": "نامشخص",
+    "product": "شلوار طبیعتگردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "لوپیلو"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار طبیعتگردی"
+        ]
+      }
+    ],
+    "random_key": "f3cd02e7-9f29-47e4-9419-31926d4d95d2",
+    "image_url": "https://image.torob.com/base/images/UI/Lm/UILmsB_jcDz6qQ4T.webp"
+  },
+  {
+    "title": "شلوار ترکینگ کوهنوردی سه فصل سرمه ای اورجینال",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ",
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "سه فصل"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سرمه ای"
+        ]
+      }
+    ],
+    "random_key": "68ea738b-d584-48b2-b9f6-c0da4e054972",
+    "image_url": "https://image.torob.com/base/images/L1/eP/L1eP37TqFep4b-n8.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی هیمالیا Himalaya کد",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا Himalaya"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "0d68201e-d733-4059-b59c-f942ae97528c",
+    "image_url": "https://image.torob.com/base/images/sq/Kb/sqKbzWDK6vRsEy30.webp"
+  },
+  {
+    "title": "پولار زنانه اوکلی Oakley اورجینال FOA50069631ROA",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اوکلی Oakley"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "7509493a-5211-4f55-adbc-5258a786672f",
+    "image_url": "https://image.torob.com/base/images/5L/27/5L275e8FeFcK8M80.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Columbia مدل Ao0560 Basın Traıl Iıı کد 220440579",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Columbia"
+        ]
+      }
+    ],
+    "random_key": "a4e27ac2-c094-488d-ab0d-2ff542988601",
+    "image_url": "https://image.torob.com/base/images/Pg/VV/PgVV-izFBvqizpPD.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه NORTHFACE",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NORTHFACE"
+        ]
+      }
+    ],
+    "random_key": "304bf9c3-8c64-4b29-9762-94e2f5e623a5",
+    "image_url": "https://image.torob.com/base/images/WK/B1/WKB1PfttiYZMnmMw.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی تابستانه جک ولفسکین JW404",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جک ولفسکین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "6d33fee2-a47d-4192-9d1e-41eb8a172c9a",
+    "image_url": "https://image.torob.com/base/images/vQ/B0/vQB0NOkPTg4iiXvN.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 161",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "4efc030a-c84d-44c9-993b-409a214a34d2",
+    "image_url": "https://image.torob.com/base/images/_p/15/_p15BkAGvyZvh-Cr.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی جک ولف اسکین کد 6010",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "جک ولف اسکین"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "553c8f3b-7cdc-4d91-ab4e-b15309a54a7e",
+    "image_url": "https://image.torob.com/base/images/C9/jD/C9jDprnM6YHqpEvy.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی مردانه مدل 1022 رنگ مشکی",
+    "group": "مردانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "05bfb9e0-bdee-4e81-b408-f9612e22eb81",
+    "image_url": "https://image.torob.com/base/images/j9/TD/j9TDm5UYxaGH73Us.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه SALOMON",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "سالومون"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "ae65b935-c1e6-431c-a50a-9619f42a3468",
+    "image_url": "https://image.torob.com/base/images/8e/qw/8eqwY58yBatPvISp.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی مردانه OUTDOOR SPORT مدل 818",
+    "group": "مردانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "OUTDOOR SPORT"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "f05669e9-b3cd-41ca-a35f-f3b71dd416cb",
+    "image_url": "https://image.torob.com/base/images/K6/78/K678NjmEaJdnclxe.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه KOLON SPORT",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "KOLON SPORT"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "5e811690-a4b6-4d88-942a-b10d9e7a7771",
+    "image_url": "https://image.torob.com/base/images/sA/ya/sAyaAi8ScL5XXTBW.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه MOUNTAIN VALLEY",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "MOUNTAIN VALLEY"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "b9c065a5-7710-47af-9ae0-b692909d02e0",
+    "image_url": "https://image.torob.com/base/images/W8/ub/W8ubElKSgHRhqNIB.jpg"
+  },
+  {
+    "title": "کاپشن ضد آب کودکان کچوا -SH500 -8",
+    "group": "کودکان",
+    "product": "کاپشن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کچوا"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد آب"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "کودکان"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن"
+        ]
+      }
+    ],
+    "random_key": "5c5448cf-8194-4d70-b7d4-179c092c55c7",
+    "image_url": "https://image.torob.com/base/images/Ma/fC/MafCxwnN35j_ppjU.jpg"
+  },
+  {
+    "title": "کاپشن کوهنوردی گورتکس با آرم هلال احمر سایز M",
+    "group": "نامشخص",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "گورتکس"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "M"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "cd72bbb7-cea5-44ff-a1a2-8a878b9fafbf",
+    "image_url": "https://image.torob.com/base/images/YP/1m/YP1mwj0aUIQ_e5HP.jpg"
+  },
+  {
+    "title": "تیشرت آستین بلند طرح شاخ و برگ (استتار) لباس تاکتیکال تیشرت شکار پیراهن کوهنوردی و طبیعتگردی",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "شاخ و برگ (استتار)"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت",
+          "پیراهن کوهنوردی",
+          "لباس تاکتیکال"
+        ]
+      }
+    ],
+    "random_key": "e5309cf0-e365-407b-b10b-75a274e9d0a1",
+    "image_url": "https://image.torob.com/base/images/yh/EX/yhEXzDAvpPJ0ayzd.jpg"
+  },
+  {
+    "title": "شلوار 5 جیب کوهنوردی WP",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "WP"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی 5 جیب"
+        ]
+      }
+    ],
+    "random_key": "612244c7-a509-41d7-8e55-7402a5609a56",
+    "image_url": "https://image.torob.com/base/images/rs/h_/rsh_w8aPkiKoPaAf.jpg"
+  },
+  {
+    "title": "سویشرت زمستانی کچوا Quechua SH100 X Warm - زمان ارسال 15 تا 20 روز کاری",
+    "group": "نامشخص",
+    "product": "سویشرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کچوا",
+          "Quechua"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سویشرت"
+        ]
+      }
+    ],
+    "random_key": "a0122f8f-a306-492b-a974-eca4080f9ac0",
+    "image_url": "https://image.torob.com/base/images/Mb/BT/MbBTApqL3QIHOBVI.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Stafu pro مدل Yukon Softshell Jacket کد 688246584",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Stafu pro"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "Softshell"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "371b10e8-84b0-4efa-b4be-577e99dc4adb",
+    "image_url": "https://image.torob.com/base/images/pb/5s/pb5sjV6AIdY7h5yq.jpg"
+  },
+  {
+    "title": "کاپشن کوهنوردی زنانه هامتو مدل 2025B-1",
+    "group": "زنانه",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هامتو"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "9ff12dac-b62e-4b02-afe1-92c09c17dbd3",
+    "image_url": "https://image.torob.com/base/images/zU/pD/zUpDBq3sIpSHnEH8.jpg"
+  },
+  {
+    "title": "نیم زیپ کوهنوردی زنانه حصیری",
+    "group": "زنانه",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ کوهنوردی حصیری"
+        ]
+      }
+    ],
+    "random_key": "a97fcb29-33de-4d33-b623-54569ce81795",
+    "image_url": "https://image.torob.com/base/images/Be/lA/BelAn5tmPspAryBY.jpg"
+  },
+  {
+    "title": "شلوار مردانه طبیعت گردی کچوا - MT500",
+    "group": "مردانه",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کچوا"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار طبیعت گردی"
+        ]
+      }
+    ],
+    "random_key": "5db303ad-7472-4412-ae81-f4660ecf9a99",
+    "image_url": "https://image.torob.com/base/images/uC/01/uC01l2KqQMImPqdS.webp"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه میلت",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میلت"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "2968063b-27e9-4a22-b113-e695406625bd",
+    "image_url": "https://image.torob.com/base/images/7i/9r/7i9rHLlS-GGJBPQ8.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی زنانه کمسپور مدل TITANIUM CAM-1797",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کمسپور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "26f491ee-39ba-4fc6-8f9a-ae9ea8d3c396",
+    "image_url": "https://image.torob.com/base/images/9k/0-/9k0-6Wc9xL9k6KgQ.jpg"
+  },
+  {
+    "title": "پانچو بارانی کوهنوردی مدل دکمه دار ساده ( زرد)",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "رنگ",
+        "values": [
+          "زرد"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بارانی"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "دکمه دار"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ساده"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو بارانی کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "c1130d37-17ae-4618-aebf-c23dd24e9206",
+    "image_url": "https://image.torob.com/base/images/60/JL/60JLrWJ-kCHQRRv4.jpg"
+  },
+  {
+    "title": "پولار مردانه نورث فیس The North Face اورجینال NF0A857EOOF1",
+    "group": "مردانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "01738ee5-61bf-442b-a78a-631380b5ab42",
+    "image_url": "https://image.torob.com/base/images/6B/7A/6B7AJeMTr8iDUz6f.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کچوا / FORCLAZ – مدل MT100 Zip Off",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کچوا Quechua"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "3e776870-d8b1-4377-abbd-be6f967ed35d",
+    "image_url": "https://image.torob.com/base/images/Ua/kb/UakbA5BRcKDy9Enf.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی شش جیب کچوا Quechua Arpenaz 500",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "کچوا Quechua"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی شش جیب"
+        ]
+      }
+    ],
+    "random_key": "18b8f68a-c260-4dfc-ba68-8fab5a3b1a1b",
+    "image_url": "https://image.torob.com/base/images/NS/GJ/NSGJbw-lss_zUzuN.jpg"
+  },
+  {
+    "title": "شلوار تاکتیکال 5.11",
+    "group": "نامشخص",
+    "product": "شلوار تاکتیکال",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار تاکتیکال"
+        ]
+      }
+    ],
+    "random_key": "3d9e289e-f0b7-43ee-a458-6f0c04b77021",
+    "image_url": "https://image.torob.com/base/images/Kj/s1/Kjs1FHWjaKZwttHx.jpg"
+  },
+  {
+    "title": "پولار زنانه نورث فیس The North Face اورجینال NF0A88ZCQLI1WHTD",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "2ba70dbe-45a3-45ab-8324-7949f0f9bc9c",
+    "image_url": "https://image.torob.com/base/images/kM/sq/kMsqA0TPitTE9lHB.jpg"
+  },
+  {
+    "title": "پولار زنانه نورث فیس The North Face اورجینال NF0A855M1NO1",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "07182fe1-0198-4159-acc2-6c86c2e8013f",
+    "image_url": "https://image.torob.com/base/images/NU/KQ/NUKQwrM35GVMqf4K.jpg"
+  },
+  {
+    "title": "پلار کچوا مردانه",
+    "group": "مردانه",
+    "product": "پلار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کچوا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار"
+        ]
+      }
+    ],
+    "random_key": "0467e637-dc80-4e28-9edf-952648bec4d5",
+    "image_url": "https://image.torob.com/base/images/9p/GV/9pGV_-rUiUMNOF2-.webp"
+  },
+  {
+    "title": "شلوار کوهنوردی مردانه forclaz",
+    "group": "مردانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "FORCLAZ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "4ca6c08d-1a39-4534-b2cb-309e7dc2db9d",
+    "image_url": "https://image.torob.com/base/images/lV/lz/lVlzu2fop7pv0VsH.jpg"
+  },
+  {
+    "title": "پانچو زمستانی بچه گانه",
+    "group": "بچه گانه",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "بچه گانه"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو"
+        ]
+      }
+    ],
+    "random_key": "3b42f38c-87a3-46da-afa9-9cd3259fbf3c",
+    "image_url": "https://image.torob.com/base/images/c0/jy/c0jyZlwHJyVEJhnH.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی HIMALAYA هیمالیا",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا HIMALAYA"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "fbc84ba2-52bf-443a-aa54-bc7680e3b5e6",
+    "image_url": "https://image.torob.com/base/images/Kj/57/Kj57fSWtnySHrZnL.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه JACK WOLFSKIN",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "JACK WOLFSKIN"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "99a81e2e-4a4d-49d0-9393-a280edff46e2",
+    "image_url": "https://image.torob.com/base/images/Jp/zJ/JpzJ6S0n67T_kodV.jpg"
+  },
+  {
+    "title": "سافت شل و پلار سفید زنانه W 1 4 زیپ اتحادیه اروپا قطبی نورث فیس The North Face",
+    "group": "زنانه",
+    "product": "سافت شل و پلار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سافت شل",
+          "پلار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سافت شل و پلار"
+        ]
+      }
+    ],
+    "random_key": "b67a7c3a-7474-4623-9899-33e89658b1a0",
+    "image_url": "https://image.torob.com/base/images/HO/bm/HObmSip5KeFTyX9P.jpg"
+  },
+  {
+    "title": "مانتو کوهنوردی وینداستاپر ماموت مدل",
+    "group": "زنانه",
+    "product": "مانتو کوهنوردی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وینداستاپر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماموت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "مانتو کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "e42d80c8-c537-4495-9754-3f50b46da305",
+    "image_url": "https://image.torob.com/base/images/b_/w4/b_w4yocouXf-6pnd.jpg"
+  },
+  {
+    "title": "تیشرت کوهنوردی نورث فیس مدل Alpine Tech",
+    "group": "نامشخص",
+    "product": "تیشرت کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "11630c29-c3c2-4ac5-87ac-6365ec44b42a",
+    "image_url": "https://image.torob.com/base/images/ml/xf/mlxf2cNB9n8qoLAG.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه REDFACE",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "REDFACE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "f5b937c0-001b-45fe-b0b9-0f8b8261e432",
+    "image_url": "https://image.torob.com/base/images/lT/tq/lTtqbxXFe-CN9HxZ.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه BLACKYAK",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BLACKYAK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "9c2d785e-7dfc-4804-8621-9da27710f142",
+    "image_url": "https://image.torob.com/base/images/eG/SS/eGSSvES1Hmy3mFHc.jpg"
+  },
+  {
+    "title": "شلوار اوت دور اسپرت OUTDOOR SPORT",
+    "group": "نامشخص",
+    "product": "شلوار اوت دور",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "OUTDOOR SPORT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار اوت دور اسپرت"
+        ]
+      }
+    ],
+    "random_key": "d84883b6-ea8d-4fcc-8b95-4412aba053e7",
+    "image_url": "https://image.torob.com/base/images/Ms/QU/MsQUJddCJgI7qqvO.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی ترکینگ مردانه هیمالیا Himalaya کد CM114",
+    "group": "مردانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا Himalaya"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "974cc54c-8c65-4d5e-9589-1ce3ee94beb8",
+    "image_url": "https://image.torob.com/base/images/P6/WI/P6WIszYKFarsUmjB.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی مردانه زنانه اورجینال",
+    "group": "مردانه زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه",
+          "زنانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "9b7450a2-ef1b-448a-b80e-a9b227416f1e",
+    "image_url": "https://image.torob.com/base/images/uC/dc/uCdc5i45jX9ZRu5Q.jpg"
+  },
+  {
+    "title": "نیمزیپ کوهنوردی کد 201",
+    "group": "نامشخص",
+    "product": "نیمزیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیمزیپ کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "14611578-17a6-4b2b-af5c-47987c5787af",
+    "image_url": "https://image.torob.com/base/images/ZP/0x/ZP0xGo8t5DZygBCG.jpg"
+  },
+  {
+    "title": "سافت شل و پلار ورزشی آبی دخترانه پسرانه بچگانه بچه های در فضای باز قطبی عایق بندی شده سرمه‌ای 7 15 سال MH 100 دکتلون Decathlon",
+    "group": "دخترانه پسرانه بچگانه 7 تا 15 سال",
+    "product": "سافت شل",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "سافت شل",
+          "پلار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی",
+          "سرمه ای"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "پسرانه",
+          "بچگانه",
+          "بچه های 7 15 سال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون Decathlon"
+        ]
+      }
+    ],
+    "random_key": "37e8869d-486a-431b-8ade-735f27ed0f3f",
+    "image_url": "https://image.torob.com/base/images/QR/_h/QR_hys7DgG2fOtpt.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردي زنانه مدل سناگ کایلاس کد KG140099",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کایلاس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "0a7423b7-ad99-46b1-a117-9959f608f350",
+    "image_url": "https://image.torob.com/base/images/yl/9I/yl9IrUDpRu5Sktlo.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی رانگلر شلوار شش جیب کتان کشسان پارچه بنگلادش اعلا mac pierro شلوار مردانه کوهنوردی و طبیعت گردی",
+    "group": "مردانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "رانگلر",
+          "mac pierro"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کتان کشسان"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی",
+          "شلوار شش جیب کتان"
+        ]
+      }
+    ],
+    "random_key": "a4e8205e-0f9d-4c9b-a9e1-2a3843d23556",
+    "image_url": "https://image.torob.com/base/images/yz/lE/yzlECdc5jOFeah3q.jpg"
+  },
+  {
+    "title": "نیم زیپ سه فصل MERRELL",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "سه فصل"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MERRELL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "3d85eb82-4108-4b95-9bb8-1369654956a9",
+    "image_url": "https://image.torob.com/base/images/AA/Dz/AADznH59eSoiaLEo.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه MOUFLON",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MOUFLON"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "670fd3b2-6893-48e2-99ec-2c3c4331ab8c",
+    "image_url": "https://image.torob.com/base/images/1L/PA/1LPAaFrRqlEnN13c.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه COLUMBIA",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "COLUMBIA"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "eaf8399f-398b-43d7-a861-823048db4a6e",
+    "image_url": "https://image.torob.com/base/images/Mq/qg/Mqqg0YrVEuIsgH_N.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی پسرانه برند ROCKTRAIL",
+    "group": "پسرانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "پسرانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ROCKTRAIL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "7f4197d8-d4f3-46cd-97ef-628dc777283c",
+    "image_url": "https://image.torob.com/base/images/jQ/oA/jQoAzGhMRPZgEM7-.jpg"
+  },
+  {
+    "title": "پلار تمام زیپ McKINLEY",
+    "group": "نامشخص",
+    "product": "پلار",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "تمام زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "McKINLEY"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار"
+        ]
+      }
+    ],
+    "random_key": "a0ffcdc5-9c0c-4d94-abda-1987ae7475c4",
+    "image_url": "https://image.torob.com/base/images/0F/ci/0Fci96y7Zqh02ByR.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی و ترکینگ اسنوهاوک مدل Snow Hawk SN-C2150",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "اسنوهاوک Snow Hawk"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی و ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "3dbd9370-540f-40dc-939b-56c5d0d9dc13",
+    "image_url": "https://image.torob.com/base/images/Wc/2N/Wc2NXiYWde6b8GTR.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Helly hansen مدل Elevation Shield Fleece Jacket کد 133101158",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "اورجینال"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Helly hansen"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "80282e91-dfbd-418c-a779-4d42b4b0f435",
+    "image_url": "https://image.torob.com/base/images/yD/Ju/yDJu-o1kYKSeKDE1.jpg"
+  },
+  {
+    "title": "پانچو کمپسور جا کوله دار BL-032",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جا کوله دار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کمپسور"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو"
+        ]
+      }
+    ],
+    "random_key": "560c7eef-4822-404b-a055-7ab749cc04a6",
+    "image_url": "https://image.torob.com/base/images/LE/km/LEkmodR95q-JsIzV.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه TAKHI",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TAKHI"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "14f058a0-2fff-4737-9456-52fd746da8bc",
+    "image_url": "https://image.torob.com/base/images/ii/n8/iin8w1hKm1vGO9H8.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Oakley مدل Caribou Full Zip کد 871783217",
+    "group": "نامشخص",
+    "product": "پلاr کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Oakley"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "سرتاسری زیپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلاr کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "83688f75-c15a-4ae5-bb17-2141bb456c0d",
+    "image_url": "https://image.torob.com/base/images/8F/cI/8FcIg32aG8Fa5ZZ_.jpg"
+  },
+  {
+    "title": "نیم زیپ کوهنوردی تابستانهMERREL",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MERREL"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "a60ffaca-f0cf-4c72-af3a-0101026eb570",
+    "image_url": "https://image.torob.com/base/images/yq/j8/yqj8uWWwzVL1ekhn.jpg"
+  },
+  {
+    "title": "نیمزیپ کوهنوردی کد 119",
+    "group": "نامشخص",
+    "product": "نیمزیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیمزیپ کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "c7d242f3-aa0b-45c4-b198-2df568f9ed81",
+    "image_url": "https://image.torob.com/base/images/Jk/6u/Jk6uu_KOos6p5Ij0.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه HERMON",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وینداستاپر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "HERMON"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      }
+    ],
+    "random_key": "e683dd7e-faa4-4396-a43a-113649ca7f16",
+    "image_url": "https://image.torob.com/base/images/VX/NX/VXNXykBgmIuAdZF8.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ و کوهنوردی ماموت مدل 606MT",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ و کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ماموت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ و کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "fc9279df-6ca4-4ebe-97fa-5eaf48d3d0c7",
+    "image_url": "https://image.torob.com/base/images/He/1K/He1KVHbxN5WBYItl.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه TRESPASS",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "TRESPASS"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "fb4ee790-8ba8-4df9-975a-e6ac516264d3",
+    "image_url": "https://image.torob.com/base/images/sx/W0/sxW0Q1OyRkLCsWtc.jpg"
+  },
+  {
+    "title": "سافت شل و پلار قرمز دخترانه بچگانه BACK BOWL II GIRL TOP کلمبیا Columbia",
+    "group": "دخترانه بچگانه",
+    "product": "تاپ",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "سافت شل",
+          "پلار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "قرمز"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کلمبیا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تاپ"
+        ]
+      }
+    ],
+    "random_key": "16ccff62-9cd3-4f53-b2cb-b357e6fdaadf",
+    "image_url": "https://image.torob.com/base/images/e8/45/e8454k3BpUX0eFGC.jpg"
+  },
+  {
+    "title": "تیشرت زنانه کچوا -MH100",
+    "group": "زنانه",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کچوا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت"
+        ]
+      }
+    ],
+    "random_key": "e2905429-0ad4-4d1a-a782-def8cda9ac11",
+    "image_url": "https://image.torob.com/base/images/0M/P4/0MP4bOKhndFSAqWR.webp"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Peak performance مدل M Pile Zip Jacket کد 851701760",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Peak performance"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "4b38ec18-37e0-40b7-a540-b2feddf39fd1",
+    "image_url": "https://image.torob.com/base/images/aJ/vX/aJvXRS3IUBGwD0xk.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Kappa مدل Wottay Sherpa Jacket 331s73w کد 868028229",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Kappa"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "c746f880-696d-40c1-8ac4-2a2eb9cfce74",
+    "image_url": "https://image.torob.com/base/images/dP/lS/dPlSf4I0y-jha-Xx.jpg"
+  },
+  {
+    "title": "پانچو زنانه تاپیک مدل ونوس رنگ آبی",
+    "group": "زنانه",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "تاپیک"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "آبی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو"
+        ]
+      }
+    ],
+    "random_key": "402194f1-cbad-4c36-88d0-4b215cc01a8d",
+    "image_url": "https://image.torob.com/base/images/LD/jF/LDjFMhyen9romMTF.jpg"
+  },
+  {
+    "title": "پولار وارداتی اورجینال Lela 5905001 Soft Textured Zippered Color Block Stand Collar Pocket Polar Unisex Children's POLAR 5905001",
+    "group": "یونیسکس بچگانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "یونیسکس",
+          "بچگانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Lela"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "بافت دار",
+          "پولار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جیب",
+          "یقه ایستاده"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "زیپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "رنگارنگ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "cf7baca0-b9e5-43c9-af72-ce5c04df2a57",
+    "image_url": "https://image.torob.com/base/images/Pq/Qn/PqQnv_rYtrdXG0Um.jpg"
+  },
+  {
+    "title": "تیشرت نیم زیپ آستین بلند اسنوهاک مدلSG1033",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین بلند"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسنوهاک"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت"
+        ]
+      }
+    ],
+    "random_key": "1cf44e9b-de12-4f92-a21b-b9d5e1cd491a",
+    "image_url": "https://image.torob.com/base/images/RT/kN/RTkNHlFer-Kt7R-F.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ ریسا مدل سارو کد 1423 بنفش",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "ریسا"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "8f571d8e-1828-4aba-9bb9-027a1b27d1e2",
+    "image_url": "https://image.torob.com/base/images/-G/D3/-GD3v1MOiykhaO8Y.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Oakley مدل Latitude Flex کد 871783264",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Oakley"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "e0dceff0-06e0-4903-8099-861cc16aabe5",
+    "image_url": "https://image.torob.com/base/images/vN/Ji/vNJijrm1YjaWCllo.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه BLACKYAK",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BLACKYAK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "0808c2bb-4dc2-4adf-95d1-30de0bb371d8",
+    "image_url": "https://image.torob.com/base/images/fM/Nd/fMNdLeoAyttoi5Vj.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "c1ac0929-bf6d-4ab8-bc81-dc555502cf84",
+    "image_url": "https://image.torob.com/base/images/Fy/01/Fy01SJOIu-7eZY9p.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه ROBERTO",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ROBERTO"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "9594e405-1eda-4ea9-bad1-48f86aadad45",
+    "image_url": "https://image.torob.com/base/images/S4/0N/S40NBnAHvzmO2q8O.jpg"
+  },
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال TYC67IH51N169712578914643",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن",
+          "Helly Hansen"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "616e924f-77e4-4f3f-9094-b87942a60347",
+    "image_url": "https://image.torob.com/base/images/AC/HX/ACHX_gGUqCnmvvZw.jpg"
+  },
+  {
+    "title": "پانچو کوهنوردی",
+    "group": "نامشخص",
+    "product": "پانچو کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "59fe4b16-d4b2-4d94-8130-1a6cfee17076",
+    "image_url": "https://image.torob.com/base/images/EJ/3u/EJ3uRg0OWfNpzfMk.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "6760769a-82da-43f9-8517-3bbc3839b992",
+    "image_url": "https://image.torob.com/base/images/jZ/9C/jZ9CU5uEXIXaPBJG.jpg"
+  },
+  {
+    "title": "پانچو خفاشی چندکاره بابوس",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو خفاشی چندکاره"
+        ]
+      }
+    ],
+    "random_key": "520d3896-3401-454f-a967-389cf52965c9",
+    "image_url": "https://image.torob.com/base/images/Vs/2C/Vs2Cu15rdd4I0KAc.jpg"
+  },
+  {
+    "title": "بیس لایر 5.11",
+    "group": "نامشخص",
+    "product": "بیس لایر",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "5.11"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیس لایر"
+        ]
+      }
+    ],
+    "random_key": "e38f7c42-408f-4252-81c4-8b6b5b41f54e",
+    "image_url": "https://image.torob.com/base/images/mr/3h/mr3hiYKHrRnmXKnv.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Columbia مدل Am6558 Klamath Range™ Iıhalfzip کد 358913973",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Columbia"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "4e12c3d6-833b-4a59-8892-829de97cd56c",
+    "image_url": "https://image.torob.com/base/images/E0/_I/E0_IMQqCBa3iEp17.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه NACU",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NACU"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "b28cd498-0c71-4c72-9a88-8170a0b63e7e",
+    "image_url": "https://image.torob.com/base/images/zA/TM/zATMhJWUOefzOEEI.jpg"
+  },
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال HH..15007",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن",
+          "Helly Hansen"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "6aac8924-17f2-4b34-aecd-c8a589dd362a",
+    "image_url": "https://image.torob.com/base/images/E4/Yv/E4YvbJAML91v45dj.jpg"
+  },
+  {
+    "title": "کاپشن گرتکس لایت دومان لیدی",
+    "group": "نامشخص",
+    "product": "کاپشن",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "لیدی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گرتکس"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن"
+        ]
+      }
+    ],
+    "random_key": "70c7dfbd-d56e-4669-bb71-c5bbfcfd7200",
+    "image_url": "https://image.torob.com/base/images/fa/q9/faq90t3h5XXnD9UL.jpg"
+  },
+  {
+    "title": "کاپشن دوپوش از برند HUMTTO (زنانه)",
+    "group": "زنانه",
+    "product": "کاپشن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "HUMTTO"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن دوپوش"
+        ]
+      }
+    ],
+    "random_key": "f7ba38e0-8be2-4d0c-8662-857b696b7a01",
+    "image_url": "https://image.torob.com/base/images/fq/Lj/fqLjqZQx-hcmf0-d.jpg"
+  },
+  {
+    "title": "بلوز کوهنوردی میلت MILLET مدل MORPHO ZIP",
+    "group": "نامشخص",
+    "product": "بلوز کوهنوردی",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "میلت",
+          "MILLET"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "227e6375-0761-41e9-9931-751f1de5ec5b",
+    "image_url": "https://image.torob.com/base/images/eS/wX/eSwXey1C-uHcUVxx"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه NACU",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NACU"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "a2cff179-1d88-48a4-a80a-afe99074c6e3",
+    "image_url": "https://image.torob.com/base/images/Lv/DX/LvDXeYwpBbHKCFJ5.jpg"
+  },
+  {
+    "title": "بلوز میکرو پلار زنانه مدل W1703",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز میکرو پلار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "50542f69-d0a2-46f5-8e56-b99cd09e4e79",
+    "image_url": "https://image.torob.com/base/images/WD/p8/WDp8hgVlGGb5cC-h.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 132",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "16197c20-bef7-46d0-9491-3e6178c6661d",
+    "image_url": "https://image.torob.com/base/images/1G/fg/1GfgBei60Ee0w6ig.jpg"
+  },
+  {
+    "title": "نیم زیپ داخل پلار Youn Gone - استوک ستاره سهیل",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      }
+    ],
+    "random_key": "15767947-83c5-4ca9-abf0-e4674c3b10b0",
+    "image_url": "https://image.torob.com/base/images/ku/Qq/kuQqfs82zCxGZX_X.jpg"
+  },
+  {
+    "title": "کاپشن کوهنوردی زنانه ادونچر بلند مدل Adventure Long",
+    "group": "زنانه",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      }
+    ],
+    "random_key": "7f9905c7-07cf-42e9-8e0c-97204cc4e23a",
+    "image_url": "https://image.torob.com/base/images/r0/jH/r0jH4CfDLDtcZadl.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه SALEWA",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ویندستاپر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ویندستاپر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سالوا"
+        ]
+      }
+    ],
+    "random_key": "047308a3-baba-4b85-929c-5f72443268a2",
+    "image_url": "https://image.torob.com/base/images/Wa/CD/WaCDoxRlsobS8ZKU.jpg"
+  },
+  {
+    "title": "کاپشن سبک وزن کوهنوردی",
+    "group": "نامشخص",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "سبک وزن"
+        ]
+      }
+    ],
+    "random_key": "6217ee4a-36c6-4ef2-bf94-6fc7bf4f800e",
+    "image_url": "https://image.torob.com/base/images/WL/DA/WLDAmYISPdqyIs5W.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه برند میلت MILLET",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میلت",
+          "MILLET"
+        ]
+      }
+    ],
+    "random_key": "c31fb413-0ae7-4608-8cc8-ee9c6787e4c6",
+    "image_url": "https://image.torob.com/base/images/dL/Wt/dLWtLz0qZQG5H_fg.jpg"
+  },
+  {
+    "title": "پانچو بارانی کلاه دار (کوهنوردی)",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو بارانی"
+        ]
+      }
+    ],
+    "random_key": "b69baedc-fe45-4915-bded-3488f4df5d70",
+    "image_url": "https://image.torob.com/base/images/0W/Zc/0WZcFV-9BqRym3RU.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی زنانه سالامون Salomon کد 370921",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سالامون",
+          "Salomon"
+        ]
+      }
+    ],
+    "random_key": "e1704900-baaa-4fe2-9d08-3b222dbd5f53",
+    "image_url": "https://image.torob.com/base/images/a_/9g/a_9gqaCVHQF_NMjM.jpg"
+  },
+  {
+    "title": "شلوار زمستانی OUTDOOR – مدل OS016 / ذغالی",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "OUTDOOR"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "ذغالی"
+        ]
+      }
+    ],
+    "random_key": "f276a668-a111-4f78-ac0c-1f4bec8b3c52",
+    "image_url": "https://image.torob.com/base/images/EK/e5/EKe5kED_P4S14rPK.jpg"
+  },
+  {
+    "title": "نیم زیپ کوهنوردی تابستانه سایز 90 تا 105",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ کوهنوردی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "90 تا 105"
+        ]
+      }
+    ],
+    "random_key": "378bac64-010f-4b1a-a21e-65b89e39b413",
+    "image_url": "https://image.torob.com/base/images/T-/vW/T-vWUbXg3t0r5yd2.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی زنانه طرح سالامون|نارنجی",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سالامون"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نارنجی"
+        ]
+      }
+    ],
+    "random_key": "2d1e6a4d-b6e9-4a03-93c4-c2bdd0e6bb1f",
+    "image_url": "https://image.torob.com/base/images/bU/2A/bU2AA_LpK1pnL4RB.webp"
+  },
+  {
+    "title": "شلوار کوهنوردی سارو ریسا",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "سارو ریسا"
+        ]
+      }
+    ],
+    "random_key": "25fbb255-df53-491c-8dfe-19bba48ebf72",
+    "image_url": "https://image.torob.com/base/images/qK/41/qK411UPQyDhG-32j.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی wolf",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "wolf"
+        ]
+      }
+    ],
+    "random_key": "3fa69d97-476e-457b-b9f7-c725af7fa5e1",
+    "image_url": "https://image.torob.com/base/images/oQ/bP/oQbPBHUXSgmaO5S2.webp"
+  },
+  {
+    "title": "نیم زیپ تابستانه MILLET",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MILLET"
+        ]
+      }
+    ],
+    "random_key": "f6b68862-8d46-4e1c-8042-58eef381ed23",
+    "image_url": "https://image.torob.com/base/images/Ik/eJ/IkeJusuKYbsIMljV.jpg"
+  },
+  {
+    "title": "نیم زیپ کوهنوردی PINE GROVE",
+    "group": "نامشخص",
+    "product": "نیم زیپ کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "PINE GROVE"
+        ]
+      }
+    ],
+    "random_key": "2b70d2a5-1695-49f7-b278-a750debe1d55",
+    "image_url": "https://image.torob.com/base/images/Db/9k/Db9ki3XbBoU5liNQ.jpg"
+  },
+  {
+    "title": "شلوار مدل Oakley - Vanguard Cargo 2",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "Oakley"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار مدل Vanguard Cargo"
+        ]
+      }
+    ],
+    "random_key": "6f7d32de-6566-45ab-b0a4-951aa8e5baaa",
+    "image_url": "https://image.torob.com/base/images/dh/xG/dhxGXkym0S7UOUec.jpg"
+  },
+  {
+    "title": "تیشرت کوهنوردی طرحدار3",
+    "group": "نامشخص",
+    "product": "تیشرت کوهنوردی",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرحدار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "baa438ae-1b14-4d99-8245-4c49b31ef5b5",
+    "image_url": "https://image.torob.com/base/images/S9/Ma/S9MavZoyNNmdU3rb.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه K2",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "K2"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "c99af866-b03e-43b1-84c2-f6962e119c0f",
+    "image_url": "https://image.torob.com/base/images/eJ/b8/eJb8MLgrtg2fkYb6.jpg"
+  },
+  {
+    "title": "شلوار اسکی برفی کوهنوردی MoFiz Kids Fleece Lined Beist Elastic Pull On Hiking Snow Ski شلوار زمستانی گرم ضد آب با جیب زیپ دار - ارسال 20 روز کاری",
+    "group": "بچگانه",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "جنس",
+        "values": [
+          "Fleece Lined",
+          "ضد آب"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "گرم",
+          "ضد آب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار اسکی برفی کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MoFiz Kids"
+        ]
+      }
+    ],
+    "random_key": "2c0e6a73-2b78-48dc-a47f-398982bd336a",
+    "image_url": "https://image.torob.com/base/images/zR/e4/zRe437ZoQN3BaXxV.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 92",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "a3abe45d-c117-4f86-a978-c3889f8b345d",
+    "image_url": "https://image.torob.com/base/images/xl/3u/xl3uIrW85Rbl-1ky.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانه ECRB",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ECRB"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "9fc2f621-b769-4b9a-8bb0-40f1bde02997",
+    "image_url": "https://image.torob.com/base/images/HM/eX/HMeXiZ4jBkcGXZzJ.jpg"
+  },
+  {
+    "title": "پولار دخترانه New Brand اورجینال 5003008204",
+    "group": "دخترانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "دخترانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "New Brand"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "d1299f59-22e5-454c-b81f-bf0d2399bf9b",
+    "image_url": "https://image.torob.com/base/images/L_/N4/L_N4U5Sn4oDN7f4r.jpg"
+  },
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال 18395",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن Helly Hansen"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "1661c026-03fe-4137-a580-26067e883866",
+    "image_url": "https://image.torob.com/base/images/YC/pf/YCpfn6LKUj4_6wW1.jpg"
+  },
+  {
+    "title": "میکرو نیم زیپ کوهنوردی هیمالیا CM26",
+    "group": "نامشخص",
+    "product": "میکرو نیم زیپ",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "میکرو نیم زیپ کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "9930663f-f571-4247-a165-559a78cc88c0",
+    "image_url": "https://image.torob.com/base/images/Fd/zR/FdzR_pjz1B4eApWS.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 107",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "f365ceef-b4c9-47e8-a6d4-2a0b3e520c1a",
+    "image_url": "https://image.torob.com/base/images/xZ/_1/xZ_1Kou1T-VSnk0s.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 84",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "3c19e2f9-75e3-4458-bcdc-9558db1761ae",
+    "image_url": "https://image.torob.com/base/images/4T/8z/4T8zHquo0skjs98p.jpg"
+  },
+  {
+    "title": "جلیقه شکار و کوهنوردی سایز لارج",
+    "group": "نامشخص",
+    "product": "جلیقه",
+    "entities": [
+      {
+        "name": "سایز",
+        "values": [
+          "لارج"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "جلیقه شکار",
+          "جلیقه کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "ab1a56d1-9f70-4c8c-baaf-a6187766dbb8",
+    "image_url": "https://image.torob.com/base/images/9J/eb/9Jeb2YIVHjJgTI75.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی تابستانه اسنوهاک کد ۰۱۱۲",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسنوهاک"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "cfdcceb8-9364-4111-bf6c-4ac12ff40206",
+    "image_url": "https://image.torob.com/base/images/rD/gr/rDgrV6f4ELeAx2ZM.jpg"
+  },
+  {
+    "title": "تیشرت کمپینگ و کوهنوردی PROJEK RAW مدل PPS22301",
+    "group": "نامشخص",
+    "product": "تیشرت",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "PROJEK RAW"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "تیشرت کمپینگ و کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "ccac6c05-f868-41eb-8718-cc0f379f085d",
+    "image_url": "https://image.torob.com/base/images/sk/b-/skb-pNoWCvP_ADjL.webp"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه BLACKYAK",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ویندستاپر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BLACKYAK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      }
+    ],
+    "random_key": "776131df-85c2-4839-a9a8-f78cab2eddab",
+    "image_url": "https://image.torob.com/base/images/gV/yZ/gVyZpGlR7I4aY6JJ.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ تابستانی ماموت",
+    "group": "نامشخص",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ماموت"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "fbab8e34-e4c5-4020-b4b2-5d0411535f02",
+    "image_url": "https://image.torob.com/base/images/W0/50/W050hhmMOR4caDBF.jpg"
+  },
+  {
+    "title": "پانچو گرانیت جای کوله دار",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو گرانیت"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "جای کوله دار"
+        ]
+      }
+    ],
+    "random_key": "07e4ed3f-d53e-4ae4-b401-df704a39e960",
+    "image_url": "https://image.torob.com/base/images/8D/zA/8DzAxj26DcCjvCVM.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی زنانه کایلاس مدل Snug KG140099",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کایلاس"
+        ]
+      }
+    ],
+    "random_key": "ea38dd25-9889-438b-aa82-996c56dccd47",
+    "image_url": "https://image.torob.com/base/images/9V/eL/9VeLKB0sI3GVQagj.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه برند میلت MILLET",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میلت MILLET"
+        ]
+      }
+    ],
+    "random_key": "d763f0cf-2d24-4f83-b453-19936c3f15bb",
+    "image_url": "https://image.torob.com/base/images/2U/sM/2UsMV-9U0rl5-QGX.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه NORTHFACE",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "NORTHFACE"
+        ]
+      }
+    ],
+    "random_key": "95d71ee5-0d47-4e0a-a620-8d1b0857738b",
+    "image_url": "https://image.torob.com/base/images/CG/8t/CG8tAmZXodqiCHoX.jpg"
+  },
+  {
+    "title": "کاپشن کوهنوردی زنانه آرکتریکسArcteryx",
+    "group": "زنانه",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آرکتریکسArcteryx"
+        ]
+      }
+    ],
+    "random_key": "967f05aa-4bf7-45e4-bc93-3e6d6cc61072",
+    "image_url": "https://image.torob.com/base/images/6c/zm/6czmwjVwYO-s_xDH.jpg"
+  },
+  {
+    "title": "بلوز میکرو نیم زیپ کوهنوردی هیمالیا طرح دماوند مشکی CM93 S",
+    "group": "نامشخص",
+    "product": "بلوز کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز میکرو نیم زیپ کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "دماوند"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "S"
+        ]
+      }
+    ],
+    "random_key": "fbc2f7a6-c38f-4ba9-963c-8dd09c41674a",
+    "image_url": "https://image.torob.com/base/images/aq/-h/aq-hjl3ZKKiKZ8XB.jpg"
+  },
+  {
+    "title": "بلوز کوهنوردی نیم زیپ طرح ماموت مدل A2302",
+    "group": "نامشخص",
+    "product": "بلوز کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز کوهنوردی نیم زیپ"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "ماموت"
+        ]
+      }
+    ],
+    "random_key": "b3f15887-7c5f-4606-9fe7-8bc54ead5f5f",
+    "image_url": "https://image.torob.com/base/images/dM/mH/dMmH6nJhj6Kad-dG.jpg"
+  },
+  {
+    "title": "نیم زیپ داخل پلار DEGRE7 - استوک ستاره سهیل",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "DEGRE7"
+        ]
+      }
+    ],
+    "random_key": "cb0f7781-6cb9-4ee5-8057-6126ac8b0409",
+    "image_url": "https://image.torob.com/base/images/E8/4U/E84UEwvCjuTIMEH7.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "21876802-8932-4bfa-9163-e05fc2891f59",
+    "image_url": "https://image.torob.com/base/images/cf/Gj/cfGj_hnPy6ko4-HW.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه MTCOOK",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MTCOOK"
+        ]
+      }
+    ],
+    "random_key": "531852ef-239c-4454-90ea-7fa91f88495f",
+    "image_url": "https://image.torob.com/base/images/kN/WX/kNWX3mIRYeNssTop.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه K2",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "K2"
+        ]
+      }
+    ],
+    "random_key": "48ccde68-4f2c-4c64-9eeb-b78625e33560",
+    "image_url": "https://image.torob.com/base/images/0q/QD/0qQDWpHFS6cQPfqC.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 112",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "9649a08e-54dd-446a-855f-9d12b2621ed5",
+    "image_url": "https://image.torob.com/base/images/Mx/xa/MxxamyNeOeLO5MB5.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 143",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "a048e8e9-4862-4502-8774-4df7e48bb385",
+    "image_url": "https://image.torob.com/base/images/HO/Za/HOZanRZ0dTCEDQnc.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی تابستانی JACKWOLF 404",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "JACKWOLF"
+        ]
+      }
+    ],
+    "random_key": "350f7966-c86a-4033-a83a-2eb1dc79f2f7",
+    "image_url": "https://image.torob.com/base/images/TE/OI/TEOIr2-aWSVy_CZC.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Merrell مدل Job M کد 865494924",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Merrell"
+        ]
+      }
+    ],
+    "random_key": "01394609-535b-45b7-9252-96861d59c70f",
+    "image_url": "https://image.torob.com/base/images/fp/TN/fpTNx9AfPQscLaKS.jpg"
+  },
+  {
+    "title": "کاپشن کوهنوردی مشکی لسپورتیوا مدل Aiguille Down Jkt M",
+    "group": "نامشخص",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "لسپورتیوا"
+        ]
+      }
+    ],
+    "random_key": "bce0ea7a-189e-40bc-b609-b5c188435ace",
+    "image_url": "https://image.torob.com/base/images/rJ/IZ/rJIZigrlbfvu2HkQ.jpg"
+  },
+  {
+    "title": "پولار مردانه نورث فیس The North Face اورجینال NF0A7WWLKX71",
+    "group": "مردانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      }
+    ],
+    "random_key": "42b0a1c5-1378-4978-a114-10eb7c00ff7d",
+    "image_url": "https://image.torob.com/base/images/V5/j0/V5j0z-kPMHNYagEz.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه FELF OUTDOOR",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ویندستاپر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "FELF OUTDOOR"
+        ]
+      }
+    ],
+    "random_key": "d4591258-c81f-47c0-af9a-9a947656279a",
+    "image_url": "https://image.torob.com/base/images/eJ/Sg/eJSgba2gFhX95WPR.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Wolftrap tactical مدل Tactical Softshell Mont کد 799838177",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Wolftrap tactical"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "Softshell"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "Tactical"
+        ]
+      }
+    ],
+    "random_key": "58c56be0-e28b-48c1-936a-7fc733645c33",
+    "image_url": "https://image.torob.com/base/images/v3/ha/v3haGnE8_mZyblUf.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه ECHOROBA",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ECHOROBA"
+        ]
+      }
+    ],
+    "random_key": "ff4c7e3d-1da1-4f96-a1fa-e9964b4d2dcc",
+    "image_url": "https://image.torob.com/base/images/R6/uz/R6uzKrVibwiHJEf0.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Columbia مدل Steens Mountain Full Zip 20 کد 850534644",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Columbia"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "Full Zip"
+        ]
+      }
+    ],
+    "random_key": "adf0c86b-daf1-4e36-b0f8-cd611c5435ac",
+    "image_url": "https://image.torob.com/base/images/_N/QI/_NQIbt2UY66bdX9_.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ زنانه هیمالیا کد 75303",
+    "group": "زنانه",
+    "product": "بلوز نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      }
+    ],
+    "random_key": "dbcd8310-e3dd-4cc6-b26e-6858781690b2",
+    "image_url": "https://image.torob.com/base/images/8y/u2/8yu2HSMJVXmRf2kN.jpg"
+  },
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال 15007-692A",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن Helly Hansen"
+        ]
+      }
+    ],
+    "random_key": "2be31f57-7602-4be6-b46d-59ca2ac68304",
+    "image_url": "https://image.torob.com/base/images/f_/3z/f_3zG6E36Rl-b8Bm.jpg"
+  },
+  {
+    "title": "بیس لایر زنانه اسنوهاک کد SN-C2146",
+    "group": "زنانه",
+    "product": "بیس لایر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بیس لایر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "اسنوهاک"
+        ]
+      }
+    ],
+    "random_key": "6fe8c4d4-79e7-43fc-a392-2bf1678ed8d1",
+    "image_url": "https://image.torob.com/base/images/cZ/By/cZBy5zVmF9I1h3XP.jpg"
+  },
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال HH..15001 HHA.386",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن Helly Hansen"
+        ]
+      }
+    ],
+    "random_key": "5ea34336-60fe-4c9e-adbc-3412a2bb8f59",
+    "image_url": "https://image.torob.com/base/images/VI/L5/VIL5awNWs1F8I27l.jpg"
+  },
+  {
+    "title": "سافت شل و پلار ورزشی چند رنگ مردانه قطبی شکار مشاهده طبیعت استتار الگوی 500 دکتلون Decathlon",
+    "group": "مردانه",
+    "product": "سافت شل و پلار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سافت شل",
+          "پلار ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "چند رنگ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "طرح",
+        "values": [
+          "استتار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون Decathlon"
+        ]
+      }
+    ],
+    "random_key": "1e084552-f14b-48f3-91e5-bb2f60149c06",
+    "image_url": "https://image.torob.com/base/images/TL/sm/TLsm0eU4dMm_CUim.jpg"
+  },
+  {
+    "title": "پلار تمام زیپ ARCTERYX",
+    "group": "نامشخص",
+    "product": "پلار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "تمام زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ARCTERYX"
+        ]
+      }
+    ],
+    "random_key": "59ba3469-2df2-4aff-8c49-ec3bac3dc960",
+    "image_url": "https://image.torob.com/base/images/n_/e_/n_e_pJR3lLBEArnc.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد159",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "88a45db1-05fc-45a5-ac29-296ca0a53390",
+    "image_url": "https://image.torob.com/base/images/KS/gW/KSgW0sKkwZeHXLUk.jpg"
+  },
+  {
+    "title": "شلوار شلوارک‌شو کوهنوردی مدل 88066، انتخاب هوشمند برای طبیعت‌گردها و آفرودی‌ها",
+    "group": "نامشخص",
+    "product": "شلوار شلوارک شو کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار شلوارک شو کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "19ab18dc-3de4-4aa7-b08e-fb47079a62b3",
+    "image_url": "https://image.torob.com/base/images/SO/59/SO596COThHc_ErSy.webp"
+  },
+  {
+    "title": "سافت شل و پلار ورزشی بنفش زنانه W 100 یخچال قطبی نورث فیس The North Face",
+    "group": "زنانه",
+    "product": "سافت شل و پلار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سافت شل",
+          "پلار ورزشی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "بنفش"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      }
+    ],
+    "random_key": "7bfb36fb-b2da-451b-8cc4-23333f38194a",
+    "image_url": "https://image.torob.com/base/images/sL/JD/sLJDKmOnpEr1rsoO.jpg"
+  },
+  {
+    "title": "بادگیر جک ولفسکین مدل 3268 رنگ سدری، مناسب کوهنوردی، طبیعت‌گردی و استفاده روزمره",
+    "group": "نامشخص",
+    "product": "بادگیر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بادگیر"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جک ولفسکین"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سدری"
+        ]
+      }
+    ],
+    "random_key": "66eb1b38-b9db-428f-a717-d1644d3dd36b",
+    "image_url": "https://image.torob.com/base/images/0Z/LS/0ZLSbRCAkzJ04OnU.webp"
+  },
+  {
+    "title": "بلوزمیکرو نیم زیپ مردانه HIMALAYA 0423",
+    "group": "مردانه",
+    "product": "بلوز میکرو نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز میکرو نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "مردانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "HIMALAYA"
+        ]
+      }
+    ],
+    "random_key": "5dd9be33-0f09-4e08-8c03-239a487d2b38",
+    "image_url": "https://image.torob.com/base/images/ya/-s/ya-s_1FVs0FQqQSe.webp"
+  },
+  {
+    "title": "پانچو کوهنوردی آستین دار ضد اب پشت لاستیکی کره ای 3 رنگ موجود پانچو کوهنوردی کمپسور جا کوله دار",
+    "group": "نامشخص",
+    "product": "پانچو کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کوهنوردی"
+        ]
+      },
+      {
+        "name": "نوع آستین",
+        "values": [
+          "آستین دار"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد آب",
+          "پشت لاستیکی",
+          "جا کوله دار"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "3 رنگ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "کره ای"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کمسور"
+        ]
+      }
+    ],
+    "random_key": "fa7f8968-a9b0-4bbd-9c68-5014fc66cdb5",
+    "image_url": "https://image.torob.com/base/images/W0/L5/W0L5tfApvaekGR1t.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی ORVIS",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ORVIS"
+        ]
+      }
+    ],
+    "random_key": "33b09da0-b4d0-4e92-b38c-32e667b1553d",
+    "image_url": "https://image.torob.com/base/images/Hw/qz/HwqzwHzz3O1-63V9.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه REDFACE",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "REDFACE"
+        ]
+      }
+    ],
+    "random_key": "cbdc21ca-7e10-4a95-bd67-51e4385f568b",
+    "image_url": "https://image.torob.com/base/images/cq/em/cqem8WmeIUU5dk7Y.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه MOUNTAIN EQUIPMENT",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MOUNTAIN EQUIPMENT"
+        ]
+      }
+    ],
+    "random_key": "8e77bb79-c681-4448-b164-aec2063a510f",
+    "image_url": "https://image.torob.com/base/images/UW/kc/UWkcmEh7ihCoH-j8.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه EXTERME SPORTS",
+    "group": "نامشخص",
+    "product": "شلوار ویندستاپر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ویندستاپر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "EXTERME SPORTS"
+        ]
+      }
+    ],
+    "random_key": "9b148de6-1bbd-47fd-bf77-d35b8e8b996a",
+    "image_url": "https://image.torob.com/base/images/fB/0y/fB0yVrM1IQtU_EoT.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه FILA SPORT",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "FILA SPORT"
+        ]
+      }
+    ],
+    "random_key": "061e46da-6d0f-49d0-9e53-8bf9f3702b9b",
+    "image_url": "https://image.torob.com/base/images/Lr/HA/LrHA75DPuCbCKx31.jpg"
+  },
+  {
+    "title": "BESPORTBLE 8 عددی بارانی با کلاه بارانی کودکانه بارانی ضد باد کت و شلوار بارانی پانچو ایزوله کار کت بارانی کوهنوردی پانچوی کوهنوردی کت بارانی کت و شلواری با کلاه زنانه و مردانه - ارسال 20 روز کاری",
+    "group": "کودکانه , زنانه و مردانه",
+    "product": "بارانی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بارانی"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد باد",
+          "ایزوله"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BESPORTBLE"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کت و شلوار بارانی",
+          "پانچو کوهنوردی",
+          "کت بارانی"
+        ]
+      }
+    ],
+    "random_key": "de5e861f-f682-4d1a-825b-7824708c3b7f",
+    "image_url": "https://image.torob.com/base/images/KR/pX/KRpXPQIGi_UpLool.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه MILLET",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MILLET"
+        ]
+      }
+    ],
+    "random_key": "72ade91e-e70d-42dd-804c-b1d30951e50a",
+    "image_url": "https://image.torob.com/base/images/xi/8y/xi8yFgKXIoFToxzv.jpg"
+  },
+  {
+    "title": "ست استتار ناتو‌",
+    "group": "نامشخص",
+    "product": "ست استتار",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "استتار ناتو"
+        ]
+      }
+    ],
+    "random_key": "45f2923a-4eb0-45c3-bd6f-a0626daf00e4",
+    "image_url": "https://image.torob.com/base/images/i4/lM/i4lMVEuoz8JJeM5Q.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Jack wolfskin مدل BAISELBERG FZ M کد 854888776",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Jack wolfskin"
+        ]
+      }
+    ],
+    "random_key": "588ab059-41ea-4c6d-95f9-09c0d9fcd7a4",
+    "image_url": "https://image.torob.com/base/images/7n/KB/7nKBdWguGgNhiHlK.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Quiksilver مدل Ocean View Mix Up Hoody کد 780260202",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Quiksilver"
+        ]
+      }
+    ],
+    "random_key": "807b76b1-7b22-49a5-950c-18c0dab5e7f9",
+    "image_url": "https://image.torob.com/base/images/9T/X1/9TX1qeFVgZRW2oUW.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 147",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "7034a819-e842-4e1d-a5f6-450da223d8af",
+    "image_url": "https://image.torob.com/base/images/Oo/_R/Oo_ROdZgdY4vl0Ed.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه EXTREME",
+    "group": "نامشخص",
+    "product": "شلوار ویندستاپر",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ویندستاپر"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "EXTREME"
+        ]
+      }
+    ],
+    "random_key": "f2992700-bec5-4e19-b503-19505070f49f",
+    "image_url": "https://image.torob.com/base/images/wV/G-/wVG-LHzQqrWgr6Xu.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 25",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "7a70f479-ceda-4202-bb2e-7c27f708ac34",
+    "image_url": "https://image.torob.com/base/images/MH/7M/MH7M7KnXW4Ks6h1i.jpg"
+  },
+  {
+    "title": "بلوز تابستانه کوهنوردی نیم زیپ جیلو",
+    "group": "نامشخص",
+    "product": "بلوز کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز کوهنوردی نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "جیلو"
+        ]
+      }
+    ],
+    "random_key": "e31151a1-9b7e-4f7d-99a7-d16977ccc12a",
+    "image_url": "https://image.torob.com/base/images/Zy/5O/Zy5OQq4jlmti4iNS.jpg"
+  },
+  {
+    "title": "کاپشن تک پوش گورتکس زنانه کایلاس کد KG120146",
+    "group": "زنانه",
+    "product": "کاپشن گورتکس",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن تک پوش گورتکس"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کایلاس"
+        ]
+      }
+    ],
+    "random_key": "de33f7af-543f-4950-a7ee-98be5d456ac7",
+    "image_url": "https://image.torob.com/base/images/wQ/9H/wQ9H_VjZ7P0nzkx6.jpg"
+  },
+  {
+    "title": "بلوز نیم زیپ دورنگ زنانه CW27 هیمالیا",
+    "group": "زنانه",
+    "product": "بلوز",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "بلوز نیم زیپ"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "دورنگ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هیمالیا"
+        ]
+      }
+    ],
+    "random_key": "daea8bb9-7778-4ec4-ac3d-cf729262c759",
+    "image_url": "https://image.torob.com/base/images/RD/jM/RDjMdaqk0MltKGme.jpg"
+  },
+  {
+    "title": "پانچو کوهنوردی موتال مدل SN2017",
+    "group": "نامشخص",
+    "product": "پانچو کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "موتال"
+        ]
+      }
+    ],
+    "random_key": "e2fa7df3-c0f4-4e4c-ac2c-6008df10a016",
+    "image_url": "https://image.torob.com/base/images/Im/V2/ImV26ynJQ4buvtcA.jpg"
+  },
+  {
+    "title": "سافت شل و پلار ورزشی سفید زنانه کت زمستانی قطبی داغ در فضای باز برفی دکتلون Decathlon",
+    "group": "زنانه",
+    "product": "سافت شل و پلار ورزشی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "سافت شل",
+          "پلار",
+          "کت زمستانی"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "سفید"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون Decathlon"
+        ]
+      }
+    ],
+    "random_key": "4d823676-0d42-4e50-8d63-82f1bfdc96f2",
+    "image_url": "https://image.torob.com/base/images/Tf/F0/TfF0kgTLJW5YWB2y.jpg"
+  },
+  {
+    "title": "پولار زنانه نورث فیس The North Face اورجینال NF0A88ZC4QO1TNF.4QO1",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      }
+    ],
+    "random_key": "62439703-625b-4dd9-afd1-175d42fad5d0",
+    "image_url": "https://image.torob.com/base/images/Cr/AO/CrAOjUeoxaB2dsUj.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ بک بیوتی گرم زنانه کلمبیا COLUMBIA WOMEN'S BACK BEAUTY™ HIGHRISE WARM WINTER PANTS",
+    "group": "زنانه",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "زمستان"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "کلمبیا COLUMBIA"
+        ]
+      }
+    ],
+    "random_key": "db4feef3-3a11-4b7a-8420-b6ff9988b160",
+    "image_url": "https://image.torob.com/base/images/Rj/Oj/RjOjBd-huOpN-KAx.jpg"
+  },
+  {
+    "title": "نیم‌زیپ داخل پلار THE NOBLEFACE - استوک ستاره سهیل",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "جنس",
+        "values": [
+          "پلار"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "THE NOBLEFACE"
+        ]
+      }
+    ],
+    "random_key": "9efa8bb5-b306-4b84-a02e-24dbd59aa4a9",
+    "image_url": "https://image.torob.com/base/images/kq/9w/kq9wwvlgJ7SWmKA2.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه میلت MILLET",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "میلت MILLET"
+        ]
+      }
+    ],
+    "random_key": "d60c94d3-7b6d-41a8-8208-9c3615e87a9d",
+    "image_url": "https://image.torob.com/base/images/KI/dC/KIdCTIdqkuBKa-2E.jpg"
+  },
+  {
+    "title": "پولار زنانه نورث فیس The North Face اورجینال NF0A855O1I71MJYH",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      }
+    ],
+    "random_key": "10364fdf-f5de-487d-b7ed-0fb01a006e9c",
+    "image_url": "https://image.torob.com/base/images/xZ/nT/xZnTjSIItTz2eLfy.jpg"
+  },
+  {
+    "title": "پلار کوهنوردی اورجینال برند Columbia کد 855441961",
+    "group": "نامشخص",
+    "product": "پلار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پلار کوهنوردی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "Columbia"
+        ]
+      }
+    ],
+    "random_key": "cb459923-56e4-40c3-87ba-50b51ab219fe",
+    "image_url": "https://image.torob.com/base/images/gv/9m/gv9m3oHq3epgZVQ9.jpg"
+  },
+  {
+    "title": "پولار زنانه نورث فیس The North Face اورجینال NF0A5IHN1461",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      }
+    ],
+    "random_key": "877da29b-e239-4ec8-a6c5-c1a4a2dcbde9",
+    "image_url": "https://image.torob.com/base/images/vY/lM/vYlMQGVt6IjU2qw-.jpg"
+  },
+  {
+    "title": "کاپشن کوهنوردی زنانه آندر آرمور مدل 1257474 kiy 7/9",
+    "group": "زنانه",
+    "product": "کاپشن کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کاپشن کوهنوردی"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "آندر آرمور"
+        ]
+      }
+    ],
+    "random_key": "42b47726-4d7e-4f79-bb7e-a1982e545d82",
+    "image_url": "https://image.torob.com/base/images/f6/mX/f6mX01mdVFEC1DY9.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی تابستانه شلوارک شو CRIVIT",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی",
+          "شلوارک"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "CRIVIT"
+        ]
+      }
+    ],
+    "random_key": "e096c3e5-4f0c-4685-91ed-8ae14dbdf9bb",
+    "image_url": "https://image.torob.com/base/images/fh/9J/fh9JBCmSERa5Rj_9.jpg"
+  },
+  {
+    "title": "پولار زنانه هلی هانسن Helly Hansen اورجینال f868-25035",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "هلی هانسن Helly Hansen"
+        ]
+      }
+    ],
+    "random_key": "15fa8073-85f5-43a4-8c7a-6ee88501b6c1",
+    "image_url": "https://image.torob.com/base/images/pg/Wm/pgWm17gP3Bm5eqO3.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه MILLET",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      },
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MILLET"
+        ]
+      }
+    ],
+    "random_key": "243532f4-beec-49ce-85a0-79c8004b31bd",
+    "image_url": "https://image.torob.com/base/images/lp/B5/lpB5uSX7jOM59kZe.jpg"
+  },
+  {
+    "title": "پولار زنانه نورث فیس The North Face اورجینال NF0A82D1JK31",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      }
+    ],
+    "random_key": "1ee8dc31-60b6-45f5-b21b-b7921342c653",
+    "image_url": "https://image.torob.com/base/images/Y8/U2/Y8U29NH4rIcC7gBs.jpg"
+  },
+  {
+    "title": "پانچو ادونچر",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "ادونچر"
+        ]
+      }
+    ],
+    "random_key": "fba72834-c362-469b-aa08-dd04c4783793",
+    "image_url": "https://image.torob.com/base/images/i9/KO/i9KOYJsHFpLGfDc6.jpg"
+  },
+  {
+    "title": "شلوار اسپرت طرح bulls رنگ نوک مدادي رابو Raboo",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "طرح bulls"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "نوک مدادی"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "رابو Raboo"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار اسپرت"
+        ]
+      }
+    ],
+    "random_key": "cfc50bc4-328c-43b1-b7e6-6f99e485c073",
+    "image_url": "https://image.torob.com/base/images/EY/gw/EYgwU1Wz2Rtf5TGM.jpg"
+  },
+  {
+    "title": "نیم زیپ تابستانه LAKIA",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "تابستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "LAKIA"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "8752a94e-2b56-462d-961b-83b3a1b567c1",
+    "image_url": "https://image.torob.com/base/images/eC/L_/eCL_ffqTE07Dst6X.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی وینداستاپر زنانه",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "وینداستاپر"
+        ]
+      },
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "95c5c5e9-64c8-4348-8b9c-25186a271e3d",
+    "image_url": "https://image.torob.com/base/images/vY/T3/vYT3PNxhUBH0rBFs.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی کد 80",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "5e83f41a-ab90-43f4-9db9-290e7b10dd1f",
+    "image_url": "https://image.torob.com/base/images/m2/Tx/m2TxuN40FCONJBqc.jpg"
+  },
+  {
+    "title": "شلوار کوهنوردی و ترکینگ MT1011",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی و ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "b02d8d9f-8e11-4c40-b7e2-af3a303fbcab",
+    "image_url": "https://image.torob.com/base/images/ao/ES/aoES7RnSe7b1BEQ_.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه BLACKYAK",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "BLACKYAK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "3bb2ae09-ef50-4bf2-94d0-95fe932aec1b",
+    "image_url": "https://image.torob.com/base/images/ct/Hp/ctHpvTfvHCQMxKzG.jpg"
+  },
+  {
+    "title": "شلوار ویندستاپر زمستانه MILLET",
+    "group": "نامشخص",
+    "product": "شلوار",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "MILLET"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ویندستاپر"
+        ]
+      }
+    ],
+    "random_key": "0157477b-8128-4809-84c3-87b98894ef49",
+    "image_url": "https://image.torob.com/base/images/qk/E7/qkE75Zt6h2mUM1Dv.jpg"
+  },
+  {
+    "title": "شلوار ضد آب کوهنوردی",
+    "group": "نامشخص",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "ضد آب"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "b1e129df-c8d5-4962-aea8-9e90c4f86b0f",
+    "image_url": "https://image.torob.com/base/images/1u/Kw/1uKwQuwh8wwqJCgu.jpg"
+  },
+  {
+    "title": "پیراهن طبیعت گردی و کوهنوردی طرح MILLET",
+    "group": "نامشخص",
+    "product": "پیراهن",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "MILLET"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پیراهن طبیعت گردی و کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "e99bc3ac-0fbe-4d60-8fd0-20d6eff24318",
+    "image_url": "https://image.torob.com/base/images/xO/I3/xOI3kGIUWw2OVdAg.jpg"
+  },
+  {
+    "title": "پلار تمام زیپ KOMONT",
+    "group": "نامشخص",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "نوع بسته شدن",
+        "values": [
+          "تمام زیپ"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KOMONT"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پشمی"
+        ]
+      }
+    ],
+    "random_key": "854d3f0d-9078-44f0-a2dc-277d9a37123a",
+    "image_url": "https://image.torob.com/base/images/e0/a0/e0a0ymfPO7TTMIaw.jpg"
+  },
+  {
+    "title": "کلاه خلبانی طرح استتار خز دار",
+    "group": "نامشخص",
+    "product": "کلاه",
+    "entities": [
+      {
+        "name": "طرح",
+        "values": [
+          "استتار خز دار"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "کلاه خلبانی"
+        ]
+      }
+    ],
+    "random_key": "957fdfa5-bcb3-4c61-90da-164c41491ec4",
+    "image_url": "https://image.torob.com/base/images/Vc/7c/Vc7cL5PJeGqbALjv.jpg"
+  },
+  {
+    "title": "نیم زیپ زمستانه KOLPING",
+    "group": "نامشخص",
+    "product": "نیم زیپ",
+    "entities": [
+      {
+        "name": "فصل",
+        "values": [
+          "زمستانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KOLPING"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "نیم زیپ"
+        ]
+      }
+    ],
+    "random_key": "96272313-6e1d-4062-82dc-735df93d7545",
+    "image_url": "https://image.torob.com/base/images/Ll/4Y/Ll4Yn6aZl2VdVKeT.jpg"
+  },
+  {
+    "title": "پانچو کوهنوردی دکتلون / SOLOGNAC – مدل Glenarm / مشکی",
+    "group": "نامشخص",
+    "product": "پانچو",
+    "entities": [
+      {
+        "name": "برند",
+        "values": [
+          "دکتلون",
+          "SOLOGNAC"
+        ]
+      },
+      {
+        "name": "رنگ",
+        "values": [
+          "مشکی"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پانچو کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "bb82c6be-ce22-41e0-8e92-bf1341f533b5",
+    "image_url": "https://image.torob.com/base/images/32/tp/32tpfa71-Nvc2HQh.jpg"
+  },
+  {
+    "title": "شلوار زنانه کوهنوردی سایز48 دور کمر104 دارای بند تنظیم کمر و دم پا.محصول بنگلادش",
+    "group": "زنانه",
+    "product": "شلوار کوهنوردی",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "سایز",
+        "values": [
+          "48",
+          "دور کمر 104"
+        ]
+      },
+      {
+        "name": "ویژگی ها",
+        "values": [
+          "بند تنظیم کمر",
+          "دم پا"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار زنانه کوهنوردی"
+        ]
+      }
+    ],
+    "random_key": "0450e272-0350-4c7a-a136-504d4d5dd968",
+    "image_url": "https://image.torob.com/base/images/AC/mX/ACmXhF7Zbpi7URT0.jpg"
+  },
+  {
+    "title": "پولار زنانه نورث فیس The North Face اورجینال NF0A855M",
+    "group": "زنانه",
+    "product": "پولار",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "نورث فیس The North Face"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "پولار"
+        ]
+      }
+    ],
+    "random_key": "5968ee12-49c7-499b-a63c-5a58906bcf09",
+    "image_url": "https://image.torob.com/base/images/ma/Yc/maYcHJRaW4iothNJ.jpg"
+  },
+  {
+    "title": "شلوار ترکینگ زنونه برند KESIK",
+    "group": "زنانه",
+    "product": "شلوار ترکینگ",
+    "entities": [
+      {
+        "name": "جنسیت",
+        "values": [
+          "زنانه"
+        ]
+      },
+      {
+        "name": "برند",
+        "values": [
+          "KESIK"
+        ]
+      },
+      {
+        "name": "نوع کلی",
+        "values": [
+          "شلوار ترکینگ"
+        ]
+      }
+    ],
+    "random_key": "14518248-9bc2-4472-8860-74296eba468b",
+    "image_url": "https://image.torob.com/base/images/aG/kL/aGkLCuHDze3CxLfL.jpg"
+  }
+]
