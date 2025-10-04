@@ -1,0 +1,75 @@
+Dataset Data Type Analysis
+Generated on: 2025-10-04 17:26:31
+Data folder: /home/sherin/Image_Captioning/eda_project/data
+============================================================
+
+
+==================================================
+DATA TYPE ANALYSIS
+==================================================
+Analyzing data types for 6 columns...
+Sample size: 1000 entries (for type inference)
+
+Column: 'title'
+  Primary type: str
+  All same type: True
+  Unique types found: ['str']
+  Null values: 0/1000 (0.0%)
+  String length - Min: 8, Max: 161, Avg: 44.2
+  Sample values: ['اتمام موجودی ست دونفره میترا- ست زوج-ست کاپل- مانتو پیچازی- شلوار مردانه-ست زن و شوهر-ست خانم و آقا -تیپ بروز', 'تیشرت ست تو مرا گنج جهانی', 'بلوز شلوار گلدوزی تامی مردانه']
+
+Column: 'group'
+  Primary type: str
+  All same type: True
+  Unique types found: ['str']
+  Null values: 0/1000 (0.0%)
+  String length - Min: 3, Max: 31, Avg: 6.5
+  Sample values: ['زنانه و مردانه', 'نامشخص', 'مردانه']
+
+Column: 'product'
+  Primary type: str
+  All same type: True
+  Unique types found: ['str']
+  Null values: 0/1000 (0.0%)
+  String length - Min: 2, Max: 35, Avg: 12.8
+  Sample values: ['ست دونفره میترا', 'تیشرت ست', 'بلوز شلوار']
+
+Column: 'entities'
+  Primary type: list
+  All same type: True
+  Unique types found: ['list']
+  Null values: 0/1000 (0.0%)
+  List length - Min: 0, Max: 6, Avg: 2.4
+  List of dictionaries: 977/1000 (97.7%)
+  Dictionary keys in lists: ['name', 'values']
+  Sample values: [[{'name': 'نوع کلی', 'values': ['ست دونفره', 'ست زوج', 'ست کاپل', 'ست زن و شوهر', 'ست خانم و آقا']}, {'name': 'نوع پوشاک', 'values': ['مانتو', 'شلوار']}, {'name': 'طرح', 'values': ['پیچازی']}], [{'name': 'نوع پوشاک', 'values': ['تیشرت']}, {'name': 'طرح', 'values': ['تو مرا گنج جهانی']}], [{'name': 'نوع پوشاک', 'values': ['بلوز شلوار']}, {'name': 'ویژگی ها', 'values': ['گلدوزی']}, {'name': 'برند', 'values': ['تامی']}]]
+
+Column: 'random_key'
+  Primary type: str
+  All same type: True
+  Unique types found: ['str']
+  Null values: 0/1000 (0.0%)
+  String length - Min: 36, Max: 36, Avg: 36.0
+  UUID-like strings: 1000/1000 (100.0%)
+  Sample values: ['da9f7dcb-9c88-4592-9a95-f2f838b24bd6', '2869cf74-5654-4b05-9c50-4fe9e364bd6f', 'a44ce944-5fa4-484f-b57f-70dc2e2e9488']
+
+Column: 'image_url'
+  Primary type: str
+  All same type: True
+  Unique types found: ['str']
+  Null values: 0/1000 (0.0%)
+  String length - Min: 62, Max: 63, Avg: 62.1
+  URL-like strings: 1000/1000 (100.0%)
+  Sample values: ['https://image.torob.com/base/images/U2/i7/U2i7anFx6PgF_GdL.jpg', 'https://image.torob.com/base/images/Gj/lJ/GjlJ6IPv7JV7HmFY.webp', 'https://image.torob.com/base/images/Dr/vK/DrvKb-tZmq6T8GZf.jpg']
+
+============================================================
+DATA TYPE SUMMARY
+============================================================
+title: str (consistent: True, nulls: 0.0%)
+group: str (consistent: True, nulls: 0.0%)
+product: str (consistent: True, nulls: 0.0%)
+entities: list (consistent: True, nulls: 0.0%)
+random_key: str (consistent: True, nulls: 0.0%)
+image_url: str (consistent: True, nulls: 0.0%)
+
+Data type analysis completed successfully.

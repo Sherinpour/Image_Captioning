@@ -1,0 +1,54 @@
+Comprehensive EDA Analysis Report
+Generated on: 2025-10-04 17:44:56
+Dataset: entities_dataset_v2
+================================================================================
+
+================================================================================
+COMPREHENSIVE STATISTICAL ANALYSIS
+================================================================================
+
+📊 DATASET OVERVIEW
+Shape: 378,341 rows × 9 columns
+Memory Usage: 299.69 MB
+Data Types: {dtype('O'): np.int64(9)}
+
+🔍 MISSING VALUES ANALYSIS
+              Missing Count  Missing Percentage
+gender               334343           88.370808
+persian_name         109467           28.933422
+brand                 66011           17.447488
+
+📋 COLUMN ANALYSIS
+
+title:
+  Type: object
+  Unique values: 338,479
+  Missing: 0 (0.0%)
+  String length - Min: 2, Max: 950, Avg: 42.2
+  Most frequent values:
+    'محصولات مرتبط': 122 (0.0%)
+    'تیشرت زنانه mango': 118 (0.0%)
+    'پیراهن زنانه mango': 87 (0.0%)
+
+group:
+  Type: object
+  Unique values: 1,796
+  Missing: 0 (0.0%)
+  String length - Min: 1, Max: 67, Avg: 6.1
+  Most frequent values:
+    'نامشخص': 173,925 (46.0%)
+    'زنانه': 86,110 (22.8%)
+    'مردانه': 81,524 (21.5%)
+
+product:
+  Type: object
+  Unique values: 55,024
+  Missing: 0 (0.0%)
+  String length - Min: 1, Max: 117, Avg: 10.1
+  Most frequent values:
+    'پیراهن': 20,711 (5.5%)
+    'کفش': 10,022 (2.6%)
+    'تیشرت': 7,666 (2.0%)
+
+entities:
+  Type: object
