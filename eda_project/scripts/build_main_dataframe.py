@@ -55,14 +55,18 @@ def normalize_records_to_dataframe(records: Iterable[Dict[str, Any]]) -> pd.Data
         if col not in df.columns:
             df[col] = pd.NA
     # Reorder to put required columns first
-    ordered_cols = REQUIRED_COLUMNS + [c for c in df.columns if c not in REQUIRED_COLUMNS]
+    ordered_cols = REQUIRED_COLUMNS + [
+        c for c in df.columns if c not in REQUIRED_COLUMNS
+    ]
     return df[ordered_cols]
 
 
 def validate_required_columns(df: pd.DataFrame) -> None:
     missing_cols = [c for c in REQUIRED_COLUMNS if c not in df.columns]
     if missing_cols:
-        raise ValueError(f"Missing required columns after normalization: {missing_cols}")
+        raise ValueError(
+            f"Missing required columns after normalization: {missing_cols}"
+        )
 
     # Optionally check for rows with nulls in required fields
     null_counts = df[REQUIRED_COLUMNS].isna().sum()
@@ -70,7 +74,9 @@ def validate_required_columns(df: pd.DataFrame) -> None:
     sys.stderr.write(f"Nulls in required columns:\n{null_counts.to_dict()}\n")
 
 
-def build_dataframe(input_dir: Path, pattern: str = "*_entities_dataset_v2.json") -> pd.DataFrame:
+def build_dataframe(
+    input_dir: Path, pattern: str = "*_entities_dataset_v2.json"
+) -> pd.DataFrame:
     files = sorted(input_dir.rglob(pattern))
     if not files:
         raise FileNotFoundError(f"No files matched pattern '{pattern}' in {input_dir}")
@@ -80,7 +86,9 @@ def build_dataframe(input_dir: Path, pattern: str = "*_entities_dataset_v2.json"
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Build main entities DataFrame from JSON shards")
+    parser = argparse.ArgumentParser(
+        description="Build main entities DataFrame from JSON shards"
+    )
     parser.add_argument(
         "--input-dir",
         type=Path,
@@ -90,15 +98,12 @@ def main() -> None:
     parser.add_argument(
         "--output-csv",
         type=Path,
-        default=Path(__file__).resolve().parent.parent / "data" / "main_entities_dataframe.csv",
+        default=Path(__file__).resolve().parent.parent
+        / "data"
+        / "main_entities_dataframe.csv",
         help="Path to write combined CSV",
     )
-    parser.add_argument(
-        "--output-parquet",
-        type=Path,
-        default=Path(__file__).resolve().parent.parent / "data" / "main_entities_dataframe.parquet",
-        help="Path to write combined Parquet",
-    )
+
     parser.add_argument(
         "--pattern",
         type=str,
@@ -112,22 +117,15 @@ def main() -> None:
     # Save outputs
     args.output_csv.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(args.output_csv, index=False)
-    try:
-        df.to_parquet(args.output_parquet, index=False)
-    except Exception as exc:
-        sys.stderr.write(f"Warning: failed to write parquet: {exc}\n")
 
     print(
         {
             "rows": len(df),
             "cols": len(df.columns),
             "csv": str(args.output_csv),
-            "parquet": str(args.output_parquet),
         }
     )
 
 
 if __name__ == "__main__":
     main()
-
-
