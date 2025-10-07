@@ -125,6 +125,53 @@ def normalize_persian(text: str) -> str:
     return s
 
 
+def shape_rtl_text(text: str) -> str:
+    """Shape Persian/Arabic text for correct display in Matplotlib.
+
+    Falls back to the original string if dependencies are unavailable.
+    """
+    if not isinstance(text, str):
+        return ""
+    try:
+        import arabic_reshaper
+        from bidi.algorithm import get_display
+
+        reshaped = arabic_reshaper.reshape(text)
+        return get_display(reshaped)
+    except Exception:
+        return text
+
+
+def configure_matplotlib_fonts() -> None:
+    """Configure Matplotlib to use a font that supports Persian glyphs.
+
+    Tries a list of common fonts; falls back to DejaVu Sans if available.
+    """
+    try:
+        import matplotlib
+        from matplotlib import font_manager
+
+        candidate_fonts = [
+            "Vazirmatn",
+            "Vazir",
+            "Sahel",
+            "Noto Naskh Arabic",
+            "Noto Sans Arabic",
+            "XB Zar",
+            "DejaVu Sans",
+        ]
+        for name in candidate_fonts:
+            try:
+                _ = font_manager.findfont(name, fallback_to_default=False)
+                matplotlib.rcParams["font.family"] = name
+                matplotlib.rcParams["axes.unicode_minus"] = False
+                break
+            except Exception:
+                continue
+    except Exception:
+        pass
+
+
 DEFAULT_STOPWORDS = {
     # Common Persian/Arabic stopwords (minimal, extend as needed)
     "و",
@@ -222,6 +269,7 @@ def save_heatmap(corr: pd.DataFrame, out_path: Path) -> Optional[Path]:
     import matplotlib.pyplot as plt
     import seaborn as sns
 
+    configure_matplotlib_fonts()
     plt.figure(figsize=(10, 8))
     sns.heatmap(corr, annot=False, cmap="coolwarm", linewidths=0.5)
     plt.tight_layout()
@@ -238,10 +286,18 @@ def save_barplot(
     import matplotlib.pyplot as plt
     import seaborn as sns
 
-    plt.figure(figsize=(12, 6))
-    sns.barplot(data=counts, x=x_col, y=y_col, color="#4C78A8")
+    configure_matplotlib_fonts()
+    # Shape RTL labels and draw horizontal bars for readability
+    shaped = counts.copy()
+    if "value" in shaped.columns:
+        shaped["value"] = shaped["value"].astype(str).map(shape_rtl_text)
+
+    height = max(6, 0.45 * len(shaped))
+    plt.figure(figsize=(12, height))
+    sns.barplot(data=shaped, x="count", y="value", color="#4C78A8", orient="h")
     plt.title(title)
-    plt.xticks(rotation=60, ha="right")
+    plt.xlabel("Count")
+    plt.ylabel("")
     plt.tight_layout()
     plt.savefig(out_path, dpi=150)
     plt.close()
